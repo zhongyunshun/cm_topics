@@ -1,0 +1,398 @@
+﻿
+Article
+Study on Resilience Evaluation for Construction Management of Major Railway Projects
+Wenchao Jiang 1, Xi Zhao 2, Chaoxun Cai 3,*, Kai Chang 3, Kai Liu 2 and Yuming Liu 2
+    
+
+Citation: Jiang, W.; Zhao, X.; Cai, C.;
+Chang, K.; Liu, K.; Liu, Y. Study on
+Resilience Evaluation for
+Construction Management of Major Railway Projects. Buildings 2024, 14, 732. https://doi.org/10.3390/ buildings14030732
+Academic Editors: Derek Clements-Croome and Paulo Santos
+Received: 27 January 2024
+Revised: 29 February 2024
+Accepted: 6 March 2024
+Published: 8 March 2024
+
+Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/
+4.0/).
+1 State Key Laboratory for Track Technology of High-Speed Railway, Beijing 100081, China; 13810715250@163.com
+2 School of Economics and Management, Beijing Jiaotong University, Beijing 100044, China;
+20113062@bjtu.edu.cn (X.Z.); kailiuyy@bjtu.edu.cn (K.L.); ymliu@bjtu.edu.cn (Y.L.)
+3 Railway Engineering Research Institute, China Academy of Railway Sciences Corporation Limited, Beijing 100081, China; 18513583648@163.com
+*	Correspondence: q15515267015@gmail.com
+Abstract: The construction of major railway projects poses significant risks, which present considerable challenges to construction management. To accurately assess the level of construction management for these projects, this study incorporated resilience theory into the field. The grounded theory method was utilized to establish a resilience evaluation indicator system for managing a major railway project construction. Additionally, a resilience evaluation model based on the Analytic Hierarchy Process (AHP) and fuzzy comprehensive evaluation method was proposed. This model was applied to evaluate the construction management resilience of a major railway project located in the mountainous region of southwest China. The results indicated that the project exhibits a very high overall level of construction management resilience. Specifically, it demonstrates high levels of ability to monitor and warn, an ability to resist absorption, and an ability to respond to emergencies. Additionally, it showcases high levels of ability to recover and rebuild, and an ability to learn to adapt. The evaluation results were consistent with the actual situation and verified the correctness and reliability of the method. Based on the aforementioned research findings, this paper puts forward recommendations on material redundancy and resource security from a resource perspective, and suggestions on organizational optimization and personnel capacity improvement from a subject perspective, thus indicating directions for enhancing the management level of major engineering railway constructions.
+Keywords: construction management resilience; major railway; evaluation model; empirical study
+    
+
+Buildings 2024, 14, 732. https://doi.org/10.3390/buildings14030732	https://www.mdpi.com/journal/buildings
+advance to control and mitigate damage caused by disasters within an acceptable range. However, major railway projects differ significantly from general engineering and construction projects. The natural environment in which major railway projects are undertaken possesses multiple high-energy characteristics, and our understanding of it is still not comprehensive enough [8,9]. This implies that further improvement is needed in our comprehension of natural environmental conditions, potential risk factors, and interactions faced by the project. Particularly, interactions with construction activities may give rise to various hidden hazards that are difficult to accurately portray and predict using traditional risk management methods.
+    In contrast to the traditional risk management concept, crisis management under the resilience perspective emphasizes the adaptability and sustainable development of the engineering construction system during crises. The objective is to enhance the system’s resilience capabilities in the face of shocks, ensuring uninterrupted and stable engineering and construction activities without breaching the system’s resilience threshold [10]. As shown in Table 1. Therefore, this study aims to introduce resilience theory into the construction management of significant railway projects, facilitating the shift in project management philosophy from risk control to risk adaptation. Building upon an analysis of the composition of construction management for major railway projects and a comprehensive understanding of resilience management in existing projects, the study proposes that the core concept of resilience in construction management is the system’s ability to prevent, absorb, adapt to, and recover from risk impacts. This allows the construction management system to maintain its characteristics, functions, and operational modes, even exceeding its pre-impact state. Furthermore, this paper integrates the Analytic Hierarchy Process (AHP) and the fuzzy comprehensive evaluation (FCE) method to develop a systematic and comprehensive resilience assessment system for major railway construction project management. It also proposes targeted recommendations for improvement, enhancing the adaptability and sustainability of the construction project system in dealing with explicit and implicit risk impacts. This aligns with the management needs of major railway construction project systems and bears significant theoretical research significance and practical application value.
+Table 1. The difference between traditional risk management and resilience management.
+ApproachesAdvantagesDisadvantagesTraditional Risk ManagementWhen engineering project uncertainty is low,
+engineering construction risks can often be accurately
+identified, controlled, and even avoided.When engineering project uncertainty is high,
+engineering construction risks often exceed cognition and are difficult to accurately identify.Resilience ManagementWhen engineering project uncertainty is high, the
+improvement of system
+resilience can help it adapt,
+recover, and even surpass its own steady state during the shock of unknown risks.  When engineering project uncertainty is low, the system may not suffer shocks, and
+excessive resilience will cause a large waste of resources.    The remainder of this paper is organized as follows. Section 2 reviews the related literature. Section 3 proposes a resilience evaluation indicator system for the construction management of major railway projects. Section 4 constructs a resilience evaluation model for major railway construction management. Section 5 conducts an empirical analysis based on the model. Section 6 discusses the results. Finally, Section 7 presents the conclusions, recommendations for resilience enhancement, and the limitations of this study.
+2. Literature Review
+2.1. Engineering Resilience
+    The concept of engineering resilience has its origins in ecological resilience [11], and has since been adopted by scholars in the field of engineering construction management. In this context, robustness can be seen as synonymous with engineering resilience [12]. The core principle of engineering resilience is to enable major engineering or infrastructure systems to maintain their core functions in the face of internal or external shocks or conflicts, and to recover quickly from unforeseen crises [13,14]. Key elements of engineering resilience include monitoring and warning capabilities, resistance to absorption, recovery and reconstruction, and adaptive learning in major projects [15]. Bruneau et al. developed a framework for resilience capabilities that includes robustness, resourcefulness, redundancy, and rapidity [16]. Li and Lence highlighted the importance of engineering resilience in the context of water resource systems, specifically the ability to recover from failure and return to a safe state [17]. Building on the 4R framework of resilience developed by Bruneau et al., a resilience capacity triangle model was proposed that consists of absorptive capacity, adaptive capacity, and recoverability [12]. Vugrin et al. focused on the ability to restore engineering resilience after a disturbance, acknowledging that certain crises cannot be avoided in the current environment [18]. Therefore, resilience emphasizes the development of flexibility and adaptability in critical engineering and infrastructure systems in order to maintain minimal functionality during crises, and to recover as quickly as possible afterwards. The introduction of this concept has led to a shift in the critical infrastructure industry, moving from an attitude of simply protecting critical infrastructure to actively improving its resilience [19,20].
+2.2. Resilience Evaluation
+    With the increasing research on the meaning and conceptual framework of resilience in major infrastructure engineering, quantifying engineering resilience and evaluating the level of system engineering resilience has become a focal point for researchers. Resilience evaluation research stems from well-established risk assessment research, but there are clear differences between the two. Risk assessment is a common method for quantifying potential risks and reducing their occurrence, focusing on measuring the potential losses to the system [21]. In contrast, resilience evaluation emphasizes measuring the system’s ability to withstand and recover from adaptive disturbances [22–24]. Major infrastructure projects, as complex adaptive systems, are characterized by significant complexity and uncertainty. Under the influence of internal and external disturbances, system losses are difficult to avoid, which is precisely the challenge that resilience evaluation addresses. In terms of the time dimension, resilience evaluation focuses more on the timing of resilience activities rather than analyzing the entire process of risk occurrence as in risk assessment studies. For example, it involves reconfiguring the organizational structure and resources to cope with the impact of internal and external disturbances within the system. Additionally, conducting regular internal vulnerability analyses of the system is crucial for cultivating the system’s adaptive capacity and enhancing its resilience [25–28].
+    Existing resilience evaluations of major infrastructure projects have mainly been conducted from two perspectives: the single dimension and the network dimension. Evaluations from a unidimensional perspective focus on a specific major infrastructure project, identifying weak points within the system to improve reliability and reduce vulnerability by assessing the resilience level of that particular infrastructure [29,30]. Resilience evaluations from a network dimension perspective are concentrated in the field of urban resilience. The research primarily focuses on evaluating the importance and interconnectivity of each infrastructure node within the resilience network composed of multiple lifeline infrastructure projects. This provides a basis for enhancing the resilience of the infrastructure network and proposing strategies to improve the resilience of lifeline infrastructure systems [31,32].
+    Regarding resilience assessment methods, existing mainstream methods can be categorized into three types: qualitative, quantitative, and a combination of both. Qualitative research mainly employs conceptual framework modeling, constructing models based on relevant literature and works in the field of resilience. This approach effectively elucidates the correlation and relationship between system resilience and key internal elements at a macro level [33]. The data involved in this method are typically textual, and are thus less costly. However, due to the lack of data information, it is challenging to accurately describe the changes in internal parameters of technical systems. Empirical analysis is another popular qualitative assessment method, constructing qualitative indicators based on the practical experience of typical engineering projects to evaluate the resilience of infrastructure [34,35]. Researchers using this method often have close cooperation with the construction and construction units of the engineering projects they study, allowing them to accurately refine resilience indicators and effectively and realistically assess the resilience level of projects. However, this method tends to focus on a specific engineering project, and its evaluation results may lack universality. Quantitative research on resilience assessment mainly utilizes tools such as Bayesian networks [36,37], Monte Carlo simulation [38,39], machine learning, and nonlinear dynamic analysis based on the OpenSees platform [40–42]. These tools are used to simulate the characteristics and behavior of the system for nonlinear dynamic analysis to assess the system resilience [43,44]. Quantitative research methods significantly improve the accuracy and reliability of resilience assessments by conducting various predictive simulation experiments based on a large dataset of infrastructure system structural properties and impact actions and selecting the most effective models. The main challenges of this approach lie in the complexity of the models, the time-consuming model construction and simulation processes, and the demand for a large amount of technical, managerial, and organizational data. Finally, the method combining qualitative and quantitative assessments of resilience has become increasingly popular in recent years. These methods involve assigning indicators representing resilience based on the nature of the system and its operating conditions and calculating the resilience index using a weighted average [45]. This approach combines a large amount of objective data and expert experience from relevant fields, yielding scientifically reasonable results with moderate implementation difficulty, but it also has its limitations. Indicator construction may be limited by historical data, and expert assessments as a significant source of data may introduce considerable subjectivity.
+3. Resilience Evaluation Indicator System for Major Railway Project Construction Management
+3.1. Methodology for the Selection of Evaluation Indicators
+    The resilience of major railway project construction management is a comprehensive and complex concept characterized by dynamism and evolution. Relying solely on statistical research techniques can lead to the exclusion of qualitative data and overlook hidden details. To address this, this study employed the semi-structured field interview method to collect qualitative data from various stakeholders involved in major railway projects, including owners, constructors, designers, and supervisors. Grounded theory research was then utilized to analyze the qualitative material, aiming to clarify, illustrate, and systematize the resilience of construction management iteratively and deductively in major railway projects. The objective was to enhance the evaluation system for resilience in major railway construction management based on the field-collected data.
+    The data collection process spanned 17 months and involved multiple symposiums with each respondent from major railway project owners, construction units, and scientific research units. These symposiums addressed the topics outlined in the interview guide, as well as the actual situation of the projects. Following the completion of the interviews, audio and video recordings were transcribed into written materials, resulting in a total of 40 interview memos. A random selection of 30 memos was chosen for coding analysis, while the remaining 10 were used to test theoretical saturation.
+3.2. Determination of Evaluation Indicators
+    This research was based on the analysis of 40 interview transcripts and incorporates existing literature resources, such as journals, dissertations, newspapers, and monographs, from both domestic and international sources. The objective was to identify the key factors that influence major railway project construction management or construction management resilience. During the coding process, relevant literature was consulted to assign names and definitions to these factors [46–49]. The interview records, totaling 50,000 words, were analyzed using Nvivo 11 software, which employed open coding, axial coding, and selective coding techniques. Initially, initial concepts were extracted and refined from the organized interview records, resulting in 23 categories. Subsequently, utilizing the coding feature of Nvivo 11, these 23 concept categories were classified based on their inherent connections, leading to the identification of 12 main categories. Through repeated discussions and debates, employing the steps of selective coding, including outlining storylines, describing primary and secondary categories along with their relevant dimensional attributes, and establishing connections between core and other categories, five core categories were ultimately determined. Table 2 summarizes these core categories and their definitions regarding the influential factors of major railway project construction management resilience. Subsequently, the remaining 10 interview records underwent independent coding, which did not introduce any new concepts or categories, thereby satisfying the requirements for theoretical saturation testing.
+Table 2. Encoding of factors influencing resilience of major railway construction management.
+
+Core Categories	Concept Description	Main Category	Category
+During the construction of major railway projects,
+advanced and reliable technological methods, such as	Occupational big data, cloud computing, sensors, and intelligent	health and
+  terminals, are employed to gather information on	safety management construction safety, ecological environment, geological	
+                                                     Shock Monitoring	Construction hazards, and occupational health risks and hazards.
+	Dynamic tracking and monitoring activities are	environment and
+   Ability to	conducted to proactively identify and monitor potential	water protection monitor	risks before they have a significant impact, thereby	monitoring early warning	providing valuable support for risk analysis.	and inspection
+Additionally, a well-established risk assessment system is implemented, utilizing the monitoring data collected on-site to conduct comprehensive analysis and
+evaluation. With the aid of a risk warning platform, modern information technology is utilized to intelligently disseminate safety warnings.Material security monitoring and inspectionInformation Processing  Processing and analysis of various types of
+monitoring dataShock Warning Early warning platforms and mechanismsTable 2. Cont.
+Core CategoriesConcept DescriptionMain CategoryCategoryOn one hand, the ability to resist absorption refers to the system’s capacity to promptly develop emergency plansShock Resistance     Rapid decision-making response and
+organizational mechanisms   Ability to resist absorptionmajor internal or external risks. This involves
+mobilizing all departments to respond to the emergency, coordinating the deployment of personnel and
+resources, and collaborating with external organizations
+to collectively address the situation. On the other hand, it pertains to the capability of ongoing constructionOccupational health protection facilities
+and medical personnel
+On-site redundancy of key construction equipmentand issue command instructions upon the occurrence of
+	activities, as well as the equipment and facilities on-site,	
+                                                    Shock Absorption Repair and to withstand risk impacts and prevent or minimize
+	casualties and property damage. It also encompasses	maintenance of large
+	the system’s ability to sustain its construction functions	machinery
+	and mitigate losses in the face of regular risk events.	and equipment
+Redundant stockpiles of important key materialsEmergency organization Emergency rescue leadership team and rescue team	In order to cope with the extremely high-risk challenges	Emergency plan and
+	faced by the construction management of major railway	emergency response
+ respond to emergenciesstrengthened through the construction of hardware and software rescue facilities and equipment, with the ability to enter, rescue, transport, and treat after a disaster occurs.Emergency Management Three-tier emergency medical treatment and transportation systemsEmergency Facilities and MaterialsEmergency rescue equipment configuration	Ability to	projects, the construction site and rescue bases are
+Rapid restoration of key equipment or rapid arrival at the site
+
+                                                      Resource Recovery	Rapid restoration of After the occurrence of risk impact, the ability to quickly	construction roads, mobilize engineering machinery and equipment and	power and
+Ability to recover	materials to arrive at the construction site, quickly clean	communication and rebuild	up the construction site, and quickly restore the damaged engineering entity.
+Engineering Recovery	Rapid resumption of normal
+construction activities
+
+                                                                              Summarizing and After a shock occurs, through summarizing, refining,	improving experience and reflecting on the practical experience of coping with	and learning exchange
+Ability to adapt to learningother risky shock coping experiences and relevant
+theories, it optimizes the organizational structure and operational mechanism, and trains field staff in crisis
+cognition and shock-handling ability, so as to enhance the system’s overall ability to cope with shocks and adapt to changes in the external environment.Organization and performance of emergency drillsAdaptation     Plateau acclimatization and technical training	risky shocks, and drawing on the lessons learned from	Lessons Learned
+3.3. Indicator System for Resilience Evaluation
+    By summarizing and refining the influencing factors of construction management resilience through grounded theoretical research methods, the resilience evaluation indicator system of major railway project construction management was formed as shown in Figure 1.
+
+Figure 1. Resilience evaluation indicator system of major railway project construction management.
+4. Resilience Evaluation Model for Major Railway Construction Management
+4.1. Calculation of Evaluation Indicator Weights
+    This study used the AHP to determine the weights of indicators. AHP first hierarchizes a problem, decomposes it into different constituent factors according to the nature of the problem and the overall goal to be achieved, and forms different levels of aggregation combinations in accordance with the interrelated influences and affiliations among the factors, so as to constitute a multilevel analytical structural model [50,51]. The scale method of a 1 to 9 scale was used to judge the importance of two elements in the matrix for two-by-two comparison, and to assign a value to the degree of importance. From the quantitative results of the scale-constructed two-by-two comparison of the judgment matrix, the judgment matrix for single sorting calculation to determine the weight of each indicator was created. The weight calculation was firstly normalized, and the number of indicators in the group was set to be n.
+Step 1: Compute the product Mi of the elements of each row of the matrix.
+n
+	Mi = ∏ aij	i = 1, 2, ··· , n	(1)
+j=1
+Step 2: Calculate the nth root W of M .
+(2)
+T
+Step 3: Normalize the vector W = [W ,W , ··· ,Wn] .
+W
+(3)
+W = [W1,W2, ··· ,Wn]T is the desired weight vector.
+    Step 4: In order to ensure the scientific and reliability of the calculation results, the judgment matrix must be tested for consistency.
+CI = λmax − n	(4) n − 1
+CI RI
+	CR =		(5)
+where λmax is the largest eigen value of the judgment matrix, n is the judgment matrix order, and RI is the average random consistency value corresponding to n. When CR < 0.1, it was considered that the judgment matrix had good consistency. Otherwise, the judgment matrix elements should be adjusted.
+    This study utilized the expert scoring method to collect questionnaires from experienced experts in the field of construction management for major railway projects. The purpose was to determine the relative importance of each rating indicator. A total of 40 questionnaires were collected, and a rigorous screening process was employed to ensure the scientific validity and applicability of the Analytic Hierarchy Process (AHP) method, resulting in the exclusion of invalid questionnaires that exhibited inconsistencies in twoby-two comparisons, had excessively short response times, or consecutively selected the same options. Ultimately, 30 valid questionnaires were retained for the AHP analysis. By employing the AHP method, the significance of each group of indicators was compared and scored by the 30 participating experts. Calculation resulted in obtaining 30 weight vectors for each group of indicators, and the average values were utilized to determine the weights of technical indicators at all levels within the construction management resilience system for major railway projects. The significance attributed to the ability to monitor early warning (B1) was quantified at 28.41 percent, with its subordinate indicators (C1 through C7) assigned weights of 4.18 percent, 5.00 percent, 3.32 percent, 3.31 percent,
+3.34 percent, 3.33 percent, and 3.33 percent, respectively. The ability to resist absorption (B2) was evaluated at 24.88 percent, with its secondary indicators (C8 through C12) having weights of 8.35 percent, 3.33 percent, 3.31 percent, 3.32 percent, and 3.33 percent, respectively. The ability to respond to emergencies (B3) held a weight of 28.41 percent, with its associated indicators (C13 through C16) weighted at 6.67 percent, 5.83 percent, 3.33 percent, and 7.50 percent, respectively. The ability to recover and rebuild (B4) was determined to be 11.29 percent, with the weights for its secondary indicators (C17 through C20) set at 4.18 percent, 4.17 percent, 4.17 percent, and 4.19 percent, respectively. The ability to adapt to learning (B5) was assessed at 7.01 percent, with each of its secondary indicators (C21, C22, and C23) uniformly weighted at 4.17 percent. The obtained weights are presented in Table 3.
+Table 3. Weights of resilience indicators for major railway construction management.
+First Level IndicatorFirst Level Indicator WeightSecond Level IndicatorSecond Level Indicator WeightB128.41%C1
+C2
+C3
+C44.18% 5.00% 3.32%
+3.31%C53.34%C63.33%C73.33%B224.88%C8
+C9
+C108.35% 3.33%
+3.31%C113.32%C123.33%B328.41%C13
+C14
+C156.67% 5.83%
+3.33%C167.50%B411.29%C17
+C18
+C194.18% 4.17%
+4.17%C204.19%B57.01%C21
+C224.17%
+4.17%C234.17%4.2. Fuzzy Integrated Evaluation
+    Fuzzy comprehensive evaluation method was used for the resilience evaluation for construction management of major railway projects [52,53], and its main steps are shown in Figure 2.
+
+Figure 2. Step of fuzzy integrated evaluation.
+    Step 1: Determine the factor set. Divide the factor set of fuzzy comprehensive judgment of resilience of major railway project construction management into n sub-factor sets to obtain the resilience factor set U, U = {U1, U2, ··· , Un}.
+    Step 2: Determine the evaluation set. Due to the different levels of major railway project construction management resilience, the evaluation set is composed of all possible judgments. Define the evaluation level of major railway project construction management resilience as {very low, low, average, high, very high} five levels, and perform one comprehensive fuzzy judgment V for each Ui denoted as V = {v1, v2, v3, v4, v5}. In order to facilitate the statistical calculation, we quantify the semantics scale of subjective evaluation and assign the values of 5, 4, 3, 2, and 1 in turn.
+    Step 3: Determine the affiliation matrix. The fuzzy relationship between the set of resilience factors U and the evaluation set V is represented, and the matrix element representing Un evaluates its affiliation vector belonging to the mth rubric of V as Rn = {rn1, rn2, ··· , rnm}, to obtain the affiliation matrix R.
+R(6)
+	 rn1 rn2 ··· rnm
+Step 4: First-level fuzzy comprehensive judgment. Calculate the affiliation matrix
+R1 of the seven influencing factors of ability to monitor early warning (B1), the affiliation matrix R2 of the five influencing factors of ability to resist absorption (B2), the affiliation matrix R3 of the four influencing factors of ability to respond to emergencies (B3), the affiliation matrix R4 of the four influencing factors of ability to recover and rebuild (B4), and the affiliation matrix R5 of the three influencing factors of ability to adapt to learning (B5). Then, perform the synthesis operation with the relative weights of the second-level indicators Wi to obtain the first-level fuzzy comprehensive evaluation matrix.
+B = Wi ∗ Ri	(7)
+    Step 5: Second-level fuzzy comprehensive judgment. According to Equation (7), the first-level fuzzy comprehensive judgment matrix B is obtained, and the importance weights of the first-level indicators W are synthesized to obtain the second-level fuzzy comprehensive judgment vector.
+C = W ∗ B	(8)
+    Step 6: Normalize C to obtain the comprehensive evaluation results of the construction management resilience of major railway projects.
+5. Empirical Research
+5.1. Data Collection
+    This study focused on a major railway project located in the mountainous region of southwest China. It involved the participation of 80 senior managers and experts directly involved in the construction of this project. Their task was to rate the resilience indicators using a 1–5 scoring method. The respondents included 50 experts in the field of engineering construction management, accounting for 62.5%, and 30 individuals in engineering risk management, representing 37.50%. Among them, there were 4 project managers (5%), 10 department heads (12.5%), 36 project engineers (45%), and 30 supervising engineers (37.5%). Over half of the respondents had a working experience of more than 5 years. For more details, see Table 4. To ensure the scientific rigor and accuracy of the fuzzy comprehensive evaluation results, stringent measures were taken to obtain high-quality data. The 80 collected questionnaires underwent a thorough screening, eliminating invalid ones that had short response times or consecutively selected the same options. Consequently,
+78 valid questionnaires were retained for the subsequent fuzzy comprehensive evaluation.
+    
+The reliability test conducted on the questionnaire data yielded a result of 0.997, surpassing the required threshold with exceptional standards. This high level of reliability not only validates the research findings from a mathematical analysis perspective but also attests to the validity of the research results.
+Table 4. Information on respondents.
+Basic Information on ExpertsCategoryNumber of PersonsPercentageYears of work/researchLess than 5 years 5–10 years22
+2827.50%
+35.00%More than 10 years3037.50%Work unitProject Owner
+Design Unit
+Construction Contractor 5 26
+456.25%
+32.50%
+56.25%Research Institutes45.00%Research FieldEngineering Construction Management Engineering Risk Management50
+3062.50%
+37.50%Position/TitleProject Manager
+Department Heads Project Engineer4
+10
+365.00%
+12.50%
+45.00%Engineer-in-Charge3037.50%5.2. Fuzzy Comprehensive Evaluation for Construction Management Resilience of Major
+Railway Projects
+    Based on the evaluation results of the single-factor indicators, the judgment matrix of the three-level indicators for ability to monitor early warning (B1) was collated.
+0
+0
+ 0 
+RB1 = 0
+ 0
+
+0
+00
+0
+0
+0
+0
+0
+0.20.1 0
+0.2 0.2 0.2 0.2
+0.40.5 0.4 0.5 0.2 0.4 0.4
+0.40.4
+0.6
+0.3
+0.6
+0.4
+0.4 0    Similarly, the same method was used to process the data for the tertiary indicators of B2, B3, B4, and B5, resulting in the following judgment matrix.
+	0	0	0.1	0.5	0.4
+	0	0	0.4	0.6	0 
+	RB2 = 0	0.1	0.4	0.5	0 
+		
+	0	0.1	0.3	0.6	0 
+	0	0	0.1	0.3	0.6
+	0	0	0.2	0.3	0.5
+	RB3 = 00	00	0.20.2	0.30.5	0.50.3
+	0	0	0	0.4	0.6
+RB
+RB
+    The fuzzy comprehensive evaluation results were obtained from the indicator weight vector A and the fuzzy relationship matrix R using the fuzzy operation, and the commonly used fuzzy operators were the Zadeh operator, weighted average type M(·, +), the Einstein operator, the Hamacher operator, and the Yager operator. In this study, the weighted average operator was used to calculate the results of five toughness capacity evaluations using the matrix multiplication operator in MATLAB R2023a software.
+    In order to presume the evaluation results more finely and intuitively, fuzzy vector singularization can be implemented, combining the value assigned to each grade rubric, V = {Vk} = {V1, V2, V3, V4, V5} = {very low, low, average, high, very high}, where the score for V1 is 1, the score for V2 is 2, the score for V3 is 3, the score for V4 is 4, and the score for V5 has a score of 5, constructed as column vector VT = (1, 2, 3, 4, 5). Then, we calculated
+G = U × VT, which finally resulted in the fuzzy comprehensive evaluation scores of the five toughness abilities. The specific process was as follows.
+B1 0
+0
+  0
+
+= A1•RB1 = (0.0418, 0. 0500, 0. 0332, 0. 0331, 0. 0334, 0.0333, 0. 0333)• 0
+  0
+
+ 0
+00
+0
+0
+0
+0
+0
+0.20.1
+0
+0.2 0.2 0.2 0.2
+0.40.5 0.4 0.5 0.2 0.4 0.4
+0.40.4 
+0.6 
+0.3 
+0.6 
+0.4 
+0.4  0= (0. 000, 0.026, 0. 171, 0. 400, 0. 403)
+GB
+    The fuzzy comprehensive evaluation was carried out for the seven resilience tertiary level 3 indicators in the ability to monitor early warning (B1), as well as for the five comment sets, and the M(·, +) operator. We then calculated G = U × VT, which finally resulted in a fuzzy comprehensive evaluation score of monitoring and early warning capacity B1 of GB1
+= 4.181, with an evaluation grade of “very high”. 0
+ 0
+B2 = A2 · RB2 = (0.0835, 0.0333, 0.0331, 0.0332, 0.0333)• 0
+
+ 0
+00
+0
+0.1
+0.1
+00.1 0.4 0.4 0.3
+0.10.5 0.6 0.5 0.6
+0.30.4 
+0 
+0 
+0 
+0.6= (0.000, 0.031, 0.223, 0.247, 0.500)
+GB
+	 0	0	0.2	0.3	0.5 
+	B3 = A3 · RB3 = (0.0667, 0.0583, 0.0333, 0.0750)• 00	00	0.20.2	0.50.3	0.50.3 
+	0	0	0	0.4	0.6
+= (0.000, 0.000, 0.136, 0.361, 0.504)
+GB
+4
+5
+	 0	0	0.2	0.6	0.2 
+	B4 = A4 · RB4 = (0.0418, 0.0417, 0.0417, 0.0419)• 00	00.2	0.20.2	0.60.4	0.20.2 
+	0	0	0.2	0.6	0.2
+= (0.000, 0.050, 0.200, 0.550, 0.200)
+GB
+B5 0
+= A5 · RB5 = (0.0417, 0.0417, 0.0417)• 0
+0
+= (0.000, 0.133, 0.400, 0.467, 0.000)0.2 0.1
+0.10.4 0.5
+0.30.4 0.4
+0.6GB
+                      Similarly, the fuzzy comprehensive evaluation score GB2 = 4.216 for the ability to resist absorption (B2) had an evaluation grade of “very high”. The fuzzy comprehensive evaluation score GB3 = 4.368 for ability to respond to emergencies (B3) had a rating of “very high”. The fuzzy composite evaluation score GB4 = 3.900 for ability to recover and rebuild (B4) had an evaluation grade of “high”. The fuzzy composite evaluation score GB5 = 3.333 for ability to adapt to learning (B5) had an evaluation rating of “high”. S
+
+G
+    The fuzzy synthesis results of the indicators of B1, B2, B3, B4, and B5 were summarized to obtain the evaluation matrix of the resilience management of a major railway project
+    
+and we carried out a fuzzy synthesis evaluation of the same type, with the result being G1 = 4.119, with a rating of very high. Therefore, the evaluation results of the construction management resilience of a major railway project in the mountainous area of southwest China could be obtained as shown in Table 5.
+Table 5. Results of the management resilience evaluation.
+Resilience SystemScoreEvaluation RatingResilience CapabilityScoreEvaluation Rating   Construction management system resilience (A1)4.119very highAbility to monitor early warning (B1)
+Ability to resist absorption (B2)
+Ability to respond to emergencies (B3) Ability to recover and rebuild (B4)4.181
+4.216
+4.368
+3.900very high very high very high highAbility to adapt to learning (B5)3.333high6. Discussion
+(1) Ability to respond to emergencies
+    The ability to respond to emergencies scored the highest, with a very high rating. This result not only demonstrates the on-site managers’ commitment to the safety of construction personnel, but also highlights the potential dangers of major railway construction activities. In fact, compared to other railway projects in plain and coastal areas in China, the mountainous areas in Southwest China are more prone to high-intensity earthquakes and active ruptures, rock bursts, large deformations, high geothermal temperatures and hot water, noxious gases, granite radioactivity, and sudden water and mud flows, which pose a very high risk to the safety of the project. The project established a “hole rapid self-help, effective self-help section, provincial and regional base professional rescue, local social linkage rescue” three-tier emergency rescue system, and equipped it with more emergency rescue equipment and small emergency rescue special tools than other railway projects in the plains and developed coastal areas, following the principle of “combining peace and war”.
+(2) Ability to resist absorption
+    The ability to resist absorption was rated second, with a very high rating. Resilience reflects the reliability and redundancy of the construction management system to cope with disasters, and is a core capability that site managers prioritize. At the hardware level, key equipment for tunnel construction has been over-equipped for management to prevent the high-altitude environment from severely impacting mechanical equipment. Additionally, the maintenance of mechanical equipment has exceeded the normal construction state. At the software level, the company provides occupational health training to improve the construction staff’s understanding of plateau construction and dispel their fear of difficulties. Health monitoring files are established for the entire workforce, and a strict health checkup system is implemented, including regular personnel changes and rotations. Furthermore, project management personnel have significant experience in constructing major railway projects, enabling quick decision-making and proper accident handling, which are crucial to the reliability of the construction management system.
+(3) Ability to monitor early warning
+    The ability to monitor early warning ranked third, with a very high rating. A major railway project in the mountainous region of Southwest China faces various geological challenges, including great uncertainty of geological conditions, extremely large depth of burial, and extremely high gestures environment. To predict geological conditions ahead of the project, various forecasting means are employed (micro seismic monitoring, physical exploration, and over-drilling), and rock burst occurrence patterns are investigated based on construction process records. Physical surveying (ultra-long geological drilling rig, TSP203, seismic wave method) is performed to detect large deformations of soft rock in combination with geological exploration, tunnel design, and construction palm surface sketch results.
+For active fracture zones, geological forecasting means such as geological radar, TSP, and over-drilling are used to prejudge surrounding rock conditions. Over-drilling explores hydrogeological conditions ahead to prevent high temperature groundwater surges in high geothermal temperature warning situations. For gas and other harmful gases, the whole section of the gas section is detected in advance and the location of harmful gases is recorded. In water-rich sand layers, overrun pipe shed-grouting or overrun grouting is adopted to carry out an overrun pretreatment of the surrounding rock, combined with the overrun through the flat guide to probe the geological conditions in advance, and overrun water discharge to improve the construction conditions of the main hole.
+(4) Ability to recover and rebuild
+    The ability to recover and rebuild scored fourth, with a high evaluation rating. For human resources recovery, a major railway project in the mountainous region of Southwest China relies on local health resources and maintains a close linkage mechanism with local medical units, highlighting medical treatment, disease prevention, and oxygen-rich construction. It establishes a targeted three-tier medical treatment and transfer system. Local military districts have jointly established post-disaster recovery teams responsible for carrying out post-rescue cleanup of the site and assisting the project in resuming normal construction activities as soon as possible. Specialized management of the construction right-of-way is set up to restore roads, electricity, communications, and other resources. Construction teams are dispatched to carry out post-disaster corrections, while local electricity and communications units join forces with the project to set up a joint team to assist
+with the post-disaster restoration of key resources.
+(5) Ability to adapt to learning
+    The ability to adapt to learning was rated fifth, with a high rating. This ability was mainly reflected in all aspects of training activities for construction personnel. The project has carried out extensive publicity and education on occupational health and safety to make all employees truly realize the importance and necessity of occupational health and safety. Regular rescue and rescue training and drills for on-site emergency rescue personnel are conducted, and construction personnel are trained in rapid self-rescue skills in cave entrances.
+7. Conclusions and Recommendations
+7.1. Conclusions
+    Based on resilience theory, this study introduced the concept of construction management resilience for major railway projects. It constructed a resilience evaluation indicator system for construction management based on five dimensions: the ability to monitor early warning, the ability to resist absorption, the ability to respond to emergencies, the ability to recover and rebuild, and the ability to adapt to learning. The study proposed a resilience evaluation method for construction management using the AHP and fuzzy comprehensive evaluation approach. An empirical study was conducted on a major railway project located in the mountainous area of southwest China as an example. The validity and reliability of the research results were verified through an empirical analysis. The research results indicated that the capabilities for emergency response and early warning monitoring are paramount, both accounting for 28.41%, and are central to the resilience of large-scale railway project construction management. The empirical analysis demonstrated that the construction projects studied exhibit high resilience levels, with scores above 4 for monitoring and early warning, resistance and absorption, and emergency response capabilities. Recovery and rebuilding, along with learning and adaptation abilities, scored between 3 and 4, indicating a relatively high level of resilience. This methodology facilitated the assessment of construction management’s risk resistance capabilities in major railway projects, identifying strengths and areas for improvement, thus offering necessary references and a decision-making basis for mitigating, responding to, and adapting to uncertain risk impacts.
+7.2. Recommendations
+(1) Advance planning of project redundant resource reserves and strengthening of on-site resource guarantee mechanism.
+    The project company should verify the reserve of raw materials and components required for production in advance, based on the list of material demand, and manage them in a unified manner. A designated person should be responsible for coordinating with local meteorological and road administration departments to stay updated on road flow, control, and warning information. This will ensure that materials are prepared in advance and delivered in a staggered manner, preventing road delays from affecting normal construction. Utilizing big data, artificial intelligence, and other informational tools actively can improve and optimize the existing material management digital platform, allowing for dynamic reserve and scheduling of redundant resources. This will guarantee the smooth execution of site engineering and construction activities. It is also important to strengthen the reserves of professional highland construction personnel to ensure continuous and stable progress in the construction activities. Personnel should be allocated in an organized manner according to the work schedule and echelon. Adequate feeding security and a reasonable shift rest mechanism should be in place to alleviate the hazards associated with low oxygen in plateau areas. Implementing a robust incentive mechanism is necessary to motivate site personnel to actively engage in their work.
+(2) Optimize the post-disaster organizational structure and operational mechanism, and improve personnel’s crisis awareness and impact management capabilities.
+    Establishing and improving the operation mechanism of the special work leadership organization will facilitate compliance with relevant government emergency prevention and control requirements. Establishing a contact mechanism with the Ministry of Emergency Response, the Earthquake Bureau, and other relevant units is crucial. Continuous monitoring of disaster information and smooth information reporting should be ensured. Additionally, being prepared to support local earthquake relief preparations is important. Organizing post-disaster hidden danger inspections and establishing safety and quality inspection teams will ensure the condition of buildings and equipment at each work site. Enhancing the categorized and hierarchical training model for emergency management personnel is necessary. This includes strengthening the education and training of leaders’ emergency management knowledge. Organizing sharing sessions for project managers to exchange crisis response experience will improve the crisis awareness and responsibility of the project manager team. Furthermore, enhancing the overall process of crisis prevention, response, and post-disaster emergency response capabilities is crucial. Optimizing the education and training of technical personnel on emergency management knowledge and enabling them to utilize their professional expertise and technical advantages will enhance their ability to analyze sources of danger and risks. It is essential to improve the crisis awareness of all construction personnel by disseminating relevant knowledge on emergency management, disaster prevention and relief, and self-rescue and mutual assistance. Conducting disaster defense knowledge training and organizing drills and training sessions for construction personnel to handle emergencies promptly are also important measures to be implemented.
+7.3. Limitations
+    The data in this study were obtained from the builders and managers of major railway projects in China, which is typical of major projects in China. In the future, we will expand the data of major railroad projects in many developed and developing countries, so that the results of the study can be more generalized. In addition, the construction management resilience indicators of major railroad projects identified in this study tended to be qualitative, which is difficult to describe using objective data. In the future, we will devote ourselves to constructing an objective evaluation index system for construction management resilience and researching objective assessment methods for construction management resilience of major railroad projects.
+Author Contributions: Conceptualization, X.Z. and Y.L.; methodology, X.Z.; software, X.Z.; validation, X.Z., K.L. and Y.L.; formal analysis, Y.L.; investigation, X.Z. and K.L.; resources, W.J. and X.Z.; data curation, X.Z. and Y.L.; writing—original draft preparation, X.Z.; writing—review and editing, X.Z. and K.L.; visualization, X.Z. and K.L.; supervision, W.J., C.C. and X.Z.; project administration, W.J., C.C. and K.C.; funding acquisition, W.J. and C.C. All authors have read and agreed to the published version of the manuscript.
+Funding: This research was funded by the State Key Laboratory for Track Technology of High-speed Railway (Contract No. 2021YJ111), China Academy of Railway Science.
+Data Availability Statement: The original contributions presented in the study are included in the article, further inquiries can be directed to the corresponding author.
+Acknowledgments: The authors express their sincere gratitude to the State Key Laboratory for
+Track Technology of High-speed Railway for its assistance in observation of the relevant processes and in conducting on-site interviews. Special appreciation also goes to the editors and reviewers
+whose constructive and invaluable comments and suggestions played a decisive role in significantly improving the quality of this article.
+Conflicts of Interest: Authors Chaoxun Cai and Kai Chang were employed by the company Railway Engineering Research Institute, China Academy of Railway Sciences Corporation Limited. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. The funders had important coordination roles in the data collection.
+References
+1. Liu, K.; Liu, Y.M.; Kou, Y.Y.; Yang, X.X. Study on dissipative structure of mega railway infrastructure project management system. Eng. Constr. Archit. Manag. 2023, ahead-of-print. [CrossRef]
+2. Wang, Y.S.; Lin, C.J.; Wang, H.P.; Wang, W.; Wang, S.; Zheng, R.J. Implementation of pollution source evaluation and treatment strategy for plateau railway construction in China: An AHP-cloud model approach. Environ. Monit. Assess. 2023, 195, 749.
+[CrossRef]
+3. Liu, B.L.; Wagner, L.E.; Ning, D.H.; Qu, J.J. Estimation of wind erosion from construction of a railway in arid Northwest China. Int. Soil Water Conserv. Res. 2017, 5, 102–108. [CrossRef]
+4. Lu, C.F.; Cai, C.X. Challenges and Countermeasures for Construction Safety during the Sichuan–Tibet Railway Project. Engineering 2019, 5, 833–838. [CrossRef]
+5. Liu, K.; Liu, Y.M.; Kou, Y.Y.; Yang, X.X.; Hu, G.Z. Efficiency of risk management for tunnel security of megaprojects construction in China based on system dynamics. J. Asian. Archit. Build. 2023, 23, 712–724. [CrossRef]
+6. Wu, X.; Xu, F. Detection model for unbalanced bidding in railway construction projects: Considering the risk of quantity variation. J. Constr. Eng. Manag. 2021, 147, 04021055. [CrossRef]
+7. Huang, J.L.; Zeng, X.Y.; Fu, J.; Han, Y.; Chen, H.H. Safety risk evaluation using a BP Neural Network of high cutting slope construction in High-Speed Railway. Buildings 2022, 12, 598. [CrossRef]
+8. Shi, J.J.; Geng, G.Q.; Ming, J. Corrosion resistance of fine-grained rebar in mortars designed for high-speed railway construction. Eur. J. Environ. Civ. Eng. 2018, 22, 562–577. [CrossRef]
+9. Zhao, T.J.; Xiao, X.; Dai, Q.H. Transportation infrastructure construction and high-quality development of enterprises: Evidence from the Quasi-Natural Experiment of High-Speed Railway Opening in China. Sustainability 2022, 13, 13316. [CrossRef]
+10. Wehbe, F.; Al Hattab, M.; Hamzeh, F. Exploring associations between resilience and construction safety performance in safety networks. Saf. Sci. 2016, 82, 338–351. [CrossRef]
+11. Holling, C.S. Resilience and Stability of Ecological Systems. Annu. Rev. Ecol. Evol. Syst. 1973, 4, 1–23. [CrossRef]
+12. Francis, R.; Bekera, B. A metric and frameworks for resilience analysis of engineered and infrastructure systems. Reliab. Eng. Syst. Safe 2014, 121, 90–103. [CrossRef]
+13. Wied, M.; Oehmen, J.; Welo, T. Conceptualizing resilience in engineering systems: An analysis of the literature. Syst. Eng. 2020, 23, 3–13. [CrossRef]
+14. Pawar, B.; Park, S.; Hu, P.F.; Wang, Q.S. Applications of resilience engineering principles in different fields with a focus on industrial systems: A literature review. J. Loss Prev. Process. Ind. 2021, 69, 104366. [CrossRef]
+15. Liu, W.Q.; Shan, M.; Zhang, S.; Zhao, X.B.; Zhai, Z. Resilience in Infrastructure Systems: A Comprehensive Review. Buildings
+2022, 12, 759. [CrossRef]
+16. Bruneau, M.; Reinhorn, A. Exploring the Concept of Seismic Resilience for Acute Care Facilities. Earthq Spectra 2007, 23, 41–62. [CrossRef]
+17. Li, Y.; Lence, B.J. Estimating resilience for water resources systems. Water. Resour. Res. 2007, 43, W07422. [CrossRef]
+18. Vugrin, E.D.; Warren, D.E.; Ehlen, M.A. A resilience evaluation framework for infrastructure and economic systems: Quantitative and qualitative resilience analysis of petrochemical supply chains to a hurricane. Process. Saf. Prog. 2011, 30, 280–290. [CrossRef]
+19. Hosseini, S.; Barker, K. Modeling infrastructure resilience using Bayesian networks: A case study of inland waterway ports. Comput. Ind. Eng. 2016, 93, 252–266. [CrossRef]
+20. Wu, C.W.; Cenci, J.; Wang, W.; Zhang, J.Z. Resilient city: Characterization, challenges and outlooks. Buildings 2022, 12, 516. [CrossRef]
+21. Haimes, Y.Y. On Some Recent Definitions and Analysis Frameworks for Risk, Vulnerability, and Resilience. Risk Anal. 2011, 31, 698. [CrossRef]
+22. Sweetapple, C.; Fu, G.T.; Farmani, R.; Butler, D. General resilience: Conceptual formulation and quantitative evaluation for intervention development in the urban wastewater system. Water Res. 2022, 211, 118108. [CrossRef]
+23. Serdar, M.Z.; Koç, M.; Al-Ghamdi, S.G. Urban Transportation Networks Resilience: Indicators, Disturbances, and Evaluation Methods. Sustain. Cities Soc. 2022, 76, 103452. [CrossRef]
+24. Cardoni, A.; Borlera, S.L.; Malandrino, F.; Cimellaro, G.P. Seismic vulnerability and resilience evaluation of urban telecommunication networks. Sustain. Cities Soc. 2022, 77, 103540. [CrossRef]
+25. Argyroudis, S.A.; Mitoulis, S.A.; Hofer, L.; Zanini, M.A.; Tubaldi, E.; Frangopol, D.M. Resilience evaluation framework for critical infrastructure in a multi-hazard environment: Case study on transport assets. Sci. Total Environ. 2020, 714, 136854. [CrossRef] [PubMed]
+26. Franchin, P.; Cavalieri, F. Probabilistic evaluation of civil infrastructure resilience to earthquakes. Comput. Civ. Infrastruct. Eng. 2015, 30, 583–600. [CrossRef]
+27. Babar, A.H.K.; Ali, Y. Framework construction for augmentation of resilience in critical infrastructure: Developing countries a case in point. Technol. Soc. 2022, 68, 101809. [CrossRef]
+28. Labaka, L.; Hernantes, J.; Sarriegi, J.M. Resilience framework for critical infrastructures: An empirical study in a nuclear plant. Reliab. Eng. Syst. Safe 2015, 141, 92–105. [CrossRef]
+29. Huang, C.N.; Liou, J.J.H.; Lo, H.W.; Chang, F.J. Building an evaluation model for measuring airport resilience. J. Air. Transp. Manag. 2021, 95, 102101. [CrossRef]
+30. Dvorak, Z.; Chovancikova, N.; Bruk, J.; Hromada, M. Methodological Framework for Resilience Evaluation of Electricity Infrastructure in Conditions of Slovak Republic. Int. J. Environ. Res. Public Health 2021, 18, 8286. [CrossRef]
+31. Zhao, T.Y.; Sun, L. Seismic resilience evaluation of critical infrastructure-community systems considering looped interdependences. Int. J. Disaster Risk Reduct. 2021, 95, 103856. [CrossRef]
+32. Kong, J.J.; Simonovic, S.P.; Zhang, C. Resilience evaluation of interdependent infrastructure systems: A case study based on different response strategies. Sustainability 2019, 11, 6552. [CrossRef]
+33. Bruneau, M.; Chang, S.E.; Eguchi, R.T.; Lee, G.C.; O’Rourke, T.D.; Reinhorn, A.M.; Shinozuka, M.; Tierney, K.; Wallace, W.A.; von Winterfeldt, D.A. Framework to quantitatively assess and enhance the seismic resilience of communities. Earthq. Spectra 2003,
+19, 733–752. [CrossRef]
+34. Ghouchani, M.; Taji, M.; Roshan, A.Y.; Chehr, M.S. Identification and evaluation of hidden capacities of urban resilience. Int. J. Proj. Manag. 2021, 23, 3966–3993. [CrossRef]
+35. Murdock, H.J.; de Bruijn, K.M.; Gersonius, B. Evaluation of critical infrastructure resilience to flooding using a response curve approach. Sustainability 2018, 10, 3470. [CrossRef]
+36. Mustafa, A.M.; Barabadi, A. Resilience evaluation of wind farms in the arctic with the application of Bayesian Networks. Energies 2021, 14, 4439. [CrossRef]
+37. Sen, M.K.; Dutta, S. A Bayesian Network Modeling approach for time-varying flood resilience evaluation of housing infrastructure system. Nat. Hazards Rev. 2022, 23, 04022006. [CrossRef]
+38. Panteli, M.; Pickering, C.; Wilkinson, S.; Dawson, R.; Mancarella, P. Power system resilience to extreme weather: Fragility modeling, probabilistic impact evaluation, and adaptation measures. IEEE Trans. Power Syst. 2017, 32, 3747–3757. [CrossRef]
+39. Praks, P.; Kopustinskas, V.; Masera, M. Probabilistic modelling of security of supply in gas networks and evaluation of new infrastructure. Reliab. Eng. Syst. Safe 2015, 144, 254–264. [CrossRef]
+40. Kourehpaz, P.; Molina Hutt, C. Machine learning for enhanced regional seismic risk assessments. J. Struct. Eng. 2022, 148, 04022126. [CrossRef]
+41. Forcellini, D. An expeditious framework for assessing the seismic resilience (SR) of structural configurations. In Structures; Elsevier: Amsterdam, The Netherlands, 2023; Volume 56, p. 105015.
+42. Zhu, Z.; Yuan, J.F.; Shao, Q.H.; Zhang, L.; Wang, G.Q.; Li, X.W. Developing key safety management factors for construction projects in China: A resilience perspective. Int. J. Environ. Res. Public Health 2020, 17, 6167. [CrossRef] [PubMed]
+43. Mostafizi, A.; Wang, H.Z.; Cox, D.; Cramer, L.A.; Dong, S.J. Agent-based tsunami evacuation modeling of unplanned network disruptions for evidence-driven resource allocation and retrofitting strategies. Nat. Hazards 2017, 88, 1347–1372. [CrossRef]
+44. Ouyang, M. Review on modeling and simulation of interdependent critical infrastructure systems. Reliab. Eng. Syst. Safe 2014,
+121, 43–60. [CrossRef]
+45. Pumpuni-Lenss, G.; Blackburn, T.; Garstenauer, A. Resilience in complex systems: An agent-based approach. Syst. Eng. 2017, 20, 158–172. [CrossRef]
+46. Liang, Y.; Liu, Q.X. Early warning and real-time control of construction safety risk of underground engineering based on building information modeling and internet of things. Neural. Comput. Appl. 2021, 34, 3433–3442. [CrossRef]
+47. Zhang, J.X.; Zha, G.Q.; Pan, X.; Zuo, D.J.; Xu, Q.X.; Wang, H.X. Community centered public safety resilience under public emergencies: A case study of COVID-19. Risk Anal. 2022, 43, 114–128. [CrossRef] [PubMed]
+48. Harvey, E.J.; Waterson, P.; Dainty, A.R.J. Applying HRO and resilience engineering to construction: Barriers and opportunities. Saf. Sci. 2019, 117, 253–533. [CrossRef]
+49. Saldanha, M.C.W.; Araújo, L.L.F.; Arcuri, R.; Vidal, M.C.R.; de Carvalho, P.V.R.; de Carvalho, R.J.M. Identifying routes and organizational practices for resilient performance: A study in the construction industry. Cogn. Technol. Work. 2022, 24, 521–535. [CrossRef]
+50. Saaty, T.L. Modeling unstructured decision problems—The theory of analytical hierarchies. Math. Comput. Simul. 1978, 20, 147–158. [CrossRef]
+51. Zhang, H. Fuzzy comprehensive evaluation and quantitative weight analysis in structure management of human resources. PLoS ONE 2023, 18, e0288795. [CrossRef] [PubMed]
+52. Zadeh, L.A. Fuzzy sets. Inf. Control 1965, 8, 338–353. [CrossRef]
+53. Cai, F.; Yang, L.; Yuan, Y.; Taghizadeh-Hesary, F. The application of an improved fuzzy comprehensive evaluation in coal quality rating: The case study of China. Front. Energy Res. 2022, 9, 752472. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+1 . Introduction
+    The construction and management of major railway projects face significant challenges due to the complex environmental characteristics [1]. Firstly, the geological environment’s complexity not only increases the construction difficulty but also demands higher levels of stability and safety for the project [2]. Secondly, the extreme harshness of the climate environment poses another problem in railway engineering construction [3]. For instance, under extreme climatic conditions, such as high temperatures, low temperatures, and strong winds, railway equipment and structures are susceptible to damage, compromising the safety and stability of railway operations. Thirdly, the vulnerability of the ecological environment requires sufficient attention during railway project construction. Additionally, a variety of disaster risks, including climatic disasters, geological disasters, engineering disasters, and plateau disasters, can significantly impact railway projects [4].
+    Currently, most studies on major railway engineering construction rely on traditional risk prevention and control methods [5–7]. These studies primarily focus on risk management, emphasizing a pre-construction analysis of explicit risk sources, predicting the probability and impact of risks, and formulating risk plans and contingency measures in
+---------------
+    
+------------------------------------------------------------
+    
+    ---------------
+    
+    ------------------------------------------------------------
+    
+Buildings 2024, 14, 732	2 of 19
+    
+Buildings 2024, 14, 732	3 of 19
+    
+
+    
+Buildings 2024, 14, 732	2 of 19
+    
+Buildings 2024, 14, 732	2 of 19
+    
+Buildings 2024, 14, 732	2 of 19
+    
+Buildings 2024, 14, 732	2 of 19
+    
+Buildings 2024, 14, 732	2 of 19
+    
+Buildings 2024, 14, 732	3 of 19
+    

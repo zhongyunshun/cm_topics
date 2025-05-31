@@ -1,0 +1,478 @@
+﻿
+Investigating the causes of delay in grain bin construction projects: the case of China
+Gui-Xiang Chen, Ming Shan, Albert P. C. Chan, Xu Liu & Yi-Qing Zhao
+To cite this article: Gui-Xiang Chen, Ming Shan, Albert P. C. Chan, Xu Liu & Yi-Qing Zhao (2019) Investigating the causes of delay in grain bin construction projects: the case of China, International Journal of Construction Management, 19:1, 1-14, DOI:
+10.1080/15623599.2017.1354514
+To link to this article:  https://doi.org/10.1080/15623599.2017.1354514
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=tjcm20
+
+
+Investigating the causes of delay in grain bin construction projects: the case of China
+Gui-Xiang Chena, Ming Shanb, Albert P. C. Chan c, Xu Liud and Yi-Qing Zhaoe
+aDepartment of Engineering Management, School of Civil Engineering and Architecture, Henan University of Technology, Zhengzhou, China; bDepartment of Building, National University of Singapore, Singapore; cDepartment of Building and Real Estate, The Hong Kong Polytechnic University, Hong Kong, China; dHenan Academy of Building and Construction, Zhengzhou, China; eDepartment of Management Science and Engineering, School of Economics and Management, Tongji University, Shanghai, China
+ABSTRACT
+Construction delay is a common issue in diverse types of projects and has attracted sustained attention from the industry and academia. However, it has seldom been addressed in grain bin projects which have a stricter requirement for on-time delivery to ensure prompt and appropriate grain storage. The aim of this study is to investigate the significant causes of delay in grain bin construction projects in China. To achieve this goal, a comprehensive literature review and 15 structured interviews were carried out, and a self-administered questionnaire was sent out to 108 respondents with experiences in constructing grain bin projects. Results showed that the top five delay causes for grain bin construction projects were ‘shortage of adequate equipment,’ ‘poor communication among contracting parties,’ ‘problems with subcontractors,’ ‘inadequate experience of the design team’ and ‘frequent change orders by clients.’ Also, results showed that the most significant delay cause category in grain bin construction projects was contractor-related causes. This study has provided the industry and academia with a deep understanding of the delay issue ingrain bin construction projects, which has also reinforced the knowledge body of delay research in the construction engineering and management domain.KEYWORDS
+Cause of delay; grain bin projects; factor analysis; structural equation modelling
+Introduction	considerable grain was lost due to the storage delay,
+which is ultimately attributed to the construction delay
+Grain bins are a particular type of structure constructed of grain bin projects (Sun 1999; Lin et al. 2000; Chen
+to store grain, a product that is crucial to the socio-ecoet al. 2013).
+nomic stability of a country (Chen et al. 2013). Annually,
+	Although	there	has	been	considerable	research
+numerous grain bins are under construction and mainregarding the delay in construction projects (e.g. Yang
+tenance worldwide, especially in The United States, et al. 2010; Kazaz et al. 2012; Mahamid et al. 2012; China, Brazil, India, Russia, Indonesia and those coun-
+Wang et al. 2014; Gunduz et al. 2015), few of them look
+tries that produce massive grain output from their agriinto the delay problem in grain bin construction proj-
+culture sectors. In China, along with its steady growth of ects. Therefore, this study aims to bridge this knowledge
+grain production over the past three decades, numerous gap by addressing the following three questions:
+grain bins have been constructed across the country to satisfy the accompanying storage need. According to a
+(1) What are the causes of delay in grain bin construc-
+statistic released by the China State Administration of tion projects of China?
+Grain, a total of 9386 grain-bin-related facilities were
+(2) Can these delay causes be categorized?
+constructed before 2010, and the related investments to
+(3) To what extent have these delay cause categories
+these grain bin construction projects reached USD $10.8 impacted the delay in grain bin construction proj-
+trillion (China State Administration of Grain 2010). ects of China?
+Despite its prosperity in construction, these grain bin construction projects face a common and critical issue,
+It is believed that, by doing this research, an in-depth
+which is a frequent and lengthy delay. Delays in grain understanding of delay causes in grain bin construction
+bin construction projects have led to serious consequenprojects can be provided for industry practitioners,
+ces. For instance, numerous news have reported that which can also help them develop more effective
+
+© 2017 Informa UK Limited, trading as Taylor & Francis Group
+
+strategies to avoid delay in such projects in the future. The rest of this paper is structured into four sections. The next section provides a comprehensive literature view of the research on delay in construction projects, which can also help form an initial list of delay causes applicable to the grain bin construction projects. Subsequently, the research methods adopted by this study, as well as the data collection and analysis are explained in detail. After that, the results obtained from data analysis are presented and discussed, followed by the last section of conclusions and implications.
+Literature review
+In the construction sector, delay refers to the time overrun beyond the project completion date (Yang and Wei 2010; Yang et al. 2010; Wang et al. 2014). It is one of the most common, costly, complex and risky problems encountered in various types of projects such as gas pipeline projects (Fallahnejad 2013), road projects (Mahamid et al. 2012), housing projects (Hwang et al. 2013), industrial projects (Abd El-Razek et al. 2008), commercial projects (Al-Khalil and Al-Ghafly 1999), telecom tower projects (Danso and Antwi 2012) and educational/research projects (Kaming et al. 1997). This issue has also received considerable attention among researchers from a number of countries such as Chile (Ballesteros-Perez et al. 2015), Indonesia (Kaming et al. 1997), Iran (Fallahnejad 2013), Jordan (Odeh and Battaineh 2002), Malaysia (Sambasivan and Soon 2007), Oman (Ruqaishi and Bashir 2013), Saudi Arabia (AlKharashi and Skitmore 2009), Singapore (Hwang et al. 2013), Turkey (Kazaz et al. 2012; Gund€ uz et al.€ 2013, 2015), Taiwan (Yang et al. 2013), Egypt (Abd ElRazek et al. 2008), Ghana (Frimpong et al. 2003) and Nigeria (Elinwa and Joshua 2001; Aibinu and Jagboro 2002). Unfortunately, current literature shows that less has been done on investigating the delay in construction projects of China, let alone the causes of delay in grain bin construction projects of China.
+  Given the limited amount of research, causes of delay in grain bin construction projects can hardly be identified directly from literature. Fortunately, the literature on delay causes in general construction projects is abundant. Thus, a comprehensive literature review of delay causes in general construction projects was conducted to assist in forming an initial list of delay causes in grain bin construction projects. A concise code of ‘TITLE (delay) or TITLE (time overrun)’ was searched on the Scopus database among a set of reputable peer-review construction engineering and management (CEM) journals between 1996 and 2015. The selected CEM journals include Journal of Construction Engineering and Management, Journal of Management in Engineering, International Journal of Project Management, Project Management Journal, Automation in Construction, Building Research & Information, Building and Environment, Journal of Civil Engineering and Management, Construction Management and Economics, Engineering, Construction and Architectural Management and International Journal of Construction Management. All these journals have sound reputations among CEM researchers and are widely used as source journals for literature search (Le et al. 2014b; Hu et al. 2015; Ameyaw et al. 2016; Shan et al. 2016; Hwang, Shan and Supa’at 2017). After conducting a careful content analysis to the search results, a total of 20 papers that particularly investigated delay causes were spotted, from which a total of 39 initial causes of delay were identified, as shown in Appendix. The current literature reveals no consensus regarding the most significant causes of delay in construction projects. Odeh and Battaineh (2002) reported that the top five most important causes of delay in construction projects in Jordan are inadequate contractor experience, owner interference, labour productivity, financing payments and slow decision-making. Frimpong et al. (2003) revealed the main causes of delay in Ghanaian groundwater projects as monthly payment difficulties from agencies, poor contractor management, material procurement, poor technical performances and escalation of material prices. Sambasivan and Soon (2007) identified the top five most important causes of delay in the Malaysian construction industry as contractor’s poor site management, contractor’s improper planning, inadequate client’s finance and payments for completed work, inadequate contractor experience and problems with subcontractors. Abd El-Razek et al. (2008) stated that the top three most important causes of delay in diverse Egyptian building construction projects are delays in contractor payment by owner, financing by the contractor during construction and design changes by the owner or his agent during construction. AlKharashi and Skitmore (2009) indicated that the lack of qualified and experienced personnel is the most important cause of delay in Saudi Arabian public projects. Yang and Wei (2010) found that the delay problem in both the planning and design phases in construction projects could be largely attributed to the client’s frequent change requirements. Mahamid et al. (2012) reported that the top five most severe delay causes in road projects in the West Bank in Palestine are the segmentation of the West Bank and limited movement between areas, political situation, progress payment delay by the client, award project to the lowest bid price and a shortage of equipment. Fallahnejad (2013) stated that the top five delay causes in Iranian gas pipeline projects are the shortage of imported materials, unrealistic project duration, the shortage of client-related materials, delay in land expropriation and change orders. Yang et al. (2013) stated that the main causes of delay in Taiwanese construction projects are change orders, the changed scope of work, delayed site handover and extreme weather conditions. The brief review above indicates that significant causes of delay vary upon project types. Hence, a particular study specific is essential for exploring the significant causes of delay in grain bin construction projects.
+  One common action in previous delay studies is that they always categorized various delay causes into several groups, and the categories are usually tagged as client-related, contractor-related, consultant-related, material-related, external, contract-related, labour-related, equipment-related, designrelated and financial causes (Al-Khalil and Al-Ghafly 1999; Al-Tabtabai 2002; Odeh and Battaineh 2002; Assaf and Al-Hejji 2006; Alaghbari et al. 2007; Sambasivan and Soon 2007; Abd El-Razek et al. 2008; Yang and Ou 2008; AlKharashi and Skitmore 2009; Khoshgoftar et al. 2010; Kazaz et al. 2012; Mahamid et al. 2012; Fallahnejad 2013; Ruqaishi and Bashir 2013). The categorization like these can reveal to which perspective should these delay causes in construction projects be ascribed to, thus providing a deeper understanding of this topic. Accordingly, this study also attempted to explore the categorizations of the delay causes for grain bin construction projects, with the purpose of dealing with them more effectively and efficiently.
+Research methods and data presentation
+Since all the delay causes in Appendix were derived from literature, structured interviews were carried out with 15 experienced industry experts to fit these initial delay causes in the context of Chinese grain bin construction projects. Table 1 shows the backgrounds of the 15 interviewees. It could be noted that most of them have sufficient working experience (at least 12 years) and hold senior positions in their organizations. Also, these interviewees are from different parties such as governmental department, owner, contractor, consultant, designer and research institutions, which could increase the heterogeneity of the interviewee panel and thus improve the validity of the interviews (Hwang, Shan, Xie, and Chi 2017). During the interviews, interviewees were requested to evaluate the compatibilities of the initial delay causes within the context of grain bin construction projects of China, using a 5-point Likert rating system (i.e. 1 = very low, 2 = low, 3 = moderate, 4 = high and 5 = very high). Interviewees were also encouraged to add any new delay cause according to their practice experiences. The mean score of each initial cause was calculated, and a threshold of 3.0 points was established as a
+Table 1. Backgrounds of interviewees.
+ExpertsEmployerPosition Years of experienceLargest grain depot project ever experiencedAGovernmentDirector21USD $83 millionBGovernmentAssociate Director16USD $61 millionCOwnerProject
+Manager22USD $83 millionDOwnerDeputy
+Project
+Manager18USD $49 millionEOwnerDirector13USD $38 millionFContractorDeputy
+General
+Manager25USD $83 millionGContractorProject
+Manager20USD $72 millionHContractorProject
+Manager14USD $46 millionIConsultantGeneral Manager20USD $72 millionJConsultantProject
+Manager15USD $49 millionKConsultantProject
+Manager12USD $46 millionLDesigner Chief Engineer20USD $83 millionMDesignerDirector16USD $61 millionNAcademiaProfessor20USD $83 millionOAcademiaAssociate Professor14USD $52 millioncut-off criterion to trim these initial causes, as suggested by Jamieson (2004). As the interviewees are from different parties, Kruskal–Wallis test, a rank-based nonparametric statistical method that checks the potential differences among different groups (Hon et al. 2012; Shan et al. 2016), was conducted to check whether a significant difference exists among the evaluations of interviewees from different parties. According to Hon et al. (2012), if the asymptotic significance value generated by the Kruskal–Wallis test is greater than a chosen alpha value (e.g. 0.05), it can be concluded that there is no significant difference among the respondents from different groups; on the contrary, differences would be confirmed if the asymptotic significance value is less than 0.05. Table 2 presents the results of the interviews. A total of 20 initial delay causes received evaluations above 3.0 points, suggesting that they are responsible for the problem of delay in grain bin construction projects. Meanwhile, the Kruskal–Wallis testing results showed that the asymptotic significance value of each refined delay cause was greater than 0.05, indicating no perception difference among the interviewees of different backgrounds (Breslow 1970; Hon et al. 2012).
+  As a systematic method of collecting data from a sample (Zhao et al. 2013), the questionnaire has been widely adopted in previous delay studies (e.g.Yang and Ou 2008; AlKharashi and Skitmore 2009; Yang and Wei 2010; Mahamid et al. 2012; Fallahnejad 2013). Thus,
+Table 2. Delay causes (DCs) in grain bin construction projects.
+Code  Delay cause in grain bin construction projectsEvaluationAsymp. sig. of KWTDC1Ambiguities, mistakes and inconsistencies in specifications and drawings4.460.738DC2Poor communication among contracting parties4.370.764DC3Lack of finance by clients4.350.563DC4Conflicts among contracting parties4.350.544DC5Delay in progress of payments by clients4.280.642DC6Poor labour productivity4.230.589DC7Contract-related disputes4.160.694DC8Inadequate contractor experience4.120.632DC9Inadequate experience of the design team4.080.654DC10	Poor site management by contractors4.000.597DC11	Frequent change orders by clients3.970.598DC12	Slow land expropriation due to resistance from occupants3.920.715DC13	Improper construction planning by contractors3.890.352DC14	Multifarious licenses/permits3.830.696DC15	Shortage of adequate equipment3.780.478DC16	Problems with subcontractors3.760.347DC17	Slow decision-making of clients3.650.369DC18	Inadequate delay penalties/poor incentives3.560.519DC19	Delay in producing design documents3.320.490DC20	Extreme weather events3.140.846Note: KWT represents Kruskal–Wallis test.
+Table 3. Profile of respondents of the questionnaire survey.
+Personal attributesCategories Number of respondentsPercentageEmployerGovernment1110Client2019Contractor2927Consultant2119Designer1413Academic1312PositionTop managerial level (e.g. general manager and
+professor)1917Middle managerial level (e.
+g. project manager and associate professor)5753Professional (e.g. technician and quantity surveyor)3230Years of experience<5 years15146–10 years353211–15 years232116–20 years181721–30 years1211>30 years55Working placesEastern China3432Central China3129Western China2220North-eastern China2119Note: Working places cover Eastern China with GDP per capita around
+USD $9,300, central China with GDP per capita around USD $5200, Western China with GDP per capita around USD $5000 and north-eastern China with GDP per capita around USD $7400, according to National Bureau of Statistics of China (2013).
+
+likewise, this study uses the questionnaire as the primary tool for data collection. The questionnaire was developed based on the results of structured interviews, requesting respondents to evaluate the likelihood of occurrence (LO) and magnitude of impact (MI) for each cause of delay using a 5-point rating scale (i.e. 1 = very low, 2 = low, 3 = medium, 4 = high and 5 = very high). Also, using the same rating scale, the questionnaire assessed the average delay in the current grain bin construction projects. To obtain as many replies as possible, some governmental departments, research institutes and enterprises involved in Chinese grain bin projects were contacted with the purpose of data collection. Six institutions including one governmental department, one client, one designer, one contractor, one consultancy and one research institution, accepted the invitations and agreed to fill in the questionnaire, and a total of 300 questionnaires were distributed to these supporting institutions by mail. Eventually, a total of 108 valid replies were received, yielding an encouraging response rate of 36% for mail-out surveys in CEM research (Akintoye and Fitzgerald 2000; Aibinu and Al-Lawati 2010). Table 3 profiles the respondents. It could be noted that the respondents represent academics and various project stakeholders such as government, client, contractor, consultant and designer and that more than 70% of them have at least six years of experience and hold middle managerial positions or above in their organizations.
+Hence, the respondent panel has sufficient experiences to address the research question of this study. Additionally, the working places of the respondents cover the different geographic areas of China, including eastern, central, western and north-eastern China, and thus the delay issues in grain bin construction projects across the entire China are all involved in this study.
+  Considering each delay cause was evaluated in terms of LO and MI, a delay index (DI) was calculated to represent each delay cause. DI was determined by the square root of the product of LO and MI assessments, and such an approach has been widely used in risk index studies which are of similar nature to this study (Xu et al. 2010; Ke et al. 2011; Hwang et al. 2015). Factor analysis, a widely used statistical technique that can identify a small number of individual factors beneath a set of interrelated variables, was used to categorize the delay causes identified in this study. As recommended by Zhao et al. (2013), principal component analysis was conducted to extract the delay cause factors for its simplicity and distinctive capacity of data reduction. Assuming that correlations among various delay cause factors exist, the Promax rotation was conducted as suggested by Conway and Huffcutt (2003). The appropriateness of using factor analysis was evaluated via Kaiser– Meyer–Olkin (KMO) and Bartlett’s test of sphericity, as suggested by Dziuban and Shirkey (1974).
+  The structural equation modelling (SEM) approach was then employed to explore the most significant delay cause category in grain bin construction projects, by testing a hypothesis established between delay cause categories and the average delay in grain bin construction projects. The SEM method has been deemed one of the most suitable techniques for analysing the possible relationships among variables (Zhao et al. 2013; Shan et al. 2016), because SEM can model the relationships among multiple independent and dependent variables simultaneously, which differs significantly from the first-generation regression models, such as the stepwise multiple regression models that can analyse only one layer of linkage between independent and dependent variables at a time (Gefen et al. 2000; Le et al. 2014a). Therefore, the SEM approach was selected in this study. Also, according to Iacobucci (2010), SEM can still perform well even with small sample sizes (e.g. 50–100). This further justifies that SEM is an appropriate research method for this study for which the sample size (i.e. 108) is not large either.
+  Partial least squares structural equation modelling (PLS-SEM) is a typical component-bases structure analysis, and it is largely composed of two sub-models: the measurement model that represents the relationships between the observed variables and the latent variables, and the structural model that represents the relationships between the latent variables, as indicated in Figure 1. According to Aibinu and Al-Lawati (2010), and Hair et al. (2011), PLS-SEM is a causal modelling approach aimed at maximizing the explained variance of the dependent latent variables, and while the quality of data is evaluated by measurement model characteristics. Therefore, this type of SEM approach is believed capable of providing more robust estimations of the structural model. Also, PLS-SEM has unique advantages in addressing complex problems without requiring a large sample size, allowing latent variables measured by fewer observed variables (e.g. one or two), and having no specific requirement on data distribution (Hair et al. 2011; Shan et al. 2015). Thus, PLS-SEM was adopted in this study.
+Results and discussions
+Principal causes of delay for grain bin construction projects
+Table 4 shows the assessments of the 20 delay causes in terms of LO, MI and DI. The Kruskal–Wallis test was also performed to check whether significant differences exist among the respondents with diverse professional backgrounds. The testing results show that the asymptotic significance values for all the delay causes are greater than 0.05, indicating no significant difference among respondents with different professional backgrounds (Hon et al. 2012). According to the LO assessments, the top five delay causes that are most likely to occur in Chinese grain bin construction projects are ‘delay in progress of payments by clients,’ ‘shortage of adequate equipment,’ ‘poor communication among contracting parties,’ ‘poor labour productivity’ and ‘problems with subcontractors.’ Based on the MI assessments, the top five delay causes that have most significant impacts on Chinese grain bin construction projects are ‘lack of finance by clients,’ ‘contract-related disputes,’ ‘inadequate experience of the design team,’ ‘slow decision making of clients’ and ‘shortage of adequate equipment.’ The DI results reveal that the top five significant delay causes for Chinese grain bin construction projects are ‘shortage of adequate equipment,’ ‘poor communication among contracting parties,’ ‘problems with subcontractors,’ ‘inadequate experience of the design team’ and ‘frequent change orders by clients.’ Also, the mean
+
+
+Figure 1. An example of PLS-SEM model.
+Table 4. Assessments of the 20 delay causes in terms of probability, severity and delay index.
+
+	Likelihood of occurrence	Magnitude of impact	Delay index
+CodeMeanRankAsymp. sig. of KWTMeanRankAsymp. sig. of KWTMeanRankAsymp. sig. of KWTDC13.82120.4453.76130.5093.79120.477DC24.2430.5564.1890.6904.2120.623DC33.16180.4384.5010.7533.77140.596DC43.38160.7504.2380.6753.78130.713DC54.3710.6813.81110.7184.0870.700DC64.2040.2833.77120.4323.9880.358DC73.9380.5534.4320.4774.1760.515DC83.51140.4413.63160.5533.57170.497DC93.9870.5444.3930.3344.1840.439DC103.87100.4453.73140.4513.80100.448DC114.0360.6884.3360.5584.1840.623DC123.21170.2963.13200.5083.17180.402DC133.52130.6424.10100.5263.80100.584DC143.85110.5413.66150.6773.75150.609DC154.2920.3464.3550.4494.3210.398DC164.1550.3534.2770.5534.2120.453DC173.39150.6914.3840.4283.8590.560DC183.9290.5143.55170.5833.73160.549DC193.08190.3663.20190.6433.14190.505DC202.91200.3533.35180.7663.12200.560
+Note: KWT represents Kruskal–Wallis test.
+assessment of respondents’ perceptions of average delay in Chinese grain bin construction projects was calculated, and the result of 3.98 points indicated that the delay in Chinese grain bin construction projects was very serious.
+Delay cause categories for grain bin construction projects
+To explore the categories of the various delay causes, factor analysis was conducted with the data collected from the questionnaire, with the aid of The Statistical Package for the Social Sciences 17.0 software. As indicated in Table 5, five delay cause categories were derived from the 20 delay causes. This five delay cause categories are contractor-related causes (CORC), client-related causes (CLRC), designer-related causes (DERC), managerialrelated causes (MARC) and external-related causes (EXRC), respectively. Also, the factor analysis results showed that the KMO value was 0.803, which was higher than the threshold of 0.5 (Norusis 2008). The total variance explained was 74.317%, which was also higher than the common threshold of 60% (Hair et al. 2010). Bartlett’s test of sphericity produced an approximate x2 = 1587.802 (d.f. = 190, p = 0.000), which indicates the high correlations among various delay causes (Dziuban and Shirkey 1974). All these results indicate the appropriateness of conducting factor analysis. Moreover, the factor loadings of all the delay causes on their corresponding factors were greater than the recommended guideline of 0.5 (Hair et al. 2010), suggesting that those delay causes can explain those factors well. Furthermore, it could be noted that three out of the five categories were tagged according to the relevant project stakeholders, generally similar to Alaghbari et al. (2007), AlKharashi and Skitmore (2009), Gund€ uz et al. (€ 2013) and Mahamid et al. (2012) in which the various delay causes were also categorized upon their affiliated project stakeholders. Likewise, the management and external issues related categories identified were also often
+Table 5. Factor analysis result of delay causes in grain bin construction projects.
+CodeConstructContractorrelated causesClientrelated causesDesignerrelated causesManagerialrelated causesExternalrelated causesDC6
+DC8
+DC10
+DC13
+DC15
+DC16 DC3
+DC5
+DC110.711
+0.814
+0.791
+0.889
+0.804 0.756
+¡0.1420.095
+¡0.0810.502
+¡0.4050.037
+¡0.1010.141
+¡0.115 ¡0.810 0.716
+0.8000.576
+0.294
+0.566
+0.302
+0.340
+0.236 0.180 0.138
+0.2880.693
+0.237
+0.593
+0.332
+0.195
+0.205 0.244 0.254
+0.335¡0.384
+¡0.087
+¡0.163
+¡0.158
+¡0.098
+¡0.0910.073
+0.038
+0.117DC17 DC1
+DC9
+DC19 DC2
+DC4
+DC7
+DC18
+DC12
+DC14
+DC20
+Eigenvalue0.034
+0.425
+0.405 0.439
+0.244 0.623 0.755
+0.355
+0.029 ¡0.017
+0.037
+6.4520.916
+0.284 0.263 0.411
+0.295 0.463 0.552
+0.391
+0.088
+0.265
+0.065
+3.8310.234
+0.912
+0.903
+0.963
+0.299 0.518 0.653
+0.347 0.066 0.012
+0.041
+1.9140.343
+0.398 0.344 0.499
+0.830
+0.705
+0.782
+0.862
+¡0.061
+0.093
+0.046
+1.5100.098
+¡0.0810.165
+¡0.089
+¡0.037
+¡0.318
+¡0.275
+¡0.063 ¡0.747 0.733 0.804
+1.157Variance (%)32.26119.1549.5697.5515.783Cumulative variance (%)32.26151.41460.98468.53574.317Note. Bold values are significant at 0.05 level.
+mentioned by previous studies (e.g. Assaf and Al-Hejji 2006; Abd El-Razek et al. 2008; Kazaz et al. 2012; Fallahnejad 2013). This indicates that the categorization results of the delay causes in grain bin construction projects are basically in line with those for general construction projects, which has been widely recognized by the current CEM research community and thereby can be used for building a model for the test.
+  Based on the factor analysis result, this study proposed a hypothesized structural equation model to explore the most significant delay cause category in grain bin construction projects, as shown in Figure 2. The hypothesized model consists of six measurement models and one structural model. Among the six measurement models, one measures the average delay in grain bin construction projects, and the other five measure the diverse delay cause categories. Meanwhile, the structural model measures the relationships between the five delay cause categories and the average delay in grain bin construction projects, hypothesizing that the five delay cause categories are positively correlated with the average delay in grain bin construction projects.
+  The PLS-SEM approach was employed to test the hypothesized model with the aid of the Smart PLS 2.0M3 software. Three indicators, namely, composite reliability, loadings of measurement items on the corresponding construct and average variance extracted (AVE), were examined to evaluate four kinds of validities of the measurement model, namely, (1) indicator reliability, (2) internal consistency reliability, (3) convergent validity and (4) discriminating validity (Hair et al. 2011; Ning and Ling 2013). Tables 6–8 show the evaluation results of the
+
+Figure 2. The hypothesized model of delay causes and the average delay in grain bin construction projects.
+Table 6. Measurement model evaluation results.
+Delay cause factorDelay causeIndicator loadingAVEComposite reliabilityContractor-related causes (CORC)DC60.82130.64750.8077DC80.7246DC100.6812DC130.7994DC150.7946DC160.6466Client-related causes (CLRC)DC30.86240.61560.8638DC50.7819DC110.8278DC170.6525Designer-related causes (DERC)DC10.86770.57610.8779DC90.7236DC190.6962Managerial-related causes (MARC)DC20.74030.60220.8006DC40.6064DC70.7890DC180.6662External-related causes (EXRC)DC120.66160.56330.7154DC140.8174DC200.5328Note: AVE represents average variance extracted.
+measurement models. Table 7 shows that: (1) the loadings of all delay causes on their corresponding delay cause categories are greater than 0.5, indicating an acceptable indicator reliability (Hulland 1999; Ning and Ling 2013); (2) the composite reliability values of each delay cause category are greater than 0.7, suggesting a satisfactory level of internal indicator reliability with each delay cause category (Hair et al. 2011; Ning and Ling 2014); (3) the AVE values of all the delay cause categories are higher than 0.5, showing a satisfactory level of the construct convergent validity (Hair et al. 2011; Ning and Ling 2013). Table 8 shows that the AVE of each delay cause category is higher than its squared correlation with any other delay cause category. Table 9 indicates that each delay cause has the highest loading on the corresponding delay cause category. These results suggest the high discriminate validity of the delay cause factors (Hair et al. 2011; Ning and Ling 2013).
+Table 7. Correlation matrix and the square root of each delay cause factor’s AVE.
+Delay cause factorCORCCLRCDERCMARCEXRCCORC0.8047CLRC0.00690.7846DERC0.47800.23780.7590MARC0.51600.32270.53930.7760EXRC0.43400.20670.02550.31180.7505Note: CORC represents contractor-related causes; CLRC represents clientrelated causes; DERC represents designer-related causes; MARC represents managerial-related causes; EXRC represents external-related causes.
+Bold values are significant at 0.01 level.
+Table 8. Cross loadings for individual delay causes.
+Delay causeCORCCLRCDERCMARCEXRCDC6
+DC8
+DC100.8213
+0.7246
+0.68120.3676
+0.1584
+0.26160.4659
+0.3362
+0.45250.0800
+0.4636
+0.0327¡0.1713
+¡0.09170.0040DC13
+DC15
+DC16
+DC3
+DC5
+DC110.7994
+0.7946
+0.6466
+¡0.06330.0886
+¡0.0052¡0.2525
+¡0.2300
+¡0.86240.3326
+0.7819
+0.82780.4124
+0.3020
+0.3721 0.1749 0.1209
+0.18420.4338
+0.4077
+0.3905 0.2278 0.1922
+0.2837¡0.0278
+¡0.0310
+¡0.16440.0893
+0.1143
+0.1701DC170.10240.65250.23540.28470.1823DC1
+DC90.5436
+0.50160.2084
+0.21190.8677
+0.72360.4064
+0.5025¡0.03460.0347DC190.57240.37080.69620.50430.0801DC20.26910.24350.28770.74030.0602DC4
+DC7
+DC180.8485
+0.0674
+0.38250.3161
+0.4346
+0.29620.3036
+0.5842
+0.32410.6064
+0.7890
+0.6662¡0.08680.0089
+¡0.0596DC12
+DC14
+DC20¡0.0272
+¡0.02430.01670.1306
+0.1967
+0.09350.0481
+0.0229
+0.01480.0353
+0.0394
+0.02600.6616
+0.8174
+0.5328	¡	¡	¡
+Note: CORC represents contractor-related causes; CLRC represents clientrelated causes; DERC represents designer-related causes; MARC represents managerial-related causes; EXRC represents external-related causes.
+Bold values are significant at 0.01 level.
+Table 9. Structural model evaluation result.
+PathsHypothesized sign  Path coefficientt-ValueInferenceMARCDERCEXRCCLRCCORC!!!!ADGBPADGBPADGBPADGBPADGBP+
++
++
++
++0.51
+0.25
+0.20
+0.24
+0.158.2218
+4.9094
+3.3447
+3.5816
+3.0639Supported
+Supported
+Supported
+Supported
+Supported!
+Note: CORC represents contractor-related causes; CLRC represents clientrelated causes; DERC represents designer-related causes; MARC represents managerial-related causes; EXRC represents external-related causes; ADGBP represents average delay in grain bin projects.
+  Table 9 shows the path coefficients and corresponding t-statistics of the structural model. Five paths have a t-value greater than 2.58, indicating that they are statistically significant at the 0.01 level (Hair et al. 2011; Ning and Ling 2014). Thus, the hypotheses of five delay cause categories positively correlated with the average delay in grain bin construction projects are all supported. In addition, the path coefficient results show that CORC are the most influential delay cause category on grain bin construction projects with a value of 0.51, followed by CLRC (0.25), MARC (0.24), DERC (0.20) and EXRC (0.15).
+Contractor-related causes
+CORC are the most significant delay cause category for grain bin construction projects. This category refers to various contractor-related issues such as inadequate experience, improper planning, poor site management, shortage in equipment and labour issues.
+  Inadequate contractor experience is an important cause of delay in construction projects (Odeh and Battaineh 2002; Sambasivan and Soon 2007). Different from normal construction projects, grain bin construction projects are a particular type of construction project whose success mainly relies on contractors’ experiences on previous similar projects (Sun 1999). Contractors without experiences in grain bin construction projects cannot plan, construct and manage a grain bin construction project properly, which would inevitably lead the project to time overruns.
+  Improper planning by contractors is another issue that would lead to construction delays in grain bin construction projects. Construction planning involves the selection of technology, the definition of work tasks, the evaluation of the necessary resources and duration for individual tasks, and the identification of any relations among the different work tasks and is thus a fundamental activity in the management and execution of construction projects (Khoshgoftar et al. 2010). However, in the Chinese grain bin construction projects, in most cases, the planning proposed by the contractor is a simple summary schedule that merely depicts project milestones (Chen et al. 2013). Such planning is hardly practical or workable and would result in delay undoubtedly.
+  Poor site management is a common delay cause in construction projects (Odeh and Battaineh 2002; Sambasivan and Soon 2007). Also, this study reveals that the contractors involved in the Chinese grain bin projects have poor site management capability. This is because in the Chinese construction industry, the majority of the contractor site managers are trained as civil engineers with sound technical capabilities but limited management capabilities (Sun et al. 2013). Thus, these site managers cannot manage the whole grain bin construction project well, resulting in a poor schedule management.
+  Equipment is also a critical issue that might result in construction delay (Aibinu and Jagboro 2002; Mahamid, et al. 2012). Currently, the majority of contractors involved in the Chinese grain bin construction projects are of small size and lack the specialized equipment to facilitate their construction work of grain bin facilities (Chen et al. 2013), and these contractors have to rent equipment to satisfy their construction needs. However, they might be unable to gain their needed equipment promptly if they ignore a sound planning for the usage of equipment or the supply of the equipment on the lease market is deficient (Lu et al. 2008), which would eventually lead to delay.
+  Labour issues also have a significant impact on the delay problem in construction projects (Fallahnejad 2013). In the grain bin construction projects of the country, although labour supply is not a critical issue due to the relatively vast flux of local Chinese labourers (Zhang and Liu 2008; Ng and Tang 2010), the productivity of labour forces is of great concern. This condition may be attributed to the fact that the majority of Chinese construction workers used to be peasants and are not well trained with various construction work skills (Li and Wang 2011). Such workers cannot fulfil their work efficiently, which may lead to a construction delay.
+  Also, the subcontractor issue might also lead to delay in grain bin construction projects. Currently, the degree of subcontracting in Chinese grain bin construction projects is very high, and the competencies of those subcontractors vary significantly (Chen et al. 2013). The project might face a high risk of delay if it involves some incompetent subcontractors during its construction.
+Client-related causes
+CLRC are the second most significant delay cause category in grain bin construction projects. This category covers the issues of slow progress payment by the client, frequent change orders raised by the client, and slow decision-making by the client.
+  This study shows that the delay in client payment progress is a prime delay cause in grain bin construction projects. In China, all the grain bin construction projects are public projects, and their funds come from the central or local government (Chen et al. 2013). Normally, government departments need to review each client’s payment carefully before approval, which usually requires a long processing time (Le et al. 2014b). This issue has significantly affected the on-time progress payment by the client side and thus indirectly contributes to delay in grain bin construction projects.
+  Frequent change orders raised by clients are also considered as a cause of the delay. In the construction industry, clients are usually in leading positions, which enables them to suspend construction work at any point in time and to redesign and reconstruct any part of the project according to their impromptu thoughts. Such overdue interventions from the client would disturb the construction process and eventually result in a delay. In fact, this issue of frequent change orders by clients has been considered as a critical delay factor in Chinese public construction projects (Jin 2007), and grain bin construction projects are no exception.
+  Another major CLRC of the delay is the slow decision-making of clients. The relevant reason appears to be the bureaucratization-prone in the Chinese client organizations (Huang 2002; Nan 2009), which results in delayed responses to other contracting parties’ appeals. This issue has emerged in previous studies of Chen et al. (2008) and Wang (2009) that investigated decisionmakings in government investment in China.
+Managerial-related causes
+This study reveals MARC the third most significant delay cause category in grain bin construction projects. This category refers to communication, conflict and contractual dispute issues among contracting parties of grain bin construction projects.
+  A construction project usually involves many contracting parties including the client, contractor, consultant and supplier. Thus, effective communications among contracting parties are critical to project success. In line with the findings of Sambasivan and Soon (2007) and Ruqaishi and Bashir (2013), Chinese grain bin construction projects have continuously suffered from poor communication among contracting parties. This is because the organizational structures of the majority of Chinese construction companies have a straight line of functional form, which restricts their internal communications and external communications with other contracting parties (Ye et al. 2015), and the poor communication inevitably causes issues (e.g. design errors, frequent change orders and contractual disputes) to projects, which finally result in delays.
+  This study shows that conflicts among contracting parties and contract-related disputes are two critical delay causes in grain bin construction projects. These two delay causes are of the same nature which mainly refers to the interrelationships among contracting parties. The former is mainly derived from the different expectations from different contracting parties concerning the projects, while the latter can be attributed to a set of reasons as follows: (1) ill-defined clauses in current contracts, (2) unpredicted tasks and works that are not identified in the current contracts, (3) delay in payments for completed work by clients and (4) lack of communication among contracting parties (Lee et al. 2016). Settling these conflicts and disputes always require a longterm process and thus might lead delay to the grain bin construction projects. This result is also consistent with the findings obtained in the contexts of Iran (Khoshgoftar et al. 2010), Malaysia (Sambasivan and Soon 2007), Saudi Arabia (AlKharashi and Skitmore 2009), Egypt (Abd El-Razek et al. 2008), Oman (Ruqaishi and Bashir 2013) and Turkey (Kazaz et al. 2012).
+  This study also reveals that inadequate delay penalties and poor incentives for on-time delivery have significantly affected delay in grain bin construction projects. Including penalty and incentive clauses in contracts can urge contractors to complete projects promptly (Hu et al. 2012). However, no such clauses have been found in the current construction contracts of grain depot projects. This term has also been identified as a significant cause of delay in oil and gas projects in Oman (Ruqaishi and Bashir 2013) and public projects in Saudi Arabia (Al-Khalil and Al-Ghafly 1999).
+Designer-related causes
+The results of this study indicate that DERC significantly influence the delay problem in Chinese grain bin construction projects, similar to the statement of Yang and Wei (2010) that designer performance is a critical factor in avoiding construction delays. DERC in this study consist of three items, namely, the inadequate experience of the design team, delay in producing design documents, and ambiguities, mistakes and inconsistencies in specifications and drawings. As for the two former items, they might be because China is a country with broad areas, and thus grain bin construction projects from different geographic regions have different characteristics and technical requirements, to which designers are unable to respond promptly and properly (Chen et al. 2013). As for the third item, the low level of standard service provided by the designers or the lack of communication among contracting parties should be the cause.
+External-related causes
+Compared with the other four delay cause categories, EXRC have the least influence on the average delay in Chinese grain bin construction projects. EXRC in this study refer to three specific delay causes, namely, slow land expropriation due to resistance from occupants, multifarious licenses/permits and extreme weather events. Obtaining several compulsory licenses/permits from government agencies is indispensable for any construction business in China (Zou et al. 2007). However, given the public nature of the grain bin construction projects, their licenses/permits will be processed promptly compared to the projects of the private or commercial nature. As the majority of grain bin projects are built in rural areas, the land expropriation would be much easier compared to those projects built in urban areas (Lin et al. 2000), and thus the construction process of grain bin projects will be less affected. Also, China is a typical temperate country that enjoys the moderate weather in most of its areas (Zhao et al. 2009). Therefore, the weather is not a critical factor that would impact the construction of grain bin projects in this country.
+Conclusions and implications
+This study systematically investigated the causes of delay in Chinese grain bin construction projects. By conducting a comprehensive literature review and administering an empirical questionnaire to the governmental officials, industry practitioners and academic researchers, this study identified 20 factors that may cause a delay in Chinese grain bin construction projects. Survey results also revealed that the top five significant delay causes for grain bin construction projects are ‘shortage of adequate equipment,’ ‘poor communication among contracting parties,’ ‘problems with subcontractors,’ ‘inadequate experience of the design team’ and ‘frequent change orders by clients.’ Moreover, this study grouped the 20 delay causes into three categories and explored the most significant delay cause category by testing the interrelationships between delay cause categories and the average delay in grain bin construction projects, with the aid of PLS-SEM method. Testing results showed that the most significant category was CORC, followed by CLRC, MARC, DERC and EXRC.
+  Although this study merely focused on the delay problem in the grain bin construction projects in China, its findings are beneficial to the other countries around the world, particularly to those countries that produce massive grain output and require numerous grain bins to be constructed or renovated, such as United States, China, Brazil, India, Russia, Indonesia, Viet Nam and Thailand. Relying on the findings from this study, practitioners in these countries can gain an in-depth understanding of the problem of delay in grain bin construction projects, develop a similar checklist of delay causes for their own grain bin construction projects and come up with some strategies that are relatively more effective to address the problem of delay. Also, the findings from this study have an important contribution to the society as they can help reduce the delays and achieve timely deliveries of grain bin projects and thereby assure a timely and safe grain storage, which is beneficial for the entire society.
+  Despite the detailed investigation of the delay causes in grain bin construction projects, some limitations are still present. First, this study collected the subjective opinion-based data from the respondents, which might be biased due to respondents’ professional experiences. Second, the sample size of the questionnaire is not large. Thus, caution should be warranted when analysis results are interpreted and generalized. In spite of these limitations, the findings from this study are still valuable because they have provided the industry and academia a deep understanding of delay causes in grain bin construction projects. Further research actions can be directed to developing the specific mitigation activities that can tackle the delay in Chinese grain bin construction projects, as well as evaluating their effectiveness. It is believed that such follow-up research can also contribute to the entire knowledge body of delay in the construction sector.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+Funding
+Ministry of Science and Technology of the People’s Republic of China (CN) [grant number 2011BAD03B00]; Department of Science and Technology of Henan Province [grant number 132102210200].
+ORCID
+Albert P. C. Chan  http://orcid.org/0000-0002-4853-6440
+References
+Abd El-Razek M, Bassioni H, Mobarak A. 2008. Causes of delay in building construction projects in Egypt. J Constr Eng Manage. 134:831–841.
+Aibinu AA, Al-Lawati AM. 2010. Using PLS-SEM technique to model construction organizations’ willingness to participate in e-bidding. Auto Constr. 19:714–724.
+Aibinu A, Jagboro G. 2002. The effects of construction delays on project delivery in Nigerian construction industry. Int J Proj Manage. 20:593–599.
+Akintoye A, Fitzgerald E. 2000. A survey of current cost estimating practices in the UK. Constr Manage Econ. 18:161– 172.
+Alaghbari W, Razali A, Kadir M, Salim A, Ernawati. 2007. The significant factors causing delay of building construction projects in Malaysia. Eng, Constr Archit Manage. 14:192– 206.
+Al-Khalil MI, Al-Ghafly MA. 1999. Important causes of delay in public utility projects in Saudi Arabia. Constr Manage Econ. 17:647–655.
+AlKharashi A, Skitmore M. 2009. Causes of delays in Saudi Arabian public sector construction projects. Constr Manage Econ. 27:3–23.
+Al-Tabtabai HM. 2002. Causes for delays in construction projects in Kuwait. Eng J Univ Qatar. 15:19–37.
+Ameyaw EE, Hu Y, Shan M, Chan AP, Le Y. 2016. Application of Delphi method in construction engineering and management research: a quantitative perspective. J Civ Eng Manage. 22:991–1000.
+Assaf SA, Al-Hejji S. 2006. Causes of delay in large construction projects. Int J Proj Manage. 24:349–357.
+Ballesteros-Perez P, del Campo-Hitschfeld ML, GonzalezNaranjo MA, Gonzalez-Cruz MC. 2015. Climate and construction delays: case study in Chile. Eng Constr Archit Manage. 22:596–621.
+Breslow N. 1970. A generalized Kruskal-Wallis test for comparing K samples subject to unequal patterns of censorship. Biometrika. 57:579–594.
+Chen G-x, Liu X, Song J-l. 2013. Construction schedule optimization design of large grain depot. J Henan Univ Technol (Nat Sci Ed). 4:74–77.
+Chen H, Wang M, Zhu H. 2008. Analysis on decision-making system and operational mechanism of the government investment projects. Wuhan: Sci Technol Prog Policy. 25:87–90.
+China State Administration of Grain C. 2010. China grain yearbook 2010. Beijing: Economy & Management Publishing House.
+Conway JM, Huffcutt AI. 2003. A review and evaluation of exploratory factor analysis practices in organizational research. Organ Res Methods. 6:147–168.
+Danso H, Antwi JK. 2012. Evaluation of the factors influencing time and cost overruns in telecom tower construction in Ghana. Civ Environ Res. 2:15–24.
+Dziuban CD, Shirkey EC. 1974. When is a correlation matrix appropriate for factor analysis? Some decision rules. Psychol Bull. 81:358–361.
+Elinwa AU, Joshua M. 2001. Time-overrun factors in Nigerian construction industry. J Constr Eng Manage. 127:419–425.
+Fallahnejad MH. 2013. Delay causes in Iran gas pipeline projects. Int J Proj Manage. 31:136–146.
+Frimpong Y, Oluwoye J, Crawford L. 2003. Causes of delay and cost overruns in construction of groundwater projects in a developing countries; Ghana as a case study. Int J Proj Manage. 21:321–326.
+Gefen D, Straub D, Boudreau M-C. 2000. Structural equation modeling and regression: guidelines for research practice. Commun Assoc Inform Syst. 4:1–77.
+Gund€ uz M, Nielsen Y,€ Ozdemir M.€ 2013. Quantification of delay factors using the relative importance index method for construction projects in Turkey. J Manage Eng. 29:133–139.
+Gunduz M, Nielsen Y, Ozdemir M. 2015. Fuzzy assessment model to estimate the probability of delay in Turkish construction projects. J Manage Eng. 31:04014055.
+Hair JF, Anderson RE, Babin BJ, Black WC. 2010. Multivariate data analysis: a global perspective. Upper Saddle River (NJ): Pearson.
+Hair JF, Ringle CM, Sarstedt M. 2011. PLS-SEM: indeed a silver bullet. J Mark Theory Pract. 19:139–152.
+Hon CK, Chan AP, Yam MC. 2012. Empirical study to investigate the difficulties of implementing safety practices in the repair and maintenance sector in Hong Kong. J Constr Eng Manage. 138:877–884.
+Hu Y, Chan AP, Le Y, Jiang W-P, Xie L-L, Hon CH. 2012. Improving megasite management performance through incentives: lessons learned from the Shanghai Expo construction. J Manage Eng. 28:330–337.
+Hu Y, Chan AP, Le Y, Jin R-z. 2015. From construction megaproject management to complex project management: bibliographic analysis. J Manage Eng. 31:04014052.
+Huang Y. 2002. Managing Chinese bureaucrats: an institutional economics perspective. Pol Stud. 50:61–79.
+Hulland J. 1999. Use of partial least squares (PLS) in strategic management research: a review of four recent studies. Strateg Manage J. 195–204.
+Hwang B-g, Shan M, Supa’at NNB. 2017. Green commercial building projects in Singapore: critical risk factors and mitigation measures. Sustain Cities Soc. 4/30:237–247.
+Hwang B-G, Shan M, Xie S, Chi S. 2017. Investigating residents’ perceptions of green retrofit program in mature residential estates: the case of Singapore. Habitat Int. 5/63:103–112.
+Hwang B-G, Zhao X, Ng SY. 2013. Identifying the critical factors affecting schedule performance of public housing projects. Habitat Int. 38:214–221.
+Hwang BG, Zhao X, See YL, Zhong Y. 2015. Addressing risks in green retrofit projects: the case of Singapore. Proj Manage J. 46:76–89.
+Iacobucci D. 2010. Structural equations modeling: fit indices, sample size, and advanced topics. J Consum Psychol.
+20:90–98.
+Jamieson S. 2004. Likert scales: how to (ab) use them. Med Educ. 38:1217–1218.
+Jin G. 2007. Engineering variation management of government investment projects. Constr Econ. S1: 168–169.
+Kaming PF, Olomolaiye PO, Holt GD, Harris FC. 1997. Factors influencing construction time and cost overruns on highrise projects in Indonesia. Constr Manage Econ. 15:83–94.
+Kazaz A, Ulubeyli S, Tuncbilekli NA. 2012. Causes of delays in construction projects in Turkey. J Civ Eng Manage. 18:426–435.
+Ke Y, Wang S, Chan AP, Cheung E. 2011. Understanding the risks in China’s PPP projects: ranking of their probability and consequence. Eng, Constr Archit Manage. 18:481–496.
+Khoshgoftar M, Bakar AHA, Osman O. 2010. Causes of delays in Iranian construction projects. Int J Constr Manage. 10:53–69.
+Le Y, Shan M, Chan AP, Hu Y. 2014a. Investigating the causal relationships between causes of and vulnerabilities to corruption in the Chinese public construction sector. J Constr Eng Manage. 140:05014007.
+Le Y, Shan M, Chan AP, Hu Y. 2014b. Overview of corruption research in construction. J Manage Eng. 30:02514001.
+Lee CK, Yiu TW, Cheung SO. 2016. Selection and use of Alternative Dispute Resolution (ADR) in construction projects— Past and future research. Int J Proj Manage. 34:494–507.
+Li Z-f, Wang H-m. 2011. A study on production efficiency of Chinese construction industry based on DEA. J Syst Manage. 3: 307–313.
+Lin M, Yang Y, Huang M. 2000. Selection of the optimum grain depot position. Math Pract Theory. 30:267–274.
+Lu W, Shen L, Yam MC. 2008. Critical success factors for competitiveness of contractors: China study. J Constr Eng Manage. 134:972–982.
+Mahamid I, Bruland A, Dmaidi N. 2012. Causes of delay in road construction projects. J Manage Eng. 28:300–310.
+Nan X-g. 2009. Effects of bureaucratism and administrative corruption on entrepreneurship and start-up financing. Syst Eng-Theory Pract. 11: 93–99.
+Ng ST, Tang Z. 2010. Labour-intensive construction subcontractors: their critical success factors. Int J Proj Manage. 28:732–740.
+Ning Y, Ling FYY. 2013. Reducing hindrances to adoption of relational behaviors in public construction projects. J Constr Eng Manage. 139: 04013017.
+Ning Y, Ling FYY. 2014. Boosting public construction project outcomes through relational transactions. J Constr Eng Manage. 140:04013037.
+Norusis M. 2008. SPSS 16.0 statistical procedures companion. Upper Saddle River (NJ): Prentice Hall Press.
+Odeh AM, Battaineh HT. 2002. Causes of construction delay: traditional contracts. Int J Proj Manage. 20:67–73.
+Ruqaishi M, Bashir HA. 2013. Causes of delay in construction projects in the oil and gas industry in the gulf cooperation council countries: a case study. J Manage Eng. 31:05014017.
+Sambasivan M, Soon YW. 2007. Causes and effects of delays in Malaysian construction industry. Int J Proj Manage. 25:517–526.
+Shan M, Chan AP, Le Y, Hu Y. 2015. Investigating the effectiveness of response strategies for vulnerabilities to corruption in the Chinese public construction sector. Sci Eng Ethics. 21:683–705.
+Shan M, Chan AP, Le Y, Hu Y, Xia B. 2016. Understanding collusive practices in Chinese construction projects. J Prof Issues Eng Educ Pract. 05016012.
+Sun Z. 1999. Construction of slip form for shallow Silo of central grain storage at Dongdu Port area of Xiamen Port. Port Waterway Eng. 50–52.
+Sun C, Song H, Zhai X, Zhang H. 2013. Research on professional competency system of construction project manager. Forecasting. 72–76.
+Wang L-g. 2009. On scientific decision-making of government investment project. Res Financ Econ Issues. 12:50–55.
+Wang W-C, Lin C-L, Wang S-H, Liu J-J, Lee M-T. 2014.
+Application of importance-satisfaction analysis and influence-relations map to evaluate design delay factors. J Civ Eng Manage. 20:497–510.
+Xu Y, Yeung JF, Chan AP, Chan DW, Wang SQ, Ke Y. 2010. Developing a risk assessment model for PPP projects in China — a fuzzy synthetic evaluation approach. Auto Constr. 19:929–943.
+Yang JB, Chu MY, Huang KM. 2013. An empirical study of schedule delay causes based on Taiwan’s litigation cases. Proj Manage J. 44:21–31.
+Yang J-B, Ou S-F. 2008. Using structural equation modeling to analyze relationships among key causes of delay in construction. Can J Civ Eng. 35:321–332.
+Yang J-B, Wei P-R. 2010. Causes of delay in the planning and design phases for construction projects. J Archit Eng. 16:80–83.
+Yang J-B, Yang C-C, Kao C-K. 2010. Evaluating schedule delay causes for private participating public construction works under the Build-Operate-Transfer model. Int J Proj Manage. 28:569–579.
+Ye G, Jin Z, Xia B, Skitmore M. 2015. Analyzing causes for reworks in construction projects in China. J Manage Eng. 31:04014097.
+Zhang F, Liu Y. 2008. Dynamic mechanism and models of regional rural development in China. Acta Geogr Sin-Chin Ed. 63: 115–122.
+Zhao X, Hwang B-G, Low SP. 2013. Critical success factors for enterprise risk management in Chinese construction companies. Constr Manage Econ. 31:1199–1214.
+Zhao D, Wang X, Hou L. 2009. The study on key risks of delay in construction project. Technoecon Manage Res. 48–50.
+Zou PX, Fang D, Qing Wang S, Loosemore M. 2007. An overview of the Chinese construction market and construction management practice. J Technol Manage China. 2:163–176.
+
+Appendix Initial causes of delay identified from literature
+No.Initial cause of delaySource[1]	[2][3]	[4][5]	[6][7]	[8]	[9]	[10][11]	[12][13]	[14][15]	[16]	[17][18]	[19]	[20]Limited construction area
+Inconvenient site access
+Multifarious licenses/permits
+Slow land expropriation due to resistance from occupantsx x xx x
+x xx xxx x x x
+xx
+x xxWeather impact on construction activities
+Exchange rate fluctuation
+Problems with neighbours
+Political situation
+Changes in laws and regulations
+Unexpected foundation conditions encountered in sitex x x x x x x x x xx x x xx x x x x x x x xx x
+x x xx x x x x x x x
+x
+x x x    x x x x xSocial and cultural factors
+Delay in progress of payments by clients
+Lack of finances by clients Slow decision-making of clients
+Frequent change orders by clients
+Unreasonable contract duration and imposition of requirementsx
+x x x	x x x x x x x	x
+	x	x x	x x x x x x
+x	x x	x x x x x	x	x	x	x xx
+x x x	x	x x	x x x	x x x x x x x	x x x	x	xPoor communication among contracting partiesx x x	x	x x x xx x x	x xContract-related disputes
+Conflicts among contracting parties
+Inadequate delay penalties/poor incentives
+Labour disputes and strikes
+Problems with subcontractors
+Inadequate contractor experience
+Poor labour productivity
+Shortage of adequate equipment
+Poor site management by contractors
+Shortage of materials
+Difficulties in project financing by contractor
+Improper construction planning by contractorsx x
+x x
+    x x x x x x x	x x x	x x x x x	x x
+x x x	x	x	x x x x	x	x
+	x	x	x x	x x x
+	x	x	x	x
+x	x
+x x x x x x	x	x x x	x	x x	x	x	x	x x x x x x x x x x	x	x
+x x x x x x x x x x
+    x x x	x x	x	x x	x x x	x x x	x	x x x x x x	x x	x x x x x x x	x	x x	x	x x xAccidents in construction
+Ambiguities, mistakes and inconsistencies in specifications and drawingsxx	x x	xx	x
+	x	x	xDelay in producing design documents
+Inadequate experience of design team Mistakes in soil investigation
+Inflexibility of consultant
+Delay in performing inspection by consultant
+Delay in reviewing and approving design documents by consultantx xx
+xx
+	x	x
+x x
+x x x x	x x x	x xx x x
+x	x x
+    x x x x x x x xIncapable inspectors Insufficient inspectors    x x xx	x x	xNote: [1] = Kaming et al. (1997); [2] = Al-Khalil and Al-Ghafly (1999); [3] = Elinwa and Joshua (2001); [4] = Odeh and Battaineh (2002); [5] = Frimpong et al. (2003); [6] = Assaf and Al-Hejji (2006); [7] = Alaghbari et al. (2007); [8] = Sambasivan and Soon (2007); [9] = Abd El-Razek et al. (2008); [10] = Al-Kharashi and Skitmore (2009); [11] = Khoshgoftar et al.(2010); [12] = Yang et al. (2010); [13] = Kazaz et al. (2012); [14] = Mahamid et al. (2012); [15] = Fallahnejad (2013); [16] = Yang et al.(2013); [17] = Ruqaishi and Bashir (2013); [18] = Wang et al. (2014); [19] = Gunduz et al. (2015); [20] = Ballesteros-Perez et al. et al. (2015).
+Questionnaire: Investigating the cause of delay in grain bin construction projects. Section 1: Background information of respondent.
+1. Please select the type of your employer
+A. Government
+B. Client
+C. Contractor
+D. Consultant
+E. Designer
+F. Academic
+2. Please select your position in your organization
+A. Top managerial level (e.g. president, general manager and professor)
+B. Middle managerial level (e.g. department director, project manager and associate professor)C. Professional (e.g. technician, and quantity surveyor)
+3. Please identify your experience in the undertaking grain bin construction projects
+A. <5 years
+B. 6–10 years
+C. 11–15 years
+D. 16–20 years E. 21–30 years
+F. >30 years
+4. Please identify your working place in the past three years
+A. Eastern China
+B. Central China
+C. Western China
+D. Northeastern China
+Section 2: Assessment of delay causes.
+Based on your experience in grain bin construction projects, please assess each delay cause listed below regarding their likelihood of occurrence and magnitude of impact, using the following rating scale:
+1 – Very Low; 2 – Low; 3 – Medium; 4 – High; 5 – Very High.
+
+	Likelihood of occurrence	Magnitude of impact
+No.	Delay cause	12	3	4	5	1	2	3	4	5DC1.Ambiguities, mistakes and inconsistencies in specifications and drawingsDC2.Poor communication among contracting partiesDC3.Lack of finance by clientsDC4.Conflicts among contracting partiesDC5.Delay in progress of payments by clientsDC6.Poor labour productivityDC7.Contract-related disputesDC8.Inadequate contractor experienceDC9.Inadequate experience of the design teamDC10.Poor site management by contractorsDC11.Frequent change orders by clientsDC12.Slow land expropriation due to resistance from occupantsDC13.Improper construction planning by contractorsDC14.Multifarious licenses/permitsDC15.Shortage of adequate equipmentDC16.Problems with subcontractorsDC17.Slow decision-making of clientsDC18.Inadequate delay penalties/poor incentivesDC19.Delay in producing design documentsDC20.Extreme weather eventsSection 3: The average delay in current grain bin construction projects.
+Please provide your perception of the average delay in current grain bin construction projects, according to the following rating scale:
+1 – Very Low; 2 – Low; 3 – Medium; 4 – High; 5 – Very High.
+
+
+
+
+
+
+2 		G.-X. CHEN ET AL.
+
+	INTERNATIONAL JOURNAL OF CONSTRUCTION MANAGEMENT 		3
+
+
+

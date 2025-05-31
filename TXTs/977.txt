@@ -1,0 +1,346 @@
+﻿Construction Management and Economics (1995) 13, 307—318
+How many jobs does construction expenditure generate?
+MICHAEL BALL and ANDREW WOOD
+School of Land Management and Urban Policy, South Bank University, Wandsworth Road, London SW8 2ffZ, UK
+Received 6 October 1994; revised 30 January 1995
+Extra public expenditure on construction is a frequently cited policy to alleviate demand deficient unemployment; yet the actual number of jobs created is uncertain. This paper surveys the job creation effect for the UK. It surveys previous estimates, then a construction employment model is estimated. The results do not conform to theoretical predictions, implying only a weak link between quarterly increases in total construction output and construction employment, and no significant relationship between housebuilding and employment. It is suggested that these results arise from poor quality data, especially the estimates ofchanges in the number ofself-employed workers. As an alternative, construction industry rules-of-thumb are used to derive more plausible employment effects. Employment estimates are also provided for subsectors of the industry. To improve on these calculations we conclude that there is a need for either more accurate construction data or, failing that, periodic site-survey based
+  
+estimates of construction production functions.
+Keywords: Employment, costs, public expenditure.
+Introduction
+At times of recession, when unemployment is high, there are calls to increase public expenditure on construction. More construction output is seen as especially propitious because not only is the industry labour-intensive but also extra construction demand leads to far less imports than in many other areas of economic activity, particularly personal consumption. Because it is labour-intensive the construction industry is said to be able to respond quickly to increases in demand as little investment in capital equipment (which may itself be imported) is required before building work can begin.
+  These arguments are well-known in principle l , but working out the detailed implications is far more difficult. In this paper some of the current estimates of job creation in the UK construction industry are surveyed, and then newly revised construction data are used to model the effect of rises in construction output on employment for the period, 1979—1993. Although we find that our results are robust and conform to theoretical predictions, there are strong indications of data
+   A recent clear exposition of them is given by Glyn and Rowthorn in the Financial Times, 13.8.93.
+0144-6193 co 1995 E. & F.N. spon
+weaknesses which suggest that the employment generation effect is significantly underestimated by our regressions. Finally we argue that these data problems are probably insurmountable and provide some estimates of construction employment using construction estimators' rules-of-thumb. These latter estimates give plausible results but detailed site-based estimates (engineering coefficients) would be the preferable option.
+  These conclusions may seem pessimistic, and some readers may wonder why the effort put into a project that proved so fruitless. We conversely do not think that finding a poor relationship between recorded output and employment in the UK construction industry is actually an exercise in futility. First and most importantly, we feel it reinforces the plea for better data; without it manpower planning in construction is severely handicapped. Secondly others, as is noted in the paper, have produced estimates using similar techniques, and their conclusions we would qualify, suggest they be treated with caution. Finally, though we are obviously strong supporters of the benefits of econometric modelling in construction economics, we also think a healthy respect of its limitations is necessary. There are cases when modelling cannot avoid recourse to detailed surveys and site labour production coefficients are examples of them.
+Previous studies
+Table I summarizes the results of the major studies published since 1980. It should be noted that all were produced for construction industry lobbies, so the publication format allows only limited opportunity to evlauate the means by which the estimates were derived2 The most obvious feature is the wide dispersion of jobs created per L 1 million of extra construction expenditure.
+  All bar the last of the six estimates in Table I are derived from macroeconomic models' forecasts of construction demand (the Treasury adopts the same procedure when asked to provide estimates). Estimated average labour usage coefficients are applied to these forecast outputs to give a global employment figure. An implicit assumption of constant returns to scale then enables these averages to be regarded as representing the marginal employment effects of additional expenditure.
+  The estimates vary so much for three reasons. First, the estimated extra employment is highly dependent on the multiplier effects assumed in the demand equations, so not surprisingly the construction employment estimates from the early 1980s studies tend to be higher than more recent ones because macromodel multipliers were generally assumed to be much larger than is common now. Second, it is unclear how the effect of additional construction expenditure on input prices is taken
+  2 It is also difficult to find out more by contacting the organizations directly as staff turnover and promotion mean that no one remembers the study.
+Table 1 Summary of results of existing studies
+account of. Unless input supply is perfectly elastic some of the employment generating effect of additional expenditure will be lost in higher construction input prices, and employers may well substitute non-labour inputs for labour if wages rise relative to other input prices. In macro-models higher input prices affect employment only insofar as construction input prices are modelled as an influence on demand; whether and how this is done will vary from model to model but in the absence of the detailed calculations no further comment can be made. The labour content approach ignores the input substitution effect. In fact probably the weakest part of these studies is their labour content assumptions. Differences in these assumptions are the third cause of variation in the employment estimates. No adequate data exist on construction production function coefficients; some studies were undertaken in the late 1960s and early 1970s by the Building Research establishment (Forbes
+1967, 1981; Lemassany and Clapp, 1978; NEDO, 1978) but suffered from sampling weaknesses and are now hopelessly out of date.
+Alternative methodologies
+Without detailed knowledge of production functions, construction employment studies have three options when converting output estimates into employment predictions.
+Year of studyProject scale (LbnTotal jobs createdConstruction jobs createdImplied cost per construction job at 1992 pricesConstruction jobs per Elm spent at 1992 pricesEIU/FCEC
+Cambridge
+Econometrics
+Henley/
+NCBMP
+BEC
+ICE/LBS
+Cambridge
+Econometrics1981
+1981
+1984
+1985
+1987
+19923.2
+0.9
+7.9
+3.9
+7.4555 000
+62 00064 000
+ 70 000100 000
+55 000
+49 000
+280 000120
+42 000
+48 000
+49 000
+200 00026,667 14,516
+14,062
+28,571
+37,00037.3
+68.8-71.1
+35.0
+27.0EIU: Economists Intelligence Unit; FCEC: Federation of Civil Engineering Contractors; NCBMP: National Council of Building Materials Producers; BEC: Building Employers Confederation; ICE: Institute of Civil Engineers; LBS: London Business School. Detailed references are given in the bibliography.l . They can average published output and employment data for particular time periods to derive a rough Leontieff-style labour to output coefficient. Unfortunately the coefficient so derived will vary enormously depending on which time period is picked because of data weaknesses and the sensi-
+tivity of employment to technical change and relative input costs 3.
+2. They can use rule-of-thumb labour content estimates drawn up by construction industry specialists — on the lines of a L 10 million road contract will lead to x person years of employment. The Henley Centre Report (Ormerod, 1984) shown in Table I provides detailed listings of its labour content assumptions derived in this way. The theoretical and empirical issues involved in estimating employment (Nickell, 1984). He suggests that a plausible reduced form has to include expected as well as current output, and the possibility ofproducers substituting between labour and capital as well other inputs. In construction, expected output is unlikely to have much effect on current employment and factor substitution takes a slightly different form.
+Modelling construction employment
+The reason why expected output is likely to have little effect on current employment is the highly flexible nature of the construction labour market — virtually all labour is hired only when immediately required and laid off as soon as workloads fa114 . On the supply side the workforce is institutionally used to this, either as self-employed workers or as directly employed workers hired on a daily basis. For manual workers contracts with dismissal clauses with longer than a week's notice are rare and in the private sector the duration of manual jobs make redundancy payments unusual. On the demand side, the costs of holding workers and sub-contract gangs idle between contracts is too great for firms to contemplate. Moreover, there is little reason to hire labour and undertake production in anticipation of higher demand or to assist in tooling up operations as is common in some manufacturing industries.
+  The most flexible part of the labour market is that associated with the self-employed. In 1991 roughly 40% of the construction workforce was self-employed. Their contracts are task specific. The jobs of most directly employed workers however are project based, including large numbers of professional, administrative and technical staff, with employment contracts that make redundancy comparatively cheap and easy.
+  We would predict therefore that the lag structure between output and employment should be limited, and
+   For example, in 1981, L 1 5 688 (at 1985 prices) of gross output employed one worker, whereas in 1991 the equivalent figure was Æ20 588.
+   There was some suggestion that local authorities hoarded construction labour employed by them in the 1970s (Fleming, 1978) but, whether or not that was true, competitive tendering introduced in the early 1980s has since ruled out that possibility.
+no significant improvement in explanatory power is to be expected from using orders rather than output. Our regression analysis reported later broadly confirms these predictions.
+Employment data
+Flexibility, however, leads to the greatest difficulty of employment estimation in construction. Construction employment statistics are notoriously unreliable because flexible workers are often impossible to capture in the statistical net.
+  Employment data in construction are complex because of the wide variety of sources available, the different methodologies they use, and the significance of self-employment in the industry. There are two principal sources of information on construction employees 1 . The first is produced by the Department of Employment (DE) based on an amalgam of the two to three year Census of Employment, the Short-term Employment Survey, and the Labour Force Survey. Until the mid-1980s the DE series was known to underestimate employees in employment by at least 10 0/0 6 because of a misclassification of public sector construction workers and an absence of small firms from the DE register. The other employees series is produced by the Department of the Environment (DoE), based on quarterly returns from construction employers. Once again there is underrecording because of an incomplete register of firms. This not only affects the employment estimates but also the output data; a problem compounded by the diffculty of recording the output of self-employed workers. In 1993, the DOE substantially revised the quarterly output data for the period 1982—1993 by extending its register of firms and extrapolating the resultant increases backwards. It is these new DOE series, which are now probably the most accurate and allow sectoral disaggregation, that we use in our regression estimates.
+  The only source of data on self-employment is DE construction self-employed estimates based on Labour Force Survey (LFS) information. The LFS has only been undertaken quarterly since 1992 and prior to that the quarterly estimates were derived from annual data. So statistical manipulation biases were added to the well-known under-recording of the self-employed. In addition, the DOE series and the LFS series use different quarterly accounting conventions so the self-employed series have to be appropriately adjusted7 .
+  Figure I shows that for much of the period, 1979 1992, direct employment was static despite large increases in output, while self-employment grew constantly until the collapse of the construction boom at the end of the 1980s. Given the problems of measuring self-employment this suggests that the data problems of the under-recording of output and employment grew over the decade. Figure 2 shows the quarterly changes in the direct- and self-employed (SE) series. The sudden stepped variations in the SE series are most noticeable and are more likely to reflect statistical conventions than reality. It is this SE series which gives us most cause for concern.
+  As the output and orders data are for the gross value of construction work, and distinct types of work use different combinations of materials and labour, it is important to be able to disaggregate between types of construction work when looking at employment8 . Our data enabled us to distinguish between housebuilding, other new work and repair and maintenance.
+  Another data problem is that no distinction is made between full-time and part-time workers in the data. In the DOE employment series, which is used to estimate employees in employment, the worker simply has to be working for the contractor contacted on the DOE register during the week specified — no minimum limit is put on the number of hours they actually work for that contractor9 . Relatively high average weekly hours are given in the published DOE data but are not from the same source as they are based on a DE survey in April (when seasonal factors anyway are conducive to long hours on site). A similar problem arises with self-employment. Here the DE base it on the results of the LFS where respondents are simply asked to state their main occupation as construction, not the number of hours they work. Some
+   8 The Ormerod Report (1984), for example, suggested that 47% of the cost of building a house was spent on labour, 55% of public sector improvement work, 27% of a new road, and 34% of road maintenance.
+   The definition is given in Housing and Construction Statistics, 1981—1991, HMSO, London. The lack of a minimum weekly time was confirmed by a DOE statistician.
+5,000
+	1979	1982	1985	1988	1991
+Figure 1 Output and employment.	Output (LHS); . . . .
+Employment (RHS)•, —	• Self-employment (RHS)
+self-employed (SE) may as a result work 50 or more hours a week while others work only a few hours.
+  The distribution of hours is likely to be heavily left skewed. The degree of skewness moreover probably varies cyclically. One plausible hypothesis could be derived from efficiency wage theory — employers of subcontract labour reward more efficient workers or gangs by giving them as much work as possible during recessions, thereby increasing their earnings relative to the less efficient over the construction cycle. Less efficient workers instead experience periods of unemployment during slumps. This would suggest that the degree of skewness diminishes during downturns and increases during upturns as more part-time, non-core, contract labour is drawn in. An alternative hypothesis would be that of job-sharing during downturns with more labour on part-time work and a resultant wider distribution of weekly hours. The first cyclical hypothesis would suggest that the published employment data overestimate (full-time equivalent) labour usage increase as output rises, whereas the second hypothesis would suggest the opposite.
+  These hypotheses of cyclical variation in the proportion of full to part-time employment can in principle be tested. The efficiency wage hypothesis would raise the estimated coefficient of observed employment (i.e. parttime plus full-time), whereas the job-sharing hypothesis would lower it. A positive dummy variable in the employment regression equations, indicating whether output was rising or falling would reinforce the probable importance of the efficiency wage effect. Interpretation of such results however is made difficult because of the severe measurement problems in the data.
+Factor substitutability
+Factor substitutability in construction takes specific forms because the production function in construction differs from that of a typical manufacturing industry. We would argue that an increase in construction wages relative to the user cost of capital would not lead to
+1979	1982	1985	1988
+Figure 2 Employment in construction.	Employees;
+. self employed
+construction firms substituting capital for labour on site, but to a greater use of pre-manufactured components at the expense of on-site labour; a point that needs some justification.
+  Construction is not surprisingly far more labour intensive than a typical manufacturing industry — the average capital output ratio in construction for the five years, 1985—1990 was only 0.7, whereas in manufacturing it was 3.5. At the same time, net investment in new capital equipment over the period bears little relation to the rate of change of output. Net investment was negative, for example, for most of the 1980s despite strong medium-term growth in output (Figure 3). This odd relationship could be the result of poor data collection or alternatively indicate that UK construction firms persistently misforecast output trends in the 1980s; more likely it simply illustrates the low capital utilization of the industry. As the level of capital utilization is low, firms in several parts of the industry have less incentive to economize on its resource use efficiently and any absolute data errors lead to large percentage variations in investment and the overall capital stock 10
+  This low and static use of capital characteristic of construction arises from its function as a skilled labour assembly industry — substitution between factor inputs occurs through variations in the use of factory produced components relative to on-site labour rather than a direct substitution on-site between capital and labour. A greater use of pre-manufactured components is to be expected if construction wages rise relative to manufacturing wages and the user cost of capital in components industries falls relative to construction wages. A negative relation between construction wages and employment would still be expected as higher earnings would encourage more off-site fabrication of manufactured components.
+  Unfortunately the wage and the relevant materials price data are weak for construction. The DE construc-
+   Many firms hire a major proportion of their plant and equipment but most of this comes from the dedicated construction plant hire industry which is included in the 1980 Standard Industrial Classification for construction.
+
+1970 1972 1974 1976 1978 1980 1982 1984 1986 1938 1990 1992
+Figure 3 Output and net investment.	Output
+(LHS); .Net investment (RHS)
+tion wages series is a weighted average of employees' earnings in the private and public sectors. As many directly employed workers are local authority employees (21% in 1991), this series is likely to be influenced by local authority bargaining processes for manual workers as a whole and the constraints on them (such as public sector incomes policies) as much as reflect market forces in the private sector construction labour market specifically. Self-employed earnings moreover are likely to be far more volatile and pro-cyclical than employees earnings but no data exist on them. With regard to the prices of materials disaggregated data are available on specific materials but it is difficult to think of one index (or an easy method of calculating one) that properly reflects on-site/off-site substitution possibilities rather than the cost of basic building materials such as aggregates, cement, timber, bricks etc. These data weaknesses mean that not too much can be expected from variables which attempt to capture the difference between manufacturing and construction earnings, and construction labour and materials substitutes.
+  A final point to note about factor substitutability concerns the limited possibilities for short-run substitution. The argument here rests on the fact the designs of construction products virtually fix the technique used to build them. A speculative housebuilder, for example, will have a limited portfolio ofhouse designs covering the relevant market sectors. The design ofan offce block or a piece of public infrastructure will specify materials and methods, which once determined are diffcult to change. So perhaps not too much factor substitution should be expected in the short-run.
+Returns to scale and factor employment
+The existence of economies of scale would obviously affect the employment implications of a given amount of construction expenditure but as the industry is labour intensive and has so few fixed factors it is difficult to imagine that there are many scale economies or diseconomies at the level of the industry as a whole. Larger projects probably offer some scale benefits in the sense that plant, professional and managerial staff are more likely to be efficiently used, although there may be diseconomies as well il . It seems reasonable to assume that the size composition of projects with each type of construction work does not alter much over time. Therefore we would expect in aggregate to see constant returns to scale at the level of the industry as a whole.
+One commonly reported characteristic of construc-
+11
+   No published material exists on scale economies in construction to our knowledge.
+tion is diminishing returns to factor utilization because of capacity constraints in input markets. For example, if more bricks are suddenly ordered short-run brickmaking capacity may be insufficient, labour markets over-tighten or subcontractors may over-commit themselves causing site delays. In construction booms, in other words, builders face input quantity constraints and inefficiencies. What effect this will have on employment is unclear. The cost of holding workers idle at premium rates is probably too high to encourage labour hoarding by particular firms. Diminishing returns may result in more workers being employed per unit of output or finally things may just take a little longer, which would simply result in a smoothing at the peak of a boom in the output and employment series. We think the latter effect is the most likely though not very important 12
+Econometric results
+Data and stationarity
+Construction employment, the previous section argued, is a function of output, lagged output, type of output, construction and manufacturing wages, the user cost of capital and materials prices. Various combinations of these basic variables in line with the models outlined in the previous sections were tested using quarterly British data from 1979Q3 to 1991Q3 inclusive, giving an estimating sample size of 48. The five quarters, 1991Q4 to 1992Q4 were reserved for post-sample predictive tests.
+  The data were the DOE quarterly output and employment series, with subsidiary series that broke down output into its major components, housing, repair and maintenance and non-housing new work. Added to the employment series was the DE construction selfemployment series, appropriately adjusted as described in the previous section. A standard user cost of capital was calculated, using the return on government bonds and the Gross Domestic Fixed Capital Formation deflator 13 . The DOE all materials index was used as a (weak) indicator of manufactured construction component prices. Construction and manufacturing wages were based on quarterly DE data.
+  Dickey Fuller tests were used to determine the order of integration of the logs of the variables of interest. Taking first differences was sufficient to render all the variables
+stationary, with the exception of total employment and self employment, and the real product wage, which were 1(2) processes (see Table 2). While these 1(2) roots were
+  12 When dummy variables to identify boom quarters were included in our regression the estimates proved to be insignificant.
+
+ A constant rate of depreciation was assumed so it cancelled out in the first difference formulations used in the regression analysis.
+of some concern, the statistical peculiarities in the self-employment series discussed in the previous section probably account for the lack of stationarity in the employment data. As a result we felt justified in using first-differences for the dependent variable but used second differences when using the real product wage.
+Model selection and dynamic results
+Having found our data to be first-order stationary, first-differences were used because we could not find a co-integrating relationship between the relevant variables 14 . The dependent variable was either the change in total employment (AL) or employees in employment (AE), which excludes the self-employed. As we wished to look at the effect of total and sectoral output changes this meant that there were four general models relating employment growth with output and factor prices. Each model gives a different set of variables through which these effects can be captured:
+Model l)
+Model 2)
+Model 3)
+   Briscoe and Wilson (1993) claimed to find such a vector using DE annual data, although the appropriate diagnostics were not presented with their results. Given the known downward bias in the DE series, we were reluctant to use that data.
+Table 2 Tests for order of integration
+
+L	-2.3468 (2)	-2.4066 (0)	-7.402 (0)
+E	-0.4893 (1)	—4.043 (0)
+SE	-1.5291 (1)	-2.0836 (0)	-6.7096 (0) -1.1585 (1)	-5.8946 (0)
+      -0.8801 (1) -5.6870 (0) YR - 1.9033 (0) -8.2062 (0) -2.7461 (3) -3.6992 (1)
+       0.72895 (3)	-7.7782 (2) 0.57619 (2)	-2.4144 (1)	-7.9516 (2) cc	-1.9646 (1)	-12.872 (0)
+
+The number of lags in the augmented Dickey Fuller tests are shown in brackets.
+  The variables are: total employment: L; employees in employment: E; self-employed: SE; total construction output: Y; other new nonresidential construction output: YN, repair and maintenance YR; housebuilding: YH; the construction wage deflated by the RPI: W; the real product wage: PW; user cost of capital: CC. Full definitions are given in the text.
+AE = % + YliAYHt_t + Y2iAYRt
+Model 4)
+  In models 1 and 3 the dependent variable is influenced by aggregate construction output (b, the deflated construction wage (W) and the user cost of capital (CC) and materials prices (M). Models 2 and 4 have the same independent variables apart from output which is disaggregated into Housing (YH), repair and maintenance (YR), and non-housing new work (YN). All the variables are in the form of natural logarithms. Several labour— other input relative price variables were also tried as reported below.
+  Our model selection procedure involved the inclusion of output and the real wage with a lag structure of zero to four, given our belief in the limited influence of output expectations on employment. The correlation coeffcients unsurprisingly indicated significant collinearity between some of the independent variables which meant that we could not realistically start with the most general models and hone them down on the parsimony principle. The biggest problem was identifying relative price effects. Here we wanted to use several formulations that included the construction wage in order to test the nature of factor substitutability in the industry. Parsimonious models were chosen using a variety of model selection criteria, including predictive failure tests and various non-nest tests.
+  Initially we did not include the wage—other input relative cost substitution variables, as their close correlation with the real wage would hinder accurate selection of an appropriate lag structure for both the output and real wage variables. Once a parsimonious model was selected the model was re-estimated, this time replacing the real wage with each wage—other input relative cost variable in turn. The variables were WM, nominal wages deflated by the DOE all work materials cost index; and WI, which measured the ratio of construction and manufacturing wages. As well as simply using the real construction wage (deflated by the RPI), we also tried a real product wage formulation, PW, where the nominal construction wage is deflated by the all new construction output price index.
+Results
+Our results are shown in Table 3 15 . The broad theoretical structure of our models was supported by the evidence.
+   "Ihe reported regressions are well specified, the diagnostic tests show that the presence of up to fourth order serial correlation (LM(I) and LM(4)) was rejected, Ramsey's RESET test for functional mis-specification is very insignificant is very insignificant as are the Lagrange Multiplier tests for non-normality and
+Total employment was positively related to total output with only a short, one quarter lag (column 1). That lag itself could be a measurement effect resulting from the adjustment of the employment series to bring the employees and self-employed data into line. The similar employees only regression (column 7) did produce a longer lag structure with a negative value for two quarters earlier and a positive for four quarters earlier. These two lags are of opposite sign and have no plausible explanation. Regressions using construction orders rather than output (column 3) produced inferior results to output, but still only had short lags reinforcing our hypothesis about the flexibility of construction employment.
+  Looking at relative price effects, the user cost of capital and real construction wage were significant and had the expected signs in the aggregate output equations (columns I and 2). Use of the real product wage improved the fit of the equation (column 2) but resulted in an implausible reduction in the effect of output on employment once the lagged dependent variable was taken into account. Surprisingly, real wages were insignificant when orders rather than output were used (column 3) which gives us some concern of the robustness of the real wage effect. The user cost of capital however remained a strongly significant variable, albeit with a slightly altered lag structure.
+  Unfortunately the hypotheses concerning the substitutability of labour and pre-manufactured components could not be identified adequately. When construction wages rose relative to those in manufacturing (WI) it seems as though construction employment is affected but the values were statistically insignificant and so are not reported. As we suggested earlier this is as likely to be the result of poor data as much as a rejection of the hypothesis itself.
+  The use of disaggregated output data improved the fit of the equations (columns 4—6). However we were surprised that housebuilding appeared to have no effect on construction employment, even though it is around a fifth of total construction output on average, is labour intensive and one of the most volatile in terms of output variations. While both AYR and AYN are significant regressors in the total employment and employees in employment models, housing output was excluded since it was either very insignificant or it had the 'wrong' sign. Using housing orders (not the number of starts nor completions) rather than output did not help and strongly affected the performance of the other variables.
+  The final results to report are those for employees only (columns 7 and 8). Less satisfactory models with more
+
+heteroscedasticity. Chow's (second) test was used to assess the predictive accuracy of the models over the period 1992Ql—92Q4 and the general specification of the models. t-statistics are given in parentheses.
+Table 3 OLS estimates of total (AL) and direct (AE) construction employment 1979Q3-1991Q3
+
+variable
+t-2
+A Orderst
+A Orderst	(1)
+0.0902
+(2.61)
+0.1078
+(2.97)(2)
+0.0904
+(2.90)
+0.1005
+(2.97)(3)
+0.0421
+(2.75)
+0.0529
+(3.48)(4)(5)(6)(7)
+0.1327
+(2.54)
+0.2185
+(4.41)
+-0.175
+(-3.12)
+0.1382
+(3.20)(8)A YNt 0.1404 (3.94) 0.1346 (3.83) 0.1 123 (3.27) 0.1 1 12 (1.95)A YNt	
+Acct0.0763
+(1.92)
+0.0654
+(2.36)0.0700
+(l .74)
+0.0601
+(2.23)0.0734
+(l .85)
+0.0496
+(1.89) 0.0260 (2.50)0.1586
+(2.68)
+0.0863
+(2.24)
+0.1269
+(3.10)0.02120.03660.03290.02570.02750.03160.03390.0244(3.77)(5.80)(4.43)(3.84)(4.23)(4.96)(3.64)(2.39)(-20.02400.02030.01560.01780.01980.0185AAPWt	
+AAPW(-2
+A WMt	-0.136
+(-2.12)(3.59)
+-0.109
+-1.78)
+-0.113
+(-2.03)(2.77)(2.39)
+-0.102
+-1.59)
+-0.125
+(-2.02)(2.77)
+-0.094
+-1.75)
+-0.108
+(-2.05)(2.98)
+-0.118
+-1.98)
+-0.130
+(-2.36)-0.275
+(-3.10)	(1.82)
+-0.134
+1.42)lagged0.71870.66670.82060.64900.61230.62240.46880.1784dependent variable(8.55)(9.62)(9.443)(7.87)(7.75)(7.85)(4.24)(1.76)0.730240.785350.697070.792150.792030.792770.612140.62304SER0.007070.006310.007500.006210.006210.006200.009760.00962LM(I)0.143510.01 1490.293240.224660.030760.000413.41190.076292.36923.88814.93250.748100.710421.01587.65042.2047CHOW4.13806.55679.98824.36935.34625.376610.63310.296lags resulted. The fit of the equation was worse when measured by either the R 2 or in the Chow test for parameter stability. Disaggregating output rather than improving the fit as before led to a loss of significance for our price variables. This is very surprising as the wage variable refers to employees in employment and not the self-employed who are excluded from this dependent variable. Again this gives us cause to be worried about the role of the wage variable.
+Table 4 Steady state solutions
+(1)(2)(3)(4)(5)(6)(7)(8)gYR
+gorders
+gcc0.70 
+-0.48
+0.08 0.60
+0.18 0.53
+0.300.62
+0.19
+-0.65
+0.120.53
+0.16
+0.120.49
+0.13
+0.140.59
+-0.52
+0.110.33
+0.26
+-0.16
+0.05  To make estimates of the impact of expenditure on employment our dynamic coefficients have to be reinterpreted. Table 4 shows the steady state solutions derived from the respective columns of Table 3. The most important characteristic of the results is that the response of employment to changes in output is well below unity, and the sum of the disaggregated output coefficients was not much higher. This result needs to be interpreted in the light of the price variables. Both the interest rate effect and (especially) the wage effect seem very high, particularly in relation to the impact of output. Chirinko (1993) in his survey of the empirical investment literature, for example, suggested that the relative price responsiveness of investment is generally small and unimportant relative to quantity variables. As construction is a particularly low investment industry that comment should apply with extra force to it. There is little comparative evidence of the wage effect but, as suggested below, it may actually reflect changes in the composition of types of construction work rather than a switch within a particular construction sector away from the use of labour towards other inputs.
+  Several factors could explain these results given our earlier discussion of the construction industry.
+  1. The low response of employment to output in the short-run could be the result ofhigh increasing returns to the use of extra labour. We find this interpretation extremely unlikely.
+  2. The job-sharing hypothesis during downturns could be supported. Consequently during upturns individual workers work longer as much as new workers are drawn into employment. There is some ancillary evidence for this as the overtime rates reported for construction workers do move pro-cyclically but this only increases hours by about 4% (Housing and Construction Statistics, 1992, Table 2.5).
+  We do not feel the data are sufficiently robust or disaggregated enough to support strongly this interpretation of the low responsiveness of employment to changes in output. Nonetheless the low employment response to increases in repair and maintenance (R&M) might plausibly be explained in this way. R&M work is price inelastic in that it involves rapid responses to breakdowns in or damage to buildings. Teams of trained workers need to exist and so short-run increases in workloads might principally be absorbed through greater overtime. Resources in the sector are kept there by altering factor payments in line with industry norms.
+  3. The strong negative wage effect may not actually be
+indicating large-scale factor substitution but rational responses by construction firms to changing mark-ups in different markets.
+  Firms earn profits by managing construction projects, which means dealing with the flow of materials associated with a project as much as with labour and plant and equipment. Their margins not surprisingly therefore are based on the gross value of projects rather than valued added alone. In the short-run there may be considerable differences in profit margins between different types of work, and also differences in the certainty of those margins. In the long-run in an industry like construction with relatively free entry and exit from the industry the rate of return in all sectors should be the same. However in the short-run, when there are capacity constraints, existing firms will want to concentrate on the types of work offering the greatest returns, and during the years in question they happened to be less labour intensive notably commercial building rather than housing. When construction earnings are rising fast uncertainty over wage costs might increase uncertainty over builders' profitability, and so again builders might prefer to concentrate on projects with a higher proportion of more cost-certain materials elements in them. What is being suggested here, in other words, is a crowding out of some of the more labour-intensive activities, like housebuilding, during construction booms in other sectors, especially commercial building.
+  4. All the possible explanations for our results discussed so far ignore what may well be the most important explanation — the data are weak. The problems with the self-employment series have already been noticed but there may also be large errors in both the output and employees in employment data. The disaggregated information on sectoral output suggests some areas where the data are particularly poor. That there is apparently no significant relationship between the amount of housebuilding and overall construction employment we find remarkable. Although the goodness-of-fits of our regressions were high, this was as much due to the inclusion of the lagged dependent variable in order to avoid serial correlation as it was to the explanatory power of the independent variables themselves. The use of the first-differences has the wellknown effect of reducing the information relevant to examining long-run behaviour (Maddala, 1992) but even casual inspection of the series shown in Figures 1 and 2 suggests that this is not the fundamental problem here. Construction unfortunately seems to be one of the areas where official data are exceptionally poor.
+Site and cost based estimated of labour requirements
+Site-based estimates
+Although the econometric results did not produce the hoped-for-estimates of labour usage, other avenues exist which this section considers. The first is a series of studies, produced by the Building Research Establishment (BRE) in the mid- 1970s, which examined detailed site-based data to evaluate the labour and materials needed to undertake particular building tasks. The second route is to take the costings used by building estimators and other published costings to calculate how many workers would typically be employed for {1 million of construction work.
+  The results of the BRE studies were published in summary form in NEDO (1978). They covered the whole spectrum of new construction work through detailed analysis of contracts including labour time sheets, and some actual site investigation.
+  Data derived from 20—25 years ago would seem of little use for today's construction industry because the structure and efficiency of the industry, the technologies used and the nature of the products built have all changed substantially over the intervening years. There is also a methodological problem with some of the BRE research that suggests that some of the coefficients may not be too accurate even for the mid-1970s. The housebuilding study (Lemassany and Clapp, 1978), for example, only distinguished between projects on the basis of the type of housing built rather than the complexity and scale of the work undertaken. Greenfield, slum clearance, site-layout etc., would have considerably affected the range of labour inputs required, as would differences in economies of scale on sites with only a few or large numbers of houses. In addition, two dates were sampled, 1967—1969 and 1972—1975; the first when the industry was at less than full capacity, while the second period covered both boom and slump conditions. Consequently capacity variations are likely to have had generated substantial variations in effciency amongst the projects in the sample, but no adjustment was made for this. These sampling difficulties probably account for much of the wide variance in labour inputs discovered.
+  Despite these caveats, however, the BRE data translate into current jobs per million figures that are close to other estimates, although this may be by chance rather for any robust theoretical or empirical reason. The data are shown in Table 5 12 .
+Cost based estimates
+The second approach is to use rules of thumb based on firms' cost structures, as frequently used by practitioners in the industry themselves. Knowledge of average labour costs and the proportion of labour costs in total output then enables the number of workers per El million to be estimated. The central assumptions required in such an approach are estimates of direct labour costs and estimates of the proportion of labour costs in gross output. Once these assumptions are made it is a simple exercise to calculate jobs per million.
+  To obtain average labour costs, two approaches were used and compared. The first relies on weekly rates for major works from Laxton's 1993 Building Bice Book (1993), one of the basic books used for estimating in the construction industry. The second was to use published DE wage data. The weekly data for manual/non-manual labour were then grossed up into annual figures, and the averaged weighted labour cost derived by multiplying the manual/non-manual rates by their respective average proportions suggested in Laxton's (85% and 15% respectively) (see Table 6). Firms' labour overheads are assumed to be included within their general overheads rather than affect the proportion spent on labour costs. It should be noted that these calculations exclude noncontractors' labour, the most important of which will be the independent professional services used in building work.
+  The next problem is estimating the proportion of construction expenditure that is spent on employment. Some data exist on average proportions of construction firm's expenditure on labour, materials and overheads. Part of overheads will also include labour costs, such as headquarters' staff. Two available published sources are in Hillebrandt (1984) and the Henley Report (Ormerod, 1984) considered in Table 1. These proportions are summarized in Table 7. Again it should be noted that the estimates are a decade old but are the most recent available.
+  Assuming constant returns to scale and no relative price effects, leads to the estimates give in Table 8. These figures were then finally compared with the output for each category in 1992 reported in Housing and Construc-
+Table 5 Jobs per million (1992 prices) using BRE site estimates
+  
+Table 6 Estimated average annual construction labour costs
+
+  
+HousingPrivate29	Average annual cost of a manual worker	02500 03369Public29Average annual cost of a non-manual worker L 14 500 El 9 500General buildingEducation30Average proportions of each type of labour:	Manual	0.85	0.85Hospitals28	Non-manual	0.15	0.15Other public28	Weighted average labour costs	02800 06575Industrial26Commercial20Civil engineeringRoads14Harbours12proportionate response of employment to outputWater12changes is still the best probable estimate, with theSewerage14proviso that relative prices do matter.laxton DE
+  Given the failure to find robust econometric estimates the final section of the paper provides estimates based on some rather outdated production coeffcients and also some rule-of-thumb estimates. The latter are probably the best available at present but there would seem to be a strong need for some new construction production function estimates using site-based information.
+Acknowledgements
+We should like to thank the Joseph Rowntree Foundation and the Department of the Environment (DOE) for financial support; staff at the DOE, Julian Aubert, Alison Booth, Ron Smith and the anonymous referees for assistance and/or comments. The opinions expressed and any errors remaining are the responsibility of the authors alone.
+References
+Briscoe, G. and Wilson, R. (1993) Employment Forecasting in the Construction Industry, Avebury, Aldershot.
+Building Employers Confederation (1985) Investing in the UK's Economic Future: The Case for Building, BEC, London.
+Cambridge Econometrics (1981) Policies for Recovery: An Evaluation of Alternatives, Cambridge Econometrics Ltd, Cambridge.
+  
+tion Statistics, and the estimate of total employment in construction compared with the global figure for construction employment. Both estimates gave a lower figure than the recorded data. The Laxton's based estimates at 1.3 million were closer to the reported total construction employment (1.5 million) than the DE ones (at 1 million), so overall we think they are the best available.
+Conclusion
+In this paper we have tried to model the effect of changes in construction output on employment in the industry. Significant relations were found between employment and output, disaggregated output, the user cost ofcapital and real construction wages. Subsidiary hypotheses on the nature of the construction labour market were also proposed and tested.
+  We expected to find a roughly unitary elasticity between changes in total output and employment. The results however showed a much weaker relationship with output and an unexpectedly high one with the relative price effects. Disaggregating output into different types of construction work only marginally improved the responsiveness of employment to output. However, we feel that data weaknesses limit the usefulness of the models' results and suggest that the a priori belief in a
+ManpowerMaterialsPlantOtherOverheadsEstimates given in Hillebrandt
+New housing
+New other building
+New civil engineering
+Repair and maintenance
+All work
+Estimates given in Henley Report
+New housing30
+28
+15
+46
+35
+4743
+42 35
+30
+37
+372
+4
+22
+2
+525
+26
+28
+22
+2416Table 7 Proportions of construction costs
+Table 8 Rule-of-thumb job generation estimate
+Type of work% labour expenditure Jobs per ßmn
+(Laxton's based)Jobs per Crnn (DE based)Average jobs per ErnnNew housing	30-47
+New other building 28 New civil engineering 15 Repair and maintenance4623-37*
+22
+12
+3618-28
+17
+9
+2826.5
+19.5
+10.5
+32Source: *Henley Report (Ormerod, 1984) estimate, rest from Hillebrandt (1984)
+  
+Cambridge Econometrics (1992) 200,000 jobs are crying out to be done, Sunday Times, 25/10/92, section 2, 3.
+Chirinko, R.S. (1993) Business fixed investment spending: modeling strategies, empirical results, and policy implications, journal of Economic Literature, 31, 1875—911.
+Economist Intelligence Unit (1981) Capital Spending and the UK Economy, commissioned by The Federation of Civil Engineering, EIU, London.
+Fleming, M.C. (1978) Direct works departments and the construction industry; employment and productivity reexamined, National Builder, 15, 43—7.
+Fleming, M.C. (1980) Construction and the related professions, SSRC/RSS Reviews of United Kingdom Statistical Sources Volume XII, Pergamon Press, Oxford.
+Forbes, W.S. (1967) A survey of progress in housebuilding, Building Research Establishment Current Paper 25/69, BRE, Watford.
+Forbes, W.S. (1981) The BRE site activity analysis package, Building Research Establishment Note 13/81, BRE, Watford.
+Hillebrandt, P. (1984) Analysis of the British Construction Industry, MacMillan, Basingstoke.
+Institute of Civil Engineers (1987) An Analysis of the Cost ofJob Creation by the Public Sector in the Construction Industry, ICE, London.
+Laxton (1993) Laxton's 1993 Building Pice Book, Reed Information Services, London.
+Lemessany, J. and Clapp, M. (1978) Resource inputs to construction: the labour requirements of house building, Building Research Establishment, Current Paper 76/78, BRE, Watford.
+Maddala, G.S. (1992) Introduction to Econometrics, MacMillan, New York.
+NEDO (1978) How flexible is construction? A study of resources and participants in the construction process, report for the Building and Civil Engineering Economic Development Committee, HMSO, London.
+Nickell, S.J. (1984) An investigation of the determinants of manufacturing employment in the United Kingdom, Review of Economic Studies, 51, 529—57.
+Orrnerod, P. (1984) The Economic Impact of Increased Public Spending on Construction, Henley Centre for Forecasting, Henley.
+Perry, J. (1993) Integrating the builders address file with the CSO business register, Economic Trends, 477 (July), 96—8.
+      1 The information in this paragraph is derived from Fleming (1980), Briscoe and Wilson (1993) and Perry (1993).
+   That is in comparison to the Department of the Environment senes.
+   The Building Employers Confederation produces an unpublished series. We should like to thank Joanne Cutler of the BEC for highlighting this problem and the BEC revised series.
+       2 The data in NEDO (1978) were adjusted in the following ways. The 1970 prices were grossed up to 1992 levels and the site-days coemcients reinterpreted on an annual basis. To achieve this the 1970 contract value was converted into 1992 prices using the all new construction output price deflator (a Cl 000 contract in 1970 is equivalent to a L 7 282 contract in 1992). BRE's man days were annualized on the assumption of a 48 week working a year.
+ ---------------
+  
+ ------------------------------------------------------------
+  
+  ---------------
+  
+  ------------------------------------------------------------
+  
+	308	Ball and Wood
+  
+How many jobs does constmction expenditure generate?	309
+  
+Coovriaht 0 2001 . All Riahts Reseved.
+  
+Coovriaht 0 2001 . All Riahts Reseved.
+  
+
+  
+Coovriaht 0 2001 . All Riahts Reseved.
+  

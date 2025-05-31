@@ -1,0 +1,294 @@
+﻿Construction Management and Economics (1993) 11, 261—269
+The use of Bills of Quantities in building contractor organizations
+G.W. KODIKARA I , A. THORPE 2 and R. McCAFFER 2
+I Department of Civil Engineering, University of Moratuwa, Moratuwa, Sri Lanka and
+2Department of Civil Engineering, Loughborough University of Technology, Loughborough, UK
+Received 10 March 1992; revised 8 September 1992
+The prime purpose of the Bill of Quantities (BQ) is to enable all contractors tendering for a contract to price on exactly the same information. Subsequent to this, it is widely used for post-tender work such as: material scheduling; construction planning; cost analysis; and cost planning. Due to the re-work involved in the posttender use of the BQ, the 'extent of use' of the BQ is important. The 're-work' is any work such as; modification, or grouping, or breaking up of data when used for a particular task by a management group. The 'extent of use' is defined as the direct use, after subtracting the re-work from the total use. This paper identifies the contractor's current use of the BQ for post-tender work based on eight case studies, and establishes the 'extent of use' thus highlighting the re-working of the bill. By establishing the 'extent of use', the true picture of the direct use and the repetition work can be shown. The average extent of use of the BQ for post-tender work in the industry was found to be 50 0 'o. This 50% use of the BQ requires some form of re-working. This re-work needs to be reduced if improved post-tender use of estimating data is to be achieved. Information stored in the BQ should be arranged in a directly useable way. It was found that, 'quantities', 'quantity units', and 'unit rates' are the key elements of the BQ information that need to be presented in a more meaningful format if the amount of re-work is to be reduced.
+Keywords : Bill of Quantities, case studies, estimating, quantity surveying.
+
+Introduction
+0144-6193 	1993 E. & F.N. sponThe Bill of Quanities (BQ) is primarily used for the tendering process. It gives a common basis for the comparison of bids in the competitive market. However, the use of the BQ is not only limited to contractor selection. It is widely used for the contractors' posttender procedures such as purchasing, planning and control. Many researchers, over the past 30 years, have investigated the post-tender use of the BQ (for example : Forbes and Skoyles, 1963; Skoyles, 1968; Skinner, 1979; Pasquire and McCaffer, 1988). This paper advances this work by describing the extent of use of the BQ in building contractor organizations. By establishing the extent of use of the BQ, the true picture of the direct use and the repetition work involved is shown. The paper is based on research undertaken at the Loughborough University of Technology, UK and the University of Moratuwa, Sri Lanka (Kodikara, 1990).
+　The aim of the research was to identify the contractor's use of the BQ and the amount of repetition work involved. The 'extent of use' was defined as the direct use after subtracting the re-work from the total use. Eight contracting organizations were selected and their use, rework, and the extent of use of the BQ in their management tasks was critically analysed. The contractor organizations were selected to give a representative sample of the industry.
+The content of the Bill of Quantities
+BQs are prepared with precise information. This information can be categorized into three main sections Pasquire and McCaffer, 1988): Preliminaries, Preambles, and Bills.
+　Preliminaries describe any contract requirements which do not relate directly to the construction works. This may include, the form of contract to be used, access to the site, any temporary works and accommodation required, health and safety requirements, financial details, insurances etc. Preambles describe the standards of workmanship and materials to be incorporated into the works. Bills containing the measured items of construction works comprise three major components: work description, units, and quantities.
+　The priced BQ contains a unit rate associated with the quantity of a described item. This rate represents the net price the contractor will be paid for the completion of the unit of work described in the written description. Therefore, the estimator establishes the unit rate for each item after analysing the direct cost, over-heads and markup for that item.
+　When investigating the use of the BQ for management tasks, Skineer (1979) suggested that, it is better to observe the use of individual information rather than considering the BQ as a whole. Therefore it is advisable to sub-divide the BQ into information groups under appropriate headings, and observe the use and extent of use for each particular management task. For this purpose, more than 10 bills of quantities of different formats were examined. The practising professionals suggested considering only a few information groups to reduce the complexities in data collection and analysis. Hence, Il information groups fundamental to all bits were identified. Definitions of these selected groups which are termed 'Information Packages' are given below:
+Times/Durations
+The information relating to the possession and completion of the works, details of phasing the completion and inter-dependencies of important items.
+Preliminanes
+The information relating to financial details, statutory details, facilities and services, and general responsibilities. Facilities and services include all matters relating to the temporary accommodation, storage and temporary services for cleaning the site.
+Material specifications
+Specific information relating to the materials which are to be incorporated in the works are defined in material specifications. These include standards and quality of materials (e.g. British Standards), trade literature, and all information relating to mixes and or strengths where materials are mixed together.
+Work descrzptions
+This is a description of a finished item of work.
+Working methods
+The information relating to the method of construction, workmanship and performance standards. e.g. the requirements of curing, drying and protection.
+Quantities
+The total quantity of measured work, billed against each work item.
+Quantity units
+The units in which quantities are expressed. This may be linear, square, cubic or just a number.
+Unit rates
+The total amount of money chargeable for the completion of one unit of work written against each work description item.
+Provisional sums
+The sums provided for work or for costs which cannot be entirely foreseen, defined or detailed at the time of tendering.
+Prime cost sums
+The sums provided for work or services to be executed by a nominated sub-contractor, a statutory authority or a public undertaking, or for materials or goods to be obtained from a nominated supplier.
+Temporary works
+The work which must precede the actual building work are defined as temporary works. These may serve to retain external forces during construction, support the construction work or provide access to the point of working.
+Background to the research
+Banwell (1964) recognized that, although the BQs are primarily devised for tendering and allied purposes, it should not be their only function. Bills could be used for purposes other than tendering, including costing, bonusing, ordering, programming and control. The conventional format of the BQ was considered by Banwell to be inadequate for such purposes. At the same time, a study of communications in the building industry (Higgin and Jessop, 1965) recorded that different presentations of information to the builder could help to plan work and control costs.
+　Nelson (1970) also identified that the BQ fails to provide the site with the information it needs. According to him, site and trade supervisors devote a large part of their time seeking information, assembling it from numerous sources, translating information from several drawings into work sketches and re-calculating dimensions and quantities into units which are required on site. These activities consume the time which could be spent on other management and control functions. The reasons for this were: uncoordinated information; aggregation of quantities on a 'similar material' rather than on an operation basis; and the measurement of quantities in units which need conversion before they can be used. Nelson recommended the operational format (Skoyles, 1968) for the BQ. However, these formats were not successful in implementation (Kodikara, 1990).
+　Vine-Lott (1978) criticized the format of the bill as encouraging 'sloppy management'. According to him, the detailed pattern of individual specialists, of detailed specificiations and BQ and schedule of rates had resulted in the British Industry being the most expensive (in terms of cost per m2) construction industry in the developed world. However, apart from highlighting the simpler BQ-related to method and location-associated with performance specification and relevant working drawings, he did not propose any new method to reduce the repetition and re-work involved in contractor organizations. Vine-Lott pointed out that computers could be used to great advantage to store information and present data to the user in a suitable form.
+　Skinner (1979) carried out detailed research work on the contractor's use of the BQ and the utility derived from the information contained in the bill for the whole contracting process. According to him, to continue to justify the bill simply as a vehicle for contractor selection, fails to recognize the potential of its detail, and more particularly, ignores its extensive contribution to production, which may as far as the successful contractor is concerned, greatly exceed its contribution to tendering.
+　Skinner's research attempted to identify in detail how the bill was used by the contractor. Format, adequacy and independence were studied to assess the usefulness, or utility of the bill. The format refers to the presentation, structure and arrangement of information as it appears in the bill. The adequacy refers to the suitability, or otherwise, of the information to be used for a specific purpose without the need to make additional allowances, alterations or amendments to it. The independence refers to the absence of any need to seek additional information to supplement that presented in the bill. The research sought the opinions of estimators, planners, buyers, agents, contract managers and surveyors as individual experienced professionals and administrative members of the industry.
+　Skinner's study produced a detailed picture of the usefulness of the information provided in the bill to the contractor. Also, a number of conclusions were derived concerning the quality of information. His results confirmed that bills of quantities make a substantial contribution to the planning, buying and manufacturing areas of production. However, it was also evident that existing bills are not ideally suited, either in format or content to the needs of tendering or production. Skinner did not propose any new method, but had pointed out that preparation of a tender document which provides the contractor with the cost significant factors and authoritiative information which may be manipulated to satisfy a variety of needs was an urgent requirement.
+　The Estimating Practices Committee (EPC of the Chartered Institute of Building (CIOB) had the opinion that, once a contract was secured, building contractors do not use the estimating data as much as they could (Clay, 1983). A working party was therefore set-up to investigate if this was the case, discover the reasons why, and to recommend a Code of Practice on the post-tender use of estimating data. At the meetings held early in 1983, he working party of the EPC of the CIOB discussed the issue and decided to do a survey using selfadministered questionnaires.
+　Clay (1983) formulated a research programme parallel to the CIOB survey to observe the current use of estimating data, to establish what uses can be made of it, and to discuss the problems associated with the further use of estimating data. In fact, Clay worked with the EPC to prepare questionnaires, circulate them and to derive conclusions. After analysing the responses to the questionnaires and conducting a series of discussions with contractors, Clay concluded that there is significant post-tender use of estimating data in the industry. However, his study did not reveal the problems associated with the post-tender use of the BQ. Clay suggested that the CIOB should proceed with this research work not only to investigate the possible use of estimating data, but also to define the inhibiting factors. In 1986, the CIOB formed another working party to investigate the post contract use of estimating data with a view of publishing a handout (Pasquire and McCaffer, 1988). Unfortunately, no published material by the working parties of the CIOB could be found during this research.
+　Work carried out in this research reveals the contractor's current use of the BQ, the extent of use of BQ data and the major problems associated with the use of estimating data. This study also identifies the crucial areas in the BQ which need urgent attention in order to achieve a better extent of use. Therefore, this research may form a basis to produce a recommended system of using estimating data in the post-tender stage of a contract.
+Research methodology
+The study comprised two parts, the data collection and the data analysis.
+Data collection
+Information in the priced BQ was grouped to 11 Information Packages as explained earlier. The management tasks identified in the research (Kodikara, 1990) were reduced to the 21 most critical tasks (as identified by the collaborating contractors) to represent the contractor's post tender work in the most suitable and simplest manner. These 21 tasks are shown in Table l. A data collection sheet was designed to observe the use and extent of use of the information packages for each critical management task. An example of this sheet is illustrated in Fig. 1. Each task required a separate data collection sheet, hence a total of 21 x 8 sheets were used in the data collection undertaken in eight contractor organizations.
+EXTENT OF USE OF B.O,Q
+Contractor No:
+InformatjonData	Use	% Extent Mark Remarks
+
+I. Times/ Durations
+2. Preliminaries
+3. Material Specifications
+4. Work Descriptions
+5. Working Methods
+6. Quantities
+7. Quantity Units
+8. Unit Rates
+9. Provisional Sums
+10. Prime Cost Sums
+I I. Temporary Works
+
+TOTAL
+Figure 1 Data collection sheet
+　Eight contractor organizations were selected by using sampling techniques to give a representative sample of the industry (Kodikara, 1990). Each contractor organization was visited between four to six times, and interviews discussions were held with the different management groups who were responsible for the 21 critical management tasks. During the discussions, they were questioned about their use of the BQ for their tasks. First, the 1 1 information packages were explained to the interviewee. Then the management tasks were exaplained and the interviewee was questioned about his use of information packages for the tasks. The data collection sheet was used to document the answers. If any information package is used, it is marked as 'YES' in the 'Use' column. If the response is 'YES' for the use of any information package for a particular task, the percentage extent of use of that information package was also ascertained by considering the re-work, amendments and repetition involved in the use.
+　When data are used for a particular task by a management group it can either be used directly or with some re-work to suit the requirement. The re-work is any work such as ; modification, or grouping, or breaking up of data. The 'extent of use' is the direct use, after subtracting the re-work from the total use. For example, if the interviewee experiences a 60 0 0 re-work at the use of 'quantities' for the 'preparation of resource schedules', then the extent of use is  The percentage of re-work is a rough estimate of the effort that the interviewee requires to transfer the data for the particular task. If no re-work is involved, the extent of use is 100 0
+Data analysis
+After collecting the data on the use and extent of use of the BQ data, marks were allocated to transfer the data to numeric values. Each 'YES' response was given 1() marks, and the extent of use was calculated using the equation;
+	Extent = 10 x Percentage of use	(1)
+A two-way table as illustrated in Table 2 was prepared to summarize the data for each case study. Totals for each task were calculated by adding vertically the marks given for each information package. The maximum possible marks (Use) for any task was 110.
+　The average extent of use for each task was calculated as a percentage using the equation:
+Average percentage extent of use
+Total extent of use
+ X 100 (2)
+Total use
+The average percentage extent of use of the BQ for a particular case study could be calculated as illustrated in Table 2, using the equation:
+Average percentage extent of use of estimate for the case study
+21
+ (3)
+Number of tasks
+Only the tasks which use the BQ (at least one information package) are included in calculating this average. Totals for each information package were calculated by adding horizontally the 'Use' and 'Extent of use' for 21 tasks. The maximum possible marks (Use) for any information package was 210. The differences in 'Use' and 'Extent of Use' (i.e. re-work) of each information package were calculated by subtracting the 'Extent of use' totals from 'Use' totals.
+Use and extent of use of Bill of Quantities
+The results of the two-way tables prepared for each contractor organization showed a poor extent of use of
+Table 1 Most critical management tasks
+
+Management function	Management tasks
+
+Estimating1. Taking quotations (rates and prices) from suppliers.
+2. Taking quotations from SIC or pricing prime costs.Purchasing3.Identification of material requirements to purchase or order from H O.4.Preparation of resource schedules for ordering purpose.5.Reviewing the material quotations and potential suppliers.6.Placing the orders for resources.7.Purchasing or hiring/leasing plant and equipment.8.Making arrangements with S/C for their work (time, work, amount).Planning9.Identification of tasks and planning of construction methods.10.Compilation of a time-based programme for work.11.Incorporating the off-site manufacture items, special resources etc.12.Incorporating preliminaries in the programme.13.Incorporating the procurement of (hired-in) plant in the programme.Site management14.Assessment and allocation of material for works.15.Assessment and allocation of plant for works.16.Assessment and allocation of labour for works.17.Monitoring and recording actual use of resources and SIC work.Quantity surveying/financial control18.Preparation of interim valuations for completed work.19.Preparing and monitoring cash flow.20.Accommodating variations to the works.21.Preparation of the final bill.
+Table 2 Example of a two-way table (Case study 5)
+
+Extent of use — two-way table
+
+	Task no.	1	2	3, 4, 5 etc. Total
+
+	Infor. no.	Use	Extent	Use	Extent	Use	Extent
+
+1 10	5.5	40	23.5
+2 90	79.0
+3 10	7.5	70	35.5
+4 10	8.0	100	42.0
+5 10	9.0	90	49.0
+6 10	7.5	140	91.0
+7 10	6.0	130	78.5 8	10	3.0	130	70.0
+9 10	2.0	110	36.0
+10 10 3.0 80 31.5 1 1 10 10.0 120 86.0
+	Total	50	29.5	50	32.0
+	Average	59.0	64.0	etc.
+Extent ( BQ over the tasks. To observe the situation more clearly, graphs (histograms) were drawn. These graphs are contained in Appendix A. The differences between the 'Use' and 'Extent' of Use' columns of the graphs are the re-work and repetition involved in the use of the BQ for the tasks. From the graphs it is clear that, although the contractors widely use the BQ for their management tasks, the full potential is not realized throughout the contract.
+　The averages calculated were extracted to a summary table (Table 3), and the mean value of the extent of use of BQ for the industry was calculated. It was found that the average extent of use of BQ data is 50 0 0
+　This research shows that the BQ was ineffciently used for management tasks. the study also reveals that the current need is to improve the extent of use of the BQ, not just to improve the use of the BQ for posttender works.
+Table 3 Summary table of average extent of use of BQ
+Case study	12345678MeanAverage	70.037.141.153.556.647.247.747.550.1Table 4 Summary table of re-work involved in information packagesInfor. Pack.Case 1Case 2Case 3Case 4Case 5Case 6Case 7Case 8Average1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1127.0
+30.0
+17.0
+24.0
+27.0
+39.0
+30.0
+13.5
+7.0
+1.0
+12.021.0
+20.0
+58.0
+75.0
+67.0
+123.0 129.0
+1.0
+16.0
+34.0
+24.015.0
+17.0
+40.0
+61.0
+72.0
+105.0 112.0
+106.0
+20.0
+28.0
+26.0123.0
+91.0
+84.0
+89.0
+81.5
+55.0
+46.0
+57.0
+10.0
+10.0
+52.016.5
+1.0
+34.5
+58.0
+41.0
+49.0
+51.5
+60.0
+74.0
+48.5
+34.050.5
+5.0
+15.0
+12.0
+26.0
+13.5
+81.5
+44.5
+4.0
+9.0
+9.012.5
+19.0
+31.0
+57.0
+52.0
+86.5
+88.5
+82.5
+1.0
+16.0
+16.014.0
+20.0
+35.0
+68.0
+55.0
+103.0
+106.0
+86.0
+28.0
+33.0
+27.034.9
+26.6
+39.3
+55.5
+52.7
+84.3
+80.6
+70.1
+21.3
+23.7
+25.0Use and extent of use of information packages
+The results of the two-way tables prepared for each contractor organization showed a poor extent of use of information packages throughout the period of contract. The graphs for the eight contractor organizations are presented in Appendix B. The differences between the 'Use' and the 'Extent of Use' columns of the graphs are the re-work and repetition involved in the use of each information package throughout the contract.
+　The calculated differences in 'Use' and 'Extent of Use' of each information package are presented in Table 4 together with the average values. These average values represent the amount of re-work involved in each information package, and hence the improvements required for each information package. This is graphically presented in Fig. 2.
+
+'nformauon PackagesFigure 2 Improvements required in information packages
+　Attempts to improve the extent of use of all of the information packages would not be feasible. After all, improvements needed in most of the information packages are very low when compared to the total possible use —210) for each of them. Therefore, only the information packages which require improvements of at least one third of the total possible use (l /3 x 210 = 70) are considered worthwhile. From Fig. 2, it can be clearly seen that, only the information packages 6, 7 and 8 (quantities, quantity units and unit rates) fall into this category. Therefore, it is concluded that the critical areas where attention is required in order to reduce the repetition work in the post-tender use of the BQ are the 'quantities', 'quantity units' and 'unit rates' in the BQ.
+Conclusion
+The current use and extent of use of the BQ for post-tender work in the building construction industry is described in this paper. There have been many concepts and much research work on the post-tender use of BQ in the past. Skinner's results revealed that although the existing bills of quantities make a substantial contribution to post-tender work, they are not ideally suited, either in format or content to the needs of tendering or production. The EPC of the CIOB formulated a working party in 1982—83 to investigate the possible post-tender use of estimating data and to recommend a Code of Practice. Clay carried out parallel research work with the CIOB and concluded that there was significant post-tender use of estimating data. Clay recommended further studies not only to investigate the possible use of estimating data, but also to define the inhibiting factors.
+　In the research described in this paper, the use and extent of use of the information packages for management tasks were observed for eight case studies, and this is summarized in Appendix A. It can be seen that, although the contractors widely use the BQ for posttender work, the full potential is not being achieved throughout the contract. The average extent of use of the BQ for post-tender work in the industry was found to be 50 0
+　The use, extent of use, and re-work involved in each information package throughout the contract is summarized in Appendix B. It is evident that substantial rework is involved in the use of the information packages throughout the contract. The improvements needed in each information package are presented graphically in Fig. 2. It was observed that the improvements required in most of the information packages are very low when compared to the total possible use, and only improvements in the information packages of 'quantities', 'quantity units' and 'unit rates' are worthwhile investigating. Therefore, it is concluded that these are the areas which need urgent attention to improve the use of measured data in contractor organizations. Finally, it should be noted that it is the 'extent of use' and not just the 'use' of the BQ that should be improved if the amount of re-work involved in the use of the estimating data is to be reduced.
+References
+Banwell, H. Sir. (1964) The Placing and Management of Contracts for Building and Civil Engineering work. HMSO, London.
+Clay, E. J. (1983) The post-tender use of estimating data. MSc project report. Department of Civil Engineering, Loughborough University of Technology, UK.
+Forbes, W.S. and Skoyles, E.R. (1963) The operational bill, The Chartered Surveyor, 95, 429-434.
+Higgin, G. and Jessop, N. (1965) Communications in the Building Industry. 2nd Edn, Tavistock Publications, UK.
+Kodikara, G.W. (1990) Data flow in building contractor organizations. PhD Thesis. Department of Civil Engineering, Loughborough University of Technology, UK.
+Nelson, J.I'A. (1970) Construction information, Building Technology and Management, 8, 3-5.
+Pasquire, C.L. and McCaffer, R. (1988) Builders' Quantities for Builders Management -Field Trials, Report to Science and Engineering Research Council. Department of Civil Engineering, Loughborough University of Technology, UK.
+Skinner, D. W.H. (1979) An analysis of the utility of BOQ in the process of Building Contracting. PhD Thesis. Department of Construction and Environmental Health, University of Aston in Birmingham, UK.
+Skoyles, E.R. (1968) Introducing Bill of Quantities (Operational Format). BRS current paper, CP62 68. Building Research Station, UK.
+Vine-Lott, K. M. (1978) Changes we should be seeking in the information flow, Construction Surveyor, 8, 13.
+Appendix A
+
+Management Tasks
+Figure Al Study IUse and extent of use of BQ for tasks — Case
+Management TasksFigure A2 Study 2Use and extent of use of BQ for tasks — Case
+Managernent TaéqsFigure A3 Study 3Use and extent of use of BQ for tasks — Case
+Management TasksFigure A4 Study 4Use and extent of use of BQ for tasks — Case
+Management Tasks
+Figure A5 Use and extent of use of BQ for tasks — Case
+Study 5
+
+Management Tasks
+Figure A6 Use and extent of use of BQ for tasks — Case
+Study 6
+
+Management Tasks
+Use and extent of use of BQ for tasks — Case
+
+Management Tasks
+Use and extent of use of BQ for tasks — Case
+
+　　　　　　　　　　　Information Packages Figure B2 Use and extent of use of information packages — Case Study 2
+
+Figure A 7
+Study 7
+Information Packages
+Figure B4 Use and extent of use of information packages — Case Study 4
+Figure A8
+Study 8Figure B3 Use and extent of use of information packages — Case Study 3
+
+
+information PackagesFigure B5 Use and extent of use packages — Case Study 5ofinformation
+Appendix B
+
+Information Packages
+Figure Bl Use and extent of use of information packages — Case Study I
+
+Information Packages
+Figure B6 Use and extent of use of information packages — Case Study 6
+
+
+	Information Packages	Information Packages
+Figure B7 Use and extent of use of information Figure B8 Use and extent of use of information packages — Case Study 7 packages — Case Study 8
+262
+Kodikara et al.
+
+Bills of Quantities in building contractor organizations	263
+
+Copyright 0 2001 . All Rights Reseved.
+
+Copyright 0 2001 . All Rights Reseved.
+
+
+
+Copyright 0 2001 . All Rights Reseved.
+

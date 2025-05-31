@@ -1,0 +1,132 @@
+﻿Available online at www.sciencedirect.com ScienceDirect
+ Procedia Engineering  123 ( 2015 )  85 – 93 
+Creative Construction Conference 2015 (CCC2015)
+Teaching Lean Construction: Pontifical Catholic University of Peru Training Course in Lean Project & Construction Management
+Xavier Briosoa*
+a Associate Professor, Researcher and Chair of Construction Management & Technology Research Group (GETEC), Pontifical Catholic 
+University of Peru, Av. Universitaria 1801, Lima 32, Peru
+
+Abstract
+This paper describes the teaching strategies of the Lean Project & Construction Management Training Course, organized by the Civil Engineering Program of the Pontifical Catholic University of Peru, School of Science and Engineering, with the intention of inspiring other scholars and/or practitioners. It explains the Training Course objectives and content, as well as the principles, tools, techniques and practices of Lean Construction philosophy among others; it also includes the incorporation of management system tools and techniques that complement them. This paper also describes the lectures, workshops, and simulations made, as well as the feedback obtained from students’ collaborative work routines, among others. The success of the Training Course is reflected in the opportunities for improvement identified between editing and publishing, made possible through the feedback collected from participants.
+© 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license © 2015 The Authors. Published by Elsevier Ltd.
+(Peer-review under responsibility of the organizing committee of the Creative Construction Conference 2015.http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Peer-review under responsibility of the organizing committee of the Creative Construction Conference 2015 Keywords: Teaching; Lean Construction; Collaborative Planning; Simulation; Workshop
+
+1. Introduction
+  In 2012, the School of Science and Engineering of the Pontifical Catholic University of Peru designed and offered a Lean Project & Construction Management Training Course for the Civil Engineering Undergraduate Program. The design was based on the following premises:
+
+* Xavier Brioso. Tel.: +0-051-626-2000, xbrioso@pucp.edu.pe
+1877-7058 © 2015 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Peer-review under responsibility of the organizing committee of the Creative Construction Conference 2015 doi: 10.1016/j.proeng.2015.10.062 
+x Course duration of 42 hours, divided into 14 sessions of 3 hours each, including a break; 36 students. 
+x The course included workshops and simulation games to be developed during the sessions; the purpose of these activities was to improve the understanding of the Lean principles. One of the objectives was to use low-cost resources so the activities could be easily replicated by the attendees. Therefore, we only used paper, post-its, and stickers, in addition to multimedia equipment, for the workshops and simulation games. To date, 6 editions of this course have been offered; and a total of 202 students have received training. According to the surveys, the effectiveness of all activities was higher than 83%, which demonstrates the success of the activity.
+2. Workshops, Simulation Games and Lean Construction Principles
+  This training course provides an understanding of Lean Construction Principles and methods through lectures, workshops, simulations, and discussion periods.  Topics covered in the course include: Lean Principles, Lean Construction Principles, Lean Project Delivery System (LPDS), Target Value Design (TVD), Integrated Project Delivery (IPD), Last Planner System (LPS), Master Scheduling, Line of Balance, Pull Planning, Make Work Ready Planning (Look Ahead Planning), Weekly Work Planning, Production Control, Design and Optimization of Construction Operations, and Learning Loops and Project of Training Course. Table 1 shows the workshops and simulations programmed in key sessions:
+
+Table 1: Workshops (WS), Simulation Games (SG) and Project of Training Course (P)
+  We intend to provide an understanding of Lean Construction Principles and methods through lectures, workshops, simulations, and discussion periods. We considered the principles for flow process design and improvement developed by Koskela [1], and the relevant lean construction principles developed by Sacks et al. [2], according to the following tables:
+
+Table 2: Principles for flow process design and improvement in workshops (WS), simulation games (SG), Project of Training Course (P) and Lectures (L)
+
+Table 3: Relevant lean construction principles in workshops (WS), simulation games (SG), Project of Training Course (P) and Lectures (L)
+3. Description of Workshops, Simulation Games and Project of Training Course
+3.1. Workshop 1: Alignment of purposes: Owners’ Needs and Values vs. Users' Needs and Values. Value Creation Flow.
+  According to Orihuela, Orihuela and Ulloa [3], a Lean Design, in addition to complying with the constraints, requires the selection of the best alternative. This will be the design concept best aligned with the needs and values of both Owners and Users. This workshop also discussed the needs of the next trade in line. Table 4 presents a matrix-form tool to evaluate the degree of purpose alignment achieved by each Design Concept.
+
+Table 4: Matrix of Alignment of Purposes (Orihuela, 2011)
+  Students working in groups analyzed three design alternatives for a building using the tool proposed. These alternatives had different structural, finishing, and installation systems. To accomplish this, they performed simulations similar to the Scoring System, pondering the degrees of alignment of stakeholders in each alternative. Afterwards, they determined the best alternative as the one with the highest score.
+3.2. Simulation Game 1: Reducing batch sizes and one piece flow
+This is an adaptation of Alarcon’s simulation [4]. It used paper and stickers, in addition to multimedia equipment. 
+Six stations, six participants. Three rounds (phases) of six minutes each.
+
+Figure 1: Resources, product, flow and processes
+Station 1: Performs the design for the installation of each component. 
+Station 2: Responsible for setting up two red rectangles (or another color assigned) on each card.
+Station 3: Responsible for setting up two green rectangles (or another color assigned) on each card.
+Station 4: Responsible for setting up the circle.
+Station 5: Responsible for writing the name LEAN.
+Station 6: Responsible for examining (QC) the batch to ensure product conformity.
+PHASE 1: PRODUCTS WITH BATCHES OF 5 CARDS
+x Job positions are in the same sequence as work flows. 
+x Materials are located in each work station. x Work stations have enough space for incoming queues. x The complete batches of 5 cards are placed in the standby space for the next station. 
+x Batches are kept together until the final inspection.
+x Employees perform the assigned task only – “THINKING IS FORBIDDEN.”
+x Quality control (QC) problems are only detected by the inspector in Station 6 – NO FEEDBACK AND NO TALKING WITH PERSONNEL. x All defective products are put aside by the inspector to produce them again – THE CARD IS TURNED OVER.
+x Workers are paid a unit price per piece, without incentives.
+
+Figure 2: Implementation of simulation game 1
+PHASE 2: ONE PIECE FLOW
+x Only one assembly is allowed in the queue space between stations. x The assembly may only be placed in the queue when the space is empty (Pull mechanism).
+x Job positions are in the same sequence as work flows.
+x Materials are located in each work station.
+x Workers may talk about QC problems – “SOME THINKING AND TALKING IS ALLOWED.”
+x All defective products are put aside by the inspector in order to produce them again – THE CARD IS TURNED 
+  OVER. x All receive hourly payments plus a bonus for team performance. x Workers carry out only the task assigned in the station. x Workers can’t solve major QC problems.
+PHASE 3: ONE PIECE FLOW
+x The workload may be sequenced again and/or balanced by the team.
+x Workers may have one assembly only in their job positions (size-1 batch) x The assembly may only be placed in the queue when the space is empty (Pull mechanism). x Job positions are in the same sequence as work flows. x Materials are located in each work station. 
+x Workers may carry out any step during the production process. 
+x QC problems may be solved by any worker – “SOLVE IT WHEN YOU FIND IT.” x There are no talking restrictions. x All receive hourly payments plus a bonus for team performance.
+  Performance Indicators x Production: The number of good products produced in 6 minutes is counted. x Cycle time: The time it takes for the first correct product to get to the end of the system. x Redone work: It is the number of products with configuration or assembly defects. x Inventory of work in progress (WIP): Number of cards being processed at the end of the 6-minute phase.
+  Techniques used: Leave the work (materials or information) of a job position to the next using Pull vs. Push. Minimize the size of the batches to reduce the duration of the cycle. Make everyone responsible for the quality of the product. Balance the workload in connected job positions. Table 5 shows the simulation results, which confirm the fulfillment of the target Lean principles.
+
+Table 5: Average Results of Simulation 1
+3.3. Workshop 2: Chunking and designing the production system for flow
+  Students working in groups discussed a housing project of highly repetitive processes. The workload may be sequenced and/or balanced by the teams. The work is divided into: collaborative planning phase involving specialists and support areas, discussion of each proposed activity train and work chunking, identification and agreement of hand-offs, determination of the most important constraints, verification of milestones, and finally selection of the best alternative.
+3.4. Simulation Game 2: Complexity of the design and construction
+  This simulation used paper and stickers, in addition to multimedia equipment. Six stations, six participants. Two rounds (phases) of five good products each. We used the same resources in phase 1 and phase 2.
+PHASES 1 AND 2: ONE PIECE FLOW
+x Station processes are similar to those in Simulation Game 1 Phase 2. x Design is represented by station 1. x Construction is represented by stations 2 to 5.
+
+Figure 3: Products of Phase 1 and Phase 2
+Performance Indicators
+x Production: The number of good products produced. x Cycle time: The time it takes for the first correct product to get to the end of the system. x Redone work: Number of products with configuration or assembly defects. x Inventory of work in progress (WIP): Number of cards being processed at the end of the phase. x Design Cost (DC): Calculated considering a price of $100/second x Construction Cost (CC): Calculated considering a price of $10,000/second (including inspection and idle time). x Cost of inventory and Remade Work (IRWC): Calculated considering a price of $60,000/product x Project Cost (PC): PC = DC + CC + IRWC
+
+Table 6: Average Results of Simulation 2
+3.5. Workshop 3: Pull Planning Session
+  This workshop used a Pull Planning session in a housing project of highly repetitive processes. The session is divided into: panel design, collaborative planning phase involving specialists and support areas, discussion of each proposed activity train and work chunking, identification and agreement of hand-offs, determination of the most important constraints, verification of milestones, and finally selection of the best alternative and signing of the agreement. We used Post-it notes stuck to the panel during the discussions.
+PULL PLANNING STAGES
+According to Alarcon [4], a Pull Planning session includes the following steps: 
+1. Structure definition.
+2. Setting up the display board.
+3. Development of planning from the end, working backwards.
+4. Re-examination of the program.
+5. Revision of constraints.
+6. Compliance with agreements.
+  We will improve the Pull Planning session in next edition. This activity will consider the use of Line of Balance through an automatic projection of an Excel application that lets you create and display the line of balance of each alternative analyzed in the panel. This facilitates the comprehension of hand-offs and milestones. Additionally, it will include a preliminary origami simulation to better understand the Lean principles. “As Pull Planning is emerging as a popular first step for many companies that begin to implement lean on AEC projects [5], this paper will review the simulations that we have found to be most effective in preparing lean learners for actual Pull Planning efforts. Furthermore, this paper is intended to guide not only practitioners but academics as well to help accelerate the rate of lean adoption in the AEC industry.” (Tsao, C.Y.Y et al. [6]). This workshop and its preliminary simulation are inspired by this philosophy.
+3.6. Workshop 4: Balance flow improvement with conversion improvement: Balance Chart
+  This workshop develops the Design and Optimization of Construction Operations using Balance Chart according to Serpell [7]. It analyzes vertical iron, vertical formwork, vertical concrete, horizontal formwork, horizontal iron, and horizontal concrete through collaborative planning.
+3.7. Project of Training Course
+  In general, Peruvian site organization is formed by: a project leader (Construction Project Manager), production area, technical office, QC/QA area, administration area, and prevention and safety area [8].
+
+Figure 4: Site Organization [6]
+  According to Levano [9]: “Programming and planning are dynamic processes which are related and carried out in parallel. Programming is part of Planning and the latter obtains feedback and updates itself based upon the results of Programming.”. He proposed the following In-Process Planning Routine:
+
+Figure 5: In-Process Planning Routine [7]
+  The project consists in the use of Last Planner System collaborative work routines between the production area and support areas, especially in the safety support area. To accomplish this, students formed production and safety teams, allowing effective collaborative routines to take place. 
+  We had groups of students representing the production area and support areas. This allowed us to perform the routine. The projects developed during the program were based on actual infrastructure or/and building projects. Students used an intranet system as a tool. The collaborative planning of these projects included the safe work conditions. The training course's success was reflected in the quality of the work and its dissertations.
+
+Figure 6: Look ahead planning of a Project Training Course
+3.8. Opportunities for improvement identified between editing and publishing
+  We update the training course incorporating Lean community practices and obtaining feedback from participants. Some of the updates included: addition of workshop 1 and simulation 1 in the second edition, of workshops 3 and 4 in the third edition, and of simulation 2 in the last one. At present we have shown only BIM applications. Due to its impact, we are considering the inclusion of the BIM topic and its integration to the Lean Construction philosophy in a future edition.
+4. Conclusions
+  The training course provided an understanding of Lean Construction Principles and methods through lectures, workshops, simulations, and discussion periods. The resources utilized represented a low investment so they could be easily replicated by the attendees. For this reason, it was decided to use only paper, post-its and stickers, in addition to multimedia equipment during workshops and simulation games. It is likely that participants are adapting what they learned to their workplaces, expanding the reach of the Lean Construction philosophy. The success of the Training Course is reflected in the opportunities for improvement identified between editing and publishing, made possible through the feedback collected from participants. The School of Sciences and Engineering of the Pontifical Catholic University of Peru will continue to update this training course incorporating world community Lean
+practices, especially simulations and workshops, while trying to balance the benefit-cost ratio. According to the hypothesis 3 of Alves et al. [10]: “without a sustained effort to engage people in meaningful learning experiences which mix instruction, exchange of ideas and meanings, and guided practice, Lean Construction may be viewed as a fad in the construction industry.” We intend to contribute to this effort.
+References
+[1] Koskela, L., 1992. Application of the New Production Philosophy to Construction, CIFE Technical Report #72. Department of Civil Engineering, Stanford University, Stanford, USA.
+[2] Sacks, R., Dave, B.A., Koskela, L. & Owen, R., 2009. Analysis Framework for the Interaction Between Lean Construction and Building 
+Information Modelling. In: Cuperus, Y. & Hirota, E.H., 17th Annual Conference of the International Group for Lean Construction. Taipei, Taiwan, 15-17 Jul 2009. pp 221-234
+[3] Orihuela, P., Orihuela, J. & Ulloa, K., 2011. Tools for Design Management in Building Projects. In: Rooke, J. & Dave, B., 19th Annual Conference of the International Group for Lean Construction. Lima, Peru, 13-15 Jul 2011.
+[4] Alarcon, L.F., 2012. Last Planner SystemTM, GEPUC, Pontificia Universidad Católica de Chile.
+[5] McGraw Hill Construction., 2013. Lean Construction: Leveraging Collaboration and Advanced Practices to Increase Project Efficiency. McGraw Hill Construction, Bedford, MA, 60 pp.
+[6] Tsao, C.C., Draper, J. & Howell, G.A., 2014. An Overview, Analysis, and Facilitation Tips for Simulations That Support and Simulate Pull Planning. In: Kalsaas, B.T., Koskela, L. & Saurin, T.A., 22nd Annual Conference of the International Group for Lean Construction. Oslo, Norway, 25-27 Jun 2014. pp 1483-1494.
+[7] Serpell, A., 1993. Operations Management in Construction, Ediciones Pontificia Universidad Católica de Chile.
+[8] Villagarcia, S., 2011. Formalization as a Way of Coordination and Control in a Construction Firm. In: Rooke, J. & Dave, B., 19th Annual Conference of the International Group for Lean Construction. Lima, Peru, 13-15 Jul 2011.
+[9] Levano, A.Y., 2011. Impacts of the Last Planner Method on Sanitation Works. In: Rooke, J. & Dave, B., 19th Annual Conference of the International Group for Lean Construction. Lima, Peru, 13-15 Jul 2011. 
+[10]Alves, T.D.C.L., Milberg, C. & Walsh, K.D., 2010. Exploring Lean Construction Practice, Research, and Education. In: Walsh, K. & Alves, T., 18th Annual Conference of the International Group for Lean Construction. Haifa, Israel, 14-16 Jul 2010. pp 435-444.
+86  	 Xavier Brioso /  Procedia Engineering  123 ( 2015 )  85 – 93 
+
+	 Xavier Brioso /  Procedia Engineering  123 ( 2015 )  85 – 93 	87
+
+
+

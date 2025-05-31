@@ -1,0 +1,351 @@
+﻿ 
+  
+Investigating Causes of Construction Delay in Ethiopian Construction Industries 
+Werku Koshe1, *, K. N. Jha2 
+1Dept. of Construction Technology & Management, Dire Dawa Institute of Technology, Dire Dawa, Ethiopia 2Dept. of Civil Engineering, Indian Institute of Technology, Delhi, Hauz Khas, New Delhi, India 
+Email address: 
+Werku.koshe@yahoo.com (W. Koshe), knjha@civil.iitdac.in (K. N. Jha) To cite this article: 
+Werku Koshe, K. N. Jha. Investigating Causes of Construction Delay in Ethiopian Construction Industries. Journal of Civil, Construction and Environmental Engineering. Vol. 1, No. 1, 2016, pp. 18-29. doi: 10.11648/j.jccee.20160101.13 
+Received: October 17, 2016; Accepted: November 4, 2016; Published: December 2, 2016  
+ 
+Abstract: Construction delays are occurring in every phase of a construction project and are common problems in construction projects in Ethiopia. Moreover, it is well known that the delays in construction projects are the major causes of project failure. If the delay is not identified and the corrective project management decision is not taken in time a project may incur extra cost and extension of project time, which gives rise to dissatisfaction to all the parties involved and nowadays it’s becoming a major obstruction for their development for developing countries like Ethiopia. This research first identified 88 key factors causing delay in Ethiopian construction industries, and then the most common and critical causes of construction delay were evaluated by using both the data collected in a survey of construction managers, resident engineers, contractors, and clients, and interviews with senior professionals in the field. The findings show that the main critical factors that cause construction delays in Ethiopia are: (1) Difficulties in financing project by a contractor; (2) Escalation of the materials price; 
+(3) Infective project planning; (4) Scheduling or resource management; (5) Delay in progress payments for completed works, (6) Lack of skilled professionals in the field of construction management in the organization, and (7) Fluctuating labor availability season to season /Seasonal labors availability. This study shows that in Ethiopia only 8.25% projects have been finished to the original targeted completion date. The remaining 91.75% delayed 352% of its contractual time. This paper finally came up with solutions towards reducing the impact of delays on construction projects in Ethiopia.  
+Keywords: Construction Delay, Delay Causes, Top-Ten Delay Factors 
+ 
+  
+1. Introduction and Literature Review 
+  A construction project is commonly acknowledged as successful, when it is completed on schedule and within the agreed budget, with the highest quality and in the safest manner, in accordance with the specifications and to stakeholders’ satisfaction. Functionality, profitability to contractors, absence of claims and court proceeding and “fitness for purpose” for occupiers have also been used as measures of project success [3]. 
+  For any public or private construction firms, upgrading the project performance can be taken as one of their main objectives. This can be achieved by reducing cost, finishing projects on schedule and increasing quality. 
+  Public construction projects in Ethiopia are parts of the country’s development initiative. It shares considerable amount of the country’s scarce financial resources. In Ethiopia, the construction industry is the highest recipient of government budget in terms of government development program. Consequently, public construction projects consume an average annual rate of nearly 60% of the government’s capital budget [4]. 
+  Construction delays can be defined as the late completion of work compared to the planned schedule or contract schedule. Construction delays can be minimized only when their causes are identified. [26], [28] defined the word “delay’’ as something happening at a later time than planned, expected, specified in a contract or beyond the date that the parties agreed upon for the delivery of a project. [19] Define delay as the slowing down of work without stopping construction entirely and that can lead to time overrun either beyond the contract date or beyond the date that the parties have agreed upon for the delivery of the project. [25] Classify delays into non-excusable delays, excusable withcompensable delays, excusable without compensable delays and concurrent delays. Non-excusable delays are delays, which the contractor either causes or assumes the risk for. Excusable without compensable delays are delays caused by factors that are not foreseeable, beyond the contractor’s reasonable control and not attributable to the contractor’s fault or negligence. Excusable with compensable delays these are compensable delays are excusable delays, suspensions, or interruptions to all or part of the work caused by an act or failure to act by the owner resulting from owner’s breach of an obligation, stated or implied, in the contract. Concurrent delays occur when both owner and the contractor are responsible for the delay. Delay or extension of time: the contractor will be accountable for damages if the actual completion date of the works occurs after the agreed completion date unless the delay is caused by a matter for which an extension of time is available and the contractor complies with the notice and other requirements under the contract. [25]. 
+  The construction industry is very large, complex, and requires huge capital investments. Delay in the completion of a construction project are one of the biggest problems facing by the construction industry and can be a major problem for construction’s project participant leading to costly disputes and adverse relationships amongst project participants. 
+  Delays occur in every construction project and the significant of these delays varies considerably from project to project. Many researchers have studied the causes of project delays in public construction industry. The findings of such studies have been reviewed for this research. 
+  [13] Identified 16 major factors that caused delays and cost overruns in Nigeria. A questionnaire survey was carried out with contractors, consultants and client organizations in Nigeria. They presented that the causes of delay and cost overruns in Nigerian construction projects were attributed to finance and payment arrangements, poor contract management, shortages in materials, inaccurate estimation, and overall price fluctuations. 
+  [2] Identified 56 main causes of delay in Saudi large building construction projects and their relative importance. Based on the contractors surveyed the most important delay factors were: preparation and approval of shop drawings, delays in contractor’s progress, payment by owners and design changes. From the view of the architects and engineers the cash problems during construction, the relationship between subcontractors and the slow decision making process of the owner were the main causes of delay. However, the owners agreed that the design errors, labor shortages and inadequate labor skills were important delay factors. 
+  [11] Carried out a research to find out the causes of delays in construction industry in Lebanon. A total of 64 causes of delays were identified through research in which client, contractor and consultant were undertaken the study. All three parties generally agreed on the ranking of the major categories of delay factors. Owners had more concerns with regard to financial issues, while contractors ranked contractual relationships highest, and finally, consultants firms ranked project management highest. These causes were categorized in 10 main groups: materials, manpower, equipment, financing, changes, government relations, project management, site conditions, environment and contractual relationships. 
+  [6] Identify the most important causes of delay in construction projects with traditional type contracts from the viewpoint of construction contractors and consultants. Results of their survey indicates that contractors and consultants agreed that owner interference, inadequate contractor experience, financing and payments, labor productivity, slow decision making, improper planning, and subcontractors are among the top ten most important factors. 
+  [2] Conducted a time performance survey of different types of construction projects in Eastern Province of Saudi Arabia to determine the causes of delay and their importance according to each project participant (owner, consultant, and contractor). It was concluded that 70% of projects experience time overrun. The survey was conducted with 23 contractor's, 19 consultant and 15 owners. They identified seventy-three (73) causes of delay and grouped them into nine classes during the research. The most common cause of delay identified by all three parties was “change order. The overall results are stated that the factor related to labor, contractor, project owner and consultant are in the highest rank. 
+  [27] Studied problems related to delays and cost overruns during construction phase and they identified that the cause for construction delays and cost overruns in overall context are poor site management and supervision, poor project management assistance, financial difficulties of owner, financial difficulties of contractor and design changes are the five most frequent, severe and important causes. 
+  [9] Conducted a quantitative analysis of construction delays by examining the records of 130 public building projects constructed in Jordan during the period of 19901997. The researcher presented regression models of the relationship between actual and planned project duration for different types of building facilities. The analysis also included the reported frequencies of time extensions for the different causes of delays. The researcher concluded that the main causes of delay in construction projects relate to designers, user changes, weather, site conditions, late deliveries, economic conditions, and increase in quantities. 
+2. Research Methodology 
+  After critically reviewed the existing literatures related to causes of construction delay (CCD) in construction projects, 88 CCD factors were identified under eight broad categories namely client related, consultant/supervisor related, contractor related, designer related, labor related material related equipment, and external related. This identified CCD factors adopted for the present work (CCD in Ethiopian public building construction project) to design the questionnaire. The questionnaire were designed to assess the opinion of clients, design engineers, consultants, and contractors on the relative importance of causes of delay in Ethiopian public building construction and the questionnaire was designed in order to evaluate the frequency of occurrence and degree of severity of the identified 88 causes of delay factors. In the process of the questionnaire design two parameters are selected; that used to measure the frequency of occurrence and degree of severity. In the questionnaire design for frequency of occurrence of adopted CCDF 1 to 5 Likert scale (LS) (1 for never and 5 for always) was assigned. For degree of severity level also 1 to 5 LS (1 for less, 5 for extreme). 
+The collected data was analyzed by using severity index, 
+3. Result and Discussion 
+3.1. Response Rate 
+Table 1. Response Rate. 
+Population(N) Sample(n) No. of distributed sample Number of response collected No. of valid response Response rate 152 110 83 56 51 61.44%  frequency index, and an important index. The analysis included ranking of CCD factors and sources of delay factors. Discussion of the results was based on personal interviews that were conducted to clarify responses. Interviewees were experts from the Association of Construction Contractors and the Ministry of Housing and Public Works. The scope of this research includes public building construction in Ethiopia. The population consists of all the owners, consultants, and contractors in the public building construction in Ethiopia. 
+  
+  The above table 1 shows that 83 questionnaires were distributed to respondents. 56 responses are collected. Out of 56 collected responses only 51 were valid. This is because; the respondents did not properly fill 5 questionnaires. The response rate of respondents having different experience is shown in the graph and table 2. Maximum responses come 
+Table 2. Working Experience of the Respondents. 
+Experience 0 to 5yrs. 5 to 10yrs. 10 to 15yrs. 15 to 20yrs. 20 to 25yrs. Work exp.= >25yrs. TOTAL Clients No. 3 7 5 1 1 1 18 % 16.67 38.89 27.78 5.56 5.56 5.56 100 Consultants No. 2 6 5 0 0 2 15 % 13.33 40.00 33.33 0.00 0.00 13.33 100 Contractors No. 1 5 8 1 2 1 18 % 5.56 27.78 44.44 5.56 11.11 5.56 100 Total No. 6 18 18 2 3 4 51 Percentage of Respondents % 11.76 35.29 35.29 3.92 5.88 7.84 100.00 from people having experience of 5-10 years (35.29%) and 10 – 15 years (35.29%). The average experience of the respondents is about 12 years. The sample consisted of project and site managers, resident engineers, architects, structural engineers, service engineers, contract administrators, design managers and construction managers. 
+  
+ 
+3.2. Ranking of Delay Factors 
+  [2], [1] Mean and standard deviation of each individual factor is not a suitable measure to assess overall rankings as they do not reflect any relationship between them and hence I. I (Importance Index) was used for the study which can be calculated using the following equation: 
+Frequency Index (F.I %) = 
+×
+	Severity Index (S.I %) =∑	(	×	) ×100 
+×
+Importance Index (I.I) (%) =	. × . 
+  Where aif and ais are numbers of respondents who choose a certain frequency and severity degree respectively, nif and nis are degrees of frequency and severity respectively (1 or 2 or 3 or 4 or 5), N is total number of respondents. The top ten delay causes that are ranked according to Frequency Index (F.I),Severity Index (S. I), and Importance Index (I. I) are shown in Table 3, 4, & 5. From clients, consultants/supervisors, and contractors point of view top 10 constructions delay factors are identified. Among the listed top ten delay factors the most frequent and most critical delay factors are difficulties in financing project by contractors, escalation of material price, ineffective project planning, scheduling and resource management, delay in progress payment for completed works, and lack of skilled professional in construction projects organization. 
+3.2.1. From Owners/Client’s Point of View 
+  From clients point of view uppermost 10-construction delay factors are listed in table 3. Among the listed top ten delay factors the most frequent and most critical delay factors are an escalation of material price and difficulties in financing project by contractors. 
+  
+ 
+Table 3. Ranking of causes of delay by Client side. 
+ Delay factors Categories FO DS Importance Index FI RANK SI RANK RII RANK DF67 Escalation of materials price Material 	87.06 2 90.59 1 78.87 1 DF32 Difficulties in financing project by contractor Contractor 	88.24 1 84.71 5 74.74 2 DF49 In sufficient data collection and survey before design Designer 	83.53 6 89.41 2 74.69 3 DF37 Supplying poor quality material by contractor Contractor 	85.88 3 84.71 5 72.75 4 DF29 Lack of skilled professional in construction PM(project management) in the organization Contractor 	83.53 6 87.06 3 72.72 5 DF30 Infective project planning, scheduling or resource management Contractor 	84.71 4 84.71 5 71.75 6 DF42 Poor site management and supervision Contractor 	84.71 4 82.35 9 69.76 7 DF23 Preparing Incomplete/un detailed BOQ Consultant/Supervisor 78.82 10 85.88 4 67.70 8 DF63 Unqualified/inadequate experienced labour Labour 	81.18 9 81.18 10 65.90 9 DF74 Shortage of equipment Equipment 	76.47 13 84.71 5 64.78 10 3.2.2. From Consultants Point of View 
+  From consultants/supervisors point of view top 10 construction delay factors are listed in table 4. Among the listed top ten delay factors the most frequent and most critical delay factors are difficulties in financing project by contractors and ineffective project planning, scheduling and resource management. 
+Table 4. Ranking of causes of delay by Consultant side. 
+ Delay factors Categories FO DS Importance Index FI RANK SI RANK RII RANK DF32 Difficulties in financing project by contractor Contractor 85.33 1 88.00 1 75.09 1 DF30 Infective project planning, scheduling or resource management Contractor 80.00 3 88.00 1 70.40 2 DF58 Low productivity of labour Labour 78.67 4 82.67 4 65.03 3 DF67 Escalation of materials price Material 81.33 2 77.33 9 62.90 4 DF37 Supplying poor quality material by contractor Contractor 76.00 5 82.67 4 62.83 5 DF29 Lack of skilled professional in construction PM(project management)in the organization Contractor 74.67 8 84.00 3 62.72 6 DF41 Poor coordination and communication with other parties Contractor 76.00 5 76.00 12 57.76 7 DF68 Fluctuatinglaborsavailabilityseasontoseason/Seasonallaborsavailability Labour 73.33 10 77.33 9 56.71 8 DF85 Price fluctuations Material 70.67 12 78.67 6 55.59 9 DF68 Late delivery of materials Material 73.33 10 74.67 13 54.76 10 3.2.3. From Contractors Point of View 
+  From contractors point of view Top-10 construction delay factors are listed in table 5. Among the listed top ten delay factors the most frequent and most critical delay factors are delay in progress payments for completed work and fluctuating labors availabilities season to season (seasonal labors availabilities). 
+Table 5. Ranking of causes of delay by Contractor side. 
+                                                                 FO 	DS 	Importance Index Delay factors 	Categories 
+ 	FI 	RANK 	SI 	RANK 	RII 	RANK 
+DF14 	Delay in progress payments for completed works 	Client 	88.89 	1 	86.67 	2 	77.04 	1 
+Fluctuating labours availability season to season/Seasonal 
+DF55 Labour 87.78 2 84.44 3 74.12 2 labours availability 
+DF68 	Late delivery of materials 	Material 	83.33 	3 	82.22 	6 	68.52 	3 
+DF32 	Difficulties in financing project by contractor 	Contractor 	74.44 	13 	87.78 	1 	65.35 	4 
+Type of project bidding and award i.e. negotiation, lowest 
+DF13 Client 78.89 4 82.22 6 64.86 5 bidder. 
+Bureaucracy (Excessively complicated administrative 
+DF1 	Client 	77.78 	8 	82.22 	6 	63.95 	6 procedure) 
+DF67 	Escalation of materials price 	Material 	77.78 	8 	81.11 	9 	63.09 	7 
+DF54 	Unclear and inadequate details in drawings 	Designers 	78.89 	4 	78.89 	13 	62.23 	8 
+DF70 	Poor quality of construction materials 	Material 	77.78 	8 	80.00 	11 	62.22 	9 
+DF23 	Preparing Incomplete/un detailed BOQ 	78.89 	4 	77.78 	17 	61.36 	10 
+ 
+3.2.4. Combined Results (Clients, Consultants, and Contractors) 
+  The combined results show that the delay in construction projects is mostly occurred by the difficulty financing by contractors, escalation of materials price, ineffective project planning, scheduling and resource management, delay in progress payment for completed works, lack of skilled professional in construction projects organization, fluctuating labors availabilities season to season (seasonal labors availabilities), late delivery of materials, low productivity of labors, lack of technical experience of employees and insufficient data collection and survey. As shown in table 6:  
+Table 6. Ranking of causes of delay by all parties (combined). 
+Construction 	Frequency of Occurrence 	Degree of Severity 	Importance Index 
+  
+	Delay factors 	Categories 
+Delay 	FI 	RANK 	SI 	RANK 	RII 	RANK 
+Difficulties in financing project by 
+DF32 	Contractor 	80.78 	1 	85.10 	1 	68.75 	1 contractor 
+DF67 	Escalation of materials price 	Material 	80.39 	2 	81.57 	4 	65.57 	2 
+Infective project planning, scheduling or 
+DF30 	Contractor 	77.25 	5 	83.53 	2 	64.53 	3 
+resource management 
+Delay in progress payments for completed 
+DF14 	Clients 	78.43 	4 	80.39 	5 	63.05 	4 
+works 
+Lack of skilled professional in 
+DF29 	construction PM(project management) in 	Contractor 	74.90 	7 	83.53 	2 	62.57 	5 
+the organization 
+Fluctuating labours availability season to 
+DF55 	Labour 	78.82 	3 	76.86 	6 	60.59 	6 season/ Seasonal labours availability 
+DF68 	Late delivery of materials 	Material 	75.29 	5 	77.65 	5 	58.46 	7 
+DF58 	Low productivity of labour 	Labour 	73.33 	7 	74.90 	9 	54.93 	8 
+Unqualified/inadequate experienced 
+DF63 	Labour 	72.94 	`10 	64.28 	11 	46.89 	9 
+labour 
+Insufficient data collection and survey 
+DF49 	Designers 	71.37 	14 	65.64 	8 	46.85 	10 
+before design 
+Table 7. Ranking of causes of delay by all parties (combined). 
+No. 	Delay Factors 	Category 	F.I 	Rank 	S.I 	Rank 	IMP.I 	Rank 
+DF1 	Bureaucracy (Excessively complicated administrative procedure) 	Clients 	68.24 	22 	70.59 	28 	48.17 	21 
+DF2 	In adequate client’ finance 	Clients 	59.22 	60 	66.27 	46 	39.24 	52 
+DF3 	Delay in site delivery 	Clients 	60.00 	56 	60.00 	65 	36.00 	63 
+DF4 	Change/ Variations order 	Clients 	73.33 	8 	65.10 	48 	47.74 	22 
+DF5 	Late approval for payment 	Clients 	63.53 	39 	71.37 	22 	45.34 	34 
+Regular interference, poor communication and coordinate on with 
+DF6 	Clients 60.78 50 61.57 61 37.42 59 other parties 
+DF7 	Improper project feasibility study 	Clients 	53.73 	71 	58.43 	70 	31.39 	70 
+DF8 	Lack of competent representative 	Clients 	60.78 	50 	63.14 	56 	38.38 	54 
+DF9 	Lack of experience of owner in construction project 	Clients 	59.61 	58 	60.39 	63 	36.00 	64 
+DF10 	 Lack of incentive for contractors to finish ahead of schedule 	Clients 	69.02 	19 	59.61 	67 	41.14 	45 
+DF11 	Slowness in decision making 	Clients 	72.55 	11 	72.55 	17 	52.63 	12 
+DF12 	Suspension of work by the owner 	Clients 	47.06 	83 	59.61 	67 	28.05 	78 
+DF13 	Type of project bidding and award i.e.negotiation, lowest bidder. 	Clients 	68.24 	22 	68.24 	35 	46.56 	25 
+DF14 	Delay in progress payments for completed works 	Clients 	78.43 	4 	80.39 	5 	63.05 	4 
+Supervisor/
+DF15 	Corruption 	54.12 	70 	60.00 	65 	32.47 	69 
+Consulate 
+	Wrongtimeestimate(i.e.scheduleddurationisnotenoughforconstructin	Supervisor/
+DF16 	67.45 26 74.12 12 49.99 19 gtheproject) 	Consulate 
+Supervisor/
+DF17 	Lack of technical professional in the consulting organization 	66.67 	28 	70.98 	26 	47.32 	23 
+Consulate 
+Supervisor/
+DF18 	Lack of experience of staff in management and technical inspection 	63.53 	39 	68.63 	33 	43.60 	39 
+Consulate 
+Supervisor/
+DF19 	Conflicts between consultant and design engineer 	54.90 	69 	52.16 	82 	28.64 	77 
+Consulate 
+	Delay in approving major change in the scope of work via 	Supervisor/
+DF20 	65.49 33 71.76 20 47.00 24 
+	consultant 	Consulate 
+Supervisor/
+DF21 	Inflexibility(rigidity)of consultant 	58.43 	64 	59.22 	69 	34.60 	66 
+Consulate 
+Supervisor/
+DF22 	Change in drawing and specification 	67.84 	24 	67.84 	39 	46.03 	29 
+Consulate 
+Supervisor/
+DF23 	Preparing Incomplete/un detailed BOQ 	70.98 	15 	73.73 	13 	52.33 	15 
+Consulate 
+Supervisor/
+DF24 	Late in reviewing and approving design document 	63.92 	37 	66.67 	44 	42.61 	42 
+Consulate 
+Supervisor/
+DF25 	In accurate site inspection 	60.00 	56 	63.92 	51 	38.35 	55 
+Consulate 
+Supervisor/
+DF26 	In adequate site investigation 	60.78 	50 	67.06 	43 	40.76 	48 
+Consulate 
+Supervisor/
+DF27 	Delay in performing testing and inspection 	59.61 	58 	61.96 	60 	36.93 	60 
+Consulate 
+No. 	Delay Factors 	Category 	F.I 	Rank 	S.I 	Rank 	IMP.I 	Rank 
+Supervisor/
+DF28 	Poor coordination and communication with other parties 	66.27 	31 	68.24 	35 	45.22 	35 
+Consulate 
+Lack of skilled professional in construction PM(project 
+DF29 Contractor 74.90 7 83.53 2 62.57 5 management) in the organization 
+DF30 	Infective project planning, scheduling or resource management  	Contractor 	77.25 	5 	83.53 	2 	64.53 	3 
+DF31 	Mistakes during construction and Rework due to error 	Contractor 	60.39 	53 	67.84 	39 	40.97 	46 
+DF32 	Difficulties in financing project by contractor 	Contractor 	80.78 	1 	85.10 	1 	68.75 	1 
+DF33 	Inadequate contractor experience 	Contractor 	62.35 	45 	68.24 	35 	42.55 	43 
+DF34 	Inappropriate construction method 	Contractor 	63.14 	43 	68.24 	35 	43.08 	40 
+DF35 	Centralization with top management 	Contractor 	67.45 	26 	67.84 	39 	45.76 	31 
+DF36 	Incompetent project team 	Contractor 	65.88 	32 	69.41 	32 	45.73 	32 
+DF37 	Supplying poor quality material by contractor 	Contractor 	70.98 	15 	75.69 	9 	53.72 	11 
+DF38 	Frequent change of subcontractors 	Contractor 	59.22 	60 	63.92 	51 	37.85 	57 
+DF39 	Unreliable subcontractor 	Contractor 	52.55 	77 	56.86 	73 	29.88 	72 
+DF40 	Lack of coordination with sub contractors 	Contractor 	58.82 	63 	64.31 	49 	37.83 	58 
+DF41 	Poor coordination and communication with other parties 	Contractor 	63.14 	43 	63.92 	51 	40.36 	49 
+DF42 	Poor site management and supervision 	Contractor 	70.20 	17 	72.16 	18 	50.65 	16 
+DF43 	Obsolete technology 	Contractor 	63.53 	39 	62.75 	58 	39.86 	51 
+DF44 	Poor health and safety 	Contractor 	66.67 	28 	62.35 	59 	41.57 	44 
+DF45 	Poor understanding of accounting and financial principles 	Contractor 	64.31 	36 	69.80 	30 	44.89 	36 
+DF46 	Complexity of projected sign 	Designers 	53.33 	73 	54.12 	76 	28.86 	74 
+DF47 	Design changes by owner or his agent during construction 	Designers 	64.71 	35 	68.63 	33 	44.41 	37 
+DF48 	Design errors made by designers 	Designers 	63.53 	39 	72.16 	18 	45.84 	30 
+DF49 	In sufficient data collection and survey before design 	Designers 	71.37 	14 	76.08 	8 	54.30 	10 
+DF50 	Lack of experience of design team in construction projects 	Designers 	60.39 	53 	66.27 	46 	40.02 	50 
+DF51 	Mistakes and delays in producing design documents 	Designers 	66.67 	28 	69.80 	30 	46.54 	26 
+DF52 	Misunderstanding of owner’s requirements by design engineer 	Designers 	56.86 	66 	63.92 	51 	36.35 	62 
+DF53 	Poor use of advanced engineering design software 	Designers 	53.33 	73 	54.90 	74 	29.28 	73 
+DF54 	Unclear and inadequate details in drawings 	Designers 	71.76 	12 	73.33 	14 	52.63 	13 
+Fluctuatinglaborsavailabilityseasontoseason/Seasonallaborsavailabil
+DF55 	Labour 	78.82 	3 	76.86 	7 	60.59 	6 
+ity 
+DF56 	Absenteeism 	Labour 	60.39 	53 	58.43 	70 	35.29 	65 
+DF57 	Low motivation and morale of labour 	Labour 	71.76 	12 	72.94 	15 	52.35 	14 
+DF58 	Low productivity of labour 	Labour 	73.33 	8 	74.90 	10 	54.93 	8 
+DF59 	Personal conflicts among labour 	Labour 	52.16 	79 	52.16 	82 	27.20 	82 
+DF60 	Shortage of labour 	Labour 	68.63 	21 	67.45 	42 	46.29 	28 
+DF61 	Slow mobilization of labour 	Labour 	65.10 	34 	71.37 	22 	46.46 	27 
+DF62 	Strike 	Labour 	43.92 	86 	52.94 	79 	23.25 	83 
+DF63 	Unqualified/inadequate experienced labour 	Labour 	72.94 	10 	74.51 	11 	54.35 	9 
+DF64 	Change in materials type and specifications during construction 	Material 	59.22 	60 	64.31 	49 	38.08 	56 
+DF65 	Damage of delivered materials 	Material 	55.69 	68 	60.78 	62 	33.85 	68 
+DF66 	Delay in manufacturing materials 	Material 	61.18 	48 	70.20 	29 	42.94 	41 
+DF67 	Escalation of materials price 	Material 	80.39 	2 	81.57 	4 	65.57 	2 
+DF68 	Late delivery of materials 	Material 	75.29 	6 	77.65 	6 	58.46 	7 
+DF69 	Poor procurement of construction materials 	Material 	67.84 	24 	71.37 	22 	48.42 	20 
+DF70 	Poor quality of construction materials 	Material 	63.92 	37 	70.98 	26 	45.37 	33 
+DF71 	Unreliable suppliers 	Material 	57.65 	65 	63.92 	51 	36.85 	61 
+DF72 	Equipment allocation problem 	Equipment 	61.18 	48 	66.67 	44 	40.78 	47 
+DF73 	Frequent equipment breakdowns 	Equipment 	56.08 	67 	60.39 	63 	33.87 	67 
+DF74 	Improper equipment 	Equipment 	50.59 	81 	54.90 	74 	27.77 	80 
+DF75 	Shortage of equipment 	Equipment 	61.96 	46 	71.37 	22 	44.22 	38 
+DF76 	Accidents during construction 	External 	53.33 	73 	53.73 	78 	28.65 	75 
+DF77 	Changes in government regulations and laws 	External 	44.31 	85 	47.06 	85 	20.85 	86 
+DF78 	Conflict, war, and public enemy 	External 	36.47 	88 	45.88 	87 	16.73 	88 
+DF79 	Delay in obtaining permits from municipality 	External 	53.73 	71 	58.43 	70 	31.39 	70 
+DF80 	Delay in providing services from utilities(such as water, electricity) 	External 	69.02 	19 	72.94 	15 	50.34 	17 
+DF81 	Global financial crisis 	External 	52.55 	77 	52.94 	79 	27.82 	79 
+DF82 	Loss of time by traffic control and restriction at job site 	External 	47.45 	82 	45.88 	87 	21.77 	84 
+DF83 	Natural disasters (flood, hurricane, earthquake) 	External 	39.22 	87 	47.45 	84 	18.61 	87 
+DF84 	Price fluctuations 	External 	69.80 	18 	71.76 	20 	50.09 	18 
+DF85 	Problem with neighbours 	External 	45.10 	84 	46.27 	86 	20.87 	85 
+DF86 	Slow site clearance 	External 	51.76 	80 	52.94 	79 	27.40 	81 
+Unexpectedsurface&subsurfaceconditions(suchassoil,watertable)Or
+DF87 	External 	61.96 	46 	63.14 	56 	39.12 	53 
+Unforeseensitecondition 
+DF88 	Unfavourable weather conditions 	External 	52.94 	76 	54.12 	76 	28.65 	76 
+4. Ranking of Sources of Delay 
+  
+ 
+5. Correlation 
+  The Spearman’s rank correlation coefficient is applied to measure the degree of agreement or disagreement associated with the importance ranking of each two stakeholders for a single factor of delay, while ignoring the ranking of the third party. The results present that the highest degree of agreement is between clients and consultant, which is 88%. The lowest degree of agreement is between client and contractor, and contractors and consultants, which is 67%. The relative agreement between each two parties is shown in Table-9. 
+Table 9. Spearman’s rank correlation coefficient between parties. 
+Parties Correlation Coefficient Significant Level Client and Contractor 0.67 0.95 Client and Consultant 0.88 0.95 Consultant and contractor 0.73 0.95 6. Principal Component and Factor Analysis (PCFA) 
+  PCFA is a reduction technique used to classify and reduce the number of variables. The top ten factors were analyzed using the PCFA technique to arrive to the top five factors contributing to schedule overrun. A test for the suitability of data has been conducted before starting the analysis. The test is based on Kaiser-Meyer-Olkin measure of sampling. A KMO value >0.5 indicates that the sample is suitable for the analysis. The KMO value for the causes of delay sample was 0.65. This value indicates that the sample is suited for analysis. 
+  From table 10, we can see that 3 factors have been extracted: 
+ Delay in progress payments for completed works 
+ Escalation of materials price 
+Table 10. Rotated Component Matrixa. 
+ 	Component  	2 	3 Delay in progress payments for completed works 	 	 Lackofskilledprofessionalinconstructionprojectmanag
+                                            .741 	 	 ementincontractororganization Infective project planning and scheduling 	.608 	 	.464 Contractor’s financial difficulty 	.478 	 	 Insufficient data collection and survey before design 	 	.850 	 Fluctuating labours availability 	.587 	 	 Low productivity of labour 	 	 	.817 Unqualified/inadequate experienced labour 	 	 	.841 Escalation of materials price 	 	.900 	 Late delivery of materials 	.719 	 	 Extraction Method: Principal Component Analysis. 
+Rotation Method: Varimax with Kaiser 	 	 	 
+Normalization. a.Rotationconvergedin5iterations. 	 	 	 Unqualified/inadequate experienced labor 
+7. Construction Projects Delay in Ethiopia in Percent 
+  An additional general question asked to respondents to rate projects completed on the original targeted completion time. 51 % of respondents replied not one of the projects were completed on the targeted completion date, 15.68 % of respondents answered only 5 % of projects were completed on target time, 9.8 % of respondents answered only 10 % of projects were completed on target time, 7.8% of respondents answered only 25 % of projects were completed on target time, 7.8% of respondents answered only 50 % of projects were completed on targeted time, 7.8% of respondents answered only 75 % of projects were completed on targeted time, and not one respondent replied 100 % projects were completed without extension time. And in Ethiopia only 8.25% projects were finished on the original targeted completion date. 
+8. Relationship with Other Developing African Countries 
+  Finally in this research the most critical and major construction delay factors in Ethiopia are identified, and are compared with the major construction delay factors in other developing countries like Egypt [23], Nigeria[18] and, Tanzania [16]. Delay in payment to contractors is the most frequent and critical causes of delay in public building projects in Ethiopia and Tanzania [16] Whereas, in Egypt and Nigeria the most critical attributes are delayed in progress payment for completed work and improper planning respectively. [18] financial difficulties faced by contractors and public agencies, Escalations of material prices, Delay in progress payments for completed works, and late delivery and shortage of materials are the most frequent, critical, and common delay factors in Ethiopia and Tanzania. Delay in progress payments for completed works, financial difficulties faced by contractors and public agencies, Infective project planning, scheduling or resource management, low productivity level of labors and unqualified workforces are the most frequent, critical, and common delay factors in Ethiopia and Egypt. Improper planning, Cash-flow problems during construction, financial issues, late delivery and shortage of materials and Infective project planning, scheduling or resource management are common delay factors in Ethiopia and Nigeria. In figure 1, the Major top ten Factors Causing Construction Delays in Ethiopia are compared with the major construction delay factors in other developing countries (Nigeria, Tanzania and Egypt). 
+
+Figure 1. Major factors causing construction delay in Ethiopia relate with Egypt, Nigeria, and Tanzania. 
+Table 11. Major factors causing construction delay in Ethiopia relate with Egypt, Nigeria, and Tanzania. 
+Rank Current study(2016) Ethiopia 	Kikawasi, (2012) Tanzania[16] Marzouket (2014 )Egypt [18] Mohammed (2012), Nigeria [23] 1 Difficulties in financing project by 
+                              Design changes contractor Finance and payments of completed work by owner Improper planning 2 Escalation of materials price Delays in payment to contractors, Variation orders/changes of scope by owner during construction Lack of effective communication 3 Infective project planning, 
+scheduling or resource management Information delays Low productivity level of labours Design errors 4 Delay in progress payments for completed works Funding problems Effects of subsurface conditions (e.g. soil, high water table, etc.) Shortage of supply like steel, concrete 5 Lack of skilled professional in construction PM (project Poor project management, Ineffective planning and scheduling of project Slow decision-making  
+Rank Current study(2016) Ethiopia Kikawasi, (2012) Tanzania[16] Marzouket (2014 )Egypt [18] Mohammed (2012), Nigeria [23] management) in the organization Fluctuatinglaboursavailabilityseas
+6 ontoseason/Seasonallaboursavaila
+bility 
+Late delivery and shortage of 
+7 materials Compensation issues Difficulties in financing project by contractor Financial issues 
+Shortage of materials Disagreement on the valuation of work done 
+Conflicts among the involved parties Type of project bidding and award(negotiation, lowest bidder) Shortage of construction materials in market 
+Late in revising and approving design documents by owner 	8 	Low productivity of labour Cash-flow problems during construction 
+Increase in quantities 9 10 Unqualified/inadequate experienced labour Project schedule changes Insufficient data collection and survey before design Supply/procurement problems Unqualified work force Mismanagementbythecontractor(fi nancial,suppliersupport,subcontractor)  
+9. Discussion of the Result 
+  The five most significant factors that cause delay in Ethiopian public building construction are discussed below: 
+9.1. Contractor's’ Financial Difficulties 
+  This research reveals that in Ethiopia owners don’t release payments for executed work on time. This and likes of problems that the owner are creating are leading to financial difficulties to contractors and the pitfalls on the progress of the projects. Therefore the owners should have to release payments on time based on contract agreement and prepare sufficient fund in advance to avoid delay in progress payments for executed work and contractor’s financial difficulties. So as accelerate the project progress. According to [18] financial difficulty is defined as getting into a situation where a respondent's credit is adversely impacted, such as not paying bills. If the contractors have problem in paying money for the materials to be used, laborers’ salaries and equipment to be used for construction work etc. we can say that they are really in financial difficulties. A financial difficulty of contractors has reportedly been one of the important reasons of delay in construction projects [2], [12], [6] & [7] they all found that delay in payment from the client would eventually cause financial difficulties to the contractor. Thus, most of the construction works cannot be carried out due to these financial difficulties. Furthermore, [26] postulated that insufficient capital is one of the major causes of financial difficulties among contractors. Poor financial control by the contractor can lead to insufficient capital (Liu, 2010). Hence, the contractor will have excessive debt, which causes them to face financial difficulties, as they cannot pay back the debt. 
+9.2. Escalation of Materials 
+  Escalation of material price is certainly another key factors affecting time performance of most construction projects in Ethiopia. During cost estimation process the estimator should have to consider appropriate inflation factor. Because during the construction period the cost of construction Materials, tools, labors, equipment etc. may vary from time to time. This escalation has, and will continue to cause, such negative impacts as delayed projects, lack of firm price quotes, higher project costs, a significant rise in the incidence of jobsite construction materials theft. Some of the more severe impacts can be managed by cooperative efforts to minimize, manage and share risks through proactive changes in project methods and contracts. Cost impacts can be mitigated through aggressive value engineering for substitute materials, by developing on time order culture and stockpiling of regular materials, early purchases of those materials subject to escalation risk, and identify critical materials, whose production and procurement takes long time and act early supply commitments. To effectively utilize those methods, Clients/Owners, Supervisors and Contractors should seek the early involvement of specialty contractors and their collaboration with the design team. Escalation of materials price 
+  Inflation usually leads to the escalation of prices of materials, equipment and other inputs to the projects. Since this factor is out of control by project parties, they can only minimize delays in the project so that cost overruns due to this factor are minimized (since inflation is a time bound factor). Sometimes fake scarcity is developed by the providers of materials to make a hyperinflation in developing countries. The unpredictable inflationary trend is observed in many developing countries. [8], [10], [14] identified escalation of materials price is the most important causes of delay in construction project. 
+9.3. Ineffective Planning and Scheduling by Contractors 
+  Planning and scheduling is the basic for every construction work. Ineffective planning and scheduling has a significant impact on construction delays. It should be developed from the start of the project until completion of a project. The reasons why contractors are not able to follow the planning and scheduling effectively may be due to inexperience staff and shortage of workers at the site, financial problem, and poor site management. [2], [6] found in their research work Ineffective planning and scheduling by contractors is the significant causes of delay in construction project. 
+9.4. Delay in Progress Payments for Completed Works 
+  Delayed payments of work done by clients on construction projects in the Ethiopian construction industry are considered to be a factor that causes delay. It causes severe cash-flow problems to contractors and this can have a devastating effect down the contractual payment chain 
+  Regular monthly payment to contractors for work done removed constraints which otherwise may have impeded project progress to cause delay and cost overruns. Failure to provide adequate funding resources to contractors for the job done will make it difficult for the contractors to meet project objectives [12]. 
+  According to [14], [15], [17], and [22] delay in progress payments for completed works was found to be one of the major factors that causes schedule overrun. 
+9.5. Lack of Skilled Professional in Construction Project Management in Contractor Organization 
+  Shortage of talent in the construction sector is a long-term problem and will continue to push up project time and costs. The education and training capacity given through various higher institutions, organizations etc. are clearly inadequate to meet the need of the large percentage of skilled workers in the Ethiopian construction sector. The education system is often not delivering the required number of specialists across project management, engineering, surveying, contract management and the skilled/semi-skilled labor. 
+  The findings of this research work is very similar to the findings of those research which were conducted in other developing countries like for instance, [23] have found delay in progress payments for completed works, low productivity of labor, infective project planning and scheduling, contractor's’ financial difficulties, and unqualified / inadequate experienced labor were the most significant factors that causes delay in Egyptian construction projects. 
+  [21] Identified low productivity of labor, escalation of materials price, contractor's’ financial difficulties, and delay in progress payments for completed works, and infective project planning were among the significant causes of delay in Malaysian construction industry. 
+  In the same manner [20] have indicated that contractor’s financial difficulty, escalation of materials price, and delay in progress payments for completed works, and late delivery of materials were among the major cause of delay in Nigerian construction projects. 
+  This similarity in the causes of delay outcome among different countries shows that the causes are not specific only to some places rather they are universal. 
+10. Recommendations 
+  During the personal interviews of experts from Ethiopia, a number of recommendations emerged to avoid construction delays in Ethiopian public building projects. The researchers classified them under three categories of recommendation depending on the stakeholders such as client, contractor, and consultant. The recommendations are given in bullet points as below: 
+Actions to be taken by client 
+The design drawings should be integrated and there must 
+be a party for checking the harmonization of various available drawings before construction phase. 
+  Employ experienced and competent professional consultant/supervisor who is capable to carry out his duties and responsibilities related to the work with good payment. 
+Avoiding the lowest evaluated bidder approach. 
+  Releasing payments on prescribed time based on contract agreement. 
+Actions to be taken by consultant/supervisor 
+  Sufficient data collection and survey, and detail site investigation and design should be done before tender to avoid future variations. 
+  Prepare always clear and adequate detail drawing and BOQ (Bill of quantity) without any mistakes and discrepancies. 
+  During cost estimation process the estimator should have to consider appropriate risk factor and escalation factor. 
+  Because during the construction period the cost of construction materials, tools, labors, equipment etc. may vary from time to time. 
+  Fixing reasonable time and schedule for project. Define scope of work as precise as possible to avoid change order. 
+  Give orientation to the clients, what impacts are encountered on the construction of the project. Example, immediate approval of payments, variations, additional works, and price escalation are improving project success. 
+  Approve the requested payments, additional works, variation orders etc. on time, as per the rule and regulation of contract, to successful completion of the construction of the proposed projects on time. 
+Actions to be taken by contractor 
+  The contractors should employ the right professional for the right position related to work, i.e. on project manager (PM) position the contractor should assign a person who has experience and specializes on construction technology and management, construction engineering and management, and related professionals. 
+  The project manager as well as a top level management should apply proper project management techniques, such as: proper planning, scheduling and monitoring, proper cash flow and resource scheduling together with strict monitoring. 
+  Compute with real price not to win and collect advance payment and disappear. Open to learn from others (avoid rigidity). Develop philosophy on financial management per project. And, do not use one project finance to other project. 
+  Arrange some incentives and give training, to motivate labors and increase productivity. 
+  Develop on time order culture and stockpiling of regular materials. Strong and proper material procurement, schedule as well as its implementations is a reliable means for resolving material related delays. 
+11. Conclusion 
+  This study focused on delay of construction of public building projects in Ethiopia. The study sought the views of clients, consultants, and contractors on the relative importance of the factors that cause delays in building construction projects in Ethiopia. The study showed that all the three groups of respondents generally agreed that out of a total of 88 factors the top ten influencing factors are: Contractor’s financial difficulty, Escalation of materials price, Infective project planning and scheduling, Delay in progress payments for completed works, Lack of skilled professional in contractor organization, Fluctuating labors availability, Late delivery of materials, Low productivity of labor, Unqualified / inadequate experienced labor, Insufficient data collection and survey before design. The 88 factors were categorized into eight major groups and were ranked. The results show that clients, consultants, and contractors all agreed that the contractor group of delay factors was the most influential factor. Material related factors were considered the second most important factor causing delay in construction projects followed by Designer’s related factors and Consultants /supervisors related factors. 
+ 
+References 
+[1] Iyer, K. C., Jha, K. N., 2005. Factors affecting cost performance: evidence from Indian construction projects. International Journal of Project Management 23, 283–295. 
+[2] Assaf, S. A. and S. Al-Hejji, 2006. Causes of delay in large construction projects”, international journal of project managements, 24: 349-357. 
+[3] Takim, R., & Akintoye, A. (2002). A conceptual model for successful construction project performance. Paper presented at 2nd International Postgraduate Research Conference in Built and Human Environment. 
+[4] Ministry of Works and Urban Development (MoWUD), 
+(2006), Plan for Accelerated and Sustained Development to End Poverty (PASDEP), (2005/06-2009/10); Urban Development & Construction Industry component of PASDEP. 
+[5] Wubishet, J. M., (2004) Performances for Public Construction Projects in (Least) Developing Countries, Federal Road and Educational Building Projects in Ethiopia, Doctoral Thesis, NTNU, Trondheim. 
+[6] Abdalla, M. Odeh and Hussien T. Battaineh, (2000), Causes of construction delay: Traditional Contracts, International Journal of Project Management 20(2002) 67–73. 
+[7] Mansfield, N. R. Causes of delay and cost overruns in Nigerian construction projects. Int J Project Manage 1994; 12(4):254–60. 
+[8] Sambasivan M, W. S. (2007). Causes and effects of delays in Malaysian construction industries. International Journal of Project Management, 25 (5), 517-526. 
+[9] Al-Momani, A. H. (2000). Construction delay: a quantitative analysis, Journal of Project Management 18, 51-59. 
+[10] Chan DWW, K. M. (1996). Reasons for delay in civil Engineering projects in case of Hong Kong. Hong Kong Instit Eng Trans, 3, 1-8. 
+[11] Mezher, T. M. and Tawil, W. (1998) Causes of delays in the construction industry in Lebanon. Engineering, Construction and Architectural Management 5(3), 252-260. 
+[12] Frimpong, Y., Oluwoye, J. and Crawford, L. (2003). Causes of delay and cost overruns in construction of groundwater projects in developing countries: Ghana as a case study. International Journal of Project Management 21: pp. 321-26. 
+[13] Mansfield, N. R., Ugwu, O. O. and Doran, T. (1994) Causes of delay and cost overruns in Nigerian construction projects. International Journal of Project Management 12(4):pp. 254– 60. 
+[14] Fugar, F. D., & Agyakwah-Baah, A. B. (2010). Delays in building construction projects in Ghana. Australasian Journal of Construction Economics and Building, 10(1/2), 103-116. 
+[15] Hamzah, N., Khoiry, M. A., Arshada I., Tawil, N. M., & Che Ani, A. I. (2011). Cause of Construction Delay - Theoretical Framework. 2nd International Building Control Conference 2011, Procedia Engineering, 20, 490 – 495. 
+[16] Kikawasi, G. (2012). Causes and effects of delays and disruptions in construction project in Tanzania. Australasian Journal on Construction Economics and Building, Conference Series, 1(2), 52-59. 
+[17] Mahamid, I. (2013). Common risks affecting time overrun in road construction projects in Palestine: Contractor's' perspective. Australasian Journal of Construction Economics and Building, 13(2): 45-52. 
+[18] Mohammed, K. A. (2012). Causes of Delay in Nigerian Construction Industry. Interdisciplinary Journal of Contemporary Research in Business, 4, 785-794. 
+[19] Fung I. W. H., L. T. (2006). Construction Delays in Hong Kong civil engineering projects. Journal of construction engineering management, 132 (6), 639-49. 
+[20] O. E. Akinsiku and A. Akinsulire (2012). Stakeholders’ Perception of the Causes and Effects of Construction Delays on Project Delivery. KICEM Journal of Construction Engineering and Project Management. 2(4) 25-31. 
+[21] N. Hamzah, M. A. Khoiry, I. Arshad, W. H. W. 
+Badaruzzaman, and N. M. Tawil (2012). Identification of the Causes of Construction Delay in Malaysia. International Journal of Civil, Architectural, Structural and Construction Engineering 6 (12), 105-110. 
+[22] Abedi, M., Fathi, M. S., & Mohammad, M. F. (2011). Major Causes of Construction Delays under Client Category and Contractor Category. The First Iranian Students Scientific Conference in Malaysia, 9 & 10 Apr 2011, UPM, Malaysia. 
+[23] Mohamed M. Marzouk, Tarek I. El-Rasas (2014). Analyzing delay causes in Egyptian construction projects. Journal of Advanced Research, 5, 49–55. 
+[24] Ogunlana, SO, Olomolaiye, PO (1989). A survey of site management practice on some selected sites in Nigeria. Building Environ 24 (2), 191-6. 
+[25] Syed M. Ahmed, S. A., Pragnya Kappagantula, and Dharam Gollapudi (2003). Delays in Construction: A Brief Study of the Florida Construction Industry. ASC Proceedings of the 39th Annual Conference Clemson University Clemson, South Carolina. 
+  
+[26] Kang sik wei (2010). Causes, effects and methods of with Other Selected Countries. KSCE Journal of Civil minimizing Delays in construction projects. Journal Of Engineering, 12(6), 367–377. Management In Engineering, 312-332. 
+[28] Pickavance Keith (2005). Delay and disruption in construction 
+[27] Le-Hoai, L., Lee, Y. D., & Lee, J. D. (2008). Delay and cost contracts. Informa publishing group limited. (3) ISBN-10, overruns in Vietnam large construction projects: a comparison 1843114267. 
+ 
+ 
+20 	Werku Koshe and K. N. Jha:  Investigating Causes of Construction Delay in Ethiopian Construction Industries 
+ 
+  
+ 	Journal of Civil, Construction and Environmental Engineering 2016; 1(1): 18-29 	19 
+ 
+  
+
+  

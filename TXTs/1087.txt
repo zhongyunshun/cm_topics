@@ -1,0 +1,223 @@
+﻿Construction Management and Economics, 1990, 8, 135—146
+Economic optimization of construction project scheduling
+SAEED KARSHENASa and DAVID HABER b
+aAssistant Professor of Construction Management at Marquette Universtiy in Milwaukee, Wisconsin blnformation System Manager at Jansen Contractors, Milwaukee, Wisconsin
+Several techniques such as CPM, PERT, and time-cost trade-off are currently used in the process of project planning. None of these techniques, nor any combination of them, guarantees a project schedule that achieves one ofthe most important objectives ofproject planning, i.e. minimizing the total project cost. In this study, binary variables are used to formulate a linear integer model for optimization of project schedules. This model minimizes the sum ofthe cost ofall resources used by a project, including time. The resultant schedule has an optimal duration, and the resource use is levelled economically. Two examples of project schedule optimization with this method are presented.
+  Although the proposed model in its presentform cannot be easily adopted by practising engineersfor large projects, it couldform the basisforfuture automation ofproject scheduling and resource allocation.
+Keywords: Construction, resources, cost, schedule, optimization
+Introduction
+Project planning can be divided into three phases: programming, scheduling, and resource allocation. The programming phase involves determining the activities of a project, their durations and sequence. In the scheduling phase, the time limits for performing each activity are calculated, and available resources are assigned to the activities of a project in the resource allocation phase. Resource consideration may require modifications in the results of the programming and scheduling phases, and thus the process continues iteratively until an acceptable project plan is derived.
+  Several techniques, such as CPM, PERT, time-cost trade-off, scheduling with limited resources, and resource levelling are commonly used in planning a project (Harris, 1978; Moder and Philips, 1984; Pilcher, 1976; Burman, 1972; Herroelen, 1972). However, none of these techniques nor any combination of them guarantees a project schedule that minimizes the total project cost. This is because of two reasons: (1) in the commonly used planning process, time is not treated as a resource, and (2) the problem ofplanning is broken down into several subproblems whose solutions do not necessarily give the optimal solution to the main problem.
+  In this paper the currently used project planning process is critically reviewed, and a planning method is proposed for determining the schedule that minimizes the total project cost. The schedule found for a project with this method conforms to the limits on the availability of resources, rationally levels the use of resources and results in the optimal project duration.
+0144-6193/90 $03.00+.12 0 1990 E. & P.N. spon Ltd.
+Shortcomings of the current project planning process
+Normally, the objective of project planning is to obtain the schedule that minimizes the total project cost. However, this objective is not achieved by the currently used planning process, although every phase of this process is in effect solving an optimization problem. For example, CPM scheduling is finding the time limits for activities of a project that minimize the project duration subject to precedence constraints. Since in CPM scheduling the availability and costs of resources are not considered, this method generally does not achieve the minimum cost schedule for a project (Birre, 1980). Time-cost trade-off is finding activity durations for a project that minimize the total project cost. However, in the time-cost tradeoff method resources are considered on the activity level instead of the project level. This may result in large fluctuations in demand for resources and, therefore, a high total project cost. Limited resource allocation methods do not attempt to minimize the total project cost; these methods are developed to minimize project duration within the resource availability limits. And finally, the resource levelling methods attempt to find a schedule that minimizes resource fluctuation costs within a fixed project duration. However, since time is also a resource that has a cost like any other resource, in order to minimize the total project cost, project duration must also be treated as a variable and its value should be determined along with other project variables.
+  Based on the above discussion, it can be concluded that in the currently used project planning process four optimization models are applied to a project one after the other. However, since the objective function of these models are different, the final solution cannot optimize all four models and, therefore, is not a global optimum solution to a project scheduling problem. Moreover, the four models mentioned above do not cover all pertinent variables as will be explained subsequently.
+A new approach to project planning
+A more accurate method for optimizing a project schedule differs from the currently used methods in one important aspect: none of the resources, including time, should be limited. Resource use should be treated as a decision variable of the project schedule optimization problem with the objective of minimizing the total project cost. The incremental cost of a resource relative to that of other resources will determine the most economical level of use for each resource. The use of a resource may be limited by assigning a high cost to the resource use above the available limit. The case of a project with limited resources is therefore a special case of the project optimization problem with extremely high costs for the use of resources above certain limits.
+  The above discussion shows that resource cost and its variation with demand are important parameters in a project schedule optimization problem and need to be defined clearly. The following section examines cost functions of various project resources.
+Project cost components
+The total cost of a project is the sum of the costs of all resources required for the project. The cost of a resource in a construction project may be divided into two components: (1 ) resource
+	of 	project 
+mobilization cost, and (2) resource use cost. The mobilization cost of a resource depends on the maximum number of the resource required. For example, regarding equipment, the mobilization cost depends on the number of pieces required. The resource use cost is a function of the use of the resource. In the case ofequipment, resource use cost depends on the number of hours that the equipment is used. This may be expressed mathematically as follows:
+       = 	UK(ax)	(1) where
+TCx = total cost of resource type K in a project.
+CK = the mobilization cost function of rx units of resource type K.
+Ux = the resource use cost function of ax amount of resource type K.
+rx = the maximum number of resource units of type K required per time period during project duration.
+The functional form of equation 1 for various project resources is examined subsequently.
+Equipment cost
+When equipment hourly cost is independent of the length of use, the resource use cost of a piece of type K equipment is equal to the hourly cost of the equipment, ux , times the total type K equipment hours required for the project, ax,
+       UK(ax) = ux * ax	(2) The mobilization cost of a piece of equipment consists of all one time expenses of the equipment such as:
+  1. Transportation cost: The cost of transporting to and from site, setting up, and dismantling a piece of equipment.
+  2. Availability cost: In general, resources are available in unlimited supply, provided one is willing to pay the price. A piece of equipment that is not available locally may be brought in from another location at a higher transportation cost. Therefore, there is no need to limit the number of equipment units available to a project. In other words, scarcity of equipment can be reflected by a high mobilization cost.
+  3. Work inefficiency cost: An equipment operator who is new to a project needs time to adjust to the working conditions of the project. The lost production during the adjustment period is a one time cost incurred whenever a piece of equipment is mobilized.
+  When the equipment mobilization cost is independent of the number of pieces of equipment mobilized, the mobilization cost function would be
+	CK(rx) cK * rx	(3)
+Labour cost
+The resource use cost of labour is calculated the same way as the equipment resource use; that is, labour use cost of a given trade is equal to the hourly labour cost times the total numbers of hours of labour required.
+  Labour mobilization cost consists of the same components as defined for equipment mobilization cost plus unemployment insurance. Large turnover of labour would result in high unemployment insurance rate.
+Material cost
+The resource use cost of a given type of material is equal to the unit cost of that material (purchasing, handling, and transportation cost) times the quantity of material required. Availability of a certain material at a project site may be limited by supply or storage limitations. By assigning an extremely high availability cost to quantities above the available limit, use of material is kept within the available limit. This availability cost may be defined as material mobilization cost. In calculating material mobilization cost, rx in equation 1 would be
+	rx =	(4)
+where ax t is the amount of material type K required at time t.
+Cost of time
+The resource use cost of time is defined as time related overhead costs and penalty/bonuses. There is no mobilization cost associated with time. The resource use cost of time, U(T), is generally a non-linear function of T (T denotes project duration).
+Cashflow
+In this case, resource use cost per period is the sum of activity costs for that period. The mobilization cost of money is a measure of the availabilty of money. Sometimes it is required to keep the net monthly cash flow (revenues less expenses) within a certain limit. In these cases, as in the case of limited material supply, by assigning a high availability cost for the use of money above the specified limit, the net cash flow may be kept within that limit. This availability cost may be defined as the mobilization cost of money. In calculating the mobilization cost of money, rx in equation 1 would be
+	rx = max(ax, t)	(5)
+where ax t is the net cash flow at time t.
+The mathematical model
+The total project cost may be expressed mathematically as follows:
+	TC=E	(6)
+in which UK(ax) depends only on the amount of work to be done, and is independent of the
+	of 	project 
+project schedule. In searching for the optimal schedule of a project, only schedule sensitive components of the above cost function need to be considered. Thus the objective function would be:
+	min U(T)	(7)
+subject to the following constraints:
+  1. Each activity must exist,
+  2. The project's logic must be maintained,
+  3. At any point in time a project cannot use more resource units than the number that is mobilized.
+Linear-integer optimization technique (Garfinkle and Nemhauser, 1972) and binary variables (Pritsaker et al., 1969) are used to formulate the above model. In the formulation, binary variable Xi tis defined as:
+Xi I if activity i is completed at time t
+Xi t = otherwise.
+The formulation of the model with binary variables is discussed subsequently.
+Mathematical modelling of the objective function
+The functions CK and Ux in equation 1 are usually non-linear. Before using them in a linear optimization model, they must be transformed into their equivalent linear functions. The piecewise linearization method (Garfinkle and Nemhauser, 1972) can be used for this purpose. In the piecewise linearization method a non-linear functionf(x) is approximated by n line segments. Every point on the linearized curve,f'(x), can be presented by the following equations:
+
+f'(x)=
+		(8)
+in the above equations, (SK ,fK) are coordinates of the end points of the line segments.
+  Using the previously defined binary variables Xi,t, a general cost of time function U(T) can be represented as follows:
+
+		(9)
+where e denotes the last activity of the project, and U(t) is the value of function U(T) at time t. For example, if the cost of time for 1 day duration is 10, for 2-day duration is 20, and for 3-day duration is 40, then 10, & 1+20 xe2+ 40 Xe 3. Thus, I-J(7) is a linear function of the optimization variables xe t. However, U(T) may be a linear or a non-linear function of the project duration, T. If the project duration must not exceed a certain value, a high cost of time will be assigned to durations above this value and U(T) becomes a step function. An example of a linear function for project duration is
+        xe 5+60 xe,6+70 xe7	(10) and an example of a step function for a maximum duration of six days is as follows:
+	& 5+60 	1000 xe,7+ 	+1000 xen	(11)
+Mathematical modelling of the constraints
+Constraint 1. Activity i will exist if
+(12)
+This set of constraints can be somewhat simplified if estimates of the earliest start and the latest finish times of each activity are available. The earliest start time, q, of activity i is derived from the intial CPM schedule of the project. The latest finish time of activity i, li, is calculated by performing a backward CPM pass through the project network. The duration used for the backward pass calculations is the absolute deadline for finishing the project. Thus, the existence of each activity will be described by:
+		(13)
+Constraint 2. If di is the duration of activity i, then activity i will precede activity j if
+	 Xjt*t-di	(14)
+where Xi t is the finish time of activity i.
+Constraint 3. At each time t, activity i uses the following number of type K resource units:
+	Use of resource type K	riK*Xi q
+where ri is the number of type K resource units used by activity i. The use of resource type K by the project at time t r is equal to the amount of resource type K used by all n activities at time t,
+
+	rix*Xiq	(16)
+However, rx t can never be larger than the number of resource units mobilized, rx. That is
+		(17)
+  The above-rnentioned objective function and constraints constitute the following schedule optimization model:
+	min 	(18)
+subject to:
+1.
+(19) where the decision variables are Xij and rx.
+Numerical examples
+In order to show the application of the model, two very simple example projects will be presented.
+Example 1
+A concrete retaining wall is to be built. The design calls for a construction joint every one third of the wall length. The fastest method to build the wall is to form the full length of the wall at once. A slower alternative is to form and pour the wall in two sections: one section one third of the length of the wall long, and the other section two thirds of wall length long. A third alternative is forming and pouring one third of the wall at a time. Given the resource requirements and the mobilization costs shown in Table 1, what is the least cost schedule for the project?
+Solution
+The binary variables used to mathematically model the project are shown in Table 2. Binary variables, Xi,j, for each activity i are defined over the period of time that the activity can take place; i.e. ej to li (ei and li were defined in the section where constraint number 1 was explained), the objective function for the above project is as follows:
+ovriaht 
+Table 1. Retaining wall project activities and resource requirements
+ActivityPreceeding
+Description activities DurationResources required unitsResourcesTypeMobilization cost/unit,
+Description dollarsB
+D
+EFooting 1/3 wall
+1/3 wall
+1/3 wall
+End1
+1
+1
+130s, c
+15S, C, F
+15S, C, F
+15S, C, Fsskilled labour 500 crane	1500 formwork	30 000 time	5000Table 2. Definition of the binary variables for Example 1
+ActivityTime	1	2	3	4	5	6
+where the coemcients are the unit costs of the resources. Substituting for T from equation 8, and dividing by 500, the objective function becomes:
+	Min(3C+ 30X5 3 + 40X5,4+ 50X5 5 + 	6)
+Subject to:
+1. Activities must exist
+
+
+X3 2+ . . .
++ X4,5
+-1
+2. Activity precedence constraints
+
+2X3 2 3X +
+5X1,5>1
+3X5 3 4X5 4 + .. + 6X5 6- 2X2 25213X5 3 ++ 6X5 6-2X3	3X5 3 ++ 6X5 6 — 2X			3. Resource requirement constraints
+
+crane x1,Isc
+1,2
+X +X23+X33+X43SC
+
+       1, forms
+
+X24+X34+X44<F
+
+workers 30x 1,1 ss
+30X
+30X +15X2 3ss
+30X +15X24+15X34+15X44SS
+30X
+1,5
+The optimal schedule obtained by solving the above equations is shown in Fig. 1. As this figure shows from among the three possible scheduling alternatives, pouring one third of the length of the wall at a time is the most economical alternative. The schedule in Fig. 1 is optimal only for the resource costs shown in Table 1. The following example will demonstrate that by changing the resource costs the optimal schedule of the project will also change.
+TIME
+ACTIVITY12345cFig. 1. The optimal schedule for Example 1
+oovriaht 
+Example 2
+The project in this example is identical to the project in Example 1, but the cost of time is assumed to be a non-linear function of time as shown in Fig. 2.
+  In this example, there are two possible alternatives for the project schedule: pouring the whole wall at once, or pouring two thirds of the length followed by the last one third. To find the optimal solution the objective function is formulated as follows:
+Min(3C+ 60F+S+20X5 3+40X5 5004 5)
+The constraints are identical to those in Example 1. The calculated optimal schedule is shown in Fig. 3.
+  The above example problems could have been solved by calculating and comparing the total cost of all schedule alternatives. This brute force method of solution is practical for small projects but cannot be applied to a real life project. However, the presented model is applicable to both small and large projects.
+Summary and conclusions
+A scheduling method can minimize the total project cost only if it takes into account the cost of all resources including time. The resource allocation methods that are currently used do not treat time as a resource and, therefore, their outcome may be far from the optimal project schedule. In this study, a project schedule optimization model is presented that takes into consideration schedule sensitive cost components of all resources including time. A project scheduled by this model would have an optimal duration and the resource use is levelled economically. This model can handle linear as well as non-linear cost functions.
+  The developed model treats the resource scheduling problem from a perspective that is often used by experienced planners for scheduling construction projects. The proposed model is provided as the theoretical underpinnings of an automated scheduling system. For application to real life projects, a computer program would also be needed for fast and efficient entry of project data into the computer.
+Notations
+ — the total amount of resource type K required by a project ax — amount of resource type K required at time t
+  — the mobilization cost of resource type K the earliest start time of activity i li — the latest finish time of activity i the maximum number of resource units type K required per time period over project duration the number of resource units type K used by activity i
+— the demand for resource type K at time t by the project
+T project duration t — time
+TCK the total cost of resource type K in the project
+TC total cost of the project
+
+construction 
+6.0
+Fig. 2. Cost of time function for Example 2
+TIME
+ACTIVITY12345cDFig. 3. The optimal schedule for Example 2
+UK — the resource use cost of resource type K
+Ux — cost of one unit of resource type K
+Xi.t -zero-one variable denoting activity completion
+References
+Birre, G.S. (1980) Construction planning beyond the critical path. Journal ofthe Construction Division, ASCE, sept.
+Burman, P.J. (1972) Precedence Networks for Project Planning and Control. McGraw-Hill, London.
+Chaker, A.A. (1973) Optimal Scheduling and Resource Allocation in Project Networks. PhD. dissertation, University of Illinois at Urbana, Champaign.
+Garfinkel, R.S., Nemhauser, G.L. (1972) Integer Programming. John Wiley and Sons, New York.
+Harris, R.B. (1978) Precedence and Arrow Networking Techniques for Construction. John Wiley and Sons, New York.
+Herroelen W.S. (1972) Resource-constraint project scheduling: The state of the art. Operational Research Quarterly, 23, 3.
+Moder, JJ., and Phillips, C.R. (1976) Project Management with CPM and PERT. Van Nostrand Reinhold, New York.
+Pilcher R. (1976) Principles of Construction Management McGraw-Hill, London.
+Pritsker, Alan B., Walters, Lawrence J., Wolfe, Philip M. (1969) Multi-project scheduling with limited resources: a zero-one programming approach. Management Science, 10, 1.
+	136	Karshenas and Haber
+
+Economic optimization construction 	scheduling	137
+
+
+
+ri ht 0 2001 . All Rights Reseved.
+
+
+
+ri ht 0 2001 . All Rights Reseved.
+
+	136	Karshenas and Haber
+
+Economic optimization of construction project scheduling	141
+
+
+
+0 2001. All Ri hts Reseved.
+
+Economic optimization of construction project scheduling	141
+
+0 2001. All Ri hts Reseved.
+
+	136	Karshenas and Haber
+
+Economic optimization of 	project scheduling	145
+
+
+
+0 2001. All Ri hts Reseved.
+
+Economic optimization of 	project scheduling	145
+
+0 2001. All Ri hts Reseved.
+

@@ -1,0 +1,211 @@
+﻿Construction Management and Economics, 1992, 10, 263—269
+NOTE
+Comparative variability in tender bids for refurbishment and new build work
+QUAH, LEE KIANG
+School of Building and Estate Management, National University of Singapore, Kent Ridge, 0511, Singapore
+This paper presents the results of a comparative analysis of the variability in tender bids for refUrbishment and new work. The investigation has been prompted by a suggestion by a large body of UK Contractors that they were subjected to higher risks in refurbishment work and that this was reflected in the tender bidsfor such work. Utilizing the premise that the risks in submitting a tender is related in some way to the dispersion in the tenders submitted by competitors, it was found that the variability in tender bids for refurbishment work was consistently higher than that for new build work, thereby supporting the Contractors' claims. Risks in the context of this investigation means both uncertainty and the results of uncertainty, and will include both the lack of predictability with regard to outcomes and all elements of the problem structure.
+Keywords: Refurbishment work, new build work, risks, tender variability
+Introduction
+From humble beginning of small scale repairs, refurbishment work in its many forms, including rehabilitation, conversions, alterations and improvements, has grown to a sizeable and distinct sector of the UK construction industry. Despite this upward trend, there remains a lack of omcial statistical coverage of the size of this market. The Department of the Environment's (DOE) statistics under the heading of Repair and Maintenance covers all improvement work to existing housing but major work in the nonhousing sector as well as improvement involving a change of use is classified under New Work. However, as a general guide, the DOE placed the output value of repair and maintenance in 1989 at about E19 billion, or around 41 % of the total construction output (DOE 1990). The actual size of the refurbishment sector is probably much larger in view of the DOE's classification system, unreported values of 'DIY' home enthusiasts and the socalled 'black economy'.
+  Refurbishment work differs from new build work in significant ways. The work consists of small labour intensive operations scattered throughout the existing buildings, often with tenants in occupation. There is a lack of 'as-built' drawings to guide the designer and builder. In older buildings, the extent and problems of the work are not normally discovered until demounting and stripping work have commenced. Estimating, organizing, and executing refurbishment work under such conditions demands approaches very different from those of new build work which is capable of more positive planning.
+0144-6193/92 C 1992 E. & F.N. spon
+Tendering for refurbishment work
+A survey conducted on 42 London contractors as part of the overall investigation to obtain information on tendering for refurbishment work revealed that such work was mainly secured through competitive tendering based on Bills of Quantities (Quah, 1988). There were unanimous complaints concerning format and variability in tender documentation. The main complaints were regarding poor work descriptions, obscurity of specification clauses, amendments to Standard Forms of Contract and the Method of Measurement in attempts by consultants to cover inadequacies through the introduction of 'all embracing' risk clauses. There was however, general consensus that the unsatisfactory state of tender documentation, combined with the higher Provisional Sums content within refurbishment Bills of Quantities, could operate in a contractor's favour, providing scope for claims and variation orders. In addition, there was also opportunity for improvement of profits (betterment) arising from the conversion of Provisional Sums into Builders' Work as a result of Architect's Instruction Orders.
+  A large majority of the Contractors surveyed perceived higher risks in refurbishment projects as compared to new build projects. 'Gut feeling', or intuition, was commonly used for decision making, with regard to risks in tendering for refurbishment work. Risk allowances were usually incorporated in the tender by means of lump sum additions to the net cost, or by a higher mark-up. About half of the contractors surveyed resorted to qualifying tenders in respect of particularly high risk elements. Qualification of tenders did not appear to result in disqualification for award of contract.
+Research methodology
+In evaluating project risks and its effect on the tender pricing process tenders, tenders for over 1000 refurbishment projects spanning a period of 4 years from 1984—1987 were obtained from the Builders' Conference in London, an organization comprising a confederation of contractors mainly operating in the South East of England. The primary objective was to measure and compare variability in tenders for refurbishment work with that of new and other types of work previously undertaken by other researchers. The methodology used was based on the assumptions made by Pollatsek and Tversky (1970) that 'the risk of an option (i.e. a contractor's choice of a price) is related in some way to the dispersion of the outcomes (i.e. the prices submitted by all contractors in competition)'. Higher tender price variability could thus be inferred to indicate higher risks in the project.
+Comparative variability in tender bids for refurbishment and new work
+Researchers such as AICBOR (1967), Fine and Hackemar (1970), Barnes (1971), Grinyer and Whittaker (1973), Beeston (1974), McCaffer (1976) and Flanagan (1980) have undertaken analysis of variability in tender bids for building and construction work. However, these researchers did not specify whether their projects embraced or differentiated between new build or refurbishment work. Only Skitmore (1981 ) was able to confirm to this researcher that all his 269 cases were new build projects. A general comparison has thus been made with the results of the researchers named in Table I (who utilized a common
+and 
+measureviz. the mean coemcient of variation to indicate dispersion in the bids); whilst a more detailed comparison was made with Skitmore's results.
+Table 1. Mean coemcient of variation of construction bids
+AuthorData sourceMean cv (%)Fine and Hackermar (1970)
+Beeston (1974)
+Grinyer and Whittaker (1973)
+Skitmore (1981)
+Barnes (1971)
+McCaffer (1976) AICBOR (1967)
+McCaffer (1976)
+McCaffer (1976)
+Refurbishment bidsAdequate sample of construction contracts
+Large sample of PSA building contracts
+153 government constitution contracts
+269 building contracts
+159 construction contracts
+185 Belgian building contracts
+213 motorway contracts
+16 Belgian bridge contracts
+385 road contracts
+1350 refurbishment contracts5
+5.2-6
+6.0
+6.4
+6.5
+6.5
+6.8
+7.5
+8.4
+7.5Source of table: Ashworth and Skitmore (1983).
+  Table 1 shows the results of the mean coeffcient of variation of construction bids detected by the researchers named. The mean coemcient of variation for refurbishment bids is shown below this table. This coeffcient of 7.5% is higher than that of 'building, construction, Belgian building, and motorway' contracts. It is comparable with 'Belgian bridge contracts' and lower than 'road contracts'. The inference to be drawn from this comparison is that the risk in tendering for such work is comparable with that of civil engineering works, which traditionally has been accepted in the building industry as carrying a higher risk type than building work.
+  In his investigations, Skitmore compared his results with McCaffer's Belgian building and bridge contracts and road contracts. In comparing the refurbishment results with that of Skitmore's, McCaffer's results were invariably compared at the same time. Skitmore used bid variance as his measure of variability and computed the mean weighted variance of his cases by weighting the mean variance in each bidding set by the number of cases in that set. Table 2 shows the comparison between the results obtained by Skitmore and McCaffer and this author. It can be seen that the 0.0075 mean variance in the tender bids for refurbishment project is about 1.6 times that of new build work and higher than bridge and road projects.
+  Skitmore plotted the mean variance of the tender bids for each bidding set to investigate the effect of the number of bidders on the bid variability. His results are shown in Table 3 and Fig. 1 with comparable results for refurbishment work. The higher variability in refurbishment tender bids is clearly emphasised in both Table 3 and Fig. 1.
+  The bid variance of refurbishment projects was, however, lower in a bidding set of ten. There was a more definite trend of decrease in bid variance with the increasing size of the bidding set in refurbishment bids. It was not possible to ascertain whether this trend has resulted because of the number of bidders and/or the project size because a positive correlation exists between the number of bidders and the project size for refurbishment projects.
+  Skitmore partitioned his new-build projects using four main categories of project size, viz. small for contract values of less than €20 000, medium for contract values of between E20 000
+Table 2. Comparative statistics describing the dispersion and distribution tender bids for new build, civil engineering and refurbishment work
+AnalysisVarianceSkewnessKurtosisMcCaffer's buildings
+McCaffer's bridges
+McCaffer's roads
+Skitmore BCIS new build buildings
+Refurbishment buildings0.0042
+0.0057
+0.0070
+0.0045
+0.00750.52
+0.01
+0.21
+0.17
+0.053.08
+3.64
+3.20
+3.20
+1.19Note: 1. McCaffer's and refurbishments results are based on contracts with three or more bidders;
+2. BCIS results are based on contracts with two or more bidders for variance, three or more bidders for skewness and four or more bidders for kurtosis;
+3. Kurtosis values for BCIS and refurbishment data are increased by 3.0 for comparative purposes.
+Table 3. Comparative variance in tender bids for refurbishment and new build work by size of bidding set
+
+	Number of cases	Mean variance
+Number of
+biddersNew build RefurbishmentNew build Refurbishment2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+145
+14
+27
+44
+72
+47
+44
+8
+5
+2
+1
+269
+Total cases277
+331
+317
+288
+76
+43
+12
+6
+13500.0050
+0.0043
+0.0043
+0.0069
+0.0041
+0.0047
+0.0038
+0.0041
+0.0034
+0.0019
+0.0024
+0.0045
+Weighted 0.0097
+0.0086
+0.0078
+0.0063
+0.0056
+0.0059
+0.0043
+0.0021
+ 0.0075 meanand EIOO 000, large for contract values of El 00 000 to Elm and very large for contract values greater than Elm. This researcher is not in total agreement with his partitioning and labelling as contracts less than EIOO 000 are deemed small by industry's standards. Nevertheless, for the purpose of comparing the variability between the two main work types, the refurbishment cases were repartitioned according to Skitmore's classification and the mean tender bid variance for each group computed. Table 4 shows the comparative bid variance for new build and refurbishment work. It can be seen that regardless of project size, refurbishment tenders had a higher bid variance.
+The same results are plotted in Fig. 2. The higher bidding variance of refurbishment
+and 
+KEY
+Refurbishment Data
+Skttmor•'s New 
+0.58
+_ — 00.24LOBuud Data
+0.9
+0.9
+0.7
+	x	0.6
+> 0.3.
+0.2
+0.1
+0.0Size of
+Bidding Set
+		4 5 6 7 8 9 10 I l	12 13 14
+Fig. 1. Comparative variance in tender bids for refurbishment and new build work by size of bidding set,  is refurbishment data; — — — Skitmore's new build data.
+Table 4. Comparative variance in tender bids for refurbishment and new build work by project size
+
+	Number of cases	Mean variance
+Project sizeNew build RefurbishmentNew build RefurbishmentSmall
+Less than €20 000
+Medium no 000 to €100 000
+Large
+EIOOOOO to Elm
+Very large
+More than Elm5
+69
+184
+11
+269
+Total cases1
+70
+1042
+2
+13500.0081
+0.0055
+0.0041
+0.0037
+0.0045
+Weighted 0.0098a
+0.0139
+0.00823
+0.00408
+ 0.0075 meanNote: a Refurbishment statistics based on one case only.
+tenders is again emphasised. Except for the bid variance of the small job category which was based only on one case, there was also a clear trend of decreasing bid variance with increasing project size.
+Conclusion
+This investigation had sought to draw attention to the abnormal problems related to the refurbishment process and the effect of this on the price prediction process when tendering.
+KEY
+ Refirblshm•nt Data
+Sidtmore's New BuHd Data
+Project Slze
+	Small	Medium	Large	very
+Large
+Fig. 2. Comparative variance in tender bids for refurbishment and new build work by project size, — is refurbishment data;  Skitmore's new build data.
+  In the main, contractors claim that the current practice of making ad hoc modifications to Standard Tender Documentation to suit the vagaries of refurbishment work resulted in unsatisfactory tender documentation. Unfamiliarity with the technical problems of working in an existing building also contributed to the claim of higher risk exposure in such work. The higher variability in tender bids for refurbishment work as compared to new build work appear to lend support to this claim.
+  Consistent and excessive variability in tender bids leads to the conclusion that the basic mode adopted for the preparation of tenders, and the subsequent appointment of a Contractor to execute the work are fundamentally unsound. In view of the projected growth in refurbishment work, there is an urgent need to advance knowledge and understanding of the refurbishment process within an industry that has traditionally been geared to new work. The validity of using existing techniques and procedures modified ad hoc to suit the vagaries of the refurbishment process is severely questioned. In addition, positive yardsticks for programming the works, and management orientated financial reporting to promote accuracy of predicting future costs, must be created.
+References
+Ashworth, A. and Skitmore, R.M. (1983) Accuracy in estimating, C 10B, Occasional paper 27.
+Associated Industrial Consultants and Business Operations Research Ltd (1967). Report of the joint consulting team on serial contracting for road construction, Ministry of Transport.
+and 
+Barnes, N.M.L. (1971 The design and use of experimental BOQ for civil engineering contracts, PhD thesis, UMIST.
+Beeston, D.T. (1974). One statistician's view of estimating cost study 3, BCIS RICS.
+Department of the Environment, Housing and Construction Statistics (1990) December Quarter, UK. Fine, B. and Hackemar, G. (1970). Estimating and bidding strategy, Building Technology and Management, pp. 8—9.
+Flanagan, R. (1980). Tender price prediction for construction work, PhD thesis, University of Aston in Birmingham.
+Grinyer, R.H. and Whittaker, J.D. (1973). Managerial judgement in competitive bidding models, Operations Research Quarterly, 24, 181—91.
+McCaffer, R. (1976). Contractor's bidding behaviour and tender price prediction, PhD thesis, Loughborough University of Technology.
+Polatsek, A. and Tversky, A. (1970). A theory of risk, Journal of Mathematical Psychology 7, 541.
+Quah, L.K. (1988). An evaluation of the risks in estimating and tendering for refurbishment work, PhD Thesis, Heriot-Watt University.
+Skitmore, R. M. (1981 ). Bidding dispersion — an investigation into a method of measuring the accuracy of cost estimates, MSc thesis, University of Salford.
+	264	Quah, Lee Kiang
+
+Variability in tender bids for refurbishment 	new build work	265
+
+
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+
+
+Coovriaht 0 2001 . All Riahts Reseved.
+

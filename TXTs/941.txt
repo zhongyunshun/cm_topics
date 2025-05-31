@@ -1,0 +1,289 @@
+﻿Construction Management and Economics (1997) 15, 149—159
+Choosing an appropriate research methodology
+DEREK H.T. WALKER
+Department of Building and Construction Economics, Royal Melbourne Institute of Technology, 124 La Trobe Street, Melbourne, Victoria 3001, Australia
+Received 21 August 1995; accepted 24 February 1996
+The choice of research methodology is a difficult step in the research process. By way of a case study, the approach adopted in one PhD study is explored. The research project involved a detailed study of 33 building projects constructed in Melbourne during the period 1987 to 1993. The principal research objective was to understand better why some buildings are constructed faster than others, by identifying risk factors and how construction managers respond to them. Multiple regression analysis was used to derive a model that predicts construction time from a representative sample of projects. The performance model was then used to compare predicted with actual construction project duration to develop a construction time performance index. This performance ratio was then used to compare 102 variable factors by testing the null hypothesis that each variable does not affect construction time performance (at the 95% confidence level). Correlation analysis of all identified variables was also undertaken to link associations between factors for those affecting and not affecting construction time performance. The contribution of this paper is to identify one research approach for a specific research problem within the construction discipline so that others may be aware Of this when making a choice of methodologies for pursuing their own research work,
+
+Keywords: Research methodology, case study
+Introduction
+Many researchers Struggle with the vexing question of how to choose an appropriate methodology for the research question they are attempting to investigate. Generally, they search the literature for ideas on how others have tackled similar problems. A range of approaches are available, with most refereed papers
+appearing in the literature only briefly describing the chosen approach for the research reported upon. Few papers provide detailed information on the adopted research methodology, as these papers are more concerned with reporting research results. Matching an appropriate existing research approach to a particular research problem, or developing an appropriate innovative methodological solution, is an important research skill.
+  This paper attempts to bridge part of that gap by reporting upon, as a case study, the research approach adopted for a successful doctoral thesis. It is antici-
+0144—6193 • 1997 E & FN spon
+pated that this will assist researchers in the critical stage of developing a way to test their hypotheses. It is accepted that the particular research approach reported upon in this paper is restricted to particular classes of
+research problems. Nevertheless it provides a research model for a class of problems involving investigation of causal links through comparison of variables. Investigating whether or not a particular procurement method affects construction time performance is one example Of this class of problem. This paper provides insights into the thought processes that led to the research approach being adopted in this particular research project.
+A research approach
+Phillips and Pugh (1994, p. 19) state that the degree of Doctor of Philosophy (PhD) represents an acknowledgement that holders of the degree are recognized as authorities in their particular field of research.
+Furthermore, they contend that the PhD is a recognized qualification for high-level investigation and analysis of research results obtained. They provide six criteria for recognizing doctoral level research:
+
+1. the work says something useful and novel that the research community wishes to hear;
+
+2. the researcher has demonstrated a command of current knowledge of the research field explored and that the contribution that others have made has been evaluated;
+3. the researcher has demonstrated astuteness in identifying gaps in current knowledge of the research field chosen;
+4. the research has demonstrated a grasp of research techniques and their limitations;
+5. research results have been effectively communiz cated;
+6. the research work has been carried out in an international context so that a grasp of a current worldwide knowledge has not been confined to a national or local debate.
+Phillips and Pugh (1994, p. 61) also provide useful guidelines on the definition of originality of work within the context of PhD research. These include:
+I. carrying out empirical work that has not been done before;
+2. making a new synthesis that has not been tried before;
+3. making a new interpretation of existing material; 4. trying out something in a geographical area, such as a country, that has previously not been carried out in that area before;
+5. applying a particular technique in a novel way;
+6. introducing substantial new evidence to an old issue;
+7. being cross-disciplinary and using different methodologies;
+8. adding to knowledge in a way that has not previously been tried before.
+There appears to be wide scope for undertaking research that is original and satisfies the requirements for rigorous work at the PhD level.
+Research generally starts with the researcher being
+interested in solving a particular problem through being better acquainted with the facts surrounding the problem. Business research, which is a subset of general research, has been defined (Zikmund, 1994, p. 7) as the systematic and objective process of gathering, recording and analysing data for aiding making business decisions. He further observes that 're-search' literally means to 'search again', which suggests that part of the process is to review problems from different perspectives, In this sense, research undertaken in the case study described in this paper presents new ways of looking at well appreciated problems.
+  It was hypothesized in the author's PhD work that a model for predicting construction duration could be developed from a representative sample of construc-
+tion projects, and reasons for differing levels of construction time performance could be explained. A comparison of projects' actual construction time performance against expected construction time performance was undertaken. A methodology was developed to allow comparison of numerous contributing factors to take place so that reasons why some of those projects were constructed more quickly than others could be better understood. In pursuing this research problem, a model had to be developed to provide a means by
+which construction time performance of projects could be compared. New knowledge arising out of the research included development of the research method•ology and results of applying this methodology.
+  Two valuable contributions were made to construction management research by the PhD work: first, in
+creating a methodology that others can use; and second, in adding to the understanding of factors that significantly affect construction time performance.
+The nature of the research: a case study in undertaking a PhD
+The author's substantial construction field experience fuelled a general interest in the issue of why some buildings are constructed more quickly than others. Related issues, how site staffing and site establishment costs determined were also of interest. The project began with interest being extended to curiosity, it continued along the road of discovery, and ended with clearer glimpses of the road back and where the road ahead may lead.
+  The particular considerations described in this paper are probably representative. It involved false starts and continual attention to setting boundaries so that the work could be completed within constraints of time,
+scope and the resources Of a single researcher learning the craft of research, rather than a team of skilled and experienced researchers. More specifically, five broad steps were undertaken:
+I. developing the research idea, including searching the literature to establish the basis for a pilot study that helps to identify the true nature and extent of the journey;
+2. deciding upon an appropriate and defendable research methodology and approach;
+3. conducting the research experiment and documenting results;
+4. writing the thesis;
+5. Revising and crafting the work to the satisfaction of the examiners.
+The research process
+Sekaran (1992, p. 31) provided a useful general model of a research process for basic and applied research (Figure 1.) This model clearly illustrates the process to be followed by a researcher (or research team) having a rather vague idea of a potential problem worthy of research, through formulation of a working hypothesis based upon observation and review of the work of others, which may usefully contribute to the formulation of a testable hypothesis cr set of hypotheses. These hypotheses are tested using an experi- ment designed specifically for the research question. Analysis of the experimental results provides answers to the research question together with explanations that can be verified, adding to a body of knowledge.
+  Research conclusions are generally based upon interpretation of analysis of data. Data are based on observations, which require explanation, and explanation must be tested against facts. De Vaus (1991, p. 11) believes that good explanation requires the related processes of theory construction and theory testing. He maintains that the basic question asked in theory construction when having made a particular observa- theories and concepts as a source of ideas; working within the context of the subject area observed; asking survey respondents for insights _into their answers to questions; and introspection, reflecting on why the observed has happened by trying to put yourself into the role of the respondent. In testing a theory one moves from the general to the specific to evaluate the variance between expected and observed responses and then tries to explain why there may be a significant variance. De Vaus (1991, p. 20) also states that the key to empirical testing of theory is to look for evidence that disproves the theory; supporting examples can usually be found for a theory but provide a weak form of evidence. He and many other authorities on research methodologies maintain that empirical research provides strong evidence for explaining phenomena, whereas the use of logical deduction, anecdotal evidence, providing examples, and personal 'gut feeling' provide only weak or supporting evidence.
+  A major issue that confronts researchers is the decision on what kind of research should be done: should it be qualitative or quantitative, or should both elements be present? Perry (1994) believes that qualitative research is exploratory in nature, and tends to attempt to deduce answers to 'how?' and 'why?" questions. He sees a major issue as being the determina-
+tion is 'is this observation a particular case of some more research answers the questions 'how much?' or 'how general factor?' In establishing meaning from observa- many?'. He maintains that in this kind of research, tions, he recommends a common sense approach relationships may have been already established, and including: locating common factors; relating to existing the hypotheses deal more with the investigation of
+tion of what variables are involved in the question, and advises that case study or action research methodologies tend to be employed. He notes that quantitative which variables are significant, and to what extent, in a scientific way.
+  The reason for undertaking a quantitative approach for the case study PhD work was its adoption and verification by others (Sidwell, 1982; Ireland, 1983; Naoum, 1991). This approach could also yield results that indicated which factors significantly affect construction time performance for the data set tested. The disadvantage of relying entirely upon this approach was that the research question related to an explanation of why some buildings were constructed more quickly than others and how these factors may interact with each other. This requires interpretative and deductive reasoning more akin to a qualitative approach.
+  A pilot study helped to clarify the balance of the extent to which both approaches could be used so that new and fresh explanations could emerge. The research question boundaries became clearer after undertaking the pilot study, and the research became more focused. Experience from the pilot study led to a change from a _large-scale survey, involving interviewing key site management staff from 100 projects and collecting data from 14 questions, to a more detailed case study approach of 33 projects. The major investigation involved in-depth interviews with key site management representatives on 33 case study projects, in which data were collected from 172 questions. The adopted final approach used a quantitative research approach to determine which factors significantly affected construction time performance, coupled with insights gained from the structured interviews with case study respondents to answer the 'how?' and 'why?' type questions typified by qualitative research.
+Case study: research into construction time performance
+The following section describes the process of undertaking the research using the steps outlined in Figure 1 with each of the eight points in the research process commented upon.
+1,2 Observation and preliminary data gathering
+A research proposal was initially framed around issues of the site establishment costs of preliminaries, and this formed the 'pilot study' step. Gray (1981) undertook work relating to preliminaries that had yielded a useful starting point for such research. Broad areas of research in the area of general interest had thus been established. The initial scope of the investigation was to investigate the site staffing component of site establishment preliminary costs for a construction project.
+Cost components include quantification of staffing required and the time each person would be required to be funded by the project. This necessitated researching site organizations and construction duration for various classes of project.
+  A review of the literature yielded seminal work on construction time prediction undertaken by Bromilow (1970). Information on defining site management organization structures was less easy to find. Gray (1983) had undertaken some interesting work on estimating preliminaries, and Lansley's (1986) work associated with the simulation package AROUSAL provided some useful indicative information on site staffing and site management organizations. This information was supplemented by numerous theoretical works (1Mintzberg, 1979; Cleland and King, 1988; Harris and McCaffer, 1989). However, there appeared to be a dearth of work reporting case studies that could be used to produce a typology of site organization. It was thus decided that a study of a sample of projects should take place to gather data on site construction management team staff establishment arrangements and construction time data. A preliminary literature search
+identified issues that were used to help develop a pilot
+study questionnaire, and interviews with 100 managers of the construction process were subsequently undertaken. Research results were analysed, and some conclusions regarding the organizational form aspect of the research project formed the basis for a paper (Walker, 1990/1).
+  It became obvious that the research topic would need to be narrowed, as the scope was still too broad to be investigated in the original form. The investigation needed to be narrowed to allow the work to be undertaken by a single researcher within the time allocation permitted for a PhD. Limiting the research scope is a difficult problem for researchers, and award courses such as PhD and Master degrees have specific time limitations established to ensure that researchers do not get overwhelmed by their work.
+Problem definition and theoretical framework
+The pilot study proved a useful tool in providing a focus mechanism to establish the research direction more clearly. In attempting to tackle the second part of the original research question — predicting construction time for a given set of circumstances — it became evident that this could form the crux of the work. The issue of why some buildings are built more quickly than others could flow from a predictive model determining how long a given project 'should' take to build. The literature for this aspect was reviewed with a focus on construction time performance. This yielded a theoretical framework in which the literature suggested that various factors may affect construction time performance. Using this _framework, an hypothesis for construction time performance was developed.
+  The format of both the pilot study and the 33 case study questionnaire was developed from ideas reported in the literature dating from the late 1970s to the early 1990s. Literature that helped form a revised theory of construction time performance was based upon Bromilow's (1970) seminal work, Bromilow and Henderson (1976) and Bromilow et al. (1980), These sources of ideas provided much of the basis for an understanding of the impact of project scope upon construction time performance. Bromilow's research team, however, provided little evidence (other than the possible impact of contract variations) that assists in understanding how complexity may affect construction time performance. After the pilot study results were analysed and reviewed, over a period of two years parttime, the literature was revisited in the light of the clarified research question to be addressed by the 33 case
+study research work.
+  Another important aspect of construction time performance identified in the literature was that of
+client-related complexity. This aspect was investigated by Sidwell (1982) and Ireland (1983), and included the nature of project teams and how they might affect project success. They both also identified factors influ-
+encing project time performance and concluded that client experience, form Of building procurement, and project organizational structure are elements of a complex causal model of project time performance.
+The general hypothesis implicit in Sidwell's (1982, p. 88) research model was that 'when the building team and project procedures are appropriate to client and project
+
+procedures, higher levels of success will be attained'. He also identified managerial control, which he classes as project procedure, as a key element of achieving project success linking this to project complexity.
+  The work of Bromilow, Ireland and Sidwell represents a broadening of understanding of causal factors
+
+that affect construction time performance. Sidwell identifies project characteristics as posing risk factors though he refers to building types in differentiating projects of varying complexity: for example, university library and airport buildings (Sidwell, 1982, p. 52).
+
+Ireland (1983) conducted important work into investigating the impact of management performance
+
+upon cost, time and quality performance, identifying complexity of construction form as a factor affecting construction time performance.
+  Other researchers investigating project complexity reported useful findings, which were reviewed as part of the literature search. Chauhan and Chiang (1989) undertook a survey of 100 building and civil engineering projects in Hong Kong, India, Korea, Singapore, Taiwan and Thailand. Their survey results led them to believe that the performance of a construction management team is influenced by internal and external factors, which they classify as: project,
+environment and management related. Several government sponsored organizations contributed to the research area, including the work of the Royal Commission into Productivity in the Building Industry in New South Wales, the Construction Industry Development Association (CIDA) in Australia, and the National Economic Development Office (NEDO) of the UK.
+  Consensus regarding possible causes for poor construction time performance emerged from the literature. As each step in any body of theory is developed, it must be periodically tested. Changed circumstances shift those elements of the theory and causal factors deemed to be significant, to be deleted or replaced by others in the theoretical model. The work undertaken in the case study research attempted to test previous
+
+theory on construction time performance to reflect changed circumstances of the late 1980s and early 1990s. In terms of the criteria discussed earlier (Phillips and Pugh, 1994) for appropriate creative doctoral research, an attempt was successfully made to make a new interpretation of reasons why some buildings are constructed more quickly than others using a different geographical area from that investigated by others in Europe, for example Naoum (1991), through studying projects built in Melbourne, Australia. A different time frame was also studied from existing work undertaken in Australia during the early 1970s (Ireland, 1983) as the data collected for the author's work spanned the boom and bust construction cycle of 1987 to 1994. Statistical techniques were also applied in a novel way for this research question; this aspect is discussed later.
+5 Generation of hypothesis
+An experiment was devised for the research work reported upon here (Walker, 1994) to test a series of hypotheses which provide evidence to support or reject the principal proposition that:
+variance between actual performance to trend line performance can be substantially explained by managerial
+performance of the project team (more specifically the construction management team, client representative's team and, to a more limited extent, the communication effectiveness of the design teams) and a limited number of factors outside the control of the construction management team (inherent site conditions, economic environmental complexity and project scope).
+This experiment involved developing a questionnaire (research instrument) to assist in data capture. The data were then analysed using statistical techniques to support or reject the principal proposition. Four hypotheses were developed from the principal hypothesis.
+  More specifically, four principal hypotheses are tested by this work:
+Client's representative team's management effectiveness:
+PI—I-I  that construction time performance is not significantly affected by the management effectiveness of the client's representative;
+P I—HI that construction time performance is significantly affected by the management effectiveness of the client's representative;
+Construction management team's effectiveness:
+P —H that construction time performance is not significantly affected by the management effectiveness of construction management teams;
+P —HI that construction time performance is significantly affected by the management effectiveness of construction management teams;
+Design teams' effectiveness:
+P34-10 that construction time performance is not significantly affected by design team management effectiveness;
+PH-Il that construction time performance is significantly affected by design team management effectiveness;
+Project challenges:
+P —H that construction time performance is not
+significantly affected by a small number of
+challenges posed by factors outside the control of the construction management team;
+P4—1-11 that construction time performance is signifi-
+
+cantly affected by a small number of challenges
+posed by factors outside the control of the
+construction management team.
+Investigation of evidence to support or reject the principal hypotheses involved testing 102 subhypotheses, because the principal aim of this work was to investigate the reason why some projects are built more quickly than others by establishing a table of factors for the sample group to also indicate the strength of each factor tested.
+6 Scientific research design
+The empirical research instrument was based upon both information gleaned from an extensive review of the literature and experience gained from the pilot study. Much of the literature available at the commencement of the PhD study related to conditions prevailing during the 1970s and early 1980s. Gaps in knowledge were identified in knowledge about factors affecting construction time performance in the boomto-bust cycle of the late 1980s to early 1990s. A methodology for investigating this issue was also identified as being required.
+  A sufficiently large sample of projects needed to be identified to enable statistical analysis of data groups to be undertaken. The study was limited to projects in metropolitan Melbourne. Discussion of the rationale for selecting 33 cases for the study and the statistical techniques used to analyse data has been explained elsewhere (Walker, 1995b, p. 266). Adequate sample size should allow reliability of results so that the investigation can be repeated with consistent
+results. This means that the investigation should be constructed with methods of measurement of variables that are consistent between case studies and can be repeated using the same measurement technique. Tests must also be valid and appropriate units of measurement of variables should be used. Examination of links
+between government clients and poor productivity, for example, may reveal many instances of government client and poor construction time performance association. The causal link, however, may lie in team relationships and accountability constraints imposed upon public sector clients rather than the client's being from the government or private enterprise sector. This example highlights the need for a research design method that investigates causal links rather than merely testing for associations.
+  The empirical work involved the use of a survey. Marsh (1982, p. 6) understood a survey to be an investigation where systematic measurements are made over a series of cases yielding a rectangle of data. Variables
+in the matrix are then analysed to see if they reveal patterns of meaning. This approach can be contrasted with an experiment where a situation is established, an
+intervention is introduced and the researcher investigates what effect the intervention has on the result. Experiments involving human behaviour in investigating productivity are very complex, as the number of possible variables are usually extensive and difficult to effectively model and test. It is for this reason that the survey method was adopted for the case study reported upon here.
+  The author developed a structured interview/survey to gather data in both the pilot study and 33 case study investigations. The format of questions followed a logical structure in gathering data about the projects from hypothesized factors affecting construction time performance. The structure ensured consistency of approach, as questions were asked in the same order and identi-
+cal questions were asked. The questionnaire was completed face-to-face with the interviewer so that respondents could, if necessary, fully probe the meaning of questions and reflect upon the nature of answers they gave. This approach also allows general discussion and peripheral comments to be noted to add supporting contextual evidence. This approach was also adopted by Sidwell (1982) and Ireland (1983).
+  Researchers should be clear about the reasons why each question in a questionnaire is asked. In writing a PhD or Master degree thesis they need to justify for each question:
+1. the purpose for asking it;
+2. its format;
+3. the manner in which data gathered will be analysed.
+Advice on how to ensure this is provided in many texts on research methods. Two such current texts include Sekaran (1992) and Zigmund (1994).
+  Thirty-three construction team managers were interviewed over a period of one year part-time using a structured questionnaire of 172 questions, which took, on average„ 2.5 hours to complete for each project studied.
+  In summary, the adopted research design followed six steps:
+l , An appropriate data-gathering and analysis
+
+approach was decided upon after reviewing the literature and consulting research methodology advisers.
+2. A pilot questionnaire was developed as an aid to testing the validity of data sought for the purposes of testing the validity and practicality of the original research question.
+3. The pilot study using face-to-face interviews was tested on 100 senior construction managers.
+4. The response given by pilot survey participants and their comments were reviewed in the light of additional material from studies undertaken during the late 1980s and early 1990s together with other available sources of reference, to
+develop the empirical research questionnaire for the 33 case study research.
+5. Survey details and data were collected using
+
+the research questionnaire in face-to-face interviews.
+6. Data were analysed using statistical tools and preliminary conclusions discussed with senior
+
+from approximately $1 million to over $300 million. These were substantially complete projects drawn mainly from the Melbourne area but also including projects from Geelong, Canberra, Adelaide and Sydney. Projects were drawn from a population of nonresidential. non-engineering construction industry sectors.
+  Lessons learned from the pilot study indicated that considerable restraint was required, as a PhD investigation is carried out by only one person. During the period under study there were few substantial residential multi-unit projects being built in Melbourne, although a residential construction boom of mediumrise buildings has followed since the study period, so the pilot study target project mix was maintained. It was decided to limit the study to the metropolitan area of Melbourne, as it represents a typical medium-to-large-sized developed city with a population of a little over 3 million people. The second phase of the study concentrated on 33 projects from within the Melbourne Metropolitan area, representing 15% of the population of projects in scope (in terms of construction cost) ranging from $4 million to $45 million. The data sample was constrained to projects completed during the boom—bust cycle of 1987 to 1993 so that two phases of the economic cycle could be investigated.
+  A decision had to be made about who to interview. Should one key player, with the possibility of biased results, be interviewed, or should several team members be interviewed? In the case of the latter, how many key people should be interviewed, and what criteria should be used in choosing an appropriate person to interview? Canvassing the views of other project team leaders — the client's representative, design team and key subcontractors was considered. However, this approach presented difficulties of access
+to key team members.
+The construction team leader is the person who is
+
+industry practitioners involved in the study to team or client's representative. In dealing with these help understand the relevance of findings in constraints the construction team have to be flexible context with changing circumstances prevailing in their re-planning of work to compensate for this type over the period studied. of uncertainty, and it is they who are likely to best
+
+be able to evaluate the impact of the actions and/or 7 Data collection, analysis and interpretation	inaction of other project teams. The construction team leader was therefore considered to be the most reliable
+The project began with a pilot study stage investigating source of knowledge about the projects studied. a sample of 100 projects, of construction scope ranging Because of this knowledge and their unique insights
+affected by the actions or inactions of both the design team and the client's representative team. This is because it is the construction team that have to deal with construction delays due to design delays or cessation of construction work due to redesign. They also directly sustain delays arising out of lack of communication or poor decision making by the design into what happened onsite they were considered well placed to judge the effect of actions and circumstances that affect construction time performance.
+  Interviewing only one team leader of the project team could be seen to introduce an element of bias. self-justification or post-rationalization that places data gathered in the survey into question. This may be seen to introduce problems with data validity, which can be avoided by triangulation: collecting information
+about a single phenomenon from at least three different
+
+sources, Hammersley and Atkinson (1983, p. 199) explain that triangulation can also be produced through using a combination of techniques to gather and interpret data. In the PhD study the research question related to explaining why some buildings are constructed more quickly than others. The questionnaire was developed from a thorough review of the literature and other relevant documents. A pilot study, which involved interviewing 100 construction experts, and face-to-face interviews with 33 construction team leaders, combined to ensure that a triangulated approach to data gathering was achieved. While the data gathered for each project represents a single point
+of view about that particular project, it was the collective view of 33 participants that was analysed for patterns that indicate why one project may be constructed more quickly than another. Moreover, several techniques were used to analyse data and interpret results. The techniques included one-way analysis of variance, pair-wise correlation analysis of
+each variable with each other variable in the data set, and insights provided through discussion with those interviewed of the projects and their relative successes and/or failures. In this way validity was maintained.
+  The PC-based software package STATGRAPHICS was used to undertake statistical analysis as it was available and recommended by the researcher's statistical consultant.
+
+  A construction time predictive model was developed using multiple regression analysis, stepping each of the 102 variables one by one into the model. The one-way analysis of variance (ANOVA) results from the bestfit run of a multiple regression analysis, gave all variables a p value of less than 0.05, and a plot of residuals indicated that they were random and normally distributed. The model (with a 0.9987 R2 value) describing predicted construction time in workdays (actual days worked) is comprehensively described elsewhere
+(Walker, 1995b). From this model, an index was developed to provide a benchmark construction performance indicator for any given project, which provides an expected/predicted construction time in workdays.
+
+  Each variable has data values for each case study. Most of the variables were measured using an ordinal scale of I to 7, and many of the remaining data were grouped into classifications. The variable describing the ratio of extension of time (EOT) to actual construction time, for example, was grouped into five classifications. Interval data were transformed into ordinal categories which facilitated use of the Spearman rank correlation to construct a 102 x 102 correlation matrix to test for associations between variables.
+  In testing the hypotheses, the test was in the form Cis there a significant difference among the means of the variable classification value?' The analysis of variance (ANOVA) technique can be used to answer this kind of research question. If there is a significant difference, for example, in the mean value of the construction time performance index for different project procurement methods (i.e. those using a traditional procurement method, those using a construction management procurement method, those using design and construction procurement method, and those projects using a project and construction management procurement method), then it can be concluded at the accepted level of significance that procurement method significantly affects construction time performance. The 95% confidence level was adopted for analysing data using the ANOVA technique to determine factors affecting construction time performance.
+  This can be illustrated by means of Figure 2, which indicates a variable (say procurement method) being tested. The construction time performance index is shown on the Y axis and a trend-line is indicated at the Y value 1.0. Thus projects above that line have a higher construction time performance than the data set
+0.6
+Figure 2 Model for testing construction time performance causality
+1.4
+CTP Index value
+1.0
+0.6
+
+Variable being tested
+CM Team's Analysis of Construction Methods
+Figure 3 Indicating a group affecting construction time performance
+'average' and those below the line have a lower construction time performance.
+  If the clusters of data for each value tested are significantly different from each other, then it is reasonable to conclude that the variable affects construction time performance. In Figure 2 the conclusion to be drawn is that each value affects construction time performance. Value 1 could be construction management procurement, indicating that it achieves the best construction time performance. Value 2 may be design and construct, indicating average construction time performance. Value 3 may be traditional procurement methods, indicating poorer construction time performance.
+  Many of the results more closely resembled Figure 3, which indicates that one or perhaps several clusters of values appear to be significantly different from the rest. In this case 'better than average' and 'average or less' form distinct clusters.
+  Other results obtained indicate that there is no significant between the value of variables, and that, when plotted as illustrated in Figure 4, it is clear that the
+variable does not significantly affect construction time performance because variations within each value are
+as common as variations between values.
+8 Deduction
+Deductions were based upon evidence from ANOVA results, correlation analysis results and insights gained from discussions with survey participants. The ANOVA technique helped to identify factors affecting construction time performance, and the correlation analysis helped to explain these findings in terms of
+1.4
+Index value
+1.0 
+	Low 	Average Slightly	High	Very
+	High	High
+0.6
+
+	Value I	Value 3	Value 5
+Variable being tested
+CM Team's People-Orientated Management Style
+Figure 4 Net significant impact of a variable upon construction time performance
+strength of association between variables. Each factor tested had a series of correlation results, which indicated the strength of relationship to other factors shown to affect construction time performance and factors that did not. In a previous paper (Walker, 1995b), examples of the ANOVA and correlation analysis are provided in detail. This information, together with valuable insights gained from discussing the projects with interviewees, helped the author to explain why particular identified factors affect construction time performance.
+Research limitations
+Research findings are dependent upon a valid choice of research methodology, the reliability of the data gathered, and the applicability of the statistical tools used. The data were carefully collected using a statistically significant size and type of sample for the population considered. Data were gathered using a structured questionnaire to minimize misunderstandings
+regarding the nature of data sought and responses gained from those surveyed. Limitations on the reliability of results include the validity of the research instrument, the validity of data gathered, the validity of the trend-line model used to construct the construction time performance index, and finally the validity of the conclusions drawn. All these are standard concerns for theory derived from empirical research.
+  An alternative to the multiple regression model for determining a trend-line construction time performance would be the use of neural network techniques.
+Others (Flood and Kartam, 1993; McKim, 1993) maintain that neural networks hold much promise in developing more accurate baseline models used in studies of the nature of this research project. It is unclear to what extent an improved baseline construction time performance index may affect the conclusions of the study.
+A second and crucial limitation was that of resources. The work described above formed the basis for PhD thesis research, and so the research instrument was developed, data gathered and analysis undertaken by only one person. Had this work been undertaken by several researchers then undoubtedly the scope broadened: for example, to interview
+5. This index was used to test hypotheses using the ANOVA technique.
+6. All variables were compared pairwise against each other, using correlation analysis to test for an indication of a significant relationship between each other.
+7. Results were discussed with industry leaders.
+
+Inferences from the data-testing results were considered and conclusions drawn. An understanding was also gained from tested hypotheses and crosscorrelation of data so that factors, both proved and unproved (at the 95% confidence level) to affect construction time performance, were considered. In this
+
+could have been the client's representative and the design team leader.
+The scope could also have been broadened geographically or across more types of construction, such as res-
+idential construction, civil works or large-scale process engineering works such as oil rigs and chemical processing plants. The project sample, ranging in cost from $4 million to $45 million (indexed to January 1990 Australian dollars), could have been expanded to include projects outside that range, but a greater number of projects would have had to be investigated to achieve a representative sample size to work with. An international study would also prove useful to include
+understanding of the relative significance of causes of construction time performance from a geographical perspective. However, both time and financial resources
+limited this option. Research continues, with studies being undertaken on civil and process engineering and telecommunication construction projects. A comparative study is also being undertaken in the UK.
+Discussion
+The approach adopted in this research can be summarized as follows.
+l . A principal proposition was advanced, which
+described the objective of the research.
+2. An experiment was devised in which a number of hypotheses were tested using data from a research instrument used to gather data for analysis.
+3. A model was developed from the sample data to describe a trend line for construction time performance.
+4. This was used to construct a construction time performance index, for which values above 1.00 represented construction time performance above the samples 'average' and values below 1.00 represented construction time performance below that group's 'average',
+way deeper understanding of the nature of construction time performance was achieved.
+  Not only were _hypotheses demonstrated to be accepted or rejected, but the strength of association between variables (established from multiple regression and correlation analysis) was used to enable ranking of factors affecting construction time performance.
+
+For example, the factor 'construction management team's organizational structure to maintain workflow'
+is strongly associated with factors relating to good plan-
+ning practice. This factor is also shown to have moderate association with other factors influenced by the client's representative which, though not directly affecting construction time performance, contribute to construction time performance indirectly. Principal problems encountered were:
+
+I. developing the survey instrument, because the reason for asking each question asked had to be rigorously defended;
+2. developing the idea of using a construction time performance index, as the notion of comparing theoretical against actual construction time took about a year to develop;
+3. deciding upon appropriate statistical tools to analyse data;
+4.  processing the large volume of data; and finally
+5. writing the thesis to explain how the research was undertaken within the confines of a several hundred pages.
+
+These problems were overcome.
+Conclusions
+This paper has provided insights into the successful application of one research method to the investigation of a particular research question. A research
+methodology choice was offered and a description of a case study based approach was described.
+
+The use of statistical tools was discussed together
+
+with the way in which a multiple regression approach can be used to establish a best-fit predictive model for determining construction time. The use of ANOVA and correlation analysis was also discussed in the context of how information derived from these statis-
+tical tools can be used.
+  This paper excludes detailed explanation of research results, as these have been comprehensively reported upon elsewhere (Walker, 1995a, 1995b). It must be stressed that there are many research methodologies available for researchers to use. The contribution that this paper makes is to provide an example of one approach so that researchers may benefit from being exposed to the thought processes that led to its adoption. To undertake research is to embark on an interesting and often frustrating journey. It does, however, offer rewards.
+References
+Bromilow, F.J. (1970) The nature and extent of variations to building contracts. The Building Economist, 9, 93—104.
+Bromilow, F.J. and Henderson, J.A. (1976) Procedures for reckoning and valuing the performance of building contracts. CSIRO Division of Building Research Special Report
+
+B3.1-4, 2nd edn, CSIRO, Melbourne.
+Bromilow, F.J., Hinds, M.F. and Moody, NF. (1980) AIQS survey of building contract time performance, The Building Economist, 19 (2), 79-82.
+Chauhan, R.L. and Chiang, W.C. (1989) Weighting factors in construction management performance evaluation, in Proceedings Applied Construction Management Conference, University of NSW, February 1989, Sydney, pp. 137—145.
+Cleland, 0.1. and King, W.R. (1988), Project Management Handbook 2nd edn, Van Nostrand Reinhold, New York.
+De Vaus, D.A. (1991) Surveys in Social Sciences 3rd edn, Allen and Unwin, London.
+Flood, I. And Kartam, N. (1993) The use Of artificial neural networks in construction in Proceedings of the CIB W-65 Conference, Trinidad, West Indies, September 1993, Vol. 1, pp. 81—89.
+Gray, C. (1981) Analysis of the preliminary element of
+
+building production costs, M Phil thesis, Dept. of Construction Management and Engineering, University Of Reading, UK.
+Gray, C. (1983) Estimating preliminaries part l: Looking at the problem. Building Technology and Management, 21 (4), Hammersley, M. and Atkinson, P. (1983) Ethnography Principles in Practice. Routledge, London
+Harris, F. and McCaffer, R. (1989) Modern Construction
+Management, 3rd edn. BSP Professional Books, London
+Ireland, V. (1983) The role of managerial pctions in the cost, time and quality performance of high rise commercial building projects, PhD thesis, University of Sydney, New South Wales, Australia.
+Lansley, P. (1986) Modelling construction organizations. Construction Management and Economics, 4 (I), 19—36.
+Marsh, K. (1982) The Surtiey Method. Allen and Unwin,
+
+London.
+McKim, R.A. (1993) A neural network application to construction management, in Proceedings of the CIB W-65 Conference, Trinidad, West Indies September 1993; Vol. 1, pp. 103-127.
+Mintzberg, H. (1979) The Structure of Organization — A Synthesis of Research, Prentice-Hall, Englewood Cliffs, NJ.
+Naoum, S.G. (1991) Procurement and project performance — a comparison of management contracting and traditional contracting, Occasional Paper no. 45, Chartered Institute Of Building, Ascot, UK.
+Perry, C. (1994) A structured approach to presenting PhD theses: notes for candidates and their supervisors. Paper presented to the ANZ Doctorial Consortium, University of Sydney, February 1994; Sydney, Australia.
+Phillips, E.SI. and Pugh, D.S. (1994) How to Get a PhD A Handbookfor students and Their Supervisors, 2nd edn. Open Press, Buckingham, PA.
+Sekaran, U. (1992) Research Methods for Business — A Skill Building Approach, 2nd edn. Wiley, New York.
+Sidwell, A.C. (1982) A critical study of project team organisational forms within the building process, PhD thesis, Department of Construction and Environmental Health, University of Aston in Birmingham.
+Walker, D.H.T. (1990/1) Diversity in management Structures on construction sites in Australia, The Australian Institute of Building Papers, 4, 3—22.
+Walker, D.H.T. (1994) An investigation into factors that determine construction time performance, Unpublished PhD Thesis, Dept. of Building and Construction Economics, Royal Melbourne Institute of Technology, Melbourne, Victoria, Australia.
+Walker, D.H.T. (1995a) The influence of client and project
+team relationships upon construction time performance, Journal of Construction Procurement, I (I), 4—20.
+
+Walkers D.H.T. (1995b) An investigation into construction time performance, Construction Management and Economics,
+13 (3), 265-274.
+
+Zikmund, W.G. (1994) Business Research Methods, 4th edn. Dryden Press, Fort Worth, TX.
+	150	Walker
+
+Research and methodology	151
+
+
+

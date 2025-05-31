@@ -1,0 +1,311 @@
+﻿Construction Management and Economics (1994) 12, 245—255
+A survey of construction site safety in Honduras
+EDWARD J . JASELSKIS and GUILLERMO ARTURO RECARTE SUAZO
+Civil and Construction Engineering Department, Town Engineering Building, Iowa State University, Ames, IA 5001, USA
+Received 11 May 1993; revised 11 August 1993
+This paper provides the results of a construction site safety survey conducted in Honduras. A questionnaire was used to collect safety-related information from construction workers, field management and upper management in the Home Offce on residential, commercial and heavy civil construction projects in San Pedro Sula, Honduras. Data were collected using face-to-face interviews — 108 construction workers, 10 field managers and eight senior managers participated. Data were analysed using correlation, regression and analysis of variance techniques. Results demonstrated a substantial lack of awareness or importance for safety at all levels of the construction organization. Workers rarely wore personal protective equipment, used poorly constructed scaffolds, improperly used tools and ladders and disregarded good housekeeping practices. Almost threequarters of the craftsmen suffered at least one lost-time accident; many of their injuries were in expected locations on their bodies given the nature of their work and the site conditions. Many of the field project managers stated that they did not provide workers with personal protective equipment or safety training and did not use a dedicated safety person on-site. Top level management does not appear convinced that it is in their best interests to improve safety performance either since only approximately 25% provided a company-wide safety training programme, maintained accident records and provided safety incentives. Additional results, recommendations for improving construction safety in Honduras, study limitations and future research areas are also identified.
+Keywords : Safety, developing countries, Honduras, accident profiles.
+
+Introduction
+The construction industry is one of the most dangerous industries as is evidenced by the number of accidents that occur yearly in countries around the world in both developed and developing countries. The number of fatal accidents has proven higher in developing countries, however (King and Hudson, 1985), due to weaker safety codes and standards, lack of personal protective equipment, inadequate safety training, poorly designed facilities and substandard material quality. Despite these apparent differences, only a small amount of research has been conducted related to construction safety in developing countries.
+  This paper illustrates some of the construction safety concerns found in a typical developing country by presenting the results of a construction site safety survey conducted in Honduras. Construction personnel from upper management, field management and the craft level were interviewed to determine their attitudes towards safety, current safety practices and accident
+0144-6193 	1994 E. & F.N. spon
+rates. Results demonstrated a substantial lack of awareness or importance for safety at all levels of the construction organization and left much room for improvement. A description of the methodology, results, recommendations, limitations and conclusions are provided in the sections that follow.
+Methodology
+The research approach involved a review of previous work related to construction worker safety, development of a survey to better understand safety characteristics in Honduras and data collection and analysis.
+  The literature review revealed a significant amount of research in various areas of construction safety but very little related to developing countries. Several researchers have identified important attributes to successful safety programmes and the importance of management support using data from developed countries (Gans, 1981 ; Hinze and Harrison, 1981; Hinze, 1987; Laufer, 1987; Levitt and Samelson, 1987; Jurewicz, 1988; Dedobbeleer and German, 1989; Rietze, 1990). Leopold and Leonard (1987) identified costs of construction accidents to employers. Assessments of various safety measures were also studied (Jacobs, 1970; Rockwell and Bhise, 1970; Laufer and Ledbetter, 1986). Studies have also been specifically conducted on site worker head protection (Feeney, 1986; Gilchrist and Mills, 1987; Rowland, 1987) and use of worker behaviour analysis approaches to better explain accident rates (Mattila and Hyodynmaa, 1988; Landeweerd et al., 1990). Furthermore, a conceptual framework for computer-based construction safety control was discussed by Stanton and Willenbrock (1990). Even though much of this research was not specifically related to developing countries, it was found to be very helpful in formulating our surveys.
+  The surveys targeted three different construction company levels:
+1. construction worker level, since accidents most frequently involve workers in the field;
+2. project manager (PM) or middle management level, since PMS are responsible for the safety of their projects;
+3. top level managers, because these managers ultimately are responsible for safety policies in the construction firm.
+A copy of each survey can be found in Recarte (1991).
+Construction worker
+This survey was designed to collect demographic and occupational characteristics, safety training, knowledge, practices, crew relations, the existence of a company orientation programme, protective equipment usage, safety hazards description and the perception of a project's or company's safety policies. Additionally, each worker's accident history was reconstructed for his/her entire construction career. A face-to-face interview technique was chosen to assure the accuracy of the data collected, reduce the amount of time each worker spent on the completion of the instrument and avoid embarrassment to illiterate workers.
+On-site project manager
+A self-administered questionnaire was used and was designed to collect project and company identification information, the PM's position in the firm, the PM's total and partial construction experience in different activities, the PM's attitudes toward different measures of project success (e.g. cost, schedule, quality, safety, profit and client satisfaction), the PM's exposure to safety training, project safety features, different characteristics that describe the project (e.g. type, size, cost and duration) and the project accident history.
+Top level manager
+This survey was also self-administered and was designed to collect company identification information, the manager's position in the firm, the manager's total and partial construction experience in different activities, the manager's attitudes towards different measures of project success (as for the PM survey), company safety features and the company's accident history.
+Data collection effort
+The data collection effort occurred in San Pedro Sula, Honduras over approximately 3 weeks in January 1991 and was conducted on 10 residential and non-residential construction sites involving nine different construction firms. Four of the projects were new industrial, three new residential, one new building, one road repair project and one airport renovation. The size of the projects ranged between US$42 000 and US$4.8 million, had estimated durations ranging from 10 500 to 1 000 000 effort-hours and were between 7 and 67 0 0 complete. Eighty per cent of the contracts were reimbursable or unit cost compared to 20 0 lump sum contracts.
+  One hundred and fourteen workers were approached on the 11 sites and 108 agreed to complete the survey. They included 13 apprentices, 30 common labourers, 8 foremen and 55 craftsmen of different trades — two were unidentified. Ten on-site project managers agreed to participate. Three PMS identified themselves as construction managers, three as engineer-in-chief, one as superintendent, two as project managers and one as a company manager.
+  Top level managers from eight of the nine companies were visited, usually after the construction workers and PMS had already been visited. They described their positions in the construction firm as one president of the board of directors, four general managers, one administrative manager, one production manager and one project manager in the Home Offce.
+Data analysis
+The data were input into a microcomputer and analyses were performed mainly by PC-SAS software (SAS Institute, 1985). The procedures used were:
+1. PROC UNIVARIATE for data description;
+2. PROC FREQ for contingency tables and elaboration;
+3. PROC CORR for obtaining Pearson's productmoment correlation (r);
+Table 1 Description of craftsmen survey data
+
+Variable	Response
+Number of construction workers surveyed
+Number of construction companies visited Number of projects visited
+Sex of workers
+Age of workers
+Construction experience
+Trades
+Type of worker
+Hours worked (weekly)
+Seasonal workers
+Safety training
+Know what to do in case of accident
+Know location of first aid station
+Know location of nearest hospital
+Keeps friendly relations with crew
+Keeps friendly relations with foreman
+Suffered lost-time accident (LTA)
+LT incidence rate (LTAR)
+Suffered non-lost-time accident (NLTA)
+NLT accident rate (NLTAR)
+108
+9
+11
+100% males
+14—66 years, mean = 32.6, S.D. = 15.3
+3 days to 28 years, mean = 7 years, S.D. =6 4
+Bricklayers= 44.40/o
+Labourers —-27.80/0
+Operators= 9 3 0
+	Welders =	/o
+Other trades
+Apprentices —
+Labourers	/o
+ Foremen = 7 5 0 Craftsmen
+/o
+Range = 40—70, mean = 54, S.D. = 8.6
+Seasonal 26.1 0 'å, 10 months/year
+490/
+470
+970/o
+910/o
+9100
+34.3% Range = 0—111.1, mean = 9.5, S.D. = 1.5
+73.1%
+Range =0-34 167, mean = 992, S.D. = 103
+
+4. PROC REG for analysis of variance.
+  The two measures of safety performance used in this study were lost-time accident rate (LTAR) and nonlost-time accident rate (NLTAR). Lost-time accidents (LTAs) involve an injury that requires a worker to lose more than 1 work day and typically involves the assistance of a physician. Non-lost-time accidents (NLTAs) involve an injury that does not require a worker to lose more than 1 work day and workers may or may not require the attention of a physician. The incidence rates used in this study are calculated as shown in Equations 1 and 2 and were developed by the US Bureau of Labor Statistics (Levitt and Samelson, 1987).
+(number of lost-time accidents x 200 000)
+LTAR
+(employee hours worked)
+(1)
+(number of non-lost-time accidents x 200 000)
+NLTAR
+(employee hours worked)
+(2)
+Results
+The results of the analyses from the three questionnaires are presented in this section beginning with a description of the general data characteristics. A discussion of the various hypotheses that were investigated as well as the significant findings are also presented.
+Construction worker's survey
+General data characteristics
+The worker population (108 respondents) was male and had a wide range of experience — the mean age was approximately 33 years old with experience ranging
+from 3 days to 28 years (refer to Table l). The largest trade represented was bricklayers (44.4%), followed by labourers (27.8 0/0), equipment operators (9.3%) and welders (5.6%). Most of the workers interviewed were identified as skilled craftsmen and labourers. Ninetyfive per cent of the craft personnel worked more than 8 h
+r
+e t
+a
+e
+Ear Plugs Hard Hat Safety Eye Gloves Shoes Goggles
+               Type of Personal Protective Equipment Figure 1 Percentage of craft workers wearing personal protective equipment
+per day or 44 h per week which is considered the maximum regular working hours by the Honduran Labor Code (Honduras, n.d.). The mean working week was 54 h and ranged from 40 to 72 h. Also, approximately 25 0 0 of the workers were considered seasonal workers, working 10 or fewer months per year.
+  Only approximately 20 0 0 of the population had ever been exposed to a safety training programme with duration ranging from 5 to 150 h. Almost 50 0 0 of the population answered that they knew what to do 'in case someone has an accident or is very sick on the job site' (49 0 0) and knew the location of the first aid station (47 0 6 ), but almost all of them knew where the nearest hospital was located (97 0 D. When asked how they would describe their relation with the other members of the crew, 91 0 0 of the population answered that they keep friendly relations with other members of the crew. Most of the people (91 surveyed answered that they keep friendly relations with their foreman. Approximately 34 0 0 of the workers experienced at least one lost-time accident in their careers as construction workers and approximately 73% mentioned that they had suffered at least one nonlost-time accident.
+  Few workers wore personal protective equipment. For example, approximately 5 0 1) of the construction workers surveyed wore hard hats (refer to Fig. l). Likewise, a small percentage used safety toe boots, ear protection or goggles. The greatest number of workers (42%) wore gloves. The most common reason given for not wearing protective equipment was that it was not provided (see Fig. 2), but in the case of gloves, the frequency of this reason was lower than for other protective equipment. This indicates that workers that care about their safety wear protective equipment, but frequently it is not available.
+Hypothesis tests and results
+Several hypotheses were tested in order to correlate safety performance to several variables in workers' survey:
+70
+60
+50
+40
+n	30 t
+20
+10
+0
+Ear Plugs Hard Hat Safety Eye Gloves Shoes Goggles
+Type of Personal Protective Equipment
+Not Necessary
+Unable to PurchaseNot Provided
+OtherFigure 2 Reasons for not wearing personal protective equipment
+l . seasonal workers;
+2. number of hours worked;
+3. knowledge of emergency procedures;
+4. friendly relations with fellow workers and foremen;
+5. workers' safety rating of projects and companies ;
+6. workers exposed to safety training;
+7. duration of safety training;
+8. type of work performed;
+9. usage of personal protective equipment;
+10. types and causes of accidents.
+  Several of these hypotheses demonstrated statistical significance and are discussed below.
+Personal protective equipment
+Different hypotheses were tested to determine if significant differences exist between those workers wearing personal protective equipment and those that do not wear it in terms of lower and higher than mean non-losttime accident rates (NLTAR). Also, similar tests were conducted using lost-time accident rates (LTAR) as a measure of safety performance. The results showed that workers wearing gloves have a lower than mean incidence rate of accidents, both non-lost-time (significance level = 0.055) and lost-time accidents (significance level = 0.017). Workers were so infrequently supplied with other protective equipment that it was not possible to test many of the proposed hypotheses.
+Non-lost-time accidents
+A total of 5841 non-lost-time accidents were reported in this study ; the following is a description of them given by trade. For each trade the percentage of the most frequently stated nature of injury is listed. Ninety-one per cent of the non-lost-time accidents involving bricklayers were contusions, 56%) of the NLTAs for equipment operators involved wounds or cuts, for labourers 83% of their NLTA involved contusions and 77 0/0 of accidents concerning welders involved exposure or contact with extreme temperatures.
+  Also a Pearson's correlation analysis was performed by trade between the most frequently stated nature of injuries and affected organs; listed below are those that were correlated at a 0.0001 level of significance. Bricklayer contusions were related to hand injuries and feet injuries. Operator cuts were highly correlated to feet injuries. Labourer contusions were correlated to head, hand, arm, foot, leg and trunk injuries. For welders the most frequent NLTA was exposure or contact with extreme temperature, correlated with the hand, foot and leg.
+  The nature of the injuries and affected organs suggests that gloves and safety boots should be required for bricklayers. The results for equipment operators suggest that added emphasis should be put on housekeeping, especially removing nails from scrap lumber. It was expected that labourers would suffer contusions in every part of the body since they execute the riskier and heavier activities, consequently, considerable attention should be devoted to abate hazards to which labourers are exposed and they should be provided with as much protective equipment as possible and as functionally appropriate. In the case of welders, their burns are due to lack of gloves and other protective clothes and to the uncomfortable postures in which they perform their job. To improve their safety performance and productivity as well, efforts should be aimed at providing uncomplicated ways for them to do their job.
+Lost-time accidents
+No proof of statistical significance is submitted for the differences of lost-time incidence rates between different trades or groups of different skills, but it is interesting to examine the data this way to understand the kind of accidents which occurred in those trades or groups. The most frequent cause of lost time accidents for all trades studied were falls of persons. Other important causes of accidents for these trades were stepping on, striking against or being struck by objects, excluding falling objects, being struck by falling objects and over-exertion or strenuous moves (but only for labourers). Other causes of accidents included causes that rarely appeared in our survey, e.g. exposure to or contact with harmful substances or radiation, being caught in or between objects and exposure to or contact with electric current.
+  It is not surprising that the most frequent cause of lost-time accidents is the fall of persons. It was observed on different sites that scaffolds were usually improvised with whatever piece of lumber was immediately available. In the best case scenario, tubular metal scaffolding was being used, but pieces were missing and old rod pieces were being used. Scaffolds are usually built by apprentices and labourers not following any design or regulation and without the supervision of competent persons. Additionally, the lack of guard rails or toeboards makes it easy for workers to fall and to throw objects or to let objects fall (King and Hudson, 1985). Another source of falls is ladders; it was noticed that it was unusual to see ladders secured and they were frequently in bad condition.
+  It is not uncommon to see labourers handling materials that are too heavy to be carried by one person or without lifting devices; additionally, labourers often use their backs, instead of their legs, to lift objects. Effort should be made to teach proper procedures of handling materials, especially in places where construction is labour intensive.
+  The results of a correlation analysis performed for the most frequently affected organ with cause and nature of injury by worker's skills are presented in Table 2. Feet were most frequently affected for apprentices who typically stepped on something, resulting in wounds. Apprentices are more susceptible to feet injuries because they are required to travel a lot on the job site in order to obtain materials, equipment and tools for the more experienced craftsmen; also, most of the sites required better housekeeping since they had several tripping hazards such as boards with protruding nails. The recommendation to reduce the number of foot injuries is to perform better housekeeping.
+  It can be concluded from the information concerning labourers that the trunk is usually affected by carrying heavy loads and contusions occur from falls and being struck by objects other than falling objects. With respect to foremen, the number of observations is too small to make conclusions. But it is interesting to note that the cause correlated with legs was falls and this gives further support to the recommendation involving scaffolds and ladders.
+  Finally, craftsmen frequently suffer arm injuries, such as welders suffering burns or bricklayers falling and suffering wounds. This adds strength to the recommendations expressed earlier about these two groups of craftsmen; they need to be provided with the means to perform their job safely, such as sound scaffolds or platforms. The use of adequate equipment will enable them to work more comfortably, thus reducing their accidents and probably improving their productivity. Additionally, PMS, foremen and craftsmen should plan carefully their respective activities to avoid improvising. Using the right tool for the right task is fundamental.
+Table 2 Correlation between frequently affected parts of workers and nature and causes of injuries
+
+Affected body part by Nature of injury Cause of injury worker job description
+
+Apprentice: feetWounds or cuts	Stepping ona
+1 .00b	1.00
+0.0001	0.0001
+13	13Labourer: trunkDislocations, strainsand sprainsOver-exertione0.680.860.00010.00013030ContusionsFalls0.910.820.00010.00013030
+Stepping on
+0.54
+0.0019
+30Foremen: legWounds or cutsFalls0.890.890.00310.003188Craftsmen: armWounds or cutsTemperature K0.450.660.00050.00015555BurnsFallsO. 440.400.00070.00235555four had experience as a project manager working in the home offce (2.8 years) and four had experience above project manager level (4.5 years). Additionally, 40 0 o had some type of safety training (refer to Table 3).
+  Only one project had a person specifically responsible for the safety on that project. Only on that project were accident records kept or reported in progress reports or other documents. In 30 0 0 of the projects, job-site meetings were used to provide some safety training. Two project managers (20%) answered that they provided hard hats when necessary, more than half of them answered that they provided some type of footwear (not safety toe boots), one-third provided goggles and approximately one-third provided gloves.
+  Furthermore, incentives were provided to the project management team, foremen and labourers for good safety performance. A larger percentage of managers stated they provided incentive to labourers (30 0 i) compared to the project team (10%).
+  None of the PMS suffered fatalities on their respective projects during the past year (approximately 1990). Four of them did not suffer any lost-time accidents and the other six had 14 lost-time accidents.
+Hypothesis tests and results
+The following areas were reviewed from the PMS survey to support certain hypotheses which correlated safety performance with
+
+Stepping on
+0.29
+0.0304
+55
+
+a Stepping on, striking against or being struck by objects.
+ Correlation coeffcient. Level of significance.
+d Number of observations.
+e Over-exertion or strenuous movements. f Falls.
+g Exposure to or contact with extreme temperatures.
+Field project manager's survey
+General characteristics
+A second survey with a different set of questions was administered to field project managers on the same sites as the workers who responded to their survey. A profile revealed that none of the PMS had experience as a construction worker, only one PM had construction experience as a foreman (2 years), six had worked as a superintendent with a mean of 3.2 years' experience, eight had experience as project managers in the field with a mean experience level of approximately 6 years,
+l. PM experience;
+2. PMS exposure to safety training;
+3. size of project;
+4. project organizational characteristics (e.g. the number of members of the management team above foremen level, number of levels between project manager and foremen, number of superintendents and number of foremen);
+5. safety features (e.g. the presence of a person responsible for the safety performance on the project, accident record keeping, job-site meeting used to expose workers to safety training, job-site meeting frequency, orientation of new workers, personal protective equipment provided and usage of incentives to promote safer performance);
+6. importance of various measures of project success (e.g. cost, schedule, quantity, client satisfaction and safety).
+  Only one hypotheses showed a statistically significant result and this related to the PMS ranking of measures of project success. The correlation test performed to investigate the relationship between LTAR and the measures of project success — budget performance, client satisfaction, safety performance, quality performance, profit and schedule performance — did not yield
+Table 3 Description of project manager's survey data
+
+Number of project managers surveyed10Number of construction companies visited9Construction experienceRangeNumber withExperience (years)(years)experienceCraftsmenMean = 0.0S.D. —0.0Foreman1Mean = 2.0S.D. -0.0Superintendent6Mean = 3.2S.D. — 1.7PM at field offce0—118Mean = 5.9S.D. -4.2PM in home offce4Mean = 2.8S.D. = 2.2Above PM level4Mean = 4.5S.D.=2.7Total
+Uses dedicated field safety person
+Safety training
+Provides personal protective equipment
+Hard hats
+Safety shoes
+Goggles
+Gloves
+Provide incentives to:
+Team2-24
+O o
+200o
+56 0
+33 0/o
+300o
+10010Mean = 9.7S.D. =6.3Foremen200Labourers300/oFatal accidents0Lost-time incidence rate0—26, mean =9.2, S.D. -10 9Variable	Response
+
+significant results, except in the case of profit. The null hypothesis in this case was rejected (r = 0.674, p < 0.05, n = 9), suggesting that those PMS that care more about their profit tend to cut corners, creating dangerous situations in their projects. The only recommendation to PMS is to avoid the temptation to cut corners; money saved in materials and equipment can cost the life of fellow construction workers or the PM themselves.
+Top level manager's survey
+General description
+A total of eight upper level managers participated in this survey. Their total construction experience ranged between 2 and 30 years, the mean volume of work was between half a million to 10 million US$ per year and the number of projects in progress ranged from 3 to 30 (refer to Table 4). Seventy-five per cent did not have a company-wide safety programme and two-thirds of those that did not have safety programmes said that they were thinking of implementing one; one-sixth said they were not aware of its importance and the other sixth said that they did not have one because it was not required. Those that had a safety programme said that they spend between 0.5% and 1 % of their revenues on their safety programme.
+  None of them had a safety department in their company or had safety inspections. However, more than half (57 0 0) had some type of safety policy that people in the field had to comply with, 62 0/0 gave some type of orientation to new workers, 12% required that new foremen have safety training and only 25 0/0 kept records of their accidents. When asked if they provided their employees with hard hats, 50 0/0 answered affrmative, 57 0/0 answered that they provided some type of footwear (not safety toe boots), 57% provided goggles when needed and 37 0 0 provided gloves. Only 14 0/0 of the respondents provided safety incentives to employees. The incidence of lost time accidents ranges from 0 to 13 for 1990. They did not suffer any fatalities.
+  When they were asked to estimate direct and indirect costs of accidents using a provided breakdown, but leaving the possibility of identifying others, managers were able to identify some direct costs, but not indirect costs. Their direct costs ranged between US$800 and 39 375 per year.
+
+  Furthermore, top level managers were asked to rank, from I to 6, the importance of several measures of project success, I being least important and 6 being most important. They ranked client satisfaction highest with a mean rating of 5. Quality performance was rated 3.9 followed by budget and schedule performance at 3.6 and 3.4, respectively. Profit was rated 2.9 and safety was last at 2.3. It is important to note that the standard deviation for safety was the lowest (a = 1.0) and that only one respondent (12.5 0 D thought safety performance was somewhat important and ranked it a 4.
+252
+Table 4 Description of top level manager's survey dataJaselskis and SuazoVariableResponseNumber of top level managers surveyed
+Number of construction companies visited8
+8Construction experience as (years)RangeNumber withExperience(years)experience(years)Labourer00Mean — 0.0S.D. -0.0Foreman1Mean — 2.0S.D.=O.OSuperintendent0—105Mean 4.4S.D. =3.2PM at field office4Mean — 4.0S.D. = 1.8PM in home office0—65Mean 3.8S.D. = 1.5Above PM level0-147Mean — 7.4S.D.=4.3Total2-308Mean— 13 6S.D. = 9.6Yearly company revenues (US$1 000 000s)0.5-10Mean 2.7S.D. = 58.0Projects in progress at one time (No.)
+Company safety programme
+Company field safety policy
+Orientation to new workers
+Safety training to new foremen
+Accident record-keeping system
+Provides personal protective equipment
+Hard hats
+Safety shoes
+Goggles
+Gloves
+Incentives provided3—30
+250
+5700
+620
+12
+25
+50
+570
+570
+370Mean 9S.D.=215Lost-time accident rate (L TAR)0—13.0, mean-3.6, S.D. =5.5Non-lost-time accident rate (NLTAR
+Estimated company direct accident costs5.3—67, mean(US$ year
+Importance of success measures800-39 375, mean = 17 500, S.D. = 16 500(l, least important; 6, most important)Range	Number responsesClient satisfaction1—6	7	Mean — 5S.D.= 1.9Quality2-6	7	Mean = 3.9S.D. 1.5Budget1-6	7	MeanS.D.= 1.6Schedule1-5	7	Mean 3.4	S.D.			Profit1-5	7	MeanS.D.=1.8Safety	MeanS.D. = 1.0Hypothesis test results
+The following areas were reviewed from the upper management survey to support certain hypotheses which correlated safety performance:
+l. manager's experience;
+2. company features (e.g. high volume of work performed per year, low proportion of work subcontracted, greater number of PMS per labourer, more people in management teams per labourer, more staff personnel on field offce per labourer, more foremen per labourer and fewer number of labourers);
+3. safety project features (e.g. existence of a safety programme, existence of a safety policy, existence of a record keeping and report system, orientation for new workers and usage of incentives to promote safer performances);
+4. importance of various measures of success (e.g. cost, schedule, quality, client satisfaction and safety).
+  Only one hypothesis showed a statistically significant result and this related to the upper managers' ranking of measures of project success. The ANOVA performed to test the relationship between LTAR and the measures of project success — budget performance, client satisfaction, safety performance, quality performance, profit and schedule performance — did not yield significant results, except in the case of client satisfaction.
+  It was hypothesized that those managers that rank high client satisfaction as a measure of project success have lower LTAR in their companies. Pearson's correlation test yielded r = 0.863, p<0.05, n=6, which supports this hypothesis. The explanation could be that these managers foster an attitude in their companies of not cutting corners in their projects and therefore these companies work with higher quality materials and equipment and avoid dangerous situations.
+Recommendations
+Several recommendations are provided for improving construction site safety performance on Honduran job sites. From the construction worker survey it was discovered that wearing personal protective equipment would reduce accidents (gloves and safety shoes for bricklayers and gloves and other protective clothes for welders). Furthermore, better housekeeping, especially removing nails from scrap lumber is recommended to reduce equipment operator accidents and puncture wounds to other workers. Improved scaffolding and better housekeeping might reduce the most common lost-time accidents that are related to falls. Additionally, efforts should be made to teach workers how to lift heavy objects and use ladders and tools in a safer manner.
+  On-site project managers need to make safety a higher priority as well and make sure workers are adequately protected for jobs they are performing. The study shows that PMS that put profit above all other measures of success experience projects with higher accident rates. It is recommended that PMS avoid the temptation to cut corners and reduce the chance of worker injuries. Top level managers must understand the importance of implementing a strong company-wide safety programme that includes the proper training of foremen as well as craft workers. Accident reports must be filed so that safety problems can be identified and information provided to the construction companies in order to prevent future mishaps. Top level managers need to better understand their direct and indirect costs associated with accidents; for the most part, none of them really understood the indirect cost impact of an accident. Moreover, upper management should strive for high client satisfaction as this leads to a lower lost-time accident rate.
+  As an additional recommendation not directly related to the survey but one that explains much of the safety problems in Honduras, one must examine the Honduran Labor Code which provides information on worker rights and employer responsibilities. Briefly, the Honduran Labor Code does not require companies to collect suffcient and accurate data about construction accidents, fails to protect a large proportion of the construction workforce who are considered 'temporary' as opposed to 'permanent' workers and imposes minimal fines for not abiding by the code. Recarte and Jaselskis (1993) describe the Honduran Labor Code as it pertains to construction workers and identifies its weaknesses.
+Limitations
+There are some limitations to this research study. One limitation concerns the setting of the study: San Pedro Sula is the second largest city in Honduras and this makes the results of this research valid for only the urban sector of Honduras and of a certain size. Limited data was a constraining factor related to the on-site PM and upper management level. Even though there was no significance found between safety features and better safety performance, it was a disappointment to verify how scarce these features were in the sample projects. Lack of suffcient data is most likely the reason for such few significant results in this area.
+  The data collected for the construction workers' survey did not allow the authors to estimate incidence rates for the same period as the PM and top level managers' surveys. Additionally, the information collected (related to accident history) is biased since it was not possible to collect data about workers who suffered fatal accidents or, for that matter, about workers who suffered an injury that resulted in amputation. Furthermore, data concerning the severity of accidents were not collected.
+  It appears that top level management was not fully informed about non-lost-time accidents since the mean NLTAR from workers' survey was 992 compared to 24 from the top level managers. That is why, for the hypotheses concerning PMS and top level managers, the 254
+NLTAR was not used to measure safety performance. The flow of information improved for LTAs and the small gap that seems to exist is explained by the fact that management levels receive information concerning those accidents in which workers receive or might receive indemnity compensation (e.g. mean LTAR from workers was 9.5, from the PMS was 9.2, but from top level managers was 3.6). Therefore, these LTAR estimates were considered reliable.
+Further research
+The present study, provides insight into some important aspects related to construction safety in Honduras and has identified several weaknesses that should be remedied in order to reduce the number of job-related accidents. This study could be broadened to include a larger work-force sample (including a greater variety of projects located in cities of varying sizes). More complete studies of occupational accidents are necessary for different trades and skill groups, salary levels, different levels of education (literacy, vocational training, safety training), different age groups (especially very young and very old workers), the effect of experience on accidents (especially for bricklayers, skilled craftsmen and workers exposed to safety training), 'seasonal workers', project types, project size and different sectors of the country. More research should be conducted regarding incentives for implementing more effective safety programmes in developing countries (e.g. types and amount of incentives, person(s) receiving incentive, etc.). A better handle on actual direct and indirect accident costs needs to be understood on projects constructed in developing countries — managers may be more inclined to implement stronger safety measures if they more completely understand the true costs involved for each accident. Additionally, research should be conducted to identify ways of modifying the Honduran Labor Code so that it would have greater impact on safety. Finally, it may be of interest to perform a broader-based study to investigate the differences between accident types and rates in developed versus developing countries.
+Conclusions
+This study investigated safety practices on construction sites in Honduras. It was determined that there are many safety-related problems on the sites. A survey was administered to construction workers, field project managers and senior managers to better understand the level of safety awareness in Honduras. Results demonstrated a substantial lack of awareness or importance for
+Jaselskis and Suazo
+safety at all levels of the Honduran construction industry and much improvement is required in order to remedy this situation. Worker results demonstrated a substantial lack of awareness or importance for safety at all levels of the construction organization. Workers rarely wore personal protective equipment, used poorly constructed scaffolds, improperly used tools and ladders and disregarded good housekeeping practices. Many of the field project managers did not provide workers with personal protective equipment or safety training and experienced higher accident rates when they placed profit as the most important measure of success. Top level management needs to be made aware of the importance of safety and take a stronger role in implementing effective company-wide safety programmes.
+Acknowledgements
+The authors would like to thank Iowa State University and LASPAU for providing the necessary support to complete this research project. Additionally, we express our sincere gratitude to all of the construction workers, field project managers and senior managers who participated; their input was invaluable to the success of this study.
+References
+Dedobbeleer, N. and German, P. (1989) Safety practices in construction industry, Professional Safety, 34, 33—38.
+Feeney, R.J. (1986) Why is there resistance to wearing protective equipment at work? Possible strategies for overcoming this, Journal of Occupational Accidents, 8, 207-213.
+Gans, G.M. (1981) The construction manager and safety, Journal of the Construction Division, 107, 219—226.
+Gilchrist, A. and Mills, N.J. (1987). Construction site workers helmets, Journal of Occupational Accidents, 9, 199—211.
+Hinze, J. and Harrison, C. (1981) Safety programs in large construction firms, Journal of Construction Engineering and Nfanagement, 107, 455—467.
+Hinze, J. (1987) Qualities of safe superintendents, Journal of Construction Engineering and Management, 113 (1), 169-171.
+Honduras (n.d.) Ministerio de Trabajo y Prevision Social. Codigo del Trabajo, pp. 80—104.
+Jacobs, H.H. (1970) Towards more effective safety measurement systems, Journal of Safety Research, 2 (3), 160—175.
+Jurewicz, R.A. (1988) Developing construction safety awareness, Concrete Construction, July, 683—684.
+King, R. W. and Hudson, R. (1985) Construction Hazard and Safety Handbook. Butterworths, London, pp. 30—42, 417-466.
+Landeweerd, J.A., Urlings, I.J .M., De Jong, A.H.J Nijhuis, F.J.N. and Bouter, L.M. (1990) Risk taking tendency among construction workers, Journal of Occupational Accidents, 11, 183-196.
+Laufer, A. (1987) Construction accident cost and management motivation, Journal of Occupational Accidents, 8, 295—315.
+Laufer, A. and Ledbetter, W.B. (1986) Assessment of safety performance measures at construction sites, Journal of Construction Engineering and Management, 112 (4), 530-542.
+Leopold, E. and Leonard, S. (1987) Costs of construction accidents to employers, Journal of Occupational Accidents, 8, 273-294.
+Levitt, R. and Samelson, N.M. (1987) In Post, N.M. and Young, N. (eds), McGraw Hill, New York.
+Mattila, M. and Hyodynmaa, M. (1988) Promoting job safety in building: an experiment on the behavior analysis approach, Journal of Occupational Accidents, 9, 255—267.
+Recarte, G.A. (1991) Improving construction safety in Honduras, Master's thesis, Iowa State University.
+Recarte, G.A. and Jaselskis, E. (1993) Comparison between the American and Honduran construction safety approaches, Journal of Construction Engineering and Management, 119(3), 560—572.
+Rietze, B.R. (1990) Proactive construction management, Professional Safety, January, 14—16.
+Rockwell, T.H. and Bhise, V.D. (1970) Two approaches to a non-accident measure for continuous assessment of safety performance, Journal of Safety Research, 2 (3), 176—187.
+Rowland, F.J. (1987) Comparison of the impact protection properties of Sikh turbans and industrial safety helmets, Journal of Occupational Accidents, 9, 47—57.
+SAS Institute Inc. (1985) SAS, Version 6.02. Computer Software. Institute Inc., Cary, NC. 1985.
+Stanton, W.A. and Willenbrock, J.H. (1990) Conceptual framework for computer-based construction safety control, Journal of Construction Engineering and Management, 116 (3), 383-398.
+	246	Jaselskis and Suazo
+
+Construction site safety in Honduras	247
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+
+
+Construction site safety in Honduras	247
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+
+
+Coovriaht 0 2001 . All Riahts Reseved.
+

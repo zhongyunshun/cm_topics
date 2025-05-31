@@ -1,0 +1,201 @@
+﻿
+Incorporating Virtual Reality in Construction Management Education
+Ms. Ramyani Sengupta, Purdue University, West Lafayette
+Dr. Anthony E. Sparkling, Purdue University, West Lafayette
+Anthony Sparkling is an Assistant Professor in Construction Management Technology (CMT) at Purdue University where he teaches courses in mechanical and electrical systems, electrical estimating, and electrical construction. His research interests include teams, organizations, contract governance, organizational processes, project/team performance and behavioral feedback systems. He has a growing interest in the skilled-trades shortage in the United States.
+Prior to joining the CMT department at Purdue, Anthony worked in the construction industry for over twenty years. He started as a journeyman electrician in the International Brotherhood of Electrical Workers quickly ascending to Project Foreman and Superintendent. As an electrician, he was tasked with supervising complex building automation and control system installations, scheduling, coordination, procurement, and estimating for projects across many building sectors including industrial, commercial, K12, and higher education. Then, he moved into Project Management working for a mid-size General Contractor/Construction Management Company based in Lansing, Michigan. In this capacity, he managed projects ranging in size from $4 million to over $115 million and was responsible for overall project execution including budget and cost controls, procurement, safety, scheduling, quality, and client satisfaction.
+Anthony received both his Ph.D. in Planning, Design and Construction and master’s degree (M.S.) in Construction Management from Michigan State University. He received his bachelor’s degree (B.S.) from Eastern Michigan University and also holds a master electrical license in the State of Michigan. Anthony is a committee member for the Transportation Research Board - Standing Committee on Project Delivery Methods, a National Science Foundation Graduate Research Fellow, and Ronald E. McNair Scholar. He can be contacted at asparkli@purdue.edu.
+ c American Society for Engineering Education, 2021
+Incorporating Virtual Reality in Construction Management Education 
+Ramyani Sengupta1 and Anthony E. Sparkling, Ph.D2  
+1,2 Purdue University, West Lafayette IN  
+Abstract  
+Education in the United States (US) has come a long way over the past few decades. Now, learning institutions are combining traditional educational tools with newer technology such as virtual reality (VR) as well as augmented learning spaces. In light of the recent COVID-19 global pandemic, internet-assisted virtual classrooms are often preferred over traditional teaching – this reduces in-person contact while delivering lessons on time in a safe space. The construction industry has adopted virtual reality (VR) in safety training, design, and field management, and to coordinate installations as it helps in visualizing decisions. Despite the benefits, it has found limited application in construction management (CM) education. This study introduces CM undergraduates to a virtual jobsite and investigates the efficacy of VR as a knowledge transfer pedagogy. Using data and construction documents from an ongoing project, we deploy state of the art technology to convert them into a virtual space using TwinMotion, which in turn is viewed by students with the help of Oculus Rift headsets in a controlled environment. This research propels the learner into an immersive environment to learn about building systems through VR instead of using two-dimensional construction drawings. The subjects’ understanding of the materials is gauged using an online pre- post quiz. With a design-based research approach, we assess the impact of VR tools on construction student knowledge, how students respond to this hybrid model of instruction, and whether it holds any value compared to other traditional methods of instruction. Incorporating such educational tools and practices can increase the prevalence of more focused educational knowledge transfer while protecting the students’ health by reducing personal contact at the same time. We plan to further investigate VR across several course iterations and are optimistic that these immersive tools will help to better train young construction professionals before they join the industry. 
+Keywords - VR, Education, Construction, Hybrid learning, Technology  
+ 
+Introduction  
+Historically, educational methods during K-12 studies and beyond usually involve classroom instruction, field visits, and using equipment in laboratories. In order to keep up with the fast-paced society, traditional methods have continually been supplemented with technology such as handheld devices and/or computers. While involving these devices in an educational setting may set the stage for some distractions and interruptions, the positive outcomes of incorporating new technology during educating young minds cannot be ignored. Due to the limitations of computers and handheld screens, namely storage issues, non-user-friendly interfaces, etc., more advanced technical equipment are gradually becoming a part of K-12 and undergraduate education [1]. New wearable devices (Google Cardboard, Microsoft HoloLens, Oculus headsets, etc.) have introduced Augmented Reality (AR) and Virtual Reality (VR) into classrooms globally. While this technology is mostly used in safety and training modules in CM [2], studies have begun to look into the effects of AR and VR in CM education, often through virtual interaction like ‘creating’ or ‘building’ elements of project sites [3], or also through interaction and collaborative learning with project management modules [4]. This research investigates the use of VR as an educational accessory with the use of a VR headset (the Oculus Rift S), added with conventional classroom guidance from an educator. It also introduces undergraduate Construction Management (CM) students at a large four-year university in Midwestern USA to the world of simulated VR and simultaneously assesses both their attitude to this hybrid learning and their academic performance and knowledge perception regarding MEP (mechanical, electrical and plumbing) systems in the course material. The tentative findings focus on whether the students are positively impacted by this new hybrid method of knowledge transfer, which has realms of possibilities in this new era of socially distanced education in the architecture, engineering and construction (AEC) industry.  
+  
+Literature Review and Background  
+Today, young students are well accustomed with handling technical devices in every facet of their lives. Handheld mobile phones, pocket-sized music players, tablets, smartwatches, laptop and desktop computers, smart televisions etc. are all equipped with methods of data transfer over the internet. Over the last decade, the use of similar technological devices has made a headway into education. According to Rudd (2008), a successful and multi-modal learning environment will involve more room for creativity and problem solving [5]. It is, thus, imperative that schools keep pace with the times by bringing in available technical resources into classrooms. This potential ‘hybrid’ form of teaching can also possibly reduce passive attitudes of learners in more traditional educational settings [6]. This brings forth multitudes of possibilities in classrooms – more customized material delivery is possible depending on the needs of the students. Cognitive theories of learning show that individuals have a finite mental capacity to process and retain information at any point in time, and people are not able to absorb large amounts of new information in a short period of time. Human beings also use different ‘mental channels’ to absorb verbal and visual information [7]. Many undergraduate courses last only for a few hours each day; therefore, the course material must be optimized to ensure maximum retention by the learners. Previous research in this field has found that students thrive on visual aids during classroom instruction, and they fare better when traditional written and verbal instruction is combined with visual content [8]. Instead of doing so with simple slides or PowerPoint presentations, it has been theorized that more enhanced forms of knowledge transfer can create more effective and collaborative classroom environments, and that can help students be more motivated to learn new material [9]. Thus, utilizing fully immersive scenes, such as the ones created by VR are great examples for improved forms of hybrid learning. It is essential to exploit the wonders of technology as much as possible in the field of education and understand its educational potential and impact on learning [10]. This study aims to find this relationship between knowledge absorption and hybrid learning environments and infer the extent to which these techniques impact learning.  
+In CM, much of the course curriculum revolves around studying and interpreting multidimensional drawings, identifying different building systems (structural, mechanical, electrical, plumbing, etc.), and applying their classroom knowledge in the field among other things. This study focuses on transforming a ‘paper-based lesson into a mobilized lesson’ [11] and turning traditional teacher-centered instruction into a more contemporary student-centered learning [12]. Historically, introducing new technology in the field of construction has not always been smooth. Incorporating the use of virtual three-dimensional models in students’ education creates a safe space for them to apply their knowledge and strategies as they would in the real world [13]. Thus, this use of VR, AR and MR (Mixed Reality) has been an up-and-coming force in the AEC industry and its education due to the ways BIM (Building Information Modeling) structures can be leveraged and taught to students using these types of technologies. A targeted trade-off study between these three technology types has already been conducted using material for CM education such as project management and scheduling [4] instead of a more safety and training perspective [14]. This study stresses on the interior systems of construction projects and how they may be ‘learnt better’, i.e. mechanical systems, plumbing systems, electrical circuits and pipelines, fire protection systems, and so on. Some CM studies which have integrated VR into their setup focus more on interaction rather than learning [3]. A need exists to understand the student learning experience and their attitude toward learning in a virtual scene rather than a traditional classroom. As these dynamic models of real-world sites are quite realistic, this allows students to experience and learn from onsite work without leaving the university building. In the past, VR hardware and technology has been expensive and inaccessible to the construction world, but in recent years more companies have come out with their own head-mounted displays, allowing for rapid commercialization and usage of these devices at a lower cost. This process involves an in-depth offline content preparation before the virtual scene can be presented to students, in order to recreate an accurate representation of a complex construction site. Technology-aided strategies are often implemented in construction safety training courses, but it has not been found to be a strong improvement over more traditional teaching methods [15]. A similar study in the AEC literature found exposing students to a virtual environment for educational purposes did not yield highly improved scores as compared to paper-based material [16]. The study conducted a paper-based and game-based construction safety course and found that viewing paper-based material and VR gaming environments could yield comparable test scores. Certain factors like previous gaming experience and an overall lack of comfort with VR equipment led to poor test scores. Similarly, questions which required a keen eye for detail were often answered incorrectly during game-based tests. A similar game-based study using virtual education in CM [17] focuses on the use of collaboration and competition in project management training, and then looking into time optimization in construction. This study takes a different approach by focusing on the learner’s experience and trying to gauge whether VR can realistically be an effective tool in university education. 
+Since navigating a virtual scene through a headset and a pair of touch controllers takes some practice, it is quite advisable for students to receive some primary guidance on interacting with the virtual interface (or ‘landscape’ or ‘scene’) from a skilled instructor for a few minutes before the commencement of the actual experiment [18]. This active guidance from an instructor helps reduce time and ensures students use the VR device properly. In any technology-infused learning environment, students have been found to be more attentive, focused, and interested in the material being presented due to ‘stimulation from the technology’ and the new environment it creates [19]. Taking advantage of this enthusiasm is important in this experimental setting as this can enable the student to learn the ins and outs of handling VR equipment fast and use them as a learning tool for their degree. The application of VR modeling contributes to improved communication between stakeholders in construction, which is often a source of scheduling issues. Allowing students to experience this earlier in their education has the potential to encourage them to further use this tool in their career, which is why schools with construction studies in their curriculum may want to update their teaching methods with such available resources [20]. While interacting with the virtual environment, safety is one of the major factors to be kept in mind – a controlled ‘play area’ must be designated for the students to securely interrelate with the scene without the fear of real objects in their way [21]. The efficacy of VR studies are commonly defined as the extent up to which these approaches will give rise to desired outcome [22], the success of the experiment will greatly depend on the above settings, as they will all vastly impact the desired outcomes of the study.   
+  
+Methodology 
+Design-based research or ‘DBR’ is an intervention-based mixed-methods type research that can create achievable frameworks in education. These are applicable in real classroom settings through changes in instruction methods and/or assessments [23]. DBR has been used in inquiry-based studies in science and mathematics education through evaluation of new experimental teaching methods [24]. This inquiry-based study involved four steps for the experiment group. The setup used in this study was targeted towards enhancing commonly used instructional techniques. First, a short pre-experiment survey for all students, followed by traditional class hours where all students studied traditional construction drawings, much like regular CM courses. After that, the experiment group was to be involved in a short 30-40-minute session with the VR gadgets, which would then be followed by a final post-experiment survey to discern changes in knowledge levels (if any). The measures used in the two questionnaires were developed based on a previous work outlining acquisition methods of implicit knowledge among novices [25]. The study commenced with a recruitment email sent out to a large number of undergraduate CM students encouraging participation asked third-year undergraduate students (juniors) in the CM program to anonymously fill out a pre-experiment survey (Appendix A) in order to gauge which students would qualify for the study. As educational qualifications were identical across the group, the only deciding factor was whether any individual suffered from motion sickness, a usually mild condition involving temporary nausea, headache and dizziness that can often be exacerbated by vehicular motion, firstperson videogames, or the use of VR/AR gadgets. Some general introductory questions assessing the subjects’ basic understanding of the material and prior experience with VR were included in the survey to assess their level of comfort with the topic and the use of gadgets. Once those individuals with a tendency to experience motion sickness were removed from the pool, the remaining students were then asked to participate in the VR session outside of class hours where they experienced a virtual version of the site through the Oculus Rift S headset. The study was fully approved by the Human Research Protection Program at the university and its institutional review board. 
+The construction drawings and BIM are from a new construction project located on the university campus. The virtual version of the construction project was developed by the researchers. The virtual scene development was a multi-stage process involving various software packages specifically built for creating VR/AR scenes. A standard Revit model of the building was first built from the construction drawings to try and ensure that both groups of subjects would experience identical construction sites with corresponding geometries that would be as similar as possible, a feature that the researchers felt was important in order to ensure a high degree of ‘fairness’ in the results of the final questionnaire. Elements of the three-dimensional model were carefully modelled and then assembled in Autodesk 3DS Max. In order to preserve the features of the model, it was run through Maya and Autodesk MotionBuilder to check for any inconsistencies before importing the final three-dimensional model into TwinMotion. The students were first asked to study the physical drawings like any traditional construction course material, and thirty (30) minutes were allotted for this portion of the experiment. After this, the students who had been chosen to interact with the VR setup would be introduced to the Rift S headsets one by one, given some time (about ten to fifteen minutes) to practice wrist movements with the controllers and mark their ‘play area’ or ‘play zone’ (approximately 6’ by 6’), and then exposed to the virtual version of the paper drawings. They would then be allowed to freely walk around inside their zone, interact with the scene to view whichever parts of the site they wished to explore by walking or ‘teleporting’. This part of the study would approximately take another thirty (30) minutes per subject, after which all parts of the device would be meticulously cleaned and disinfected for the next participant, thereby adhering to current health and safety protocols in light of the pandemic. 
+ 
+Fig. 1 – View of virtual building scene shown to students 
+ 
+ 
+Fig. 2 (Top Left) and Fig. 3 (Top Right) – Electrical and plumbing systems visible to students inside the virtual scene. Here, different colors denote different interior systems with interior walls denoted in green. 
+ 
+The final stage of the experiment involved another post-experiment questionnaire (Appendix B) with ten questions, which included some specific questions about their experience with the experimental process as well as some targeted questions about the material they had just studied a few minutes prior (traditional or traditional supplemented by the virtual scene), much like a common in-class quiz. Based on their responses, we gauge whether the students understand the course material and if so, whether there were any differences in how the students absorbed and recognized the material. Another important question for the researchers was whether the added virtual scene had impacted the knowledge delivery and absorption process.   
+  
+Findings 
+Findings from a small pool of participants in this study have shown positive changes in their survey responses. Originally, the recruitment email was sent out to 297 upper-undergraduate students (learners in their junior and senior years). Nine responses were received in time for the data collection, with one respondent having to excuse themselves from the study due to health issues. Students were enthusiastic about this opportunity to experience a non-traditional educational tool and asked multiple questions about what they saw in the scene and wished to explore all parts of the scene using the headset and controllers. The assumed time of 10-15 minutes for explaining how the hardware works was found to be much longer than what was necessary – students picked up on the controller movements needed for traversing the scene in less than five minutes each time. 
+Responses to the survey indicated a change in the students’ outlook regarding their CM education and the use of technology to impart a more updated and hybrid learning experience. Although limited, responses for questions regarding their knowledge levels in the post-experiment survey showed marked increase in confidence in identifying building systems after viewing the VR scene as compared to what they are usually taught during traditional class hours. 
+Responses to questions on the pre-experiment questionnaire showed that none of the respondents had motion sickness. Responses showed that ~88% of participants thought that VR had not been utilized to its fullest potential in CM education. The following questions followed the Likert scale: 1 – Strongly disagree, 2 – Somewhat disagree, 3 – Neither agree nor disagree, 4 – Somewhat agree and 5 – Strongly agree. Information on background knowledge on MEP systems received a mean score of 3.00 with a standard deviance of 1.00 and a variance of 1.00. Similarly, information on background knowledge on MEP systems received a mean score of 3.38 with a standard deviance of 1.22 and a variance of 1.48 showing lack of confidence in prior MEP knowledge as traditionally taught in classrooms. Respondents agreed that it was challenging to develop a sequencing schedule for the mechanical and electrical systems planned for the project using traditional drawings (mean score of 3.75 with a standard deviance of 0.66 and a variance of 0.44) and also that it was challenging to visualize MEP systems using drawings (mean score of 3.75 with a standard deviance of 0.43 and a variance of 0.19) 
+Responses to questions on the post-experiment questionnaire received encouraging scores on the Likert Scale. Participants unanimously agreed that VR would be a useful tool in teaching mechanical and electrical systems installations (mean response score of 5). For example, “I would like to use VR learning environments more frequently” received a mean score of 4.38 with a standard deviance of 0.7 and a variance of 0.48. The question “I found the VR learning experience easy to use and understand.” received a mean score of 4.38 with a standard deviance of 0.99 and a variance of 0.98. Confidence in using the Oculus Rift S headset received a mean score of 4.13 with a standard deviance of 1.27 and a variance of 1.61. High SD scores was due to 25% of the respondents ‘somewhat disagreeing’ to being comfortable with the headset. “I can effectively assess mechanical and electrical system installation decisions after experiencing the construction project in VR” received a mean score of 4.38 with a standard deviance of 0.48 and a variance of 0.23. The question on clash point determination received a mean score of 4.50 with a standard deviance of 0.71 and a variance of 0.50. Respondents said that it was markedly less challenging to visualize MEP systems through virtual reality (mean value of 2, with a standard deviance of 1.22 and a variance of 1.50) with only one respondent stating that they found it extremely challenging. There was a similar score for creating a sequencing schedule for MEP systems: mean score of 2.25 with a standard deviance of 1.22 and a variance of 1.40. 
+The researchers are confident that these results will be more pronounced as the study is expanded to a larger number of participants in the near future. 
+ 
+ 
+ 
+Limitations 
+One of the main limitations of this study was that it employed a small pool of students during data collection. This was due to time constraints and the lengthy process of the study being properly approved by the Institutional Review board of the university as it utilizes human subjects. The other imitation is because of the side effects of motion sickness, integrating VR technology into a classroom course has the potential to exclude a small number of students from the hybrid learning process. The researchers are investigating a different immersive module without VR technology that can be similarly co-opted in classrooms for such learners. 
+ 
+Conclusions and Future Scope  
+The findings of the paper are well-aligned with the original hypothesis that incorporating virtual reality technology into CM education would elicit a positive reaction from learners. The students’ responses were largely positive and encouraging, and they showed a marked increase in confidence about identifying MEP systems through virtual scenes instead of traditional classroom instructional methods. Apart from the impacts this study will have on in-classroom construction education regarding building systems, the findings from this paper can be utilized as a future pedagogical tool in onsite safety and education. Future methodological changes will enhance this research by exploring different instructional pedagogies made across several student cohorts in the same course each semester – thus, understanding VR impacts longitudinally. Currently, the researchers have acquired enough Oculus units to provide a pair to each CM student during class once this hybrid system has been employed. The final findings from this work can be also customized to any construction need to deliver an educational experience which can be more effective than current learning tools. Although construction sites are understandably much more chaotic than a classroom on campus, AEC professionals may want to adapt to current technological advances and find a way to bring VR technology onto construction sites more often. In education, this is also a definitive step forward towards a more inclusive classroom. The use of VR technology can help disabled students, instructors or classroom assistants to view, teach and interact with real world construction sites without the stress and/or difficulties of physical travel, and therefore be able to partake in knowledge transfer with ease. Therefore, this could potentially encourage academics to redefine certain educational strategies in schools and change the ways CM knowledge is distributed inside classrooms across the country.  
+  
+References: 
+[1] Ledbetter, J.  (2001).  Wireless secrets and lies. The Industry Standard. [Web Resource] Available Online. http://www.thestandard.com/article/0,1902,27206,00.html?nl=int. 
+[2] Park, C.-S., & Kim, H.-J. (2013). A framework for construction safety management and visualization system. Autom. Constr. 33 95–103, http://doi.org/10.1016/j.autcon.2012.09.012. 
+[3] Le, Q. T., Pedro, A., & Park, C. S. (2014). A Social Virtual Reality Based Construction Safety Education System for Experiential Learning. Journal of Intelligent & Robotic 
+Systems, 79(3–4), 487–506. https://doi.org/10.1007/s10846-014-0112-z 
+[4] Wu, W., Tesei, A., Ayer, S., London, J., Luo, Y., & Gunji, V. (2018). Closing the Skills Gap: Construction and Engineering Education Using Mixed Reality – A Case Study. IEEE Frontiers in Education Conference (FIE), San Jose, CA, USA, 2018, pp. 1-5, doi: 
+10.1109/FIE.2018.8658992. 
+[5] Rudd, T. (2008). Learning spaces and personalization workshop outcomes. Bristol, UK: NESTA Futurelab. Retrieved 15 January, 2021, from http://www.futurelab.org.uk/resources/documents/event_presentations/Learning_Spaces_ and_Personalisation_workshop.pdf. 
+[6] Sampaio, A. Z., Ferreira, M. M., Rosário, D. P., & Martins, O. P. (2010). 3D and VR models in Civil Engineering education: Construction, rehabilitation and maintenance. Automation in Construction, 19(7), 819–828. https://doi.org/10.1016/j.autcon.2010.05.006 
+[7] Feuer, M. J., Towne, L., and Shavelson, R. J. (2002). Scientific culture and educational research. Edu. Res., 31(8), 4–14.  
+[8] Vincent, A., and Ross, D. (2001). Learning style awareness. J. Res.Comput. Edu., 33(5), 1– 10.  
+[9] Nivala, M., Rystedt, H., Säljö, R., Kronqvist, P., and Lehtinen, E. (2012). Interactive visual tools as triggers of collaborative reasoning in entry-level pathology. Int. J. Comput.Supported Collaborative Learn., 7(4), 499–518 
+[10] Klopfer, E., & Squire, K. (2007). Environmental Detectives—the development of an augmented reality platform for environmental simulations. Educational Technology Research and Development, 56(2), 203–228. https://doi.org/10.1007/s11423-007-9037-6 
+[11] Norris, C., & Soloway, E. (2008) Getting mobile handhelds help bring K-12 classrooms into the 21st century. District Administration Magazine. Professional Media Group, LLC,CT. Retrieved 5 Feb, 2009, fromhttp://www.districtadministration.com/. 
+[12] Looi, C.-K., Wong, L.-H., So, H.-J., Seow, P., Toh, Y., Chen, W., Zhang, B., Norris, C., & 
+Soloway, E. (2009). Anatomy of a mobilized lesson: Learning my way. Computers & 
+Education, 53(4), 1120–1132. https://doi.org/10.1016/j.compedu.2009.05.021 
+[13] Gao, Y., Gonzalez, V. A., & Yiu, T. W. (2019). The effectiveness of traditional tools and computer-aided technologies for health and safety training in the construction sector: A systematic review. Computers & Education, 138, 101–115. https://doi.org/10.1016/j.compedu.2019.05.003 
+[14] Sacks, R., Perlman, A., & Barak, R. (2013). Construction safety training using immersive virtualreality, Constr. Manag. Econ. 31 (9) 1005–1017, http://doi.org/10.1080/01446193.2013.828844. 
+[15] Liaw, Y.-L., Lin, K.-Y., Li, M., & Chi, N.-W. (2012). Learning Assessment Strategies for an Educational Construction Safety Video Game. Construction Research Congress 2012, 
+2091–2100. https://doi.org/10.1061/9780784412329.210 
+[16] Liarokapis, F., Mourkoussis, N., White, M., Darcy, J., Sifniotis, M., Petridis, P., Basu, A. & Lister, P.F. (2004) Web3D and Augmented Reality to support engineering education. 
+World Transactions on Engineering and Technology Education, 3(1). pp. 11-14. ISSN 1446-2257 
+[17] Goedert, J., Cho, Y., Subramaniam, M., Guo, H.F., Xiao, L. (2011). A Framework for 
+Virtual Interactive Construction Education (VICE). Autom. Constr. 20(1), 76–87 
+[18] Tiene, D., & Luft, P. (2001). Teaching in a technology-rich classroom. Educational Technology, 41, 23-31. 
+[19] Juárez-Ramírez, R., Sandoval, G.L., Gonzállez, C.C., & Inzunza-Soberanes, S. (2009). Educational strategy based on IT and the collaboration between academy and industry for software engineering education and training. m-ICTE V International Conference on Multimedia and ICT's in Education, Lisbon, Portugal, 172–176.  
+[20] Ho, C.-L., & Dzeng, R.-J. (2010). Construction safety training via e-Learning: Learning effectiveness and user satisfaction. Computers & Education, 55(2), 858–867. https://doi.org/10.1016/j.compedu.2010.03.017 
+[21] Oculus Gear Rift S Safety Center | Oculus. (2020). Oculus. https://www.oculus.com/safetycenter/rift-s/ 
+[22] Kim, T.-J., Huh, J.-H., & Kim, J.-M. (2018). Bi-directional education contents using VR equipments and augmented reality. Multimedia Tools and Applications, 77(22), 30089–
+30104. https://doi.org/10.1007/s11042-018-6181-4 
+[23] Anderson, T., & Shattuck, J. (2012). Design-Based Research:A Decade of Progress in Education Research? Educational Researcher, 41(1), 16-25. Retrieved April 18, 2021, from http://www.jstor.org/stable/41413081  
+[24] Trna, J., & Trnova, E. (2014). Design-based research as an innovation approach in the construction and evaluation of IBSME. European Journal of Science and Mathematics Education, 2(2A), 186–191. https://doi.org/10.30935/scimath/9642 
+[25] Wu, W., Hartless, J., Tesei, A., Gunji, V., Ayer, S., & London, J. (2019). Design Assessment in Virtual and Mixed Reality Environments: Comparison of Novices and Experts. J. Constr. Eng. Manag., 145(9). 
+ 
+ 
+ 
+Appendix A: 
+ 
+Pre-Experiment Survey  Background   
+1. Do you suffer from motion sickness?  
+a. Yes  
+b. No  
+  
+2. Do you want to participate in this study?  
+a. Yes  
+b. No  
+  
+3. Select your gender:  
+a. Female  
+b. Male  
+c. Non-binary  
+d. Other   
+  
+4. Would you define yourself as a visual learner?   
+a. Yes  
+b. No  
+  
+5. In which of the two situations do you feel learning to be more effective for you?  
+a. An interactive and collaborative learning environment  
+b. A quiet environment with one-on-one instruction  
+  
+6. Are site visits an integral part of your CM coursework and do they occur often (more than once a month)?  
+a. Yes and Yes  
+b. Yes and No  
+c. No and Yes  
+d. No and No  
+  
+7. Have you heard of virtual reality (VR)?  
+a. Yes  
+b. No  
+  
+8. Have you been involved in a virtual design or constructability review session using VR?  a. Yes  
+b. No    
+  
+9. Have you used an Oculus Rift S headset before today?  
+a. Yes  
+b. No  
+  
+10. Compared to the level of technology currently used in society, do you feel that it has been used to its full potential in your education?  
+a. Yes  
+b. No  
+  
+11. If chosen to do so, are you confident about using a VR headset today in a Knoy classroom?  
+a. Yes  
+b. No  
+  
+Knowledge/Experience Level   
+  
+1. Do you know what clash points on construction drawings are?  
+a. Yes  
+b. No   
+  
+2. What would you say is your level of knowledge/experience with identifying mechanical and electrical equipment in construction drawings?  
+1-No experience and 5-Highly experienced  
+  
+Please indicate your level of agreement with the following statements:    
+3. I can effectively assess mechanical and electrical system installation decisions with a traditional set of construction drawings.   
+1-Strongly disagree and 5-Strongly agree   
+  
+4. I can effectively determine potential clash points on construction drawings.  
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+  
+5. Using the traditional construction drawings, it is challenging to visualize the mechanical and electrical systems planned for the project?  
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+6. Using the traditional construction drawings, it challenging to develop a sequencing schedule for the mechanical and electrical systems planned for the project?    1-Strongly disagree and 5-Strongly agree   
+ 
+ 
+ 
+ 
+ 
+Appendix B: 
+ 
+Post-Experiment Survey  
+Please evaluate the usability of the Oculus Rift S and virtual learning environment based on your experiences in this activity. To do so, please indicate your level of agreement with the following statements:  
+1. VR can be a useful tool to teach students to make effective construction decisions for mechanical and electrical systems installations.  
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+2. I would like to use VR learning environments more frequently.   
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+3. I found the VR learning experience easy to use and understand.   
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+4. I felt very confident using the Oculus Rift-S to navigate the project.   
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+Knowledge/Experience Level   
+  
+Please indicate your level of agreement with the following statements:    
+1. I can effectively assess mechanical and electrical system installation decisions after experiencing the construction project in VR.   
+1-Strongly disagree and 5-Strongly agree   
+  
+2. I can effectively determine potential clash points on after experiencing the construction project in VR.  
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+3. After experiencing the VR construction project, it is challenging to visualize the mechanical and electrical systems planned for the project?  
+  
+1-Strongly disagree and 5-Strongly agree   
+  
+4. After experiencing the VR construction project, is it challenging to develop a sequencing schedule for the mechanical and electrical systems planned for the project?    1-Strongly disagree and 5-Strongly agree   
+  
+ 

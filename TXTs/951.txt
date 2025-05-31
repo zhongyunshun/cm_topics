@@ -1,0 +1,366 @@
+﻿
+The LP/IP hybrid method for construction time-cost trade-off analysis
+Scott A. Burns, Liang Liu & Chung-Wei Feng
+To cite this article: Scott A. Burns, Liang Liu & Chung-Wei Feng (1996) The LP/IP hybrid method for construction time-cost trade-off analysis, Construction Management & Economics, 14:3, 265-276, DOI: 10.1080/014461996373511
+To link to this article:  https://doi.org/10.1080/014461996373511
+
+Full Terms & Conditions of access and use can be found at https://www.tandfonline.com/action/journalInformation?journalCode=rcme20
+
+Construction Management and Economics (1996) 14, 265± 276
+The LP/IP hybrid method for construction time-cost trade-off analysis
+SCOTT A. BURNS,1 LIANG LIU2 and CHUNG-WEI FENG2
+1Department of General Engineering, University of Illinois at Urbana-Champaign, 104 S. Mathews Ave, Urbana, IL 61801, USA
+2Department of Civil Engineering, University of Illinois at Urbana-Champaign, 205 N. Mathews Ave., Urbana, IL 61801, USA
+Received 9 June 1995; revised 6 December 1995
+Construction planners face the decisions of selecting appropriate resources, including crew sizes, equipment, methods and technologies, to perform the tasks of a construction project. In general, there is a trade-off between time and cost to complete a task ± the less expensive the resources, the longer it takes. Using Critical Path Method (CPM) techniques, the overall project cost can be reduced by using less expensive resources for non-critical activities without impacting the duration. Furthermore, planners need to adjust the resource selections to shorten or lengthen the project duration. Finding the optimal decisions is dif® cult and time-consuming considering the numbers of permutations involved. For example, a CPM network with only eight activities, each with two options, will have 28 alternatives. For large problems, exhaustive enumeration is not economically feasible even with very fast computers. This paper presents a new algorithm using linear and integer programming to obtain optimal resource selections ef® ciently that optimize time/cost of a construction project.
+Keywords: Time-cost trade-off, critical path method, optimization, construction planning.
+
+Introduction
+Critical Path Method (CPM) has been used in the construction industry for project scheduling and control since the 1960s. It provides a practical tool for planning and controlling construction projects. Many new algorithms and techniques have been developed to enhance the usefulness of CPM. Among these algorithms and techniques, time-cost trade-off analysis has been one of the most important enhancements for using CPM to plan and control construction projects. In general, there is a certain relationship between time and cost to complete the activities within a project. A contractor may choose different crew sizes, equipment and construction methods to complete the activities. These decisions will ultimately decide the duration and cost of a project. Since there may be hundreds of activities within a project, it is almost impossible to enumerate all possible combinations to identify the best decisions that can complete it in the shortest time and at the minimum cost.
+This paper presents a new approach to assist construc-
+0144± 6193 q 1996 E. & F.N. Spon
+tion planners in making time-cost trade-off decisions. This new approach, named the LP/IP hybrid method, is a combination of linear and integer programming (LP and IP). The LP/IP hybrid method ® rst establishes a high quality lower bound of the time/cost relationship of a project using LP. Once the lower bound to the time-cost trade-off curve has been generated, IP is used to identify the exact solution for one speci® ed duration. This avoids having to solve for the entire time-cost trade-off curve exactly using IP, which is computationally prohibitive for realistic construction projects. In addition, the lengthy and error-prone process of formulating linear and integer programming objective functions and constraints are replaced by a spreadsheet tool so that users can intuitively de® ne time-cost and precedence relationships for activities. The LP/IP hybrid method along with the spreadsheet tool provides construction planners with an accurate and ef® cient means of making good time-cost decisions. A detailed description of the LP/IP hybrid method and spreadsheet tool is provided and an example is given to demonstrate the use of this new method.
+Time and cost of construction projects
+Time and cost are two main concerns of construction projects. In the construction industry, contractors usually use previous experience to estimate project duration and cost. Typically, a project is broken down into activities to which resources can be assigned and durations and costs estimated. The activities are linked according to work sequences to form a network. CPM techniques are used to analyse the network to identify critical path(s) and project duration. In general, the more resources assigned to an activity, the less time it takes to complete, but cost is usually higher. This trade-off between time and cost gives construction planners both challenges and opportunities to work out the best construction plan which optimizes time and cost to complete a project.
+  In addition, the project manager may need to accelerate a project to meet a deadline issued by the owner because of a delay of previous activities. Adjustments are needed to change the resource assignments to optimize the resource allocations that yield the accelerated project duration at a minimum cost. Since there are often too many permutations of resource allocations, there is a need to develop tools and methods to assist construction planners in making resource allocation decisions which optimize time and cost.
+Existing techniques for construction timecost trade-off analysis
+Mathematical and heuristic methods are the two major approaches used to solve the time-cost trade-off problems in project scheduling. Mathematical methods convert the project time-cost trade-off problems to mathematical models and utilize linear programming, integer programming, or dynamic programming to solve the problem. Kelly (1961) formulated the time-cost trade-off problems using LP by assuming a linear relationship between time and cost for construction activities. This approach was limited to two options per activity, with a continuous linear variation between them. Meyer and Shaffer (1963) used IP to solve time-cost problems including both linear and discrete relationships within the same activity. However, the solution process is time consuming. Robinson (1975) developed a dynamic programming approach to solve time-cost trade-off problems which require special network relationships. Reda (1986) and Reda and Carr (1989) used mixed IP to solve time-cost trade-off problems within related activities.
+  The advantages of mathematical approaches include ef® ciency and accuracy. However, formulating constraints and objective function is time-consuming and error-prone. Besides, mathematical programming knowledge is necessary to formulate these mathematical models correctly. Very few construction planners are trained to perform this type of formulation, especially for large networks.
+  Heuristic methods are non-computer approaches which require less computational effort than mathematical methods. Examples of heuristic approaches include Fondahl’s method (1961), Prager’s structural model (1963), Siemens’s effective cost slope model (1971), and Moselhi’s structural stiffness method (1993). These heuristic methods provide a way to obtain good solutions but do not guarantee optimal solutions. In addition, the solutions offered by heuristic methods do not provide the range of possible solutions, making it dif® cult to experiment with different scenarios for what-if analysis.
+Current practice of time-cost trade-off analysis
+Although techniques for construction time-cost analysis have been available since the 1960s, the construction industry has not widely accepted these techniques in their day-to-day planning tasks. From personal experiences and from many open discussions with professionals in construction, we ® nd that most construction engineers are unaware of the optimization techniques. Those who are use predominantly the heuristic approaches. The general consensus regarding the heuristics approaches is that 1) they take a long time to formulate, 2) the solutions are not always optimal, 3) it is dif® cult to use them to solve large/complex networks, and 4) they lack the ¯ exibility to experiment with what-if scenarios. Most users limit their use to small networks, believing that it is impossible to utilize them on larger networks.
+  While some construction engineers believe the heuristics approaches are good enough for the construction industry, despite the approximations and imprecision, others are searching for new and improved methods. Some construction engineers, well trained in operations research and computer applications, are experimenting with new approaches using linear and integer programming to provide better solutions. The results are quite satisfactory and the time needed to solve large scale networks is signi® cantly reduced with the use of computers and commercially available linear/integer programming solvers. However, the biggest complaint is that formulation requires considerable effort and is prone to errors. A network is rarely formulated, even by experienced construction engineers, without several revisions.
+  Most practitioners in construction agree that timecost trade-off is an important issue, yet acknowledge that it is commonly ignored because of the complexity involved in the analysis. Many express their wish to have an easy-to-use tool to interface directly with project planning systems, such as Primavera. With this vision in mind, the authors have developed a tool targeted toward practical use in construction. The research effort has focused on two critical issues: 1) more ef® cient algorithms that yield more accurate solutions, 2) easy-to-use tools for real practice. The following sections describe the result of this research: a new hybrid algorithm and prototype computerized tool named `Optimum’.
+The LP/IP hybrid method for construction time-cost analysis
+Obtaining a good and nearly optimal solution with a reasonable amount of computational effort is the major motivating factor for this method. IP can ® nd the exact optimal solution, but it is computationally intensive. The LP/IP hybrid method is a hybrid approach which uses 1) LP to generate a lower bound of the minimum direct cost curve ef® ciently and 2) IP to ® nd the exact solution for a single speci® ed duration. The following sections describe the formulation of the linear and integer programming models. Examples are given to demonstrate how to formulate the mathematical models.
+The linear programming model ± the convex hull method
+In the LP model, the time-cost curve of each activity is identi® ed as a curve connecting various options to complete the activity. These options can be either discrete or continuous depending upon the available resources/methods or simply a contractor’s preference.
+
+For example, `form and rebar’ may be ® nished in 5± 8 days as the crew size decreases from ® ve to two persons. This relationship between activity options is fairly continuous. On the other hand, the discrete relationship between activity options may occur in activities with different methods, such as using a bucket or a pump for pouring concrete. It is also possible that the activity could have both types of relationships. Figure 1 shows an example activity whose options have both discrete and continuous time-cost relationships. It shows that the contractor can choose one option along segment AB or option C to complete the activity. Each option has its associated time and cost. Figure 2 shows an example of a continuous time-cost relationship. It represents an activity that can be completed at any combination of time and cost for the points on the curve. A piece-wise linear approximation is usually used to simplify calculations, so the time-cost relationship in Figure 2 can be considered as the linear segments consisting of A± B, B± C, C± D and D± E.
+  If the relationship among the options within the activity is linear, it is possible that the durations of the possible options are non-discrete and non-integer, such as 3.5 days or 3.6 days, which implies that the durations of the possible options within the activity are continuous. However, for construction applications, only integer durations are considered, such as days. Therefore, we de® ne a time-cost curve as `linear and continuous’ when the durations on this curve are successive integers and the relationship between the options is linear.
+Preprocessing
+The convex-hull algorithm in this method generates the convex hull formed by the various options speci® ed for each activity, for example, as shown in Figure 3. The convex hull is established by the following steps:
+1. Identify all options as `active’.
+
+
+Figure 1 An activity with both discrete and continuous time-cost relationships
+
+Figure 2 Piece-wise linear approximation of construction time-cost relationship
+
+
+Figure 3	An example of convex hull
+2. Arrange the active options within the activity in ascending duration order, and assign 1, 2,...n to i for the option i. (Associated costs and durations are C1, C2,....., Cn and D1, D2,....., Dn, respectively, and n is the number of active options.) If n = 1, go to step 7.
+3. Calculate the cost slopes Mi of all active options and deactivate the option i+1, if Mi > 0 (i=1, 2,..., n– 1). When Mi > 0, option i+1 can be eliminated. Option i will always be more desirable than option i+1 because option i costs less and takes shorter time.
+The cost slope of option i is de® ned as
+Ci + 1 – Ci , for i=1, 2,..., n– 1. (see Figure 4)
+Mi =D – Di
+i + 1
+
+Figure 4	Cost slope of option i; Mi = Di + 1 – Di
+Renumber the active options i=1,2,...,n, where n is the new number of active options. If n=2, go to step 6.
+4. Recompute the cost slopes and compare Mi with Mi + 1 and deactivate option i+1 if Mi . Mi + 1 (i=1, 2,..., n– 1).
+5. Repeat steps 2 to 4 until Mi < Mi + 1 (i=1, 2,..., n– 1). Renumber the active options i=1, 2,...,n, where n is the new number of active options.
+6. Draw the straight lines which connect active options iand i+1, for i=1, 2,..., n– 1, to form the convex hull.
+7. Draw straight lines from the minimum duration and minimum cost points parallel to the Y-axis (cost) and X-axis (duration), respectively.
+The objective function and constraints
+Once the convex hull is established for each activity, a linear program can be formulated. The objective function and constraints of all activities contribute to the linear programming model of the time-cost trade-off problem and can be presented as follows:
+Objective function:
+n
+Minimize S Ci
+                    i = 1 Constraints:
+Subject to
+	Si >	0	i=1, 2, 3,...n
+	Si +Di <	Dmax	i=1, 2, 3,...n
+	Sa +Da <	Sb	for each precedence a®	b
+	Ci >	MijDi +Bij	i=1, 2,....n, j =1, 2,...Oi
+	Ci >	Cmini	i=1, 2, 3,...n.
+	Di >	Dmini	i=1, 2, 3,...n
+where
+Bij : The intercept of cost (Y-axis) for option j, activity i Ci : Cost of activity i
+Cimin: The minimum cost of the activity i
+Di : Duration of activity i
+Dmax : The maximum allowable overall project duration
+Dimin: The minimum duration of the activity i
+Mij : Slope of inequality constraint connecting adjacent active options pair j, activity i (see Figure 5). n: The total number of the activities Oi : Number of inequalities in time-cost constraint set for activity i
+Si : Start time of activity i
+  The objective function seeks to minimize the overall project cost subject to a set of constraints. The ® rst three
+
+Figure 5	Mij and Bij of option j, activity i; Mij = 
+Dj + 1 – Dj
+constraints are the precedence relationships of the network. The next three constraints form the convex hull of each activity. These six constraints model the timecost trade-off problem.
+  Linear programming algorithms, such as the simplex method, can then be used to ® nd the optimal solutions. Many commercially available LP software packages, such as Lindo, can perform the task very ef® ciently. The convex hull method, in conjunction with LP, establishes the lower bounds for time-cost relationships of a project. These lower bounds give construction planners a general idea of the project time-cost relationship. From these lower bounds, construction planners can select desired durations and ® nd the exact solutions using IP as described later.
+Discussion of the elimination in convex-hull algorithm
+In the preprocessing of the convex hull algorithm, some options within activities are eliminated. Consider two consecutive options on the convex hull, A and B. These two options form the areas called zone 1 and zone 2, as shown in Figure 6. The options in zone 2, such as option D, are not suitable options because either A or B (or both) are cheaper and faster than option D and thus provide a better choice than D. Hence, it is reasonable to eliminate all options in zone 2. On the other hand, option C might be selected because neither options A nor B are both cheaper and faster than option C. In the LP model, an option along line segment AB will be selected instead
+
+Figure 6	The elimination zones of the convex-hull algorithm
+of option C. To sum up, options in zone 2 will never be selected in the exact solution and can safely be ignored. Options in zone 1 may be selected in the exact solution and are approximated in the LP formulation by line segment AB.
+The integer programming model
+To get an exact solution for the time-cost trade-off problem, IP must be used. Although it is computationally intensive and typically prohibitive for solving the entire problem, it often can be used to ® nd one point on the time-cost trade-off curve once the convex hull algorithm has identi® ed an approximated solution.
+  In the IP model (Patterson and Huber, 1974), the variable Xij is assigned to the option j within activity i. For each activity i, the sum of the variables Xij should be 1 because only one option will be selected as the optimal option for the activity i. This model can be described as the following integer program.
+Objective function:
+n
+Minimize S Ci
+                    i = 1 Constraints:
+Subject to
+Si >	0i=1, 2, 3.........nSi +Di <Dmaxi=1, 2, 3.........nSa +Da <Sbfor each precedence a®bOi
+S CijXij =Ci for all activity i j = 1 Oi
+S DijXij =Di for all activity i j – 1
+Oi
+S Xij =1 for all activity i
+i = 1
+	;	Xij >	0
+	;	Xij <	1
+    ;	Xij are integer where
+Ci : Cost of activity i
+Cij : The cost of option j, activity i
+Di : Duration of activity i Dij : The duration of option j, activity i n: The total number of the activities Oi : Number of inequalities in time-cost constraint set for activity i
+Si : Start time of activity i
+Xij : The assigned variable for option j, activity i
+  The ® rst three constraints are the constraints of the network to set up the precedence relationships between the activities. The remaining constraints are used to make sure that only one option will be selected as the optimal option. If the relationships of the options within an activity are both linear and continuous, the points on the time cost-curve can be regarded as discrete points and each discrete point will be assigned an integer variable Xij to generate the constraints for the IP model. Once the objective function and constraints are formulated, commercially available IP software can be used to ® nd the optimal solutions.
+Example of formulation
+An example is used to demonstrate the formulations of the LP/IP hybrid method developed by the authors.
+
+Figure 7	The network of example 1
+Figure 7 shows an example construction project with seven activities (example 1). Table 1 shows the available options and their time and costs to complete the activities. The slope relationship column in Table 1
+speci® es whether an option is discrete, continuous, or any combination. For example, the time-cost relationship for activity 2 is shown graphically in Figure 8. This means that acitivity 2 can be completed 1) anywhere between 15 and 18 days, 2) in 20 days exactly, or 3) between 23 and 25 days. The objective function and the constraints for linear and integer programming can be formulated as follows.
+The linear programming formulation Objective function:
+Minimize S
+Constraints:
+Subject to7
+Ci i = 1S1 +D1 <S2S1 +D1 <S3S1 +D1 <S4S2 +D2 <S5S3 +D3 <S5S4 +D4 <S6S5 +D5 <S7S6 +D6 <S7S7 +D7 <Dd	; Si >	0
+i=1, 2,..., 7
+C1 >– 1100 D1 +38 400C1 >12 000D1 >14C2 >– 240D2 +6600C2 >– 160D2 +5000C2 >1000D2 >15C3 >– 71.429 D3 +5571.44C3 >– 72.727 D3 +5599.99C3 >3200D3 >15C4 >– 2500 D4 +75 000C4 >– 1250 D4 +55 000C4 >30 000D4 >12C5 >– 1250 D5 +47 500C5 >10 000D5 >22C6 >– 2200 D6 +70 800C6 >18 000D6 >14C7 >– 1000 D7 +39 000Table 1	The activity options of example 1 ± `Optimum’ data input for the example network
+Activity description (A)Activity number (B)Option (C)Duration (D)Cost (E)Slope relationship (F)Site preparation1Crew 1 + Equip 11423 000D1Crew 2 + Equip 22018 000D1Crew 3 + Equip 32412 000DForms and rebar2Method 1153000C2Method 21824002Method 3201800D2Method 4231500C2Method 5251000Excavation3Equipment 1154500D3Equipment 2224000D3Equipment 3333200DPrecast concrete girder4Method 11245 000D4Method 21635 000D4Method 32030 000DPour foundation and piers5Method 12220 000D5Method 22417 500D5Method 32815 000D5Method 43010 000DDeliver PC girders6Railroad1440 000D6Truck1832 000D6Barge2418 000DErect girders7Crane 1 + Crew 1930 000D7Crane 2 + Crew 21524 000D7Crane 3 + Crew 31822 000DC7 > – 666.67 D7 +34 000.05
+	C7 >	22 000
+	D7 >	9
+Dd: A desired project duration or the duration of the critical path
+  The ® rst ten constraints describe the network relationship and the other constraints are related to the activity options. In activity 1, the option with duration of 20 and cost of $18 000 is eliminated because it is above the convex hull. In activity 2, the options between durations of 1) 14± 18 days and 2) 23 and 24 days are eliminated because they are also above the convex hull. The other activity’s options are inspected by the above method. The above constraints are used to solve the example network by LP.
+
+Figure 8	The time-cost relationship of activity 2
+The integer programming formulation Objective function:
+Minimize S
+Constraints:
+Subject toCi i = 1S1 +D1 <S2S1 +D1 <S3S1 +D1 <S4S2 +D2 <S5S3 +D3 <S5S4 +D4 <S6S5 +D5 <S7S6 +D6 <S7S7 +D7 <Dd7
+	; Si <	0
+i=1, 2,..., 7
+C1 =23 000X11 +18 000X12 +12 000X13 D1 =14X11 +20X12 +24X13
+3
+S X1j =1
+j = 1
+C2 = 3000X21 + 2800X22 + 2600X23 + 2400X24
++ 1800X25 + 1500X26 + 1250X27 + 1000X28
+D2 + 15X21 + 16X22 + 17X23 + 18X24 + 20X25
++ 23X26 + 24X27 + 25X28
+8
+S X2j =1
+j = 1
+C3 =4500X31 +4000X32 +3200X33
+D3 =15X31 +22X32 +22X33
+3
+S X3j =1
+j = 1
+C4 = 45 000X41 + 35 000X42 + 30 000X43
+D3 = 12X41 + 16X42 + 20X43
+3
+S X4j =1
+j = 1
+C5 = 20 000X51 + 17 500X52 + 15 000X53
++ 10 000X54
+D5 =22X51 +24X52 +28X53 +30X54
+4
+S X5j =1
+j = 1
+C6 =40 000X61 +32 000X62 +18 000X63 D3 =14X61 +18X62 +24X63
+3
+S X6j =1
+j = 1
+C7 = 30 000X71 + 24 000X72 + 22 000X73
+D7 = 9X71 + 15X72 + 18X73
+3
+S X7j =1
+j = 1
+	;	Xij >	0
+	;	Xij <	1
+	;	Xij are integer
+Dd: A desired project duration or the duration of the critical path
+  In the IP model, the variables Xij are assigned to each option within all activities. In activity 2, the options with duration of 16, 17 and 24 days are created because the slope relationship of this activity are continuous between durations of 1) 15 and 18 days, and 2) 23 and 25 days, respectively.
+Computer implementation ± the optimum system
+The LP/IP hybrid method provides an ef® cient means of solving construction time-cost trade-off problems; however, the process of formulating constraints and objective functions for linear and integer programming is timeconsuming and error-prone. A prototype program, `Optimum’, was developed by the authors using macros and templates of Microsoftw Excel 5.0 for Windows, a popular commercial spreadsheet program. The development of Optimum enhances the usefulness of the LP/IP hybrid algorithm by providing a user-friendly template for data entry. Users can enter time and cost relationships for activity options (either continuous or discrete) and network precedence relationships similar to de® ning CPM networks. Optimum then automatically formulates objective functions and constraints for linear and integer programming. Graphics are used to show the results of time-cost analysis. Users can perform what-if analysis by entering the desired duration to ® nd the optimal strategies which minimize cost. The following paragraphs show how to use Optimum to solve the example network discussed earlier.
+  The process of using Optimum includes: 1) entering data for network and activity options, 2) ® nding the LP solutions (lower bounds), 3) setting the desired duration, 4) using IP to ® nd the exact solutions, and 5) plotting the total cost curve.
+The input form
+1) Data input
+The data required to run Optimum are shown in Tables 1 and 2. Column A, activity description, of the input worksheet is used to identify activities of a project. This description is needed only once for each activity. Column B, activity number, is the activity index. The activity numbers are repeated for different options in the same activity. The order of this index is not important; however, this index is required for each option, and cannot be avoided. Column C is option. This column allows the user to label each option which will later be used to identify which options are optimal. Columns D and E are the duration and cost for each option, respectively. Column F indicates the slope relationship of two successive options. The letter C in this column implies the options between the current option and the next successive option in the input form are continuous, and the letter D indicates that the option is discrete.
+
+	Table 2	`Optimum’ data input for the example network
+Cost unit (G)Duration	(I) unit (H)Predecessor (J)Successor (K)	(L)Increment (M)Indirect cost rate (N)$Days12110001
+1
+2
+3
+4
+5
+63
+4
+5
+5
+6
+7
+7Columns G and H are the units of cost and duration, respectively. The user can customize the units of cost and duration for their schedules. They could be $,$1000, minutes, days, or months depending upon the user’s needs.
+  Columns J and K are used to de® ne the precedence relationships among activities. In this example, activity 5 cannot start until activity 2 and activity 3 are completed.Column M is the increment of duration for the LP solution. For example, 1 means that the LP solver will solve the problem every single day between the longest and the shortest feasible duration and plot the lower bound. Column N is the indirect cost rate which indicates the indirect cost per time unit.
+2) Find the LP solutions
+The LP solutions provide the lower bounds of project time-cost curve. Figure 9 shows the chart of the direct cost curve generated by LP which required 5 min to complete.
+3) Set the desired duration
+The user may choose a desired region on the time-cost curve generated by the previous step to ® nd the exact
+Figure 9	Direct cost curve (LP approach) (convex hull algorithm)
+
+Figure 10	The total cost curve (IP approach). Ðu Direct cost;	Figure 11	The comparison of convex hull algorithm (Ðu)
+Ðm Indirect cost; sÐ	 Total cost	and exact solution (Ðm)
+	Table 3	The result of desired duration
+Activity number (B)Option (C)Start (D)Duration (E)Cost (F)End (G)Total cost (H)Total duration (I)1Crew 3 + Equip 302412 00024107 500782Method 124153000393Equipment 12415450039Desired duration4Method 3242030 00044785Method 4393010 000696Barge442418 000687Crane 1 + Crew 169930 00078
+solution. In Table 3, a duration of 78 is entered to solve the optimal selections for each activity.
+4) Use IP to solve the exact solutions
+The exact solutions can be generated by IP. As mentioned earlier, it provides the exact solutions; however, it takes much longer than LP. In this simple example, it takes approximately 30 min to ® nd all exact solutions on a 486 PC, but it only takes about 1 min to ® nd one exact solution. Table 4 shows the results of the IP. The direct cost column shows the time-cost relationship for direct costs. The indirect cost in this example is assumed to be $1000/day for the duration of the project.
+5) Plot the total cost curve
+The total cost curve can also be generated by Optimum if the user has de® ned the indirect cost rate. The total cost curve of the described example is shown in Figure 10.
+The ef® ciency of LP/IP hybrid algorithm
+Comparing the solutions obtained by convex hull algorithm with the exact solutions, the convex hull solutions bound the exact solution from below, as shown in Figure requires 30 min. Another example (example 2, see Figures 12, 13 and Table 5 for network relationship, time-cost trade-off curve, and activity options, respectively) with 18 activities emphasizes the time savings provided by the proposed method. The time required to obtain the entire time-cost trade-off curve by the LP/IP algorithm is approximately 15min, in contrast to 17h required by the IP model. It is obvious that the proposed algorithm has the advantage of saving time and computing effort. The convex hull algorithm gives very close solutions to the exact solutions as shown in Figure 13. It also provides information about the project cost and a detailed schedule of the desired project duration. Therefore, the LP/IP hybrid approach provides an ef® cient way to obtain an optimal solution to the time-cost trade-off problem.
+Future development
+Future developments of Optimum focuses on three areas: 1) develop an interface to link existing project schedule applications, such as Microsoft Project and
+
+11. The time required to solve the entire time-cost trade-off curve based on the LP/IP algorithm is 5 min using Optimum on a 486 PC. The solution by IP
+Figure 12	The network of example 2. Numbers given are	Figure 13	The comparison of convex hull algorithm (Ðu)
+activity ID	and exact solution (Ðm) of example 2
+	Table 4	The solutions of the example network (IP approach)
+Duration (A)Direct cost (B)Total cost (C)Duration (D)Direct cost (E)Total cost (F)60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+73
+74
+75
+76
+77
+78143 500
+142 300
+140 000
+130 800
+130 600
+130 400
+128 500
+123 300
+118 500
+118 300
+118 100
+117 900
+117 300
+112 500
+112 300
+112 100
+110 500
+107 500203 500
+203 300
+202 000
+193 800
+194 600
+195 400
+194 500
+190 300
+186 500
+187 300
+188 100
+188 900
+190 300
+186 500
+187 300
+188 100
+187 500
+185 50079
+80
+81
+83
+84
+85
+86
+87
+88
+89
+90
+92
+94
+95
+96
+97
+105107 300
+107 100
+106 900
+105 500
+101 500
+101 300
+101 100
+99 500
+99 300
+99 100
+98 900
+98 300
+97 800
+97 500
+97 250
+97 000
+96 200186 300
+187 100
+187 900
+188 500
+185 500
+186 300
+187 100
+186 500
+187 300
+188 100
+188 900
+190 300
+191 800
+192 500
+193 250
+194 000
+201 200	Table 5	The activity options of example 2
+
+ADAOptionDCSRA11A1O1142200D1A1O2152150D1A1O3162000D1A1O4212080C1A1O4241200DA22A2O1153000C2A2O21824002A2O3201800D2A2O4231500C2A2O5251000DA33A3O1154500D3A3O2224000D3A3O3333200DA44A4O11245 000D4A4O21635 000D4A4O32030 000DA55A5O12220 000D5A5O22417 500C5A5O32815 000D5A5O43010 000DA66A6O11440 000D6A6O21832 000D6A6O32418 000DA77A7O1930 000C7A7O21524 000D7A7O31822 000DA88A8O114220D8A8O215215D8A8O316200D8A8O421208D8A8O524120DA99A9O115300C9A9O218240
+ADAOptionDCSR9A9O320180D9A9O423150C9A9O525100DA1010A10O115450D10A10O222400D10A10O333320DA1111A11O112450D11A11O216350D11A11O320300DA1212A12O1222000D12A12O2241750C12A12O3281500D12A12O4301000DA1313A13O1144000D13A13O2183200D13A13O3241800DA1414A14O193000C14A14O2152400D14A14O3182200DA1515A15O1124500D15A15O2163500DA1616A16O1203000D16A16O2222000D16A16O3241750C16A16O4281500D16A16O5301000DA1717A17O1144000D17A17O2183200D17A17O3241800DA1818A18O193000D18A18O2152400C	18	A18O3	18	2200	DAD: Activity description; A: Activity; D: Duration; C: Cost; SR: Slope relationship.
+
+Primavera, with the Optimum input worksheet. This is so that schedule activity description, activity ID, duration, cost and precedence relationships can be directly imported into Optimum; 2) develop automatic generation of options and their costs and durations from historical databases or other commercially available cost data, such as RS Means; and 3) develop built-in (customized) linear/integer programming solvers to replace the less ef® cient general purpose solvers.
+Conclusion
+The time-cost trade-off problem for construction project scheduling has been investigated since the 1960s. Existing solutions can be classi® ed into two categories, heuristic and mathematical approaches. Heuristic approaches provide good solutions, but do not guarantee optimal solutions. Mathematical approaches provide better solutions, however the process of formulating the objective function and constraints is complex and errorprone. This paper presents a new algorithm to provide an easy-to-use tool to solve time-cost trade-off problems using mathematical models. This method takes advantage of LP and the convex hull method for ef® ciency, and IP to ® nd the exact solutions. This hybrid method, along with the spreadsheet tool, provides the construction planner with an ef® cient means of analysing time-cost trade-off decisions.
+Acknowledgement
+This material is based on work supported by the National Science Foundation under Grant No.
+DDM± 8957410.
+References
+Fondahl, J.W. (1961) A non-computer approach to the critical path method for the construction industry, Technical Report No. 9, Department of Civil Engineering, Stanford University, CA.
+Kelly, J.E. (1961) Critical path planning and scheduling:
+mathematical basis, Operational Research, 9(3), 296± 320.
+Meyer, W.L. and Shaffer, L.R. (1963) Extensions of the critical path method through the application of integer programming, Civil Engineering Construction Research Series No. 2, University of Illinois, Urbana-Champaign, Il.
+Moselhi, O. (1993) Schedule compression using the direct stiffness method, Canadian Journal of Civil Engineering, 20, 65± 72.
+Patterson, J.H. and Huber D. (1974) A horizon-varying, zero-one approach to project scheduling, Management Science, 20(6), 990± 8.
+Prager, W. (1963) A structural method of computing project cost polygons, Management Science, 9(3), 394± 404.
+Reda, R.M. (1986) Time-cost trade-off modeling of related activities by using mixed integer programming, thesis submitted to the University of Michigan, Ann Arbor, MI.
+Reda, R.M. and Carr, R.I. (1989) Time-cost trade-off among related activities, Journal of Construction Engineering and Management, ASCE, 115(3), 475± 86.
+Robinson, D.R. (1975) A dynamic programming solution to cost-time trade-off for CPM, Management Science, 22(2), 158± 66.
+Siemens, N. (1971) A simple CPM time-cost trade-off algorithm, Management Science, 17(6), 354± 63.
+
+
+
+
+
+
+266	Burns et al.
+
+Construction time-cost trade-off	267
+
+
+

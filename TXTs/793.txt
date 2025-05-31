@@ -1,0 +1,359 @@
+﻿A Review on Lean Construction for Construction Project 
+Management 
+Una revisión sobre Lean Construction para la Gestión de Proyectos de Construcción 
+ 
+G. Garcés 1*   C. Peña * 
+ 
+* Universidad de Playa Ancha, Valparaíso, CHILE  
+Fecha de Recepción: 20/01/2022 
+Fecha de Aceptación: 20/06/2022 
+Fecha de Publicación: 02/04/2023 
+PAG: 43-60 
+ 
+Abstract 
+The construction industry is an important part of the economic sector of a country, therefore, it is important to verify the new management systems that are implemented in the main construction industries of the world. This article makes a bibliographic review of the Lean Construction (LC) philosophy, introduced by Professor Lauri Koskela in 1992, based on the model used by the automobile industry in the 1980s, called “Lean production”. The theoretical bases of LC intend to see production in construction as a process of transformation, flow and value generator, consequently, the objective of Lean Construction is to create good production systems that allow optimizing, reducing, or eliminating flows to improve delivery times. Within the framework of creating Lean tools to improve the management of construction projects, the Last Planner System arises to improve the work scheduling process and the Integrated Project Delivery (IPD) model, which by unifying it with LC becomes the Lean Project Delivery System (LPDS) project execution system, which proposes the methodology to develop construction projects under five phases and 12 “Lean” stages, in which the development of tools that contribute to the generation of value. Finally, the 3D Building Information Modeling (BIM) modeling technology, although not part of LC, is an important help tool for the LPDS model, helping to better understand the construction processes of complex designs to save time in their construction. Under this paradigm, the emergence of new tools gives us a better vision of the future of Lean Construction. 
+Keywords: Lean Construction; Integrated Project Delivery; construction management; value creation; efficiency; Last Planner. 
+Resumen 
+La industria de la construcción es una parte importante del sector económico de un país, por lo que es importante verificar los nuevos sistemas de gestión que se implementan en las principales industrias de la construcción del mundo. Este artículo hace una revisión bibliográfica de la filosofía Lean Construction (LC), introducida por el profesor Lauri Koskela en 1992, a partir del modelo utilizado por la industria del automóvil en los años 80, denominado “Lean Production”. Las bases teóricas de LC pretenden ver la producción en construcción como un proceso de transformación, flujo y generador de valor, en consecuencia, el objetivo de Lean Construction es crear buenos sistemas de producción que permitan optimizar, reducir o eliminar flujos para mejorar los tiempos de entrega. En el marco de la creación de herramientas Lean para mejorar la gestión de proyectos de construcción, surge el Last Planner System para mejorar el proceso de programación de obra y el modelo Integrated Project Delivery (IPD), que al unificarlo con LC se convierte en Lean Project Delivery System (LPDS), que propone la metodología para desarrollar proyectos de construcción en cinco fases y 12 etapas “Lean”, en las que se desarrollan herramientas que contribuyan a la generación de valor. Finalmente, la tecnología de modelado 3D Building Information Modeling (BIM), aunque no es parte de LC, es una importante herramienta de ayuda para el modelo LPDS, ayudando a comprender mejor los procesos de construcción de diseños complejos para ahorrar tiempo en su construcción. Bajo este paradigma, el surgimiento de nuevas herramientas nos da una mejor visión del futuro de la Lean Construction. 
+Palabras clave: Lean Construction; Integrated Project Delivery; gestión de la construcción; creación de valor; eficiencia; Last Planner. 
+__________________ 
+ 
+1. Historical review 
+      The term “lean” originated in Japan in the late 1950s and early 1960s, as result of research conducted by engineers at the Toyota Motor car assembly company, which sought to improve its production line (Holweg, 2007). One of the most recognized on the subject was the engineer Taiichi Ohno, in charge of production, who sought to eliminate waste and improve delivery times of cars to customers by substituting traditional mass production for production at the customer’s request and also avoid the accumulation of merchandise (Holweg, 2007).  With the research, what is known as “Lean production” or “lossless production” was developed, which comprises a great variety of production systems that share the principle of minimizing losses (Ballard  and  Howell, 1999). Therefore, Lean is used for those production systems that optimize available resources, guaranteeing the reduction of product defects and a greater variety. 
+      With the development of the idea of lossless production, the TPS -Toyota Production System manufacturing process was created, which consists of minimizing inventories and defects in all operations (Hampson, 1999), to significantly improve factory production and finally cover 40% of the Japanese automotive market. 
+      The ideas that make up the TPS were developed and refined by industrial engineers, who established its theoretical framework and expanded the new approach to lossless production. By the 1980s, the information on this approach in the West was limited, however, the spread of TPS ideas to America and Europe began around 1975 in the automotive industry. Thus, at the beginning of the 90’s, the new production philosophy was already known in other latitudes, in different ways, among them “lossless production”, “new production system” or “world-class manufacturing”, and it was implemented in other fields such as administration and product development (Koskela, 1992). Therefore, during the 1990s, the Lean concept gradually spread from an operational level to a more strategic level in organizations (Lyons et al., 2013). In other words, the methodology started at the operational levels, passing through the executive levels and reaching the strategic levels. Operational plans are those that specify the details of how the objectives should be achieved, and strategic plans apply to the entire organization, establishing the objectives to position it in terms of the environment that surrounds it. 
+      Lauri Koskela (Koskela, 1992) began to implement this philosophy in the construction sector; the result of this is his work “Application of the new production philosophy to construction”, produced in the CIFE research group at Stanford University, in which he argued that production should be improved by eliminating material flows and that conversion activity would improve efficiency (Koskela et al., 2019; Lean Construction Institute, n.d.-a). 
+      The theoretical bases of LC proposed by Koskela intend to see production in construction as a process of transformation, flow and value generator, consequently, the objective of Lean Construction is to create good production systems that allow optimizing, reducing, or eliminating the flows to improve delivery times. In this sense, LC is new thinking in construction project management that challenges the current management guide of the Project Management Institute PMBOK, with a high boom in the United States, hence LC should not be conceived as a model or system in which only a few steps are followed, but as a thought directed to the creation of tools that generate value to the activities, phases and stages of construction projects. Understanding the value as the elimination of everything that produces losses in the execution of the same. 
+      Other researchers, such as Glenn Ballard, provided tools for the adaptation of “Lean” production to the construction sector. Ballard began working with Koskela after hearing him speak at a conference at the University of Berkeley, and together they formed the International Lean Construction Group, which emerged during the first conference on construction project management systems in 1993 in Helsinki, Finland, where it was decided to use, for the first time, the expression “Lean Construction” to refer to the implementation of the new production philosophy in the construction sector. 
+      Ballard pioneered the development of the Last Planner in 1992, based on the concept of reducing the hierarchical levels of construction management to optimize the process of allocating available resources in weekly planning, scheduling and job execution. Then, in 1998, he clarified the Last Planner, focusing on managing flows in the construction process. Then came what Ballard called Lean Project Delivery System, whose purpose is the theoretical approach to the methodology to manage “Lean” projects. 
+ 
+      In 1997 Glenn Ballard and Greg Howell created the Lean Construction Institute to develop and disseminate new knowledge in project management, since construction projects traditionally did not respect the principles of design and management of production processes Using the design-bid-build approach, it was not completely optimal to achieve good benefits, on the contrary, there were delays in the completion of most of them, cost overruns for builders and customers dissatisfied with delays (Koskela et al., 2019). 
+      Although the principles behind the “Lean” philosophy, such as improving construction project execution models, maximizing customer value and minimizing losses (Bajjou  and  Chafi, 2020b); (Bertelsen, 2004), were known, it was Lauri Koskela who formulated, in 2000, after ten years of research; then in 2002, Glenn Ballard improved them (Ballard et al., 2002). 
+      Thus, Lean Construction is the adaptation and application of the production principles of Japanese manufacturing to construction, in which it is assumed that this is a special type of production (Bertelsen, 2004). 
+      That said, this research begins with a comprehensive review of the relevant literature from the last 25 years, according to the Web of Science and Scopus database. The literature review provided an up-to-date understanding of the existing knowledge about project managers. (Toor and Ofori, 2008) recognized that qualitative research methods are characterized by the assumption that human behavior can be explained by social facts. Therefore, it was applied as evidence for the research methodology adopted in this research. The general methodology of this investigation is shown in (Figure 1) and detailed sequentially in the following subsections. 
+ 
+2.  What is Lean Construction? 
+2.1 	Definition 
+      According to the Lean Construction Institute (ILC), Lean Construction is a philosophy that is oriented towards the management of construction productions and its main objective is to reduce or eliminate the activities that do not add value to the project and optimize the activities that do. For this reason, it focuses mainly on creating specific tools applied to the project execution process and a good production system that minimizes waste (Bajjou and Chafi, 2020b); (Lean Construction Institute, n.d.-c); (Mohd Arif Marhani et al., 2013). Understanding waste as everything that does not generate value for the activities necessary to complete a production unit, LC classifies construction waste into seven categories (Al-Aomar, 2012): 
+• Excessive inventories. 
+• Unnecessary transportation. 
+• Delay Defects. 
+• Excess production. 
+• Unhelpful movement of people. 
+• Excess processing. 
+ 
+ 
+      Categories in traditional management are not taken into account because the current production concept is wrong when considering it as a process of the only transformation where materials enter and production units are obtained, forgetting to optimize the flows that these materials have to follow to achieve get the product. 
+      The proposal of the production concept of the “Lean” philosophy is to see it as a transformation of materials, a flow of resources and a generation of value, for example, in the making of a wall the bricks glued with mortar are transformed into square meters of the wall the flow is the use of resources and materials to make the wall and the value is the number of square meters of the wall that are achieved in a given time. The objective of LC is to optimize the transformations by minimizing or eliminating the flows that the materials must follow to the places of execution of the works to obtain more value in the final products (Avelar et al., 2019); (Igwe et al., 2020); (Martinez et al., 2019). The error of traditional thinking in construction is to focus on conversion activities and not take into account the flow of resources to achieve the generation of more value in the products obtained (Avelar et al., 2019); (Senaratne  and Wijesiri, 2008); the model proposed by Lean Construction transformationflow-value or TFV, which is illustrated in (Figure 2). 
+ 
+
+Figure 1. General investigation process. 
+Source: Adapted by (Cooper, 2015); (MacKinnon, 2012); (Sierra et al., 2018). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Figure 2. Lean production model or TFV. 
+Source: Adapted by (Bajjou and Chafi, 2020a); (Díaz et al., 2014); (Ogunbiyi et al., 2014). 
+ 
+As an example, for the construction of a wall, the traditional production model se and the transformation-flowvalue model is observed in (Figure 3.) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Figure 3. Example of the “traditional model” and of the “TFV model” for a masonry wall. 
+Source: Adapted by (Bajjou and Chafi, 2020a); (Díaz et al., 2014); (Ogunbiyi et al., 2014); (Perez and Ghosh, 2018). 
+ 
+ 
+      With the basic idea of production that arises in the LC philosophy, the objective is to design production systems to minimize or eliminate the waste of materials and excessive waste production, in order to generate the maximum amount of value (Koskela et al., 2002). 
+      The main flaw in the theoretical base is that it is based on two theories, that of projects that poses construction as a theory of transformation, and the theory of management equals planning, where the PMI approach focuses all attention on the planning, little in control and almost nothing in execution (Sánchez, 2012); (Uusitalo et al., 2019). 
+      One of the most effective ways to increase construction efficiency is by improving the planning and control process. In the LC philosophy, planning and control are complementary and dynamic processes, where planning defines the criteria and creates the necessary strategies to achieve the objectives of the project and control ensures that each event will occur after the planned sequence (Aziz and Hafez, 2013). 
+      To control variability in planning, the LC philosophy proposes the Last Planner System (LPS), one of the most useful tools in the application of LC. Alan Mosmman defines the Last Planner as a system for the collaborative management of the network of relationships and conversations required for the coordination of the programming, production, planning and execution of projects (Mossman, 2005). 
+      The last planner increases the reliability in the planning of projects and in turn reduces the uncertainty in these, which causes improvements in performance; this increase in reliability is generated by implementing intermediate and weekly schedules, framed within a master or general project plan. The obstacles that prevent the development of the tasks are analyzed, and by determining them it is possible to act before they happen and thus carry out the activities without interruptions (Aziz and  Hafez, 2013). 
+      Lean Construction is a new way of looking at production, not a blueprint or set steps to follow; the aim is to understand its principles and apply them in the creation and use of “Lean” tools for the management of construction projects, where the tools are the application of theoretical principles to professional practice (Ahmed and Sobuz, 2019); (Albalkhy and Sweis, 2021); (Carvajal-Arango et al., 2019). 
+      One of these “Lean” tools is the Last Planner developed by Glenn Ballard and Greg Howell as a production planning system, designed to generate a predictable and fast workflow in the programming, design, construction and commissioning of the projects (Ballard and Howell, 1999); (Lean Construction Institute, n.d.b). 
+      The integral philosophy of Lean Construction has specified with the management model LPDS (Lean Project Delivery System) or Lean project delivery system, whose mission is to develop the best possible way to design and build infrastructures (Alarcón and Armiñana, 2009); (Forbes and Ahmed, 2020b). LPDS was developed to cover the entire life cycle of projects from inception to delivery (Forbes and Ahmed, 2020b); (Mossman et al., 2013) and proposes to manage construction projects considering five phases and fourteen modules, using concepts and techniques aimed at maximizing value for the client and minimizing losses in production (Construction Industry Institute, 2007). 
+      For the implementation of Lean Construction in projects, it is necessary to start with the commitment to have a culture of continuous improvement of production so that by applying the “Lean” principles correctly they improve the safety, quality and efficiency of the project (Issa, 2013). In other words, for LC to function, its principles must be applied concretely to project activities. Lauri Koskela proposes eleven principles (Koskela, 2020): 
+• Increase in the value of the product. 
+• Reduction of variability. 
+• Process simplification. 
+• Reduction or elimination of activities that do not add value. 
+• Continuous improvement of the process. 
+• Reduction of cycle time. 
+• Increased flexibility of production. 
+• Transparency of the process. 
+• Referencing. 
+• Control approach to the entire process. 
+• Balance of flow improvement with conversion improvement. 
+ 
+ 
+      These “Lean” principles are only possible to fully and effectively apply in the construction industry if the interested party in applying them focuses on improving the entire project management process, on integrating stakeholders into the project to conceive the new production approach proposed by LC principles (Marhani et al., 2012). 
+      The study concludes that the lack of optimization of the subprojects that make up a building has the highest percentage of incidence in total losses; this is where the Lean Construction philosophy intervenes to try to eliminate all these causes and obtain better returns from the activities that do generate value for the project. The identification of activities that add or not value to the project is achieved through the implementation of a value chain where, mainly, some activities are identified and distinguished from others, such as the pouring of concrete for the plates is an activity that generates value to the process, but the delay time of the mixer is an activity that detracts from it. The value chain is important since the objective of Lean Construction thinking is to eliminate activities that do not add value, logistics is also a process that lossless construction tries to optimize to the maximum to reduce costs and meet delivery deadlines before the estimated times. 
+2.2  	Lean Construction Tools 
+      For Lean Construction to work, it is necessary to use a series of tools that simplify its use and that allow the theoretical principles of philosophy to be put into professional practice. These tools are: 
+2.2.1  Last Planner System 
+      The Last Planner System was developed by Glenn Ballard and Greg Howell within the framework of the Lean construction philosophy as a production planning and control system to improve variability in construction sites and reduce uncertainty in scheduled activities (Ballard and Howell, 1999); (Patel, 2011). Basically, the Last Planner System is a practical approach in which construction managers and team leaders collaborate to prepare work plans that can be executed with a high degree of reliability to improve work stability (Kalsaas, 2012). 
+      The system proposed by Ballard and Howell better controls planning uncertainty by overcoming obstacles such as turning planning into a system, measuring the performance of the planning system application, and analyzing and identifying mistakes made in planning (Botero and Álvarez, 2005). 
+Traditional planning with critical path methods does not control variability, on the other hand, the Last 
+Planner System, by adding a production control component to traditional project management (Rodríguez et al., 2011), can be understood as a mechanism for transforming what needs to be done into what can be done, thus forming weekly work plans through assignments (Lerche et al., 2020); (Perez and Ghosh, 2018). 
+      The last planner is the person or group responsible for operational planning, that is, for structuring product design to facilitate better workflow and control of production units (Salem et al., 2005), which is equivalent to carrying out individual jobs at the operational level. 
+      This new planning system also introduces a new concept of what planning is. For the Last Planner, planning is determining what should be done to complete a project and deciding what will be done taking into account that due to certain restrictions not everything can be done (Mestre, 2013). 
+      The Last Planner System contrasts with current planning concepts of field managers, foremen and works execution supervisors, since they traditionally plan based on what needs to be done without being completely certain whether they can have the necessary resources to implement it (Daniel et al., 2019); (Mestre, 2013). 
+      According to Ballard, the traditional planning planning scheme is as shown in (Figure 4). This researcher assures that said scheme is poorly suited to face uncertainty and variability in construction, since the structure itself creates great uncertainty by not controlling the restrictions that the planned activities may have. 
+
+ 
+Figure 4. Traditional planning system. 
+Source: Adapted by (Ballard and Howell, 1999); (Ballard, 2000). 
+       To improve the selection of activities that can be done and thus have full confidence that they will be done, Ballard proposes the Last Planner System, thus modifying the scheduling process and site control to increase planning reliability and increase performance in work. Ballard’s model is shown in (Figure 5). 
+ 
+
+Figure 5. Lean Planning System. 
+Source: Adapted by (Ballard, 2000); (Choo et al., 1999); (Lerche et al., 2020). 
+ 
+      In this way, the Last Planner controls more effectively the execution of the activities necessary to complete the project, making sure that what is planned to be done in the work will actually be done and thus avoid work stoppages that lead to wasted time that delay the project and result in economic detriment (Kim and Ballard, 2010). The change causes an improvement in workflows and facilitates better control of the variability of construction projects (Bhatt et al., 2021). 
+That said, the benefits that the implementation of the Last Planner System brings are: 
+• Increased safety on-site. 
+• Helps stabilize production. 
+• Facilitates proactive control. 
+• Reduce waiting times. 
+• Foster effective relationships. 
+• Works on projects large and small. 
+• Add value to the project. 
+• Reduces the costs of specialized personnel on-site. 
+• Encourages value, flow, and transformation. 
+ 
+2.2.2 Structure of the Last Planner System 
+      The structure of the Last Planner System is shown in (Figure 6), it is developed in three different levels of planning, from the most general to the most specific, thus proposing a cascade planning model that is based on the principle of systematic work, where the Planning is carried out at the lowest level of the hierarchy of planners, that is, the last person or group that has to do with the supervision of the works on-site (the last planner). The philosophy is to ensure that all the prerequisites necessary to perform a job are in place before assigning work crews to activities (Shang and Sui, 2014). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ • WILL
+ 
+Figure 6. Lean planning system. 
+Source: Adapted by (Ballard, 2000); (Botero and Álvarez, 2005). 
+ 
+      According to Ballard, all tasks have three categories: must, can and will be done. These reflect each level of planning as follows: the master schedule indicates what to do, the intermediate schedule prepares the work and reviews the constraints, and the weekly plan schedules a series of activities that can be executed by committing the agents to comply with the program. 
+2.3.  	Project execution models 
+      The project execution models are diverse and are used to facilitate the construction of buildings. The choice of the model depends on the owner of the project and the entities that know what will be executed in the work. 
+      In the United States towards the 1980s, experts and those interested in better organizing construction projects tried to get the parties to have common objectives of cooperation in the execution of the projects, but without great success, personal interests prevailed and conflicts were generated that harmed the project. 
+      Around 1990, the Integrated Project Delivery (IPD) model emerged, which translates as integrated project execution, and defines the way to organize all the people who work on the project in a collaborative workgroup together with the client to better understand the ideas that each one wishes to contribute, in the end the methodology to be followed will be the intersection of all those ideas about the design and the construction stages, in this way the execution of construction projects is improved (Elghaish et al., 2019); (Zhang et al., 2013). 
+      As already established, the main objective of the Lean Construction philosophy is the generation of value through the appropriate tools and models for it; the IPD model is intended to solve the lack of cooperation between the parties involved in the project and change the attitudes of individualism that generate inefficiencies and losses, and constitute obstacles to the creation of value. 
+      The IPD model competes with the traditional project execution model known as bid-build, and which generally uses the design-bid-build route as its implementation methodology. In (Figure 7) the contrasts of both methodologies can be observed. In the traditional model, the higher process builders do not enter the project until the design has been substantially completed, in the IPD model the entire team understands what the customer wants and how the project will be delivered (Mossman et al., 2013). Since the execution is integrated, relationships are optimized to improve the delivery times of a construction project through greater participation of the owner. 
+ 
+Figure 7. The traditional model of project execution vs the integrated model. 
+Source: Adapted by (Ilozor and Kelly, 2012); (Mossman et al., 2013). 
+      According to Greg Howell, IPD is a set of business conditions that unite the parties in an entity where they share the success or failure of the project. These practices are supported by the Lean project management model LPDS (Lean Project Delivery System) or Lean Project Delivery System, which is understood as the operating system for managing project work. The LPD model encompasses cooperation through the formation of a team made up of the architect, the builder and all other critical parts of the project, who must be treated as agents in the search for shared objectives (Cleves and Michel, 1999). 
+      On the other hand, the building design process in terms of improving the performance of the construction industry is key (Tzortzopoulos and Formoso, 1999), since one of the most important phases in the generation of a construction project is its definition, a process in which the purpose of the project and the development of the means to achieve it are defined. The process produces, in a first stage, the planning and design phases of physical facilities that require capital investment (Whelton, 2004). 
+      The LPDS model takes the important phases of the project definition and adapts them to the LC methodology, which suggests that the client have conversations with designers and engineers to avoid future conflicts in the approach of project designs, with the help of BIM (Building Information Modeling) tools to better understand the project infrastructure and correct possible errors in the designs (Ballard, 2008); (Moghadam et al., 2012). 
+      Therefore, the LPDS is a Lean Construction own work methodology based on a comprehensive collaborative process. It facilitates the alignment of objectives of the different agents involved, resources and restrictions in the project, design, supply, execution and maintenance stages. The LPDS requires understanding the construction process as a value-generating process in which the different agents involved appear at the beginning of the project's conception. 
+2.4.  	Lean project execution system and Integrated Project Delivery 
+      The IPD (Integrated Project Delivery) model is based on a high collaboration between the client, the designer and the general contractor, from the initial phases of the design to the commissioning of the building, focusing its objectives on improving human resource relations in construction projects by changing the moments in which the project developers intervene to increase the level of understanding of the project and shorten its phases. Therefore, the IPD strategy is characterized by the early involvement of the main actors in the project design phases in an environment of cooperation, innovation and coordination, focusing on optimizing resources, processes and activities to effectively complete the project. 
+      By applying Lean Construction to the IPD model, the result is the “Lean” project execution system LPDS (Lean Project Delivery System) (Mossman, 2013), which takes the best of IPD and LC to align people, systems, business processes and practices to harness the talents and ideas of participants to optimize customer value, reduce waste, and maximize efficiency through all phases of design, manufacturing, and construction ( Ballard and Howell, 2003). 
+      A project is defined as the means to achieve the realization of a conceived idea. This is the fundamental form of repetitive manufacturing production systems, and construction is included in these temporary production systems, and is called “Lean” when it is made to deliver the product in a time that maximizes value and minimizes waste (Bhatt et al., 2021). The main objective of the LPD system is to develop theories, rules and tools for project management. The management of “Lean” projects differs from traditional management not only in the objectives pursued, the most notable differences are the structure of the phases, the relationship between them and who participates in them (Forbes and Ahmed, 2020b). 
+      With the LPD model, the Lean Construction philosophy covers the entire life of the construction project, and by integrating the design phase with the production phase, it unites all the agents involved in a continuous collaborative process, whose objective is to generate value for the project to the client. The theoretical model of LPDS is described in (Figure 8) as a set of five phases and eleven stages of practical development that are controlled by a continuous learning module to learn from the mistakes made in each stage of applying LPDS to the project. 
+      Therefore, the theoretical structure observed in (Figure 8) of the LPDS system is very different from that of the traditional design-bid-build project execution system since it develops the project in more complete phases and aims to solve problems that occur in the traditional model in the phase of design, for example, designers generally propose designs without knowing very well what the client wants and when the construction stage arrives, it costs a lot of money to fix them, errors due to lack of communication between those involved in both phases, what LPDS proposes is the formation of a single team made up of the client, architects, builders and other important players in the search for a common goal, and this would be the progress of the project to culminate in a better time. 
+ 
+Figure 8. Lean Project Delivery System. 
+Source: Adapted by (Ballard, 2008); Lean Construction Institute.  
+      The IPD model is based mainly on collaboration and talking about collaboration is synonymous with trust between the parties that develop the project, IPD generates good results as long as people respect each other and focus on obtaining good results for the project and not deviate from achieving individual goals. 
+In order to meet the above objectives on the alignment of people, IPD establishes the following principles (Lind, 2012): 
+• Appropriate technology. 
+• Collaborative innovation and decision making. 
+• Organization and leadership. 
+• Early definition of objectives. 
+• Intensified planning. 
+• Mutual benefit and reward. 
+• Mutual respect and trust. 
+• Open communication. 
+      The reason why the IPD model sets itself apart is that it integrates the owner, the design team and the contractor, from the initial design stage to completion, the key to successfully executing an IPD project it is the formation of a work team that is committed to the collaborative process and is capable of working together and effectively (Durugbo et al., 2014); (Pishdad-Bozorgi and Beliveau, 2016). 
+2.5. 	BIM as a Lean Construction tool 
+      The concept of Building Information Modeling (BIM) is defined according to the National Institute of Construction Sciences (National Institute of Building Sciences, 2007), as the act of creating an electronic model of an installation, with the purpose of visualization, energy analysis, conflict analysis, criteria verification key, cost engineering, obtaining products according to the actual execution “as-built”, budget, etc. On the other hand, the BIM concept is defined as the digital representation of the physical and functional characteristics of an installation. And as such, it serves as a source of shared knowledge for information about the facility, forming a trusted basis for decision-making throughout its lifecycle, from the beginning onward. 
+      In summary, BIM can be identified as a modern construction management process that allows users to create parametric models based on multidimensional objects that are the tool to manage construction projects throughout their life cycle (Eadie et al., 2013); (Hannele et al., 2012); (Wong and Zhou, 2015); (Xu et al., 2014). And, to carry out the process, various computer tools and methods are used. That is why two main groups can be distinguished in BIM projects: tools and methodology (Race, 2012). In the group of tools is the different software. On the other hand, the methodology is more complex, since it establishes how the tools interact, how they should be used by users and how users interact with each other. 
+      Today, BIM represents the great innovation in the construction industry with the introduction of Information and Communication Technologies (ICT), which is the great revolution in the traditional construction sector (Alsafouri and Ayer, 2018); (Olawumi and Chan, 2019); (Succar, 2009). The BIM methodology is spreading around the world with the promise of much better, more efficient and higher quality construction projects, with a very positive impact on reducing project life cycle costs. 
+      Building Information Modeling (BIM) is the process of generating and modeling construction data throughout its life cycle. It is also a tool and a process that increases productivity and precision in the design and construction of buildings. For dynamic modeling of construction, BIM uses software in three dimensions and operates in real-time with the continuous availability of project design, scope, schedule, and cost information that must be of high quality, reliable, integrated and fully coordinated. The entire process produces the building model, including its geometry, geographic information, the quantities of work and the properties of the building’s components (Becerik-Gerber et al., 2012); (Gerber et al., 2010). 
+      BIM is seen as an emerging approach that will assist the construction industry in achieving Lean Construction objectives, eliminating losses, reducing costs, improving work team productivity, and positive project outcomes. Detailed case studies have shown that currently BIM and LC act separately, so future research should seek a joint practice of both paradigms resulting in the broadening of the definition of BIM as a “Lean” process (Forbes and Ahmed, 2020a). 
+      As the fundamental principle of “Lean” is to reduce or eliminate waste, BIM addresses many aspects of the waste that occurs, first in the design phases, and then in the construction phase. As the design concept develops, designers, owners, and builders can make decisions to avoid concentrations of waste on-site. Traditional reviews of the construction process without using BIM are time-consuming and costly (Heigermoser et al., 2019); (Sacks et al., 2010). 
+      Lean Construction and BIM are two different initiatives in the construction industry, but some of the principles of BIM can positively affect Lean Construction principles to improve construction projects (Dave et al., 2013); (Heigermoser et al., 2019). 
+      “Lean” in its simplest form means the elimination of waste from everything we do, and when applied to construction it provides a way to deliver high performance in all categories measured, including quality, cost, delivery, profitability and sustainability (Ilozor and Kelly, 2012) 
+      The union of BIM and IPD models promises to provide efficiency, cost savings and increased productivity in the construction sector. Research in the union of both approaches maintains that the use of an integrated BIMIPD model has a positive impact on the execution of construction projects (Sacks et al., 2010). (Table 1) presents the benefits of both methodologies. 
+ 
+Table 1. Benefits of BIM and IPD. 
+Benefits BIM IPD Planning and conceptualization X X Quality X  Design and pre-construction X X Construction 	and 	operations management X  Achievement  X Manufacturing X   Schedule X X Cost X X Work and project dynamics  X Source: Taken from Interaction of lean and Building Information Modeling in construction, from (Sacks et al., 2010). 
+      Despite being different initiatives, Lean Construction and Building Information Modeling are having a profound impact on the construction industry. Rigorous analyzes demonstrate specific interactions between initiatives, most interactions indicate that there is a synergy that, if correctly understood in theoretical terms, can be harnessed to improve construction processes beyond the degree to which they could be improved by applying these two paradigms independently (Moghadam et al., 2012). 
+      As different concepts applied independently provide a profound impact on improving project development, the theoretical evidence found in research papers shows that there would be a potential gain if BIM and “Lean” are used together (Tauriainen et al., 2016). 
+3.  Lean Construction Trends 
+      Lean Construction is postulated as a new way of thinking in the management of construction projects. Since Professor Lauri Koskela elaborated his theoretical foundation in 1992, research advances have been stronger and stronger and brought to practical application, that is  (Koskela, 1992), researchers create the theoretical bases of tools based on the LC philosophy and the Construction companies have implemented them in their construction projects, showing that Lean Construction tools offer a clear improvement in cost savings and construction times (Aslam et al., 2020a), (Aslam et al., 2020b); (Francis and Thomas, 2020).  
+      The most notable advance of the implementations of “Lean” tools is in the United States, Lean Construction with its philosophy of improving the concept of productivity has reflected excellent impacts in the main North American companies, such as Sutter Health in which “Lean” articles and tools are developed to improve their construction processes (Brandao de Souza, 2009); (van Rossum et al., 2016). 
+      The Lean Construction philosophy is a growing trend in the construction sector due to the benefits it brings to the improvement of production in projects, proof of its growth is its worldwide expansion and the theoretical growth of the scope of its implementation in the phases of projects, first emerged as an approach to improve the concept of traditional production that was had on construction, then focused on reformulating the concept of planning and control of works achieving excellent benefits of improvement for the planning phase under construction (Gao and Low, 2014); (Hofacker et al., 2008); (Teizer et al., 2020), Today it is present in all stages of the project’s development and encompasses its entire life cycle with the LPDS model, a more global concept to develop a construction project. Research trends in the world today are focused on making BIM technologies part of the theoretical bases of Lean Construction (Dave et al., 2013); (Forbes and Ahmed, 2020a). Experts assure that the redefinition of the BIM concept as part of the Lean construction philosophy would generate maximum benefits in construction projects. Future research in the Lean construction field will address the development of rigorous methodologies to quantify, and then test, the effects that the notions of a unified BIM-LC model would bring. 
+      It is stated that the advance of Lean Construction is increasingly rapid and that it is encompassing all current methodologies that are known about the execution of construction projects and we must be at the forefront of these investigations and innovate in the future of Lean Construction. 
+4.  Conclusions 
+      Lean Construction as a construction project management model raises a better methodology to manage projects, changing the current paradigm of seeing construction as a transformation model only for a TFV (transformation-flow-value) model since omitting to optimize the methodologies necessary to achieve a constructive unit and rely only on a model where the raw material is transformed into a product is not viable for construction (for example, the construction of square meters of the wall) because it generates waste of resources on-site that they can reach cases of approximately 30% of waste. 
+      The project execution strategies correspond to the way in which the client materializes the phases of the construction projects, establishing the different participating companies, when they join the project, how responsibilities are distributed, among other aspects. Everything defined in this process is established in the contracts between the project owner and the different Engineering and Construction companies. One of the main problems that the traditional project execution strategies show is that in general they are developed under an environment where each participating company seeks to obtain the greatest benefits with the least possible effort, in a vertical hierarchical structure (client-designers-builders) where each actor engages in the development of their own work, rarely getting involved with other specialties. The project execution strategy known as Integrated Project Delivery (IPD), seeks to solve the main problems generated by commonly used execution strategies. 
+      The uncertainty that the PMI approach generates in the project scheduling phase through critical path methods is one of the errors that the LC corrects through the application of the Last Planner System with the insertion of the cascade planning that the program takes that is traditionally obtained with the Gantt chart as a very general planning and breaks it down into shorter and specific schedules that generate weekly work plans with a high probability of being fulfilled to avoid delays in work due to problems in poor planning is proposed change the traditional critical path planning method for the Last Planner System. 
+ 
+ 
+5. References 
+Ahmed, S.,  and  Sobuz, M. H. R. (2019). Challenges of implementing lean construction in the construction industry in Bangladesh. Smart and Sustainable Built Environment, 9(2), 174–207. https://doi.org/10.1108/SASBE-02-2019-0018 
+Al-Aomar, R. (2012). Analysis of lean construction practices at Abu Dhabi construction industry. Lean Construction Journal, 105–121. 
+Alarcón, L.,  and  Armiñana, E. (2009). Un nuevo enfoque en la gestión: la construcción sin pérdidas. Revista de Obras Públicas, 3496, 45–52. 
+Albalkhy, W.,  and  Sweis, R. (2021). Barriers to adopting lean construction in the construction industry: a literature review. International Journal of Lean Six Sigma, 12(12), 210-236  https://doi.org/10.1108/IJLSS12-2018-0144 
+Alsafouri, S.,  and  Ayer, S. K. (2018). Review of ICT Implementations for Facilitating Information Flow between Virtual Models and Construction Project Sites. Automation in Construction, 86, 176–189. https://doi.org/10.1016/j.autcon.2017.10.005 
+Aslam, M., Gao, Z.,  and  Smith, G. (2020a). Framework for selection of lean construction tools based on lean objectives and functionalities. International Journal of Construction Management, 1–12. https://doi.org/10.1080/15623599.2020.1729933 
+Aslam, M., Gao, Z.,  and  Smith, G. (2020b). Exploring factors for implementing lean construction for rapid initial successes in construction. Journal of Cleaner Production, 277, 123295. https://doi.org/10.1016/j.jclepro.2020.123295 
+Avelar, W., Meiriño, M.,  and  Tortorella, G. L. (2019). The practical relationship between continuous flow and lean construction in SMEs. The TQM Journal, 32(2), 362–380. https://doi.org/10.1108/TQM-05-2019-0129 
+Aziz, R. F.,  and  Hafez, S. M. (2013). Applying lean thinking in construction and performance improvement. Alexandria Engineering Journal, 52(4), 679–695. https://doi.org/10.1016/j.aej.2013.04.008 
+Bajjou, M. S.,  and  Chafi, A. (2020a). Identifying and Managing Critical Waste Factors for Lean Construction 
+Projects. Engineering Management Journal, 32(1), 2–13. https://doi.org/10.1080/10429247.2019.1656479 Bajjou, M. S.,  and  Chafi, A. (2020b). Lean construction and simulation for performance improvement: a case study of reinforcement process. International Journal of Productivity and Performance Management, 
+ahead-of-p(ahead-of-print). https://doi.org/10.1108/IJPPM-06-2019-0309 
+Ballard, G. (2008). The Lean Project Delivery System: An Update. Lean Construction Journal, 1–19. 
+Ballard, G.,  and  Howell, G. (1999). What is Lean Construction. Seventh Conference of the International Group for Lean Construction. 
+Ballard, G., Tommeleint, I., Koskela, L.,  and  Howell, G. (2002). Lean construction tools and techniques. In R. Best  and  G. de Valence (Eds.), Design and Construction: Building in Value (pp. 227–255). ButterworthHeinemann. 
+Ballard, Glenn,  and  Howell, G. (2003). Lean project management. Building Research  and  Information, 31(2), 119–133. https://doi.org/10.1080/09613210301997 
+Ballard, H. G. (2000). The last planner system of production control [University of Birmingham]. https://etheses.bham.ac.uk/id/eprint/4789/ 
+Becerik-Gerber, B. ., Ku, K. . c,  and  Jazizadeh, F. . (2012). BIM-enabled virtual and collaborative construction engineering and management. Journal of Professional Issues in Engineering Education and Practice, 138(3), 234–245. https://doi.org/10.1061/(ASCE)EI.1943-5541.0000098. 
+Bertelsen, S. (2004). Lean Construction: Where are we and how to proceed. Lean Construction Journal, 1(1), 46–69. 
+Bhatt, M. K., Pimplikar, S. S.,  and  Pandey, P. (2021). Elimination of Process Wastes in Construction by Using Last Planner® System (pp. 325–333). https://doi.org/10.1007/978-981-15-6463-5_31 
+Botero, L. F.,  and  Álvarez, M. E. (2005). Last Planner, un avance en la planificación y control de proyectos de construcción: estudio caso de la ciudad de Medellín. Ingeniería y Desarrollo, 17, 148–159. 
+Brandao de Souza, L. (2009). Trends and approaches in lean healthcare. Leadership in Health Services, 22(2), 121–139. https://doi.org/10.1108/17511870910953788 
+Carvajal-Arango, D., Bahamón-Jaramillo, S., Aristizábal-Monsalve, P., Vásquez-Hernández, A.,  and  Botero, L. F. B. (2019). Relationships between lean and sustainable construction: Positive impacts of lean practices over sustainability during construction phase. Journal of Cleaner Production, 234, 1322–1337. https://doi.org/10.1016/j.jclepro.2019.05.216 
+Choo, H. J., Tommelein, I. D., Ballard, G.,  and  Zabelle, T. R. (1999). WorkPlan: Constraint-Based Database for Work Package Scheduling. Journal of Construction Engineering and Management, 125(3), 151–160. https://doi.org/10.1061/(ASCE)0733-9364(1999)125:3(151) 
+Cleves, J.,  and  Michel, J. (1999). Lean Project Delivery: a winning strategy for construction and real estate development. Grant Thornton Publications. 
+Construction Industry Institute. (2007). Lean implementation at the project level. Cooper, B. (2015). An Introduction to Moderated Mediation. 
+https://www.deakin.edu.au/__data/assets/pdf_file/0003/681024/Moderated-mediation.pdf 
+Daniel, E. I., Pasquire, C.,  and  Dickens, G. (2019). Development of Approach to Support Construction 
+Stakeholders in Implementation of the Last Planner System. Journal of Management in Engineering, 35(5), 04019018. https://doi.org/10.1061/(ASCE)ME.1943-5479.0000699 
+Dave, B., Koskela, L., Kiviniemi, A., Owen, R. L.,  and  Tzortzopoulis, P. (2013). Implementing lean in construction: Lean construction and BIM-CIRIA Guide C725. https://eprints.qut.edu.au/71034/ 
+Díaz, H. P., Rivera, O. G.,  and  Guerra, J. A. (2014). Filosofía Lean Construction para la gestión de proyectos de construcción. Avances: Investigacion En Ingeniería, 11(1), 32–53. 
+Durugbo, C., Tiwari, A.,  and  R. Alcock, J. (2014). Managing integrated information flow for delivery reliability. 
+     Industrial Management  and  Data Systems, 114(4), 628–651. https://doi.org/10.1108/IMDS-10-2013-0430 Eadie, R., Browne, M., Odeyinka, H., McKeown, C.,  and  McNiff, S. (2013). BIM implementation throughout the UK construction project lifecycle: An analysis. Automation in Construction, 36, 145–151. https://doi.org/10.1016/j.autcon.2013.09.001 
+Elghaish, F., Abrishami, S., Hosseini, M. R., Abu-Samra, S.,  and  Gaterell, M. (2019). Integrated project delivery with BIM: An automated EVM-based approach. Automation in Construction, 106, 102907. https://doi.org/10.1016/j.autcon.2019.102907 
+Forbes, L. H.,  and  Ahmed, S. M. (2020a). Information and communication technology/Building Information Modeling (BIM). In Lean Project Delivery and Integrated Practices in Modern Construction (pp. 125–149). Routledge. 
+Forbes, L. H.,  and  Ahmed, S. M. (2020b). Lean Project Delivery and Integrated Practices in Modern Construction. Routledge. 
+Francis, A.,  and  Thomas, A. (2020). Exploring the relationship between lean construction and environmental sustainability: A review of existing literature to decipher broader dimensions. Journal of Cleaner Production, 252, 119913. https://doi.org/10.1016/j.jclepro.2019.119913 
+Gao, S.,  and  Low, S. P. (2014). Lean construction management. In Lean Construction Management (pp. 27– 48). Springer. 
+Gerber, D. J., Becerik-Gerber, B.,  and  Kunz, A. (2010). Building Information Modeling and Lean Construction: 
+Technology, Methodology and Advances from Practice (2010). 18th Annual Conference of the International Group for Lean Construction. https://doi.org/10.1.1.705.8213 
+Hampson, I. (1999). Lean Production and the Toyota Production System Or, the Case of the Forgoften Production Concepts. Economic and Industrial Democracy, 20(3), 369–391. https://doi.org/10.1177/0143831X99203003 
+Hannele, K., Reijo, M., Tarja, M., Sami, P., Jenni, K.,  and  Teija, R. (2012). Expanding uses of building information modeling in life-cycle construction projects. Work, 41, 114–119. https://doi.org/10.3233/WOR2012-0144-114 
+Heigermoser, D., García de Soto, B., Abbott, E. L. S.,  and  Chua, D. K. H. (2019). BIM-based Last Planner System tool for improving construction project management. Automation in Construction, 104, 246–254. 
+https://doi.org/10.1016/j.autcon.2019.03.019 
+Hofacker, A., Oliveira, B. F., Gehbauer, F., Freitas, M. D., Mendes Júnior, R., Santos, A.,  and  Kirsch, J. (2008). Rapid lean construction-quality rating model (LCR). 16th International Group for Lean Construction Conference (IGLC16), 1–11. 
+Holweg, M. (2007). The genealogy of lean production. Journal of Operations Management, 25(2), 420–437. https://doi.org/10.1016/j.jom.2006.04.001 
+Igwe, C., Hammad, A.,  and  Nasiri, F. (2020). Influence of lean construction wastes on the transformation-flowvalue process of construction. International Journal of Construction Management, 1–7. https://doi.org/10.1080/15623599.2020.1812153 
+Ilozor, B. D.,  and  Kelly, D. J. (2012). Building Information Modeling and Integrated Project Delivery in the Commercial Construction Industry: A Conceptual Study. Journal of Engineering, Project, and Production Management, 2(1), 23–36. https://doi.org/10.32738/JEPPM.201201.0004 
+Issa, U. H. (2013). Implementation of lean construction techniques for minimizing the risks effect on project construction time. Alexandria Engineering Journal, 52(4), 697–704. https://doi.org/10.1016/j.aej.2013.07.003 
+Kalsaas, B. T. (2012). The Last Planner style of planning: its basis in learning theory. Journal of Engineering Project and Production Management, 2(2), 88–100. 
+Kim, Y.-W.,  and  Ballard, G. (2010). Management Thinking in the Earned Value Method System and the Last 
+Planner 	System. 	Journal 	of 	Management 	in 	Engineering, 	26(4), 	223–228. https://doi.org/10.1061/(ASCE)ME.1943-5479.0000026 
+Koskela, L. (1992). Application of the new production philosophy to construction. Stanford University. 
+Koskela, L. (2020). Theory of lean construction. In Lean Construction: Core Concepts and New Frontiers (pp. 2–13). 
+Koskela, L., Huovila, P.,  and  Leinonen, J. (2002). Design management in building construction: from theory to practic. Journal of Construction Research, 03(01), 1–16. https://doi.org/10.1142/S1609945102000035 
+Koskela, Lauri, Ferrantelli, A., Niiranen, J., Pikas, E.,  and  Dave, B. (2019). Epistemological Explanation of Lean Construction. Journal of Construction Engineering and Management, 145(2), 04018131. 
+https://doi.org/10.1061/(ASCE)CO.1943-7862.0001597 
+Lean 	Construction 	Institute. 	(n.d.-a). 	History 	Lean 	Construction 	Institute. 	HISTORY. 
+http://www.leanconstruction.org/about-us/history/ 
+Lean 	Construction 	Institute. 	(n.d.-b). 	Last 	Planner 	®. 	Retrieved 	December 	9, 	2020, 	from 
+http://www.leanconstruction.org/training/the-lastplanner/ 
+Lean Construction Institute. (n.d.-c). What is Lean Construction. Retrieved October 9, 2020, from http://www.leanconstruction.org/about-us/%0Awhat-is-lean-construction/ 
+Lerche, J., Neve, H. H., Ballard, G., Teizer, J., Wandahl, S.,  and  Gross, A. (2020). Application of Last Planner System to Modular Offshore Wind Construction. Journal of Construction Engineering and Management, 146(11), 05020015. https://doi.org/10.1061/(ASCE)CO.1943-7862.0001922 
+Lind, D. (2012). Integrated project delivery for building new airport facilities. Journal of Airport Management, 6(3), 207–216. 
+Lyons, A. C., Vidamour, K., Jain, R.,  and  Sutherland, M. (2013). Developing an understanding of lean thinking| in 	process 	industries. 	Production 	Planning 	 	and 	 	Control, 	24(6), 	475–494. https://doi.org/10.1080/09537287.2011.633576 
+MacKinnon, 	D. 	(2012). 	Introduction 	to 	Statistical 	Mediation 	Analysis. 	Routledge. 
+https://doi.org/10.4324/9780203809556 
+Marhani, M. A., Jaapar, A.,  and  Bari, N. A. A. (2012). Lean Construction: Towards enhancing sustainable construction in Malaysia. Procedia-Social and Behavioral Sciences, 87–98. 
+Marhani, Mohd Arif, Jaapar, A., Bari, N. A. A.,  and  Zawawi, M. (2013). Sustainability Through Lean Construction Approach: A Literature Review. Procedia - Social and Behavioral Sciences, 101, 90–99. https://doi.org/10.1016/j.sbspro.2013.07.182 
+Martinez, E., Reid, C. K.,  and  Tommelein, I. D. (2019). Lean construction for affordable housing: a case study in Latin America. Construction Innovation, 19(4), 570–593. https://doi.org/10.1108/CI-02-2019-0015 Mestre, I. S. (2013). Last Planner System. 
+Moghadam, M., Alwisy, A.,  and  Al-Hussein, M. (2012). Integrated BIM/Lean Base Production Line Schedule Model for Modular Construction Manufacturing. Construction Research Congress 2012, 1271–1280. https://doi.org/10.1061/9780784412329.128 
+Mohd Arif Marhani, Aini Jaapar, Nor Azmi Ahmad Bari, Mardhiah Zawawi, (2013), Sustainability Through Lean Construction Approach: A Literature Review, Procedia - Social and Behavioral Sciences, Volume 101, 2013,  Pages 90-99, ISSN 1877-0428, https://doi.org/10.1016/j.sbspro.2013.07.182. 
+Mossman, A. (2005). Last Planner overview: collaborative program coordination. 
+Mossman, A. (2013). Last Planner®: 5+ 1 crucial  and  collaborative conversations for predictable design  and  construction delivery (Vol. 26). 
+Mossman, A., Ballard, G.,  and  Pasquire, C. (2013). Lean Project Delivery–innovation in integrated design  and  delivery. In The Design Manager’s Handbook (pp. 165–190). Wiley-Blackwell. 
+National Institute of Building Sciences. (2007). National Building Information Modeling Standard – Version 1 – Part1: Overview, principles and methodologies, National Institute of Building Sciences. 
+Ogunbiyi, O., Goulding, J. S.,  and  Oladapo, A. (2014). An empirical study of the impact of lean construction techniques on sustainable construction in the UK. Construction Innovation, 14(1), 88–107. https://doi.org/10.1108/CI-08-2012-0045 
+Olawumi, T. O.,  and  Chan, D. W. M. (2019). Development of a benchmarking model for BIM implementation in developing countries. Benchmarking: An International Journal, 26(4), 1210–1232. https://doi.org/10.1108/BIJ-05-2018-0138 
+Patel, A. (2011). The Last Planner System for reliable project delivery. 
+Perez, A. M.,  and  Ghosh, S. (2018). Barriers faced by new-adopter of Last Planner System®: a case study. 
+Engineering, 	Construction 	and 	Architectural 	Management, 	25(9), 	1110–1126. https://doi.org/10.1108/ECAM-08-2017-0162 
+Pishdad-Bozorgi, P.,  and  Beliveau, Y. J. (2016). Symbiotic Relationships between Integrated Project Delivery (IPD) and Trust. International Journal of Construction Education and Research, 12(3), 179–192. 
+https://doi.org/10.1080/15578771.2015.1118170 
+Race, S. (2012). BIM demystified: an architect’s guide to Building Information Modelling. RIBA Publishing. 
+Rodríguez, A. D., Alarcón, L. F.,  and  Pellicer, E. (2011). La gestión de la obra desde la perspectiva del último planificador. Revista de Obras Públicas, 3518, 1–9. 
+Sacks, R., Koskela, L., Dave, B. A.,  and  Owen, R. (2010). Interaction of Lean and Building Information Modeling in Construction. Journal of Construction Engineering and Management, 136(9), 968–980. https://doi.org/10.1061/(ASCE)CO.1943-7862.0000203 
+Salem, O., Solomon, J., Genaidy, A.,  and  Luegring, M. (2005). Site implementation and assessment of Lean Construction techniques. Lean Construction Journal, 2(1), 1–21. 
+Sánchez, J. (2012). Project management models: Lean thought project management. Dyna, 87, 214–221. 
+Senaratne, S.,  and  Wijesiri, D. (2008). Lean Construction as a strategic option: testing its suitability and acceptability in Sri Lanka. Lean Construction Journal, 34–48. 
+Shang, G.,  and  Sui Pheng, L. (2014). Barriers to lean implementation in the construction industry in China. Journal of Technology Management in China, 9(2), 155–173. https://doi.org/10.1108/JTMC-12-2013-0043 Sierra, L. A., Yepes, V.,  and  Pellicer, E. (2018). A review of multi-criteria assessment of the social sustainability of infrastructures. Journal of Cleaner Production, 187, 496–513. https://doi.org/10.1016/j.jclepro.2018.03.022 
+Succar, B. (2009). Building information modelling framework: A research and delivery foundation for industry stakeholders. Automation in Construction, 18(3), 357–375. https://doi.org/10.1016/j.autcon.2008.10.003 Tauriainen, M., Marttinen, P., Dave, B.,  and  Koskela, L. (2016). The Effects of BIM and Lean Construction on 
+Design 	Management 	Practices. 	Procedia 	Engineering, 	164, 	567–574. https://doi.org/10.1016/j.proeng.2016.11.659 
+Teizer, J., Golovina, O., Embers, S.,  and  Wolf, M. (2020). A Serious Gaming Approach to Integrate BIM, IoT, and Lean Construction in Construction Education. Construction Research Congress 2020, 21–30. https://doi.org/10.1061/9780784482889.003 
+ 
+Toor, S.-U.-R., & Ofori, G. (2008). Leadership for future construction industry: Agenda for authentic leadership. International Journal of Project Management, 26, 620-630. 
+http://dx.doi.org/10.1016/j.ijproman.2007.09.010 
+Tzortzopoulos, P.,  and  Formoso, C. (1999). Considerations on application of lean construction principles to design management. Seventh Conference of the International Group for Lean Construction, 7. 
+Uusitalo, P., Seppänen, O., Peltokorpi, A.,  and  Olivieri, H. (2019). Solving design management problems using lean design management: the role of trust. Engineering, Construction and Architectural Management, 
+     26(7), 1387–1405. https://doi.org/10.1108/ECAM-03-2018-0135 van Rossum, L., Aij, K. H., Simons, F. E., van der Eng, N.,  and  ten Have, W. D. (2016). Lean healthcare from a change management perspective. Journal of Health Organization and Management, 30(3), 475–493. https://doi.org/10.1108/JHOM-06-2014-0090 
+Whelton, M. G. (2004). The development of purpose in the project definition phase of construction projectsimplications for project management. 
+Wong, J. K. W.,  and  Zhou, J. (2015). Enhancing environmental sustainability over building life cycles through green BIM: A review. Automation in Construction, 57, 156–165. https://doi.org/10.1016/j.autcon.2015.06.003 
+Xu, X., Ma, L.,  and  Ding, L. (2014). A Framework for BIM-Enabled Life-Cycle Information Management of Construction Project. International Journal of Advanced Robotic Systems, 11(8), 126. https://doi.org/10.5772/58445 
+Zhang, L., He, J.,  and  Zhou, S. (2013). Sharing Tacit Knowledge for Integrated Project Team Flexibility: Case Study of Integrated Project Delivery. Journal of Construction Engineering and Management, 139(7), 795– 804. https://doi.org/10.1061/(ASCE)CO.1943-7862.0000645 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 Corresponding author:  
+Universidad del Bío-Bío, Concepción, CHILE  
+E-mail: gegarces@ubiobio.cl  	 
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+Revista Ingeniería de Construcción RIC 
+Vol 38 Nº1 2023    www.ricuc.cl  	 	 	DOI: 10.7764/RIC.00051.21 
+ENGLISH VERSION.................................................................................................................................................................................................................................................. 
+ 
+
+Revista Ingeniería de Construcción RIC 
+Vol 38 Nº1 2023    www.ricuc.cl  	 	 	DOI: 10.7764/RIC.00051.21 
+ENGLISH VERSION.................................................................................................................................................................................................................................................. 
+ 
+
+43 
+ 
+
+43 
+ 
+
+Revista Ingeniería de Construcción RIC 
+Vol 38 Nº1 2023    www.ricuc.cl  	 	 	DOI: 10.7764/RIC.00051.21 
+ENGLISH VERSION.................................................................................................................................................................................................................................................. 
+ 
+
+43 
+ 
+

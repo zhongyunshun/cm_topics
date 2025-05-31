@@ -1,0 +1,215 @@
+﻿Construction Management and Economics (1993) 11, 317—325
+Prediction of solvency in construction companies
+D. LANGFORD, R. IYAGBA2 and D.M. KOMBA 3
+1Department of Civil Engineering University of Strathclyde, 107 Rottenrozv, Glasgow, G4 ONG, UK, 2Building
+Department, University of Lagos, Nigeria and 3 University of Dar es Salaam, Tanzania
+Received 17 October 1991; revised 20 April 1992
+This paper reviews two models for testing the financial security of construction companies. It discusses the utility of the ratio analysis technique and the Z model in predicting whether companies are heading for insolvency. It then applies these techniques to three construction companies which failed within the last 5 years to test whether the theoretical predictions prescribed in the techniques are applicable to the construction industry. It concludes that whilst the techniques are of value in predicting some diffculties they need to be used in conjunction with financial performance data of other construction firms, in this way comparisons may be made. The development of a refined and construction specific Z model is recommended.
+Keywords: Insolvency, ratio analysis, Z model, financial performance.
+
+Introduction
+Insolvency is not a new phenomenon in the construction industry but the economic depression of the past 2 years has caused an increase in the number of companies experiencing insolvency. Therefore, it is timely for methods of early detection of insolvency to be explored and applied when necessary.
+  As Mason and Harris (1979) point out 'construction is recognized as a high risk business. Whilst the smaller firms have always been considered as a potential risk, the larger companies were regarded as being reasonably secure.' However, in the current economic climate many big firms are known to have trimmed their scope of operations and operating costs in order to avert insolvency.
+  The size of the problem is well documented. It should be noted that bankruptcy is a term pertaining to individuals whereas, insolvency is a broader term incorporating liquidation, receivership and administration of a company by bankers or others with a financial stake. The Annual Abstract of Statistics (HMSO, 1990) records that in the period 1978—88, liquidations associated with the construction industry amounted to 14% of all liquidations. However, to this figure needs to be added the number of self-employed, a typical business arrangement for construction operations, who have gone bankrupt. The Annual Abstract of Statistics summarizes the picture for 1988 (Table l).
+0144-6193 	1993 E. & F.N. spon
+Table 1 Bankruptices in construction operations, 1988
+
+Bankruptcies and deeds of	No. arrangements
+
+Total bankruptcies
+Number of whom were self7728employed5601Number involved in construction
+Company insolvencies in1590 — 28% of those going bankrupt, are involved in constructionconstruction1471 - of totalTotal9427
+  The figures reflect a period when trading conditions were good and the recession beginning in 1989 resulted in a harsher economic environment and hence greater number of bankruptcies.
+  These figures represent the largest proportion of firms going insolvent in any industrial sector. Mason and Harris (1979) note that 'the resultant damage from insolvency goes beyond the obvious and quantifiable costs to the owners, creditors and employees of a company. There are second-order costs which must be borne by the community at large'. This is particularly so for public sector construction activity. Whilst the balance of construction workload has changed dramatically over the period of 1980—1990, with public sector activity sharply declining when compared to private sector output, it (the public sector) still awards over Æ4000 m of new work each year. This represents, according to the Housing and Construction Statistics (1990), some 23.8 0 0 of the output of new work. In the repair and maintenance (R&M) sector, over half of the non-housing R&M is carried out in the public sector. Expansion of this sector is predicted so that the backlog of R&M work in the public sector building stock can be tackled.
+  Against this backlog, the existence of some mechanism for selecting contractors who are financially secure needs to be developed.
+  In 1979 Mason and Harris recorded that 'the methods used to select companies for a contract seldom discriminate between solvent and potentially insolvent companies'. This position is unchanged some 12 years on. In the public sector the state agencies are seeking to reduce government spending and derive the maximum benefit from what is spent. Therefore, it is important to do everything possible to ensure that the most suitable comapanies are selected to complete government contracts. In the private sector more discretion is possible, as clients are not expected to select the lowest tender as a matter of procedure, but the need to derive maximum benefit from a construction project may be as pressing. Consequently any method which could assist in identifying companies in danger of insolvency could assist effcient use of resources dedicated to construction. This paper discusses two such methods:
+1. the ratio analysis
+2. the Z model
+and then tests these methods on three construction companies.
+The ratio analysis approach
+Generally, ratio analysis should enable the analyst to look at the operating performance in terms of:
+(a) whether the firm is utilizing its assets,
+(b) whether its profit margins are in line with assets, (c) whether there is excessive investment in fixed assets,
+(d) whether the business is adequately financed,
+(e) whether there are signs of liquidity strains,
+(f) whether collection of receivables is effcient.
+A full scale interfirm comparison will enable the questions to be resolved into more essential factors such as, whether production costs are higher than competitors, whether labour costs and utilization are in line with the industry's average and how overheads compare with others.
+Key factors
+The underlying factors which determine the profitability and solvency vary from one industry to another. For example, the factors that affect a manufacturing factory may be different from those affecting a construction firm. Most companies consist of a number of businesses, each with its individual characteristics. Each must be subdivided for purposes of financial analysis. For example, a construction firm may have a Building and Civil Engineering division and a Property and Estate Agency division each with its own distinct operating company; each need to be compared with the appropriate industry sector.
+  In essence, ratio analysis compares pertinent ratios of a business with other firms in the same business. Some ratios were shown to indicate a serious weakness in a company several years in advance of failure. The idea was that, for example, if current assets more than cover current liabilities, then this is a sign of strength. The lower the cover, the greater the weakness. The extremes could readily be identified and a cut-off range or point could be established from predictive experience. Freear 1985) published ratios which appeared to be useful predictors as studied by various authors. The predictor ratios are as follows.
+l. Liquid assets ratio (two studies), obtained by dividing current assets by current liabilities.
+2. Acid test ratio (two studies), is a ratio of current assets less inventories to current liabilities.
+3. Net worth to fixed assets (five studies), obtained by dividing total assets less total liabilities by fixed assets.
+4. Working capital to total assests (five studies), obtained by dividing current assets less current liabilities by total assets.
+5. Net profit to net worth (three studies), obtained by dividing net profit by total assets less total liabilities.
+6. Net worth to total liabilities, obtained by dividing total assets less total liabilities by total liabilities.
+The first two concentrated on the short term position, measuring the company's ability to meet short term liabilities. The other measures concentrated more on the overall long term and short term position of the company, they incorporate total assets and total liabilities in one form or the other. The fifth ratio is incorporated as an income measure.
+  Tamari (1964) observed that a large proportion of successful companies have at least one weak ratio, some two or three. He concluded that an analyst cannot rely on one ratio alone, this is particularly so in construction companies. Mason and Harris ( 1979) using discriminant analysis for 40 failed and non-failed companies in the UK, found six ratios that produced high discriminating powers. These are as follows.
+1. Profitability measured by profit to assets.
+2. Profitability measured by profit to capital.
+3. Working capital position, which is the ratio of debtors to creditors.
+4. Financial leverage, which is the ratio of current liabilities to current assets.
+5. Quick asset position which is equal to the logarithm to base ten of the age of debt.
+Interpretation of ratios
+If the performance of a business, as measured by its ratios is compared with industry's average over a long period of time, it will show a trend. This may be a divergence from the industry's average indicating areas worthy of attention by the managers of the company.
+  These ratios have meaning and point to how the company was run in the year of accounts or earlier. It should be pointed out that ratios are indicators of past events and the trend may continue if managers of the company do nothing to change the situation. This is why it is not possible to say for certain that the company will fail since what the managers, the shareholders, the creditors or others may do is not predictable. However, the indication that the firm is in trouble of one form or another will be clear.
+The Z-model
+'The method is based on the statistical technique of multivariate discriminant analysis. It has been in use for many years in the USA by government agencies, banks, investment houses, etc. to identify potential insolvencies of companies' (Mason and Harris, 1979). However, there is little evidence of the use of this technique in other countries.
+  Mason and Harris (1979) describe the approach which consists of
+constructing the solvency profile of a company from its published accounts and comparing it with profile of companies that are known to be financially healthy or previously insolvent. The more the company's profile resembles that of a previously insolvent firm the more likely it is to fail. Its insolvency profile is summarized in single score called the Z-score, which is derived from the Z-model. The model is constructed from a number of discriminating variables derived from the published accounts of a sample of solvent and insolvent companies. The data are then mathematically combined and a single dimension is evaluated which describes the point of separation of the two groups of companies (failed and solvent) along a scale of solvency.'
+In an earlier study, Altman (1968) used multi-discriminant analysis to predict bankruptcy. He started with 22 financial ratios and slimmed this battery to five, which when combined effectively, predicted bankruptcy. The five ratios Altman selected are shown in Table 2.
+Table 2 Ratios used to predict bankruptcy
+
+Ratio	Weighting
+
+Working capital to total assets	0.012 Retained earnings to total assets	0.014
+Earnings before interest and taxes to total assets 0.033 Market value of equity to book value of long	0.006 term debt
+Ratio of sales to total assets	0.999
+
+  Each of these factors were weighted in accordance with the list shown in Table 2. So for example, if a company had the following ratios:
+Working capital to total assets Retained earnings to total assets12.50			Earnings before interest and—8 0 0 (denoting ataxes to total assetsloss)Market value of equity to book value of long term debt300		Ratios of sales to total assets2.5(note the ratio of sales to asset is presented as a ratio, not a percentage)
+then the figures would be combined such that: (0.012) (12.5) + (0.014) (10)
+	+ (0.033) 	8) + (0.006) (30) + (0.999) (2.5)
+z=2.71
+  Altman suggested a minimum score of 1.8 is required for safety. Tamer (1977) suggested that UK norms delivered a cut-off point of Z as being below — 1.95.
+Resultant model
+After finding a set of variables that provide a high level of discrimination, the variables are then combined mathematically to produce a discriminant function of the form :
+	z=C0+ClRl+C2R2+	+ CnRn
+where Z is the Z-score, Co is a constant, q, q, . . .
+are the ratio weights, and RI , R Rn are the discriminating financial ratios.
+  Mason and Harris (1979) after extensive analysis in the study of six variables of a model based on 20 failed and 20 non-failed companies in the civil engineering sector of the UK came out with the function:
+Z=25.4-51.2Rl+87.8R2-4.8R3
+
+Where RI is the profit before interest to net assets, R2 is the profit before interest to capital employed, R3 is debtors/creditors, R 4 is current liabilities current assets, R5 is logio days debtors for year, and R 6 is the creditors trend measurement.
+  An inspection of the function showed that RI and R. are good discriminators while R 3 and R 6 are the least sensitive discriminators. Mason and Harris found 'that short term liquidity is less important in determining a firm's solvency that a more fundamental aspect of its earning ability'.
+Interpretation of results
+Usually when a model is developed a cut-off score is given below which the company is likely to fail and a range within which it is unsafe and above which it is regarded as solvent.
+  Mason and Harris (1979) gave their cut off point for their model of construction companies in UK as 0.00. Also, Tamer (1977) based on his model among UK companies found a cut off point of Z = — I .95. Although it must be noted that Tamer's work was not based upon the construction industry,
+  A prediction of imminent failure should be based on a company's Z-score. Although a low score on its own, is a necessary condition for failure it is not suffcient evidence. As Mason and Harris note 'unhealthy companies can recover depending on the action taken by their debenture holders' bankers and creditors. The Zscore alone cannot predict failure, but it indicates that a company has a profile similar to companies that have failed and therefore have a higher probability of failure'.
+The case studies
+Three construction firms which had failed within the last 4 years, were selected from the records held in Companies House and their accounts subjected to ratio analysis and the Z-model.
+Case 1. Company A
+Profit and loss account and statement of revenue reserves for the year ended 31st March 1988
+
+	1988	1987
+
+Turnover5 488 144 558 927Profit/(loss) before taxation627 162(831 576)Taxation126 00065 000Profit/(loss) after taxation502 162(766 576)Proposed dividend400 
+
+Employment of capitalFixed assets3 070 4003 279 631Investment
+Current assets270 270270 270Stock and work in progress9 273 76210 588 000Debtors8 074 44917 183 460Bank and cash balances263 9252 259 125Balance Sheet for Company A as at 31st March 1988
+
+Current liabilities17 612 13630 030 585Creditors9 479 98718 966 120Taxation(1 856 563)(869 422)Unpaid dividends
+Proposed dividend51 100
+400 00051 100Bank overdraft (secured)1 026 819
+9 101 3438 510 793
+11 851 4633 684 407
+21 831 2058 199 390
+11 749 281
+Capital employmentShare capital5 000 0005 000 000Reserves6 851 4636 749 28111 851 46311 749 281
+Ratio analysisLiquid assets ratio			 612 	101 343)
+= 1.94Acid test ratio-(17 612 136-9 273 						
+= 0.92101 343)Net worth to fixed assets 070 400)
+= 3.86Working capital to total assets		 612 136-9 101 						
+—0.41952 806)Net profit to net worth						 851 463)
+=o.053 (5.3 00)Net worth to total liabilities			 851 	101 343)
+= 1.3Z-model z	25.4—51.2Rl+87.8R2— 4.8R3— 14.5R4-9.1R5
+(54 387 967) z 25.4 - 51.2(0.053) + 87.8(0.053) — 4.8(0.85) - 14.5(0.52) — 9.1 (1.93) = 13.24
+Case 2. Company B
+Profit and Loss Account for the year ended 31st December 1987
+
+	1987	1986
+
+Trading loss before exceptional items, financecharges and taxation(5 312 535)(7 776 413)Exceptional items — profit on sale of plant10 318 8852 330 1095 006 350(5 446 304)Finance charges(3 461 522)(4 423 253)Profit/(loss) before taxation1 544 828(9 869 557)Taxation — capital gains tax212 000Profit/(loss) after taxation
+Extraordinary profits — profit on sale of1 332 828(9 869 557)property2 486 026Deficit balance carried forward from previous1 332 828(7 383 531)year(11 890 101)(4 506 570	Turnover	253 590	19 826 40
+
+Deficit balance carried forward(10 557 273)(11 890 101)
+Balance sheet for company B as at 31st December 1987
+
+	1987	1987	1986	1986
+
+Assets employedFixed assets12 045 39214 612 820Current assets18 691 67230 651 942	Current liabilities	(44 960 871
+Net current liabilities
+Sources of capitalIssued share capital7 200 0007 200 000Capital reserves4 993 9924 993 992
+	Ratio analysis	Z-model
+	Liquid assets ratio	= 0.64-28.9
+	Acid test ratio	-0.10-28.9
+	Net worth to fixed assets	—0.1360.082
+	Working capital to total assets	—0.341.56
+	Net profit to net worth	—5.43.42
+	Net worth to total liabilities	=o.056
+Case 3. Company C
+Profit and Loss Account for the year ended 31st December 1985
+
+Turnover422 078253 870Cost of sales(275 622)(394 293)Gross profit/(loss)146 456(140 423)Distribution costs(246 187)(333 512)Administrative expenses(184 825)(266 801)Interest receivable and similar income4 8251 966Interest payable and similar charges(63 189)(37 536)Loss on ordinary activities before taxation
+Taxation(342 920)(766 308)Loss on ordinary activities after taxation(342 920)(766 308)Extraordinary items(3 800)(9 993)	1985	1984
+
+Statement of retained lossesLosses brought forward(1 420 047)(633 746)Loss for the financial year(346 720)(786 301)	Loss for the financial year	(346 720)	(786 301)
+
+	Losses at 31 December 1985	(1 766 767)	(1 420 047)
+
+Balance sheet for Company C as at 31st December 1985
+
+Fixed assetsIntangible assets931912 063Tangible assets615852 188	1985	1984
+
+	70 847	64 251
+
+Current assetsStocks164 238104 358Debtors150 16798 341Cash at bank and in hand39 27610 461
+353 681213 160Creditors amounts falling due within one year(424 295)(310 458)Net current liabilities(70 614)(97 298)
+Total assets less current liabilities
+Creditors amounts falling due after more than233(33 047)one year(389 000)(455 000)(388 767)(488 047)
+Capital and reservesCalled up share capital1 378 000932 000Profit and loss account(1 766 767)(1 420 047)(388 767)(488 047)
+	Ratio analysis	Z-model
+	Liquid assets ratio	—0.834-1471.76
+	Acid test ratio	= 0.447-1471.76
+	Net worth to fixed assets	=5.9920.35
+Working capital to total assets = —0.0831.20
+	Net profit to net worth	—0.8082.032
+	Net worth to total liabilities	1.00153 861.19
+
+Comments on the case studies
+Ratio analysis
+The liquid assets ratio for company A, is 1.94 which shows that if current assets are liquidated at about half their book value, current creditors will be paid offin full. This is generally a measure of short term solvency. It indicates the extent to which the claims of short term creditors are covered by current assets that are expected to be converted to cash in a period roughly corresponding to the maturity of claims. Companies B and C are in a worse position, (with B being the worst of all) as their current assets if converted into cash at full book value cannot pay its short term creditors.
+  The Acid Test ratio or Quick ratio, is also the ability to pay off the short term creditors. However, inventories or stocks of work in progress are assets which may not realize their full value in the event of liquidation. Again company A has about I : I ratio while company B (the worst case), has only 109k) coverage. Company C has about 45 0 0 coverage.
+  Net Worth to fixed assets ratio is an indication of the worth of the firm to fixed assets used. Fixed assets is used to generate profit. However, a very high ratio may indicate that a company is over utilizing its assets or investing too little in fixed assets.
+  Working capital to total assets indicate what proportion of assets is bring used for the day-to-day running of the business. Debtors, stocks, work in progress have to be carried all the time. Whilst the amount of each of these may vary, there must always be a matching aggregate finance which can support them. A low ratio of this may make trading diffcult for the company and may render it insolvent in the short term. Company A has a ratio of about 0.4, while company B and C have ratios of 0.34 and —0.083 respectively. This implies that company B and C have no working capital as their current liabilities are much more than current assets.
+  The net profit to net worth ratio for company A is 5.3 0 which shows the return on capital employed, while for company B and C are respectively — 540 0 0 and
+80.8 0 If company B and C are to remain in business, they must generate enough profit to grow and have enough protection against increased cost or falling prices.
+  Finally net worth to total liabilities indicates how well the companies' excess cover is over their total liabilities. Company A has 130 0 0, i.e. 30 0Q) over and above, while company B has only 5.6 0 k) (94.4 0 0 below) and C has
+100.10O (only 0.1 0 over and above).
+Z-score
+The Z-score for company A is 13.24 which is well above the 0.00 failure cut-off point given for similar companies operating hence, it could be said to be safe. However, the same could not be said for companies B and C whose Zscores are respectively —1112 and —53 861, which is well below the cut-off point.
+Conclusions
+While financial ratios could be useful in raising some pertinent questions about the performance of a company and highlighting areas of attention of the managers, its utility is greatest when making inter-firm comparisons. Questions such as : how a firm utilizing its assets, or how its production costs compare with those of its competitors are tests of financial stability. Even though a company may be doing well, this comparison will show how well, or if there is room for even better performance. It is recommended that a study and data of financial ratios of construction companies (both failed and solvent) be kept over time so that a trend of the industry's Z ratio average can be made available. This will form a ready basis for evaluation of solvency and performance but cannot unravel the meaning of a company. Other means of predicting company solvency are also available. At the project level consistent cost or time overruns, delayed payments to subcontractors or suppliers, heightened claims awareness, broken loan covenants can also be sensitive discriminators in relation to the health of a company. Multiple discriminant analysis is, but one tool in the prediction process.
+  Indeed, the use of ratios seldom provide information about the current health of a firm since they cannot decipher the managerial actions being taken. They measure a static position and do not account for the dynamism of managerial bahaviour in shaping alternative strategies. These alternatives may be as diverse as mergers or debt rescheduling etc. Ratio analysis acts as the dipstick of financial health rather than a thorough inspection.
+  Nonetheless, the Z-model can, according to Freear, measure 'the extent to which a firm's policies and problems have resulted in poor performance'. Consequently, Z models should be developed to assist in assessing construction companies. The single score which is provided by the Z-model can give a global view of the performance of the company and pinpoint potential problems.
+References
+Altman, E. (1968) Financial ratios; discriminate analysis and the prediction of corporate bankruptcy. Journal of Finance, 23, 589—609.
+Central Statistical Offce (1990) Annual Abstract of Statistics, HMSO.
+Central Statistical Offce (1990) Housing and Construction Statistics, HMSO.
+Freear, J. (1985) The Management of Business Finance. Pitman Publishing Co., London.
+Mason, R.J. and Harris, F.C. (1979) Predicting company failure in the construction industry. Proceedings Institution of Civil Engineers, 66, 301—7.
+Taffer, R.J. (1977) Finding those Firms in danger using Discriminant Analysis and Financial ratio data: A Comparative UK-based study, City University Business School, Working Paper 4.
+Tamari, M. (1964) Financial ratio as a means of forecasting bankruptcy, Bank of Israel Bulletin, 21 (l), 15—45.
+1 0	
+Retained profit/(loss)102 162(766 576)Earnings per share
+Statement of revenue reserves5 02 kRetained profit/(loss) for the year102 162(766 576)Revenue reserves at beginning of year5 787 0816 553 657Revenue reserves at end of5 889 2635 787 081year
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+	318	Langford et al.
+
+Prediction of solvency in construction companies	319
+
+Copyright 0 2001 . All Rights Reserved.
+
+Copyright 0 2001 . All Rights Reserved.
+
+
+
+Copyright 0 2001 . All Rights Reserved.
+

@@ -1,0 +1,321 @@
+﻿Construction Management and Economics, 1992, 10, 93—105
+Implications of perception and strategy for engineers in construction management
+MICHAEL W. PRINCE
+Faculty of Business Administration, University of Windsor, Windsor, Ontario, Canada N9B 3P4
+It is suggested that strategy of the firm is a result of both an objective and subjective evaluation of the environment and the subjective perceptions of the environment are a function of the cognitive style of the individual. Engineers are said to have distinctive cognitive style preferences. In this study, a sample of owners and managers offirms in the non-residential contract construction industry have been grouped according to whether or not the individuals have an engineering background. A comparison is then made of certain cognitive characteristics, perceptions of the business environment, and their choice ofcompetitive strategies. The analysis suggests that cognitive style is related to environmental perceptions and strategy, but no differences in cognitive style were evident between the groups of executives. There were, however, differences in environmental perceptions and selections ofstrategy. The implication is that engineers may need to be more aware of the pitfalls of their cognitive style, and be more broadly developed in order to increase their awareness of strategic options, thus enhancing the opportunities of successfor their firms.
+Keywords: psychological type, perceptions, strategy, environment.
+Introduction
+In most cases, the construction executive manages the firm with professional skill and ability, and is often well educated in business, engineering or both. Yet, we are generally familiar with a certain type of contractor. That person is basically very sociable, perhaps even charismatic, full of energy and enthusiasm. Always on the move, this executive is continually looking for new ideas and new opportunities. Though anxious to start new projects, this executive sometimes loses interest in current ones and is prone to overlooking relevant details. You may notice that this person tends to overextend, tries to do too much, or perhaps is too quick to make decisions or take action.
+  Another type of person we may be familiar with is always steady and on schedule. This person may have many acquaintances, but few close friends. Always organized and orderly, but sometimes rigid and inflexible, this executive expects others to conform to a standard way of operating. Often wrapped up in day-to-day problems, this person may overlook the bigger picture and long-range implications and may even be pessimistic about the future.
+  But as owners or managers, both of these builders must recognize that the primary function of their executive role is to develop a concept of the firm and the environment in which it exists, in order to form a vision of where the organization should be headed, and then
+0144-6193/92 C 1992 E. & F.N. spon
+94
+to translate that mission into a workable strategy. This is usually achieved through strategic planning. A central tenet of the field of strategic management is that the performance of the firm is a result of the match between economic, social, and technological influences in the environment, and the abilities and resources of the organization. Furthermore, literature suggests that more dynamic environments require innovative rather than traditional strategies. There is a growing awareness however, that the match between the environment and the strategy of the firm depends not only on the objective attributes of the environment, but on the subjective perceptions of the environment by the decision maker(s) in the organization.
+  It is said that engineers exhibit the cognitive characteristics of logical, realistic individuals, concerned with observable facts and detail, the practical application of theory, and focusing on emciency and results. On the other hand, they may be too inflexible, may overlook the need for change, and lack the intuitive and human skills needed by successful managers. Is it likely that the second person described previously is an engineer? Are the cognitive styles of engineer/managers different from those of managers of other backgrounds? Do these differences result in varying perceptions of uncertainty in the environment and subsequently to the extent of innovation in the selected or intended strategies? This study compares certain biographical and cognitive characteristics of managers, along with their associations with environmental perceptions and strategies.
+Background
+If the firm is to match its abilities and resources with the threats and opportunties in the environment, a basic question to answer is — which environment? The field of economics considers the environment in terms of measurable, objective characteristics of the market structure in which a firm competes. This could be an expression of seller concentration, barriers to entry, industry competition, and maturity (Porter, 1980). Strategic management and organizational theory have introduced additional dimensions to the structure of the environment. For example, trying to define the boundaries of the organization has given rise to a separation of the 'task' and 'general' environments (Thompson, 1967), types of functional relationships which may exist (Katz and Kahn, 1966), and the identification of the players or stakeholders in the environment (Freeman, 1984).
+  For the most part, descriptions of the environment in terms of its attributes, i.e. certainty, simplicity, concentration, dynamism, homogeneity, or turbulence, can be reduced to two basic dimensions; stability and complexity (Duncan, 1972). An important consideration however, is also given to turbulence (Emery and Trist, 1965) and measures of environmental munificence such as the availability of resources or aggressiveness of the competition (March and Simon, 1958; Mintzberg, 1979).
+  Another approach to identifying the dimensions of the environmeht stems from the suggestion that people create or 'enact' environments and, through selective gathering, screening and interpretation of information, the strategy maker 'sees what he believes' about the environment (Weick, 1969). It is not always the environment per se that counts, but the individual's ability to comprehend and predict it in order to respond effectively. The same environment may be perceived by some as more or less stable, uncertain, or competitive, and individual strategy makers will respond differently according to how they perceive the environment.
+  The environmental perceptions of decision makers are important because they serve ultimately to shape the content of the strategic plan. Depending on the perceptions of both environmental and internal properties, managers have considerable leeway in making choices to meet various contingencies. The formulation of strategy is affected by many subjective (behavioural, political, emotional) forces which influence its final form (Anderson and Paine, 1975). This is not to deny the existence of the objective environment of an organization, or that some strategies are more rational than others, but to recognize that the perceptions and biases of the strategic actors have a critical place in strategy making.
+  Strategic planning can be viewed as a simple exercise in rational decision making, but in reality strategic problems are generally unstructured and non-programmable. Consequently the process is complex and an over-reliance on analytical technique can be detrimental. The competitive listlessness in North America during the 1960s and 1970s has been attributed to the attitudes and practices of managers who are reliant on principles which prized analytical detachment and methodological elegance over insight into the subtlety of strategic decisions (Hayes and Abernathy, 1980). There is a growing recognition that the unavoidable role of subjective factors should temper the emphasis on the rational—analytical dimension of managerial practices (Kets De Vries and Miller, 1984; Mintzberg and Waters, 1982).
+  Some of the managerial characteristics examined in studies of strategic management, particularly in smaller organizations, include: risk propensity, locus of control, task or people orientation, Machiavellism, and self-esteem (Brockhaus, 1980; Lansley et al., 1974; Welsh and Young, 1982). Few of these studies however, are specifically related to the decision-making process of the individual and there has been criticism for both the lack of a discernible pattern of individual attributes and the validity of the variety of instruments employed (Dickson et al., 1977; Zmud, 1978).
+  A number of researchers have found that the cognitive style of the individual affects decision-making behaviour and other information processing problems (Driver and Mock, 1975; Rowe and Mason, 1987). Much of this research is based on a typology derived from Jung's (1923) theory of psychological functions and type. Jung observed that people's behaviour fitted into patterns explained by differences in psychological functioning. These differences were termed preferences, because just as people are predisposed to be either leftor right-handed they actually prefer one type of functioning over another. A summary of the preferences as developed by Myers and Briggs is shown in Fig. 1. (Myers and McCaulley, 1985).
+  Two of these preferences, extroversion or introversion, concern the person's attitude toward the world. The introvert's interest is in the inner world, is introspective, and works quietly and alone, whereas the extrovert is interested in the outer world, is influenced by external events, and pays constant attention to the environment. Four of the functions exist along two continua and are usually referred to as decision style. The first dimension measures preference for one of two types of perception: sense perception or sensation at one end and intuitive perception or intuition at the other. These preferences related to the way in which a person becomes aware of ideas, facts or occurrences. Sensation individuals gather information through the five senses, and dislike coping with unstructured problems containing environmental uncertainty. On the other hand, intuitive individuals look for deeper meanings, are impatient with routine details and tend to perceive the totality of the environment rather than the details.
+  The other functions relating to decision style, feeling and thinking, are opposite pairs on the continuum of how a person judges or evaluates information. The feeling type takes the
+
+Preferences between
+Extroversion (E) or Introversion (I)
+Sensing perception (S) or
+Intuitive perception (N)
+Thinking judgement (T) or Feeling judgement (F)
+Judgement (J) or
+Perception (P)
+Affects choices as to
+An attitude, whether the person's interest flows mainly to the outer world (E), or on the inner world (I) of ideas.
+The preferred process used in making a perception on facts (S), or meanings (N).
+The preferred process of judgement when making a decision, objectively (T) or weighing values (F).
+The style of dealing with the outer world; in the judging (J) attitude (using T or F) or in the perceptive (P) attitude (using S or N).
+
+Fig. l. The four type preferences.
+human side of problems into account and is likely to emphasize personal and subjective processes in reaching a decision, whereas the thinking type tries to arrive at decisions through rational and objective analysis of data, and tries to fit problems into standardized formulae. Feeling does not refer to emotions, but to the process of setting priorities based on values, rather than a stark analysis of the facts. In type theory, individuals take information in (perception) and then decide on the necessary action (judgement). Therefore, a person needs a perception function and a judgement function but one of these four functions is likely to dominate in an individual problem solving style. The dominant function is then supported by one of the other set of paired opposites (Mitroff and Kilmann, 1975).
+  The last two preferences indicate the style of dealing with the outside world, or the extroverted part, either through ajudgement process or perceptive process. That is, a person either becomes aware of something (an act of perception) or comes to a conclusion about something (an act of judgement). A perception style prefers using a perceptive process (sensing or intuition), rather than a judging attitude (thinking or feeling). As with the other preferences, everyone both perceives and judges, but most people tend to show a consistent preference for one or the other. Those who prefer to live in the judging attitude tend to be decisive people who try to control events and may lead a life style which is more orderly and carefully planned. They may even tend towards some prejudging. A perceptive attitude is usually more open to experience and the person is characterized by flexibility and spontaneity. This person is alert to changes and ready to move with them. They may however, take too long to size up a situation and delay making a decision.
+Purpose and research approach
+The purpose of this research is to explore whether in building firms, managers with engineering or technical backgrounds exhibit different characteristics in terms of preferences, and whether the executive's perceptions of the environment and choice of strategy reflect these differences. Recognizing such relationships may help executives to be more aware of how others may see things differently thereby improving communications. But, more
+important, is that recognizing the potential deficiencies or biases in one's own attitudes and decision-making styles can help to improve decision making and strategic planning for the firm.
+  The non-residential contract construction industry is mature yet dynamic and entrepreneurial in nature. Furthermore, it is comprised of organizations which are typically small even though they may be responsible for large volumes of work. In smaller organizations the perceptions, expectations and personality of the executive have a pervasive influence directly or indirectly on the organization, and the strategic planning posture of the firm is an expression of the owner/manager, subject to the same perception filters. This provides an opportunity to observe the influence of the characteristics and perceptions of the chief decision maker in a homogeneous environment without the confounding effects of larger organizations.
+  Executives of approximately 240 Canadian firms participated in the study. For the purposes of this analysis, 171 cases were selected in which the executive was specifically identified as the owner or chief executive, almost half of whom were further identified as having an engineering or technical background.
+  A Jungian classification of cognitive characteristics has been used because it is concerned with the decision-making attributes of the executive; how (s)he relates to the outside world, the preferred method of acquiring information, and the preferred method of arriving at conclusions. Furthermore, the framework is generally value-free in the sense that everyone can function well in his or her own problem-solving style in particular situations, and important aspects of the classification can be measured with instruments that have received considerable reliability and validity testing. The managers responded to a self-administered questionnaire which included an abridged version of the Myers-Briggs instrument (Keirsey and Bates, 1984), details of the market-product scope of the individual's business, statements regarding the actual or intended allocation of resources in the firm, and statements about the individual's perceptions of the environment.
+  There is a large body of research concerned with identifying and classifying different strategies in firms. One stream of such research involves the statistical analysis of the values of a large number of variables of business strategy to group firms by several distinctive patterns or taxonomies of the variables (Dess and Davis, 1984; Hambrick, 1982; Miles and Snow, 1978; Miller and Friesen, 1978; Prescott, 1983). Several of these studies report to have found examples of one or another generic strategy, which is a broad categorization of strategic choice with general applicability regardless of industry and organization size or type.
+  In this analysis, it is assumed that the strategic conduct of the firm is embodied in the decisions or intentions of the chief executive relating to the choice of product-market scope and allocation of resources. Cluster analysis of firms according to responses to variable items about these choices was used to determine a classification of strategic type which is similar in structure to Porter's (1980) generic strategies of cost leadership, product differentiation, and focus. The contractor's usual approach to open competitive bidding represents cost leadership, and differentiation is present when the contractor attempts to acquire work through invited tenders. Focus is present when the contractor concentrates on a narrowtarget market either through cost leadership by offering cost-saving design alternatives, or differentiation through offering a complete design and build or construction management service.
+The individual's perceptions of the environment were determined by responses to
+
+questions about how the person felt towards attributes of the general environment. Factor analysis of the responses resulted in the identification of three underlying factors indicative of the extent of perceived uncertainty in the internal and external environment (Duncan, 1972). The external environment can be perceived as being simple, predictable, and stable. The extent to which the executive feels that information and experience in firm is adequate or inadequate for strategic decisions measure uncertainty in the internal environment. Volatility (or consistency) in the environment is measured by the degree of (un)certainty of occurrence of environmental events and the existence of continual change.
+  The results of the classification of cognitive style, strategic type and perceptions of uncertainty were then analysed with certain aspects of the biographical background of the executive within the framework of three main hypotheses:
+l. That differences in cognitive style are related to perceptions of the environment and the selection of strategy.
+2. That managers of building firms who have an engineering or technical background exhibit differences in cognitive style from those managers with other backgrounds.
+3. That managers with engineering/technical backgrounds exhibit differences in environmental perceptions and strategic choice exist from those managers of other backgrounds.
+Results
+Hypothesis 1
+Perceptions of uncertainty in the general and internal environment have been derived from factor analysis. The means of the factor scores for environmental perceptions were compared for each individual type preference. The results, summarized in Table l, suggest
+Table I. Environmental perceptions and preferences
+
+Mean factor scores
+Characteristic External uncertainty Internal uncertainty ConsistencyExtroverted
+Introverted
+Sensing
+Intuition
+Thinking
+Feeling
+Judging
+Perception-0.20
+—0.11
+0.18
+-0.02
+—0.37
+-0.08
+0.03-0.02
+0.08
+-0.03
+0.3 3 *
+0.00
+14
+-0.01
+0.49*-0.04
+-0.05
+0.02
+0.06
+0.01
+-0.02
+0.02
+-0.17Levels of significance for t-test comparison of means of factor scores for each type:
+** P<O.05; * P<O.IO.
+the introverts perceive the external environment to be less simple and predictable than extroverts. Extroverts are said to be energized by the outside world of activities, whereas the introvert is energized by an internal world of ideas and impressions. Similarly, intuitives appear to perceive less certainty in the internal environment. That is, they are more concerned about the lack of information and expertise in their organization than the sensing individual. The sensing individual pays attention to what is real and factual, whereas the intuitive individual attends to insights and possibilities, and may make errors of fact. There is also a weaker indication that the perception type preference is related to internal uncertainty. That both perception and intuition may be related to a feeling of uncertainty is not surprising as the former indicates that the person prefers a perceptive rather than judging attitude.
+  Chi-square analysis of the frequencies of responses by strategic choice (determined by cluster analysis) and preference type classifications in Table 2 suggests that the strategy followed by the firm is related to the way in which an individual decides. It appears that the feeling type is more apt to select a focus strategy whereas the thinking type is more likely to choose the low cost or differentiating strategy.
+Table 2. Percentage of respondents by strategic choice and preference
+
+Strategic choice
+		Chi-square
+PreferenceLow costDiffn.FocusTotalsignif.Extrovert
+Introvert
+Sensing
+Intuitive
+Thinking
+Feeling
+Judging
+Perception
+Each total17
+13
+27
+3
+27
+3
+28
+2
+3021
+12
+27
+6
+30
+3
+30
+3
+3327
+10
+30
+7
+28
+9
+34
+3
+3765
+35
+84
+16
+85
+15
+92
+8
+1000.17
+0.21
+0.04
+0.84Hypothesis 2
+The percent of respondents classified by each preference and background is shown in Table 3. Chi-square analysis shows no significant difference in the proportion of respondents in any of the dimensions of style for engineering/technical and other types of backgrounds.
+  Although the proportion of each type preference are about the same for the individuals in this study regardless of background, it is informative to compare these results to the proportions of types found in other studies of small business managers and engineers. The comparisons shown in Table 4 indicate that differences exist with respect to several other studies of small business managers. In both instances, the percentage of individuals classified
+Table 3. Percentage of respondents by preference and type of background
+
+	Engineering	Other	Total
+Extrovert
+Introvert
+Sensing
+Intuition
+Thinking
+Feeling
+Judging
+Perceptive
+Each total(Percentage 
+31.0
+17.4
+39.8
+8.6
+42.9
+5.6
+44.7
+3.7
+48.4of respondents)
+34.2
+17.4
+44.1
+7.5
+42.2
+9.3
+47.8
+3.7
+51.665.2
+34.8
+83.9
+16.1
+85.1
+14.9
+92.5
+7.5
+100.0Table 4. Comparisons with other studiesThis studyEngineering studentscExtroversion
+Sensing
+Thinking
+Judging(Percentage of 
+65	52
+83	86
+85	81
+92	75respondents)
+49 67
+75
+7637
+49 53
+62a Survey of 150 small businesses in the US (Hoy and Hellriegel, 1982).
+b Survey of 849 small businesses in England (Margerison and Lewis, 1981).
+ Survey of 3362 students at the University of Florida (McCauley, 1976).
+as Extrovert and Judging types are significantly higher (P < 0.01) in this study than the others. Some of this difference may be attributable to the dynamic and project-oriented nature of the construction industry. Extroverts are said to be attracted to fields requiring more active involvement and prefer variety and action. Judging types are said to work best when they can plan their work and follow their plan.
+  Additional insights can be obtained by comparing the type preferences for this sample with the results from an extensive survey of engineering and other students by McCaulley (1976). There is a significantly (P < 0.01) larger proportion of extraversion, sensing, thinking and judging preferences in this sample than for the engineering students. The managers with engineering backgrounds in this study favour extroversion almost 2 to 1 , whereas McCaulley (1976) found just the opposite for engineering students (Table 4). She also found roughly equal numbers of sensing and intuitive types amongst engineering students, whereas this study found a much larger percent of sensing types. In support of this larger percentage McCaulley (1976) also found more sensing types (65%) amongst civil engineering students than the more 'theoretical' fields of engineering such as nuclear and aerospace engineering (30% and 28% respectively). It appears that the 'applied' fields attract more sensing types whereas the more 'theoretical' fields attract intuitive types.
+  Although the proportions of thinking and judging individuals in this study are significantly larger than the proportions amongst the engineering students, McCaulley found that engineering had the largest percentage of thinking types of all students in her survey. Thinking is the process of making a judgement through objective, logical analysis, whereas feeling is the process of deciding in a personal value-oriented way. McCaulley also found that engineering led other areas of study in the proportion of judging types. The judging individual is decisive, organized, and likes a system and plan, but the perceptive individual is more spontaneous and flexible.
+Hypothesis 3
+The comparison in Table 5, of the means of the factor scores representing the various levels of perceived uncertainty, shows that significant differences exist for respondents with engineering and other types of backgrounds. Respondents with a technical background appear to view the external environment as being less certain in terms such as simplicity and predictability, but more consistent (less volatile) in their uncertainty.
+Table 5. Differences in perceptions for engineers and others
+
+	Engineers	Others
+
+Environmental perceptionFactor meanS.D.Factor meanS.D.Signif.
+of tExternal uncertainty
+Internal uncertainty
+Consistency0.15
+0.08
+0.201.0
+1.1
+0.9-0.18
+0.01
+-0.151.0
+1.0
+1.10.05
+0.71
+0.03  Analysis of the frequencies of responses by background and strategic choice in Table 6 indicates only a very weak statistical relationship between type of background and strategic choice (Chi-square signif. =0.12). The data does suggest however, a disproportionate
+Table 6. Strategic choice and background
+
+	Engineering	Other	Total
+Strategic choice(Percentage of respondents)Low cost
+Differentiation
+Focus
+Total11.5
+16.6
+22.3
+50.317.8
+16.6
+15.3
+49.729.3
+33.1
+37.6
+100.0number of managers with an engineering/technical background following a focus type of strategy and smaller number following the low cost strategy.
+Discussion
+There is some support for Hypothesis l , that differences in cognitive style are related to perceptions of the environment and the nature of strategic choice. It appears that increases in environmental uncertainty accompany the Jungian characteristics of the person's attitude toward the world (introversion), the way in which the person deals with the outer world (perception), and the way in which information is gathered (intuition).
+  Feeling is associated with the choice of what could be categorized as a more nontraditional and selective strategy, focus, as compared with the broader and more traditional cost leadership of differentiation strategies. The feeling individual relies on an understanding of personal and group values, and is more apt to make decisions by establishing value-based priorities and attending to what matter to others. The focus strategies are oriented towards a more narrowly defined consumer group. Just as important, is that opposite the feeling type, the thinking individual is more concerned with rationality and standard approaches to problem solving.
+  These results lend support to the arguments concerning the substantive role of perceptions of the planning environment. More attention then should be paid to the subjective aspects of strategic planning rather than relying on purely 'objective' information and a completely rational decision-making mode.
+  Hypothesis 2 has not been supported. This study has shown no differences in cognitive style between managers in construction firms with an engineering background, and managers with other backgrounds. Furthermore, the type preferences for the managers in this study are not what one would expect in view of other studies. Not only do the styles differ from those described in other studies of small business executives, they are markedly different from those expected for engineers.
+  Some of this difference may be a result of the senior level of management in the sample and the nature of the construction industry. For example, while introverts are more attracted to fields such as engineering, where individual work is important, management involves more cooperative efforts. McCaulley (1976) found a much higher percentage of preference for extroversion amongst business students than engineering students (55% compared to 37%). Engineering may attract a large percentage of introverted types, but those individuals in the field who are more extroverted and decisive (judging attitude) may be more entrepreneurial and management-oriented.
+  Individuals tend towards managerial roles and work environments in which they feel more comfortable. In fact, to succeed individuals should find occupational roles whose tasks require the use of their preferred attitudes and styles of perception and judging so that the tasks have intrinsic interest and satisfaction. Hellriegel and Slocum (1980), found that individuals' preferences for certain organizational designs are related to preferred problemsolving styles and implicit in their study is that a particular style may be better suited to certain organizational environments. Therefore, not only is the homogeneity of type and background amongst the executives in construction expected because of the nature of the task, but the type of individual attracted to the industry may be a function of the nature of the environment. One would not dispute that construction requires decisive results and action-
+oriented leadership by realistic individuals applying technical skills in a practical and matter of fact manner.
+  Although there does not appear to be a significant difference in psychological type related to background, tests related to Hypothesis 3 show that managers with different backgrounds perceive uncertainty in the environment differently and there is a weak indication that they follow different strategies. If environmental perception and selection of strategy is related to psychological type, and if, as this study found, there is little difference in type related to background, then these findings may seem spurious.
+  Of course there may be other subjective factors in play which are not covered in this study. However, another possible explanation may be that most of the analysis in this paper has been concerned with the four preferences taken individually. In type theory however, the preferences form a complex set of interactive parts and forces. The attitudes and characteristics of individuals that result from these interactions also affect the individual's perceptions and decision-making behaviour. This study has not considered how the interactions of the four types differ for engineers or others. Futhermore, it has not considered differences which are cultural in nature. For instance, the professional engineer is usually trained to carry out technical resonsibilities as a member of a professional group, whereas a business background may emphasise an interdisciplinary approach to problem solving. In addition, the seemingly disproportionate number of engineers following a focus strategy (which includes marketing a design-build or construction management service) may be more of a reflection of the technical requirements (in engineering and design) of those strategies than differences in style.
+  Strong preferences for extraversion, sensing, thinking and judging types are typical of a large portion of this sample of executives. These approach the characteristics of the first individual described at the beginning of this paper. It is important to recognize that this individual may have a tendency to decide too quickly, may not see the need for change, and may overlook personal niceties in order to get the job done. The second individual is actually similar to the first in type except that extroversion is replaced by introversion. This is the second most common description for the individuals in this sample, and is subject to some of the same shortcomings. This person may, however, tend to overlook the wider and longer range implications of problems, and be too rigid and inflexible to try fresh alternatives. Both individuals could benefit from an understanding of their possible shortcomings.
+  It may be true that factors such as risk propensity and personal values and goals will affect the choice of strategies. It also appears that the way in which the strategist assembles information and forms judgements affects perceptions of the environment and strategic decisions. An awareness of preferred functions and styles can be factored into the analysis and decision making of strategic planning.
+  The person's attitude toward the world may affect perceptions of uncertainty, and how the person evaluates information to arrive at a decision may condition the choice of strategy. While subjective complexity of the environment is an important variable in management, the challenge should be to reduce the uncertainty perceived by the individual and to increase an awareness of strategic options. By becoming more aware of their own preferred and alternative styles, managers can be more aware of their flexibility and ability to use different styles that are appropriate to different types of situations. As Nutt (1979) proposes, the decision maker should be able to adopt a particular decision style depending on the demands of the decision task. The manager should then assess his or her decision style, and then seek ways to develop flexibility in style. This may mean incorporating ways by which firms and individuals can become more extroverted and broader in their outlook, and ways of developing the feeling rather than thinking dimension of style.
+  An appreciation of the role of subjective perceptions in strategic management should serve to introduce a sense of balance to management practice. To many engineers in construction this means a recognition of the importance of breadth and enrichment of a traditionally objective, analytical focus if they are to cope effectively in a rapidly changing and increasingly complex world.
+References
+Anderson, C.R. and Paine, F.T. (1975) Managerial perceptions and strategic behavior, Academy of Management Journal, 18, 811—23.
+Brockhaus, R.H. (1980) Risk taking propensity of entrepreneurs, Academy ofManagement Journal, 23, 509-20.
+Dess, G.G. and Davis, P.S. (1984) Porter's generic strategic strategies as determinants of strategic group membership and organizational performance, Academy Qf Management Journal, 27 467-88.
+Dickson, G. W. , Senn, J.A. and Chervany, N.C. (1977) Research in management information systems. The Minnesota experiments, Management Science, 23, 913—23.
+Driver, M. and Mock, T. (1975) Human information processing, decision style theory and accounting information systems. Accounting Review, 50, 490—508.
+Duncan, R. (1972) Characteristics of organizational environments and perceived environmental uncertainty, Administrative Science Quarterly, 17, 313—27.
+Emery, F. and Trist, E. (1965) The causal texture oforganizational environments, Human Relations, 18, 21-32.
+Freeman, R.E. (1984) Strategic Management. A Stakeholder Approach. Pitman Publishing, Marchfield, Mass.
+Hambrick, D.C. (1982) Environmental scanning and organizational strategy. Strategic Management Journal, 3, 159—74.
+Hayes, R.H. and Abernathy, W.J. (1980) Managing our way to economic decline, Harvard Business Review, 58, 67-77.
+Hellriegel, D. and Slocum, J.W. Jr. (1980) Preferred organizational designs and problem solving styles: interesting companions. Human Systems Management, 1, 151—8.
+Hoy, F. and Hellriegel, D. (1982) The Kilmann and Herden model of organizational effectiveness criteria for small business managers. Academy of Management Journal, 25, 308—22.
+Jung, C.G. (1923) Psychological Types, Harcourt Brace, New York.
+Katz, D. and Kahn, R.L. (1966) The Social Psychology of Organizations. John Wiley & Sons, New York.
+Keirsey, D. and Bates, M. (1984) Please Understand Me, Character and Temperament Types, Prometheus Nemesis Book Company, Del Mar, CA.
+Kets De Vries, M. and Miller, D. (1984) The Neurotic Organization, Jossey-Bass, San Francisco.
+Lansley, P., Sadler, P. and Webb, T. (1974) Organization structure, management style and company performance, Omega, The International Journal of Management Science, 2, 467—85.
+March, J. and Simon, H. (1958) Organizations. John Wiley and Sons, New York.
+Margerison, C. and Lewis, R. (1981 ) Mapping managerial styles. International Journal ofManpower, 2, 1-24.
+McCaulley, M.H. (1976) Psychological types in engineering, Engineering Education, 66, 729—36.
+Miles, R.E. and Snow, C.C. (1978) Organization Strategy, Structure and Process, McGraw Hill, New York.
+
+Miller, D. and Friesen, P.H. (1978) Archetypes of strategy formulation, Management Science, 24, 921-33.
+Mintzberg, H. (1979) The Structuring of Organizations, A Synthesis of Research. Prentice Hall, Englewood Cliffs.
+Mintzberg, H. and Waters, J.A. (1982) Tracking strategy in an entrepreneurial firm, Academy of Management Journal, 25, 465—99.
+Mitroff, 1.1. and Kilmann, R. (1975) Stories managers tell: a new tool for organizational problem solving, Management Review, 64, 18—28.
+Myers, B.I. and McCaulley, M.H. (1985) Manual: A Guide to the Development and Use of the Myers Briggs Type Indicator. Consulting Psychologists Press, Palo Alto.
+Nutt, P.C. (1979) The influence of decision style on the use of decision models, Technological Forecasting and Social Change, 14, 77—93.
+Porter, M.E. (1980) Competitive Strategy, Techniques for Analyzing Industries and Competitors. The Free Press, New York.
+Prescott, J.E. (1983) Competitive environments, strategic types and business performance: an empirical analysis. Unpublished PhD thesis, The Pennsylvania State University.
+Rowe, A.J. and Mason, R.O. (1987) Managing With Style. Jossey-Bass Inc., San Francisco.
+Thompson, J. (1967) Organization in Action, McGraw Hill, New York.
+Weick, K.E. (1969) The Social Psychology of Organizing. Addison Wesley, Reading, MA.
+Welsh, H.P. and Young, E.C. (1982) The information source selection decision: the role of entrepreneurial characteristics, Journal of Small Business Management, 20, 49—57.
+Zmud, R. W. (1978) On the validity of the analytic-heuristic instrument utilized in the Minnesota experiments. Management Science, 24, 1088—90.
+Co ri ht 
+Prince
+
+Engineers, perceptions and strategy	95
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+98	Prince
+
+Engineers, perceptions and strategy	95
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+98	Prince
+
+
+
+Engineers, perceptions and strategy	95
+
+Engineers, perceptions and strategy	95
+
+0 2001 . All Rights Reseved.
+
+0 2001 . All Rights Reseved.
+
+Engineers, perceptions and strategy	95
+
+0 2001 . All Rights Reseved.
+

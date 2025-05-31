@@ -1,0 +1,239 @@
+﻿Construction Management and Economics (1993) 11, 45—52
+Project selection considering risk
+OSAMA MOSELHI and BIKASH DEB
+Centre for Building Studies, Concordia University, 1455 de Maisonneuve Blvd W. , Montreal, Quebec, Canada H3G 1
+Received 3 March 1992; revised 18 June 1992; accepted 9 July 1992
+A number of procedures have been formulated in recent years for evaluating engineering, procurement and construction projects based on an established set of objectives. These procedures, however, have generally considered either multi-objectives without the risk associated with each objective or a single objective with some form of risk assessment. Decision aid methodologies that permit the consideration of both multi-objectives and risk have generally been associated with complex mathematics and high computational effort. The purpose of this paper is to present a simple, yet comprehensive methodology for the selection of a project under risk, avoiding time consuming analyses. The method considers multi-objective decision criteria and takes into account the uncertainties associated with each individual objective. The method is based on multi-attribute utility theory for modelling the selection criteria and treats uncertainty in a similar way to that used in Program Evaluation and Review Technique (PERT). A numerical example is presented to demonstrate the application of the present method.
+Keywords : Project evaluation, selection criteria, risk assessment, multi-attribute utility theory.
+
+Introduction
+Selection of a new project or a group of projects by an owner to develop or a contractor to bid undoubtedly constitutes of one of the main management functions required to ensure business survival for owners and contractors alike. Such selection involves prediction and comparison of future outcomes considering different alternatives; it involves a degree of forecasting. In the real world, all possible future outcomes of a project or a group of projects are not known with certainty. In these circumstances, decisions are frequently made based on past experience, either rationally or intuitively with some degree of uncertainty, and thus are made under risk.
+　Handa and Georgiades (1980) have emphasized the risk associated with the profit return of a company for selection of a project, an explicit objective, without considering the inherent risk associated with the project itself. Kangari and Boyer (1981 ) have shown how risk can be considered with a utility function for a portfolio approach; they also indicated how a market model approach can be used on the basis of a single objective, i.e. maximization of net present value (NPV). In a related study, however, Ibbs and Crandall (1982) have shown that the decision-making in this risky environment is not single, but rather multi-attributed in nature. They further attributed the failure of most previous attempts in modelling construction risk to the limited scope of the
+0144-6193 e, 1993 E. & F.N. spon
+objective functions used in these attempts, and their inability to express outcomes in a multivariate manner. Ibbs and Crandall proposed a method based on a multiplicative utility formulation. In their method, however, the complexity and required computational effort increase rapidly as the number of attributes increases (e.g. they reported that the consideration of five attributes rather than four requires checking 30 independence conditions instead of 14).
+　The purpose of this article is to present a comprehensive, yet simple methodology for the selection process, avoiding time consuming analyses, and demonstrate the use of the proposed method with an example application. The method provides a reasonable trade-off between realistic modelling and ease of computational effort. It is structured in such a way so it could readily be programmed to enable risk analysis in a straightforward manner and with considerably less dependence on the number of attributes considered. The method is flexible and permits users to utilize their judgement in specifying the appropriate probability distribution associated with the outcome of each attribute being considered.
+Methodology
+The present method is based on utility theory (Ang and
+Tang, 1984; Hertz and Thomas, 1983; Hwang and Yoon, 1981 ; Keeney and Raiffa, 1976) and consists of six steps that establish, on the basis of an assumed probability distribution, a relative measure of how risky or uncertain an outcome is likely to be. After the risk assessment is carried out, three matrices are generated and then used to calculate the total expected utility value for each of the projects under consideration. The most desirable project can then be selected to have the highest utility of satisfaction. The steps required to perform the analysis are described below:
+Step 1: Identification of objectives
+It is necessary clearly to define the objective or objectives to be considered for project selection. There can be a number of objectives that may reflect various financial, economical, social, environmental, and/or political considerations. This is particularly true for owners in the public sector, i.e. government agencies and departments at the national or federal, provincial or state and municipal levels. The decision maker, then, will try to maximize or minimize the outcome associated with each objective depending on its nature. Accordingly, the objectives which are important to the organization responsible for the decision (i.e. the project owner or developer, or the construction firm) are identified, and the relative weights associated with these objectives are established. Maximization of the project's net present value (NPV), for example, is generally considered as an important objective to owners in the private sector, while maximization of the number of new jobs created by the project, in addition to the NPV, may represent the most important objective to owners in the public sector.
+Step 2: Measurement of risk
+The risk associated with any random variable can be expressed in terms of the dispersion of outcomes associated with this variable around their expected mean value. The variation of possible outcomes around the mean of NPV, for example, represents the risk or uncertainty associated with the NPV. This variation or risk can be measured using the statistical moments of the random variable about its mean. Although higher order moments can be used in the present method, only the second moment (i.e. the variance or its square root, the standard deviation) is used in the numerical example considered in this study. This is generally regarded as a reasonable approximation for all practical cases (Ang and Tang, 1984; Deb, 1986; Hertz and Thomas, 1983). In this respect, the larger the standard deviation, the greater the risk of achieving the expected net present value will be.
+Step 3: Quantification of subjective attributes
+When attributes that are qualitative or subjective in nature are considered, it is essential to quantify them in order to integrate them in the decision criteria. One way of achieving this is to represent such attributes utilizing a 10-point scale (Keeney and Raiffa 1976), with 10 assigned to the maximum value that is desirable and practically realizable and zero to the least desirable value.
+Step 4: Determination of risk-free interest rate
+This rate is the return on secured and stable investments, such as treasury bills, bonds, and term deposits.
+Step 5: Development of the decision maker's utility functions
+A utility (satisfaction) function U(X) for each of the objectives considered must then be established. The characteristics of utility functions and their derivation are well documented (Ang and Tang, 1984; Keeney and Raiffa, 1976; Lifson and Shaifer, 1982). The expected utility E( U) associated with a single objective X can be expressed as a function of the expected value E(X), expressed by the mean g(X) of the possible outcomes associated with this objective, and the associated risk, represented by the standard deviation a(X) of the distribution of these outcomes:
+	U)  OCX))	(1)
+A well-known mathematical approximation to the expected utility in this case takes the form Ang and Tang, 1984; Hertz and Thomas, 1983):
+	E(U) - CKD +0.562	(2)
+where U" represents the second derivative of the utility function.
+　For decisions with multi-objectives, however, the evaluation involves consideration of a joint utility function over the multi-attributed outcome space. Thus if X is the measure of objective i, and there are n objectives in the outcome space, then a utility function of the form U(XI , Xo, Xn) is required (Keeney and Raifa, 1976). This non-linear form could be simplified under certain conditions, by decomposing the joint utility function as shown in Equation 3.
+U(XI, 	. . . xn)  U2(X2), . . . Un(Xn))	(3)
+Details of the separability conditions are described by Keeney and Raiffa (1976). According to Hwang and Yoon (1981), theory, simulation, computations and experience all suggest that simple additive weighting method based on the above decomposition yields extremely close approximations to the complicated nonlinear forms associated with a joint utility function, while remaining far easier to use. The simple additive approximation is used in the present study. Accordingly, a single utility function associated with each objective should be constructed.
+Step 6: Calculation of expected utility
+Based on the principles outlined and the additive approximation considered above, it can be shown (Ang and Tang, 1984; Bussey, 1978; Deb, 1986) that the expected utility can be expressed in a matrix form as:
+	ECU] [U] • [V] • [S]	(4)
+where E[U] = Total expected utility, a square matrix of order 1; [U] = Utility matrix, for the alternative (i.e. the project) being considered, and is based on the decision maker's utility functions, associated with each objective. It is an n x m matrix; [V] = Objective matrix, for the project being considered, and is based on the statistical moments (variables) associated with each objective. It is an m x n matrix; [S] = scaling matrix representing the scaling constants or the weights associated with each objective in the selection criteria applied to all projects, it is an n xl matrix; n=number of objectives; and m = number of variables associated with each objective.
+　The utility matrix [U] can be derived by taking the components of the Taylor's series expansion of the decision maker's utility function associated with each objective (U(XI), for the i th objective) and can be expressed in the form (Bussey, 1978);
+
+(5)
+	d2U	d3U
+in which U"	, and U"
+	dx2	dx3
+　The objective matrix [V] consists of m rows and n columns. Each column represents an objective. The rows are the variables (Pi = mean, variance, 4 — skewness, etc.) which represent the mean and the statistical moments of the probability distribution associated with the i th objective. Accordingly, the objective matrix [V] can be expressed as shown in Equation 6. The development of this matrix requires statistical analysis of each objective, which may be derived from previous records of similar projects.
+		(6)
+The scaling matrix [Sl is a column matrix that can be represented in a transposed form as follows:
+	[S] - [SIS2S3 . 	(7)
+where S, = positive scaling constant associated with the ith objective. It must be 1.0 and satisfies:
+S=l.o
+　These scaling constants or relative weights can either be assigned directly by judgement or using judgement, but in some form of a structured procedure to improve consistency as described by White et al. (1989). A twostep approach using ordinal ranking and cardinal ranking could be used to determine the relative weights (Moselhi and Martinelli, 1990). These weights could also be determined based on pair-wise comparisons of the relative importance of the objectives being considered as in The Analytical Hierarchy Process (Saaty, 1988). While any of these methods could be used to construct the scaling matrix in Equation 7, the first method is used for simplicity in the numerical example thereafter. The use of that simple method is also common in practice. Owners and contractors alike frequently evaluate proposals using simple scoring tables, where weights are simply assigned based on the decision maker's judgement. This method, for example, was considered in a recently published Manual of Professional Practice (ASCE, 1988) for evaluating different site alternatives, and suggested by the ASCE Committee on Construction Management (1987) for selection of construction managers.
+　Having constructed the utility, objective, and scaling matrices, the total expected utility can be calculated using Equation 4. Based on the additive model considered, and in view of the implicit assumption of separability, the calculation of the expected utility is performed by first multiplying the utility and objective matrices and then multiplying the diagonal elements only of the resulting matrix, which represent the expected utility associated with each individual objective, by the scaling matrix to obtain the total expected utility E(U) for each project. The project with the highest total expected utility will then by selected.
+　The general model described above can be reduced to represent the special case of a single objective and two variables, commonly used when one objective is being considered. The utility, objective, and scaling matrices
+
+　First the objectives are arranged in preferential order as:
+NPV
+X? number of new jobs created  number of employees from minority groups number of additional staff to owner's management team  prestige of the agency
+The last objective, being qualitative, has a subjective attribute which is represented on an interval scale from 0
+
+in this case become:
+		(8)
+		(9)
+[S] = 1.0
+and the expected utility can be expressed as:(10)El U] = U(g) + 0.50211)
+It is interesting to note that Equation Il is identical to Equation 2 which is frequently proposed in a number of textbooks (Ang and Tang, 1984; Hertz and Thomas, 1983), as a reasonable approximation of the expected utility for all practical purposes.
+Numerical example
+A government agency or department is to select one of three proposed construction projects for development. Based on past experience and stored data under a variety of economic conditions, a reliable analyst has determined the possible values of the cash flow associated with each of the three projects to be as shown in Table l . A decision for selecting a project has to be made based on net present value for each project, in addition to the four other objectives identified in Step 1 below. The economic life for all projects considered is assumed to be 25 years.
+Table 1 Cash flows for three projects
+
+Project Period Minimum net Maximum net Likely net year	cash flow	cash flow	cash flow
+
+Bo— 1.7142-2.285—2.01-250.900.600.70c-2.25-3.90—3.00c1-251.04310.7270.9458
+Identification of objectives (Step 1) The objectives considered in this example are:
+(a) net present value (NPV),
+(b) number of new jobs created,
+(c) number of employees from minority groups,
+(d) prestige of the agency,
+(e) number of additional staff to owner's management team.
+to 10 as shown in Fig. 1.
+	1	Very Low
+	3	Low
+	5	Average
+	7	High
+	9	Very High
+10
+Figure 1 Scale for subjective attributes
+Determination of the statistical variables associated with each objective (Steps 2, 3, and 4)
+A beta distribution is assumed, which requires the estimation of pessimistic (Cp), most likely (Cm and optimistic values (C) for each objective, in a similar way to that used in Program Evaluation and Review Technique (PERT). Although this distribution has also been used by others (Kangari and Boyer, 1981), based on past records and the experience of the decision maker, different types of probability distributions can be used.
+On the basis of beta distribution, the expected value and the standard deviation of the net present value can be expressed as follows:
+Expected net cast flow E(Cti) for project i in period t is:
+		(12)
+Standard deviation a(Cn.) of the cash flow for project i in period t is:
+
+where q, C, , and C) are the pessimistic, most likely and
+Table 2 Characteristic values of objective for projects A, B, and C
+
+Objective	Pessimistic	Most likely	Optimistic
+net cash flow	0.35b	0.72	0.40	0.70	0.946
+no. of new jobs created120145180130160200145175300no. of employees from minority groups10715151018181122no. of additional staff to owner's management team69104682474.5	6.0	2.5	5.0	7.0	3.0	5.5	7.5	3.5
+optimistic estimates of the cash flow for project i In period t.Table 3 Expected net present values and associated standard deviationsProjectE(NPV) in millions $c(NPV)c2.933
+3.462
+6.0580.225
+0.586
+0.538　The expected NPV and the associated standard deviation for each project can be calculated from the following expressions (Kangari and Boyer, 1981 and Cassimatis, 1988):
+		(14)
+Table 4 Summary of statistical values of objectives
+		(15)	Project Objectives
+where 	risk-free interest rate; t = period　It should be noted that cash flows are assumed to be perfectly correlated in Equation 15. This assumption is reasonable and appropriate, particularly when the project is expected to have cash flows over a number of years (Cassimatis, 1988).
+　The decision maker after consultation with the estimator, established the values of q, Cm and Co for each objective and arranged them as shown in Table 2. After scrutinizing the rates over a number of years, the decision maker selected an average risk-free rate based on treasury bills as :
+Using this rate, the expected net present values and the associated standard deviation for each of the three projects are calculated using Equations 15 and 16 as shown in Table 3. Similarly, the mean and the standard deviation have been calculated for the remaining four objectives, as shown in Table 4.
+
+B	3.462160.09.666.166.9		0.5865.00.660.830.25C 	6.058213.318.08.163.0		0.53820.01.160.50.16
+Utility functions of the decision maker (Step 5)
+The utility functions are commonly expressed mathematically in exponential, logarithmic, or polynomial form (Ang and Tang, 1984). The polynomial form is used in the present example. It should be noted that the expected utility is relatively insensitive to the form of the utility function and generally the exact form of these functions is not a crucial factor in the computation of an expected utility (Ang and Tang, 1984). The decision maker generates a number of data points expressing the degree of satisfaction or utility U(Xi) as the random
+Table 5 Utility matrices
+
+Project A objectives
+                                             - (1 '2) (0.22) x.	1 1.308(4.55)	-(1/2) (0. 18)
+	1 0.147(6.70)	-(1/2) (15.6)
+	1/4(5.212)	(1/2) (0.066)
+	1/5(2.25)	(1 /2) (0.78)
+Project B objectives
+	(1/3.46) (8.22)	-(1/2) (0. 19)
+	(1/1.60) (5.53)	-(1/2) (0.18)
+	(1/0.0966) (4.46)	-(1/2) (15.6)
+	(116.16) (3.062)	(1 /2) (0.66)
+	(1/6.9) (7.54)	(1/2) (1.08)
+Project C objectives
+
+Table 6 Objective matrices
+
+2.931.3080. 14745(0.225)2(0.0416)2	0.0133)2(0.66)2(0.16)23.461.600.09666.166.92(0.586)2(0.05)2	
+0.0066Y(0.83)'(0.25)2c6.0582.1330.188.163(0.538)2(0.2)20.01 16)2(0.5)2Project Variables Objectives
+x,variable Xl associated with the i th objective takes on different values between the most and least desirable outcomes for that objective. The data points are then fitted (Deb, 1986) to yield the following utility functions for the five objectives being considered:
+
+where Xl has units in million dollars
+U(x2) 	- 0.09x; where X2 has units in hundreds
+
+where X3 has units in hundreds
+
+where X4 is dimensionless
+U(X5) = 0.026>0-1
+where X5 has units from the scale shown
+
+Calculation of the expected utility (Step 6)
+First, the utility, objective, and scaling matrices are to be generated. Using the components of Taylor's series in Equation 5, the utility matrices for the three projects are determined as shown in Table 5. From the values in Table 4 and based on Equation 6 the objective matrices are formed as shown in Table 6.
+　The decision maker, after consultation with the experienced personnel in the offce and using personal judgement, assigned the relative importance of each objective (relative weights or scaling factors) and hence constructed the scaling matrix, [S], as follows:
+
+Having established the utility, objective and scaling matrices, the expected utility values associated with each individual objective are then calculated by multiplying only the first two matrices in Equation 4. As explained earlier, only diagonal elements of this product (Table 7) represents the expected utility values, in view of the assumed decomposition of the joint utility function and the use of the additive model. Consequently, the total expected utility value of each project, E[ U], is calculated to be 5.13, 6.17, and 6.30 for projects A, B, and C, respectively. Project C has the highest total expected utility, and therefore is recommended for selection.
+Table 7 Expected utility of each single objective
+ProjectExpected utilityU(XD	U(X2)U(X3)U(X4)U(X5)c5.793	4.549
+8.194	5.529
+9.880	7.2706.690
+4.459
+8.1705.224
+3.084
+1.3552.259
+7.573
+—0.239Comments on the analysis and discussion of results
+Having evaluated the three projects based on the five-objective decision-criteria, the decision maker may further be asked to respond to the following 'what-if' senarios :
+1. What if one considers only the objective of maximizing the NPV, which project can be recommended ?
+2. What if one considers only the NPV, which project has the least risk?
+The decision maker now considers only the variance
+	2	of the net present value,
+6(X1) and the expected utility 
+ — as listed in Tables 6 and 7, respectively, for each of the three projects — and arranges them for easy comparison, as shown in Table 8. In addition, the decision maker may calculate the coeffcient of variation (C V) and the variation of the NPV (Table 8).
+Table 8 indicates that project C has the maximum expected utility. Project A has the least risk and project B has the highest risk, while project C is in between the two extremes. The decision maker could select project C on the basis of its utility value for the single most important objective (NPV) and indicate the relative risk with the other two projects. To a cautious decision maker, this alone might rule out project C. Those who could easily absorb a larger risk would clearly go for project C, because over a series of such projects the result of choosing one with these characteristics would maximize the expected profit.
+Limitations and practical applications
+The main assumption made in the development of the present methodology is that the objectives considered in the selection criteria are independent. This allows the use of a simple additive model and avoids the complexity and excessive computational effort associated with joint utility functions. Although this assumption is acceptable for all practical purposes, as stated earlier, care should be exercised in identifying the objectives so as to minimize the degree of dependence among them. In other words, an effort should be made to minimize the degree of overlapping or correlation among the objectives being considered. This could be achieved by combining and regrouping correlated objectives (Ang and Tang, 1984). It should be noted that in practical applications where the presence of correlated objectives may be inevitable, the additive utility model has been used for simplicity (Ang and Tang, 1984) and was found reasonably accurate (Hwang and Yoon, 1981).
+　The method described in this paper has many practical applications where decisions are made with uncertainty considering a number of objectives. For example, in procurement of major equipment in industrial facilities, the selection is normally performed considering a number of objectives such as estimated cost, expected delivery time, expected operation and maintenance cost. In view of the uncertainty associated with the time and cost required for manufacturing such equipment, vendors could be requested to prepare their bids expressing these uncertainties. This could be done by quoting their prices and delivery times in the form of optimistic, most likely and pessimistic values. Similarly the method could be applied to the evaluation of designbuild proposals or tenders for constructed facilities, where more than one objective is normally considered and the information submitted exhibits some degree of uncertainty. Other applications may include selection of alternatives during the project planning stage: site location, and construction plant and method. The method is general and flexible and could be used by owners, design professionals (architects and engineers),
+
+Table 8 Expected utility and variation of net present values
+ProjectEL U(XI)]Variation of NPV
+100
+$ millionc5.793
+8.194
+9.8800.0506
+0.3433
+0.28947.70
+16.90
+8.900.2256
+0.5847
+0.5392
+and contractors. Essentially, it provides a multi-attributed decision aid support in an environment that exhibits some degree of uncertainty.
+Summary and concluding remarks
+A multi-objective decision-criteria method has been presented for selection of construction projects under risk. The method is based on a multi-attribute utility theory for modelling the descision criteria and treats uncertainty in a similar way to that used in PERT. The decision model used in the present study considers multi-objectives, multi-variables and yields a single utility value for each project which makes it convenient for comparison of different alternatives during the selection process. In addition, during the calculation of the total expected utility, the method permits the decision maker to assess all alternative projects based on each individual objective, thus facilitating 'what if' analyses associated with different scenarios. The method provides a reasonable trade-off between realistic modelling and ease of computational effort. A numerical example has been worked out to illustrate the use of the method. Although the example has illustrated the type of decision aid support that could be provided to an owner's organization or a real estate developer, the present method can readily be used to provide a similar support to contractors in formalizing their marketing strategies (i.e. whether to bid for a new project, or which project or projects should be selected for bidding at any given time). The method could also be used in procurement: for evaluating proposals of material and equipment suppliers.
+References
+Ang, A.H.-S. and Tang, W.H. (1984) Probability Concepts in Engineering Planning and Design, Volume Il, John Wiley and Sons, New York.
+ASCE, Committee on Construction Management (1987) Qualification and selection of construction managers with suggested guidelines for selection process, ASCE, Journal of Construction Engineering and Management, 113 (1), 51—89.
+Bussey, L.E. (1978) The Economic Analysis of Industrial Projects, Prentice-Hall Inc., Englewood, NJ.
+Cassimatis, P. (1988) A Concise Introduction to Engineering Economics, Unwin Hyman, Winchester, MA, USA.
+Co ri ht 
+Deb, B.C. (1986) Construction project selection under risk. Major Technical Report presented in partial fulfilment of the requirements for the degree of M.Eng., Centre for Building Studies, Concordia University, Montreal.
+Handa, V.K. and Geogiades, I.F. (1980) Construction project selection, Journal of the Construction Division, ASCE, 106, 355-69.
+Hertz, D.B. and Thomas, H. (1983) Risk Analysis and its Applications, John Wiley and Sons, New York.
+Hwang, C.L.G. and Yoon, K. (1981) Multiple Attribute Decision Making: Methods and Applications, SpringerVerlag, Berlin.
+Ibbs, C.W. and Crandall, K.C. (1982) Construction risk: multi-attribute approach, Journal of the Construction Division, ASCE, 108, no. C02, 187-200.
+Kangari, R. and Boyer, L. T. (1981) Project selection under risk, Journal of the Construction Division, ASCE, 107,
+597-607.
+Keeney, R. L. and Raiffa, H. (1976) Decisions with Multiobjectives : Preferences and Value Trade Offs, John Wiley and Sons, New York.
+Lifson, M.W. and Shaifer, E.F. (1982) Decision and Risk Analysisfor Construction Managment, John Wiley and Sons, New York.
+Moselhi, O. and Martinelli, A. (1990) Analysis of bids using multiattribute utility theory. Proc. of the International Symposium on Building Economics and Constructzon Management, Sydney, Australia, 335—45.
+saaty, T.L. (1980) The Analytical Hierachy Process, McGraw Hill, New York.
+White, J.A. Agree, M.H. and Case, K.E. 1989) Priniciples of Engineering Economic Analysis, 3rd edn, John Wiley and
+Sons, New York.
+Appendix — Notation
+The following symbols are used in this paper:
+Total utility score
+	— Utility score for the i th objective x— Measure of objective i in its natural units;
+and
+ Scaling (weighing) factor associated with the i th objective
+Utility function associated with the 	objectiveNPV
+Net present value
+— Utility, objective, and scaling matrices,respectively
+= Risk-free interest rate
+	46	Moselhi and Deb
+
+Project selection considering risk	47
+
+Copyright 0 2001 . All Rights Reseved.
+
+Copyright 0 2001 . All Rights Reseved.
+
+
+
+Copyright 0 2001 . All Rights Reseved.
+
+46	Moselhi and Deb
+
+46	Moselhi and Deb
+
+0 2001 . All Rights Reseved.
+
+0 2001 . All Rights Reseved.
+
+46	Moselhi and Deb
+
+0 2001 . All Rights Reseved.
+

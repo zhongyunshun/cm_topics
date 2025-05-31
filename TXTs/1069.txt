@@ -1,0 +1,544 @@
+﻿Construction Management and Economics, 1991, 9, 187—204
+Escalation management: Forecasting the effects of inflation on building projects
+R.F. FELLOWS
+Construction Study Unit, School of Architecture and Building Engineering, University of Bath,
+Bath BA2 7AY, UK
+Following a review of the development and use of indices which purport to measure the effects of inflation upon the building industry, the paperfocuses upon the problem offorecasting. Errors in publishedforecasts of building cost indices and tender price indices are noted and various possibilities for achieving more accurateforecasts are evaluated. The evaluations demonstrate that stochastic time seriesforecasting is a useful approach. A probabilistic project cashflow modelfor NED02 work categories was produced and combined with stochastic time series forecasts of the NEDO category indices to yield project escalation forecasts of measured variability. Although high forecasts of escalation resulted, these forecasts were of lower error than other forecasts derived from published information. Sensitivity analyses were used to consider variability and error sources in theforecasts, showing the primary variable to be the indices. It is concluded that forecasts of projects' escalation based upon stochastic time series techniques offer considerable advantages to the construction industry and its clients.
+Keywords: Inflation, escalation, cash flow, stochastic time series forecasting indices
+Introduction
+Following the recent recession in the building industry, the incidence and duration of firm price contracts has increased markedly. It is common to find multi-million pound projects of over 2 years' duration executed under firm price provisions. Thus, it appears that both public and private clients, plus their advisers, believe such contractual terms to be advantageous. A research project, completed recently, calls such belief into question; a summary of the work is given in this paper.
+The research set out to determine a means:
+  (1) to provide reliable forecasts of tender prices, building costs and the effects of inflation upon building projects, and
+  (2) to provide identification and quantification of variabilities in the forecasts;
+in order to assist clients and consultants in budgeting for building, to aid constructors' bidding and to facilitate improved post-contract financial control.
+Background
+Parry-Lewis (1965) noted the historic effects of interest rates on building activity and suggested that the key to building cycles lay in 'population, credit and shocks'.
+0144-6193/91 $03.00+.12 0 1991 E. & F.N. spon Ltd.
+Co ri ht 
+  As recently as the 1960s, the norm for building contracts continued to be firm price. The Emmerson Report (1962) found that in spite of the apparent desirability of firm price contracts, they involved far too many uncertain factors; notably inability of materials producers to operate appropriate fixed prices; changes in prices of fuel, transport and raw materials and fluctuating Government policies. Two years later, the Banwell Report (1964) provided strong advocacy of firm price contracts for Government projects of up to 2 years' duration. Further it suggested that greater durations would be appropriate iflong-term wage settlements and firm price quotations for such periods could be achieved. Both Action on the Banwell Report (1967) and Contracting in Civil Engineering since Banwell (1968) endorsed the continuing use of firm price contracts but, especially the Civil Engineering report, noted the problems faced by contractors under pressures of inflation. Action on Banwell asserted that firm price contracts did not necessarily result in lower tender prices.
+  During the early 1970s there was a surge in building costs such that contractors on some firm price contracts experienced losses of around 25%. Liquidations resulted despite quite widespread ex-gratia payments by clients (usually public). These effects of the 'Barber Boom' subsequently were exacerbated by two 'oil shocks' and inflation reaching over 25% per annum coupled with major cuts in public expenditure. Thus full fluctations reimbursement became the norm. Not until the mid-1980s, when inflation had declined to around 5% per annum, the recession had forced many contractors into liquidation and cuts in public expenditure were maintaining a very competitive environment, did firm price contracts regain widespread use.
+Indexation system (NEDO)
+Shaw (1974) calculated that contractors' shortfall in recovery under the 'traditional' system of fluctuations reimbursement (as JCT 80, Clause 39), ignoring effects of productivity deductions, varied proportionately to contract sum and project complexity from 25% on small, simple contracts to 45% on large, complex contracts; the productivity deduction of 20% of labour costs increased the shortfall. He considered that contractors' upper management had realized the existence and size of the shortfall only in the late 1960s/early 1970s and so began to apply pressure to obtain improvements in the recovery system.
+  Despite the problems caused by inflation's effects, only four significant studies of the subject had been executed in Britain. EDC for Building (1969, 1973) investigated, proposed and tested a formulae (index) escalation system for building contracts. Bowley and Corlett (1970) carried out an extensive study of trends in building prices, including formula adjustment techniques and Barnes (1975) examined the sensitivity of the formulae system which had been implemented (NEDOI).
+  The work of EDC for Building and Bowley and Corlett established the viability of a formulae escalation system, developed, tested and refined the proposals such that NEDOI was introduced via a DOE consultative document in September 1973 with implementation on all appropriate Government contracts from the end of that year. Thus, the period for study by and consultation with the industry was very constrained and, in consequence, the industry was suspicious, especially as the theoretical 100% recovery at very low cost was reduced to less than 85% by anti-inflation legislation — productivity deductions (in respect of labour costs) and the Treasury's insistence that a 15% non-adjustable element be imposed on all Government contracts. However, as some compensation, the public sector minimum duration for full fluctations contracts was reduced from 2 years to 1 year.
+
+Copyright 
+  NEDO 1 employed 34 work categories plus specialist engineering categories. Items which could not be allocated to a work category were subject to an 'average' adjustment via balance of adjustable work provisions. The categories had been determined by examination of a sample of 50 bills of quantities.
+The sensitivity of NEDOI was examined by Barnes (1975) who found, inter alia, that:
+  (1) NEDOI was likely to produce unpredictable results due to its sensitivity to several distorting factors;
+  (2) the main cause of the sensitivity was the difference between cost increases on particular contracts and the national cost increases embodied in the indices;
+  (3) bias in the formulae was caused by the productivity deduction and the non-adjustable element;
+  (4) the suggested average inaccuracy on net recovery was 15%;
+  (5) the level of misallocation of work to categories experienced in practice appeared not to have any effect on accuracy;
+  (6) the amount of risk allowance necessary was not very sensitive to the level of accuracy assumed but was much more sensitive to the amount of cost increase predicted.
+  The finding that individual categories were more variable in their recovery than were entire projects was reflected by desires of specialist (sub-) contractors to amend the system.
+  Following considerable pressure from the industry and investigation of the operation of NEDOI by the National Consultative Council for Building and Civil Engineering, the NED02 formulae system was instigated in April 1977. NED02 comprised 48 work categories (now 49) and 5 specialist engineering formulae. Resource compositions of the categories were fixed as at June 1976 from information supplied by 35 trade associations (derived from analyses of accepted tenders and trade surveys which indicated the resource inputs and their values on sampled projects). Thus each NED02 work category contains a fixed weighting of resources and so price changes are the determinants of movements in the work category indices. As the resource weightings were determined from analyses ofresource values, work categories are kept under review to ensure maintenance of their representativeness.
+'Collapsing' NEDO
+Under both NEDOI and NED02 it has been possible to collapse the indices to produce work groups — usually about 13 work groups. The collapsing is combining the work category indices to yield work groups in which the indices have fixed weightings — this may be problematic if subsequent variations alter the work content of the project (a similar, but less exactly calculated, system constitutes the civil engineering formulae which retains a 10% non-adjustable element).
+  Occasionally, more extensive collapsing has been advocated such that a single index of fixed work category weightings results. Advocates of collapsing — Evison (1976), Light (1979), Fazakerley (1982), ACA (1982) have argued that such simplification of the system produces little difference in recovery and is cost-saving. Barnes (1975) suggested that under work groups, accuracy was decreased but predictability was improved —a suggestion countered in the author's questionnaire survey of clients, consultants and contractors.
+Co ri ht 
+Escalation information
+Knowledge of escalation is required:
+(a) to adjust historical data
+(b) to calculate any reimbursement, and (c) to forecast.
+Whilst all three purposes require monitoring and accurate recording of realized escalation, only (c) uses data to predict future realizations (see Fig. 1).
+  Forecasts determine not only project viability but are used to allocate risks between parties and to decide responses to those allocations, as illustrated in Figs 2 and 3. It is usual for consultants and contractors to forecast by extrapolation of trends and then to adjust the extrapolation for 'known' future events (e.g. Government expenditure statements) and the 'experience' of those producing the forecasts. Therefore, such forecasts are rather subjective. Assessments of escalation vary from the measures of inflation in the economy in general (e.g. RPI, GDP deflator), through industry measures (e.g. Producer Prices Indices, Building Cost Indices, Tender Price Indices) to the specific indices such as NED02 work categories. NED02 indices measure changes in contractors' costs, as do the Building Cost Indices (BCIs) of the Building Cost Information Service (BOIS) and Property Services Agency (PSA). Tender Price Indices (TPIs) measure changes in contractors' prices for successful tenders.
+  BCIS and PSA use similar methods to produce their indices. The resultant BCIs are runs of Laspéyres indices (p Iqo/poqo) and are obtained by calculating the quarterly arithmetic means of monthly NED02 work category indices and applying these means to a representatively weighted sample of work categories. The TPIs employ sampling of 25% greatest value BQ items (from accepted tenders); external works are omitted; PCs, profit, attendances and preliminaries are dealt with in slightly different ways. BCIS uses the geometric mean of the individual projects' TPIs for the quarter whilst the PSA uses the median project TPI to determine the 'overall' index for the quarter. In all cases, the index run which results is a Paasche Form (piql/poql). NED02 methodology is discussed in two explanatory booklets — PSA (1977, 1979). The NED02 indices are runs of the Laspéyres type.
+  Laspéyres index runs are subject to upward drift. Further, upon upward trends in indices, arithmetic means yield the highest 'average'; geometric means, the second and medians, the lowest; the reverse pattern applies to falling trends. Thus, especially during periods of increasing costs/prices, BCIs and NEDO indices will produce high results.
+BCISforecasts of BCI and TPI
+BCIS publish forecasts of their general BCI and all-in TPI which assist in predicting both tender prices and final accounts. Such information facilitates prediction without resort to the use of project cost models, as is necessary if NEDO indices are employed. However, the forecasts provide information upon 'average' cost/price changes.
+In seeking to enable the indices to be made project specific, BCIS publish further measures:
+(1) location indices
+(2) form of contract indices
+(3) building type indices
+	opyright 	
+
+
+	Copyright 	Rights 
+
+Fig. 2. Conceptual model of project parties' risk (source: Levitt et al., 1980, p. 300)
+(4) level of competition indices.
+For various reasons (e.g. samples, behaviour), such measures are indicative only.
+  BCIS began to publish forecasts in 1980 — March for general BCI and June for all-in TPI. Comparison of the forecasts up to and including November 1983 with the realized indices showed the forecasts' percentage errors. The forecasts are published quarterly for up to eight quarters ahead. The forecasts' mean percentage errors increased with increasing forecasting period in an exponential fashion. Errors in BCI forecasts were much less than those for T PI. The exclusion from the analysis of forecasts which were published during 1980 resulted in
+•¯¯CÜrT*hföäö01. Ri hiöäeserved.
+Fig. 3. Risk management
+considerably lower measures of forecasting errors, suggesting that a 'leaning process' had occurred. However, errors for forecasts of TPI for more than 1 year ahead still had mean errors exceeding 11 %.
+  McCaffer et al. (1983) produced a regression model 'likely to produce more accurate predictions of tender price movements than have hitherto been possible'. It was noted that the forecasts could be improved by the use of time-series methods.
+  Two simple methods were employed to examine their effects on BOIS forecasts — adjustment of the forecasts for mean percentage errors and a multiple regression modelling of the forecasts' errors (on time ahead) to yield adjustments. Results are given in Tables 1 and 2. The results are somewhat inconclusive but do demonstrate scope for improvements, thus the Box—Jenkins time series method was employed (Box and Jenkins, 1970).
+  The Box—Jenkins methodology is shown in Fig. 4. Input data for the Mintab statistics computer package is shown in Table 3. The resultant models were evaluated against the realized indices for first quarter 1982 to fourth quarter 1984 (an ex post forecasting period for the time series analyses).
+Copyright 
+
+Table 1. BCIS - BCI RMS% errors for forecasts of IQ—4Q 1984
+Quarters ahead	BCISBCIS less calculated mean % error
+(Incl. 1980)BCIS less calculated mean % error
+(Excl. 1980)Regression model (Incl. 1980)Regression model
+(Excl. 1980)1
+2
+3
+4
+5
+6
+7
+80.18
+0.38
+0.55
+0.77
+0.68
+0.47
+0.96
+2.37
+3.750.18
+0.56
+1.55
+2.05
+2.48
+3.35
+3.85
+4.16
+3.390.18
+0.56
+1.55
+1.47
+1.68
+2.06
+2.70
+2.60
+2.790.40
+0.56
+1.02
+2.14
+2.61
+2.96
+3.72
+3.97
+3.570.18
+0.43
+1.02
+1.47
+1.77
+2.06
+2.34
+2.60
+2.01Table 2. BCIS — TPI RMS% errors for forecasts of IQ—AQ 1984Quarters ahead	BCISBCIS less calculated mean % error
+(Incl. 1980)BCIS less calculated mean % error
+(Excl. 1980)Regression model (Incl. 1980)Regression model
+(Excl. 1980)1
+2
+3
+4
+5
+6
+7
+82.62
+1.50
+2.55
+5.26
+6.96
+8.35
+9.72
+13.64
+17.302.42
+1.92
+3.01
+3.28
+5.38
+8.35
+1 1.44
+13.00
+16.272.62
+1.10
+2.00
+1.88
+0.50
+4.96
+7.91
+8.622.42
+1.75
+3.35
+3.68
+5.04
+8.35
+11.00
+13.36
+16.282.42
+0.94
+1.91
+1.68
+1.83
+4.81
+6.85
+8.74  Plots of the input raw data against a time base yielded upward sloping, exponential-type curves which indicated that transforms of the data were necessary. The autocorrelation functions (ACFs) of the raw data were plotted also (correlograms); these showed slow declines (in correlations) with increasing lags (of time intervals between data points) which suggested that differencing the data would be a suitable transform to produce a stationary series. To analyse a time series, it is necessary to obtain a series which is stationary — i.e. it comprises fixed parameters and a discrete linear stochastic process — a sequence of identically and independently distributed random variables with a mean of zero and variance 62 ; the probability law which governs the behaviour of the series is assumed to be constant (see, for example, Granger and Newbold, 1977). Literature on stochastic time series analysis strongly indicated that first differences of the data would be appropriate.
+As quarterly data were being used, it seemed probable that taking first differences of lag 4
+
+Ri fiis 
+Enter raw data
+Plot rata against Time base —>PIot
+                                            indicates transform Transfoxy/ *TransfomData as necessary and	NOT different	re—plot	required transform required
+Plots of A.C.F, &
+Select appropriate Model Form
+Construct Model
+Evaluate Model
+Predict using Model
+Evaluate Predictions
+Fig. 4. Methodology of time series modelling
+(time periods; quarters) would be appropriate. (The technique is shown in the example below.)
+	Year	1st differences of lag 4 (quarters)
+	Quarter	
+1	100106111	652	102108112	643	105109114	454	105110115	55(Example of obtaining first difference of lag 4 from raw data.)
+  However, with data relating to costs and to prices, effects other than those caused by annual seasons had been found to be potentially strong and so first differences of lags 1, 2 and 3 were evaluated in addition to those of lag 4.
+  Correlograms and partial correlograms (plots of partial autocorrelation functions) were used, as per the normal Box—Jenkins procedure, to select the appropriate lags of first differences and the type of model to use.
+Copyright 
+Table 3. Time series models — data inputs for construction of models
+Generating organization	Index number series	data (inclusive)
+
+BCIS	General	BCI	All-in	TPIIQ1974-4Q1981	Firm	TPI[32 data points]Fluctuation TPIper seriesPSAAPSAB (building cost)	All-in	TPI B	IQ1975-4Q1981
+	Firm	TPI T	[28 data points]
+	VOP	TPI P	per series
+1
+DB & E	BCI	IQ1970-4Q1981 TPI	[48 data points] per series
+
+Key: BCIS — Building Cost Information Service, PSA — Property Services Agency, DB & E — Davis, Belfield and Everest, APSAB — Average PSA building cost index, BTPI — QSSD building tender price index.
+  In all cases, AR (auto-regressive) models were indicated to be appropriate, as noted by Granger and Newbold (1977).
+Theoretical suitability of the models produced was determined by:
+(1) parameter over-fitting
+(2) plot of residuals
+(3) correlogram of residuals
+(4) Portmanteau test on residuals.
+Table 4 gives a summary of the results.
+  The BCI models' being consistently AR3 operating on 14 differences indicates that annual factors have the strongest influence on the pattern of the series. Commonly, prices of goods exhibit variation with annual seasons, wage bargains tend to be struck annually and plant charges are reviewed on an annual basis. Further, the influence of seasons on both productivity and output is well known. The three-quarters 'memory' of the model indicates a variety of factors to be influential and of cost component changes being periodic; the coeffcients of the models' terms show that the quarter immediately preceding that being forecast is the most influential on the result.
+  The TPI models were somewhat varied in form although all were low order AR processes and, BOIS fluctuating TPI, operated on 13 differences. The results indicate that seasonal effects are not dominant in patterns of tender price changes — scope exists for further investigation of independent variables. (An initial study is reported in Fellows, 1987.)
+Specific escalation modelling
+That NED02 indices are similar in form to BCIs, suggested that the time series approach to modelling NED02 indices could produce good results. However, in addition to producing
+
+Rights 
+Table 4. Summary of results for BCI and TPI modelling
+
+SeriesModel types statistic( % error)2Residuals r 2 (adjusted for df) regressed or time (%)BCIS
+BCI
+TPI
+FRM TP1 a
+FLUCTG8
+TPI
+PSA
+BCI
+TP1a
+FRM
+FLUCTG
+TPI
+DB & E
+BCI
+TPIAR3
+AR3
+ARI
+AR2
+AR2
+ARI AR2 
+AR3
+ARI
+AR2
+ARI
+AR2
+AR3
+ARI ARI
+AR2
+AR2,
+AR2, 
+AR3
+ARI,
+AR2,
+AR3
+AR2, 
+AR3, 12diff
+14diff
+1 | diff
+13diff
+13diff
+12diff
+12diff
+12diff
+13diff
+13diff
+14diff
+14diff
+14diff
+13diff 13diff lldiff 12diff
+13diff
+13diff
+14diff
+14diff
+14diff
+%diff
+1 dlff
+311.955
+8.355
+14.737
+14.419
+13.424
+7.794
+10.275
+10.752
+17.225
+16.965
+21.840
+9.499
+10.139
+11.295
+7.762
+10.015
+14.437
+14.297
+11.268
+11.031
+8.325
+7.462
+21.546
+13.47321.026
+21.026
+23.685
+22.362
+23.685
+23.685
+22.362
+21.026
+23.685
+22.362
+22.362
+21.026
+19.675
+23.685
+23.685
+22.362
+22.362
+22.362
+21.026
+24.996
+23.685
+22.362
+23.685
+22.36218.8
+34.3
+75.2/75.2
+107.0/97.0 197.7/226.ob
+149.4/121.9
+169.7/143.0
+132.3/107.1b
+53.4
+53.3
+10.5
+60.6
+50.5
+78.0
+148.1
+327.4
+379.3
+655.3
+114.2
+23.9
+20.6
+32.6
+63.0
+51.4— 3.4
+1.2
+-3.2
+-2.2
+-2.3
+—2.3
+-3.0
+—2.7
+— 1.5
+—1.6
+—4.5
+— 1.9
+0.4
+0.4
+0.6
+-3.1
+— 3.4
+—3.7
+—1.9
+-2.1
+1.3
+-0.1
+-2.3
+-2.2a Denotes model selected.
+b BCIS tender price indices covering the 12 quarter test period for prediction were revised; the errors are for comparisons against the original series and the revised series.
+time series models of the indices, it was necessary to have a project cash flow model in compatible form — i.e. monthly by work categories.
+  The cash flow model was produced from a sample of 21 projects which had been completed using NED02 work categories. Valuation data facilitated the analysis which considered percentages of total value (for each category), cash flow (per category, per valuation) and time (per monthly valuation).
+Co ri ht 
+
+  The probability of each category's occurring was calculated from analysis of the sampled projects; the probabilities were multiplied by the mean percentage values of the categories to give the expected value of each category. The expected values were rationalized (to sum to 100%). Plots of the category rationalized expected values, with measures of positive and negative variabilities, were used to determine expected, upper and lower category expenditures over project duration (all as percentages), the data being noted at 5% duration intervals.
+The resultant category models were then combined to produce models of:
+(1) services work
+(2) work categories plus balance of adjustable work
+(3) the whole 'typical' project.
+Regression equations were fitted to the above three cash flow models also.
+  Time series models of the indices were produced using the Box—Jenkins procedure of the Minitab package with tests for goodness offit as described above. The data input are noted in Table 5.
+Table 5. Data inputs
+
+June 1976—May 1982 inclusive for:
+NED02 categories 2/1 to 2/48
+Appendices 1, 2, 7
+Electrical Installations El, E2
+Heating, etc. Installations HI, H2
+Lift Installations Ll, L2, L3, L4
+Structural Steelwork Sl, S2
+January 1980—May 1982 inclusive for: NED02 category 2/49
+January 1978—May 1982 inclusive for:
+Heating, etc. Installations SP2.
+As the data were monthly, generally the input data comprised a 72 point set.
+
+  Thirty-six period ( = 3 years) forecasts were produced for each index and, as a later version of Minitab was employed, the modified Box—Pierce chisquare statistic was used as a further test of fit of the models.
+  Except for work category 47 — bituminous surfaces, which had an MA (moving average) component of order 1 — all the models were AR of low order operating on first differences of various lags (not exceeding 12) of the series.
+  The time series forecast indices were applied to the probabilistic cash flow models for a hypothetical 20 month project. The results were compared with the outcomes ofapplying the realized NEDO indices to the model using the period of June 1982 to January 1984 inclusive.
+  Sensitivity analyses were undertaken to seek the principal sources of error/variability in the escalation model. Also, the six main NEDO category components, selected in descending order of proportion of expected value of the hypothetical project, were examined by fitting
+
+regression equations and comparing the results with those obtained originally, thereby indicating the effects of a change in cash flow pattern.
+Results
+Using expected cash flow, the calculated escalations for the project were (project initial value = 100.00):
+for realized NEDO indices6.528672for time series (ex post) forecasts8.879333error (forecast over actual)2.350661 (+36%)Variability of the results was examined (see Tables 6a and b). As errors in forecasts of escalation are due to combinations of errors in predictions of values and of indices and the components are multiplied to calculate escalation, the variability is obtained from:
+
+where:
+vt = current month's value of the work category It = current month's index of the work category 10 = base month's index of the work category
+summed over the project's categories, etc.
+  Examination of extreme cases of variability, where p(X, Y) = 1 and p(X, Y) = — 1, set the limits for variability and an intermediate case was provided at p(X, Y) = 0; where p(X, Y) is the correlation between movements in cash flows (values) and indices. Summation of variabilities was achieved by taking the square root of the sum of the squared individual variabilities.
+  Internal correlations are likely for both cash flows and indices. However, as there is no apparent causal link between component valuation patterns and movements of NEDO indices (except, perhaps, due to 'pricing manipulations'), generally p(X, Y)æ0 is an appropriate relationship. Thus the most likely escalation was:
+68% limits
+
+Time series prediction+8.879% +2.441% + 15.264%Realized indices+6.529% +5.336 0/o + 7.717%  The forecast indices usually exceeded the realizations. The hypothetical project period was June 1982 to January 1984. The second 'oil shock' occurred in 1979 and the Conservative government which was elected in that year pursued a policy ofcuts in public expenditure. The rate of inflation and interest rates were falling. The model building period for the time series models was, generally, June 1976 to May 1982. The models, therefore, reflected the situations prevailing during the model building period and so would not fully incorporate the effects of
+Co ri ht 
+Table 6a. Variability of prediction
+
+Predicted
+	Variability	escalationa
+—1
+—1
+Categories model+ 66.088	11.550 Mean = +6.954408%- 67.964	2.228 +74.189	12.114 - 76.262	1.651
+—1+ 56.83510.907-1- 58.5012.886	Services model+ 28.340	2.470
+Mean = + 1.924925%-25.252	1.439 +33.832	2.576 - 30.695	1.334
+—1+21.4862.339-1- 18.2511.574Total model+69.00115.006Mean = +8.879333%- 70.3202.635+1+ 77.88715.795- 79.3231.836—1+ 58.77714.098—1- 59.9803.554Services model+ 19.838	2.307 Mean= + 1.924925%- 18.047	1.578 +23.715	2.381
+	-21.822	1.581
+—1+ 14.9822.2131- 13.2371.670Omits 'electrical labour' as an 'outlier'
+
+newer influences or of shocks. Hence, it should be expected that the forecast indices would exceed the realizations and, as the sensitivity analyses demonstrate the indices to be of major influence upon the escalation model, the error pattern can be explained.
+  Sensitivity analyses confirmed that a 1 % change in the value element yielded a 1 % change in the escalation. One per cent changes in the current indices, forecast and realized, produced 12% and 16% increases in total escalation respectively. The outcome occurred as the forecast indices almost invariably exceeded those realized; the result was marked particularly for the services indices, for which the base dates were earlier than those for the work categories. Increasing the forecast and realized indices by unity reinforced the last finding; for forecast indices the model's escalation increased by 4% (categories by 5%, services by 2%)
+
+
+Table 6a.—continued
+-1
+-1
+	Categories model+ 59.714	11.107
+	Mean = +6.594408%-59.679	2.804
++ 68.453
+	-68.885	2.164
+-1+ 49.44610.393Omits 'lead' as an 'outlier'—1—48.7953.561Total model+ 62.923	14.466 Mean = +8.879333%- 62.348	3.343 + 72.444	15.312
+	-72.238	2.465
+-1 + 51.666 13.467 1 -50.559 4.390
+Omits 'lead' and 'electrical labour' as 'outliers'
+
+a 68% level of confidence.
+Table 6b. Variability of actual escalation (due to variability of value components of the models)
+
+Actual
+Total model18.2007.717Mean = 6.529%-18.2685.336Categories model+ 15.1416.107Mean-5.304% 15.2734.494Services model+ 10.0991.349Mean 1.225%-10.0221.102	Variability	escalationa
+a 68% level of confidence.
+whilst for the realized indices the model's escalation increased by 17% (categories by 7%, services by 59%).
+  The sensitivity analyses showed that the error in the escalation forecast by the model was occasioned by error in the forecast indices, on average, of less than 23%.
+Comparison of the model with BCIS predictions
+BCIS forecasts of BCI were applied to the cash flow model. BCI and T PI were employed to produce simulations of pricing the project as a firm price and as a fluctuating price contract. The results were:
+Actual escalation6.5287Time series forecast escalation8.8793Predicted escalation BCIS — fluctuation9.9788Predicted escalation BCIS — firm10.0648  Thus using the BCIS predictions, the anticipated escalation exceeded actual escalation by about 53% and exceeded that predicted by the time series by around 13%.
+  A final exercise examined the effects of using the BCIS cash flow model and BCI predictions. The average resultant escalation exceeded actual escalation by 40% and exceeded that forecast by time series by 3%.
+  A corollary to these findings is that unless market influences reduced firm tender prices by 2% between the prediction date and the tender date, full fluctuations would have provided a cheaper project. The required minimum reduction of 2% assumes that firm and fluctuating tender prices were equal at the prediction date; it would be reasonable to expect that firm price tender levels exceed fluctuating price tender levels due to, inter alia, contractors' greater risks.
+Conclusions
+  (1) The time series models generated showed that building cost indices are influenced by annual effects primarily whilst non-seasonal factors have most influence upon tender price indices.
+  (2) Sensitivity analyses demonstrated that escalation is more sensitive to changes in the indices than to equiproportional changes in values. Due to the valuation processes which are common in the industry, errors (etc.) in valuations are likely to be small and corrected/compensated later in the project (see also Barnes, 1975). Thus conversion of NEDO indices from provisional to firm is likely to be worthwhile (as noted from the results of a questionnaire survey) and there is a necessity for careful 'fine tuning' of collapsed indices to ensure accuracy, whether into work groups or a single index.
+  (3) The error in escalation predicted by the project model was well within clients' required margins of error for project price predictions (5—73%).
+  (4) Over the ex post forecasting period, stochastic time series models provided low error forecasts of various building cost indices and tender price indices. In particular the forecasts contained lower errors than the corresponding predictions made by BOIS.
+  (5) As contractors are risk averse, they include premia in tenders for the risks which they assume. Non-recoverable elements of escalation feature in fixed, firm and fluctuating price contracts; bias is introduced via non-adjustable elements; contractors include allowances for anticipated shortfalls in recovery in their tenders. Thus, unless the 'market' exerts sumcient downward pressure on tender levels, full fluctuations will yield lowest prices.
+  (6) Consultants were found to believe that 'market conditions' are the primary determinant of building prices — a view consistent with demand pull theory; contractors believe that costs are the major determinant — as under cost push theory — but they do recognize that the market is important also. Thus, whilst in the short run the market can dictate prices, in the long-run contractors must cover their costs, risk assumptions and normal profit as a minimum to remain viable businesses.
+  (7) Stochastic time series models facilitate management of escalation by producing
+
+forecasts of quantified variabilities and of lower error than those which are available otherwise. Inflation is outside the control of the parties to a building contract and so cannot be used as a performance 'incentive'. Hence the risk of inflation should be borne by clients — over the long run, this will produce the lowest project prices despite, in the short term, individual advantages being possibly obtained by clients' exploiting market situations to secure lower prices through fixed or firm price contracts.
+  (8) The use of stochastic forecasting techniques provides predictions with quantified variability. Although such forecasts are required in some industries (e.g. North Sea Oil), the building industry clings to deterministic forecasting producing single-point predictions with no measures of variability or reliability. Adoption of stochastic methods would encourage confidence and an enhanced sense of realism through demonstration of the ranges of forecasts and express quantifications of their reliabilities to the benefit of clients, consultants and constructors.
+References
+Association of Consulting Architects (1982) Form of Building Agreement. The Architectural Press, London.
+Banwell, H. (1964) Report of the Committee on the Placing and Management of Contractsfor Building and Civil Engineering Works, MPBW. HMSO, London.
+Barnes, N.M.L. (1975) The Sensitivity of the Building Price Adjustment Formula. NFBTE, London.
+Bowley, M.E.A. and Corlett, W.J. (1970) Report on the Study of Trends in Building Prices. MPBW, HMSO, London.
+Box, G.E.P. and Jenkins, G.M. (1970) Time Series Analysis — Forecasting and Control. Holden Day, San Francisco, Calif.
+EDC for Building (1969) Formula Methods of Price Adjustment on Building Contracts — A Study by the Economic Development Committee for Building. Recommendations for Formula Price Adjustment on Building Contracts. NEDO, HMSO, London.
+EDC for Building (1973) Recommendations for Formula Price Adjustment on Building Contracts. NEDO, HMSO, London.
+Emmerson, Sir H. (1962) Survey of the Problems before the Construction Industries. Ministry of Public Buildings and Works, HMSO, London.
+Evison, P.J. (1976) Practical Effects of the Formula for Variation of Price on Building Contracts. MSc Thesis, Loughborough University of Technology, Unpublished.
+Fazakerley, P. (1982) Calculating fluctuations by the single work group method, Chartered Quantity Surveyor, October, 98—101.
+Fellows, R.F. (1987) Towards the Prediction of Escalation on UK building Projects. Proceedings CIB W-55 Symposium Copenhagen, B, 57—66.
+Fellows, R.F. (1988) Escalation Management. PhD Thesis, University of Reading, Unpublished.
+Granger, C.W.J. and Newbold, P. (1977) Forecasting Economic Time Series. Academic Press, London. Light, J.F. (1979) The Sensitivity of Reimbursement under Series 1 and Series 2 Price Adjustment Formulae for Building. MSc Thesis, Loughborough University of Technology, Unpublished.
+McCaffer R., McCaffrey, M.J. and Thorpe, A. (1983) The disparity between construction cost and tender price movements, Construction Papers, Chartered Institute of Building, 2, 2, 17—28.
+National Consultative Council Standing Committee on Building Indices (NCCSCBI) (1977) The Price Adjustment Formulae for Building Contracts (Series 2) Guide to Application and Procedure. PSA, HMSO, London.
+NCCSCBI (1979) The Price Adjustment Formulae for Building Contracts (Series 2) Description of the Indices. PSA, HMSO, London.
+Co ri ht 
+Parry-Lewis, J. (1965) Building Cycles and Britain's Growth. Macmillan, London, pp. 13, 213.
+Shaw, W.T. (1974) The NEDO formula for adjustment of fluctuations in respect of building works, The Quantity Surveyor, December, 103—12.
+Working Party of Building EDC (1967) Action on the Banwell Report. NEDO, HMSO, London.
+Working Party of Civil Engineering EDC (1968) Contracting in Civil Engineering Since Banwell. NEDO, HMSO, London.
+
+	188	Fellows
+
+Escalation management	189
+
+0 2001 . All Rights Reserved.
+
+0 2001 . All Rights Reserved.
+
+
+
+0 2001 . All Rights Reserved.
+
+	188	Fellows
+
+Escalation management	189
+
+All 
+
+0 2001 . All Rights Reserved.
+
+Escalation management	189
+
+	0 2001 . All 	Reserved.
+
+	188	Fellows
+
+Escalation management	189
+
+	Copyright 0 2001 . All 	Reserved.
+
+0 2001 . All Rights Reserved.
+
+	188	Fellows
+
+	. All 	Reserved.
+
+	188	Fellows
+
+Escalation management	189
+
+Copyright 0 2001 . All Ri hts Reserved.
+
+0 2001 . All Rights Reserved.
+
+	188	Fellows
+
+Copyright 0 2001 . All Ri hts Reserved.
+
+	188	Fellows
+
+Escalation management	189
+
+Copyright 0 2001 . All Ri hts Reserved.
+
+0 2001 . All Rights Reserved.
+
+Escalation management	189
+
+Copyright 0 2001 . All Ri hts Reserved.
+

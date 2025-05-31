@@ -1,0 +1,206 @@
+﻿Computing Systems in Engineering Vol. 4, Nos. 2—3, pp. 281—293, 1993	0956-0521/93 $6.00 + 0.00
+Printed in Great Britain.	C' 1993 Civil-Comp Ltd and Pergamon Press Ltd
+CONTRACTOR PROJECT RISKS CONTINGENCY
+ALLOCATION USING LINGUISTIC APPROXIMATION
+J. H. M. TAH,T A. THORPE$ and R. MCCAFFER$
+*School of Construction Economics and Management, South Bank University, Wandsworth Road. London SW8 2JZ, U.K.
+tDepartment of Civil Engineering, University of Technology, Loughborough,
+Leicestershire LEH 3TU, U.K.
+(Received 27 January 1992)
+Abstract—This paper demonstrates the application of fuzzy set theory to the subjective assessment of risks during tender preparation for the purpose of allocating contingencies. The need for contingency allocation is discussed and relevant project risk factors are identified. A hierarchical risk-breakdown structure for contractor risk assessment and a model for contractor contingency allocation are developed. A brief introduction to fuzzy set theory and the fuzzy risk analysis model to be applied is presented. A simple example is used to illustrate the application of the model in practice. The model is currently being used
+
+to develop a knowledge-based system.
+INTRODUCTION
+Instances of poor performance of projects in terms of time and cost overruns are commonplace in the construction industry. These are attributable to either unforeseen events or foreseen events in which uncertainty was not adequately allowed for. Significant improvements in project management performance can result from greater attention to risk management. I The concept of risk management is not unique to the construction industry. It generally involves risk identification, risk analysis, and risk response. Risk management may be performed during three phases of a project's life as follows: pre-sanction, development of contract strategy, and tender preparation? This usually involves clients, consultants, and contractors. The work presented here has been limited to contractors risk assessment during tender preparation for the purpose of allocating contingencies to cover the risks.
+　Probabilistic methods, including several other risk analysis method, 1 24 with various degrees of complexity, are being used for project risk analysis where uncertainties are represented as data uncertainties. However, because of the individual nature of construction projects there is usually insuficient objective data to calculate the probability of occurrence of specific outcomes of risk events. A high degree of subjective judgement is usually required. In practice the parameters involved are best described subjectively in linguistic rather than mathematical terms. Fuzzy set theory provides suitable mathematical models where the subjective character of the input information remains transparent in the results. Fuzzy set theory was developed by Zadeh5 to cope with imprecise knowledge. He felt that precision and meaningfulness were mutually incompatible. In the domain of project risk management this is equivalent to forcing the managers to state exactly their contract policy so precisely that they no longer believe that it is a statement of what they do. Since its inception, fuzzy set theory has evolved in several directions and is currently finding applications in a wide variety of fields ranging from automation and control to financial management decisions. However, in construction management, the concepts of fuzzy sets have not been fully explored. Research has been conducted in project scheduling, 6 tender evaluation, 7 and general construction risk management, 8 but more research is needed particularly as these concepts will provide an important basis for future expert systems development. 9
+281　This paper demonstrates the application of fuzzy set theory to the assessment of risks during tender preparation for the purpose of allocating risk contingencies. The need for contingency allocation is discussed and relevant project risk factors are identified. A hierarchical risk-breakdown structure (compatible with the common work-breakdown structure used in estimating and planning) for contractor risk assessment and a model for contractor contingency allocation are developed. A brief introduction to fuzzy set theory and the fuzzy risk analysis model applied is presented. A simple example is used to illustrate the application of the model in practice. The full details of the computations involved are presented in the Appendix to clarify and hopefully demystify the somewhat complex mathematics involved. The model is being used to develop a knowledge-based system working alongside a larger decision support system for construction management. 10
+CONTINGENCY ALLOCATION
+　In current practice, estimators add a large contingency allowance to the overall estimate to compensate for inaccuracies and risks. This allocation is based mainly on the estimator's perception of project risks. It is largely judgemental and arbitrary. Common practice is such that a classification system is used whereby company policy dictates a class of contingency to be applied to different types of projects. This conventional method of contingency allocation may be argued to be too simplistic as it can easily reduce to a routine administrative procedure that requires little investigation and decision making by estimators and senior management. This paper proposes a methodology that reflects the subjective and judgemental nature of risk assessment by estimators and senior management.
+RISK FACTORS
+　Several risk factors affect construction projects. Perry and Hayes] give an extensive list of factors assembled from several sources. However, these factors are generalized to cover those retainable by contractors, consultants, and clients. The major factors that affect contractors have been extracted and are considered under the following broad categories: labour; plant; material; sub-contractor; site; performance; contractual; location; and financial risks. Other risks outside the control of the contractor are inflation; exchange rate fluctuation; technology change; and political risks. The specific risk sub-factors include the level of design definition or detail, new technology or experience, rate of material wastage, availability and productivity or level of skill of labour, availability of construction equipment, environmental and site conditions. A risk factor can influence the variability of either quantities or unit rates or both. For example, the level of design detail will have an impact on a range of estimating quantities, the labour productivity and a particular site will influence the estimate of manhours, and the availability of certain construction equipment will influence the hire rates.
+RISK-BREAKDOWN STRUCTURE
+　The level of project risks and estimating inaccuracy varies between projects depending on the factors outlined above. These factors or sources of risk can be separated into those that are related to the management of internal resources and those that are prevalent in the external environment. External risks constitute those due to inflation, currency exchange rate fluctuations, and major accidents or disasters. External risks are relatively non-controllable and there is a need for the continual scanning and forecasting of these risks and a company strategy for managing the effects of external forces. Internal factors are relatively more controllable and
+et 
+vary between projects. Internal risk factors include the level of resources available, experience in the type of work, the location, and the conditions of contract. Some of these risk factors are local to individual work packages or categories within a project, whilst the others are global to an individual project and cannot be associated with any particular work package. No two work packages have the same level of risk and should be treated separately. The contingency allocation for each will be different. A risk-breakdown structure or categorization should, therefore, reflect these differences. The hierarchical risk-breakdown structure shown in Fig. I is suggested. In this structure, the overall risk is broken down into internal and external risks. The internal risks are further broken down into local and global risks. The local risks cover uncertainties due to labour, plant, material, and subcontractor resources. These are considered for each work package or section of work in the case of the bill of quantities. Global risks by their very nature cannot be allocated to individual work packages and are assessed on the project as a whole. This hierarchical representation is used to develop a formal model for contractors contingency allocation to pre-tender cost estimates.
+A MODEL FOR CONTRACTOR CONTINGENCY ALLOCATION
+　It is assumed that the estimator has calculated the most likely direct cost estimate, D, of the project, prior to the consideration of contingency allocation. This is performed by compiling the most likely quantities, Q, and applying the unit rates, Ri, to generate the most likely direct cost estimates, D, , for individual cost items. The overall estimated direct cost, D, is computed as follows:
+	= QiR,	(l)
+(2)
+(3)
+Theoretically, the direct cost estimate should be risk-free where no contingency is applied. However, this is impossible to achieve as far as pre-tender cost estimates are concerned since at this stage it is impossible to establish the true quantities and unit rates of work as the details are not yet known precisely. It is assumed here for the sake of simplicity that the estimator is able to produce a direct cost estimate that is at best risk-free prior to the use of the model to be developed here. A contingency allocation, C, has to be added to the direct cost estimate. An examination of the hierarchical risk breakdown structure in Fig. 1 indicates that there are basically three risk centres to be considered for a project. These are the local, global, and the external risks. The contingency allocations for these three centres are
+
+
+
+designated here as Cl , G, and G, respectively. The local risk, q, is derived as follows:
+	q = E Clk,	(4)
+where Clk are the individual local risks of the "m " work packages within a given project. The allocation of Cl is made at the level of the estimator without reference to the project management. The allocation of the global risk C2 has to be a management decision, which depends on the management's attitude to risk. Therefore, the allocation of C2 is made at the level of senior management. The external risks may be considered as extraordinary occurrences and call for a corporate management reserve to be set aside for them. While the local and global risks are to be incorporated into the project cost estimate, the external risk is not. Where contractors tender for major projects, there must be safeguard clauses to protect them from such extraordinary risks. In such cases these risks are most often transfered to the client.
+　There are no standard methods on how to determine the amount of contingency to allocate, be it local or global. The decisions are influenced by the estimators and management's view of the future, and their desire to avoid an overrun situation, based on knowledge from past experiences. The decisions are based on a number of factors as indicated in Fig. l . Many of these factors are not well defined and are not easy to quantify even though judgemental and heuristic rules can be used to combine these factors. The assessment of the level of risk is a complex subject shrouded in uncertainty. This complexity arises from the subjective opinion and imprecise non-numeric quantification of the degree of exposure of various aspects of the project to risks. For example, it is well known or logical in project risk assessment for management to make the assertion that if the project definition is poor then the project risk is high. The words "poor" and "high" in this assertion are vague and imprecise and are diffcult to express using conventional modelling techniques. The vague terms are unavoidable, since such statements are taken from estimators or managers. ll However, fuzzy sets can be used to quantify such linguistic variables. This paper introduces fuzzy set theory and shows how it may be used to represent the heuristic knowledge of both estimators and senior management in allocating contingencies. An example will be used to explain how the allocation actions are calculated from the rules.
+FUZZY SET THEORY
+　The difference between fuzzy set theory and normal set theory lies in the degree of membership which elements may possess in a set. In normal set theory an element is either a member of a set or it is not. Its membership in the set may take either of the values of O or 1. In fuzzy set theory, the membership value
+et 
+may take any value in the range 0 to l . Thus it is possible to define sets that are based on vague, linguistic terms, "short experience", "good market conditions", "high competition", "average overhead rate", and "very attractive project". These are the sort of concepts that are easily understood in everyday discourse, but are impossible to quantify. For example, at what level would a project cease to be attractive? Such a question could not be answered meaningfully with a precise, single value, but fuzzy set theory provides some means of addressing such questions in a useful manner.
+　The notion of fuzzy sets deals with sets which may admit partial membership. Let U be a universe of discourse, or a set of elements, xs, and let A be a subset of U. Each element, x, is associated with a membership value, (x), to the subset A. If A is an ordinary, non-fuzzy, or crisp set, then the membership function is given by gA(x) = I if x belongs to A and  (x) = O if x does not belong to A. This implies that A has sharp boundaries. However, if the membership function is allowed to take values in the interval (0, l), A is called a fuzzy set. Therefore, A does not have sharp boundaries and the membership of x in A is fuzzy. A fuzzy set is thus a set with members having a continuum of grades of membership, from 0 to l . In general, any fuzzy subset A can be expressed mathematically by m discrete values of x together with membership values, gA (x), as follows:
+
+in which ' should be interpreted as "is defined to be" and is a delimiter. For example, consider x to be the level of experience of labour which may range from excellent experience, i.e. x = 10, to "never been to a construction site", i.e. x = 0. By dividing the range of labour experience into increments of l , "short experience", as a linguistic variable can be defined as:
+short experience,
+A = (01 1.0, 1 10.8, 210.4, 310.2, 410. l),
+where the values of x are 0, l, 2, 3 and 4, and the corresponding membership values are 1.0, 0.8, 0.4, 0.2 and 0.1, respectively. Other values (6—10) of x have zero membership values to the subset A. These membership values are generally assigned based on subjective judgement with the help of experts and can be updated with more applications of the method in various projects.
+　Similarly, medium experience B, and long experience C can be, respectively, represented as follows:
+medium experience,
+B (210.1, 310.2, 410.6, 51 1.0, 610.6, 710.2, 810.1);
+
+
+Fig. 2. Examples of fuzzy sets.
+
+long experience, c = (610.1, 710.2, 810.4, 910.8, 101 1.0).
+The fuzzy sets representing labour experience can also be depicted graphically as shown in Fig. 2. This representation allows the translation of natural language expressions to discrete fuzzy sets over a given universe. Several mathematical operations have been developed for the use of fuzzy sets in practical problems, the details of which can be found in Dubois and Prade 12 and Kaufman and Gupta. 13 The fuzzy sets and mathematical operations required for the risk analysis methodology described in this paper are clarified by means of an example. Further details of the methodology employed can be found in Schmucker. 14
+THE FUZZY RISK ANALYSIS MODEL
+　The hierarchical-risk breakdown structure in Fig. l, showing the risk centres and the related risk factors, serves as a basis for the analysis. Therefore, the first step in this model involves the formulation of the risk problem in a hierarchical structure. A conceptual model in the form of the simple hierarchical risk-breakdown structure shown in Fig. 3 will be used to illustrate the concepts as opposed to that in Fig. I for reasons of simplicity. In the hierarchy, the top level represents the overall risk of the project, intermediate levels representing risk components may be used in a multilevel representation, and the bottom level represents the risk factors.
+　The main objective is to evaluate the risk of the entire project based on fuzzy estimates of the risk components. The estimator or manager provides fuzzy estimates of the probability of occurrence and the severity of loss of the lowest level components or risk factors. These are used to compute the fuzzy risk value of higher level components using the concepts of fuzzy set theory. These risk values are then combined with fuzzy weighted factors to obtain the total risk of the project. The model employed here uses fuzzy set theory and consists of three main elements:
+(i) natural language computation—the translation of natural language expressions into discrete fuzzy sets;
+(ii) risk evaluation—combining these fuzzy sets to calculate the fuzzy set representing the risk of the project; and
+(iii) linguistic approximation—mapping the resultant fuzzy set back to a natural language expression.
+In employing the model the user provides natural language expressions or linguistic variables which are estimates of the severity of loss, denoted Ri, and the relative weight (in the case of risk components) or the probability of occurrence (in the case of risk factors), denoted wi, such as high, medium, and low for each of n risk factors or components influencing a risk
+
+
+Fig. 3. Simple hierarchical risk-breakdown structure.
+
+
+Fig. 4. Simple illustrative example.
+
+centre. If the linguistic terms (Ri and wi) are describing by fuzzy sets, a weighted average value for a risk centre, R, can be computed from Eq. (5):
+		(5)
+The computation of this equation uses Zadeh's extension principle, 15 a general method for extending functions over the integers to functions over fuzzy subsets based over the integers. We will use two fuzzy subsets A and B, over the universe {0, l, 2, 3, 4, 5, 6, 7, 8, 9, 10}, to illustrate the use of the extension principle for fuzzy addition, fuzzy multiplication, and fuzzy division. A and B are defined as follows:
+A = {x 	(x) O 	< 10}
+B = {ylßB(y)
+The fuzzy logic equivalents of addition, multiplication, and division needed 14 to compute Eq. (5) for the two fuzzy subsets A and B are as follows:
+max{[x + y] f min(ßA (x) + AB(x))
+10)}
+min(gA (x) + VB(x))
+O < x, y < 10)}
+A + B = max{[x + y] I min(gA (x) + VB(x))
+0 < x, y < 10)}.
+In the fuzzy division operation any element not over an integer base is deleted from the set. 16 The fuzzy weighted mean, R, can thus be calculated.
+　The weighted average value, R, itself is a fuzzy set which can be evaluated back to a linguistic expression such as low, medium, or high risk. This is done by calculating the Euclidean distance from the fuzzy set, R, to each of the fuzzy sets representing the linguistic expressions (low, medium, high). The Euclidian distance between fuzzy set, R, and a fuzzy set, A, is estimated as follows:
+		(6)
+where d(R, A) is the Euclidean distance between fuzzy sets R and A, and and (i) are membership values of element i of the two fuzzy sets. The linguistic expression that produces the lowest Euclidean distance is assigned to R. The following example demonstrates the use of this model.
+APPLICATION
+　A very simple example will be used to illustrate the application of the fuzzy risk assessment model. A hypothetical dam construction project is assumed and the risks associated with the earthworks portion (WPI) is considered in terms of the labour requirements and the site conditions only. The first step
+involves the preparation of a hierarchical tree representation of the anticipated risk factors or sources as shown in Fig. 4. Then natural language expressions are identified to describe the potential impact or severity of loss and the likelihood of occurrence of the anticipated risks. In Fig. 4, the severity of loss arising from the unavailability of labour is set at "low" as the earthworks activity is not labour intensive. The probability that labour will be unavailable is set to "low" as there is an abundant supply of labour in the area. The severity of loss arising from unproductive labour is set at "high" because unproductive labour will result in delays which will disrupt the entire construction programme. However, the probability of this occurring is set at "very low" as there is an adequate supply of highly trained and skilled plant operatives in the area. The severity of loss of the risks associated with the site ground conditions and weather have been assessed to be "medium". The relative weights of labour and site risk factors are set as indicated in Fig. 4. The severity of loss, p, for labour and that for the earthworks, Q, are to be computed.
+　The next step involves the definition of fuzzy sets describing each natural language expression. It is not feasible to perform the calculations by hand for even a small example like ours if the universe over which the fuzzy sets are defined is the set {0, l , 2, 3, 4, 5, 6, 7, 8, 8, 9, 10}. We will, therefore, restrict the universe to the set {0, l , 2, 3}. The following natural language expressions and their corresponding fuzzy sets are assumed:
+Low = L = {01 1.0, 1 10.6, 210.1, 310.0}
+Medium —-M = {010.2, I l 1.0, 21 1.0, 3 10.2}
+High = H = {010.0, 1 10.2, 210.6, 3 1 1.0}
+and
+very low = VL = = {01 1.0, 1 10.4, 210.0, 310.0}.
+These definitions are a priori decisions of the system designer with the aid of experts. The risk associated with node 2 of Fig. 4 is computed by applying Eq. (5) as follows:
+		(7)
+involving fuzzy multiplication, addition, and division. The concepts of normalization and convexity 14 are used to obtain a fuzzy set for p. A fuzzy set is normalized by adjusting the degree of membership of the elements so that at least one element has the value of one in the set. The concept of convexity means adjusting the membership values upwards if necessary, to ensure a relatively smooth curve and to avoid any discontinuities. The solution of Eq. (7) is presented below. Let us perform the computation of
+
+L x L = {01 1.0, 1 10.6, 210.1, 
+x {01 1.0, 1 10.6, 210.1, 310.0}.
+This computation is performed as shown in the following matrix:
+		(8)
+The membership values of the first row of Eq. (8) are computed as follows:
+x O] I min(l.0, 1.0) = OI I .O [O x l] I min(l.0, 0.6) = 010.6 [0 x 2] | min(l.O, 0.1) = 010.1
+[t) x 3] | min(l.0, 0.0) = 010.o.
+In the matrix in Eq. (8), the top left-hand corner of each cell contains the element values and the bottom right-hand corner contains the membership grades of each element in the set. A similar computation is performed on the rest of the rows in the matrix. Notice that there could be several membership values for some elements as in the case of "0" above. The solution of Eq. (8) is obtained by selecting the maximum degree of membership for each element in the set. In the matrix in Eq. (8) the cells with asterisks contain the maximum degree of membership for each element in the set. Thus:
+1 10.6, 210.1, 310.0,
+
+This set is normalized but it is not a convex set, so we adjust the values to maintain convexity. Thus:
+	L x L = {01 1.0, 1 10.6, 2 10.1, 3 1 0.1, 410.1 1	(9)
+The results of similar computations for multiplication and division in Eq. (7) are as follows:
+	H x VL = {01 1.0, 1 10.7, 210.4, 310.4, 410.0}	(10)
+L+ VL= {01 1.0, 1 10.6, 210.4, 3 10.1 , 410.m
+	(L x L) 	x 	{01 1.0, 1 10.7,
+210.6, 310.4, 410.4, 510.1, 610.1, 710.1, 810.0}.
+The matrices containing the detail of the computations are presented in the Appendix. Substituting Eqs (l l) and (12) into Eq. (7) we obtain a solution for as follows:
+ß = {01 1.0, 1 10.6, 210.6, 310.4,
+410.4, 510.1, 610.1, 710.1, 810.0},
+and ignoring elements outside the universe of the primary terms will allow the mapping of ß back to a natural language expression. Thus,
+	 = {01 1.0, 1 10.6, 210.6, 310.4, 410.4}.	(13)
+Thus, substituting for R in Eq. (6) and for each of the primary terms:
+d(ß, Low) = {(1.0 — 1.0)2 + (0.6 - 0.6)2
+	+ (0.4 — 0. 1)2 + (0.4	0.0)2 } 1/2
+= 0.500
+d(ß, Medium) = {(1.0 — 0.2)2 + (0.6 - 1 .0)2 + (0.4 — 1.0)2 + (0.4 —
+d(ß, High) = {(1.0 - 0.0)2 + (0.6 - 0.2)2
+	+ (0.4 — 	+ (0.4 —
+　The primary term with the shortest distance (0.500) from ß is Low. Therefore, the severity of loss due to labour risk is "Low". This is a reasonable deduction on examination of Fig. 4. This is because the main threat to the labour risk is due to unproductive labour which has a high severity of loss. However, the probability of this occurring is very low making the severity of loss due to labour low. The overall risk of our project can be computed in a similar manner from the following equation:
+
+The results of the computations in Eq. (14) are as follows:
+ß x L = {01 1.0, I '0.6, 210.6, 3 10.4, 410.1, 510.1,
+	610.1, 710.0, 	910.0} (15)
+M x H = {010.2, 1 10.2, 210.6, 3 1 1.0, 41 1.0, 51 1.0,
+61 1.0, 710.73, 810.47, 910.2} (16)
+et 
+- {010.0, 1 10.2, 210.6, 31 1.0, 410.6, 510.1, 610.0}
+
+= {010.2, 1 10.2, 210.6, 31 1.0, 41 1.0, 51 1.0, 61 1.0, 717.3, 810.6, 910.6, 1010.47, I l 10.4, 1210.2, 1310.1,
+1410.1, 1510.1, 1610.0, 1710.0,
+The full details of these computations are presented in the matrices in the Appendix. Substituting Eqs (17) and (18) into Eq. (14) we obtain a solution for Q as follows:
+Q = {010.2, | 1.0, 21 1.0, 310.6, 410.6, 510.47, 610.2, 710.2, 810.2, 910.2, 1010.2, Il 10.4, 1210.2, 1310.1, 1410.1, 1510.1, 1610.0, 1710.0, 1810.0}.
+In order to map Q back to our natural language expressions, we ignore the terms outside the universe of our primary set. Thus:
+Q = {0 10.2, I l 1 .0, 2 1 1 .0, 3 1 0.6}.
+Thus, substituting Q for R in Eq. (6) and for each of the primary terms:
+d(Q, Low) —- {(0.2 - 1 .0)2 + (1.0 - 0.6)2 + (1.0 — 0. 1)2 + (0.6 —
+	d(Q, Medium) — — {(0.2	0.2) 2 + (1.0 - 1 .0)2
++ (1.0 — 1 .0)2 + (0.6 - 0.2)2 } 1/2
+= 0.400
+d(Q, High) - - {(0.2 — 0.0)2 + (1.0 — 0.2)2
+　+ (1.0 — 0.6)2 + (0.6 I .0)2 } 1/2 = 1.000.
+Medium is the closest, in terms of Euclidian distance (0.400), to the fuzzy set resulting from the fuzzy weighted mean calculation. Therefore, the local risk of the work package considered here is assessed as medium. An inspection of Fig. 4 indicates that medium is a reasonable deduction for the overall risk of the earthworks package, resulting from the aggregation of the severities of loss and the probability of occurrence of the component risk factors. This assessment helps the estimator to decide on the percentage to be applied to the risk-free direct cost estimate to cover the local risks within this work package, by referring to a look-up risk/percentage classification table. However, this short cut induces further uncertainties as the percentages themselves are inherently vaguely defined. It is possible to represent the percentages to be applied using the "compositional rule of inference" technique. 1 5 It is beyond the scope of this paper to perform this computation as it deserves a separate treatment and will be the subject of a subsequent paper. The primary terms have been limited to very low, low, medium and high in this paper for demonstrative purposes. In practice, a continuum of terms could be defined each with its own level of contigency.
+CONCLUSIONS AND FURTHER WORK
+　The assessment of the level of risk is a complex subject shrouded with uncertainty and vagueness. This complexity arises from the subjective opinion and imprecise non-numeric quantification of the degree of exposure of various aspects of projects to risks. Several statistical and probabilistic methods with various degrees of complexity are being used for project risk assessments. However, in practice the parameters involved are best described in linguistic rather than mathematical terms, rendering classical probability theory insumcient for the treatment of such assessments. The linguistic variables can be translated into mathematical measures of fuzzy sets and systems theory as demonstrated in this paper. In this translation, various membership functions need to be estimated, which could be diffcult. However, they could be estimated with the help of experts, and the information can be refined as the method becomes more frequently used.
+　Although, the computations involved in the fuzzy sets methodology are tedious if performed manually, there are best implemented in a computer system. The model described here is currently being implemented in an expert system shell. A knowledge-base consisting of heuristic rules representing risks and the causal relationships between risks is being developed. The fuzzy mathematical computations have been implemented in a PASCAL program which interfaces with the knowledge-base. The work presented in this paper is part of a research project on decision support in large computer-based cost estimating and project planning systems. This work, therefore, represents initial steps in the quest to emciently represent subjective decision making processes within construction management systems. It is hoped that the knowledgebased system currently under development will act as a knowledge source to such systems within an integrated systems environment. Further fuzzy models are also being developed for the prediction of general overheads and profit for mark-up allocation to tenders.
+Acknowledgements—We gratefully acknowledge the financial support for this work provided by the Science and Engineering Research Council (SERC) of the U.K.
+REFERENCES
+l. J. G. Perry and R. W. Hayes, "Risk and its management in construction projects," Proceedings of the Institution of Civil Engineers, Part l, Vol. 78, pp. 499-521, 1985.
+2. D. F. Copper and C. B. Chapman, Risk Analysis for Large Projects, John Wiley, Chichester, 1987.
+3. P. A. Thompson, Organisation and Economics of Construction, McGraw-Hill, London, 1981.
+4. P. C. Humphreys, "Risk analysis tools and techniques in project management," Methods of Operations Research 63, 369-387 (1990).
+5. L. A. Zadeh, "Fuzzy sets," Information and Control 8, 338-353 (1965).
+6. B. M. Ayyub and A. Halder, "Project scheduling using fuzzy set concepts," Journal of Construction Engineering and Management, ASCE 110(2), 189-204 (1984).
+7. V. U. Nguyen, "Tender evaluation by fuzzy sets," Journal of Construction Engineering and Management, ASCE 111(3), 231-243 (1985).
+8. R. Kangari, "Construction risk management," Civil Engineering Systems 5, 114—120 (1988).
+9. T. Miyoshi et al., "Management of Uncertainty in LIFE FEShell fuzzy frame system," Proceedings of the World Congress on Expert Systems, Orlando, Florida, Vol. t (edited by J. Liebowitz), pp. 631—638. Pergamon, New York, 1991.
+10. J. H. M. Tah, A. Thorpe and R. McCaffer, "An expert system for drainage cost estimating," Proceedings of the World Congress on Expert Systems, Orlando, Florida, Vol. 3 (edited by J. Liebowitz), pp. 631—638. Pergamon, New York, 1991.
+l l . J. H. M. Tah, A. Thorpe and R. McCaffer, "A survey of current practices in the estimating of indirect costs in the U.K. construction industry," unpublished paper, Dept. of Civil Engineering, Loughborough University of Technology, 1991.
+12. D. Dubois and H. Prade, Fuzzy Sets and Systems: Theory and Applications, Academic, New York, 1980.
+13. A. Kaufman and M. M. Gupta, Introduction to Fuzzy Arithmeric—Theory and Applications, Van Nostrand Reinhold, New York, 1985.
+14. K. J. Schmucker, Fuzzy Set, Natural Language Computations, and Risk Analysis, Computer Science Press, Rockville, Maryland, 1984.
+15. L. A. Zadeh, "The concept of a linguistic variable and its application to approximate reasoning—Part I," Information Sciences 8(3), 199—249; "Part Il," Information Sciences 8(4), 301—357; "Part Ill," Information Sciences 9(1), 43-80 (1975).
+16. D. P. Clements, "Fuzzy ratings for computer security evaluation," Ph.D. dissertation, University of California at Berkeley, 1977.
+
+
+APPENDIX
+
+
+
+291
+0.60.1(L + VL)
+0.6 0.0 0.20.6L 
+CSE 4-2 3—.G
+Ј. Н. М. ТАН et al.
+ввааааавааю
+
+
+naeaooaa•oeoooaoæoæoooaaooæoooaa
+282	J. H. M. TAH al.
+
+Contractor project risks contingency allocation
+
+
+
+282	J. H. M. TAH al.
+
+Contractor project risks contingency allocation	285
+
+Contractor project risks contingency allocation	285
+
+
+
+Contractor project risks contingency allocation
+
+	290	J. H. M. TAH
+

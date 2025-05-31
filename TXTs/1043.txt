@@ -1,0 +1,155 @@
+﻿Theory and practice of project management m construction
+H Knoepfel
+
+
+The paper discusses the theory and practice of project management in construction, with particular reference to the importance of taking a systems approach. An ability to find, analyse and delimit the structure and attributes of physical systems, subsystems and components on various levels and in several hierarchies is essential for a project manager. This is particularly important for project managers in the new CIS, as large central systems are replaced by decentralized units, markets are freed, and technology changes accelerate.
+  Good organizational solutions and good practice for the introduction of information technology are also discussed, together with client preferences. It is concluded that useful and efficient work, openness to the world, and the change to new technological, economic and social goals are the key priorities for project managers in the CIS at this time.
+Keywords: engineering management, construction management, systems engineering, systems management
+
+'What is happening with the Soviet Union?' This was the standard question asked by almost everybody of a Russian journalist visiting Switzerland in early 1991. 'I tried to answer, but every time I felt like talking to people from a different planet. What will be in future? I don't know the right answer at the moment. Our future seems to be very difficult.'
+  Everyone is learning, right now. Should this paper deal with strategic concepts, or methods and tools? Of course they can help. However, it also seems that there are some more basic problems. Much information is available, but it does not yet fit the actual situation. One wants to make things happen. One wants to find realistic targets and to achieve them in an open-market environment.
+
+Rosenthaler + Partner AG, Baumackerstrasse 24, 8050 Zürich, Switzerland
+This paper was presented at the INTERNET Int. Symp. Project
+Management in the USSR Moscow, Russia (27—31 May 1991)  There is a long tradition of interaction between the various republics and regions of the Soviet Union and Western Europe. This tradition was very seriously damaged by two world wars, and it was buried under a monstrous bureaucracy for decades. However, this most important interaction can now be built up again. Meanwhile, a new professional field called project management has been created. It has been applied in construction more than in any other industry, Changes are best managed by defining and carrying out projects. A project is a task that is limited in time and effort. The purpose of this paper is to present some statements and considerations about the theory and practice of project management from the experience of the author. His work has primarily been in the construction sector, but it was not limited to construction projects.
+  Construction is a key sector of every society, economy and culture. Building up the infrastructure is the basis for working, living and leisure activities. A continuous investment of about 10—15% of the gross national product is usual in industrialized countries. Most of the management, design, construction and maintenance activities are carried out by small and medium-size, local, private companies. A considerable and growing share of promotion, fabrication and erection is undertaken by large construction companies.
+  The preparation, design, construction and start of operation of a modern small or large construction facility is a complex project. Many specialists who are working on subsystems and components of many disciplines have to be coordinated. The interaction with the environment, particularly ecological systems, must be taken into account.
+0263-7863/921040243-10 0 1992 Butterworth-Heinemann Ltd  Constructed facilities are large objects, and they have a relatively long life. They are very visible and interrelated to their specific local environment. Thus, each construction project has its own particularities, and it needs capable management and engineering. There are many examples of extraordinary and highquality engineering and construction projects in the world.
+EXAMPLE OF ENGINEERING AND CONSTRUCTION PROJECT
+The Pilatus railway near Lucerne in Switzerland may be cited as an example of long-range and speciality dimensions. This is the steepest rack railway in the world, climbing and descending a difference of altitude of 1600 m, with a maximum slope of 48%. The following are typical of this project:
+• The benefits of the project were quite obvious.  A new engineering idea was used to reduce the journey time by a factor of more than 2.
+• The project team coped with the technical and economic risks of a particular unprotected situation successfully.
+The Pilatus Railway Company was founded in the spring of 1886. The engineer and general contractor Eduard Locher, who was from Zurich, offered a lumpsum contract of 1.9M SFr, and the fixed completion date of 15 June 1889. He had to modify his initial even more innovative design from one to two rails, because of the concerns of the agency responsible for railway safety. The topological and weather conditions were difficult in the mountainous area. The contracter was able to provide the first ride in August 1888, and the handover took place on 17 May 1889. The full operation started on 4 June 1889, 11 days before the completion date agreed (an amount of 1000 SFr per day would have had to be paid in the case of a delay).
+  About 15 000 passengers per year were expected at a fare of 10 SFr, which was the weekly pay of a labourer. About 37 000 passengers used the Pilatus rack railway in 1889, and more than 300 000 passengers rode on it in the record year of 1971. In 1937, the system was adapted from steam-driven to electrical engines, which decreased the run time by a factor of more than 2, and reduced the fare by 40%.
+  Why are there not more of these rack railways? Tunnel railways and cableways offered the chance to reach the tops of the Alps in winter, as well. Cableways are much faster and cheaper. A cableway lifts more than 1M passengers from the other side of the mountain to the Pilatus top each year. However, the rack railway is still in operation after more than 100 years, and it is well used. Valuable work was carried out in the 19th century. Quality, reputation, superiority and competitiveness were created for generations by this piece of Swiss transportation infrastructure.
+  Not everything is new and extraordinary in construction projects. Similar or the same materials and products can be used repeatedly in one project and in many other constructed facilities. In the past decades, management methods have been developed that can be applied to a large number of construction and nonconstruction projects.
+SYSTEMS
+The most important basis of management is thinking in terms of systemsh The end product of each project cycle is a new system or a new state of an existing system that should be more satisfying than the initial, preproject situation. This new state may be a new or renovated facility, a new or changed organization, a new or modified company or product, or an extended computer-supported system. Natural and man-made physical systems are the subject of construction operations.
+  The theoretical structure of systems is shown in Figure 1. The structure is composed of subsystems and components that have attributes and that may be related to each other and to systems, subsystems and components in the environment of the system through certain attributes. Systems operate in a defined way to achieve their objectives. These objectives can be interrelated, and their real values depend on the attributes of the system.
+  In construction practice, many systems, subsystems and components can be identified on several levels. They allow the project management to concentrate its attention on a certain subsystem or component for a limited time to bring it to a certain state of study, investigation, design, realization or operation. They help to supervise operation concepts and layouts of existing and new parts of facilities, to manage the overall configuration of the system, and to control the interfaces. By comprehending the physical systems, project managment provides the technical basis for answers to economic, time-scheduling, quality, quantity and organizational questions.
+  An example of a complex physical system is shown in Figure 2. A reinforced structure between the posttensioned primary digestion tanks of a sewage-treatment plant with a staircase in the middle, several sludge- and water-pipe subsystems, and electrical-power and control-cable traces were coordinated via this type of drawing in the design, erection and start-of-operation phases. A final version of the drawing is being used for operation, maintenance and replacement.
+  A second example (see Figure 3) is the abstract, synoptical colour screen of a small station for a computer-supported train-management system. This display must correspond to the relevant elements of the physical systems state in the field indicating the train positions and speeds. Such screens are an essential means of communication in the detailed design, testing and operation phases of most of the computer-supported , process-controlled systems for industrial plants and traffic facilities. Often, the time dimension is added not only as short-term memory, but also as a data basis representing the occupation, performance and reliability over months and years.
+SYSTEMATIC PROJECT MANAGEMENT
+Finding, analysing and delimiting the structure and attributes of different physical systems, subsystems and
+
+Figure 1. Structure of system
+Figure 2. Design of system
+
+Figure 3. Operation of system
+components on various levels and in several hierarchies is an essential ability of a project manager. This ability has become more relevant in the Soviet Union today for several reasons, for example the following:
+• Huge, clumsy, centrally managed systems are being replaced by a large number of smaller, decentrally managed operational and economic management units.
+• On the free and open market, a wide variety of different systems is offered. The technological and engineering background and organizational and cultural patterns are less uniform than before.
+• The changes in materials and products happen faster, and the speed of design and construction operations is becoming remarkably greater.
+Systematic management offers a chance to bridge the gap between huge, totally controlled and planned systems, and the wild, short-sighted pragmatism of small businesses for consumer goods. The use of systematic project management seems to be suitable for balancing technical, organizational, time-scheduling, benefit and cost aspects in the management of small, medium-size and large construction projects.
+  Figure 4 shows the primary hierarchy of multisystem, multilevel, multidiscipline, multiphase approach for systematic, objective-driven project management. The 'vertical', 'horizontal' and 'lateral' dimensions of this basic model are tuned by intention to the corresponding company and product management dimensions.
+  Different cultures of people, companies, project teams and societies have different perceptions of quality, and different ways of doing things. For a project, a common objective has to be found. However, the objectives of the organizations and people involved and the society in the background should also be analysed and correlated with the project's success factors. Some examples for such considerations are shown in Figure 5:
+• Case A: The liberal economic system of the society encourages and promotes quality, innovation, productivity and cost control in companies, which, in turn, makes people with corresponding attitudes and skills more successful.
+• Case B: The change in the economic and political system is based on and initiated by the growing conviction of more and more people that they would work and live much better if they could operate more on their own and in any place that they chose.
+MultisystemMultilevel
+('vertical')
+Multidiscipline ( 'horizontal t )
+Figure 4. Basis for systematic project management
+Figure 5. Interrelations in cultural systems
+Multidiscipline
+Case C: The observation that project-oriented companies changed their emphasis from activities to objectives is indicated.
+In this way, thinking in terms of systems can be used for analysing interrelations in cultural systems.
+ During the last 10 years, it has become evident that it is essential for technological changes and uncertainties to be monitored by the management of companies and the management of projects. Project managers are becoming aware that the risks of both new and obsolete technologies, and problems with ecological interactions with the environment, are often the real reasons for delays, cost overruns and conflicts. Durations, costs, quantities, quality and satisfaction cannot be managed independently, and they have a common basis in the physical system (see Figure 6).
+
+Figure 6. Physical system as basis for project and company management  Switching from a defensive mode of behaviour to an active attitude, project managers are taking advantage of technological evolution by using it to improve the project result as compared with initial targets, and by managing it as projects in a permanent organization.
+PROJECT PHASES
+The multisystem, multilevel, multidiscipline structure helps in the phasing and management of the project cycle2 . One subsystem may only be a sketchy idea, while another is designed in detail, and a third subsystem is already in operation. One component is fabricated on site, another is produced in a factory, and a third component is purchased from a speciality contractor.
+  An activity taking the time from T1 to T2 transfers at least one system from a state Sl to a state S2, thereby changing its value from VI to V2 (see Figure 7). The activity is carried out by a performer who is controlled by a controller. If it is an automated activity, the performer's work is directed by the 'intelligent' control centre of a robot. Sensors identify the states of the system as well as its environmental conditions.
+  The system-development process is controlled more easily if it is carried out by phases. The target of a project phase can be defined as a certain state that must be achieved at the end of the phase. During the phase,
+ the safe operation of the system parts used,  the safe testing of system parts that must be approved,  the safe erection or removal of system parts that are in the contruction area,
+must be ensured. Figure 8 shows a phase plot that was used for a written safety analysis by a multidisciplinary team. The two existing primary thickeners 21 and 23 of the sewage treatment plant that has been extended are
+Define	Check result
+State S,State 52Value VIValue V2(Time r, )(Time ,T2 )Figure 7. System dynamics
+
+Figure 8. Phase of system
+in operation. Number 22 is in the reconstruction phase, and the new primary digestors 29 and 31 are being tested in this phase.
+  More and more computer-software packages are able to fulfil practical standards, such as
+e time-scaled, activity-on-node networks with calendar time on the horizontal axis, and the activity text on or near the bar representing the activity duration (this allows coincident activities and activities in a certain period to be noticed easily, and consecutive activities to be shown in one row),  activities grouped according to an organization structure on the vertical axis (this allows activities belonging to a certain object group, discipline or party engaged to be noticed easily).
+The Barnet concept, as shown in Figure 9, in addition to a data basis with standard networks and/or examples, and a data model using the structures of the physical system, the project phases and the project organization for defining and • allocating works, seem to be a commonly used tool for time scheduling and control.
+PROJECT ORGANIZATION
+The project organization is the group engaged in planning and realizing the project. This organization should be tailored to the requirements of the specific project and phase3 . To organize means to define the work tasks with the responsibilities, to allocate them to positions, to design the procedures in the organization, and to select adequate performers for the positions.
+  The relationship between the project and permanent organizations has been a substantial concern for the project manager from the beginning. Good organizational solutions that allow a smooth integration of the
+
+
+Figure 9. Barnet concept
+
+Figure 10. Project and parent organizations
+
+project work into the company organization4 , as well as the high level of responsibility and independence of the project team s , are a crucial factor for project-management success. The following concepts can be applied:
+• Intentionally related and compatible cultures, structures, procedures and styles of both project and company management are established.
+• Management by (a network of) projects is becoming more popular; discussions about the projects of the company are a usual theme in executive meetings.  Projects often challenge the existing organizations and include new developments therein.
+Getting along well with general management terms and principles, but also recognizing the unique principles of project management, systematic project management is a suitable basis for integrating projects into the company organization. A strong project organization is clearly more efficient than a weak project organization. Project managers should know to a certain extent the existing organizations that are involved in the project (client, consultants, contractors etc.) and their objectives, customs and standards. In particular, they should organize clear and logical interface positions and their tasks (see Figure 10).
+  For internal projects in a company, a 'client' or 'top responsible person' can be appointed for each project, in addition to the project manager. His/her functions are the definition and approval of the projects, in particular the project objectives and framework conditions, and the responsibility for the success of the investment. The more projects that are identified and managed in a company, the higher is the need for the coordination and prioritization of all the projects. This task can be allocated, for example, to one director, or the executive meeting, or the meeting of the top responsible people for all projects with the general director of the company.
+  Figure 11 shows an example of the general project organization chart for construction projects. Some of its characteristics are as follows:
+• One position represents the client, and the coordination of the people and organizations of the client by the use of a project committee.
+
+Figure 11. General project organization chart of construction project• One project manager leads a team of coordinators and managers as well as his/her experts and staff, and coordinates the overall project, including the operations planning and start of operation, the design disciplines and the management on site.  The interfaces to the financing institutions, ongoing
+
+operations, adjacent projects, state agencies and project environment and parent organizations are established.
+An organization chart is only a small part of all the organizational work that should be carried out by the project manager and his/her team.
+INFORMATION TECHNOLOGY
+An ideal information system would provide, during the whole project cycle, well presented, understandable, correct and technically consistent actual data at several levels of detail for the systems, subsystems and components and their attributes, at a reasonable cost. New information technology allows the increasingly easy and economical storage, processing, display and transfer of data. However, (temporary) project information systems are not easy to establish.
+  The first condition is that each member of the project organization must be equipped with his/her computerprocessing, display and memory installation, and a data-transfer unit (see Figure 12). In addition, hardcopy documentation and the traditional noncomputer communications equipment (mail, telephone, telefax) is available.
+  The second condition is that the new fast managementsupport systems must be paralleled by advanced information-handling principles, such as
+ top down and return,  object-oriented systems,  intermediate targets,  simple core and flexible extensions.
+A third condition is related to the new decentralized way of working. If the information system is to work for a complex, multidisciplinary project structure (see Figure 13), the users need to have a common understanding of definitions (semantics) in relation to the data transferred.
+  Standard data structures and common terms down to the most detailed level are necessary to
+ develop, implement and apply software efficiently,  be able to interpret correctly incoming information from another company working on the project,  avoid the danger of errors propagating over the whole information system.
+The hierarchical physical constructed-facility structure can be used as a basis for work definitions and cost data, for example. The specifications and cost data for a project are usually also related to project-independent
+Documentation
+
+Figure 13. Project information system and its environmentFigure 12. Connection to information system
+databases. Often, this information (e.g. standard specifications or unit-cost values) must be adapted to the project and completed according to the size, location and other project-related attributes before becoming actual project information.
+  The efficiency of personal computers is leading to a larger number of at least partially standardized small information systems that are interrelated.
+CLIENT PREFERENCES
+Key project objectives are work (quantity and quality), cost and time. During the past decade, the quality and assessment process of construction projects was questioned quite radically by the environmentalists. Their questions spotlighted the fundamental problem of finding the right project objectives, and the problem of finding acceptable methods for assessing projects and products in relation to quality parameters such as the benefits and costs of future operations with a constructed facility.
+  The general problem of finding an optimal design value that is competitive in the market (e.g. the optimal size of an employee's office) is shown in Figure 14. The cost as a function of the size is assumed to be approximately linear in the relevant domain. The benefit curve starts with the minimum acceptable size, and ends with abundant space.
+  In the 1980s, more thought was given to the key success factors which the clients apply to project management. Project management increasingly became a central and overall coordinating and responsible function at the project's top level, using its specialist staff for scheduling, cost control, quality assurance, contract administration etc. Consequently, the system of objectives for which the designs and optimization of requirements and cost are discussed below has become an issue of major importance.
+  In the field of cost planning6 , the client wants answers to three questions, 'what is it?' 'what is it worth?' , and 'what does it cost?' for each relevant alternative, leading to an answer to the question 'what should it cost?' for the selected alternative. Special attention is directed to the question 'what is it worth?' Answering it means finding out the subjective preferences of the client(s). Without these being known, a general optimum cannot be determined.
+  The evaluation of the bridge designs and bids of four invited competitors are shown in Figure 15. A systematic checklist of criteria with different weights, including subjective preference criteria (for example aesthetics), was used. The bid of competitor A was low, but so was the benefit of this design. The bid of competitor B was remarkably high, but his design shows only a slightly higher total benefit. Competitor C submitted the winning design and bid.
+  This type of decision making does not take place once in a project; it is applied repeatedly, with reference to different simpler and more complex subjects. As the projects are often related to several organizations, the overall project feasibility is only a necessary, but not a sufficient, condition. The project can fail because of the resistance of an important partner. In general, project management should ensure that the feasibility and optimality of the project is found
+
+Figure 14. Cost and benefit curves
+• c0 B1.0
+0.9
+0.8
+0.6
+0.5
+0.4
+0.3
+0. 2
+0.1
+0.0
+5500 6000 6500 7000 7500 8000 8500
+cost, SFr 103
+Figure 15. Benefits and costs of bridge alternatives
+and retained for all the important partners throughout the project cycle.
+CONCLUSIONS
+Useful and efficient work, openness to the world, and the change to new technological, economic and social goals are at the top of the priority list at the moment. Inefficient and ineffective systems and activities have a hard time. In other words, what was earlier a vision under different circumstances has become a very actual reality.
+  Russian music and literature reminds one of a great historical heritage. For example, African, French, and Italian people are present in Pushkin's oeuvre, and he showed us many qualities of Russian culture in his short life. Since Pushkin's time, the world has changed. In the 20th century, the Soviet Union experienced the new world of scientific and technical successes and failures behind an 'iron curtain'. With the socialist ideal, all citizens should have gained from progress. How different is the situation now from that in past decades! One saw from Western Europe a large wall, and above it a Kremlin with the hats and faces of a few old apparatchiks and generals representing the Soviet Union. Times have changed as the 21st century approaches.
+The new opening to the world and the orientation towards a modern society and economy can be a great start to a new area. Many small, medium-size and large projects are being undertaken, a large number of companies are being founded, and a free-market system and an open democratic society are being established.
+REFERENCES
+1 Knoepfel, H 'Systematic project management' Int. J. Project Manage. Vol 1 No 4 (1983)
+2 Scheifele, D Bauprojektablauf Verlag TÜv, Germany (1991) (Schriftenreihe der GPM)
+3 Burger, R Bauprojektorganisation Institut für Bauplanung und Baubetrieb, ETH Zürich, Switzerland (1985) 
+4 Proc. 13th INTERNET Int. Expert Sem. Integration of
+Projects into the Company Organization INTERNET, Zurich, Switzerland (Apr 1989)
+5 Gray, C et al. 'International comparison of project organization structures: use and effectiveness' Int. J. Project Manage. Vol 8 No 1 (1990)
+6 Berger, R Bauprojektkosten Zentralstelle für Baurationalisierung, CRB, Zürich, Switzerland (1988)
+Hans Knoepfel received a civil engineering diploma in 1965, and graduated in structural analysis and design. From 1973, he built up the project-management research and teaching team at the Engineering and Construction Management Institute of ETH Zürich, Switzerland. Dr Knoepfel has been a consultant for several large construction projects, and has taught as a visiting associate professor in the USA. He is an INTERNET Vice President. Since 1991, he has been a partner in a consulting company for management and information technology in Zürich.
+Theory and practice of project management in construction
+
+H KNOEPFEL
+
+244	International Journal of Project Management
+
+Vol 10 No 4 November 1992	243
+
+
+
+Vol 10 No 4 November 1992	243
+

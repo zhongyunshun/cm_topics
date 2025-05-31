@@ -1,0 +1,252 @@
+﻿
+Paper ID #36659
+An Innovative Teaching Model: Involvement of Industry
+Practitioners in the Teaching of Construction Management Curriculum
+Renxiang Lu
+Renxiang Lu obtained his PhD in Civil Engineering from the University of Wyoming in 2020. After a year working as a researcher in academia, he is now working in the industry as a construction inspector of heavy civil structures.
+Francois Jacobs (Associate Professor )
+Associate Professor in the College of Engineering at the University of Wyoming (UW), where I steer the Construction Management program in the Civil & Architectural Engineering and Construction Management (CAECM) department.
+© American Society for Engineering Education, 2022
+Powered by www.slayte.com
+
+An Innovative Teaching Model: Involvement of Industry 
+Practitioners in the Teaching of Construction Management 
+Curriculum 
+ 
+Abstract 
+ 
+This paper describes an innovative teaching model in which industry practitioners are engaged with the teaching of courses that are part of a Construction Management program curriculum in the College of Engineering. The model is put into practice to bridge the gap between academia and industry by addressing recurrent problems observed in guest speaker talks such as complex topics, students’ lack of interest, and misalignment with class content. The Industry Advisory Board and statewide industry associations helped select industry practitioners whose expertise aligned with the topics covered in each course. To assist industry practitioners in preparing their classes, contact information of previous participants and guidelines for delivering a class in academia were provided. When physical presence in the classroom was not possible, videoconferencing technologies were used to deliver the course. In addition, interactive activities such as class discussions, group work, and virtual tours were implemented to enhance the students’ learning on the practice of the profession. To ensure students’ participation, content covered in these classes are part of the students’ evaluation in the form of exams, quizzes, and homework. Survey results collected showed that students had positive feedback on the overall quality of this teaching model. Many were able to learn about real life examples and practices in the industry, thanks to the reliable organization among program administration, industry practitioners, and instructors of record. The feedback collected from the instructors of record was also positive. Many dedicated their time to prepare for the class and complimented on the supportive materials that were provided. Nevertheless, some wished that more classes were conducted face-to-face, and more time made available for each class. As this innovative teaching model is in progressive improvement, these challenges will be addressed in the future to better prepare the students for their future professional careers. 
+ 
+Introduction 
+ 
+Career and Technical education (CTE) degrees, like Construction Management, are programs that require students to be engaged in two learning components so that they can succeed later in their professional lives. Not only are they required to learn academic skills (study habits and strategies that help absorb subject knowledge) for the technical component, but also to acquire employability skills (abilities needed by an individual to be fit in a working environment) and engage in actual trainings pertaining to this industry [1]. Even though efforts were made to have active involvement in the training component such as incentivizing students to participate in field trips, internships, and part-time jobs related to construction, the industry engagement in the technical component seems to still fall short as reflected in many companies by the employers [2]. According to the industry recruiters, although newly employed students have a good grasp of the technical concepts, many fail to relate them with the actual applicability in the proposed tasks. Additionally, employers observed that a lot of the students lack other competencies equally important in the practice of the profession including leadership, self-motivation, self-evaluation, adaptability, work under pressure, and others [3]. In the same way, many students also do not feel prepared to enter in the construction job market with just the knowledge attained at universities. Many admitted not comprehending the purpose of learning certain topics and its actual applicability in the practice of the profession [4]. Also, students who have experience in the jobsite recognized that many of the exercises proposed in the classroom are too didactic and only applicable to ideal scenarios that rarely occur in the field [5]. Conversely, some instructors argued that the proposed exercises are just a way to demonstrate the concepts [6]. Despite being dissimilar to what is observed in the field, the teaching of these ideal scenarios will help student to think correctly and lead them to optimal solutions when more complex problems are encountered [7]. With the intent to reach a balance between the two standpoints, a solution for this dispute is to have more involvement of industry practitioners in the classroom to bridge the gap between the two realities. 
+ 
+Literature Review 
+ 
+Many institutions have already taken the initiative by bringing industry practitioners to their CTE programs. Seminars, short presentations, and talks in workshops and job fairs are just some examples that illustrate active participation of industry in academia [8]. During these events, it is undoubtedly true that students can benefit from these talks when topics match the students’ interest. First, industry practitioners can relate the academic topics to the actual applicability in the jobsite. Because industry practitioners have been exposed to different projects in the field, they can relay to the students their experiences in which these topics are applied. As these individuals know best, the most efficient way to pass on the information is to provide the most memorable examples that took place in their careers [9]. Additionally, they may also provide their opinion about the usefulness of the topics as well as the frequency that they may be applicable in the jobsite [10]. Second, industry practitioners can narrow down the emphasis of the classes to the current needs in the industry. As fields in CTE programs are in constant expansion and development, only individuals who participate in projects in a daily basis can have the perception of the most required skills [11]. Rather than teaching a broader pool of case studies in which some may be obsolete, industry practitioners’ talks will focus on current trends [12]. This not only includes practices and principles, but also the state-of-the-art technologies used in the industry [13]. Third, industry practitioners can help students with professional networking. Besides the talks that these industry practitioners were invited for, they also take this occasion to scout for the most outstanding students at the universities [14]. By giving a good impression and asking pertinent questions, students can take this opportunity to land potential internships and permanent job offers after they graduate [15]. Even if no positions are available, industry practitioners will occasionally refer these students to other companies with whom they have collaborations with. 
+However, not all these events are held successfully, especially when the students do not feel they can benefit from these talks. One of the possible reasons is that, as guest speakers, the industry practitioners did not come prepared for the talk. In these situations, their speeches are not focused to the topics covered in the classroom and ramble about their individual experiences on unrelated projects are frequent. This ad-lib speech is easily detected by the students who tend to lose focus and discouraged to ask questions [16]. In other situations, the presentations and speech adopted by these industry practitioners are not suitable for the students’ comprehension due to lack of experience in academia [17]. Many times, students get confused about the content as the presentations are simply taken from their work meetings whose original audience is experienced with the matter [18]. Every so often industry jargon is used with which students are unfamiliar [19]. Under those circumstances, students feel intimidated in asking questions as they did not understand the gist of the talks. Also, due to the complexity of the content, the information cannot be used to evaluate students in homework and exams, which makes students pay even less attention to these talks [18]. Furthermore, industry practitioners are sometimes invited to advertise their company and recruit students [16]. Because of this purpose, the speech utilized, and the content covered are usually deviated from the students’ interest. In addition, to impress the students, the industry practitioners often feel the necessity to adopt a self-aggrandizing speech by belittling the students’ lack of experience. Contrary to what they think, this aura of arrogance creates a negative impact on the students’ impression, namely on the most outstanding students who become disinterested in applying for their representing companies [16]. Frequently, the instructors of record and the university’s administration are the entities at fault for the unproductive speeches brought by the industry practitioners. There are occasions that the former only brings guest speakers to the class to fill a gap in the syllabus or to take a break from teaching [20]. In these instances, the guest speakers feel unclear of what content to bring to the class because of lack of coordination with the instructors of record [21]. In case of the university’s administration, industry practitioners are sometimes invited to maintain the research collaboration and funding opportunities contributed by their representing companies [16]. Some are only given the opportunity to fill vacancies left by absent instructors [20]. Often, the same presentation is given in more than one class not realizing that the talk is repeated to students enrolled in all of them. Therefore, it is evident that the content brought by the industry practitioners under these circumstances does not appeal to the students’ interest. 
+ 
+Methodology 
+ 
+In response to the unsuccessful participation of industry practitioners in academia described above, this research details an innovative teaching model in which the industry practitioners are integrated in the classroom to teach chapters of classes that take part of the curriculum mandatory for students to graduate. The process of selection of the industry practitioners, and theirs and students’ feedbacks on this model are assessed. This teaching model was applied in a newly founded Construction Management program at the University of Wyoming. The program developed this teaching model as a supplementary feature for attaining American Council for Construction Education (ACCE) accreditation status by Spring 2022. Though some changes would be required, the model is expected to be also applicable to programs in other fields of study such as Engineering, Nursing, Music, among others. 
+ 
+The design flowchart of this research is shown in Figure 1. Besides the challenges detailed in past studies, which prompted the inclusion of industry practitioners in this innovative teaching model, other components of the research consist of the following: selection and recruitment process of industry practitioners, supportive materials and technology for teaching, and feedback on the teaching model provided by industry practitioners and students. Each of these components are detailed below. 
+ 
+
+* Benefits detailed in the existing literature 
+Figure 1. Design flowchart of this research. 
+ 
+Recruiting Mechanisms 
+ 
+The success of this integrated teaching model is bedded in the selection of capable industry practitioners for the eighteen Construction Management courses offered by the program in the sophomore, junior, and senior years (excluding the general science and other required courses by the university), who are qualified to contribute to a classroom teaching experience at large. Two sources were utilized for an efficient recruitment of industry practitioners: 1) through the program’s Industry Advisory Board (IAB), and 2) through the statewide industry association networking. 
+ 
+The IAB of the Construction Management program at the University of Wyoming was first gathered to assist and advise on the definition of Course Learning Outcomes based on the skills and competencies they think will be essential for the students in the job market after they graduate. As part of a better preparation for the students to the industry, all the fifteen members of the IAB also advocated the implementation of this innovative teaching model. To mitigate potential discomfort associated with constant changes on the instructors in class, it was decided to limit a maximum of six industry practitioners per class throughout the semester. After meeting with the program administrators for a better understanding of the content covered in each of the Construction Management courses, the members of the IAB agreed to further assist the program by contacting industry practitioners who are interested in participating in this initiative. Some members invited their own co-workers to participate who have considerable teaching experience coupled with an extensive Construction Management industry background. Other industry practitioners were recommended thanks to the wide networking that the IAB members possess in different areas such as transportation, construction, engineering, finance, retail, and others that may be directly or indirectly related to Construction Management. For example, several IAB members recommended cost estimators in their companies to deliver a class in the CM 3210: Construction Cost Estimating course. 
+ 
+In order to address one of the major problems in the state of Wyoming – lack of qualified workforce in the construction sector – the industry associations throughout the state such as the Wyoming Contractors Association (AGC), the Wyoming Construction Coalition (WCC), the Wyoming Mining Associations (WMA), the Wyoming Association of Municipalities (WAM), among others, also showed interest in collaborating with the Construction Management program of the University of Wyoming. In fact, there has already been an ongoing project with both parties where free training is provided by the university to employees of Wyoming construction companies [22]. Due to this liaison, these associations also concurred with assisting the recruitment of industry practitioners especially through dialogue during the social events organized by thereof. The recruiting process zoomed in on targeted individuals whose profession or expertise is related to any of the courses listed in the Construction Management program. For instance, during these events, a real estate manager volunteered to participate in the teaching model by delivering a class in the CM 3140: Build Environment Market course. 
+ 
+The selection of industry practitioners was shown to be a seamless process as most of the participants aspired in teaching. Many believed this is a first step to initiate their contact with academia which may pave their way to teaching after their industry lives. All participants had positive expectations, even before being officially engaged, as they were invited to talk about their own experiences in fields which they are familiar with. Others revealed their engagement at the university level is connected to their career development outreach. As an incentive to have these industry practitioners in this teaching model, the name of the industry practitioners and the website of their representing companies/organizations are tabulated on the cover page of the syllabus for the class they are teaching (Table 1). This can be regarded as an indirect benefit to facilitate the recruitment of students to their companies without compromising the quality of the class content. The method of selection adopted for this teaching model mitigates potential problems regarding to students’ lack of interest because the content covered in the classes delivered by the industry practitioners are part of their evaluation. Additionally, with the brief list of courses provided during the recruitment process, the quality of teaching is guaranteed as the industry practitioners are invited to talk about topics within their expertise. 
+ 
+Table 1. Syllabus cover page example of CM 2300: Construction Safety Spring 2021 class with the identification of the industry practitioners and respective companies/organizations. 
+Instructor of Record: Francois Jacobs, Ph.D. University of Wyoming  Industry Practitioner 1: 
+Mark Kilgore, Ph.D., PE Company Name, Occupation, & Website: 
+Probe Forensic Engineering - CEO http://probeforensics.com/  Industry Practitioner 2: 
+Meredith Towle, MPH Organization Name, Occupation, & Website: 
+State of Wyoming - Occupational Epidemiologist http://www.wyomingworkforce.org/  Industry Practitioner 3: 
+Madeline Dalrymple Organization Name, Occupation, & Website: 
+University of Wyoming - Biological Safety Specialist https://www.uwyo.edu/safety/biological/  Industry Practitioner 4: 
+Aaron Recht Organization Name, Occupation, & Website: 
+University of Wyoming - Hazmat Supervisor http://www.uwyo.edu/safety/rmmc/index.html  Industry Practitioner 5: 
+Damien Parks Company Name, Occupation, & Website: 
+Black Hills Energy - Energy Supervisor https://www.blackhillscorp.com/  Industry Practitioner 6: 
+Jesse Henderson Company Name, Occupation, & Website: 
+Black Hills Energy – Damage Prevention Coordinator https://www.blackhillscorp.com/   	 
+Support and Teaching 
+ 
+Diverse methods of support were provided to the industry practitioners for the organization of their classes. Besides the information provided by the program director and respective instructors of record with whom these individuals will be working, the contact information from industry practitioners who participated in this model in the past was also made available. Many of them have several years of experience working with academia, and their insights can be extremely valuable, especially for the industry practitioners who are engaged in this teaching model for the first time. 
+ 
+Additionally, upon their acceptance in participating in this model, a one-page guideline sheet was provided which was prompted by feedback received from the past participants. On this sheet, prior to general information regarding to an introduction to this teaching model and the reasons that it is implemented, it also contains a checklist of commitments for the industry practitioners to follow and comply with in order to successfully complete their involvement. These commitments are listed as the following: 
+ 
+1. Select a chapter from the assigned textbook which the industry practitioner is comfortable teaching. 
+2. Prepare a content-based presentation in electronic format to share with students (other activities may also be developed in coordination with the instructor of record). 
+3. Deliver the class face-to-face or using videoconferencing technologies contingent on external factors. 
+4. Allow students to get in contact directly with the industry practitioners via email. 
+5. Respond to an end-of-semester survey with purposes of quality control and continuous improvement of this teaching model. 
+ 
+Furthermore, a short video prepared by the program director is provided to the industry practitioners which details the step-by-step procedure of preparing a class. Besides the information regarding to the organization and type of content to be included in their presentation, such as dos and don’ts for the organization of a presentation in academia as well as some general tips in how to captivate students’ attention in the class, it also describes the different videoconferencing technologies that the university can provide for free to assist in their teaching. The program decided to provide all these supportive elements to mitigate potential problems regarding to lack of coordination reported in the literature. 
+ 
+The different technologies made available for the industry practitioners play a crucial role in this model as they make the physical presence not mandatory. This is especially important for circumstances when the industry practitioners are not able to leave their jobsites (as they still need to exert their profession), and when the Center for Disease Control (CDC) imposes restrictions of physical presence in the classroom due to the COVID-19 pandemic. 
+Besides being able to access to all the functionalities of Zoom, all the classrooms are also equipped with Meeting Owl Pro devices, which can detect subtle expression and body language shifts and able to focus on different students in the classroom at the same time [23]. With this device, prior to the presentations, several industry practitioners opted to enhance the students’ learning experience by implementing other activities such as group work, class discussions, and virtual tours. For the latter, industry practitioners decided to show the students various aspects of the project that they are part of by using their cellphone. As an example, in the CM 2300: Construction Safety class, special emphasis was given on some practices that may put the workers vulnerable to hazards in the jobsite, as these relate to the course content (Figure 2). In combination with the class discussion, one industry practitioner invited the instructor of record to participate in a dialogue about construction project safety which was broadcast in real-time using an I-Pad (Figure 3). At the end of the conversation, the industry practitioner made available to show the safety measures taken in the jobsite and to answer any questions asked by the students. Moreover, even when students were not physically present in the classroom, group work activities were still conducted, as Zoom allows students to join different sessions through the breakout room function. More details about classroom settings for the different class activities are described in Jacobs et al [24]. 
+ 
+To ensure full engagement in these activities, students were required to write a reflection paper every time there is class taught by an industry practitioner. On this paper, students were asked to summarize the presentation and relate the content with their personal professional or academic experiences. Furthermore, any content delivered by the industry practitioners can be asked in quizzes or exams. As all activities involving participation of industry practitioners are recorded, students can access to these recordings upon request to the respective instructors of record at any time. 
+ 
+ 
+Figure 2. A dangerous practice example Figure 3. Implemented safety measures shared during class. directly broadcasted from a jobsite. 
+ 	 
+Feedback Results 
+ 
+At the end of each semester, an online survey was administered to the classes to obtain students’ feedback on this innovative teaching model. The results obtained for the CM 2300: Construction Safety taught in Spring 2020 and Spring 2021 were selected to be analyzed in this study. A total of 57 and 51 responses were collected at the end of the respective semesters. The survey consists of seven questions: on questions 1 through 6, a statement about the effectiveness of the model is given, and students were required to select an option in a Likert scale from 1 to 5, with 1 being “Very Unsatisfactory”, 2 being “Unsatisfactory”, 3 being “Neither Satisfactory nor Unsatisfactory”, 4 being “Satisfactory”, and 5 being “Very Satisfactory.” On question 7, the student was able to express freely their opinions about the model as well as potential improvements to the course. The following is the breakdown of the responses, along with supportive remarks obtained from other resources (e.g., office hours, off-class events, emails, etc.). Potential explanations for the results obtained were also offered. As the survey was also administered with other purposes beyond the scope of this study (e.g., their opinions about the different classroom settings), only the relevant questions were evaluated here. 
+ 
+On one of the questions, students were asked to rate how well the topics taught by the industry practitioners relate with the theoretical content of the chapter. The survey results illustrated in Figure 5 showed that 82% (47 students) and 84% (43 students) of the students in the class of Spring 2020 and 2021, respectively, responded positively to this statement (a response is regarded as positive/to have positive feedback when students rate the statement with either a 4 – “Satisfactory” or 5 – “Very Satisfactory). This result is expected as a consequence of all the supportive materials provided by the program administration for the industry practitioners to ensure their presentations are aligned with the theoretical content. 
+ 
+One of the most outstanding talks noted by several students during office hours is when the state occupational epidemiologist started the class about accident causation theories by bringing up surprising statistics about construction safety in Wyoming. To the students’ surprise, the data showed that even though Wyoming is the state with the least population, the fatality rate in construction is the third highest in the country by compared ratio. By stoking students’ curiosity with this revelation, the potential causes of the problem were subsequently explained in a way that matched with the theoretical content given in the textbook. On the reflection papers, students admitted that they were not aware of this topic during their internships but henceforth, they will be paying more attention to the importance of safety in the jobsites. 
+ 
+Also, it is possible to see in Figure 5 that from Spring 2020 to Spring 2021, there is an increase of students who rated the class “Very Satisfactory” and decrease of students who rated “Satisfactory”. This outcome is a reflection of the continuous improvement of this teaching model prompted by all the involving entities (program administration, industry practitioners, and instructors of record). 
+ 
+
+                    55% 47%
+14% 12%
+	4%	4%
+0%
+	Unsatisfactory	Satisfactory
+     nor Unsatisfactory  Spring 2020	 Spring 2021
+ 
+Figure 5. Students’ feedback on the alignment of the of the content taught by industry practitioners with the theoretical content (percentages rounded to the whole unit). 
+ 
+On the question which students were asked to rate the value of industry insights presented by the industry practitioners, the survey results illustrated in Figure 6 showed that 86% (49 students) and 88% (45 students) of the students in the class of Spring 2020 and 2021, respectively, responded positively to this statement. From off-class meetings, students highlighted the insightful real-life examples presented by the industry practitioners especially the ones who are now in charge of supervising positions. These experiences allowed students to understand the actual applicability of the knowledge acquired at the university. 
+ 
+During their talks, students also realized that challenges encountered in the practice of the profession cannot be solved with a single answer like exam questions given by the professors. Rather, it requires critical thinking depending on the conditions of each scenario, and a variety of solutions may be acceptable. Additionally, these solutions should be discussed in a group setting so that other participants of the project can also give their opinions. To demonstrate the importance of critical thinking and teamwork in a job setting, a mock-up stage was set in several classes where students were divided in groups and asked to discuss different topics for a given scenario. Questions such as “come up with preventive measures against falling hazards in a commercial building,” “list potential acts that can make workers vulnerable to the exposure of asbestos in residential buildings,” or “explain the importance of using personal protective equipment (PPE) in a trenching operation” were proposed to the students. Despite the unfamiliarity to this type of exercise, students enjoyed the activity, and good solutions were brought forth. 
+ 
+47%
+	44%	42%
+41%
+10% 10%
+	4%	2%
+0%
+	Unsatisfactory	Satisfactory
+     nor Unsatisfactory  Spring 2020	 Spring 2021
+ 
+Figure 6. Students’ feedback on the value of industry insights presented by the industry practitioners (percentages rounded to the whole unit). 
+ 
+On the question which students were asked how well the classes prepared by the industry practitioners were delivered, the survey results illustrated in Figure 7 showed that 88% (50 students) and 92% (47 students) of the students in the class of Spring 2020 and 2021, respectively, responded positively to this statement. As detailed before, the positive feedback stems from the supportive materials provided by the program administration as well as the videoconferencing technologies made available by the university. In terms of the presentations, industry practitioners had in general a solid performance as they were requested to add components related to their work experience in a way that the theoretical content of the chapter is not lost. Also, their presentations were developed to better suit the students’ understanding. Besides the presentations, industry practitioners decided to have students engaged in group discussions and virtual tours. Students liked these activities the most, as they were able to learn more about the practice of the profession. Even when students were not present in the classroom, the breakout room feature of Zoom still allowed group discussions to be conducted successfully. Most of the industry practitioners did not have any difficulties with the use of these technologies. 
+ 
+It is important to note that the coordination between industry practitioner and instructor of record was essential for the success of this teaching model. Prior to the assistance provided to the industry practitioners, the instructor of record needed to ensure that students had enough background knowledge to make the most of the talks prepared by the former. In addition, during the classes taught by industry practitioners, the instructor of record is responsible to clarify any terminologies used by the industry practitioners that are less familiar to the students, provide other help when necessary (e.g., solve technical difficulties with technology), organize class into different classroom settings, etc. As a result of the consideration on all these aspects, the overall reaction of the students was very positive. The continuous improvement trend of the teaching model explained in Figure 5 can also be seen here (decrease of students who rated “Satisfactory” and increase of students who rated “Very Satisfactory” from Spring 2020 to 2021). 
+ 
+59%
+44%
+	7%	6%
+	2%	3%	2%
+	Unsatisfactory	Satisfactory
+     nor Unsatisfactory  Spring 2020	 Spring 2021
+ 
+Figure 7. Students’ feedback on the quality of classes delivered by the industry practitioners (percentages rounded to the whole unit). 
+ 
+An online survey was also administered to obtain the feedback from industry practitioners on this teaching model. Only the results for the CM 2300: Construction Safety taught in Spring 2021 were analyzed in this study. A total of six industry practitioners responded to this survey, which corresponds to a response rate of 100% (a total of six industry practitioners were invited to be part of this model in Spring 2021). The survey consists of eight questions: on questions 1 through 7, industry practitioners were asked about their experience in being part of this teaching model. Topics regarding to class preparation, available resources, future commitment, and so forth were inquired. On question 8, the industry practitioner was given the choice of providing other recommendations or comments about the class and improvements in the future. The breakdown of the responses is given below along with supportive remarks obtained from private discussions with the respective instructors of record as well as end-semester meeting with the program director. Some potential explanations for the results obtained were also offered. As the survey was also administered with other purposes beyond the scope of this study (e.g., their opinions about the different classroom settings), only the relevant questions were evaluated here. 
+ 
+On one of the questions, industry practitioners were asked how long they spent to prepare their class activities. It is possible to see in Figure 8 that five out of six industry practitioners spent more than 1 hour preparing for their classes, and for half of them, the preparation took more than 3 hours. This observation is expected because, for most of the industry practitioners, this was the first time they delivered a class in academia. These results indicate that the industry practitioners dedicated their time in preparing for the class to be more suitable for the students’ comprehension since most of them extracted a great portion of the content from their work meetings. In the end-semester meetings, the industry practitioners expressed their gratitude for all the support provided by the program as they received clear guidance in what to bring to the classroom. Several even admitted that it would have taken them more time if the supportive materials had not been provided. 
+ 
+It is not surprising to see that one of the industry practitioners spent less than 1 hour to prepare for the class. The individual already has experience in teaching in academia as he/she 
+
+had taken part in similar activities (workshops and seminars) at other institutions. Based on these results, the program will be continuously working in the development of new supportive materials with the intent to economize the industry practitioners’ preparation time for their respective classes. 
+ 
+
+No. of industry practitioners
+ 
+Figure 8. Industry practitioners’ feedback on the time spent to prepare for their classes. 
+ 
+On the question which industry practitioners were asked how comfortable they felt in delivering the class, in a scale between 1 (“Very Uncomfortable”) and 5 (“Very Comfortable”), it is possible to see in Figure 9 that all responses were rated with a 4 or higher. As already discussed, in Figure 5 and Figure 7, the supportive guidelines provided by the program as well as the recommendations provided by the past participants in this model contributed to the positive feedback for this question. Also, the coordination with the instructors of record was important to ensure that the industry practitioners are able to present topics with which they are familiar. 
+ 
+Although many industry practitioners successfully employed the use of different technologies 
+(Zoom and Meeting Owl Pro) with the intent to enhance the students’ learning experience by implementing different activities in the classroom (e.g., group work, class discussions, and virtual tours), some admitted that topics related to hands-on aspects of the class could have been taught more effectively if the class had been conducted face-to-face. As restrictions stipulated by the CDC to in-person meetings are becoming more lenient, the program will be negotiating with the companies to have more industry practitioners physically present in class in the following semester. Additionally, several industry practitioners stated that the duration of one class (50 minutes) is too short to cover the basic content of a chapter; suggesting an after-class discussion time to cover more content. Thus, for selected chapters, the program is planning to provide more class time for the industry practitioners to teach. 
+
+No. of industry practitioners
+ 
+Figure 9. Industry practitioners’ feedback on their comfort level in delivering a class. 
+ 
+On question 8, industry practitioners were asked to provide other observations and recommendations for the improvement of this teaching model. In general, the responses were positive. Example responses are shown below: 
+ 
+- “Having supportive material for the preparation of the class ahead of time was very helpful. It is always helpful to know what the instructor thinks students need to understand better in the context of a class.” 
+ 
+- “I appreciated having the chapter that my presentation was associated with.” 
+ 
+- “Students did a great job being engaged. Hopefully, someday we can do it in person.” 
+ 
+- “It would be neat to have a follow-up opportunity with the students to dive deeper into their questions or perceptions of the content. Perhaps being tied into an online discussion platform to observe/participate in their follow-up conversation.” 
+ 
+- “Get to know more about the practice of the profession in college will help prepare any student to what they may encounter when they start planning projects.” 
+ 
+Conclusions and Future Recommendations 
+ 
+Despite the advantages of inviting industry practitioners as guest speakers so that students can have more exposure on the industry practices, the lack of organization and coordination with the program makes this initiative ineffective. As a solution to this challenge, an innovative teaching model was implemented in which industry practitioners were selected based on their competencies and expertise, so that they are integrated in the teaching of the respective classes that are part of the program curriculum. The effectiveness of this model was proven by implementing it in the newly developed Construction Management program at the University of Wyoming. 
+ 
+The recruitment of capable industry practitioners was conducted through two major entities based on their vast networking and social events they organize: 
+• IAB members, and 
+• Industry associations in Wyoming. 
+All participants were thankful for this opportunity, as some would like to be involved in teaching after their professional lives, while others can develop their career outreach. 
+ 
+Different supportive materials were provided to the industry practitioners for the preparation of their class delivery: 
+• Contact information of past participants, 
+• Commitment outline list, and 
+• Short video with general tips for class organization. 
+These items were especially useful for industry practitioners who have never collaborated with academia before. 
+ 
+To further assist the industry practitioners with their teaching, different videoconferencing technologies were made available so that different activities were organized to enhance students’ learning, even when physical presence in the same classroom was not possible. The following summarizes the videoconference technologies used in this teaching model, their corresponding benefits/special features, and the different activities organized using thereof. 
+ 
+Videoconferencing 	Benefits/ 	Corresponding Technologies 	Special Features 	Activities 
+1) Zoom 	1) Enables breakout room sessions • Class discussions 2) Meeting Owl Pro 	2) Focuses on different students at 	• Group work the same time 	• Virtual tours 
+ 
+Students’ feedback data was collected for the CM 2300: Construction Safety class taught in Spring 2020 and Spring 2021. The results showed the following: 
+• Students felt that the topics covered by the industry practitioners are well aligned with the content of the course. The positive feedback was prompted by all the supportive materials and technologies made available to the industry practitioners. 
+• Students showed appreciation for the insights presented by the industry practitioners. They were able to learn more based on the real-life examples brought by the industry practitioners as well as different in-class activities that stimulate critical thinking and teamwork. 
+• Students complimented on the diligence of the industry practitioners in preparing their presentations. Besides the assistance provided by the program, the coordination with the instructor of record was fundamental to have students more engaged to the proposed activities. 
+ 
+Feedback obtained from industry practitioners was collected for the CM 2300: Construction Safety class taught in Spring 2021. The results showed the following: 
+• Most of the industry practitioners spent more than 1 hour in preparing for their presentation, and half of them spent more than 3 hours. This observation is a positive sign that effort was put to adjust the delivered content to the students’ comprehension. 
+• All industry practitioners were comfortable with the delivering of their class. This observation reinforces the importance of the supportive materials and videoconferencing technologies provided by the program. 
+• Despite the positive experience, many industry practitioners wished that more classes were conducted face-to-face especially when hands-on aspects of the class are delivered. Also, some considered the duration of a 50-minute class being too short to cover all the content in a chapter. 
+ 
+As for future recommendations, it is hoped that with the improvement of the vaccine rates against COVID-19 and consequent loosening on the restrictions for in-person meetings, more teaching could be conducted face-to-face, especially the classes that are more action-oriented. Additionally, the program is considering conferring more time to certain classes and chapters with the intent to stimulate more engagement between students and industry practitioners. Furthermore, as part of the continuous improvement of this teaching model, additional supportive elements will be developed to increase the efficiency of the industry practitioners’ efforts as well as the alignment with the students’ interest. Once this teaching model is firmly established in the Construction Management program, plans will be made to extend it to other programs at the University of Wyoming. In sum, this teaching model can effectively close the gap between academia and industry as the different entities: program administration, industry practitioners, and instructors of record work in cooperation to better prepare students for their professional careers. 
+ 
+References 
+ 
+[1] R.I. Lerman, “Are employability skills learned in U.S. youth education and training programs?” IZA Journal of Labor Policy, vol. 2, no. 6, 2013. 
+[2] A. Afonso, J.J. Ramírez, and J.M. Díaz-Puente, “University- industry cooperation in the education domain to foster competitiveness and employment,” Procedia - Social and Behavioral Sciences, vol. 46, pp. 3947-3953, 2012. 
+[3] Y.H. Ahn, A.R., and H. Kwon, “Key competencies for U.S. construction graduates: 
+industry perspective,” Journal of Professional Issues in Engineering Education and Practice, vol. 138, no. 2, pp. 123-130, 2012. 
+[4] T.C. Haupt, “Student attitudes towards cooperative construction education experiences,” Australasian Journal of Construction Economics and Building, vol. 3, no. 1, 31-42, 2012. 
+[5] N. Anderson, P. Herriot, and G.P. Hodgkinson, “The practitioner-researcher divide in Industrial, Work and Organizational (IWO) psychology: Where are we now, and where do we go from here?” Journal of Occupational and Organizational Psychology, vol. 74, no. 4, pp. 391-411, 2010. 
+[6] K. Chareonwongsak (2018), Balancing theory with practice. Available: 
+https://www.universityworldnews.com/post.php?story=20180523132915572 
+[7] A.R. Artino Jr., and A. Konopasky, “The practical value of educational theory for learning and teaching in graduate medical education,” Journal of Graduate Medical Education, vol. 10, no. 6, pp. 609–613, 2018. 
+[8] C. Armatas, and T. Papadopoulos, “Approaches to work-integrated learning and engaging industry in vocational ICT courses: Evaluation of an Australian pilot program,” International Journal of Training Research, vol. 11, no.1, pp. 56-68, 2013. 
+[9] F. Okumus, and K. Wong, “A critical review and evaluation of teaching methods of strategic management in tourism and hospitality schools,” Journal of Hospitality & Tourism Education, vol. 16, no. 2, pp. 22-30, 2004. 
+[10] F. Kamoun, and S. Selim, “A Framework towards assessing the merits of inviting IT professionals to the classroom,” Journal of Information Technology Education Research, vol. 6, pp. 81-103, 2007. 
+[11] S. Haviland, and S. Robbins, “Career and technical education as a conduit for skilled technical careers: A targeted research review and framework for future research. ETS Research Report Series, vol. 2021, no. 1, pp. 1-42, 2021. 
+[12] G. Lindberg (2019), 5 Unbeatable Benefits of Learning from Professors with Industry Experience. Available: https://www.saintleo.edu/blog/unbeatable-benefits-learningprofessors-industry-experience 
+[13] L.R. Ribeiro, and M.G. Mizukami, “Student assessment of a problem-based learning experiment in civil engineering education,” Journal of Professional Issues in Engineering Education and Practice, vol. 131, no. 1, pp. 13-18, 2005. 
+[14] C.S. Beaty, C.E., Waters, G.R., Dziuvenis, and T.M., Feldman, “Use of professional industry interaction to enhance engineering education,” Journal of Architectural Engineering, vol. 20, no. 3, pp. 05014001. 
+[15] C. Metrejean, J. Pittman, and M.T. Zarzeski, “Guest speakers: Reflections on the role of accountants in the classroom,” Accounting Education, vol. 11, no. 4, pp. 347–364, 2002. 
+[16] K.W. McCleary, and P.A. Weaver, “The effective use of guest speakers in the hospitality and tourism curriculum,” Journal of Teaching in Travel & Tourism, vol. 8, no. 4, pp. 401-414, 2009. 
+[17] S.A., Taylor, M. Humphreys, R. Singley, and G.L. Hunter, “Business student preferences: Exploring the relative importance of web management in course design,” Journal of Marketing Education, vol. 26, no. 1, pp. 42-49, 2004. 
+[18] V. Dalakas, “Turning guest speakers' visits into active learning opportunities,” Atlantic Marketing Journal, vol. 5, no. 2, pp. Article 7, 2016. 
+[19] Study International (2009), The real-world value of university guest speakers. Available: https://www.studyinternational.com/news/real-world-value-universityguest-speakers/ 
+[20] J.M. Lang (2008), Guest Speakers. Available: 
+https://www.chronicle.com/article/guest-speakers/ 
+[21] B.A. Rockell, “Challenging what they all know: Integrating the real/reel world into criminal justice pedagogy,” Journal of Criminal Justice Education, vol. 20, no. 1, 7592, 2009. 
+[22] F. Jacobs, and R. Lu, “A construction workforce training partnership between the state of Wyoming, industry, and university during COVID-19.” Online Journal for Workforce Education and Development, vol. 11, no. 1, 2021. 
+[23] OWL LABS (2021), Meeting Owl Pro – Overview. Available: 
+https://owllabs.com/products/meeting-owl-pro 
+[24] F. Jacobs, W. Cain, R. Lu, and A. Daugherty, “Case study: Teaching with Industry (TWI) using new videoconferencing technology and innovative classroom setups, Higher Education, vol. 12, no. 2, pp. 128, 2022. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

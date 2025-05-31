@@ -1,0 +1,402 @@
+﻿Construction Management and Economics (1994) 12, 485—499
+Effective construction planning
+OLUSEGAN OYEWALE FANIRAN, JACOB OLUDOYE OLUWOYE and DENNIS LENARD
+School of Building Studies, University of Technology Sydney, PO Box 123, Broadway, NSW 2007, Australia
+Received 11 August 1993; revised 28 April 1994
+This paper examines the relationships between construction planning efforts and construction planning effectiveness. The influence of the project's environment and organizational characteristics of construction firms on planning efforts and planning effectiveness is also investigated. A sample of 26 building projects was studied and the results were analysed using simple correlations. Three factors were found to have a signifieant effect on improving construction planning effectiveness: increases in planning time prior to commencement Of work on site, the extent to which emphasis is placed on the determination of construction methods during construction planning and the frequency of revision of construction plans after commencement of work on site. Significant relationships were also found between project environment variables and organizational characteristics Of construction firms and planning efforts and planning effectiveness. Implications of the results -are that construction planners should systematically evaluate alternative plans, sufficient time should be allowed for proper planning, thorough reviews are needed whilst work is in progress, the planning effort needs to be relevant to the environmental context ofthe project and the firm should be appropriately organized. Suggestions are given for future research studies.
+Keywords : Planning, effectiveness, environment, organizational characteristics, client objectives,
+
+Introduction
+This study addresses the problem of how client objectives can be better achieved in construction projects through an integrated approach to improving the efficiency of the construction planning process. Previous studies have been fragmented and have focused on isolated aspects of the problem. Such studies have concentrated mainly on developing improved planning techniques (Ahuja and Nandakumar, 1985; Chrzanowski and Johnston, 1986; Al Sarraj, 1990) or studying the impact of limited number of factors on planning effectiveness (Cohenca et al., 1989; Laufer and Cohenca, 1990).
+  This study is based on the premise that a truly meaningful examination of the construction planning process requires a holistic approach in which all relevant factors are considered. Major issues which the study intends to address include the following.
+1. What aspects of efforts invested in planning are associated with planning effectiveness?
+2. How should planning efforts be adjusted to cope with different situations in the project environment?
+3. How can the organizational environment in which
+0144-6193 	1994 E. & F.N. spon
+planners operate be structured to facilitate effective planning?
+  This paper presents preliminary results from a pilot study conducted as part of a research study into the construction planning process. A previous paper (Faniran et al., 1994) proposed the concepts being investigated in the study. The objectives of this paper
+are as follows.
+1. To examine the relationship between construction planning efforts and construction planning effectiveness.
+2. To investigate the influence of situational factors in the project environment on the effectiveness of construction planning efforts.
+3. To investigate the impact of organizational characteristics of construction firms on the effectiveness of construction planning efforts.
+  It should be noted that this study is not intended to produce a predictive model which can be used to forecast construction planning effectiveness under different environmental and organizational conditions. Rather, the emphasis is on understanding how planning effort variables relate to planning effectiveness and how planning effort variables and measures of planning
+
+Figure 1 The research model
+effectiveness relate to project environment variables and organizational characteristics of construction firms.
+Conceptual framework of study
+The research model
+The research model used in this study is shown in Figure 1. The purpose of the model is to provide a framework for exploring the relationships between the research variables.
+  There are four sets of variables in the research model. Construction planning efforts is the primary independent variable with construction planning effectiveness as the dependent variable. The project environment and organizational characteristics of construction firms are moderator variables which induce change in the relationship between the independent and dependent variables.
+The research variables
+The research variables used in this study were identified from a review of relevant literature and are discussed below.
+Construction planning efforts
+In the construction planning literature, over-emphasis on scheduling and control at the expense of methods and action planning has been highlighted by researchers as being a major deficiency in construction planning practices (Erskine-Murray, 1972; Laufer and Tucker, 1987). In this study, planning before the start of work on-site is distinguished from project control during work on-site. An attempt was made to determine the relative impacts of these aspects of construction plan.ning efforts on planning effectiveness using four research variables — planning time, control time, revision intervals and focus on construction methods/ control.
+  Planning time refers to the time invested in construction planning by planning personnel before the commencement of work on-site and has been used previously as a planning effort variable by Cohenca et al. (1989). Control time refers to the time invested in project control during work on-site and has also been used previously by Cohenca et al. (1989) as a planning effort variable. Revision intervals refers to the frequency with which the initially prepared construction plan is reviewed and revised during construction work on site. Focus on construction methods/control refers to the extent to which emphasis is placed during construction planning on either determining and evaluating alternative construction methods and selecting the most appropriate method or developing a systematic means of monitoring project progress and taking corrective action. A similar measure (extent to which creativity and control are emphasized in strategic planning systems) was found by Ramanujam et al. (1986) to be one of the most important dimensions influencing the effectiveness of strategic planning systems.
+  Information gathering has been identified as an important component of the planning process (Steiner, 1969; Galbraith, 1973). In construction planning, however, relatively little effort is made by planners to seek the required additional information with the usual practice being to feed deterministic planning models with pure guesswork data (Arditi, 1981; Laufer and Tucker, 1987). Two research variables — proportion of planning time spent gathering information and proportion ofplanning time spent analysing information— were included in the study in an effort to determine if any additional efforts required in construction planning should be invested in information gathering or information analysing in order to improve planning effectiveness.
+  The support of top management for planning activities has been identified in research studies as being an essential factor for planning effectiveness (Kudla, 1976; Ramanujam et al., 1986; Tatum 1989). The research variable, investment in construction planning (i.e. the percentage of a construction firm's annual expenditure invested in construction planning activities), was used to measure management support and determine its impact on planning effectiveness.
+Construction planning effectiveness
+The primary measure of construction planning effectiveness in this study is the ability of a construction firm to achieve its clients' time, cost and quality objectives. The variable, achievement of client objectives, was operationalized in terms of cost variance, time variance and quality. Cost variance refers to the extent to which the actual construction cost varies from the value originally stipulated in the contract documents at the time of award. Time variance refers to the extent to which the actual construction time varies from the time originally stipulated in the contract documents at the time of award of the contract. Quality refers to the degree of utility of the constructed product, i.e. the extent to which it can perform the function for which it was designed. While cost variance and time variance are tangible measures which can be objectively determined, the measurement of quality is considered to be subjective to some extent. In line with previous studies such as Ireland (1985)' quality was further operationalized in this study in terms of workmanship, suitability for user, aesthetic contribution to the environment and satisfaction of client with final building quality.
+  In keeping with prior research (Arditi and Koseoglu, 1983; Ramanujam et al., 1986; Laufer and Cohenca, 1990), two further measures of planning effectiveness were included — man-hour variance and extent of usage of plans. Man-hour variance refers to the extent to which actual total man-hours on-site varies from the planned total man-hours. Extent of usage ofplans refers to the extent to which prepared plans are used in the process ofdecision making at head office and on-site and is an indication of satisfaction with prepared plans by the users.
+The project environment
+The project environment can be described as the combined characteristics ofa project which have a direct impact on its performance. Important characteristics which have been used in research studies to classify projects include size, degree of uncertainty, degree of complexity, degree of competition at tender, type of contract and type of client (Bennett and Fine, 1980; Bennett, 1983; Ireland, 1985; Bresnen et al., 1990; Laufer, 1991). This study examines the effects of four research variables — project size, uncertainty, complexity and degree of competition at tender — on planning efforts and planning effectiveness.
+  Project size refers to the scope of site operations and has been described as the single most important variable in determining appropriate management strategies (Bennett, 1983). In this study, project size was operationalized in terms of gross floor area, project cost and project duration.
+  Uncertainty refers to the absence of relevant information for decision making during construction planning (Galbraith, 1977; Lichtenburg, 1981 ; Adams and Martin, 1982). In this study, uncertainty was operationalized in terms of four factors: the state of design completion before commencement of construction, past construction experience of a firm relative to the project, the impact of weather and the availability of labour for the project. These factors have been found by previous research studies to be major sources of uncertainty in construction (Dallavia, 1957; Baldwin, 1971 ; Benjamin and Greenwald, 1973; Department of the Army, 1974; Russo, 1975; Arditi, 1981; _Ahuja, 1982; Ahuja and Nandakumar, 1984; Bennett and Ormerod, 1984; Neil and Knack, 1984). The factors have also been used in previous research studies (Cohenca et al., 1989; Laufer and Cohenca, 1990) for measuring uncertainty in the project environment.
+  Mintzberg (1979) described the environmental complexity of an organization as the extent of knowledge required by the organization to perform its tasks. Bennett and Fine (1980) defined complexity in construction projects as the incidence of different kinds of work. In line with these previous studies, complexity in this study was conceptualized as the number of different tasks required to complete the various construction operations in a project. Complexity was further operationalized in terms of four factors: the cost per square metre, the number of subcontractors, the number of construction trades involved in the project and the rigidity and difficulty of construction operations. Cost per square metre is an indication of unit resource input into a construction project and is therefore considered to be an appropriate indicator of project complexity. The number of subcontractors, number of construction trades involved in the project and rigidity and difficulty of construction operation performance objectives have been used in previous studies (Cohenca et al., 1989; Laufer and Cohenca, 1990) as measures of project complexity.
+  The degree of competition at tender refers to the extent of the competition involved in the process by which tenders from different contractors are formally compared in order to select the contractor for the proposed work. This factor has been found by previous studies (Bromilow, 1971; Ireland, 1985) to have a significant impact on project performance.
+Organizational characteristics of construction firms
+Research studies have suggested that organizational characteristics of construction firms might have an influence on the effectiveness of construction planning efforts (Tucker, 1986; Kabasakal et al., 1989).
+  This study uses three research variables — age of firm, size of firm and organizational structure —to examine whether organizational characteristics of construction firms have any impacts on construction planning efforts and construction planning effectiveness.
+  The age of a construction firm was operationalized in terms of the length of time which the firm has been offering construction services. The size of the firm was conceptualized as the scope of operations of the firm. Organizational size was further operationalized in six dimensions: the number of branch offices, the mean annual volume of construction work, the number of construction contracts completed in the last 5 years, the total number of workers which a firm has on its various construction sites, the total number of permanent employees and the mean annual profit. Organizational structure refers to the arrangement of the activities within the firm and was operationalized in three dimensions: formalization, centralization and specialization. Formalization denotes the extent to which rules, procedures, instructions and communications are written down, specialization denotes the extent to which there are specialist roles for activities within the organization and centralization denotes the locus of authority to make decisions affecting the firm.
+Research methodology
+Data collection
+Data for the study were collected using a questionnaire. The questionnaire was designed to be filled by appropriate planning/contract management personnel. Respondents were asked to select a building project completed within the last 5 years and complete the questionnaire with respect to the selected project. The questionnaire contained questions relating to efforts put into planning the project, specific characteristics of the
+project, measures of planning effectiveness and organizational characteristics of the construction firm handling the project. The measurement of the variables is described in the Appendix. To increase the validity of the results, residential building projects were exempted because some studies have shown that most residential builders in Australia do not engage in any meaningful planning activities (Oluwoye, 1992). In order to assure respondents of the confidentiality of the information provided, individual firms and projects were not asked to be identified.
+  Copies of the questionnaire were sent to 50 construction firms selected from lists of members of the Master Builders Association ofNew South Wales, Australia and the Australian Federation of Construction Contractors. The firms were first contacted by telephone to obtain their commitment and were later sent a questionnaire. Twenty-six of the firms responded, giving a 52% response rate.
+Profile of the sample
+Tables 1 and 2 show the profile of the sample. A high percentage of the projects (69%) were lump-sum projects with only 8 0 0 being cost-plus and 23% being design/construct projects. Similarly, 42% of the projects in the sample were commercial buildings, 23% educational institutions while the remaining 35 0 0 were spread over seven other project types. Forty-six per cent of the projects were being undertaken by public sector clients while 540/0 were being undertaken by private sector clients. Frequency distributions of the construction firm sizes show a bias in favour of small to medium size firms.
+Method of analysis
+Interactions between the variable sets were explored using simple correlations. There are various other methods available for exploring relationships between variables such as the use of multiple regressions. However, as has been explained earlier, this paper is exploratory in nature. It is limited in scope to contributing to knowledge regarding the significance and directionality of relationships between the different variables which are explored. The limited results obtained from simple correlation analysis are therefore considered to be adequate.
+Results and discussions
+Correlation coefficients between the variable sets are presented in Tables 3—7. Results significant at the 0.05 level and above are reported and discussed below.
+Construction planning efforts and construction planning effectiveness
+Research studies reviewing the construction planning process have identified the focus of prevailing construction planning practices as being the development of a time framework within which site activities will be carried out, reviewing project progress at regular intervals and taking appropriate measures to keep the project in line with the original schedule when actual progress deviates from planned progress (ErskineMurray, 1972; Laufer and Tucker, 1987; Clayton, 1989). The identification of alternative construction strategies and the selection of an appropriate construction method on the basis of a systematic evaluation are not given much consideration. Results from this study indicate that construction planning effectiveness can be improved by shifting the focus of construction planning away from 'control' (forecasting project progress and developing guidelines for detecting deviations and taking corrective action) to 'planning' (developing appropriate construction strategies). Significant associations (at 12<0.05) were found to occur between increased planning time and reduced cost variance, and increased planning time and reduced time variance as
+
+Table I Profile of sample — size of firm by type of project
+
+Type of project
+
+Size of firmCommercial Industrial Educational HealthGovernment Defence Airport Museum Sports/ Total(median values)buildings building institution institutionadministrative facility building building recreation building	centre
+Mean annual volume of work ($ million)
+	5	3	14
+	303	1	1	1	1	7
+ 75 2 1 14 125 1	1
+	175	11
+	225	22
+	275	11
+	425	11
+4751
+	52511	14
+Total	11	1	6	2	1	1	1	1	1	26
+Number of workers on construction sites
+	25	1	3	1	16
+	150	2	1	4
+	375	66
+	625	111	1
+175011
+	2250	22
+27501
+	1	12
+Total	11	1	6	2	2	1	1	1	1	26
+
+a Respondent did not indicate number Of workers on site.
+Table 2 Profile of sample — type of contract by type of client
+
+Type of contract
+
+Type of clientLump sum Cost plus Design/constructTotalPublic
+Private Total8
+10
+182
+22
+4
+612
+26well as between increased extent to which emphasis was placed on construction methods (i.e. determining 'how' to carry out the work on site) during construction planning and reduced construction labour man-hour variance.
+  An increased proportion of planning time spent in analysing information was associated with increased quality of workmanship (at p < 0.05) and with reducedtion. Since information analysis in construction planning presently focuses mainly on the preparation of schedules, this set of results could be interpreted as a further indication of the need to invest more efforts in the systematic determination of appropriate construction methods.
+  The results also indicated that planning effectiveness can be improved through regularly reviewing theconstruction labour man-hour variance (atoriginal construction plan during project implemenThis suggests that additional efforts in construction tation. Increased frequency of revision of plans was planning should be invested in the analysis of informa- associated (at p < 0.05) with reduced cost variance and
+
+	3 	planning effort variables with measures of planning effectiveness
+
+of planning effectiveness
+
+of client objectives
+
+Quality
+
+Planning effort Time Workmanship Suitability Aesthetic Satisfaction variables variance variance for user contribution of client variance office to environment
+
+Planning time—0.43—0.47—0.040.100.04—0.21—0.270.00—0.03Control time0.01—0.09—0.280.26—0.32—0.31—0.250.130.14Revision intervals—o.30a0.230.010.02—0.020.100.160.41å0.19Focus on construction methods—0.23—0.310.110.160.320.17—0.56b0.340.25Focus on project control0.16—0.210.220.180.090.06—0.090.150.13Proportion of planning time spent gathering information0.02—0.190.350.150.270.03—0.35—0.22—0.10Proportion of planning time spent analysing information—0.18—0.120.420.39b0.030.130.55b0.07—0.15Investment in construction planning—0.10—0.26—0.01—0.220.09—0.190.050.100.01
+
+with an increase in the extent to which construction plans were used for decision making at the head office.
+The project environment and construction planning efforts
+The results indicate that as project size increases both planning and control efforts also increase. Significant associations (at the 0.05 level and above) were found between increases in the three measures of project size used in this study — gross floor area, project cost and project duration -— and increases in both planning and control times. Furthermore, increased gross floor area was associated (at p < 0.01) with an increased proportion ofplanning time spent in analysing information. This is to be expected since an increase in the gross floor area is likely to be accompanied by an increase in the quantity of information to be analysed which in turn would increase the time spent in information analysis.
+  There appears to be a slight, though inconclusive, indication from the pattern of the results that as the complexity of a project increases more efforts tend to be invested in control while on the other hand as uncertainty increases in the project environment more efforts tend to be invested in planning. Increases in two measures of complexity used in this study — the number of subcontractors and the number of construction trades — were associated (at p < 0.05) with increases in planning time. However, an increased number of subcontractors was also associated with an increase in control time (at p=0.001) and with an increase in the extent to which emphasis was placed on control (i.e. developing a systematic means of monitoring project progress and taking corrective action) during construction planning (at X 0.05). An increased number of construction trades was similarly associated (at p 0.05) with a reduction in the extent to which emphasis was placed during construction planning on determining 'how' work will be carried out on site. This suggests that the extra efforts invested in planning as a result of increased project complexity are focused on the development of schedules for project monitoring and control rather than the determination of alternative construction strategies for the execution of work on site. Furthermore, increases in another measure of complexity used in this study — the rigidity and difficulty of construction operation performance objectives — was also associated with an increased control time (at p < 0.05) and with an increase in the extent to which
+Table 4 Correlations of project environment variables with planning effort variables
+
+Planning effort variables
+
+Project environment Planning Control Revision Focus on	Focus on	Proportion of	Proportion of	Investment in variables	time	time	intervals construction	project	planning time	planning time	construction methods	control	spent gathering	spent analysing	planning
+Degree of competition at tender
+Project size—0.49b—0.300.050.05—0.10—0.170.11	information	information
+
+
+Gross floor area0.59b0.69C0.230.020.330.090.54b0.32Project cost0.8}0.38a0.010.160.320.070.300.13  Project duration Complexity0.420.400—0.24—0.010.040.120.210.03Cost per square metre0.38—0.07—0.060.22—0.320.12—0.13—0.22Number of0.46a0.130.140.36a—0.010.340.20
+subcontractorsNumber of construction trades0.3+0.22—0.13—0.33*0.200.220.3300.02
+Rigidity and	0.27 difficulty of performance Objectives
+Uncertainty0.330.120.180.49b0.50b0.47b0.15State of design	0.50b completion0.150.05—0.10—0.18—0.080.28—0.19Past construction— 0.11 experience of firm
+Impact of0.01—0.27—0.120.280.020.12	weather	0.64<0.070.100.160.070.100.37—0.04Availability of	—0.14 labour0.040.210.32—0.22—0.17—0.20—0.12a P<O.05. b p«o.01. c p=o.001.
+emphasis was placed on project control during construction planning (at p $0.01).
+  Two measures of uncertainty — decreased state of design completion before commencement of construction and an increased number of days lost due to poor weather — were associated with increased planning time (at p < 0.01 and p = 0.001 , respectively). A third measure of uncertainty —a decrease in the past construction experience of a firm relative to the project being undertaken — was associated (at p = 0.001 ) with a reduction in planning time. It could be argued, however, that as the experience of a construction firm relative to a particular project decreases more knowledge will need to be acquired to perform the construction operations. Therefore, the perception of the project as being complex by the planners is likely to increase. The negative correlation between the past construction experience of a construction firm relative to a project and planning time can therefore be said to lend some support to the assertion made earlier that as project complexity increases there is a shift in construction planning focus from methods planning to project control. Laufer (1991 ) described three different ways of coping with uncertainty encountered during the planning of construction projects.
+l. Narrowing down uncertainty by gathering more information.
+2. Adjusting to uncertainty by deferring and splitting decisions as much as possible.
+3. Absorbing uncertainty by making flexible decisions.
+The results of this study suggest that as the amount of knowledge required to perform the construction operations in a project increases, construction planners adjust by deferring and splitting decisions as much as
+	5 	project environment variables with measures of planning effectiveness
+
+of planning effectiveness
+
+of client objectives
+
+Quality
+
+Project environment Time Workmanship Suitability Aesthetic Satisfaction variables variance variance for user contribution of client variance office
+to environment
+
+Degree of 0.27 competition at tender
+Project size0.030.00—0.250.100.190.01—0.100.22Gross floor area —0.46å—0.200.240.28—0.28—0.36—0.48a0.22—0.17	Project cost	—0.16—0.230.150.310.09—0.01—0.330.090.17  Project duration	0.08 Complexity0.01- 0.040.350.04—0.21—0.300.010.19Cost per square -0.24 metre
+Number of0.08—0.100.340.31—0.30—0.36—0.22—0.21subcontractors —0.38—0.18—0.300.380—0.33—0.36—0.200.08—0.14Number of construction trades—0.09—0.140.310.240.150.020.01—0.170.04Rigidity and difficulty of performance objectives 
+Uncertainty—0.12—0.210.48b0.44a0.290.12—0.5?0.260.09State of design completion—0.33—0.23—0.050.08—0.14—0.07—0.150.160.12Past construction experience of
+Impact of0.090.130.200.320.07—0.310.01—0.57b—0.4Yweather—0.09—0.200.310.060.130.32—0.36—0.040.13Availability of labour0.080.20—0.090.13—0.220.060.20—0.150.16
+a p <0.05. b 15<0.01. c p=O.001.possible. On the other hand, as the unavailability of relevant information for decision making during construction planning increases, planners respond by making flexible decisions. Such decisions could be in the form of contingency allowances for productivity, cost and time estimates. The decisions could also be in the form of the development of alternative construction strategies for anticipated project situations which could serve as back-up plans in the event that decision criteria assumed in respect of unavailable information are incorrect.
+  Increased rigidity and difficulty of performance objectives was associated (at p 0.01 ) with an increase in the proportion of planning time spent gathering information as well as with an increase in the proportion of planning time spent analysing information. The number of construction trades was also associated (at p<O.05) with an increase in the proportion ofplanning time spent analysing information. The number of days lost due to poor weather was associated (at p <0.05) with an increase in the proportion of planning time spent analysing information. It appears from the results that the increased knowledge required for construction operations arising from increased project complexity necessitates the need to gather and subsequently analyse more information. However, under conditions of uncertainty when required information is unavailable, efforts are concentrated on analysing the limited information available.
+  Increased competition at tender was associated (at p 0.01) with a reduction in planning time. This can be attributed to the fact that in negotiated contracts there is
+Table 6 Correlations Of organizational characteristics with planning effort variables
+
+Planning effort variables
+
+OrganizationalPlanning Control Revision Focus onFocus onProportion ofProportion ofInvestment incharacteristics	time	time	intervals constructionprojectplanning timeplanning timeconstructionmethodscontrolspent gathering informationspent analysing informationplanning
+Age of firm
+	Number Of years 0.24	0.26	0.16	0.08	—0.03	0.06	0.19	—0.06
+firm has been offering construction services
+Size of firmNumber of branch offices0.41—0.04—0.040.250.47b—0.020.04Mean annual volume of construction work0.110.05—0.040.14—0.37—0.080.07—0.39aNumber of construction contracts completed in last five years—0.08—0.260.280.28—0.180.160.02—0.22Number of workers which firm has on its various construction sites0.46"0.180.180.40a—0.14—0.130.06—0.09Total number of —0.07 permanent employees0.46—0.460.23— O. 46b—0.060.10—0.36bMean annual	0.32 profit
+Organizational structure0.270.270.230.14—0.060.31—0.10	Formalization	—0.02—0.12—0.120.38Ä—0.230.310.270.17	Centralization	— 0.39a—0.16—0.16—0.060.01—0.17— 0.39a0.05	Specialization	—0.10—0.16—0.160.06—0.46b0.01—0.03—0.37"more time available for planning than in contracts awarded under open competition.
+The project environment and construction planning effectiveness
+Increased gross floor area (a measure of project size) was associated (at p 0.05) with a reduction in cost variance and with a reduction in man-hour variance. Two measures of complexity — an increased number of subcontractors and increased rigidity and difficulty of performance objectives were associated (at p < 0.05) with increases in the suitability of the building for the user. An increased number of subcontractors was also associated (at 13<0.05) with a decrease in the cost variance. Increased rigidity and difficulty Of performance objectives was similarly associated with increased quality of workmanship (at 17<0.01) and reduced man-hour variance (at X 0.05). These results suggest that as construction projects grow larger and more complex construction planning becomes more effective.
+  A decrease in the past construction experience of the firm relative to the project being undertaken was associated with a decrease in the extent of usage of construction plans at head office (atp < 0.01) and on-site (at p < 0.05). It has been argued earlier in this paper that although past construction experience was included in
+	7	organizational characteristics with measures of planning effectiveness
+
+of planning effectiveness
+
+of client objectives
+
+Quality
+
+Organizational	Time	Workmanship Suitability	Aesthetic	Satisfaction 
+characteristics	variancevariancefor usercontribution of client to environmentvarianceofficeAge of firm
+NUmber Of years firm has been offering construction services
+Size of firm
+Number of branch offices
+Mean annual volume of construction work
+Number of construction contracts completed in last five years
+Total number of workers which firm has on its various construction sites
+Total number of
+permanent employees
+Mean annual profit
+Organizational structure
+Formalization
+Centralization
+Specialization—0.02
+—0.35a
+—0.24
+—0.30
+—0.34
+—0.32
+—0.17
+—0.12
+0.43
+—0.23—0.13
+—0.06
+—0.04
+—0.34
+—0.04
+0.28
+—0.01
+0.19
+0.04—0.44'i
+—0.08
+—0.34
+0.01
+—0.17
+—0.17
+0.00
+0.08
+0.04
+—0.27—0.21
+—0.08
+—0.08
+—0.47
+—0.16
+0.02
+0.25
+—0.16
+0.02
+—0.15— 0.50
+—0.18
+0.11
+—0.15
+—0.22
+—0.15
+0.01
+0.32
+—0.03—0.07
+0.05
+0.15
+0.41 a
+0.08
+0.03
+0.13
+0.12
+0.03
+—0.29—0.02
+—0.36
+—0.28
+—0.01
+—0.37
+—0.30
+—0.47
+—0.17
+0.37
+—0.160.11
+0.25
+0.26
+0.27
+0.41a
+0.29
+0.33
+0.31
+0.02
+0.010.12
+0.18
+0.11
+0.21
+0.29
+0.15
+0.20
+0.20
+0.09
+0.12c 2=0.001.
+this study as a measure of uncertainty, it also tends to fit into the conceptual definitions of complexity. It has also been stated earlier in this paper that planners tend to adjust to increased project complexity by deferring and splitting decisions. It would therefore appear that, in line with these arguments, the more inexperienced a construction firm is relative to a construction project the less detailed its initial plans are likely to be and, therefore, the more unlikely such plans would be used for decision making.
+Organizational characteristics of construction firms and construction planning efforts
+An increased number of branch offices was associated with a reduction in the extent to which emphasis was placed on project control during construction planning (at p 0.01) and with a decrease in the percentage of the firm's annual expenditure invested in construction planning activities (at p $0.05). An increased mean annual volume of construction work was also associated (at p 0.05) with a reduction in the extent to which emphasis was placed on project control during construction planning and with a decrease in the percentage of the firm's annual expenditure invested in construction planning activities. An increase in the total number of workers which the firm has on its various construction sites was associated (at 12<0.05) with an increase in planning time and with an increase in the extent to which emphasis was placed on construction methods during construction planning. An increased total number of permanent employees employed by the firm was associated with a decrease in the extent to which emphasis was placed on proj ect control during construction planning (at p and with a decrease in the percentage of the firm's annual expenditure invested in construction planning activities (at  These results suggest that larger construction firms place less emphasis on project control than smaller firms, shifting their emphasis instead to methods planning. The results also suggest that as construction firms grow larger, the proportion of their annual expenditure invested in construction planning decreases. According to Neale and Neale (1989) the employment of large numbers of planners cannot in itself ensure against project overrun and overspend. It would seem to appear from the results of this study that as construction firms grow larger, rather than increasing budget allocations and deploying extra resources, e.g. employing more planners, the amount of money spent on construction planning activities remains constant in absolute terms. However because total expenditure would most likely increase as organizational size increases, the proportion of a firm's annual expenditure invested in construction planning activities would decrease.
+  Increased formalization was associated (at with an increase in the extent to which emphasis was placed on construction methods during construction planning. This can be attributed to the inclusion of specific instructions for systematically determining appropriate construction methods as part of written job procedures.
+  Increased centralization was associated (at with decreased planning time and with a decreased proportion of planning time spent analysing information. This suggests that as the level at which decisions are taken within the organizational structure gets higher less time is available for construction planning activities, A possible explanation for this is the competing interests of different managerial activities at higher levels of authority.
+  Increased specialization was associated (at p with a decrease in the extent to which emphasis was placed on project control. If it is assumed that the use of specialists for construction planning increases with increased specialization in the organizational structure then this result contrasts with views previously expressed by researchers in construction planning that specialist planners focus their planning efforts mainly on scheduling and project control (Laufer and Tucker, 1988). Increased specialization was also associated (at p with a decrease in the proportion of the firm's annual expenditure spent on construction planning activities. One possible explanation for this particular result is that the use of functional managers for construction planning usually involves the creation of separate project teams for individual projects. This increases the aggregate man-hours invested in planning and consequently increases planning costs. On the other hand, the use of staff specialists for planning reduces the cost of planning because one staff specialist can usually serve several projects at once.
+Organizational characteristics of construction firms and construction planning effectiveness
+An increase in the number of years a construction firm has been offering construction services was associated (p < 0.05) with a decrease in the aesthetic contribution of the building to the environment. According to Laufer and Tucker (1988) of the three major goals of a construction project— cost, time and quality — quality usually receives the least attention. The results of this study seem to indicate that older and more established construction firms place less emphasis on quality. This probably stems from the fact that newer construction firms in an attempt to market themselves effectively place mo.re attention on the quality of their projects. However, as they become more established in the construction market their attention is shifted to the commercial success of their firms, focusing instead on improving the cost and time performance of their projects.
+  The pattern of the results with respect to the effect of the size of construction firms on construction planning effectiveness does not support drawing any specific conclusions. Significant associations were found between increases in four measures of organizational size and planning effectiveness. An increase in the number of branch offices was associated with reduced cost variance (p < 0.05). An increased number of construction contracts completed by the firm within the last 5 years was associated with increased satisfaction of client with final building quality (p An increase in the total number of workers which the firm has on its various sites was associated with an increase in the extent to which the construction plans were used in decision making at head office (2<0.05). An increase mean annual profit of the firm was associated with reduced man-hour variance (p < 0.05). Significant associations were also found between increases in two measures of organizational size and decreased planning
+
+effectiveness. An increased mean annual volume of construction work was associated with a decrease in the aesthetic contribution to the environment (p 0.05). An increase number of construction contracts completed by the firm within the past 5 years was similarly associated with a decreased suitability of the building for the user (P<0.05).
+  Increased centralization in the organizational structure was associated with increased cost variance (13<0.05). This result can be attributed to an earlier finding in this paper that competing interests of managerial activities at higher levels of authority leave less time available for construction planning activities thereby resulting in less efficient projects.
+Implications and practical applications
+The implications and potential areas of practical applications of the study are as follows.
+I. Current approaches to planning construction projects are deficient. The focus in these approaches is on producing a project schedule on the basis of only one feasible and acceptable way (not neccesarily the best way) prior to the commencement of work on-site and controlling project progress once work commences. However, in order to improve planning effectiveness, the focus in construction planning needs to be shifted to the determination of appropriate construction methods on the basis of a systematic evaluation of alternatives. Thus, the present retrospective nature of construction planning (i.e. planning directed towards correcting deficiencies produced by past decisions) would be replaced by prospective planning (planning directed towards creating a desired future). Furthermore, by systematically exploring and comparing probable alternatives in order to select the best possible construction plan, alternative plans would be available to fall back on in the event of changes in the project environment. Uncertainty would therefore be more adequately catered for rather than simply relying on the use of probabilistic estimates to calculate activity durations as is presently the practice.
+2. A sufficient period to time needs to be devoted to construction planning prior to the commencement of work on-site. Once a contract has been won, planning should begin early enough to provide time to consider alternative strategies for project execution.
+3. After work begins on site, the original construction plan should be reviewed at regular intervals. However, such reviews should not be limited to identifying deviations between planned and actual performance and taking decisions on corrective action. The reviews should involve a critical reexamination of the original construction plans and seeking means of improvement through changes in construction methods.
+4. The results of the study regarding the influence of the project environment on planning efforts and planning effectiveness show that planning efforts should be adjusted to suit different project environment conditions. The results of the study therefore form the basis for further extension and development into a model for assisting in organizing construction planning activities and predicting the effectiveness of planning efforts under different environmental conditions. The model could be used for determining the required time investments for planning and control, frequency of plan revisions, as well as planning costs associated with specific projects. It would also assist the top management of construction firms in determining budget allocations for construction planning.
+5. Structural features of construction organizations (at the firm level) which facilitate effective planning are increased formalization, decreased centralization and increased specialization. This performance implication of the organizational structure of construction firms would be useful in the design of effective construction firm organizations.
+Conclusion
+Improvements to construction planning effectiveness require an integrated approach involving the following.
+I. Identifying planning efforts associated with planning effectiveness. Focusing attention on such 'critical' planning efforts during construction planning is expected to result in a more productive use of resources.
+2. Taking into account specific characteristics of the construction project environment when organizing construction planning efforts.
+3. Structuring the organizational environment in which planners operate to facilitate construction planning activities.
+  Correlation analysis showed that planning effectiveness is likely to be improved if more time is invested in construction planning prior to commencement of work on-site, attention is focused during construction planning on systematically evaluating alternative construction methods and selecting the most appropriate and construction plans are regularly reviewed and revised after construction work has commenced on-site.
+  The results also showed that project environment variables and organizational characteristics of construc- tion firms have significant relationships with planning efforts and planning effectiveness. The time invested in planning and control, respectively, was found to increase as projects increased in size. As project complexity increases more efforts tend to be invested in control while, on the other hand, as uncertainty increases in the
+project environment, more efforts tend to be invested in planning. Less time was found to be invested in construction planning as the degree of competition in contract procurement increased. Furthermore, planning effectiveness was found to improve as construction projects become larger and more complex. Larger firms were found to place more emphasis on methods planning with smaller firms focusing on project control. The results suggest that the use of staff specialists for construction planning reduces planning costs. The results also suggest that as the locus of authority for decision making within the organizational hierarchy increases, less efforts are invested in planning and planning effectiveness is reduced.
+  A limitation of this study is that the data do not come from existing records but rather from respondents' personal assessments. Nevertheless, the subjectivity of the respondents is directed towards specific projects in which they participated and not to a hypothetical situation, thus improving the validity of the results. Despite these limitations the results have significant implications and suggest possible directions for future research.
+Acknowledgements
+The authors wish to thank three anonymous reviewers for their comments on an earlier version of the manuscript.
+References
+Adams, J.R. and Martin, M.D. (1982) 'A practical approach to the assessment of project uncertainty', In Proceedings ofthe PIMI Symposium, Toronto.
+Ahuja, H.N. (1982) A conceptual model for probabilistic forecast of final cost, In Proceedings of the PMI—INTERNET Joint Symposium, Toronto, pp. 23—31.
+Ahuja, J.N. and Nandakumar, V. (1984) Enhancing reliability of project duration forecasts, In Transactions of the American Association of Cost Engineers, Montreal, pp. E.6.1-E.6.12.
+Ahuja, H.N. and Nandakumar, V. (1985) Simulation model to forecast project completion time, Journal of Construction Engineering and Management, ASCE, 111, 325—342.
+Al Sarraj , Z.M. (1990) Formal development of line-of-balance technique, Journal of Construction Engineering and Management, ASCE, 116(4), 689-704.
+Arditi, D. (1981) A comparison of attitudes to planning in industrialised and developing countries, In Proceedings of the PMI-INTERNET Joint Symposium, Boston, MA, pp.
+Arditi, D. and Koseoglu, H. (1983) Factors affecting success in network applications in a developing country, Construction Management and Economics, 1, 3—16.
+Baldwins J.R. (1971) Causes for delays in the construction industry,Journal ofthe Construction Division, ASCE, 97(2), 117-187.
+Benjamin, N.B. and Greenwald, T.W. (1973) Simulating effects Of weather on construction, Journal of the Construcnon Division, ASCE, 99(1), 175-189.
+Bennett, J. (1983) Project management in construction, Construction Management and Economics, I, 183—197.
+Bennett, J. and Fine, B. (1980) Measurement of Complexity in Construction Projects: SERC research project GR/A/1342.4 : Final Report. University of Reading, Reading.
+Bennett, J. and Ormerod, R.N. (1984) Simulation applied to construction projects, Construction Management and Economics, 2, 225-263.
+Bresnen, M.J„ Haslam, C.O., Beardsworth, A.D., Bryman, A.E. and Keii, E.T. (1990) Performance on Site and the Building Client. Occasional Paper No. 42. The Chartered Institute of Building, London.
+Bromilow, F.J. (1971) Building contract cost performance, The Building Economist, 9, 126—138.
+Chrzanowski, E.N., Jr and Johnston, D.W. (1986) Application of linear scheduling,Journal ofConstruction Engineering and Management, 112(4), 476—491.
+Cohenca, D., Laufer, A. and Ledbetter, W.B. (1989) Factors affecting construction planning efforts, yournal of Construction Engineering and Management, ASCE, 115(1), 70—89.
+Clayton, R. (1989) Planning is the key, Building Today, 197, 31-33.
+Dallavia, L. (1957) Estimating General Construction Costs. F.W. Dodge Corporation, New York.
+Department of the Army (1974) Empirical Cost Estimates for Military Construction and Cost Adjustment Factors. Army Regulations 415—417. Department of the Army, Washington, DC.
+Erskine-Murray, P.E. (1972) Construction Planning— Mainly a Question ofHow, Occasional Paper No. 2. The Institute of Building, London.
+Faniran, 0.0., Oluwoye„ J.O. and Lenard, D. (1994) A conceptual process of construction planning for meeting client objectives, Journal of Real Estate and Construction, in press.
+Galbraith, J.R. (1973) Designing Complex Organisations. Addison-WesIey Publishing Company, Reading, MA.
+Galbraith, J .R. (1977) Organisational Design. Addison-Wesley Publishing Company, Reading, MA,
+Ireland, V. (1985) The role of managerial actions in the cost, time and quality performance of high-rise commercial building projects, Construction Management and Economics, 3, 59-87.
+Kabasakal, H.E., Sozen, Z. and Usdiken, B. (1989) Organisational context, structural attributes and management systems in construction firms, Construction Management and Economics, 7, 347—356.
+Kudla, R.J. (1976) Elements of effective corporate planning, Long Range Planning, August, 82—93.
+Laufer, A. ( 1991) Construction planning in uncertain environments, Project Management, 9(1), 53—60.
+Laufer, A. and Cohenca, D. (1990) Factors affecting construction planning outcomes, Journal of Construction Engineering and Management, ASCE, 116(1), 135—156.
+Laufer, A. and Tucker, R.L. (1987) Is construction project planning really doing its job? A critical examination of focus, role and processes, Construction Management and Economics, 5, 243—266.
+Laufer, A. and Tucker, R.L. (1988) Competence and timing dilemma in construction planning, Construction Management and Economics, 6, 339—355.
+Lichtenburg, S. (1981) 'Real world uncertainties in project budgets and schedules', In Proceedings of the PMI—INTERNET Joint Symposium, Boston MA, pp. 179—193.
+Mintzberg, H. (1979) The Structuring of Organisations. Prentice-Hall, Englewood Cliffs, NJ.
+Neale, R.H. and Neale, D.E. (1989) Construction Planning. Thomas Telford, London.
+Neil, J .M. and Knack, L.E. (1984) Predicting productivity, In Transactions of the American Association of Cost Engineers; Montreal, H.3.1-H.3.8.
+Oluwoye, J .0. (1992) Building company failures, Building Science Forum, June, 3.
+Ramanujam, V., Venkatraman, N. and Camillus, J.C. (1986) Multi-objective assessment of effectiveness of strategic planning: a discriminant analysis approach, Academy of Management Journal, 29(2), 347—372.
+Sozen, Z. (1985) Size, technology and aspects of structure in construction firms in Turkey, Construction Management and Economics, 3, 233—247.
+Steiner, G.A. (1969) Top Management Planning. MacMillan, New York.
+Tatum, C.B. (1989) Organising to increase innovation in construction firms, ffournal of Construction Engineering and Management, ASCE, 115(4), 602-671.
+Tucker, R.L. (1986) Management of construction productivity, Journal of Management in Engineering, ASCE, 2(3), 148-156.
+Appendix: measurement of variables
+Planning time: measured in man-months on a seven-point scale with response categories ranging from 'less than I manmonth' to 'more than 10 man-months'.
+Control time: measured in man-days per month on a sevenpoint scale with response categories ranging from eless than 5 man-days per month' to 'more than 50 man-days per month'. Revision intervals: measured in months on a seven-point scale with response categories ranging from 'every 6 months or more' to 'every 2 weeks or less'.
+Focus on construction methods: measured on a three-point scale with response categories ranging from 'no emphasis placed on the determination and evaluation of alternative construction methods during construction planning' to 'high emphasis placed on systematically determining, evaluating and comparing alternative construction methods in order to select the most appropriate construction method'.
+Focus on project control: measured on a three-point scale with response categories ranging from •no consideration given during construction planning to providing a systematic means of measuring and reporting project progress and taking corrective action' to 'high emphasis placed during construction planning on developing a systematic means of measuring and reporting project progress and taking corrective action'. Proportion of planning time spent gathering information: measured on a seven-point scale with response categories ranging from 'less than I % ' to 'greater than 25%' ' Proportion of planning time spent analysing information: measured on a seven-point scale with response categories ranging from 'less than 1%' to 'greater than 25 0 Investment in construction planning: measured on a sevenpoint scale ranging from 'less than 0.5%' to 'above 100 ' Cost variance: measured as the ratio of final project cost to original project cost.
+Time variance: measured as the ratio of final project duration to original project duration.
+Quality of workmanship: measured on a five-point scale With response categories ranging from 'very poor' to 'very good'. Suitability for user: measured on a five-point scale with response categories ranging from 'very poor' to 'very good' Aesthetic contribution to environment: measured on a fivepoint scale with response categories ranging from 'very poor' to 'very good'.
+Satisfaction of client with final building quality: measured on a three-point scale with response categories ranging from 'very dissatisfied' to 'very satisfied'.
+Man-hour variance: measured in percentage on a seven-point scale ranging from 'less than 3 0 0' to 'more than 18y Extent of usage of construction plans: measured on a threepoint scale with response categories ranging from 'negligible' to 'major usage'.
+Age of firm: measured on a seven-point scale with response categories ranging from 'less than I year' to 'over 15 years'. Number of branch offices: measured on a seven-point scale with response categories ranging from 'none' to 'more than 25'.
+Mean average volume of work: measured on a 12-point seale with response categories ranging from 'under $1 000 000.00' to 'above $500 000 000.00'.
+Mean annual profit: measured on a 12-point scale with response categories ranging from 'less than $1 000 000.00' to 'above $100 000 000.00'.
+Number of construction contracts completed within the last 5 years: measured on a five-point scale with response categories ranging from '1—10' to 'above 40'.
+Total number of workers which firm has on its various construction sites: measured on a nine-point scale with response categories ranging from 'less than 50' to 'above 2500'. Total number of permanent employees: measured on a ninepoint scale with response categories ranging from 'less than 50' to 'above 2500'.
+Formalization: measured by asking respondents to indicate the extent to which their firm has written job procedures (or job descriptions) for its various work tasks or assignments with response categories on a four-point scale ranging from 'none' to 'all written'.
+Centralization: measured using modified version of Sozen's (1985) measure. Respondents were given a list of 19 decisions and were asked to indicate at What level of the firm's management hierarchy (low, middle or high) could executive action be authorised for the decisions. Decisions taken by the low level were scored l, those taken by the middle level were scored 2, while decisions taken by the high level were scored 3. The higher the firm 's summed score, the more centralized the level at which authoritative action could be taken. Specialization: measured using modified version of Sozen's (1985) measure. Respondents were given a list of 17 construction and support activities and were asked to indicate whether there was at least one person in the firm who was solely responsible for the particular activity.
+Degree of competition at tender: measured on a three-point scale With response categories —negotiation, selective competition and open competition. Gross floor area: measured in square metres.
+Project cost: measured as the value of the total payments made to the firm by the time of completion of the project (units: Australian dollars).
+Project duration: measured as the total time taken from the date Of award of the contract to date of handover to client (units: weeks).
+Cost per square metre : measured as the ratio of the project cost to the gross floor area of the building.
+Number of subcontractors : measured simply as the number of subcontractors involved in the project.
+Number of construction trades: measured as the number of construction trades (including subcontractor crews) involved in the project. A list of41 construction trades was provided and respondents were asked to indicate those which were involved in the project. In addition, respondents were asked to specify any other construction trade not included in the list but which was specified in the project.
+Rigidity and difficulty ofperformance objectives : measured on a three-point scale with response categories ranging from 'flexible and lenient' to 'rigid and diffcult'.
+State of design completion: measured on five-point scale With response categories ranging from ' to 'below
+
+Past construction experience: measured on a three-point scale with response categories ranging from 'company is well experienced in the construction of all the project components' to 'company is inexperienced in construction of most of the project components'. Impact of weather: measured simply as the number of days lost due to poor weather.
+Availability of labour: measured on a three-point scale with response categories ranging from 'high level of labour surplus' to 'scarcity of labour'.
+	486	Faniran et al.
+
+Effective construction planning	487
+
+
+
+490	Faniran et al.
+Table 	Correlations of 
+Measures 
+	Achievement 	Other measures
+Usage of plans
+	Cost	Man-hour At head	on-site
+
+Effective construction planning	487
+
+490	Faniran et al.
+Table 	Correlations of 
+Measures 
+	Achievement 	Other measures
+Usage of plans
+	Cost	Man-hour At head	on-site
+
+486	Faniran et al.
+
+Effective construction planning	487
+
+486	Faniran et al.
+

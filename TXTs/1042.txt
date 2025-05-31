@@ -1,0 +1,303 @@
+﻿Construction Management and Economics, 1992, 10, 107—116
+Construction cost information management in
+Nigeria
+AKINTOLA S.  OLUSANYA AJEWOLE 2 and
+PAUL O. OLOMOLAIYE 3
+I Department of Surveying, University of Safford, Salford M5 4 WT, UK, 2Faculty of Environmental Design and
+Management, Obafemi Awolowo University, Ile-lfe, Oyo State, Nigeria and 3 School of Construction and
+Engineering, Wolverhampton Polytechnic, Wolverhamption, UK
+Quantity surveyors are the hub of construction cost control in Nigeria. A total of 29 quantity surveying firms were surveyed using a structured questionnaire, augmented with formal interviews, with a view to determine the sources of, and how, cost information are managed in the country. An analysis ofcontractors' tenders is the cheapest,fastest and mostfrequently used source ofcost data. More reliable sources, such as market surveys and the technical press, are referred to less often. Greatest constraints identified against adequate management ofconstruction cost information are with respect to insufficient design information, unavailability of relevant database and fluctuating construction input prices.
+Keywords: Cost information, quantity surveyors, Nigeria
+Introduction
+Information is the basis for making business decisions. The degree of accuracy of information affects the level of confidence that will be attached to the subsequent decision. Construction cost information influences the decision whether to build or not as every prudent client would like to know the probable cost before embarking on a project. Cost information during project execution helps in monitoring and meeting project time and cost targets. Availability and adequacy of the essential cost information is important in the accuracy of cost estimate prepared by quantity surveying firms; these are also required at various levels of sophistication in the study and practice of building economics (Drake, 1984; Skitmore, 1985).
+  The communication of cost information to the client to ensure emcient design, realistic pricing and production of building is a fundamental aspect of the quantity surveying profession (Hardcastle, 1982). The need to forecast and control construction activities necessitates emcient cost information management.
+  The Nigerian construction industry is currently in an economic recession. With everyone blaming the other for wasted construction funds during boom years and with many projects now abandoned due to excessive cost overruns (Ovonlen, 1989), quantity surveyors have been on the defensive. Hence, this is the time for evaluation of the cost information on which professional advice was based. This paper reports a survey of cost information practice of quantity surveyors in Nigeria with a view to evaluating the quality of the information. In developed countries where there is access to different cost information sources and services,
+* To whom all correspondence should be addressed.
+0144-6193/92 	1992 E. & F.N. spon
+	108	Akintoye et al.
+the problems of a quantity surveyor in a developing economy may not be easily appreciated. We shall attempt a comparative discussion of these difficulties with the background that the absence of realistic cost information tends to preclude any more confident decisions (Ashworth, 1980).
+The survey
+The quantity surveyor is the primary cost economist in the Nigerian construction industry. While there are French, American, Italian etc. construction firms in the country, they have all adjusted to the contractual arrangement of the Nigerian construction industry which takes after that of Great Britain. The survey therefore concentrated on the quantity surveyors as the hub of construction cost control and management in Nigeria.
+  The 43 registered quantity surveying firms in Lagos, the capital of Nigeria, were surveyed using a structured questionnaire. This was augmented with a follow-up interview with the cooperating firms. All the firms were first contacted with a 'request for research assistance' letter. Twenty-nine of them agreed to participate in the study. Attempts were made to obtain quantitative responses to some of the questions. Using the relative rank indexing technique (Olomolaiye et al., 1987), the responses were converted to enable comparative analysis.
+  Tables I and 2 show some of the characteristics of the respondents in this survey. Of the respondents, 17% were Principal Partners in their various practices and the majority of them (i.e. 27) had full ARICS qualification or the Nigerian equivalent (ANIQS). Twenty-two of them were trained through the Polytechnic HND route as there are few Nigerian universities offering the BSc degree in quantity surveying. None had a postgraduate (MSc) qualification which may also reflect the few number of universities offering the course. Offcial designation of the quantity surveyors correlate with working experience in years; with four of the five principal partners having spent more than 20 years in the profession. Using qualification and professional experience as basis we may infer that the respondents have adequate knowledge of the profession and as such we are confident of the data obtained through questionnaires and interviews.
+Professional service provision
+Table 3 shows the services provided by the quantity surveyors. These are mostly entrenched in the traditional duties of the profession as follows: preliminary cost advice; tender documentation and advice; and contract administration. In the provision of preliminary cost advice, basic methods are required as indicated in Table 4 which shows approximate quantities method is mostly embraced. This suggests that a cost plan or financial budget for construction investment could not be produced until the sketch design is almost completed and basic specifications for the project have been decided. Ferry and Brandon (1980) illustrated how at the sketch design stage in project development, over 80% of the building cost would have been committed leaving only 20% for the cost control of the design team. This could lead to abortive design solutions particularly where there is a need to re-design because the cost of the design solution at this stage is more than what client could afford.
+  Within this framework of production of the design cost estimate at the sketch design stage, it is not surprising that a lot of projects initiated by both the public and private sectors of management 
+
+	1 10	Akintoye et al.
+Table 3. Services quantity surveyors provide clients
+ServicesNo. of firmsPreliminary cost advice from onset of project
+Preparation of bill of quantities
+Interim valuation of construction work
+Advising on contractual arrangements
+Advising on contractor selection
+Project cost control — post contract
+Preparing and agreeing accounts with contractor
+Preparing expenditure — financial statements
+Obtaining or negotiating tenders
+Specification writing
+Project management
+Expert advice in arbitration and disputes
+Cost planning — design cost advice
+Assessing replacement value for insurance
+Statements for tax and accounting
+Technical auditing29
+29
+29
+26
+26
+26
+25
+22
+20
+12
+8
+8
+8
+5
+4
+3100
+100
+100
+90
+90
+90
+86
+76
+69
+41
+28
+28
+28
+17
+10Table 4. Usage of approximate estimating methods
+
+	Often	Seldom	Never
+MethodsNo.No.No.Unit method
+Cube method
+Superficial method
+Storey enclosure
+Elemental estimate
+Approximate quantities4
+12
+614
+41
+21
+8310
+2
+9
+2
+11
+334
+7
+31
+7
+38
+1014
+26
+7
+26
+11
+148
+90
+24
+90
+38
+3the economy have been abandoned due to cost over-runs (Ovonlen, 1989). Aniekwu and Okpala (1988) showed that design changes were an important systematic variable responsible for cost over-runs of construction projects in Nigeria.
+  The prominence given to approximate quantities (83%) as compared to elemental cost analysis (21 % ) reflects little use of cost information in design cost planning and cost checking (Table 5). Cost planning being a design stage cost control strategy and based on elemental cost estimate is prepared in the design process to give construction clients value for money bearing in mind the need to meet specific requirements and ensures that the available funds for the project are rationally distributed among the elments of the building. This process involves preparation of cost plan and periodic checking of cost estimate against the cost plan. This survey suggests that this service is lacking within the quantity surveying practice in Nigeria. The lack of this important pre-contract cost control strategy could be responsible for the huge cost over-runs at the design stage of project development.
+management 
+Table 5. Uses of cost information
+UseNo.Forecasting future construction cost
+Negotiating unit rate with contractors Monitoring/controlling contract price
+Cost comparison of different construction types Design cost planning (particularly cost checking)
+Monitoring/knowledge of general cost trends
+Preparation of valuation for insurance29
+23
+20
+12
+8
+5
+2100
+79
+69
+41
+28
+17
+7Collecting cost information
+Cost information for the building project may be collected from a variety of sources (Ashworth, 1980). However, factors that would influence the specific mode of collecting construction cost information may include the following:
+(a) Time available for collecting cost data
+(b) The nature of the project for which information is required
+(c) Availability of the relevant cost information
+(d) Accuracy and reliability of the cost estimate expected
+(e) Expected frequency of the use of the specific cost information
+(f) Ease of use
+(g) Availability of sumcient design information.
+Considering these factors, a quantity surveying firm may generate its cost information in-house or make use of other sources of cost information produced by outside organizations which are modified before being used on project basis or otherwise. Table 6 shows the sources of cost information for the use of the quantity surveying firms. Tables 7 and 8 show the respondents' assessments of relative characteristics and the accuracy/reliability of the sources of cost information respectively. The survey evaluated these different sources of cost information as follows.
+Table 6. Sources of cost information
+SourceNo.Analysed successful contractors' tenders
+Technical Press
+Colleagues
+Information service
+Market survey comprising:
+Quotations from specialist sub-contractors
+Enquiries from reputable builders merchant
+Manufacturers catalogue or quotations
+Trade union agreement for labour rates29
+18 17 nil 29
+14
+12
+10
+2100
+ 62 59 nil
+100
+48
+41
+34
+7112
+Table 7. Relative characteristics of the sourcesAkintoye et al.Sources	Technical	Market	Successful
+	Press	Colleague	survey	tender
+CharacteristicsNo.No.No.No.Cheap to produce
+Comprehensiveness
+Least trust
+Conciseness
+Fast to obtain 6 nil
+9
+6
+321 nil
+31
+21
+103
+4
+3
+810
+3
+14
+10
+283
+9
+8
+4
+210 31
+28
+14
+77
+18
+5
+8
+1024
+62
+17
+28
+34Table 8. Accuracy and reliability of the sources
+
+Characteristics
+
+Very reliable and accurate Satisfactory Not reliable
+SourcesNo.No.Successful tender
+Market survey
+Colleagues
+Technical Press20
+15
+3 369
+52
+10
+107
+5
+15
+1324
+17
+52
+45nil nil
+5
+5nil nil 17
+17Priced bills of quantities
+The priced bills of quantities (based on successful contractors' tenders) are claimed to be the most effective source of cost information. This is considered the cheapest, fastest and most comprehensive way of gathering cost information (Table 7). Reasons given for the prominence of this source of cost information include the fact that it is 'home made' dealing with projects which the quantity surveyor has full knowledge of, apart from the fact that it is possible to have an idea of trends in the tender price level from tenders submitted by contractors in competition. A study by Jupp (1984) with respect to the UK scene indicates a strong preference for this 'in house' cost information based on bills of quantities.
+  Of the respondents in the survey, 69% are of the opinion that it is the most accurate and reliable source of cost information (Table 8). This contradicts Ashworth's (1980) claim that bill rates extracted from priced bill of quantities are less reliable than published data because of vagaries of tendering which include errors incorporated through the lack of accurate cost data or simply through human error that has made the bill rates artificially high or low. Robertson (1973) had earlier advised that price information from this source should be treated with great circumspection due to great variability in contractors' pricing. Morrison's (1984) analysis of the accuracy of quantity surveyors' cost estimating showed that this source of cost information contribute significantly to the variability of quantity surveyors' estimate.
+  Information from this source is sometimes analysed by the quantity surveying firms. The nature of cost analysis undertaken by these firms is shown in Table 9. Detailed cost analysis
+	vrj	c
+management 
+Table 9. Cost analysis preparation
+Methods of cost analysisNo.Detailed cost analysis
+Amplified cost analysis
+Concise cost analysis
+None of the above17
+7
+3
+259
+24
+10
+7is prepared by 59% of the construction firms. Seven of the firms surveyed (24%) claimed to prepare cost analysis of every contract undertaken for some of the following reasons:
+(a) to provide a sound basis for pricing future projects
+(b) to build-up cost database
+(c) for comparison with previous jobs as error detecting strategy
+(d) to enhance financial administration of contracts (e) to keep abreast of changes in market prices (f) to calculate 'in-house' tender price index.
+Firms that do not undertake cost analysis of all contracts administered in their omce gave the following reasons:
+(a) projects are analysed only if thére is a specific need
+(b) most projects are one-off hence the cost analysis on most projects may not be useful again (c) no time (particularly claimed by firms with many on-going projects).
+(d) projects are not run in the normal way due to external influences which make cost analysis worthless.
+Technical press
+In free-market developed countries some technical magazines and journals in the field of design and building management are available that publish construction cost information such as elemental cost analysis, cost of construction resources, measured rates, cost indices with future projections, regional and national economic reports, analysis of the economic performance and costs of different types of buildings. They have become a source of quick reference and at periods of high inflation help keep users up to date with constantly changing prices.
+  Together with cost information from colleagues, information from the technical press is the least comprehensive and least trusted source of construction cost information in Nigeria. The main reason for this being the anonymity of the source of information. Responses from interviews about the accuracy of this source indicates the possibility of a better rating of this source if the publishers explain the source of such cost information. The most prominent technical source of cost information is Construction, a quarterly journal of the Federation of Building and Civil Engineering Contractors in Nigeria.
+  The lack of technical sources may be a reflection of the differential degree of competition for construction contracts in developing and developed countries. The greater interest in the cost of construction in developed countries could be because of greater sophistication of
+	1 14	Akintoye et al.
+construction clients and greater involvement of private clients (regarded as more price conscious than the public clients) in construction investment. The government is the main client of the industry in developing countries, the opposite is the norm in most of the free market developed world (for example, the continuous 10-years' (1979—1989), growth in construction activities in the UK has been led by the private sector (HMSO, 1978—1989)).
+  Since the private sector clients are usually more price conscious than the government, it is not diffcult to understand the lack of sumcient emphasis on the cost in the Nigerian construction industry which has the government as its main client.
+Market survey'
+This involves the quantity surveying firms having a feel of the current market situation on labour, plant and material through local and national labour unions, plant hiring and purchasing firms, builders' merchants, subcontractors and suppliers of building components. The interviews with the quantity surveying firms in the survey suggested that this is an excellent source of cost information unexplored by Nigerian quantity surveyors for the purpose of working out contracts' resources input costs. A respondent commented on the situation by saying that 'during the construction boom of the 1970s, quantity surveyors in general adopted an armchair approach requesting suppliers and builders' merchants to send them their prices and quotations'. This would seem acceptable were there cross checks of the quotations. However, since the government was ready to build with no recourse to the price or the inadequacy of cost control, the quantity surveyors saw no need to cross check quoted prices. The situation is now changing with almost all the surveyed firms seeing the need for verification of quoted prices in order to protect their name and professional integrity.
+Consulting information service
+While there is the Building Cost Information Service in the UK there is no Nigerian equivalent. Considering the communication situation in Nigeria, a centralized information sharing system like the BCIS with On-Line access to cost information is not possible as of now. This, however, need not prevent consultants from having a central pool for sharing cost information. The Nigerian Institute of Quantity Surveyors, equivalent of the Royal Institution of Chartered Surveyors, is on the verge of developing the modality that makes it mandatory for mem bers to send tender cost analysis of completed projects which could then be grouped on building types basis and distributed amongst members.
+  The need to improve information management with the use of computers by quantity surveyors has been described by Jarrett (1990) as inevitable. It is not until very recently that most of the interviewed firms have seen the need for micro-computers as a means to develop and store adequate database for cost information. In line with this, the Nigerian Institute of Quantity Surveyors recently sponsored a conference on micro-computer application in quantity surveying.
+Constraints on collection of realistic cost information
+Table 10 shows some constraints identified and how the quantity surveying firms rank them. Insumcient relevant cost data, little design information and fluctuations in prices of materials
+(?nnvrimhf (C) onnl All R inhte
+management 
+Table 10. Constraints against realistic cost information
+ConstraintsNo.Insuffcient relevant data
+Little design information
+Fluctuation in prices of materials
+External influences
+Poor office organization
+Pricing problems of bill of quantities
+Professional inexperience25
+25
+24
+20
+18
+16
+1086
+86
+83
+69
+62
+55are claimed as the greatest impediments to realistic collection of construction cost information. The 45% inflation rate in Nigeria makes cost information management more diffcult than it would be in more stable economies. Due to the shortage of construction works in the depressed Nigerian economy there is the tendency for artificially low tender from contractors with the hopes of making profit from variations on the contracts. Where these are not forthcoming there is a tendency for such contracts to be abandoned. These problems are aggravated by the lack of enthusiasm and consistency in cost information gathering by the professionals.
+  The general mistrust among practising firms, since many would not divulge true cost information to a third party, has limited the use of data collected by colleagues. One cannot blame the firms for this situation as each is protecting itself and trying to maintain its market share in the current slump. However, it is not until the profession understands that the principles of corporate marketing and information sharing would improve accuracy of quantity surveying professionals with resultant improvement in the public image.
+Conclusion
+The need for the quantity surveying profession to market itself should be recognized in Nigeria and other developing countries. This can only be done by securing the confidence of its clients with accurate cost information. The profession is currently going through a very trying time because of economic recession, even in developed countries. The construction clients are increasingly aware of the failures of the profession to estimate and control construction cost within realistic accuracy limits. This awareness is presumably pressurizing the profession into corrective actions. The profession will not survive as individuals, but with corporate image repairing and market strategy. The quantity surveying professional institute must emphasize more professionalism from its members through their identifying and making use of the best source of construction cost information.
+  The Nigerian construction client is bound to be more sophisticated when the economy turns for the better with an attendant boom in construction activities. The role of quantity surveyors is well established in Nigeria, but there is an urgent need to improve emciency in services rendered, particularly in the area of design cost control documentation. The advantages of recent advances in computer technology should be seized for construction cost information storage and analysis.
+	1 16	Akintoye et al.
+References
+Aniekwu, A.N. and Okpala, D.C. (1988). Contractual arrangement and performance of the Nigerian construction industry (the structural components). Construction Management and Economics, 6, 3-1 1.
+Ashworth, A. (1980). The source, nature and comparison of published cost information. Building Technology and Management, 18, March, 33—7.
+Drake, B. (1984). Using cost data. Chartered Quantity Surveyors, 6, January, pp. 214—15.
+Ferry, O.J. and Brandon, P.S. (1980). Cost Planning Q/ Buildings (4th edn), Granada, London, p. 87.
+Hardcastle, C. (1982). Information management for quantity surveyors. The Quantity Surveyor, 38, June, 100.
+HMSO (1978—1989). New orders obtained by contractors. Housing and Construction Statistics Supplement, Government Statistics Service, Great Britain, p. 4.
+Jarrett, M. (1990). Making an IT strategy. Chartered Quantity Surveyor, 12, March, 20—1.
+Jupp. B.C. (1984). The Reliability of Detailed Price Data for Estimating During Detailed Design. Bernard C. Jupp and Partners, London.
+Morrison, N. (1984). The accuracy of quantity surveyors' cost estimating. Construction Management and Economics, 2, 57—75.
+Olomolaiye, P.O., Wahab, K.A. and Price, A-D.F. (1987). Problems influencing craftsmen productivity in Nigeria. Building and Environment, 22, 317—23.
+Ovonlen, M.O. (1989). Building industry in Nigeria, Housing, the Journal of the Association of Housing Corporations of Nigeria, 6, January/April.
+Robertson, J.D.M. (1973) Cost information for the progressive quantity surveyor, 29, 97—99.
+Skitmore, R.M. (1985). The Influence of Professional Expertise in Construction Price Forecasts. Civil Engineering Department, University of Salford, England.
+
+
+Construction cost information 	in Nigeria	109
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+

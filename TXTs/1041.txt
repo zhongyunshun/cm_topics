@@ -1,0 +1,247 @@
+﻿Construction Management and Economics, 1992, 10, 249—262
+Three modes of short-term construction planning
+ALEXANDER LAUFER I , GREGORY A. HOWELL 2 and
+YEHIEL ROSENFELD 3
+I Senior Researcher, National Building Research Institute, Technion, Haifa 32000, Israel
+2Associate Professor, Department of Civil Engineering, University of New Mexico, Albuquerque, NM 87131 USA 3Head of Department, Construction Management and Economics, National Building Research Institute, Technion, Haifa 32000, Israel
+Short-term construction planning requires more than simple interpretation of the project schedule; it rests on the organization's ability to collect information, identify and solve problems, and implement change. Each of three different modes of short-term planning —foreman planning, supervisor quality circles, and operations/systems analysis makes a unique contribution to detailed short-term planning.
+  The needfor effective short-term planning is great, since numerousfactors exist which can be identified only after construction begins. These uncertainties mean that detailed work plansfor individual crews can be completed only near the start of a specific job, and can cover only a limited period of time.
+  Each of the three separate planning modes involves different functions, different sources of data and different problem-solving techniques — hence, three unique planning products. Using these modes in combination takes advantage oftheir powerful cumulative effect, assures short-term project objectives, and also supports the continuous learning required for middle- and long-term organizational improvements. Applying all three allows project administrative and organizational forces to reinforce each other, providing a synergistic effect.
+  Construction sites need all three modes to achieve control, promote innovation, and assure high perfbrmance at all levels of the organization.
+Keywords: Construction control, construction methods, quality circles, planning, project management, supervision, systems analysis.
+Introduction
+At the site level, construction planning includes developing the following:
+1. The production means, such as major equipment and site layout.
+2. The work methods, including immediate crew level resources.
+3. The work sequence and project schedule.
+4. The budget.
+These larger project plans are linked to specific work activities by short-term construction plans. Short-term construction planning requires more than simple interpretation of the project schedule; it rests on the organization's ability to collect information, identify and solve problems, and implement change.
+Detailed construction planning, however, cannot be completed far in advance of a
+0144-61.93/92 0 1992 E. & F.N. spon
+Copvriqht 
+construction activity. In practice, this detailed planning is completed just prior to the onset of work at the crew level, usually by the foreman.
+  This paper identifies two additional modes of short-term planning which are currently in use: supervisory quality circles (SQCs) and operations/systems analysis (O/SA). SQCs are regular voluntary meetings of on-site supervisors to plan work and solve work-related problems. O/SA is the work of an individual analyst who solves problems which may exist either in the work method or in systems that support field operations. While SQCs and O/SA are often considered special productivity-improvement efforts, this paper presents evidence that they are actually different modes for developing detailed short-term plans.
+  The paper proceeds by first discussing the need for short-term construction planning, then describing and examining foreman planning, SQCs, and O/SA. Each mode is analysed to identify the important components it contributes to the development of detailed short-term construction plans, and also to show how each of these unique contributions completes the planning process. The paper concludes with practical recommendations for the use of the three modes.
+The need for short-term planning
+Crew-level plans cannot be prepared far in advance of the actual operation because of numerous unknowns which are resolved only as the planned event approaches, such as
+  1. Scattered and evolving information, for example: physical environment, underground conditions, and weather.
+  2. Availability and supply of resources.
+  3. Unexpected coordination problems with other crews.
+  4. Unknown technical conflicts.
+  These uncertainties mean that detailed work plans for individual crews (1) can be completed only near the start of work; (2) can cover only a limited period of time; and (3) cannot be prepared by one central authority alone. Other researchers who studied the impact of uncertainty on planning have arrived at similar conclusions.
+  In construction, the replacement of centralized detailed planning by lower level discretion was asserted by Stinchombe (1959) and Galbraith (1977). Comparing construction to manufacturing, they identified aspects of construction planning which were primarily left to the foreman such as the 'movement of tools, materials and people to the workplace and the most emcient arrangements of the workplace characteristics' (Stinchombe, 1959).
+  Laufer and Tucker (1988) explained that the delay in completing detailed planning was the inevitable consequence of uncertainty and lack of information. Based on a 1987 study by Laufer and Cohenca (1987), they showed that since a higher level of uncertainty requires more frequent updating, it is necessary to shorten the communication time between the source of information (site), the locus of decision-making, and the implementation arena (again, the site). This acceleration can be achieved by delegating more decision-making authority to the lower echelons.
+  The level of uncertainty which exists at the start of field construction operations has been substantiated in a more recent study, still in progress, by Laufer and Howell. Researchers construction 
+surveyed managers on 40 lump-sum construction projects of less than $5 million, all located in the western United States. According to the study, less than one-third of these managers' projects had clear, stable scope and design at the beginning of construction operations. This means that short-term construction plans must be prepared throughout the life of the construction project.
+  The following examination of Foreman Planning, SQCs and O/SA identifies each mode's unique contribution to the continuous process of developing detailed short-term planning.
+Foreman planning
+Using drawings and specifications, a construction sequence, and the immediate site situation, foremen translate earlier plans into actual work assignments for their own crews. These plans, prepared on a weekly (or in some cases biweekly) basis, provide basic coordination within the crew, logistics (location and timing) of shared resources, and 'who does what, and when'.
+  Foreman planning often consists of simply making and following a checklist. Figures 1 and 2 show examples of foreman planning that highlight the checklist nature of this planning mode.
+SHORT INTERVAL
+	PRODUCTION SCHEDULE	WEEK OFSUPERVISOR
+
+CREW
+"OtOAY
+JOBSTUESDAY WEDNESDAY THURSDAY FRIDAY RECAP OF WEEKMATERIALS1CrewBdg'd Prod.Actual prod.Over
+Under2CrewProd.Actual Prod.Over
+UMer3CrewBdg'd Prod.Actual Prod.Over
+UnderSAFETY & SECURITYFig. 1.
+Co ri ht 
+
+Fig. 2.
+  Figure 1 (Nielsen, 1977) illustrates the development of a work plan from the larger project plan. In this simple planning matrix, individual jobs are identified on a 'short interval production schedule'. Crew assignments, material, equipment, production rates, and location of work are set out by days. Simple planned-to-actual performance monitoring is included. This plan pays no attention to the specifics of the work method, or the 'how' of getting the job done.
+  Figure 2 is a job assignment sheet from Oglesby et al. (1989) that highlights the development and application of a short-term construction plan. More detailed than the Fig. 1 example, the job assignment sheet in Fig. 2 includes specific information on how to do the work, focusing less on control and more on execution than Fig. 1.
+  In Fig. 2, the foreman has translated his own assignment into a worksheet for crew members, providing significant detail from the immediate job circumstances. For example, he has identified the precise site location of needed material, and has also prescribed a specific work sequence and tool-to-use. The assignment sheet ends with a follow-on task which can be started with no further instructions.
+  Is short-term planning by the foreman beneficial? Research by Shohet and Laufer (1990) showed that foremen of more-productive crews spend almost twice as much time planning work and considerably less time monitoring and inspecting than do foremen of lessproductive crews. Work-sampling figures associated with this research show that the crews of more-productive foremen achieve about a 17% higher level of direct work than do those of less-productive foremen.
+
+  Foreman planning is the most common form of short-term planning. The foreman's ability to mesh intimate task knowledge with immediate job circumstances is this mode's unique contribution to the planning process.
+Supervisory quality circles (SQCs)
+A 'supervisory quality circle' (SQC) is a voluntary weekly meeting of superintendents and front-line managers, such as foremen, dedicated to the explicit solving of work-site and planning-related problems. In construction, SQCs are an adaptation of the quality circle (QC) concept.
+  Generally thought to be a Japanese innovation, Quality Circles were in fact brought to Japan by two American consultants in the 1950s to improve the poor quality of Japanese products. During the 1960s the Japanese refined the QC concept and it spread nationwide. Used throughout the world since then, QCs have been valuable not only in improving product quality, but also in solving problems of 'production, waste reduction, resource utilization, safety, . efficiency as well as problems of social and human nature' (Rosenfeld et al., 1986).
+Rosenfeld et al. use the following definition of a quality circle:
+'basically a small group of employees from the same working environment, which meets on a regular basis in order to identify work-related problems or deficiencies, analyse them, suggest solutions, and implement them. Typical QCs meet for one hour a week, either during working hours or afterwards, on paid time. Participation is voluntary, but regular attendance of the members is essential to the process'.
+  Figure 3 (Rosenfeld et al., 1980) shows the typical problem-solving process of a QC. The leader of each circle chairs the meetings and represents the circle to the organization. To identify, analyse and solve problems, members spend the first three or four meetings learning to use such techniques as brainstorming, cause-and-effect diagrams, data collecting and processing, and use of histograms and pareto charts.
+  Unlike 'staff' meetings which evaluate completed work and coordinate upcoming work, SQCs meet regularly to systematically search for, select, analyse, and solve problems.
+  The key difference between an SQC and a QC is in membership. Most members of the classic QC come from the organization's worker level. In construction, however, there is little precedent for using workers as a source of information. Construction workers are more mobile than workers in other industries, often more attached to a union or a trade than to the company. In many cases, workers are involved with a project only for the relatively short periods of time that the project requires their specific skills. Construction companies are reluctant to invest in the necessary training to develop these relatively nomadic workers into QC members. In contrast, supervisors remain with the company for long periods, are assigned to a project for the duration of its construction, and traditionally are involved in planning and used as sources of information. Thus the most effective quality circles may be located at the site supervisory level, as suggested by a study conducted in Israel by Rosenfeld et al. (1986).
+  In that study, 25 construction executives unanimously recommended testing QC at the foreman or supervisory level, rather than at the worker level. On the basis of these recommendations, complete field experiments were conducted on four sites, each lasting
+I dentifying ProblemsSelecting Priori ti es Analyzing The Problem
+Fig. 3.
+between four and 14 months. Results of this study, reported by Rosenfeld et al., show the planning impact of SQCs — 30 of 47 problems addressed were clearly short-term planning issues. The following two examples, selected from those 30, show the detailed work planning which occurs in SQCs.
+  In the first, an oil refinery project, the SQC addressed the process of forming 2000 concrete footings placed around the site. The planning problem came to the attention of the SQC because of a high demand for crane time. The SQC analysed daily assignments and interruptions, then 'brainstormed' to identify a way of removing the forms with a simple carjack. This new plan eliminated the requirement for a crane to strip the small forms. The solution affected:
+1. Project productivity, saving over 400 hours of crane time.
+2. Project quality, because the car-jack caused fewer damaged edges on the footings.
+3. Worker safety, because the crew was not required to work near the crane.
+4. Worker morale, since the crew suffered fewer interruptions.
+  A second example of SQC short-term planning illustrates not only the different ways in which problems come to the attention of the SQC but also the application of more rigorous problem-solving techniques. Ironworkers on a 22-storey building project complained of excessive fatigue and of their inability to earn bonuses. Using a cause-and-effect diagram, the SQC found the single problem underlying both complaints — in forming a wame-slab
+flooring system the ironworkers had to thread heavy bars into a grid. This was a slow, strenuous operation that taxed the workers physically and slowed their progress.
+  Once the problem was identified, the SQC concentrated on finding a solution which satisfied the structural engineer but did not require the threading of bars. The result was the development of a special cage which was pre-assembled and then installed at each juncture of the wame slab. In addition to solving the ironworkers' fatigue and bonus problems, the new plan provided substantial savings of labour and material costs.
+  Rosenfeld et al. (1986) also report that, in fact, both of these exemplar projects were wellrun, profitable jobs. Neither of these solutions is so complex that on-site supervisors could not have worked it out in advance. But typically, this high-quality short-term planning is prevented by two obstacles. First, the very uncertainties identified at the beginning of this article keep supervisors from anticipating all details of a specific operations. Second, construction site supervisors do not have the quality time needed to explore multiple options (Laufer and Tucker, 1988).
+  The SQC overcomes these obstacles by providing two key components of the planning process. First, since this process takes place close to the time work is actually performed, the SQC uses the most current available information. Second, it involves a greater number of people in an innovative planning process, thus increasing the pool of ideas.
+Operations/systems analysis planning (O/SA)
+The third and most complex planning mode is that of operations/systems analysis (O/SA). This mode may be invoked by the immediate needs of the project, as a result of identifying an opportunity within the project, or through regular productivity audits.
+  In this mode an outsider — someone not directly in the line organization, such as a staff specialist — uses a rigorous, explicit process which follows five classic problem-solving steps:
+1. Identifying the problem.
+2. Collecting and analysing data.
+3. Solving the problem and planning the change(s).
+4. Implementing the change(s).
+5. Assessing and measuring results.
+The first three items are considered the 'study' stage; the last two comprise the 'implementation' stage (Laufer, 1985).
+  In construction, O/SA brings a broader perspective to classical industrial engineering work study. Data collection, for example, will involve not only personal observations, timelapse photography, and work sampling, but also questionnaires and use of secondary information sources, such as cost records.
+  O/SA specialists report directly to the project or home omce management, they do not fit within any one department, and they receive a charter to work across departmental boundaries. Thus, they directly affect performance in those systems which tie together parts of the projects.
+  The Super Bee programme, a joint effort of Monsanto, Conoco, and Brown & Root in Chocolate Bayou, Texas, provides typical examples of an O/SA at work (Tucker et al., 1980). The project employed both independent consultants and in-house people in the O/SA mode
+to improve the project organization's ability to plan and support work. The two examples that follow show how planning is affected by: (l ) the O/SA's cross-boundary ability; (2) the use of data which was not available prior to the start of construction; and (3) the formal problem-solving process employed by the O/SA. In the first example, the O/SA focused on a specific work method and related support systems. In the second example, the O/SA worked to reduce uncertainty in key support systems, which affected planning of the work method.
+  In the first example, the O/SA changed the work plan for the installation of steam trace manifolds. The problem was presented by a foreman in a work-planning training session. The foreman felt that pressure for immediate production kept him from planning the installation more effectively. Using still and timelapse photography, an assistant O SA collected data on the operation data which was unavailable earlier but which provided the key to the new plan. The O/SA then studied the data, suggested alternatives, discussed those alternatives with site and craft management, and assisted in implementing the chosen action.
+  The resulting changes were made in two areas. Outside the immediate crew, changes included modifying the manifold mounting bracket design and recycling the brackets through the fabrications shop. At the crew level, changes included ( l ) the assignment of several shop-type tools to the work area so the brackets could be modified to meet specific location requirements; (2) a change in the installation sequence; and (3) clarification of the inspection criteria for acceptable alignment and levelness. The overall result was a two-thirds reduction in the time needed to install the remaining 400 manifolds, saving approximately 3000 man-hours.
+  The second example involved an apparent shortage of small tools on the project. Workers reported numerous lengthy delays waiting for tools, and the uncertainty of tool availability also created planning problems for foremen. The O/SA analyst collected data on actual tool availability in area tool rooms. From this current, concrete information, the analyst developed specific tool system recommendations. Project management, line supervision, and support staff then worked with the O/SA to develop an implementation plan.
+  Thereafter, tools were relocated on the site to areas of high demand; the supply of tools in each tool room was increased; and tool policy was changed to allow certain crews to maintain possession of specialized tools in their gang boxes. These changes enabled the foreman to plan more effectively because the supply of tools was more certain. Subseq uently, workers reported that time lost waiting for tools dropped from 6.5 hours per person per week to less than 2 hours per person per week.
+  In each of these examples, the analyst's broad perspective and rigorous data collection provided a rich source of valid information about the current situation. The analyst then used that information to find problems and develop solutions beyond the ken of any single manager. The resulting plans were then implemented immediately. These examples are representative of the authors' experiences in many other cases.
+Comparison of the three modes
+The characteristics of the three modes are compared in Table l . All three modes produce short-term construction plans, with the following key differences:
+l . The level and perspective of the principal actor(s).
+2. The sophistication of data collection and problem-solving techniques.
+Table 1. Characteristics of three modes of detailed short term construction planning
+
+	Supervisory quality	Operations/systems
+	Foreman planning	circles	analysis
+
+
+Who prepares the plan?
+When is it done?
+What is the perspective?
+What is the level of autonomy?
+What does this mode produce?
+What are the sources of data?
+How explicit is data processing?
+In what direction does data flow?
+What does this mode contribute to the project?
+to the individual manager?
+What is the aspiration ?
+Foreman
+Weekly (throughout construction)
+Local — assigned crew
+Limited to preparing crew level plans
+Basic co-ordination within crew; logistics; place; timing; resources. (Who and When)
+Drawings and specs, construction master plan, site situation.
+Implicit only
+
+Mesh of intimate job knowledge with immediate job circumstance
+Little
+Satisfice — local
+A group of front line managers
+Weekly (according to need)
+Site — work crews
+Moderate to high to define and solve problems
+Techniques for use in the immediate work environment. (How)
+Limited active collecting of data on site
+Partially explicit, simple techniques
+
+Innovation combined with pooled experience
+Considerable. Exposes junior managers to new techniques and explicit problemsolving skills
+Optimize — Local. Changes in plan result in immediate action
+Outsider — Home omce specialist or outside consultant
+On a regular periodic basis or when compelled by problems or audit
+Project — Work methods and support systems
+High to solve on-site problems
+Detailed crew level organization and methods at the site, and integration with the home omce. (How, Who and When)
+Active comprehensive and diverse collecting of data from on and off site
+Fully explicit, complex techniques
+
+Application of systematic techniques for problem identification, analysis and solution
+Limited. Systematic techniques for problem finding and analysis are usually limited to OSA staff
+Optimize — Global. Solutions may be applied to other sites
+
+3. The impact on individual managers.
+4. The number and kind of alternatives generated.
+  The foreman's authority is limited to solving crew-level problems which arise from the need to keep the crew moving. In this mode the flow of information is generally downward — from supervisors to foreman and from foreman to crews — and the effects are limited to satisfying immediate objectives. The unique contribution of this planning mode is to mesh intimate job knowledge with immediate job circumstances.
+  The evidence of 47 cases studied by Rosenfeld et al. (1986) shows that supervisory quality circles develop techniques dealing with the immediate work environment, the 'how-to' planning. SQCs have a moderate-to-high level of autonomy to define and solve problems relating to how work is done on the site. SQCs solve myriad immediate work-method and coordination problems which are not usually addressed in the project plan, thus they involve upward and some lateral flows of information. The key contribution of an SQC is to identify new ways of performing project tasks by combining individual innovation with pooled experience.
+  Operations/systems analysis relies on multiple sources to identify planning opportunities; it uses active, comprehensive and diverse data collection both on-site and off. In the O/SA mode information flows both laterally and vertically. The combined information allows the analyst to plan at the system level. This mode's unique contribution to the planning process is the application of orderly techniques to larger system problems.
+  As well as producing short-term construction plans, each mode complements the other two. To the narrower, short-term focus of foreman planning, SQCs and O/SA add the ability to:
+1. Affect a wider area than individual work operation.
+2. Practice orderly problem-solving skills leading to optimal solutions.
+3. Engage the entire organization in the continuous planning process.
+Problem-solving processes compared
+The planning/problem-solving processes of the three modes are compared in Table 2. The simplest takes place in the Foreman Planning mode, where planning is time-triggered — it must prevent the delay of work. The foreman develops the plan and the method for the crew to complete the assigned job, generally adapting familiar methods to fit the current situation. Evaluation of alternatives is cursory, if time permits it at all; the emphasis is on using assigned resources and taking whatever immediate action is necessary to keep the crew busy and productive.
+  Evaluating the outcome of the solution consists of supervisors personally observing the crew in the field and reviewing pertinent cost and schedule reports. Diffculties may arise if the foreman is not provided adequate planning time or promised resources, and/or lacks the necessary skills and job experience.
+  In supervisory quality circles mode, planning is part of a more complex problem-solving process. The problem is identified by supervisors in their weekly meetings and is generally Table 2. Process comparisons of three modes of short term planning
+Foreman planningSupervisory quality circlesOperations/systems analysisHow does the process start?
+How is the problem diagnosed?
+How is a solution developed ?
+How are alternatives evaluated ?
+When is solution implemented ?
+What are the diffculties associated with this mode?
+How is the outcome evaluated?As a work assignment (planning is time triggered)
+Personal review of assignment and situation
+Adaptation of previous plans to current situation
+Seldom done
+Immediately
+Foreman may lack skill to interpret and apply master plan to field situation
+Personal observation, cost control informationGroup identifies opportunity
+Simple techniques for cause and effect
+Systematic collaboration, individual creativity Systematic but approximate — 'trial and error' Immediately when within site prerogatives
+Skilled co-ordinators in short supply
+Benefits are occasionally obvious, continuous evaluation seldom doneFormal documents and reports, cursory site measurements, reflection Elaborate, diverse, sophisticated, measurement and analysis
+'Engineering' synthesis of data
+Explicit, rigorous and elaborate using multiple criteria
+Requires careful attention, planning of change process and gradual implementation
+Conflict between line and staff
+Periodically evaluated using multiple measuresdiagnosed using simple cause-and-effect techniques. The solution is designed through a systematic, innovative collaboration between the supervisors, led by a facilitator.
+  SQCs provide evaluation of alternatives by orderly application of 'trial-and-error'. Implementation of the chosen solution is immediate when the solution is within site prerogatives. While continuous evaluation of solutions is seldom practiced, the benefits of a particular solution are usually obvious. Application of this method may be limited by the short supply of facilitators skilled in working well with diverse groups of people and in understanding construction technology.
+  In the operations/systems analysis mode, all of the steps in the problem/solution process are necessarily more complex because the system operates across boundaries between the trades. First, the problem is identified through a combination of formal documents and reports, cursory site measurements, and reflection based on the analyst's instincts, experience, and intelligence. Data is then collected through diverse quantifiable methods. The problem is diagnosed by elaborate and occasionally sophisticated measurement and analysis techniques, such as crew balance, process, and flow charts.
+Solutions are designed by 'engineering' a synthesis of the data against multiple criteria.
+The process often produces multiple alternatives and partial solutions. In both foreman planning and SQCs, complete solutions are provided for narrow or local problems. Solutions to the more comprehensive problems handled by an O/SA, however, often include related changes in the work method and associated support systems, such as tools and design.
+  Evaluation of alternatives is extensive in the operations/systems analysis mode and may involve people from various parts of the organization. The result is that each alternative is exposed to explicit, rigorous, elaborate examination. Once a solution is identified the implementation requires careful attention and planning, since the solution may involve some degree of change within the corporate and/or project organization. The change process is gradually implemented and its results are evaluated at regular intervals using multiple measures.
+  It is important to remember that only the O/SA mode provides for rapid dissemination of ideas to other sites. The main diffculty in implementing this planning mode is the potential for conflict between line managers and staff employees: in some cases line managers feel threatened by a 'spy'; in all cases the O SA lacks the direct line authority to implement new plans.
+Discussion and recommendations
+The shift to understanding SQCs and O/SA mainly as methods of short-term planning, rather than solely as means of productivity improvement, should also change the general perception of how they are used. Thus, these two modes would be considered not only as ad hoc methods of solving temporary problems but also systematic tools for short-term planning.
+  Since each of the three modes involves different functions, different sources of data, and different problem-solving techniques, each mode provides a unique planning product. It is strongly recommended that all three be used in combination to take advantage of their powerful cumulative effect. Middle- and long-term benefits will accrue because the superintendent members of the SQC are involved in an active learning process, trading knowledge with superintendents who have worked on other projects. Likewise, the O/SA carries lessons from the project back to the firm. The result is that these two modes of planning profit from the project-oriented nature of construction each project serves as both experiment and classroom.
+  The tandem use of the three modes allows the administrative and organizational forces within the project to reinforce each other, providing a synergistic effect. At the foreman level, for instance, people are directly involved in planning and implementation through a continuous translation of higher-level plans into work assignments. While the foreman develops and applies an intimate knowledge of the immediate project, the SQC provides support by generating new ideas and methods.
+  The SQC also provides a vital link between the foreman and the home omce. Supervisors can define and solve local problems which are beyond the foreman's authority and experience. At the same time supervisors can provide the home office with a rich source of data on larger problems.
+  At this point the O/SA's overview of the system and its application of systematic problemsolving techniques come into play. The O SA provides ideas and data to the SQC and also
+acts as a bridge to other sites throughout the company. In turn, the O/SA receives feedback from each of these areas.
+  Administratively, O/SA and SQCs mesh easily. For example, when the O/SA analyst chairs the SQC meeting, the organization and the SQC receive the advantage of the O/SA's skills. Foremen who are members of the SQC are exposed to and participate in orderly planning. In return, the O/SA receives information and insight into systematic problems with roots in the project and/or in the firm.
+  The availability of and interaction between the three modes expands the foreman's horizons from local and immediate to longer-term and more global issues, while supervisors' perspective expands from the site level to the system level. Both foreman and supervisor thus begin to approach planning as a process of continuous learning.
+  Rather than merely adding procedures, organizations which use all three modes provide employees with both the opportunity to expand their skills and the effective power to shape the way work is done.
+  Hensel Phelps of Greeley, Colorado, is one of the few US companies that effectively integrate the essentials of all three modes to improve their short-term planning effectiveness. First, the company requires rigorous planning prior to the start of construction, which rolls into weekly foreman work plans. Second, it supports SQC and O/SA concepts and uses them selectively on jobs which show promise or have problems, or where requested by senior site management. Third, the company trains managers in SQC and O/SA techniques. Fourth, it does not penalize managers for requesting help; rather it provides a person highly skilled in O/SA. Relying on all three modes, Hensel Phelps reports continuous improvement in both the quality of short-term construction plans and the productivity of labour over the last 15 years (Burkhart, 1987).
+  Hensel Phelps' experience conforms to the authors' consulting experience. In practice, the benefit-cost returns of O/SA and SQCs are very high — particularly when used in combination as Hensel Phelps does.
+  The application of all three modes affects both the project and the individual. On the project level, the three modes alter basic control mechanisms as well as improve the environment for innovation. The involvement of an O/SA becomes a regular part of project audit and control, expanding the control focus from cost, schedule and quality-product related measures to include work and group process issues. Work sampling, for example, becomes an active control tool. Innovation is encouraged by the forum and problem-solving processes of both SQCs and O/SA. At the individual level, the combination of the three modes provides an effective forum for development of managerial planning skills.
+Conclusion
+This paper has presented three modes of planning, compared them, and shown the promise of their combination. The evidence presented in the examination clearly shows that the application of all three modes substantially strengthens short-term construction planning. Taken together, the three offer clear advantages over the present reliance on foremen for short-term construction planning.
+  Construction sites need the complementary effect of all three modes — foreman planning, supervisory quality circles, and operations systems analysis — to achieve control, promote innovation, and assure high performance and continuous learning at all levels in the organization. The three modes engage project personnel in a set of problem-solving approaches which demonstrate the active intention of the constructor to expand employee's abilities and knowledge, to show a profit, and to strengthen the organization.
+Acknowledgements
+For their time, their thoughtful review, and their many helpful criticisms of this paper, the authors thank Alvin Burkhart, Hensel Phelps Construction; Glenn Ballard, University of California at Berkeley; Clark Oglesby, Professor-Emeritus, Stanford University; and Henry Parker, Professor-Emeritus and Consultant, Stanford University. The authors also thank Nancy Gillan for her technical and editorial assistance.
+References
+Burkhart, A. (1987). Building production and quality into architectural concrete. Proceedingsfrom The World Of Concrete Conference, Las Vegas, Nevada, pp. 246—52.
+Galbraith, J.R. (1977). Organization Design. Addison-Wesley Publishing Company, Reading, Mass.
+Laufer, A. (1985). On site performance improvement programs. Journal of Construction Engineering and Management, ASCE, 111(1), 81—92.
+Laufer, A. and Tucker, R.L. (1988). Competence and timing dilemma in construction planning. Construction Management and Economics, 6, 339—55.
+Laufer, A. and Cohenca, D. (1987). Factors affecting the construction planning efforts and outcomes. Technical Report, Building Research Station, Technion, IlT, Haifa, Israel.
+Nielsen, R.L. (1977). Supervisory Training Program: Construction Foreman. Associated General Contractors of America, Washington, DC.
+Oglesby, C.H., Parker, H.W. and Howell, G.A. (1989). Productivity Improvement in Construction. McGraw-Hill Book Company, San Francisco, California.
+Rosenfeld, Y. , Warszawski, A. and Laufer, A. (1986). Harnessing quality circles to raise site productivity and quality of work life. Technical Report, National Building Research Institute, Technion, Haifa, Israel.
+Shohet, I.M. and Laufer, A. (1990). What does the construction foreman do? Construction Management and Economics, forthcoming.
+Stinchombe, A.L. (1959). Bureaucratic and craft administration of production: a comparative study. Administrative Science Quarterly, 4, 168—87.
+Tucker, R.L., Borcherding, J.D., Casten, M., Ulkus, J. and Howell, G. (1980). The super bee project. A report to the Motivation and Productivity Committee, Conoco/Monsanto Joint Venture and Brown and Root, Inc., Alvin, Texas.
+	250	Laufer et al.
+
+Three modes of short-term 	planning	251
+
+
+
+0 2001 . All Rights Reseved.
+
+
+
+0 2001 . All Rights Reseved.
+
+	250	Laufer et al.
+
+Three modes of short-term construction planning	253
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+Three modes of short-term construction planning	253
+
+Copvriqht 0 2001 . All Rights Reseved.
+

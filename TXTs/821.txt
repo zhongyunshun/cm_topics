@@ -1,0 +1,365 @@
+﻿Hindawi
+Shock and Vibration
+Volume 2021, Article ID 6363571, 13 pages https://doi.org/10.1155/2021/6363571
+Research Article
+Hotel Construction Management considering Sustainability
+Architecture and Environmental Issues
+SamirehKadaei,1SeyedehMahsaShayestehSadeghian,2MarziyehMajidi,3QumarsAsaee,4 and Hassan Hosseini Mehr5 1 Department of Architecture, Faculty of Art and Architecture, Bushehr University, Bushehr, Iran 2 School of Architecture-Faculty of Fine Arts, University of Tehran, Tehran, Iran 3 Department of Interior Architecture, Faculty of Architecture and Urban Planning, University of Art, Tehran, Iran 4 Department of Civil Engineering-construction Management, Islamic Azad University of Shiraz, Sadra, Iran 5
+Department of Civil Engineering, Islamic Azad University Najafabad Branch, Sadra, Iran
+Correspondence should be addressed to Hassan Hosseini Mehr; hosseinimehr1363@sci.iaun.ac.ir
+Received 12 August 2021; Revised 23 August 2021; Accepted 26 August 2021; Published 13 September 2021
+Academic Editor: S. Mahdi S. Kolbadi
+Copyright © 2021 Samireh Kadaei et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+Sustainable development and environment in the activities of the construction industry has attracted the attention of experts in most countries of the world. One of the obvious and problematic features of the construction industry of countries is the use of modern building materials using traditional construction methods. Changing the paradigm for sustainable buildings requires a change in the architectural design process. Today, smart buildings are buildings that are at a lower level in terms of energy consumption and operate in a dynamic and integrated environment, creating a perfect harmony between management, system, services, and structure. These qualities make plastics ideal products for construction and an essential component for a sustainable built environment. In the design of smart and sustainable buildings, the use of environmentally friendly materials increases the lifespan of the building and an effective step is taken towards the design of sustainable architecture. In this paper, we evaluate hotel construction based on sustainability issues with MCDM. The results show that alternative A4 is the best alternative in sustainable issues. With the increasing population and its concentration in large cities, the concern of energy supply and energy efficiency in buildings is one of the main concerns of urban planners, officials, and city residents. Construction projects mainly consume large amounts of materials and leave a huge amount of waste, and this problem sometimes includes existing buildings that cannot be
+
+demolished and need to be rebuilt and maintained.
+1. Introduction
+Sustainability and sustainable development in today’s societies has become an important issue among decisionmakers and policymakers in moving towards a healthier, more socially advanced, and more economically developed environment [1, 2]. The construction industry is more familiar with this concept among the existing industries, especially its environmental category [3–6]. What has attracted less attention among the various sectors of the construction industry is the industrial buildings sector [7]. In most countries, it is becoming more and more industrial, and therefore industrial buildings require more attention in this field [8–11]. Accordingly, having the importance of environmental assessment and energy performance of buildings in mind, it is vital to develop an overview of current theoretical perspectives, trends, applications, and constraints toward the development of green environmentally sustainable buildings.
+   With the development of innovative materials, products, and construction methods, it is necessary to move towards buildings with higher efficiency, better economic efficiency, and being environmentally friendly [12–15]. Smart buildings are one of the modern technologies and technologies of construction in architecture in which to optimize and control energy consumption, reduce its loss, create comfort, and increase the level of environmental security and save time and repair costs [16–20]. Building maintenance helps a lot [3, 12, 21, 22]. The use of intelligent technology in construction and architecture, appropriate and timely response to changes in environmental and climatic conditions, prevents energy waste and also increases the life of the building [23–26]. This process on a large scale increases the sustainability of the environment, which is one of the priorities, principles, and goals of sustainable architectural design [27–32]. However, although these scenarios could reduce some environmental impacts, they could also enhance others [33–37]. In order to improve the results of life cycle analysis, another variant that generates fewer impacts than previously simulated variants was developed by retaining the following environmental scenarios [38–41].
+   With the rapid advancement of technology and the subsequent expansion of the urbanization process and its negative effects [42–46] on the use and further destruction of land, natural resources and green space and pollution of virgin soil, clean water, and clean air, the category of sustainable development in construction is essential [22, 23, 27, 47]. Buildings are the most important elements of the city, so that in the sustainable development of the city attention to the sustainability of constructions is recognized as the most important aspect of sustainability and this importantly becomes more and more colorful with increasing urbanization and growing demand for social, industrial, and economic needs [48–50]. That is why many architects, engineers, contractors, and builders today are reevaluating how to build residential and commercial buildings and infrastructure projects [51–54]. Sustainable use of resources such as nature, man, and technology would meet the needs of human beings [55–57]. Studies also show that the largest consumers of natural resources are development projects. In addition, various national and international programs are underway with an incentive to encourage developers and state-owned companies to move towards green, and in some cases to specify in its application [42, 58–60]. In the present article, while focusing on the environmental approach in the sustainable development of construction projects, green construction is presented as its main part and its implementation solutions are proposed. In addition, the existing challenges facing green construction projects are discussed.
+   The increasing growth of primary resource extraction and the production of environmental pollutants are the two main challenges of contemporary man. Consumption of natural resources in 2005 has exceeded 60 billion tons and is estimated to increase to 100 billion tons per year in 2030 [48, 61–63]. In the current prevailing model, economic growth is directly related to the consumption of primary resources on the one hand and the amount of production waste on the other [3, 64–66]. In other words, more economic growth requires more resources and more waste production. Studies show that the amount of waste production in developing countries is 10–20% of developed countries. Obviously, with the economic growth of these countries, the amount of waste production will increase significantly. The construction industry is one of the areas that is directly related to these challenges. About 50% of the extracted raw materials are converted into construction products [2, 7, 67, 68]. The purpose of this article is to investigate the environmental sustainability and sustainable development in construction projects. Many assessment methodologies and tools exist and there have been numerous reviews of them. Statistical methods, mathematics, and artificial intelligence have many applications in the real world, such as risk assessment, energy optimization, the environment, and so on. The main objective and novelty of this research is to present an updated critical overview of all the sustainability evaluation alternatives developed in research studies in the fields of architectural design, construction, refurbishment, and restoration. To achieve this, the analysis follows a specific methodology based on recent similar reviews.
+2. Sustainable Development
+Sustainable development is growth which always addresses our needs today without undermining future generations’ capacity to fulfill their expectations [8, 27]. The importance of the decision-making is so great that according to the standard of project management knowledge body, in addition to being mentioned as one of the individual skills in project management, in all ten areas of project knowledge management it has somehow addressed the issue [1, 48]. Sustainability approach to construction is unique in the context of each project, so that it is influenced by different local, regional, and international customers and stakeholders, as well as their priorities [1, 69–71]. Because of this, it is difficult to ensure decisions and it can potentially lead to significant economic, social, and environmental consequences [72–74]. Decision tools as part of sustainability tools, along with ranking tools, calculations, and guidelines to reduce the risk of projects related to sustainability and sustainable development and in the framework of evaluation of these projects by consulting engineers or universities in order to use. Different parts of infrastructure such as water, energy, transportation, and construction have been provided [75–77]. Comparing these tools and examining the specifications of each of them are helpful to select or produce similar tools for use in national and regional infrastructure projects [21, 78–80].
+   Sustainable development, which is one of the main topics discussed in development and planning circles today, is itself the result of different development ideas [81]. At the same time, this concept, like the concept of development itself, has been interpreted in various ways [81, 82]. The common denominator of all these ideas is sustainability and achieving a process of development that can be sustainable and sustainable [83]. The requirement for balance stability: in other words, on the other side of the coin of stability is balance, because an unbalanced system will also be unstable, and vice versa [7, 83]. The difference in different ideas is in the generalization of the concept of balance and stability, where one group suffices to balance in the relationship between man and the natural environment, and another group generalizes it to all aspects of human life, i.e., the relationship between man and environment and man with man and societies [84–87]. In sustainable human development, sustainability in all economic, social, and environmental dimensions is emphasized and it is believed that without stability and balance in all aspects of society a sustainable development cannot be achieved [88–91]. However, the existing research rarely reviews the importance views and performance levels of critical sustainability aspects (including economic, social, and environmental aspects) of prefabricated buildings, and the interdependence among criteria is ignored [92].
+2.1. Sustainability of Building and Sustainable Construction. Sustainable architecture is one of the most important developments in the field of architecture, the purpose of which is to design based on the principles of sustainability and energy saving [93–95]. Sustainability and sustainable development in order to reduce environmental pollution and optimize energy consumption has been considered by designers and architects and is in fact a response to the crises in the industrial and modern world today [96–98]. In the present era, creating stability and its development is very necessary in architecture due to the problems of the industrial age and special attention should be paid to it [99]. This type of architecture reduces the damage caused by the design of the building to energy resources and the environment, so a building built with a sustainable design has the least incompatibility with the environment [96]. Sustainable architecture, also called green design, runs counter to common construction patterns and is based on ecological and nature-friendly design. Green design is actually a triangle, in which energy, ecology, and climate are its three vertices [100–102]. The main purpose of green design is to create conditions for the building that can be used to minimize the use of natural and mineral materials using recycled materials. As a result, a kind of balance is created in the cycle of nature and natural resources will not be lost for future generations [103].
+   Changes in the design and construction of buildings are done according to the needs of society, so if the relationship between new technologies and sustainability goals is taught, environmental problems will be reduced and new innovations and technologies will serve sustainability [104]. Sustainability means the continuation of life in the future and refers to economic, social, and environmental sustainability. This concept is based on the three principles of resource utilization, human design, and life cycle design [105]. In today’s world, architects are looking for useful solutions to provide a desirable life for human beings. The strengths and weaknesses of a building have a direct impact on the environment, so architects have a critical task to sustain human life and preserve the environment [106]. Architects use the harmonious order that exists between the elements of nature as their design model and implement sustainable architecture called ecological architecture, environmental architecture, and green architecture. Green design is associated with structural, electrical, and mechanical engineering [107].
+On the basis of the conclusion of the above PCA, the successful development of GH projects is mainly affected by project management factors, human resource factors, teamwork-oriented factors, personnel ability factors, and finance and constraint factors [108].
+   In designing a structure, in addition to texture, light, beauty, and fit, other environmental, human, and economic factors must also be considered. These factors include regional and cultural identity, climate, building materials, bed compatibility, meeting human needs, building facades, and so on [1]. Sustainability thinking is an effort to adapt architectural designs to the environment. In fact, this thinking uses environmentally friendly construction methods to minimize the negative effects of construction [109]. New technologies used in green architecture have led to the creation of new ways of life and the creation of new architectures. Using these technologies, the architectural shortcomings of the past can be eliminated and new methods for construction can be adopted [110]. Methods that waste less building materials with optimal implementation can be recycled after use. Production of construction materials and new construction are factors for achieving sustainable development in the construction industry [111]. The construction industry needs to spend huge amounts of money in the long run, so along with the growth of investment, it is necessary to get acquainted with the concepts and techniques of the world in the field of construction. New technologies improve the quality of a building and in addition to providing security lead to optimized energy consumption [112]. Table 1 shows the general goals of sustainable architecture.
+2. 2.SustainableDesignandPrinciplesofSustainableThinking. In this type of architecture, the building not only adapts to the climatic conditions of its area, but also interacts with it. What is referred to today as sustainable development is a reformist rethinking of modernism and tradition [3]. Sustainable development is development that addresses current needs in a way that does not diminish the ability of future generations to meet those needs [2]. To this end, it is necessary to reduce the use of nature and natural resources as much as possible and to manage environmental pollutants and construction waste in such a way that the life cycle is not disrupted [1]. Sustainable architecture, which is in fact a subset of sustainable design, can perhaps be considered one of the most important contemporary trends that is a logical reaction to the problems of the industrial age. For example, 50% of fuel reserves are consumed in buildings, which in turn will lead to environmental crises. Therefore, the need to create and develop more sustainability in architecture is well visible [1]. Sustainable architecture, like other categories of architecture, has its own principles and rules and includes three stages [72]. Resources saving and its designation would return to the human’s life cycle with their own strategies. Knowing and studying these measures will lead the architect to a better understanding of the environment he has to
+Table 1: The goals of sustainable architecture.
+GoalsReferencesPaying attention to human life and improving its physical and mental condition[3]The use of materials whose production, consumption, or destruction is environmentally friendly[7, 8]Adaptation and coordination with the environment[72, 75]Limited consumption of fossil fuels[84, 88, 96, 126]Use natural energy such as sunlight[88, 126]Minimal damage to the environment[27]Reduce carbon dioxide emissions[88, 126]Respect for nature and use its potentials[72, 75]Reuse of building materials and recycled materials[88, 126]Reduce the production of construction waste[88, 126]Increase the useful life of the building[7, 8]Avoid using building materials that are incompatible with nature[88, 126]design. The point to be noted is that sustainable or ecological architecture should not be confused with indigenous architecture. According to the definition, indigenous architecture is a branch of architecture that bases its work on the needs of the region and building materials that reflect the traditions of the region. And it has evolved over time and is based on environmental, cultural, technological, and historical background.
+2.3. Sustainable Smart Building. The system in the smart building provides an efficient and comfortable environment for its residents; these systems operate in an intelligent building in an integrated way and put different devices in contact and interact with each other [113]. Smart buildings harmonize and combine the best ideas, materials, systems, and technologies. These components are combined to achieve better performance in the building [114]. The smart building provides an efficient and comfortable environment for its residents; these systems operate in an intelligent building in an integrated way and put different devices in communication and interaction with each other [115]. With this system, communications, office work, and building control can be entrusted to intelligent management using a comprehensive computer network. The existence of smart buildings is inevitable in the modern era; a smart building should be able to meet the needs of its users; high productivity and efficiency, energy storage, comfort, and increase the life of the building are examples of this type of goals. The construction of smart buildings is achieved; if a work can adapt to the possibilities and limitations according to its needs at any time, it can operate optimally with the best economic efficiency; smart materials play a significant role in economic and living conditions [113]. The most important benefits of smart building can be in increasing the environmental well-being and luxury of the building by mechanizing it, reducing energy consumption in the building by making optimal use of energy and preventing the loss of nonrenewable resources [114]. Reduce the cost of charging and maintenance of the building by using intelligent maintenance methods, increase the safety and security of the building by using monitoring and control systems, and increase the life of equipment used in the building by using them optimally and standard [113].
+2.4. Principles of Sustainable Architectural Design. Giving importance to human life and preserving it now and in the future, using materials that cause the least damage to their environment, whether during production or during use or destruction, minimal use of fuel energy and efforts to use natural energy, reducing environmental degradation, and improving the physical and mental living conditions of humans and other living organisms can be called the primary goals of sustainable architecture [1, 48]. To achieve such goals, some principles need to be observed as shown in Table 2.
+3. Research Method
+3. 1.EntropyMethodunderUncertainty. The entropy method is a weighting method [116]. The method of weighting under uncertainty and hesitant fuzzy is a new method for weighing the criteria in a situation where there is a possibility of error between the judgment of experts for various reasons [117–120], such as a large number of experts, and it is necessary to weigh the problem under uncertainty [8, 23, 78]. The steps of this method are as follows [23]:
+Step 1. Calculate the sij hesitant fuzzy score matrix on the Expert Opinions matrix using the following formula:
+l h( E(x))
+s h􏼁E(x)  􏽘 hEσ(j) (x) . (1) j1 l h􏼁E(x)
+Step 2. Computation of the normalized matrix S based on the previous step:
+sij
+	sij′  􏽐mi1 sij.	(2)
+Step 3. By using De Luca-Termini normalized entropy in the field of hesitant fuzzy sets,
+	1	m
+Ej − 􏽘􏼐sij′ ln sij′ +􏼐1 − siy′􏼑ln 1􏼐 − sy′􏼑􏼑, j  1, 2, ... , n. m ln 2 i1
+(3)
+Table 2: Principles of sustainable architectural design.
+
+Principles of sustainable architectural design	References
+
+(1) Reuse existing buildings and preserve the surroundings, place bush and greenhouse, and green plants as
+                                                                                        [1, 2, 7, 8, 12, 27, 48, 114] much as possible
+(2) Prevent water loss and collect and recycle used water and use rainwater	[1, 2, 7, 8, 12, 27, 48, 114]
+(3) Increase energy efficiency in a variety of ways, including building a building that makes the most of sunlight and seasonal changes. Do not use devices that are not approved in terms of energy consumption, [1, 2, 7, 8, 12, 27, 48, 114] thermal and sound insulation.
+(4) Use of indigenous, recyclable materials, and those that require the least amount of energy to prepare. Such
+[1, 2, 7, 8, 12, 27, 48, 114] products, in addition to being durable, also contain the least amount of harmful chemicals.
+(5) Enjoy natural and clean energy such as solar and wind energy	[1, 2, 7, 8, 12, 27, 48, 114]
+Step 4. The definition of the weight of the features is expressed by the following formula:
+1 − Ej
+	wj 	n	,	j  1, 2, ... , n,	(4)
+              􏽐j−1􏼐1 − Ej􏼑 where WJ is the weight of the subcriteria [116, 121–123].
+3.2. MAIRCA Method. This method is done in six steps
+[12, 93].
+Step 1. Form a decision matrix.
+   In fact, this step is present in all decision-making methods. The decision matrix of this method is a criterionchoice decision matrix, i.e., the matrix in which the rows of research options and the columns of those criteria are located, and each cell of this matrix evaluates each option ratio, by any measure. For example, Figure 1 shows an example of a decision matrix. The decision matrix can be completed both by real numbers (quantitative) and by verbal (qualitative) spectra.
+Step 2. Determine the priority based on the choice of options (PAi).
+   During the selection of the option, the decision-maker is neutral for the work process. In fact, he does not prefer any of the options offered. The main assumption is that the decision-maker does not consider the probabilities of each option. The decision-maker also understands other options, as if each of them could be visually equal, so the preference for choosing one of them from the possible m option is based on the following equation:
+1
+PAi  , m
+	m	(5)
+	􏽘 PAi  1,	i  1, 2, ..., m.
+i1
+   In the above relation, m specifies the total number of options. In decision analysis, with the probabilities mentioned, we assume that the decision-maker is risk neutral. In this case, all preferences are equal according to the choice of specific options; i.e., all PAi are equal.
+Step 3. Calculation of theoretical evaluation matrix elements (Tp).
+C1C2…CnA1
+A2
+…
+AmH11
+H21
+…
+Hm1H12
+H22
+…
+Hm2…
+…
+…
+…H1n
+H2n
+…
+HmnFigure 1: Decision matrix.
+   Theoretical evaluation matrix (Tp) is created in n ∗ m format where n is the total number of criteria and m is the total number of options. The elements of the theoretical evaluation matrix (tpij) are calculated as the coefficient of preference as PAi options and the weight of the criteria (W) as follows:
+	w1	w1	...	wn	w1	w1	...wn,Tp  ...PPA1 ⎢⎡⎢⎣⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢ tt...pp1121 tt...pp2212 ......... tt...pp21nn ⎥⎥⎥⎥⎤⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎦⎥⎥⎥⎥⎥⎥⎥⎥
+A2
+	PAm	tpm1 tpm2 ... tpmn
+PA
+	PA12 ⎢⎡⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎣⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢ PP...AA12ww11	PP...AA12ww22 ......... PP...AA21wwnn ⎥⎥⎥⎤⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎦⎥⎥⎥⎥⎥⎥⎥.
+
+...
+	PAm	PAmw1 PAmw2 ... PAmwn(6)   Since the decision-maker for the initial selection of options is neutral, all preferences (PAi) are equal for all options. Then, the above equation can be shown in the following equation:
+  w1 w1 ... wn w1 w1 ... wn, Tp  PAi􏽨 tp1 tp2 ... tpn 􏽩 (7)
+ PAi􏽨 PA1w1 PAiw2 ... tAiwn 􏽩.
+Step 4. Determine the real evaluation equation.
+   The calculation of the elements of the real evaluation matrix (Tr) is done by multiplying the elements of the theoretical evaluation matrix (Tp) and the elements of the initial decision matrix (X) according to the following
+Table 3: Criteria and subcriteria for evaluation of hotel construction.
+CriterionUnder the criteriaCodeResourceResource and energy managementThe system status in terms of sound insulation is the following:
+Fire prevention
+The executive method is unaffected by seasonal restrictionsEX1
+EX2
+EX3[1, 55, 110]
+[1, 55, 82]
+[1, 110]Reduce system deployment energy consumptionEX4[1, 55, 110]No use of heavy machinery is requiredEX5[1, 82, 111]EconomicThe rate of return on capital Affordable constructionEC1
+EC2[1, 55, 110]
+[1, 55, 110]Construction time is shortEC3[1, 82, 110]Environmental and sustainable development  The ability to reuse and recycle materials Green design and construction use less energyS1
+S2    [72] [72, 96, 114]There is no environmental pollution producedS3[72, 114]equations. The first equation is for positive criteria and the second equation is for negative criteria.
+xij − x−i
+trij  tpij􏼠 + −􏼡, xi − xi
+(8)
+xij − x+i
+trij  tpij􏼠 − +􏼡, xi − xi
+Step 5. Calculate the total gap matrix (G).
+   The elements of the G matrix are calculated as the difference (distance) between theoretical estimates (tpij) and real estimates (trij), which are expressed in terms of the following equation. In fact, when gij tends to zero, it is because the option with the least difference between theoretical (tpij) and real evaluation (trij) is chosen. In other words, for the Ci option compared to the Ci criterion, if the theoretical evaluation is equal to the actual evaluation, in the Ci criterion, the Ai option is the best.
+G  Tp − Tr g11 g12 ... g1n
+⎡⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢ g...21 g... ... ...22 ... g2n ⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎤⎥⎥⎥⎥⎥⎥⎥⎥⎦⎥⎥⎥⎥⎥⎥
+⎢
+⎢⎢⎢⎢⎢⎢⎣
+⎢
+	gm1 gm2 ... gmn	(9)
+	tp11 − tr11	tp12 − tr12 ... tp1n − tr1n
+	⎢⎡⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢ t	− t	t	− t	... t	− t	⎥⎥⎥⎥⎥⎥⎥⎥⎥⎤
+	⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢ p21	r21	p22	r22	p2n	r2n ⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎦⎥⎥⎥⎥⎥⎥⎥.
+⎢⎢⎢⎢⎢⎢⎢⎢⎢⎣⎢⎢⎢ ... ... ... ... tpm1 − trm1 tpm2 − trm2 ... tpmn − trmn
+Step 6. Calculate the sum of the final values of the total gap (Q).
+   Based on the following equation, we get the final values for each option and they are ranked based on those options. In fact, the lower the final values for an option are, the higher the ranking will be.
+n
+	Qi  􏽘 gij,	i  1, 2, ... , m.	(10)
+j1
+4. Case Study
+In order to identify the effective criteria in the process of selecting construction systems, in this study, a table of criteria was prepared using the study of previous articles. In this regard, various sources have been used to obtain the criteria. Finally, the criteria and subcriteria are obtained as in Table 3:
+   We examined the stability of the building in 4 5-star hotels in Iran, Khorasan Razavi (A1, A2, A3, and A4). This questionnaire was distributed and collected among experts in the field of construction industry. The sampling method in this research is Cochran’s method. Because the exact value of the statistical community is not available, we use Cochran’s formula for infinite communities:
+z2pq
+n 	2 ,	(11) d
+where z  1.96, p  q  0.5, and d is the allowable error value. This error value was 96%. The report and description of the expertise and field of work of the experts are given in Table 4.
+5. Findings
+In the first step, we first obtain the weight of the subcriteria. First, we calculate S for the decision matrix in Table 5.
+In the next step, we calculate the value of S′ (Table 6).
+   Now, we get the values of E and 1 − E and use them to get the weight of the criteria shown in Table 7.
+   Now that the weight of the subcriteria has been obtained (Table 8), the options are ranked. Using the method, we have the following.
+   Now, because we have 4 options, the value of PA is 0.25. So by multiplying the matrix values by the cumulative decision in PA, the values of tp are obtained as shown in Table 9.
+   Now, considering that all the criteria are positive, the values of tr are obtained as shown in Table 10.
+
+Table 4: Information about participated experts.
+CategoryClassificationNo.FieldCivil engineer
+Environmental engineer
+Construction management45
+30
+16Architecture5Gender Male Female70
+26Work experience3–5 years
+5–9 years3
+47More than 9 years46EducationBachelor Master55
+25PhD16Table 5: S values.EX1EX2EX3EX4EX5EC1EC2EC3S1S2S30/240/560/50/670/910/720/460/690/530/110/750/87
+0/28
+0/730/46
+0/14
+0/710/83
+0/79
+0/850/49
+0/59
+0/40/96
+0/96
+0/640/22 0/2
+0/030/47
+0/58
+0/170/76
+0/13
+0/320/68
+0/38
+0/850/66
+0/96
+0/80/68
+0/99
+0/15sij0/190/470/120/130/750/730/390/140/090/740/240/130/340/640/620/940/90/960/230/980/340/642/4202/6603/7202/9105/1702/7003/0402/2803/5303/6203/440Sum sijTable 6:Value S′.EX1EX2EX3EX4EX5EC1EC2EC3S1S2S30/0914760/1943280/1246650/2148620/1640120/2391430/1411880/2826870/1404270/0283380/2021740/331598 0/106721
+0/2782370/159627
+0/048582
+0/246380/206944
+0/19697
+0/211930/157138
+0/189207
+0/1282760/173024
+0/173024
+0/1153490/073071
+0/066429
+0/0099640/144258
+0/17802
+0/0521790/311366
+0/05326
+0/1311010/180171
+0/100684
+0/2252130/170027
+0/247313
+0/2060950/183304
+0/26687	′ s
+0/040435	ij0/0724180/1630970/029920/041690/1351750/2424640/1197030/0573570/0238460/1906370/0646950/0495490/1179850/1595710/1988270/1694190/2989290/2946540/0942290/2596580/087590/172522Table 7: Weight of criteria.EX1EX2EX3EX4EX5EC1EC2EC3S1S2S3−0/29897−0/47669−0/36643−0/50268−0/43321−0/53015−0/39603−0/5712−0/39472−0/12683s′lns′ + 1
+−0/48694
+−s′ln1 − s′−0/60581−0/42639−0/49297−0/42244−0/44681−0/256−0/40128−0/5929−0/45718−0/44235−0/46161−0/3314−0/19071−0/48019−0/46979−0/44681−0/23931−0/45409−0/20403−0/31887−0/53863−0/55744−0/56746−0/53768−0/49913−0/37311−0/34864−0/05511−0/20098−0/37825−0/51481−0/4919−0/16632−0/25438−0/4318−0/13226−0/17018−0/38554−0/53363−0/35705−0/21534−0/1109−0/47173−0/23483−0/1935−0/35375−0/4263−0/48261−0/44144−0/58398−0/58075−0/30502−0/55075−0/29026−0/44607−2/25151−2/41701−2/39728−2/42082−2/50245−2/19819−2/3902−2/26673−2/34723−2/36171−2/35323Sum0/5188580/5569980/5524510/5578760/5766870/5065690/5508190/5223660/5409160/5442550/542299Ej0/4111420/3730020/3775490/3721240/3533130/4234310/3791810/4076340/3890840/3857450/3877011 − Ej0/0897580/0814320/0824250/081240/0771330/0924410/0827810/0889930/0849420/0842140/084641wj   Finally, by subtracting the elements of the theoretical This value indicates which option is better in each subevaluation matrix and the elements of the real evaluation criterion. In general, the value of tb-tr in each criterion for each matrix, the total gap matrix is obtained as shown in option is zero, so that under that criterion that option is better.
+Table 11.	Now, the result of the overall ranking is as described in Table 12.
+Table 8: Cumulative decision matrix.
+w0/0897580/0814320/0824250/081240/0771330/0924410/0827810/0889930/0849420/0842140/084641Type+++++++++++EX1EX2EX3EX4EX5EC1EC2EC3S1S2S3A13/3073/4740/1240/143/3074/9843/5720/1232/3743/3183/307A20/1253/6942/4453/4743/1373/2674/233/6942/4453/2673/137A32/4452/3742/4450/144/2694/9844/3073/2773/4743/6674/269A45/124/9844/313/314/9845/15/124/9844/313/315/1Table 9: tp values.tpEX1EX2EX3EX4EX5EC1EC2EC3S1S2S3A10/0234050/0212330/0214920/0211840/0201130/0241050/0215850/0232050/0221490/0219590/02207A20/0234050/0212330/0214920/0211840/0201130/0241050/0215850/0232050/0221490/0219590/02207A30/0234050/0212330/0214920/0211840/0201130/0241050/0215850/0232050/0221490/0219590/02207A40/0234050/0212330/0214920/0211840/0201130/0241050/0215850/0232050/0221490/0219590/02207Table 10:Values of tr.trEX1EX2EX3EX4	EX5	EC1	EC2EC3S1S2S3A10/0153710/00922600/0218390/018826	0/001573	0000/0197520/020783A200/0110710/01228600/020735	0/02485	0/0094590/0175740/0008370/0226380/022753A30/01120800/0122860/0218370/008027	0/001573	0/0105660/0155210/01297400/009632A40/0241290/021890/0221570/001074	0	0	0/0222530/0239230/0228340/0202050Table 11: Calculating the total gap matrix G.tp-trEX1EX2EX3EX4	EX5	EC1	EC2	EC3S1S2S3A10/0084940/0122840/02149200/001851	0/022579	0/021585	0/0232050/0221490/0027990/001911A20/0234050/0104940/0095760/021184	0	0	0/01241	0/0061590/02133700A30/0125330/0212330/0095761/31E − 060/012327	0/022579	0/011336	0/008150/0095640/0219590/012727A40000/0201410/020113	0/024105	0	000/0023610/02207
+Table 12: Ranking alternatives.
+AlternativesQRankA40/088791A20/1045642A10/1383523A30/1419864   The results show that alternative A4 is the best alternative in sustainable issues.
+6. Conclusion
+Designing sustainable and environmentally friendly buildings with the approach of reducing energy consumption in buildings [121–124] and optimal energy consumption in different parts of the building (cooling, heating, and lighting) is a smart solution to deal with this great concern [124–127]. Sustainable architecture is also called green architecture, a design that uses a natural building, which is energy-efficient in some way and has little or no effect on the nature and resources of a site [128–131]. Attention to energy consumption optimization has been considered in the design, construction, and use of these buildings [132–135]. The balance between development and attention to environmental needs design and construction in complete harmony and balance with the surrounding environment and this is the responsibility of the architect. Sustainable architecture plays a unique role in the field of sustainability [133–136].
+   Climate-based design principles also include two other important achievements: green architecture and sustainable architecture [61, 62, 137, 138]. Architects must apply their skills to adapt to the climate of each region, using their skills [21, 63, 79, 80]. In sustainable architecture, it should be noted that the application of sustainable architecture principles in the selection of materials and construction methods should be according to the climatic conditions of the same area and sometimes different strategies are used depending on each climate in the architectural process of the building [74, 139, 140]. In its broadest context, sustainability refers to a society ecosystem or any existing system’s ability to operate indefinitely throughout the coming years (without being forced to discontinue due to depletion or lack of resources). Sustainable architecture embodies values such as the beauty of the environment, society, ethics, and politics. In fact, sustainable architecture is a balance between the needs of today’s society and the future. Indigenous materials have been used in the construction of these buildings. They have a shape and volume that are compatible with the climate and weather conditions of their region.
+Data Availability
+Requests for access to these data should be made to the corresponding author via e-mail: hosseinimehr1363@ sci.iaun.ac.ir.
+Conflicts of Interest
+The authors declare that they have no conflicts of interest.
+References
+[1] V. Achal and A. Mukherjee, “A review of microbial precipitation for sustainable construction,” Construction and Building Materials, vol. 93, pp. 1224–1235, 2015.
+[2] S. Durdyev, E. Zavadskas, D. Thurnell, A. Banaitis, and A. Ihtiyar, “Sustainable construction industry in Cambodia: awareness, drivers and barriers,” Global Ecological Change eJournal, vol. 10, no. 2, 2018.
+[3] J. Smit and D. Arraes, “Sustainable Construction Material,” EasyChair Preprint No 1196, EasyChair, Manchester, UK, 2019.
+[4] X. Zhao, X. Zhang, Z. Cai et al., “Chaos enhanced grey wolf optimization wrapped ELM for diagnosis of paraquat-poisoned patients,” Computational Biology and Chemistry, vol. 78, pp. 481–490, 2019.
+[5] C. Li, L. Hou, B. Y. Sharma et al., “Developing a new intelligent system for the diagnosis of tuberculous pleural effusion,” Computer Methods and Programs in Biomedicine, vol. 153, pp. 211–225, 2018.
+[6] M. Wang, H. Chen, B. Yang et al., “Toward an optimal kernel extreme learning machine using a chaotic moth-flame optimization strategy with applications in medical diagnoses,” Neurocomputing, vol. 267, pp. 69–84, 2017.
+[7] S.	Safinia,	Z.	Al-Hinai,	H.	A.	M.	Yahia,	and
+M. F. M. Abushammala, “Sustainable construction in sultanate of Oman: factors effecting materials utilization,” Procedia Engineering, vol. 196, pp. 980–987, 2017.
+[8] L. Vogler, Sustainable Construction Green Building Design and Delivery, Wiley, Hoboken, NJ, USA, 2016.
+[9] D. Zhao, L. Lei, Y. Fanhua et al., “Chaotic random spare ant colony optimization for multi-threshold image segmentation of 2D Kapur entropy,” Knowledge-Based Systems, vol. 216, Article ID 106510, 2020.
+[10] J. Tu, H. Chen, J. Liu et al., “Evolutionary biogeographybased Whale optimization methods with communication structure: towards measuring the balance,” Knowledge-Based Systems, vol. 212, Article ID 106642, 2020.
+[11] W. Shan, Z. Qiao, A. A. Heidari, H. Chen, H. Turabieh, and Y. Teng, “Double adaptive weights for stabilization of moth flame optimizer: balance analysis, engineering cases, and medical diagnosis,” Knowledge-Based Systems, vol. 214, Article ID 106728, 2020.
+[12] M. A. Wibowo, Elizar, M. N. Sholeh, and H. S. Adji, “Supply chain management strategy for recycled materials to support sustainable construction,” Procedia Engineering, vol. 171, pp. 185–190, 2017.
+[13] M. Abd El-Aziz and A. M. Aly, “MHD boundary layer flow of a power-law nanofluid containing gyrotactic microorganisms over an exponentially stretching surface,” Computers, Materials and Continua, vol. 62, no. 2, pp. 525–549, 2020.
+[14] F. Bayones, A. Abd-Alla, R. Alfatta, and H. Al-Nefaie, “Propagation of athermoelastic wave in a half-space of a homogeneous isotropic material subjected to the effect of rotation and initial stress,” Computers, Materials and Continua, vol. 62, no. 2, pp. 551–567, 2020.
+[15] S.-M. Park and Y.-G. Kim, “User profile system based on sentiment analysis for mobile edge computing,” Computers, Materials and Continua, vol. 62, no. 2, pp. 569– 590, 2020.
+[16] J. Paik, “Weighted or non-weighted negative tree pattern discovery from sensorrich environments,” Intelligent Automation and Soft Computing, vol. 26, no. 1, pp. 193–204, 2020.
+[17] M. Okhovvat and M. Reza Kangavari, “A mathematical task dispatching model in wireless sensor actor networks,” Computer Systems Science and Engineering, vol. 34, no. 1, pp. 5–12, 2019.
+[18] M. Okhovvat and M. Reza Kangavari, “TSLBS: a time-sensitive and load balanced scheduling approach to wireless sensor actor networks,” Computer Systems Science and Engineering, vol. 34, no. 1, pp. 13–21, 2019.
+[19] R. Das, M. Baykara, and G. Tuna, “A novel approach to steganography: enhanced least significant bit substitution algorithm integrated with self-determining encryption feature,” Computer Systems Science and Engineering, vol. 34, no. 1, pp. 23–32, 2019.
+[20] M. Duan, K. Li, A. Ouyang et al., “EGroupNet,” ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 16, no. 2, pp. 1–23, 2020.
+[21] S. Shamshirband, K. Mohammadi, P. L. Yee, D. Petkovic, and´ A. Mostafaeipour, “A comparative evaluation for identifying the suitability of extreme learning machine to predict horizontal global solar radiation,” Renewable and Sustainable Energy Reviews, vol. 52, pp. 1031–1042, 2015.
+[22] C. Yu, K. Cheng, X. Zhao, C. Ma, F. Kuang, and H. Chen, “SGOA: annealing-behaved grasshopper optimizer for global tasks,” Engineering with Computers, vol. 1, pp. 1–28, 2021.
+[23] Q. Suyue, “Study on reverse logistics of construction machinery,” Ecological Economy, vol. 2, no. 1, 2009.
+[24] W. Yang, K. Li, and K. Li, “A pipeline computing method of SpTV for three-order tensors on CPU and GPU,” ACM Transactions on Knowledge Discovery from Data, vol. 13, no. 6, pp. 1–27, 2019.
+[25] X. Zhou, K. Li, Z. Yang, G. Xiao, and K. Li, “Progressive approaches for pareto optimal groups computation,” IEEE Transactions on Knowledge and Data Engineering, vol. 31, no. 3, pp. 521–534, 2019.
+[26] J. Mei, K. Li, Z. Tong, Q. Li, and K. Li, “Profit maximization for cloud brokers in cloud computing,” IEEE Transactions on Parallel and Distributed Systems, vol. 30, no. 1, pp. 190–203, 2019.
+[27] S. El-Sayegh, S. Manjikian, A. Ibrahim, A. Abouelyousr, and R. Jabbour, “Risk identification and assessment in sustainable construction projects in the UAE,” The international journal of construction management, vol. 21, pp. 1–10, 2018.
+[28] J. Chen, K. Li, K. Bilal, X. Zhou, K. Li, and P. S. Yu, “A Bilayered parallel training architecture for large-scale convolutional neural networks,” IEEE Transactions on Parallel and Distributed Systems, vol. 30, no. 5, pp. 965–976, 2019.
+[29] K. Gu, W. Jia, and J. Zhang, “Identity-based multi-proxy signature scheme in the standard model,” Fundamenta Informaticae, vol. 150, no. 2, pp. 179–210, 2017.
+[30] J. Zhang, C. Wu, D. Yang et al., “HSCS: a hybrid shared cache scheduling scheme for multiprogrammed workloads,” Frontiers of Computer Science, vol. 12, no. 6, pp. 1090–1104, 2018.
+[31] K. Gu, W. Jia, and C. Jiang, “Efficient identity-based proxy signature in the standard model,” The Computer Journal, vol. 58, no. 4, pp. 792–807, 2015.
+[32] Q. Tang, K. Yang, P. Li, J. Zhang, Y. Luo, and B. Xiong, “An energy efficient MCDS construction algorithm for wireless sensor networks,” EURASIP Journal on Wireless Communications and Networking, vol. 2012, no. 1, pp. 1–15, 2012.
+[33] W. Li and B. Zhu, “A 2k-kernelization algorithm for vertex cover based on crown decomposition,” Theoretical Computer Science, vol. 739, pp. 80–85, 2018.
+[34] J. Wang, Y. Zou, P. Lei, R. S. Sherratt, and L. Wang, “Research on recurrent neural network based crack opening prediction of concrete dam,” Journal of Internet Technology, vol. 21, no. 4, pp. 1161–1169, 2020.
+[35] B. Yin, K. Gu, X. Wei, S. Zhou, and Y. Liu, “A cost-efficient framework for finding prospective customers based on reverse skyline queries,” Knowledge-Based Systems, vol. 152, pp. 117–135, 2018.
+[36] Q. Tang, L. Chang, K. Yang, K. Wang, J. Wang, and P. K. Sharma, “Task number maximization offloading strategy seamlessly adapted to UAV scenario,” Computer Communications, vol. 151, pp. 19–30, 2020.
+[37] Q. Tang, K. Wang, Y. Song, F. Li, and J. H. Park, “Waiting time minimized charging and discharging strategy based on mobile edge computing supported by software-defined network,” IEEE Internet of Things Journal, vol. 7, no. 7, pp. 6088–6101, 2019.
+[38] D. Kaoula and A. Bouchair, “Evaluation of environmental impacts of hotel buildings having different envelopes using a life cycle analysis approach,” Indoor and Built Environment, vol. 27, no. 4, pp. 561–580, 2018.
+[39] J. Zhang, K. Yang, L. Xiang, Y. Luo, B. Xiong, and Q. Tang, “A self-adaptive regression-based multivariate data compression scheme with error bound in wireless sensor networks,” International Journal of Distributed Sensor Networks, vol. 9, no. 3, Article ID 913497, 2013.
+[40] J. Zhang, J. Sun, J. Wang, and X. G. Yue, “Visual object tracking based on residual network and cascaded correlation filters,” Journal of Ambient Intelligence and Humanized Computing, vol. 12, pp. 1–14, 2020.
+[41] K. Gu, Y. Wang, and S. Wen, “Traceable threshold proxy signature,” Journal of Information Science and Engineering, vol. 33, no. 1, 2017.
+[42] K. Gu, L. Yang, Y. Wang, and S. Wen, “Traceable identitybased group signature,” RAIRO - Theoretical Informatics and Applications, vol. 50, no. 3, pp. 193–226, 2016.
+[43] B. Yin, S. Zhou, Y. Lin, Y. Liu, and Y. Hu, “Efficient distributed skyline computation using dependency-based data partitioning,” Journal of Systems and Software, vol. 93, pp. 69–83, 2014.
+[44] M. Long and X. Xiao, “Outage performance of double-relay cooperative transmission network with energy harvesting,” Physical Communication, vol. 29, pp. 261–267, 2018.
+[45] Z. Xu, W. Liang, K.-C. Li, J. Xu, and H. Jin, “A blockchainbased roadside unit-assisted authentication and key agreement protocol for internet of vehicles,” Journal of Parallel and Distributed Computing, vol. 149, pp. 29–39, 2021.
+[46] W. Wang, Y. Yang, J. Li, Y. Hu, Y. Luo, and X. Wang, “Woodland labeling in chenzhou, China, via deep learning approach,” International Journal of Computational Intelligence Systems, vol. 13, no. 1, pp. 1393–1403, 2020.
+[47] J. Xia, H. Chen, Q. Li et al., “Ultrasound-based differentiation of malignant and benign thyroid Nodules: an extreme learning machine approach,” Computer Methods and Programs in Biomedicine, vol. 147, pp. 37–49, 2017.
+[48] T. Hong, C. Koo, J. Kim, M. Lee, and K. Jeong, “A review on sustainable construction management strategies for monitoring, diagnosing, and retrofitting the building’s dynamic energy performance: focused on the operation and maintenance phase,” Applied Energy, vol. 155, pp. 671–707, 2015.
+[49] H. Arian, H. Poorvasei, A. Sharifi, and S. Zamani, “The Uncertain Shape of Grey Swans: Extreme Value Theory with Uncertain Threshold,” 2020, https://arxiv.org/abs/2011. 06693.
+[50] H. Arian, S. M. S. Seyfi, and A. Sharifi, “A Novel Classification Approach for Credit Scoring Based on Gaussian Mixture Models,” 2020, https://arxiv.org/abs/2010.13388.
+[51] N. Pushpamali, D. Agdas, and T. M. Rose, “A review of reverse logistics: an upstream construction supply chain perspective,” Sustainability, vol. 11, no. 15, p. 4143, 2019.
+[52] A. Azma, E. Narreie, A. Shojaaddini et al., “Statistical modeling for spatial groundwater potential map based on gis technique,” Sustainability, vol. 13, no. 7, p. 3788, 2021.
+[53] A. Razmjoo and A. Davarpanah, “Developing various hybrid energy systems for residential application as an appropriate and reliable way to achieve energy sustainability,” Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, vol. 41, no. 10, pp. 1180–1193, 2019.
+[54] A. Davarpanah, R. Shirmohammadi, B. Mirshekari, and A. Aslani, “Analysis of hydraulic fracturing techniques: hybrid fuzzy approaches,” Arabian Journal of Geosciences, vol. 12, no. 13, pp. 1–8, 2019.
+[55] V. Achal, A. Mukherjee, D. Kumari, and Q. Zhang, “Biomineralization for sustainable construction - a review of processes and applications,” Earth-Science Reviews, vol. 148, pp. 1–17, 2015.
+[56] F. Ullah, A. Bajahzar, H. Aldabbas et al., “An e-assessment methodology based on artificial intelligence techniques to determine students’ language quality and programming assignments’ plagiarism,” Intelligent Automation & Soft Computing, vol. 26, no. 1, pp. 169–180, 2020.
+[57] T. Lee, D. Kang, K. Yoon, and S. Seo, “Emotion-based painting image display system,” Intelligent Automation & Soft Computing, vol. 26, no. 1, pp. 181–192, 2020.
+[58] M. Qiang, “Reverse logistics system construction of architecture industry under the extended producer responsibility,” Science and Management, vol. 2, 2011.
+[59] M.	R.	Hosseini,	R.	Rameezdeen,	N.	Chileshe,	and
+S. Lehmann, “Reverse logistics in the construction industry,”Waste Management and Research: The Journal for a Sustainable Circular Economy, vol. 33, no. 6, pp. 499–514, 2015.
+[60] W. Li, Y. Ding, Y. Yang, R. S. Sherratt, J. H. Park, and J. Wang, “Parameterized algorithms of fundamental NPhard problems: a survey,” Human-Centric Computing and Information Sciences, vol. 10, no. 1, pp. 1–24, 2020.
+[61] Z. Ramedani, M. Omid, A. Keyhani, S. Shamshirband, and B. Khoshnevisan, “Potential of radial basis function based support vector regression for global solar radiation prediction,” Renewable and Sustainable Energy Reviews, vol. 39, pp. 1005–1011, 2014.
+[62] S.	Fallah,	R.	Deo,	M.	Shojafar,	M.	Conti,	and
+S. Shamshirband, “Computational intelligence approachesfor energy load forecasting in smart energy management grids: state of the art, future challenges, and research directions,” Energies, vol. 11, no. 3, p. 596, 2018.
+[63] S. Naji, A. Keivani, S. Shamshirband et al., “Estimating building energy consumption using extreme learning machine method,” Energy, vol. 97, pp. 506–516, 2016.
+[64] H.-L. Chen, G. Wang, C. Ma, Z.-N. Cai, W.-B. Liu, and S.-J. Wang, “An efficient hybrid kernel extreme learning machine approach for early diagnosis of Parkinson׳s disease,” Neurocomputing, vol. 184, pp. 131–144, 2016.
+[65] S. M. S. Seyfi, A. Sharifi, and H. Arian, “Portfolio Value-atRisk and expected-shortfall using an efficient simulation approach based on Gaussian Mixture Model,” Mathematics and Computers in Simulation, vol. 190, pp. 1056–1079, 2021.
+[66] H. Arian, M. Moghimi, E. Tabatabaei, and S. Zamani, “Encoded value-at-risk: a predictive machine for financial risk management,” 2020, https://arxiv.org/abs/2011.06742.
+[67] Y. Zhang, R. Liu, X. Wang, H. Chen, and C. Li, “Boosted binary Harris hawks optimizer and feature selection,” Engineering with Computers, vol. 1, pp. 1–30, 2020.
+[68] Y. Zhang, R. Liua, A. Asghar Heidaricd, and X. Wange, “Towards Augmented Kernel Extreme Learning Models for Bankruptcy prediction: algorithmic behavior and comprehensive analysis,” Neurocomputing, vol. 430, 2020.
+[69] L. Shen, H. Chen, Z. Yu et al., “Evolving support vector machines using fruit fly optimization for medical data classification,” Knowledge-Based Systems, vol. 96, pp. 61–75, 2016.
+[70] L. Hu, G. Hong, J. Ma, X. Wang, and H. Chen, “An efficient machine learning approach for diagnosis of paraquat-poisoned patients,” Computers in Biology and Medicine, vol. 59, pp. 116–124, 2015.
+[71] X. Xu and H.-l. Chen, “Adaptive computational chemotaxis based on field in bacterial foraging optimization,” Soft Computing, vol. 18, no. 4, pp. 797–807, 2014.
+[72] D. Carvajal-Arango, S. Bahamon-Jaramillo, P. Aristiz´ abal-´ Monsalve, A. Vasquez-Hern´ andez, and L. F. B. Botero,´ “Relationships between lean and sustainable construction: positive impacts of lean practices over sustainability during construction phase,” Journal of Cleaner Production, vol. 234, pp. 1322–1337, 2019.
+[73] O. Pons-Valladares and J. Nikolic, “Sustainable design, construction, refurbishment and restoration of architecture:
+a review,” Sustainability, vol. 12, no. 22, p. 9741, 2020.
+[74] A. A. Lekvan, R. Habibifar, M. Moradi, M. Khoshjahan, S. Nojavan, and K. Jermsittiparsert, “Robust optimization of renewable-based multi-energy micro-grid integrated with flexible energy conversion and storage devices,” Sustainable Cities and Society, vol. 64, Article ID 102532, 2021.
+[75] N. Murtagh, A. Roberts, and R. Hind, “The relationship between motivations of architectural designers and environmentally sustainable construction design,” Construction Management and Economics, vol. 34, no. 1, pp. 61–75, 2016.
+[76] M. Ghanbari and H. Arian, “Forecasting Stock Market with Support Vector Regression and Butterfly Optimization Algorithm,” 2019, https://arxiv.org/pdf/1905.11462.pdf.
+[77] M. Escobar, H. Arian, and L. Seco, “CreditGrades Framework within Stochastic Covariance,” ModelsJournal of Mathematical Finance, vol. 2, no. 4, pp. 303–313, 2012.
+[78] H. Valdes, C. Correa, and F. Mellado, “Proposed model of´ sustainable construction skills for engineers in Chile,” Sustainability, vol. 10, no. 9, p. 3093, 2018.
+[79] M. Hossain, S. Mekhilef, M. Danesh, L. Olatomiwa, and S. Shamshirband, “Application of extreme learning machine for short term output power forecasting of three grid-connected PV systems,” Journal of Cleaner Production, vol. 167, pp. 395–405, 2017.
+[80] S. Sajjadi, S. Shamshirband, M. Alizamir et al., “Extreme learning machine for prediction of heat load in district heating systems,” Energy and Buildings, vol. 122, pp. 222– 227, 2016.
+[81] A. Opoku and V. Ahmed, “Organizational leadership role in the delivery of sustainable construction projects in UK,” Built Environment Project and Asset Management, vol. 5, no. 2, pp. 154–169, 2015.
+[82] E. Aydin, “Novel coal bottom ash waste composites for sustainable construction,” Construction and Building Materials, vol. 124, pp. 582–588, 2016.
+[83] G. Karunasena and U. Rathnayake, “Integrating sustainability concepts and value planning for sustainable construction,” Built Environment Project and Asset Management, vol. 6, no. 2, pp. 125–138, 2016.
+[84] W. Li and X. Wang, “Innovations on management of sustainable construction in a large earthwork project: an Australian case research,” Procedia Engineering, vol. 145, pp. 677–684, 2016.
+[85] S. Hashemkhani Zolfani, M. Pourhossein, M. Yazdani, and E. Kazimieras Zavadskas, “Evaluating construction projects of hotels based on environmental sustainability with MCDM framework,” Alexandria engineering journal, vol. 57, no. 1, pp. 357–365, 2018.
+[86] J. Hu, H. Chen, A. A. Heidari et al., “Orthogonal learning covariance matrix for defects of grey wolf optimizer: insights, balance, diversity, and feature selection,” Knowledge-Based Systems, vol. 213, Article ID 106684, 2021.
+[87] X. Zhao, D. Li, B. Yang, C. Ma, Y. Zhu, and H. Chen, “Feature selection based on improved ant colony optimization for online detection of foreign fiber in cotton,” Applied Soft Computing, vol. 24, pp. 585–596, 2014.
+[88] R. Santos, A. A. Costa, J. D. Silvestre, and L. Pyl, “Informetric analysis and review of literature on the role of BIM in sustainable construction,” Automation in Construction, vol. 103, pp. 221–234, 2019.
+[89] H. Chen, A. A. Heidari, H. Chen, M. Wang, Z. Pan, and A. H. Gandomi, “Multi-population differential evolutionassisted Harris hawks optimization: framework and case studies,” Future Generation Computer Systems, vol. 111, pp. 175–198, 2020.
+[90] M. Wang and H. Chen, “Chaotic multi-swarm whale optimizer boosted support vector machine for medical diagnosis,” Applied Soft Computing, vol. 88, Article ID 105946, 2020.
+[91] Y. Xu, H. Chen, J. Luo, Q. Zhang, S. Jiao, and X. Zhang, “Enhanced Moth-flame optimizer with mutation strategy for global optimization,” Information Sciences, vol. 492, pp. 181–203, 2019.
+[92] L. Xie, Y. Chen, Bo Xia, and C. Hua, “Importance-performance analysis of prefabricated building sustainability: a case study of guangzhou,” Advances in Civil Engineering, vol. 2020, Article ID 8839118, 17 pages, 2020.
+[93] G. Wu, J. Zuo, and X. Zhao, “Incentive model based on cooperative relationship in sustainable construction projects,” Sustainability, vol. 9, no. 7, p. 1191, 2017.
+[94] B. Bathaei, The Architectural System of Persian Enclosed Garden: Recognition & Recreating of the Concept of Persian Garden, LAP LAMBERT Academic Publishing, Sunnyvale, CA, USA, 2020.
+[95] H. Yu, W. Li, C. Chen et al., “Dynamic Gaussian bare-bones fruit fly optimizers with abandonment mechanism: method and analysis,” Engineering with Computers, vol. 1, pp. 1–29, 2020.
+[96] H. Danso, “Identification of key indicators for sustainable construction materials,” Advances in Materials Science and Engineering, vol. 2018, Article ID 6916258, 7 pages, 2018.
+[97] B. Bathaei, “Achieving sustainable city by the concept of Persian garden,” Acta Technica Napocensis: Civil Engineering & Architecture, vol. 61, no. 3, 2018, https://constructii.utcluj. ro/ActaCivilEng/download/special/2018-10/ATN2018(3)_6. pdf..
+[98] B. Bathaei, “Change Is of the Essence, Regenerating of Brown Fields (Landscape Revitalization of Tehran’s Brick Kilns),” in Proceedings of the 2nd International Conference on Architecture, Structure and Civil Engineering (ICASCE’16), London, UK, March 2016.
+[99] Z. Zhang, J. L. Provis, A. Reid, and H. Wang, “Geopolymer foam concrete: an emerging material for sustainable construction,” Construction and Building Materials, vol. 56, pp. 113–127, 2014.
+[100] B. C. L. Yin, R. Laing, M. Leon, and L. Mabon, “An evaluation of sustainable construction perceptions and practices in Singapore,” Sustainable Cities and Society, vol. 39, pp. 613–620, 2018.
+[101] B. Bathaei, “Persian enclosed garden: recognition & recreation of the Persian garden,” Revista S¸colii Doctorale de Urbanism, vol. 1, no. 1, pp. 53–56, 2016.
+[102] B. Bathaei, “Process Analysis of environmental perception of Persian garden based on psychological theory of environment,” Editura Universitar, vol. 1, p. 124, 2016.
+[103] N. Kibwami and A. Tutesigensi, “Enhancing sustainable construction in the building sector in Uganda,” Habitat International, vol. 57, pp. 64–73, 2016.
+[104] A. Oke, D. Aghimien, C. Aigbavboa, and C. Musenga, “Drivers of sustainable construction practices in the Zambian construction industry,” Energy Procedia, vol. 158, pp. 3246–3252, 2019.
+[105] N. Kisku, H. Joshi, M. Ansari, S. K. Panda, S. Nayak, and S. C. Dutta, “A critical review and assessment for usage of recycled aggregate as sustainable construction material,” Construction and Building Materials, vol. 131, pp. 721–740, 2017.
+[106] G. Xu and X. Shi, “Characteristics and applications of fly ash as a sustainable construction material: a state-of-the-art review,” Resources, Conservation and Recycling, vol. 136, pp. 95–109, 2018.
+[107] M. Rahim, W. Chen, and Z. Nurshuhada, “The challenge of labour shortage for sustainable construction,” Planning Malaysia, vol. 14, no. 5, 2016.
+[108] P. Sang and H. Yao, “Exploring critical success factors for green housing projects: an empirical survey of urban areas in China,” Advances in Civil Engineering, vol. 2019, Article ID 8746836, 13 pages, 2019.
+[109] S. D. Djokoto, D. John, and O. A. Eric, “Barriers to sustainable construction in the Ghanaian construction industry: consultants perspectives,” Journal of Sustainable Development, vol. 7, pp. 134–143, 2014.
+[110] O. Ametepey, C. Aigbavboa, and K. Ansah, “Barriers to successful implementation of sustainable construction in the Ghanaian construction industry,” Procedia Manufacturing, vol. 3, pp. 1682–1689, 2015.
+[111] J. Babalola, “Barriers to Implementation of Sustainable Construction Techniques,” Journal of Environmental Science, vol. 2, pp. 1–9, 2017.
+[112] M. V. Madurwar, R. V. Ralegaonkar, and S. A. Mandavgane, “Application of agro-waste for sustainable construction materials: a review,” Construction and Building Materials, vol. 38, pp. 872–878, 2013.
+[113] A. Daissaoui, A. Boulmakoul, L. Karim, and A. Lbath, “IoT and big data analytics for smart buildings: a survey,” Procedia Computer Science, vol. 170, pp. 161–168, 2020.
+[114] J. Al Dakheel, C. Del Pero, N. Aste, and F. Leonforte, “Smart buildings features and key performance indicators: a review,” Sustainable Cities and Society, vol. 61, Article ID 102328, 2020.
+[115] D. Sembroiz, D. Careglio, S. Ricciardi, and U. Fiore, “Planning and operational energy optimization solutions for smart buildings,” Information Sciences, vol. 476, pp. 439–452, 2019.
+[116] M. Younesi Heravi, A. Yeganeh, and S. B. Razavian, “Using fuzzy approach in determining critical parameters for optimum safety functions inmega projects (case study: Iran’s construction industry),” in Frontiers in Nature-Inspired Industrial Optimization, pp. 183–200, Springer, Singapore, 2022.
+[117] M. Shafiei Nikabadi and S. B. Razaviyan, “Identification and ranking of effective indicators on the loyalty of the charities in Iranian charities using Fuzzy Delphi and Structural Interpretative Equation,” Quarterly Journal of Socio-Cultural Development Studies, vol. 6, no. 3, pp. 59–79, 2018.
+[118] M. S. Nikabadi and S. B. Razavian, “A hesitant fuzzy model for ranking maintenance strategies in small and mediumsized enterprises,” International Journal of Productivity and Quality Management, vol. 29, no. 4, pp. 558–592, 2020.
+[119] F. Wang, M. Sahana, B. Pahlevanzadeh et al., “Applying different resampling strategies in machine learning models to predict head-cut gully erosion susceptibility,” Alexandria Engineering Journal, vol. 60, no. 6, pp. 5813–5829, 2021.
+[120] G. Liang, F. Panahi, A. N. Ahmed, M. Ehteram, S. S. Band, and A. Elshafie, “Predicting municipal solid waste using a coupled artificial neural network with archimedes optimisation algorithm and socioeconomic components,” Journal of Cleaner Production, vol. 315, Article ID 128039, 2021.
+[121] A. Mohammadzadeh, O. Castillo, S. S. Band, and A. Mosavi, “A novel fractional-order multiple-model type-3 fuzzy control for nonlinear systems with unmodeled dynamics,” International Journal of Fuzzy Systems, vol. 1, pp. 1–19, 2021.
+[122] M. R. Mahmoudi, D. Baleanu, S. N. Qasem, and A. Mosavi, “Fuzzy clustering to classify several time series models with fractional Brownian motion errors,” Alexandria Engineering Journal, vol. 60, no. 1, pp. 1137–1145, 2021.
+[123] Z. Liu, A. Mohammadzadeh, H. Turabieh, M. Mafarja, S. S. Band, and A. Mosavi, “A new online learned interval type-3 fuzzy control system for solar energy management systems,” IEEE Access, vol. 9, Article ID 10498, 2021.
+[124] H. Jafari, M. Nazari, and S. Shamshirband, “Optimization of energy consumption in wireless sensor networks using density-based clustering algorithm,” International Journal of Computers and Applications, vol. 43, no. 1, pp. 1–10, 2021.
+[125] C. Zuo, Q. Chen, L. Tian, L. Waller, and A. Asundi, “Transport of intensity phase retrieval and computational imaging for partially coherent fields: the phase space perspective,” Optics and Lasers in Engineering, vol. 71, pp. 20–32, 2015.
+[126] C. Zuo, J. Sun, J. Li, J. Zhang, A. Asundi, and Q. Chen, “Highresolution transport-of-intensity quantitative phase microscopy with annular illumination,” Scientific Reports, vol. 7, no. 1, pp. 7654–7722, 2017.
+[127] Q. Quan, S. Gao, Y. Shang, and B. Wang, “Assessment of the sustainability of Gymnocypris eckloni habitat under river damming in the source region of the Yellow River,” The Science of the Total Environment, vol. 778, Article ID 146312, 2021.
+[128] X. Lv, Y. Liu, S. Xu, and Q. Li, “Welcoming host, cozy house? the impact of service attitude on sensory experience,” International Journal of Hospitality Management, vol. 95, Article ID 102949, 2021.
+[129] J. Liu, Y. Liu, and X. Wang, “An environmental assessment model of construction and demolition waste based on system dynamics: a case study in Guangzhou,” Environmental Science and Pollution Research, vol. 27, no. 30, Article ID 37237, 2020.
+[130] X. Li, Z. Li, T. Jia, P. Yan, D. Wang, and G. Liu, “The sense of community revisited in Hankow, China: combining the impacts of perceptual factors and built environment attributes,” Cities, vol. 111, Article ID 103108, 2021.
+[131] X. Zuo, M. Dong, F. Gao, and S. Tian, “The modeling of the electric heating and cooling system of the integrated energy system in the coastal area,” Journal of Coastal Research, vol. 103, pp. 1022–1029, 2020.
+[132] C. Yang, F. Gao, and M. Dong, “Energy efficiency modeling of integrated energy system in coastal areas,” Journal of Coastal Research, vol. 103, pp. 995–1001, 2020.
+[133] R. Deng, M. Li, and S. Linghu, “Research on calculation method of steam absorption in steam injection thermal recovery technology,” Fresenius Environmental Bulletin, vol. 30, no. 5, pp. 5362–5369, 2021.
+[134] R. Deng, M. Li, and S. Linghu, “Sensitivity analysis of steam injection parameters of steam injection thermal recovery technology,” Fresenius Environmental Bulletin, vol. 30, no. 5, pp. 5385–5394, 2021.
+[135] X. Zhao, B. Gu, F. Gao, and S. Chen, “Matching model of energy supply and demand of the integrated energy system in coastal areas,” Journal of Coastal Research, vol. 103, pp. 983–989, 2020.
+[136] X. He, T. Zhang, Q. Xue et al., “Enhanced adsorption of Cu(II) and Zn(II) from aqueous solution by polyethyleneimine modified straw hydrochar,” The Science of the Total Environment, vol. 778, Article ID 146116, 2021.
+[137] S. Nosratabadi, A. Mosavi, S. Shamshirband, E. Kazimieras Zavadskas, A. Rakotonirainy, and K. W. Chau, “Sustainable business models: a review,” Sustainability, vol. 11, no. 6, p. 1663, 2019.
+[138] L. Olatomiwa, S. Mekhilef, S. Shamshirband, and D. Petkovic, “Adaptive neuro-fuzzy approach for solar ra-´ diation prediction in Nigeria,” Renewable and Sustainable Energy Reviews, vol. 51, pp. 1784–1791, 2015.
+[139] M. Azimian, V. Amir, R. Habibifar, and H. Golmohamadi, “Probabilistic optimization of networked multi-carrier microgrids to enhance resilience leveraging demand response programs,” Sustainability, vol. 13, no. 11, p. 5792, 2021.
+[140] Y. Chen, K. Li, W. Yang, G. Xiao, X. Xie, and T. Li, “Performance-aware model for sparse matrix-matrix multiplication on the sunway TaihuLight supercomputer,” IEEE Transactions on Parallel and Distributed Systems, vol. 30, no. 4, pp. 923–938, 2019.
+2	Shock and Vibration
+
+Shock and Vibration	3
+
+
+

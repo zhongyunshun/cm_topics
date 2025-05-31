@@ -1,0 +1,239 @@
+﻿Construction Management and Economics (1993) 11, 111—118
+Factors considered in tendering decisions by top UK contractors
+ALI A. SHASH
+Assistant Professor, Construction Engineering and Management Department, College of Environmental Design, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia
+Received 13 November 1991 ; revised 5 October 1992
+Decision-making involves a process by which a Choice is selected from a number of options. Bid decisions by contractors are complex due to uncertainty about many factors affecting their outcomes. This study was able to identify, through a questionnaire survey, 55 factors characterizing the bid decision-making process. The questionnaire was mailed in August 1990, to 300 top contractors in the UK. The results indicate that several factors are considered equally important for bid/no bid and markup size decisions. Other factors are seen to have considerable importance for one decision but not for another. The need for work, the number of competitors tendering, and the amount of experience on such projects are identified as the top three factors that affect a contractor's decision to bid for a project. The degree of difficulty, the risk involving owing to the nature of the work, and the current work load are the highest ranked factors affecting markup size decisions.
+Keywords : Construction tendering, tendering decisions, UK contractors.
+
+Introduction
+A construction firm may secure the right to provide services in a new job in one of two ways: by direct negotiation with an owner or his representative, or by competitive bidding. This paper is concerned with the competitive bidding situation in the construction industry of the UK.
+0144-6193 	1993 E. & F.N. spon  In competitive bidding, an owner invites a selected number of contractors to compete for his/her project. Upon reception of the invitation, a selected contractor must decide on whether to accept or decline it. If the invitation is honoured, the contractor will prepare and submit a tender price. The submitted price is an offer which is binding upon the owner's acceptance.
+Statement of the problem
+The tendering process involves two crucial decisions. The first is the decision of whether or not to bid for a project decision. The importance of the tender decision emerges from its financial consequences. The decision implies the incurring of substantial costs which may not be recovered immediately. The value of the decision outcome is not defined. That is, if the contractor decides not to bid, an opportunity loss might be incurred. On the other hand, if the contractor decides to bid, the direct and indirect costs that the project will consume have to be estimated. Tendering a job involves the contractor in preparing an estimate which requires the commitment of resources (for example, financial deposits for bidding documents and estimator's hours).
+  The second decision is associated with the determination of the bid price. Under the traditional cost plus markup pricing model, the contractor calculates the cost of direct and indirect labour, equipment, and materials that will be consumed in the project. Then, the contractor marks up the estimated cost by a certain percentage to cover his/her office overhead, contingencies, and profit. The contractor wants to decide on a markup size that increases the chance of achieving a dominating criterion of the competition. For example, if price dominates the competition, each contractor will attempt to offer a price that maximizes the chance of winning the project and minimizes the differences between his/her bid and the bid price of a rival competitor. In the event of an unsuccessful bid, the contractor has to be prepared to write off the preparation costs involved. The importance of the markup size decision derives from its direct bearing on the contractor's business. A contractor must secure a designated business volume in a fiscal year to cover his/her operating costs and to realize a reasonable profit. Failure to do so will force the contractor into one of the following actions: to reduce his/her operating capacity, to liquidate the business, or to declare bankruptcy.
+  Both decision are very important to every contractor. The importance of such decisions stems from the fact that the success or failure of a contractor's business lies in the outcomes derived from those decisions. Both decisions are considered complex due to the two following elements:
+1. The consequences ofeach alternative are uncertain (this uncertainty rules out any guarantee that the best outcome is obtained), and
+2. The large number of factors having considerable effect on both decisions (Ahmad and Minkarah, 1988).
+  The complexity associated with these two decisions suggests the use of a modelling technique to develop representative models that will aid contractors in making a proper choice. The development of the model entails as a prerequisite the identification of the factors affecting such decisions. This study is an attempt to identify the factors affecting the bidding and markup size decisions.	
+Objectives of the study
+The main objectives of this research are:
+1. To identify the factors influencing a contractor's decision to bid for a project;
+2. To identify the factors influencing a contractor's decision to set the markup size for pricing a job;
+3. To evaluate the importance ofthe identified factors to the decision makers.
+Previous studies
+The contractor's decision to bid has received very little attention from researchers. Ahmad and Minkarah (1988) presented the factors affecting the bidding decision of top* US contractors. Their attempt resulted in the identification of 31 factors affecting the bid decision. Skitmore (1989) presented the application aspects of statistical models in tendering decisions. Akintoye and Skitmore (1990) analysed the UK tender prices for the purpose of finding an appropriate explan-
+
+*The majority of the participating contractors were taken from the 1986 list, top-40() general contractor firms of the USA, published in the Engineering News Record (ENR).
+A. 
+ation for their movement. They indicated that market conditions (supply and demands) have a major effect on tender price movement.
+  In contrast, the markup size decision has been addressed by many researchers. As a result, many models have been developed and recommended for use in the construction industry to determine the proper markup size that will increase the chances of winning a bid. Among these are the models developed by Shaffer (1965), Casey and Shaffer (1964), Gates (1967), Broemser (1968), Morin and Clough (1969), Wade and Harris (1976), Carr (1982), Benjamin (1969), and Neufville et al. (1977). The current mathematical models were developed on the basis of the pioneering work of Friedman (1956). While the current models share a common objective (maximizing expected profit), they differ in their assessment of the winning density functions, the randomness of the cost estimate, the determination of the joint probability of beating more than one competitor, and the inference of the number of competitors that may enter the competitive bidding.
+  Recently, King and Mercer (1990) tested Friedman's model for finding the optimum markup in different situations such as different distributions of cost estimates. They found that the reliability of the model is sound in some instances and questionable in others.
+  Despite the availability of mathematical models, their utilization is not widely spread among construction contractors. Ahmad and Minkarah (1988) found that fewer than 1 1 0 0 of the top American contractors use some form of mathematical models for determining the proper markup size. Gates (1983) believed that these models were relevant for academia but not for the practitioners. Therefore, he has abandoned all current mathematical strategic models, including his own, and introduced a non-mathematical approach, based on the Delphi technique, designated as the Expert Subjective Pragmatic Estimate (ESPE).
+  Ahmad and Minkarah (1988) addressed the competitive system qualitatively. Their study attempted to determine the factors affecting a contractor's bidding strategy. They investigated the level of importance of each factor on the contractor's decision to bid and on the size of the markup.
+  The failure of the mathematical models is attributable to the following factors:
+l. The assumptions that those models are based on oversimplify the situation (Benjamin and Meador, 1979) so that they yield outcomes that give no significant value to the practitioners. The followings are examples of factors underlie the existing models :
+(a) competitors will bid as they have done in the past;
+(b) competitors bid to maximize total expected profit;
+(c) the ratio of actual cost to estimated cost is unity.
+2. The models are incomplete and model only a tiny part of the situation (Bell, 1969).
+3. The controversy between Friedman's model and Gates' model has directed the research effort into resolving this question.
+
+4. The models fall short in representing reality in that they consider only the number of bidders as the prevailing factor.
+5. They require excessive use of historical data. Skitmore (1989) indicated that the optimal solution to a model (designated 'Small World') is not necessarily the optimal solution to the real situation.
+Research methodology
+This section presents all the steps that were performed to achieve the objectives set for this study. The procedures include all information relevant to the required data, where and how the data was obtained and the method whereby a sample was selected.
+Data required
+The study objectives necessitated the identification of the various factors that influence the bid/no bid and the markup size decisions. A review of the American and British literature was conducted for the purpose of studying the available bidding models. The literature review resulted in the identification of 55 potential
+factors affecting a contractor's bidding and markup size decisions.
+Data collection
+The necessary data were collected primarily from the top management of the 300 top UK contractors. The method used for the collection of the information was a written questionnaire. A questionnaire that was originally prepared for a study carried out at the University of Cincinnati by Ahmad and Minkarah (1988) established the foundation for the development of this questionnaire. In the summer of 1990, the 1988 questionnaire was modified to suit the bidding environment in the UK. The writer discussed the revised questionnaire 
+
+with several British experts* on the subject of competi-
+  (I) Dr P.R. Lansley, Department of Construction Management, University of Reading; (2) Professor R. Flanagan, Department Of Construction Management, University Of Reading; and (3) Mr Noel Unsworth, Chief Executive, The Builders' Conference.
+tive bidding to obtain an objective evaluation of the integrity, relevancy and practicality of its contents. As a result, the questionnaire was modified further and factors were added or removed depending on which were deemed appropriate and applicable for the British construction industry.
+  The questionnaire is divided into three parts. The first part contains questions about the firm — its type, its capacity, and other descriptive data. The second part of the questionnaire contains questions about the importance level of 55 potential factors affecting the decision on the size of the markup to be assigned. In this part, a scale from 1—7 is used to measure the level of effect of each factor cn the decisions, where '1' means a low level of effect and '7' means a high effect. The respondents were asked to check a number on the scale which reflected their assessment regarding the effect each of these different factors. The last part of the questionnaire contains questions that reflect the firm's policy regarding bidding decisions.
+  In August 1990, the Department of Construction Management at the University of Reading mailed the questionnaire to 300 top contractors from all areas of the UK. The names and the addresses of the surveyed contractors were extracted randomly from the Independent Community Consultants (Hampton) ICC Publications Search Utility (Version 2.00, June 1990) database. The database lists the names of the 500 top UK construction contractors with their addresses, annual turnovers, and financial ratios.
+The results
+Eighty-five top contractors responded to the questionnaire. The response rate was 28.3% (85 out of 300). This section is devoted to the presentation of the description of the characteristics of the participating contractors and the findings relevant to the bid/no bid and markup size decisions.
+Characteristics of UK top contractors
+A. The collected data were obtained from experienced and successful construction contractors in the UK. The results indicate that the contractors who participated in the study have been in the construction business for an average period of 60.87 years (with a standard deviation (S.D.) of 54.76 years) and generating an annual average sales volume of 07.93 million (with a S.D. of El 63.12 million). It is believed that obtaining the study required data from such contractors is one of the strengths of this study. The data obtained, especially those relevant to the evaluation of the importance of the 55 factors affecting the two decisions, are considered of high quality. This fact contributes positively to the reliability of the findings of the study.
+  The average job size that is constructed by a participating top contractor, expressed in millions of pounds sterling, is shown in Table 1. About 56 0 0 of the top contractors obtain work with an average size between L5.0 million and L 15.0 million. The top contractors indicated that they obtain work through both competitive bidding and negotiation. Table 2 shows the percentage of work obtained through both methods.
+Table 1 Average job size
+Contract sizeNumber of contractorsUnder El million million — under ß5 million
+{5 million — under CIO million
+CIO million — under L 15 million
+L 15 million — under L20 million Over L2() million
+Number22
+48
+10
+3
+2
+85Table 2 Amount Of work obtained through competitive bidding and negotiation
+
+Work obtained (percentage Method of obtaining work of total work turnover) Competitive Negotiation No. of No. of
+	contractors	contractors
+
+
+Under 25 1%, 42 12 25%, — under 50% 8 16
+500 0 — under 75%	17	34
+750/ -100%	17	22
+
+Half of the top contractors obtain less than 25 0 0 of their work through competitive bidding. On the other hand, about 40% of the top contractors obtain between
+50—75% of their work through negotiation.
+  The top contractors indicated that they subcontract the majority of the work to domestic or nominated subcontractors. Table 3 shows the percentage of work su bcontracted on an average project. Subcontracting the majority of the work to others may arise especially when a contractor tends to undertake a diverse range of projects. The contractor type profile is shown in Table 4. The results indicate that about 20 0 0 of the top contractors are involved in building type construction and about 7 0/0 in either housing or engineering type construction. No top contractor is involved in industrial type construction alone. The rest of the top contractors are combinations of these four types. It is evident that
+Table 3 Size of work subcontracted on an average project
+
+Housing1.2Building (non-housing: offices, educational, etc . )
+Industrial (power plants, refineries, etc • O18.8
+
+Engineering (highways, harbours, airports, etc . )5.9Housing and buildings28.8Housing, building and industrial9.4Housing, building and engineering3.5Housing, building, engineering, and industrial10.6
+Building and industrial4.7Building and engineering4.7Building, industrial and engineering9.4Table 4 Types of contractors
+TypePercentage of contractors
+the majority of the top contractors do not specialize in a single type of construction such as building or industrial work.
+  The results reveal that a top contractor sometimes requests a performance bond from subcontractors. The relaxation of this bond requirement indicates that top contractors have great confidence in subcontractors. Table 5 shows the percentage of work for which top
+contractors require a performance bond.
+Table 5 Frequency of performance bond requirement
+
+Factors affecting bid/no bid and markup size decisions
+The participating top contractors have provided nu-
+merical scoring expressing their opinions on the level of effect of each factor on bidding decisions. For this type of data, the mean and standard deviation may not be
+suitable statistics for determining the overall ranking for the factors. Instead, the weighted average for each factor was calculated and then it was divided by the upper scale of the measurement resulting in what is referred to as an importance index. Therefore, the level of importance of the factors for both decisions were calculated using the following formula:
+	Importance 100/7	(1)
+where a = constant expressing the weighting given to each response. The weighting ranges from I to 7 where I is the least important and 7 is the most important; X=n/N; n=the frequency of the responses; N = total number of responses.
+  In addition, the percentage of respondents scoring 3 or less, 4 (the midpoint), and 5 or higher on the developed scale was calculated for each of the factors affecting both decisions. The interval scale was transferred into a nominal scale. A score of 3 or lower represents a weak effect on the decision, a score of 4 represents a moderate effect, and a score of 5 or more represents a strong effect on the decision. The calculated
+importance indexes and the percentage of respondents scoring weak, moderate or strong effects for all 55 factors affecting the bid/no bid and the markup size decisions are shown in Tables 6 and 7 respectively. The factors are ranked according to their importance indexes.
+  Examining the importance indexes for both decisions, we can see that some factors are considered heavily in both decisions, while other factors are considered heavily in one decision but not in another. For example, project size, owner/promoter/client identity, contract conditions, type of contract, project cash flow, current work load, past profit in similar projects and need for work are very important for bid/no bid and markup size decisions. Factors such as the tendering method,
+
+tendering duration, number of competitors tendering, experience in such projects and availability of qualified staff are considered more important for the bid/no bid decision than for the markup size decision. On the other hand, factors such as degree of hazard, completeness of the documents, anticipated value of liquidated damages and risk involved in the investment are considered more important for the markup size decision than the bid/no bid decision.
+  Despite the complexity of both decisions, the participating top contractors indicated that they rely on the mental model in making such decisions. Experience, judgement and perception are the gradients of the mental model. The results reveal that only 17.6 0 0 of the top contractors use some kind of mathematical/statistical model. The majority of the top contractors (96.5%) report that they are comfortable about the way they
+make tender decisions at present. Interestingly, two of
+the contractors who use mathematical/ statistical models report dissatisfaction with the way they make tender
+decisions.
+  The top contractors were asked about the factors that make them feel that 'there is a good chance of winning this project'. The results are listed in Table 8. It is evident that it is not the overall economy that gives them the confidence in winning the project but their gained experience and strength in the industry. The contractors were also asked about the factors that make them think 'I must get this work'. Need for work and location of the project have the greatest influence on the perceived desirability of a project. Table 9 shows the factors that influence top contractors' perceived desirability of projects.
+Conclusions
+Most of the top contractors depend on subjective assessment in making bid/no bid and markup size decisions. They evaluate many influencing factors whenever they make either decision. Some factors are considered heavily in both decisions while some other factors are considered heavily in one decision but not the other.
+  Need for work, number of competitors tendering and experience in such projects are identified as the three major factors that affect a contractor's decision to bid a project. On the other hand, degree of difficulty, risk involved owing to the nature of the work, and current work load are the highest ranked factors that affect markup size decision. This finding supports the finding of Ahmad and Minkarah (1988) in negating the assumptions of competitiveness and profitability that are the basis of current bidding models. A contractor's confidence in winning a project is dependent on his experience and strength in the industry but not on the economy. Need for work and project location are the driving factors that increase a contractor's motivation to win a project.
+  It is hoped that the findings of this study will provide a foundation upon which researchers can develop a realistic bidding model.
+Acknowledgements
+The author thanks the British Council in Riyadh, Saudi Arabia for funding the study. He also gives special
+
+A.
+6 bid/no bid decision
+
+Factors Percentage of Number of Importance Rank respondents scoring respondents index
+Need 	91.70	7.10	1.20	84	86.39	1
+	Number of competitors tendering	82.10	11.90	6.00	84	83.50	2
+Experience in such projects	85.7010.703.608483.163
+Current work load	83.409.507.108483.16Owner/promoter client identity	82.409.408.208578.825Contract conditions	75.0017.907.108478.576Project type	77.40	11.9010.708478.57Past profit in similar projects	73.8010.7015.508476.368Project size	72.9018.808.208575.469Tendering method (selective, open)	68.6016.9014.508375.1710Risk involved owing to the nature of the work 69.1013.1017.908474.8311Project location71.8018.809.408574.1212Type of contract64.7020.7014.60	8271.6013Availability of qualified staff60.8020.2019.008471.60Rate of return69.5014.6015.908271.4315Project cash flow	60.2016.9022.9083	69.1916Tendering duration68.6013.3018.108369.19Availability of other projects57.2021.4021.408468.8818Availability of labour56.4021.4020.208468.7119Completeness of the documents61.4019.3019.3083	68.6720Risk involved in the investment54.2021.7024.108368.3321Quality Of available labour56.0023.8020.208468.2022Designer/ architect/ engineer59.0014.5026.508367.1323Anticipated value of liquidated damages50.6028.9020.508366.6124Type and number of supervisory persons available52.90	22.4024.708565.2125Competitiveness of competitors51.2023.8025.008464.4026Contractor involvement in the design phase47.10	20.0032.908563.5327Confidence in company work force48.2026.5025.308362.9928Degree of difficulty45.20	25.0029.808461.7329Company strength in the industry44.4027.2028.408159.9330Reliability of company cost estimate51.3016.3035.00	8059.7931Design quality45.7020.5033.708359.0432Risk in fluctuation in labour prices41.7025.0033.308458.8433Degree of hazard (safety)36.6028.0035.40	8258.5434Availability of required cash41.70	14.3044.008458.5035Risk in fluctuation in material prices48.1029.8032.10	57.6536Labour environment (union/non-union)39.5025.0034.508457.65Identity of competitors36.1021.7042.208357.4938Owner's special requirements36.1025.3038.608356.6339General (office) overhead29.9028.8041.308054.0140Public exposure29.3028.0042.7082Project start time28.2024.7047.10	8552.7742
+Portion subcontracted to nominated subcontractors29.7027.4042.908451.8143Project duration31.8024.7043.508551.4344Availability of equipment32.2021.4046.408451.1945Type and number of supervisory persons28.9024.7049.408550.9246	54.01	41
+requiredJob related contingency23.9031.6044.707650.3847Portion subcontracted to domestic subcontractors23.5035.5041.208549.5848Qualification requirements		28.0024.4047.608249.3049Policy in production cost savings20.8028.0051.208247.5050Policy in economic use of building resources19.6028.0052.408246.8651Bond requirements20.2022.6057.108443.8852Government regulations8.4044.0047.608443.7153Insurance premium6.0022.9071.108336.6654Tax liabilities 6.00 20.50 73.50 83 33.73 55 *Equal Importance indexes; ranked in accordance with the percentage of respondents scoring 5 or higher.
+7 the markup size decision
+Percentage of respondents scoring
+Degree of difficulty	83.10	13.30	3.60	83	81.76	1
+
+Risk involved owing to the _nature of the work 70.70	17.10	12.20	8277.18	2
+
+16.0013.608176.37313.8021.308073.57417.5013.808073.37525.00	12.508071.07620.5016.908370.57717.30	22.207869.14825.0020.008068.75926.5018.108368.331022.2022.208168.071124.1020.307967.811222.5025.008176.371324.4022.008266.551426.8020.708266.5524.7022.208166.491618.8026.308066.071722.0025.608265.1630.5020.708265.161929.6023.508264.552028.0024.408264.1121Current work load	70.40 Need for work	64.90
+Contract conditions	68.70
+Anticipated value of liquidated damages 62.50 Owner/promoter client identity 62.60 Past profit in similar projects 60.50
+Completeness Of the documents	55.00
+Project size	55.40
+Risk involved in the investment	55.60
+Type of contract	55.60
+Rate of return	52.50
+Contractor involvement in the design phase	53.60
+Project type	52.50
+Experience in such projects	53.10
+Project cash flow	54.90
+Risk in fluctuation in labour prices	52.40
+Quality of available labour	48.80 Availability of labour	47.90
+37.8019.5082	63.412226.9026.9080	63.3723Project location42.70Reliability of company cost estimate46.20Risk in fluctuation in material prices	47.60
+26.8028.008263.072421.8030.807861.902527.5030.008061.432623.8030.008060.892728.4029.608160.322825.9030.908159.612928.8033.808059.463034.2029.107959.313128.8033.808159.113225.9035.8078	58.203330.1036.108356.453431.3036.307855.713525.9039.508067.683625.6038.507854.763717.7046.807854.643822.2043.20	7953.793931.2032.908153.434027.8040.50	7953.164132.1041.007753.114237.8019.508352.504318.1049.408352.324431.9044.407251.394533.3046.208050.734626.6043.007950.0947	33.3044.907849.454826.8052.408247.2133.3050.008155.385032.1055.107845.055138.8052.50	8044.115221.5068.407937.615323.8065.008037.325422.5070.008035.0055Availability of other projects	45.20 Degree of hazard (safety)	47.40
+Designer/ architect/ engineer	42.50
+Design quality	46.20
+Number of competitors tendering 42.00 Competitiveness Of competitors 43.20 Owner's. special requirements 37.40 Tendering method (selective, open) 36.70 Confidence in company work force 37.40 Availability of qualified staff 38.70
+Project duration	33.80
+Availability of required cash 32.40 Type and number of supervisory persons 34.60 available
+Labour environment (union/non-union) 35.90 Portion subcontracted to nominated 35.50 subcontractor
+Portion subcontracted to domestic	34.60 subcontractors
+Company strength in the industry	25.90
+Identity Of competitors 31.70 General (office) overhead 26.90
+Project start time	42.70 Type and number of supervisory persons	32.50 required
+Job related contingency	23.70
+Public exposure	20.50 Tendering duration	30.40
+Qualifieation requirements 21.80 Availability of equipment 20.80
+Policy in production cost savings	16.70
+Policy in economic use of building resources 12.80
+Government regulations 8.70 Insurance premium	10.10 Bond requirements	11.20
+Tax liabilities	7.50
+
+
+*Equal Importance indexes; ranked in accordance with the percentage of respondents scoring 5 or higher.
+A. 
+
+FactorsPercentage of respondentsOwner
+Competitors
+Type of job
+Strength in the industry
+Experience
+Overall economy
+Others54.20
+66.30
+91.60
+48.20
+83.10
+16.90
+8.408	the chance of winning a project	Carr, I. (1983) Impact of number of bidders on competition, ASCE Journal of the Construction Division, 109 (1), March, 61-73.
+Casey, B. and Shaffer, L. (1964) An evaluation of some competitive bid strategies for contractors, Department Of Civil Engineering, University of Illinois.
+Friedman, L. (1956) A competitive bidding strategy, Oper-
+
+
+Table 9 Factors that make contractors feel desperate to obtain a job
+
+FactorsPercentage of respondents
+Need of work90.20Strength in the industry18.30Size of job34.10Location of the project56.10General office overhead requirement 42.70
+
+thanks to the Construction Management Department at the University of Reading for sponsoring him during the summer of 1990. He also thanks all the British construction contractors who participated in the study.
+References	
+Ahmad, I. and Minkarah, I. (1988) Questionnaire survey on bidding in construction, ASCE Journal of Management in Engineering Divisions, 4 (3), Julys 229—43.
+Akintolye, A.S. and Skitmore, R.NI. (1990) Analysis of UK Tender Price Level, AACE Transactions, pp k.7.I—k.7.7.
+Bell, L.B. (1969) A system for competitive bidding, Journal of Systems Management, 20, March, 26—9.
+Benjamin, N. (1969) Competitive bidding for building construction contracts. Technical Report No. 106, Department of Civil Engineering, Stanford University, California.
+Benjamin, N. and Meador, R. ( 1979) Comparison ofFriedman and Gates competitive bidding models, A SCEJournal of the Construction Division, 105 (COI), March, 25—40.
+Broemser, G.M. (1968) Competitive bidding in the construction industry, PhD. dissertation, Stanford University,
+California.
+Carr, I. (1982) General bidding model, ASCE Journal of the Construction Division, 108 (C04), December, 639—50.
+ations Research, 4, June 4, 104—12.
+Gates, M. (1967) Bidding strategies and probabilities, ASCE Journal of the Construction Division, 93 (COI), March, 75-107.
+Gates, M. (1983) A bidding strategy based on ESPEs Cost Engineering, 25 (6), December, 27—35.
+King, M. and Mercer, A. (1990) Optimum markup when bidding with uncertain costs, European Journal of Operational Research, 47 (3), August 15, 348—63.
+Morin, T. and Clough, R. (1969) OPBID: Competitive bidding strategy model, ASCE Journal of the Construction Division, 95 (COD, July, 85-105.
+Neufville, R. , Hani, E. and Lesage, Y. (1977) Bidding models : Effect of risk aversion, ASCE Journal of the Construction Division, 103 (COI), March, 57-70.
+Patterns of competitive tendering, Grant No. GR/C/33451, Department of Construction Management, University of Reading.
+Pim, J.C. (1974) Competitive tendering and bidding strategy. Part 1, National Builder, 55, November, 543—45.
+Pim, J. C. ( 1975a) Competitive tendering and bidding strategy. Part 2: New strategies for old, National Builder, 56, March, 94—5.
+Pim, J.C. (1975b) Competitive tendering and bidding strategy. Part 3: Balancing profit and risks, National Builder, 55, October, 361—5.
+Pim, J. C. ( 1976a) Competitive tendering and bidding strategy. Part 4: Deal with a chance on scientific basis, National Builder, 57, March, 68-70.
+Pim, J.C. (1976b) Competitive tendering and bidding strategy. Part 4: Deal with a chance on scientific basis (Concluded) National Builder, 57, April, 109—11.
+Shaffer, L. (1965) Competitive strategy models for the construction industry, Paper presented at the Ninth
+National Meeting of the American Association of Cost Engineers, Los Angeles, July, 251—71.
+Skitmore, R.M. (1989) Contracting bidding in Construction, Longman Scientific and Technical, London.
+Skitmore, R.Nå. (1990) The construction contract bidder homogeneity assumption: An empirical test, Construction Management and Economics, 9 (5), September, 403—29.
+Wade, R. and Harris, R. (1976) LOMARK: A bidding strategy, ASCE Journal of the Construction Division, 102 (COD, March, 197-211.
+Whittaker, J. (1981) Implementing a bidding model, Journal of the Operational Research Society, 32 (1), 11—17.
+	112	Ali 	Shash
+
+Factors considered in tendering decisions by top UK contractors	113
+
+
+
+116	Ali 	Shash
+	Table 	Factors affecting 
+
+Factors considered in tendering decisions by top UK contractors	117
+Table 	Factors affecting 
+
+116	Ali 	Shash
+	Table 	Factors affecting 
+

@@ -1,0 +1,434 @@
+﻿International Journal of Project Management Vol. 14, No. l, pp. 37—45, 1996
+Pergamon	Copyright 01996 Elsevier Science Ltd
+Printed in Great Britain. All rights reserved
+0263-7863/96 $15.00 + 0.00
+
+Construction delays in a fast-growing economy: comparing Thailand with other economies
+Stephen O Ogunlana and Krit Promkuntong
+School of Civil Engineering, Asian Institute of Technology, GPO Box 2754, Bangkok 10501, Thailand
+Vithool Jearkjirm
+Preecha Nanakij Co. Ltd. , 5/28 Soi Santi Townhouse, Witthayu Road, Bangkok 10330, Thailand
+Construction delays impact the time and cost of projects. A survey of the delays experienced in highrise building construction projects in Bangkok, Thailand, was undertaken and the result compared with other studies of delays and overruns around the world to determine whether there are special problems that generate delays for construction in developing economies. Resource supply problems were by far the most acute problems of the Thai construction industry in the boom years. The results of the study support the view that construction industry problems in developing economies can be nested in three layers: (a) problems of shortages or inadequacies in industry infrastructure (mainly supply of resources); (b) problems caused by clients and consultants and (c) problems caused by contractor incompetence/inadequacies. Conclusions recommend the need for focussed effort by economy managers and construction industry associations to provide the infrastructure needed for efficient project management. This study should be of interest to emerging economies in Europe and Indochina.
+Keywords: construction delays, growing economy, developing economy, construction resources, construction manager
+  
+The Thai construction industry enjoyed unprecedented growth in the 5-year period 1988—1992 (Figure l). Condominiums, hotels, shopping centres, factories and many other building and civil engineering projects stretched the construction industry to the very limit. The construction boom derived from a combination of many factors such as the relative political stability in the country, compared to many neighbouring countries, the boom in tourism and external investments, mainly from Japan and other 'Asian tigers' (Korea, Taiwan, Hong Kong and Singapore).
+  Unfortunately, since the boom in construction was unanticipated, the industry did not prepare adequately for the concomitant project management problems. Many projects experienced delays and thereby exceeded initial time and cost estimates. This paper reports on a study of construction delays experienced during the period, especially in 1992 when the boom was receding. The major sources of delays on highrise building construction projects are identified and a comparison with other studies is made to determine if there are special project management problems in developing economies.
+Survey of 12 projects
+Data collection procedure
+Letters (36 in all) of request for permission to visit sites and gather data were mailed to 17 contractors, 18 consultants and design firms and one project owner. Eight contractors and six consultants gave approval of which only 12 projects were selected for visits. Interviews were conducted on site using structured and unstructured interview schedules. A total of 30 persons, representing 2.5 persons per project, were interviewed.
+Unstructured interviews. Interviewees were allowed to talk freely on the reasons for delays on their projects and to name the parties involved. The objective was to gain information for the focussed part of the interviews.
+Focussed interviews. Interviewees were asked to trace the sources of some specific delays mentioned with a view to determining the parties involved.
+Study limitations
+Although attempts were made to interview all parties
+
+	1985	1986	1987	1988	1989	1990	1991
+                         Year Figure I
+involved with projects, some parties could not be reached. Parties that could be reached on site were most willing to cooperate. Subcontractors could not be interviewed as their technical personnel on site felt they lacked the authority to make comments. As such, only construction managers and major contractors on the 12 sites were adequately covered. It should be stated that assigning causes to problems is diffcult. This study relies on the opinion of the interviewees in determining the causes of problems; however the problems were also critically discussed on site.
+  Also, the survey was made on building projects located in Bangkok city, therefore it would seem inappropriate to generalise for the whole of Thailand on the basis of the data. However, a large proportion of the highrise building construction works in Thailand (over 80%) are located in Bangkok.
+The projects surveyed
+General information on the projects surveyed is displayed in Table 1 while the sources of delays cited by the respondents
+Table 1 General data on projects surveyed
+have been grouped into Table 2. The 12 highrise projects are residential (n = 3), omce (n = 4), hotel (n = 1), hospital (n = 2) and academic buildings (n = 2). Contract prices ranged from 156—1800 million Thai baht (El .00 B45.00) while the building heights ranged from 9 to 52 storeys.
+The contracts and parties
+Seven of the projects surveyed used the services of construction management firms. In all the seven projects, the construction manager (CM) was hired only at the procurement stage after design had been fully or substantially completed. This meant that the CM made no contribution to the design—an approach that has been criticised by Malmgren l . CM were hired on the seven contracts to manage the construction process and to coordinate between multiple prime contractors, designers and owners. The design stage is mainly organised by the architect. Structural and other systems engineers work under the coordination of the architect but have contracts direct with the client.
+  For construction purposes, prime contracts are usually let for piling works, substructure, civil and architectural works, electrical systems, air conditioning systems, sanitary and fire protection systems, elevator and escalator systems and other specialist systems. Although there is evidence that the use of quantity surveying services in the Thai industry is on the increase, only one project used a quantity surveyor (QS).
+  Five projects used main contractors and also nominated and domestic subcontractors. Two of the five projects used independent inspection firms during construction while the other three used the services of the architect for construction inspection. The principal agent of the design/inspection firm on site is usually given the title 'construction manager'
+  The Federation Internationale Des Ingenieurs-Couneils (fiDIC) form of contract is mainly used with modifications to meet local laws and project requirements.
+Owners
+General information12345   Project nos. 6	891011	12Building type
+Contract price (million Baht)
+Total floor area (IT)
+Total no. of floors
+No. of floors underground
+Structural system
+Start date
+Scheduled finish Project time (months)
+Time spent (months)
+Delay (months)
+Delay as % of time spent
+Construction management
+ContractorResid'al
+200
+25.698
+25
+RC
+IO/90
+3/92
+15
+13
+3
+24
+CM
+MPResid 'al
+400
+53.0
+18
+RC
+5/92
+18
+14
+7
+50Resid ' al
+200
+26 12
+RC
+3/92
+16
+14
+4
+29
+MCOffce
+100.0
+34
+3
+RC
+10/90 1/94
+39
+13
+NS
+CM
+MPOffce
+1800
+140.0
+52
+2
+RC
+10/93 32
+I l
+2
+18
+CM
+MPOffce
+800
+60.0
+38
+RC
+6/89
+41
+31
+1.5
+5
+CM
+MPOffce/ commerce
+1400
+100.0
+50
+RC
+10/89
+6/92
+32
+27
+3
+I l
+CM
+MPHotel
+286
+38.0 19
+3
+RC
+10/90
+10/92 24 15 2
+13
+CM
+MPHospital
+263
+10
+1
+RC
+24
+14
+6
+43
+MCHospital
+400
+40.0
+15
+0
+RC
+7/90
+3/92 20 18
+1
+6
+CM
+MPAcademic 
+206
+25.0 9
+RC
+10/92 20 11
+10
+MCAcademic
+156
+16.0
+RC
+10/92 18
+9
+2
+22
+MCRC, Reinforced concrete; NS, not specified; CM, construction management; D/I, design and inspection; MP, multiple prime contractors; MC, main contractor.Change orders are by far the most frequently cited cause of
+Table 2 Sources and causes of construction delays
+SourceReasons for delaysProjects affected
+No. % of totall . Owners
+2. Designers
+Inspector
+4. Contractors 
+5. Resources suppliers
+6. Others1. 1
+1.2
+2. 1
+2.2
+3.1
+3.2
+3.3
+3.4
+4. I
+4.2
+4.3
+4.4
+4.5
+4.6
+4.7
+5. 1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+6.1
+6.2
+6.3Change orders
+Slow decision-making
+Incomplete drawings
+Slow response
+Deficiencies in organisation
+Deficiencies in coordination
+Uncompromising attitude
+Delays in work approval
+Materials management problems
+Deficiencies in organisation
+Coordination deficiencies
+Planning and scheduling problems
+Equipment allocation problems
+Financial diffculties
+Inadequacy of site inspection Shortage of construction materials
+Late delivery
+Price escalation
+Low quality of materials
+Shortage of site workers
+Shortage of technical personnel
+Insumcient numbers of equipment
+Frequent equipment breakdown
+Confined site
+Problems with neighbours
+Slow permits by Govt. agencies5
+4
+9
+8
+4
+3
+3
+2
+9
+9
+8
+7
+5
+4
+4
+Il
+6
+2
+2
+9
+6
+7
+3
+6
+3
+241.7
+33.3
+75.0
+66.7
+33.3
+25.0
+25.0
+16.7
+75.0
+75.0
+66.7
+58.3
+41.7
+33.3
+33.3
+91.7
+41.7
+16.7
+08.3
+75.0
+41.7
+58.3
+25.0
+41.7
+25.0
+16.7delay traceable to construction owners. Delays from owners may be of two types: unavoidable delays and deliberate policy. Change orders tend to occur more often in private projects because private owners are in the habit of changing plans in line with the changing economic climate, to meet customer demands or for marketing reasons. Owner requests for changes are usually made at short notice, thereby impacting contractor's plans. Some change orders can be large magnitude changes requiring extensive redesign.
+  Owners were also accused of being slow in decision making and in many instances contractors waste resources waiting for owners to decide on specialty contractors or designers, decorative materials and suppliers, and provision of adequate information on the changes required.
+  As many of the building projects surveyed were commercial ventures, for which owners use income from sales to finance construction, projects which fail to generate income as and when required may create cash flow diffculties for owners, thereby resulting in delayed payments to contractors. At the time of the survey, omce property projects and high/medium income residential property sectors of the real estate development sector in Bangkok were already getting saturated. However, monthly payment problems were not cited as a major cause of delay on any of the projects.
+  As the survey indicates, concern for market value and appearance are the major reasons why owners frequently make changes; unfortunately they do not seem to agree that contractors are entitled to additional compensation when changes impact schedules.
+Designers
+There is a general consensus that incomplete drawings are a major cause of delays (75 % of the projects). The majority of delays were traced to inconsistent detailing of drawings. Several instances of differences in dimension between plans and sections, incorrect dimensioning of walls and openings, inadequate detailing of diffcult locations and inconsistent detailing amongst systems were shown on the sites visited.
+  The boom in construction in the city resulted in many design omces being overloaded and understaffed. As such designs are often rushed to meet bid dates many contracts were bid with incomplete information requiring extensive changes during construction. Since drawings and specifications are made hurriedly, a large margin of error and omission resulted. The rush to complete designs also creates problems of coordination between the architectural, structural, mechanical, sanitary, electrical and other systems.
+  Two major reasons were cited as being responsible for design-originated delays. First, site personnel delegated by the design practices are often unqualified and may not have been involved in the original design. They are thus not able to effect changes without reference to design offces. The second is that shortage of design professionals causes design offces to give a higher priority to new projects than projects that are being constructed when allocating personnel. Therefore, projects under construction are allocated inexperienced personnel. The problem of personnel is further intensified by the general shortage of technical manpower in the industry.
+Construction management and inspection team
+Construction management as a service to the client has a short history in Thailand. Most of the local construction management firms now operating have been in business for less than 10 years2 . The CM has the job of ensuring that all works accord with the drawings and specifications in addition to coordinating the various activities of the parties in the project.
+  Contractors usually complain that the CM maintains an uncompromising attitude and rather than work in harmony to solve problems, is in the habit of finding faults. Contractors argue further that many construction management personnel are often incompetent, and in trying to protect themselves, are not able to distinguish between what is important and what is not. Lack of field experience of many construction management personnel make them unwilling to accept contractors' proposed changes even when the changes are reasonable.
+  Rather than plan inspection in accordance with the sequence of work, construction management staff and inspection teams are in the habit of waiting to be approached to approve works. Last minute disapprovals cause delays and waste contractors' resources. Contractors suggest that process rather than product inspection would be more beneficial to construction.
+  Contractors also complain that CMS serve to lengthen the line of communication between them and designers. Cases were cited in which CMS without adequate understanding of contractors' questions passed them on to designers anyway. The designer then had to seek clarification of the questions being asked by contractors through the CM. This lengthens communication time on projects.
+Contractors
+The blame for most project delays were laid on the contractor. This warrants the subdivision of this section.
+Finance. The contractors surveyed were not reported to have serious finance problems. It should be noted that most site interviews were conducted with contractors' staff who were not willing to answer finance related questions. From the nature of the problems identified, it may be argued that if contractors have sumcient finance, they can afford better quality personnel and equipment and bargain more with suppliers.
+Planning and scheduling. On all the sites surveyed, contractors used the bar chart for planning and monitoring. Although short term plans were shown to the researchers, some of the plans were rather decorative and lacking in suffcient detail as the personnel lacked the experience to prepare good plans. Regular updating of plans was not done. Contractors argued that since clients were in the habit of changing their minds very often, detailed short term planning was unnecessary.
+Site organization. It is doubtful whether contractors spend much time in thinking about site organization on some of the projects. Organisation charts, if and when prepared, seem to be produced to satisfy clients as many of the positions shown were not filled and some indicated functions were totally omitted on sites. A major problem, not confined to contractors, is the lack of experienced technical staff. Some contractors' personnel therefore lacked the experience needed to foresee problems before they arose.
+Materials management. Materials purchases for most of the sites surveyed were made by the head offce though few sites could purchase materials directly in emergencies. Blame for materials shortages on sites were placed on unreliable supply from materials suppliers occasioned by the general shortage in the industry, although there were specific instances in which poor communication between sites and head omces and purchasing planning and coordination could be cited.
+Equipment management. Equipment related problems did not feature prominently on the sites. However three sites had problems of insuffcient numbers or improper types of equipment and breakdowns. Equipment supply in the Thai construction industry was generally better than other resources as there were many foreign and local equipment sales and hire companies.
+Coordination. The problem of coordination was frequently cited in this study. The introduction of the CM means that most contractors contract directly with the client. As such, the work of coordination was often overlooked. This is a serious failing resulting from the novelty of the CM as a project delivery system in Thailand.
+  Five of the sites had main or building contractors. A problem often cited is the neglect of the needs of other contractors by the main contractor. Systems contractors complain of lack of access to sections of the works on time as main contractors give priority to their own needs.
+Construction resources suppliers
+During the 1988—92 boom period, supply of major construction materials was less than demand. Continued expansion in the construction sector of the economy created supply problems which drove up the prices of materials. Local manufacturers could not expand production facilities fast enough to meet demand. Therefore, materials suppliers could afford to charge high prices for poor services.
+As can be seen from the structural system used (Table 1 ), cement is used extensively in the Thai construction industry both for in situ construction and for precasting. Cement shortages also meant that ready mixed concrete was also in short supply. The research encountered a project in which 700 m3 of concrete were required daily but the supplier could only guarantee 450 m3 per week. The construction companies had a low level of bargaining power with the suppliers during the boom period because of the shortages. The price of cement doubled within the period 1988—92 (from B68—120 per bag). Cement producing companies expanded their production facilities in a bid to reduce shortages.
+  Shortage of other construction materials such as reinforcing steel was also experienced within the boom period. The government intervened from time to time to ease the shortages by giving temporary permission for the import of materials to supplement local production, but such interventions were often too late for many projects. Import restrictions on major construction materials is believed to be a major cause of shortages. Contractors also complained about the quality of imported materials, especially cement. Whenever import permits are granted to meet local demand, materials suppliers generally shop for the lowest priced sources outside the country with little regard for quality. The slower setting time of cement from a neighbouring country was cited as being responsible for delays on many projects. When given permission to import, materials suppliers shopped for the lowest priced sources to meet urgent needs, which affected the quality of the finished construction.
+  In periods of economic boom, materials are not usually the only resource in short supply. Qualified architects, engineers, contractors and skilled labour in general were in high demand in the boom period. The manpower shortage problem was felt at two levels: at the technical level and at the craft level. The shortage of workers is believed to be due to several factors. Demand increased greatly while supply from educational institutes and training centres was relatively constant. Prior to the boom era, many construction workers had migrated to the Middle Eastern countries, Japan, Singapore and Hong Kong where wages were much higher than in Thailand. Within Thailand, local contractors usually pay less than foreign contractors. As such, they are not as competitive as foreign contractors in attracting competent personnel.
+  Seasonality of employment in construction is another major problem. Many workers do not take construction work as all year round work3 . They will usually go back to their villages at harvest and planting times.
+  The scarcity of technical personnel is due to the inelasticity of supply. Local educational facilities are not suffcient to meet the demand in boom years. The few construction manpower who are qualified can easily get higher salaries by moving between jobs. In so doing they increase their salaries without a corresponding increase in technical ability. The average monthly salary of a newly graduated engineer increased from about B5000 in 1986 to over B15000 in 1992.
+  Due to the sudden increase in demand for construction services, the few engineers are often overworked. The researchers have encountered a construction firm supervising 19 projects with two qualified engineers. The Thai government will normally allow the employment of a few foreign engineers on Board of Investment promoted projects (projects of high priority to the economy), but the scope for hiring foreigners on other types of projects is very limited. However, some firms do hire foreign engineers who often have to work without proper permits. As such, the firms and the engineers are constantly working under the fear of raids by the Immigration Department.
+  Many construction companies rely on labour suppliers for their site workers either because they are unable to draw workers directly from villages or as a means of minimising labour management problems. This in turn creates coordination problems. When work is temporarily reduced on one site, the supplier transfers workers to other sites where they are needed. It usually is diffcult to get enough workers back on the first site when they are needed.
+  The manpower problems have created serious quality control diffculties for project management. It is generally accepted that the often low quality standards of the buildings is due to the quality and supply of construction manpower.
+  It is not entirely true that contractors do not have problems with equipment. The boom has driven up the prices of construction equipment and contractors who rely solely on plant-hire firms complain of the inadequacy and high hire prices of tower cranes, concrete pumps, pile driving equipment and excavators. Some equipment is said to be secondhand imports from Japan. As such, it frequently breaks down and thereby disrupts working schedules.
+  Even when equipment is owned by the contractor, the overextension of resources is a problem. A site manager complained of having to wait 3 months for tower cranes to be transferred from other sites.
+  Resource supply shortages (especially materials, workers and technical personnel) were by far the most acute problems of the Thai construction industry at the time of the study. These problems could have been alleviated through the importation of goods and services. However, government response to problems in the construction industry was rather slow, especially since the industry does not have a 'united voice' and there is no agency directly catering to its needs 4.
+Other sources
+Working in cities like Bangkok means having to contend with problems such as lack of storage space, accommodation, transportation of materials, restricted plant movements, etc. The problem of transportation is particularly prominent in Bangkok where peak hour travel is often less than 10 km per hour. Many contractors complain that obtaining readymix concrete is a major problem especially as site restrictions often do not permit mixing concrete on site.
+  Disputes with neighbours were also cited as being responsible for work stoppages. This often creates severe restrictions of working space for equipment such as tower cranes and sometimes imposes restrictions on working times. This is a common problem with projects in all urban centres and is not considered to be a special problem in the case of Bangkok.
+  It needs mentioning here that contractors should have taken site limitations into consideration when estimating and negotiating contract durations. This seems not to have been the case in some projects; thus casting doubt on the quality of project engineering done by the contractors.
+  Delays associated with government authorities centre around the time taken in granting permits. The authority in Bangkok gives separate permits for substructure and superstructure work. Therefore, construction projects can be delayed by permit problems.
+  It is also felt that new government restrictions, for example on building heights, caused developers to rush projects through construction and therefore created resource shortages.
+Statistical analysis
+The size of the data precludes any rigorous statistical analysis on delays. However tests show that there is a significant difference in the means of percentage delays on residential projects and offce projects. However, when other projects such as hospitals and academic projects are introduced into the analysis, there is no statistically significant difference. The difference between offce and residential projects is thought to be mainly due to commercial reasons. Residential projects depend more on income from sales during construction than offce projects. Clients are slower in making decisions when they are not making good sales on residential properties. Also, buyers of residential properties want to have a say about the final appearance of the properties.
+  Analyses based on total floor area, number of floors, project time and contract price did not yield any significant results. This is perhaps due to the very small sample size. However, coordination problems at the construction stage were cited only on projects that used construction management and consequently multiple prime contractors.
+Comparison with other studies
+Ogunlana and Olomolaiye5 remarked that contractors handling projects in a developing industry face three major problems (Figure 2). First they have to contend with problems imposed by the industry's infrastructure, e.g. training, plant availability, materials supply and communication. The second are problems of inaccurate information and frequent changes in instructions and failure to meet obligations on the part of clients and consultants. The third are problems imposed by their own shortcomings. This survey shows that their observations are true in the case of Thailand.
+  Since Olomolaiye and Ogunlana's study5 was conducted in an economy facing similar problems as in Thailand, i.e. an economy in a period of receding boom, a relevant question to ask is "are these the characteristics of construction projects in developing countries?" A detailed
+
+Figure 2 Problems causing delays in construction projects
+examination of studies of construction delays will help in answering the question.
+  To answer the question posed above, data from four previous studies were assembled for comparative analysis. Arditi et al. , (1985)6 , Sullivan and Harris, (1986) 7 , Okpala and Aniekwu, (1988) 8 and Dlakwa, (1990) 9 have studied construction delays in the UK and UK colonies, Turkey and Nigeria 8 9 . The data assembled from the studies are shown in Table 3. A close examination of the data from the five studies (including this survey) may provide evidence to justify or refute the assertions made by Ogunlana and Olomolaiye5 . Although the purpose and methods of the surveys differ, the results are useful for understanding the problems of project management in developing countries.
+The studies compared
+The studies used for comparison need to be put in proper perspective. Sullivan and Harris' study 7 is based on interviews and responses to questionnaire surveys conducted on construction clients (n = 3), consultants (n = 4) and top UK contractors (n = 13). Overseas contracts in the study are mainly projects in which British contractors were involved. Such contracts are mostly in former British colonies which
+Table 3 Factors responsible for delays
+Overseas	Turkey rel. wt	Nig. 2 mean	Thai. %
+Waiting for information51324775.0Change orders49403.5471241.7Ground problems/site inspection2193 .94521.333.3Bad weather
+Design complexity
+M & E Subcontractors
+Obstructions
+M & E plant procurement17
+14
+144
+14
+17
+9
+260.652Materials procurement Statutory undertakers13
+935
+99391 .7Industrial relations7465Civil subcontractors Claims/disputes7
+6655
+55Labourers/tradesmen shortages5176. 1 1651.275.0Construction plant shortages5121 .358.3Breakdowns
+Senior staff shortages5
+48
+81 .325.0Foremen shortages
+Company coordination
+Monthly payment diffculties
+Contractor's financial diffculties2.5
+0.310
+44.74
+
+923.9
+3.333.3Deficiencies in client's organisation6.3233.7Additional work Design delays5.39
+4.57791.866.7Planning and scheduling deficiencies Contract negotiations4.54
+482.358.3Unrealistic time imposed by client Diffculties in obtaining energy2.68
+2.46711 .9Disagreement on contract clauses Construction permits1.28
+0.77671.4Disagreements on specifications Transportation problems0.48
+0.31541 .425.0Poor contractor management Imported materials
+Mistakes during construction Approval of materials/samples
+Low bid
+Unexpected natural/social events8.2586
+73
+57
+462.5
+1.6
+1.975.0Escalation of materials prices Inspection and testing of work
+Others2.5590
+383.4
+1.3
+0.916.7
+UK and overseas = Sullivan and Harris , Turkey = Arditi et al.  Nig. 	 Okpala and Aniekwu ; Nig. 2 = Dlakwa and Culpin and Thai. = this survey.are mainly developing countries. The study by Arditi et al. 6 was based on responses to questionnaires received from public organizations (n = 44) and contractors (n = 34) in Ankara and Istanbul, Turkey. The study was made when the economy in Turkey was moving towards recession (personal communication with Arditi). Aniekwu and Okpala8 received responses to questionnaires from engineers (n — 58), architects (n = 52) and quantity surveyors (n = 46) in three cities in southwest Nigeria. They replicated a study of delays in construction projects in America made in 1970 10 Judging by the publications from the study, we concluded that it was undertaken when the Nigerian economy was moving towards recession. Dlakwa and Culpin's study9 is based on questionnaires returned by public agencies (n 94), contractors (n = 34) and consultants (n = 47) in Nigeria. At the time of the study, the Nigerian economy was in recession. It should be understood that while the studies of Sullivan and Harris7 and Arditi et al. 6 focussed on delays, Okpala and Aniekwu 8 and Dlakwa and Culpin9 concerned delays as well as cost and time overruns. In addition, the measures used in the studies are not the same but an effort has been made to find common denominators for the studies. Sullivan and Harris7 , Okpala and Aniekwu8 and
+
+this study used percentage responses while Arditi et al. 6 used average relative weight (max. = 20.0) and Dlakwa9 used mean score (max. = 4 0)
+Industry/environment infrastructure
+Using Figure 2 as the point of departure, problems such as shortage of resources (materials, energy, labour at all levels and construction plant), unavailability of subcontractors, transportation problems are industry/environment infrastructure problems which, if Ogunlana and Olomolaiye's assertion is correct should feature more in developing economies than developed countries5 .
+  Manpower shortages are cited in all the studies but they are rather acute in two developing economies (Thailand and Nigeria) while they are of moderate importance in another, Turkey, but have low importance in the UK. The ratings from the two surveys by Sullivan et al. 7 show that, with UK contractors, manpower problems are much worse in overseas contracts than in the UK at all levels.
+  Okpala and Aniekwu8 remarked that contractors in Nigeria use materials shortage as an excuse for poor performance. The ratings given to materials shortages problems in this study clearly show that this may not be entirely true. Materials shortages is the leading problem in Nigeria (the two studies), Turkey and Thailand. Materials transportation problems also have moderate importance in Nigeria and was cited by contractors in Thailand, especially in the provision of ready mix concrete. Material price escalation can be expected whenever demand greatly exceeds supply. Dependence on the importation of materials means that planning can be very diffcult, especially when the local seaports are inemcient7 . Since materials problems received low rating in the UK (13), it may be concluded that this is a special problem of developing economies.
+  It would seem from the foregoing discussion that problems related to the supply of resources have the potential to cause major delays to construction projects in developing countries. In periods of economic boom especially, developing economies are usually not well prepared to provide the infrastructure necessary to facilitate the completion of projects on time. Careful consideration needs to be given to the forecasting of resource needs in each country to assist the process of national development. This requires careful planning and a coordinated effort rather than crisis management in periods of acute shortages. Contractors, especially those coming from developed economies, need to be aware that approaches used to supply resources in developed countries may not necessarily work in developing economies.
+Client/contract/consultant related problems
+Financial diffculties of owners translate into delayed payments for monthly valuations. The clients concerned in the studies from Turkey and Nigeria are mainly public clients. This is the most important problem in the study by Dlakwa and Culpin9 and the second in importance in the studies by Arditi et al. 6 and Okpala and Aniekwu8 . This problem is however not mentioned in either the UK or Thailand. In Thailand, the majority of highrise construction projects are commercial ventures by private developers who are aware of the implications of delayed payments on profitability. As such, they are unlikely to default, whereas public projects in Turkey and Nigeria depend much on the availability of public funds which are budgeted annually in many cases.
+  Those who have worked on public construction projects in developing economies are well aware of the unreasonable demands often made on contractors to complete projects by target dates that are not achievable in view of the flow of funds to such projects, gross deficiencies in client organizations and the frequent additions to work. It is therefore not surprising to note that in Turkey and Nigeria the imposition of unreasonable schedules is cited on public projects.
+  Design delays, waiting for information, frequent change orders and inadequacy of site inspection seem to be common features of construction projects irrespective of where they are located. It would greatly benefit the construction process if the parties to the project spend more time on frontend planning and designing to fit existing conditions. These problems should have been reduced in construction projects in Thailand, which are known to involve professional CMS, but this is unfortunately not the case. This problem in Thailand can be attributed to the low quality of personnel and the novelty of construction management as a professional service. These problems are further accentuated by shortages of competent technical personnel in the construction industries of developing economies.
+Delays caused by the contractor
+This class of problem is by far the easiest to be solved by contractors. Poor contract management, planning and scheduling deficiencies, unreasonably low bidding and contractor's financial diffculties are problems which are under the direct control of the contractor. Evidence from Ogunlana and Olomolaiye5 and Wahab ll suggests that many contractors in developing economies are entrepreneurs who are in the business of making money at the expense of good management. They pay low wages 12 , submit very low bids9 and have very little, if any, ability to plan and coordinate
+5
+contracts .
+  These problems can often be solved by the provision of training in contract management and other functions. Unfortunately training facilities are either not available in many developing countries or contractors think they are too busy to use them when the economy is booming.
+  Financing can be expected to be a problem especially for contractors, when they are not paid regularly. Irregular payment on public projects is a major cause of liquidity problem for contractors5 . It seems however, that in spite of the constraints imposed by industry infrastructure, clients and consultants, contractors in the countries of Nigeria, Thailand and Turkey could still have improved their performance if they had paid careful attention to planning, monitoring and control of projects.
+A participatory approach to solving industry problems
+A major problem of the construction industry in Thailand has been the lack of synergy in providing solutions to the problems of the industry. In past years, a number of associations representing different groups have been established in the areas of construction management, architecture, contracting, general engineering, development, etc. This is a welcome development. However, to be effective, the efforts of these associations need to be coordinated with those of the government and other participants in the industry. In this regard, Ofori's3 suggestion of a comprehensive national programme and an industry support agency for the development of the construction industry is appropriate.
+  Every year there are forecasts from various sources regarding the growth rate of the economy. These forecasts can be a basis for predicting construction demand, which can also be disaggregated into specific resource requirements. Supply of resources from various sources within the industry can then be aggregated and the difference between demand and supply used to devise appropriate strategies for industry development. For example, if cement is predicted to be in short supply in the next year, it can be determined whether or not local manufacturers, with adequate support from the government and financial houses, can increase output to meet demand and on what dates. Any shortfall that cannot be met from local sources, will serve as a basis for sourcing good quality cement from outside the country. It is easy to use the same approach for personnel, equipment and other needs of the industry. However, it requires a dedicated and well coordinated effort from owner associations, designers, contractors, suppliers, finance houses, educational institutions, manufacturers and the government. To be effective, their efforts need to be integrated by a national agency.
+  Industry participants working together can advise the government on the best approach to ease resource needs in the industry. Singapore, for example, allows companies to import engineers on fixed-term contracts. The Thai industry will benefit from the importation of experienced technical and managerial personnel which will ensure that local new graduates can benefit from the transfer of practical project management skills while local associations concentrate on providing continuing professional education in planning, monitoring, control and other areas that are not well developed in the industry.
+Conclusion
+A study of the causes of delays in 12 highrise building construction projects in Bangkok, Thailand has been made. Resource supply problems were by far the most acute problems of the construction industry in the boom years. Projects suffered delays because materials, especially cement, were in short supply, technical personnel were overstretched, having to do so much so soon in their careers. Demands from construction owners for frequent changes also created design and coordination problems for field staff. The result was that many projects were poorly managed and exceeded time forecasts.
+  The results of the survey have also been compared with studies from other developing economies. Contractors working in developing economies work under special constraints which are not as serious in developed countries. This class of problem requires focussed strategy by a national agency working in concert with participants in the construction industry towards their solution.
+  Construction clients and consultants also create problems for contractors. Some of the problems are however not special problems limited to developing economies but are accentuated by the shortages of technical personnel and other infrastructures which are taken for granted in developed countries.
+  Contractor-caused delays are due mainly to the low technical and managerial skills of contractors in developing countries. This class of delay can be reduced through training.
+  Delays in construction projects can be reduced through the joint efforts of participants in the construction industry. Owner associations, designers, contractors, suppliers, finance houses, educational institutions, manufacturers and the government should cooperate to provide the infrastructure necessary for effcient project management. A means of achieving this is to formulate and execute a participatory programme for the development of the construction industry through a national agency dedicated to the industry. This should be followed by clients and consultants giving adequate support to contractors to execute effciently the projects for which they are contracted. On their part, national contractors need to put their houses in order and train themselves to become better suppliers of the services for which their countries rely on them.
+  Emerging economies in Eastern Europe and Indochina should take into consideration the problems experienced by other developing countries in planning their economies. This could reduce the incidence of delays in construction projects.
+References
+ Malmgren, C 'Professional construction management—experiences on some selected projects in Bangkok' MSc Thesis No. ST-94-6, Asian Institute of Technology, Bangkok, Thailand (1994)
+2 Padmasuta, S 'A study of construction contracting systems for large projects in Bangkok' AIT No. ST-92-16 (1992)
+3 Ogunlana, S O, Rost, U, Austiaco, L, Kusakabe, K and Kelkar, G
+'Thai women construction workers' Gender Studies Monograph 3, Asian Institute of Technology, Thailand (1993) 48
+4 Ratanakorn, V 'Alternative scenarios for the development of the Thai construction industry' MSc Thesis Bath University, UK (1993)
+5 Ogunlana, S O and Olomolaiye, P O 'A survey of site management practice on some selected sites in Nigeria' Building Environ (1989) 24 (2) 191-196
+6 Arditi, D, Akan, G T and Gurdamar, S 'Reasons for delays in public projects in Turkey' Construct Management Economics (1985)
+
+7 Sullivan, A and Harris, F C 'Delays on large construction projects' Int J Oper Prod Management (1986) 6 (l) 25—33
+8 Okpala, D C and Aniekwu, A N 'Causes of high costs of construction in Nigeria' Journal of Construction Engineering (June 1988) 114 (2) 233—244
+9 Dlakwa, M M and Culpin, M F 'Reasons for overrun in public sector construction projects in Nigeria' Int J Project Management (November 1990) 8 (4) 237-241
+10 Baldwin, J R, Manthei, J M, Rothbart, H and Harris, R B 'Causes of delay in the construction industry' ASCE Journal of the Construction Division (1971) 97 (C02) 177-187
+Il Wahab, K A 'Improving emciency in the building sector' West African Tech Rev (1977) pp 81-89
+12 Promkuntong, K 'Delays in building construction projects in Thailand' AIT Thesis No. ST-92-19 (1992)
+13 Ofori, G 'Programmes for improving the performance of contracting firms in developing industries: A review of approaches and appropriate option' Construct Management Economics (1991) 9
+Stephen O Ogunlana is associate professor of construction economics, engineering and management at the School of Civil Engineering, Asian Institute of Technology, Bangkok, 'Ihailand. His research interests are in cost management, productivity management, management of information-technology and human factors in construction and simulation.
+  
+
+
+Krit Promkuntong obtained his M. Eng in construction engineering and management from the Asian Institute of Technology, Bangkok, Ihailand. He now works as a freelance structural engineer designing buildings, sanitary and other structures and is also involved in housing development in and around Bangkok.
+Vithool Jearkjirm is the principal of Preecha Nanakij Co. Ltd. , a project management company for various kinds of construction such as buildings, golf courses and facilities, land development, factories and warehouses. He also serves as associated faculty in construction engineering and management at the School of Civil Engineering, Asian Institute of Technology.  
+Construction delays in a fast-growing economy: S O Ogunlana et al.
+  
+Construction delays in a fast-growing economy: S O Ogunlana et al.
+  
+38
+  
+37
+  
+
+  
+37
+  

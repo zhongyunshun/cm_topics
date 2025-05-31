@@ -1,0 +1,238 @@
+﻿International Journal o/ Project Management 1994 12 (4) 254—260
+Causes of delay and cost overruns m
+Nigerian construction projects
+N R Mansfield
+Construction Management Division, University' Q/• Strathclyde, 107 Rottenrmv, Glasgovv G4 ONG, UK
+O O Ugwu
+Ministry o/• Works and Housing, Nigeria
+T Doran
+Strathclyde Regional Council, 20 Cadogan Street, Glasgobi' G27 7AD, UK
+The subject of project management in developing countries is addressed, with a focus on Nigeria, one of the largest and most populated countries in Africa. The causes of delay and cost overruns are investigated by examining data relating to construction projects. After a brief introduction to the overall economy, an analysis is given of recently completed highway projects in the country. This points to substantial cost variations relative to the initial contract, and excessive project overruns, for neither of which is there much explanation in status reporting. A brief review then follows of contractual systems and project financing arrangements currently in operation. The results of a questionnaire survey carried out in 1992 with around 50 construction personnel from contractor, consultant and client organisations in Nigeria are then presented. The conclusions suggest that there could be better phasing of contracts, and a wider variety of contracts could be used. Overruns are attributed to finance and payment arrangements, poor contract management, materials shortages, inaccurate estimating, and overall price fluctuations. Recommendations are given on how project management could be improved in developing countries such as Nigeria by appropriate action being taken at both the conceptual and detailed planning stages of projects. Wider action is further called for at both government and international level.
+
+Keywords: construction, Nigeria, overruns
+Nigeria has an estimated population of 89M, and it is located in the sub-Saharan region of Africa. Its land area is 924 770 km2 , and it is made up of 30 states. The country exercises a significant socioeconomic and political influence in the African continent in general, and the Economic Community of West African States (ECOWAS) in particular.
+  The national revenue is mainly dependent on oil. As a result. the oil boom of the mid 1970s and the subsequent fall in oil prices and the global recession that followed in the early 1980s affected the country's economic activities. This was particularly reflected in the fluctuations in the volume of construction work undertaken over this period. However, the construction industry itself continues to occupy an important position in the structure of the Nigerian economy. In a study by Olaloku l , it was observed that:
+254
+the relative large investment commitment to construction makes the industry an important source of demand generation and that this 'multiplier effect' (i.e. the great capacity to generate employment, income and expenditure in other sectors of the economy) constitutes another contribution it makes to the economy.
+This observation is further substantiated by the fact that the annual growth in the Nigerian construction industry in 1974 was 269%, and the gross domestic product grew by only 131 %, but in 1984, construction declined by 2700, and the GDP declined by only I | 0 f.
+  This highlights the fact that the construction industry continues to be a major stimulant in the country's economic growth. This strong interrelationship further strengthens the need to ensure that project planning and project management are cost-effective. However,
+	0263-7863/94/040254-07 	1994 Butterworth-Heinemann Ltd
+of experience has shown that excessive project cost and time overruns have been all too evident, as illustrated below.
+Analysis of completed highway projects
+Before sounding out any participants within the industry, a study was made of available information on completed highway projects executed by the Nigerian Federal Ministry of Works and Housing (FMWH) in different parts of the country. This information was contained in project reports which listed the following sets of data. (Tables I and 2 contain the salient features in summary):
+o description of project; e estimated contract sum in nairas (N);  estimated contract period in months;  work in progress at time of reporting:
+o percentage completion of works;
+  O percentage lapse of contract period; e financial progress:
+o value of permanent work to date; o variation in costs of labour; o variation in costs of materials and freight; o total expenditure to date in nairas.
+After due consideration of these reports, it was possible to deduce the following:
+e Substantial variations occur in the costs of materials and freight relative to contract costs.
+o There are excessive project-time overruns; in some cases, these are as high as 342%. This is very significant, because of inflationary trends in the country, and the unstable value of the naira in the foreign-exchange market.
+o The format for project-status reporting does not seem to reflect the excessive project-cost overruns that characterise the actual projects themselves. This appears to be a major deficiency in the project-cost accounting procedures, which further indicates the absence of effcient database management systems.
+ 9386633.09 5502	17 63210098 1 6283	1633613835268.0140674	8 84379521 19.080155	546603 338.654 5096	69070486919191.4628887	5255547217841.0488098	I l 0677700531.48 1939	63574406130.04874Table I Project status report showing financial progress
+
+VariationValue ofin costs ofSubtotalEstimatedpermanentmaterialsexpenditureContract contract sum,work to date,and freight,to date,codeN x 103N x 103N x 103N x 103
+[Data taken from various projects in Nigeria from 1988--91. Currency: naira (100 kobo — I naira). Currency exchange rate (1973—85):
+Table 2 Project status report showing durations, expenditures and work progress at time of reporting
+
+Completion of projectsLapse ofContract Duration,(work tocontract periodExpenditurecodemonthsdate), %and freight, %to date, %
+	12	76.84	141.67	79.25
+2 23	65.08	97.83	65.92
+3 12	80.56	91.67
+4 24	97.36	126.92	90 , 64
+5 27	100.00	106.20	100.26
+6 30	100,00	175.00	91.05
+7 15	94.00	120,00	92,87
+8 28	93.79	100.00	74.03
+9 7	99.00	342.90	76.68
+
+[Data taken from various projects in Nigeria from 198891.1
+Contractual systems
+The Nigerian construction industry is modelled after the British system, although, since independence in 1960, it has incorporated the styles of other Western countries, such as Italy, Germany and France. The country's contract system is also derived from British practice. The system has the following distinct features:
+ Although standard forms of contract are used by the public clients, greater emphasis is still placed on fixed-price contracts.
+ The Nigerian Federal Ministry of Works and Housing uses competitive tendering, as well as selective bidding for some specialist megaprojects. The criteria for selection of contractors includes the following:
+o competence and integrity;  the past performance of the contractor, and its reputation in terms of similar jobs (i.e. its track record);
+O the personnel strength of the contractor, its financial status, and its ability to cofinance projects;  the contractor's scheduled time of completion and final tender price
+ In the private sector, contracts are left open for negotiation. The corporate clients in the private sector include the multinational firms in the oil and petrochemical industries, banks, property developers and other business investors.
+ A direct labour system is not as widely used as it has been in the past few years in the wake of the Nigerian Federal Government's rationalisation of the direct labour units of the public-works department.
+Before the end of the second republic in Nigeria (1979—83), contractors were generally paid a mobilisation fee of 15—20%. However, Akand& and Anekwe4 observe that this provision of a mobilisation fee was sometimes abused by contractors and some public omcers, and it was subsequently abolished in 1984.
+Project financing
+E 1.00 = NI .20, exchange rate (early 1994): El .00 = N64.00.]	resource commitment by the government to the industry
+Qf The major financier of construction projects in Nigeria is the Nigerian Federal Government. The relatively high of 
+has been highlighted by Olaloku l , who observed the following trend in resource allocation:
+In the second National Development Plan (1970—1974), of NS 70.4 million allocated to the transportation sector out of the total of N2050.7 million, some N332.6 million (or 16%) went to road building. This was 58% of the allocation to the transport sector. For the third National Development Plan (1975—1980), N9.6 billion or 22% of the total allocation ofN43.3 billion went to the transport sector of which N5.3 billion was earmarked for road development. This represented 12% of total allocation and 55% of the allocation to the transport sector . . . In the fourth National Development Plan (1981—1985) . some N9.l billion was allocated to housing and transportation out of a total of N 70.5 billion .
+This detailed analysis of the budgetary allocation explains some of its effects on the industry. Because of a distinct lack of adequate phasing of construction projects, the economy was 'overheated'. The net effect was hyperinflation, and the 'boom and bust' scenario so often experienced by the construction industry.
+  Another dominant source of project financing is the World Bank and other aid agencies. The records 5 available in 1991 showed that numerous projects were being executed by the World Bank.
+  Within this period, 43 loans and credits were fully disbursed at a cost of US$3 608M. The grand total of World Bank loans within the period was US$6 303M. A substantial part of these loans was invested in infrastructural development, and hence was recycled into the construction industry. A closer analysis of these loan guarantees reveals the following features:
+• The Nigerian Federal Government is required to provide a substantial part of the cost of projects for which the loan is intended in order to ensure the efficient commitment of the government. This amount could be as high as 80% of the total cost.
+• The disbursement of the loan is an exclusive preserve of the World Bank. Before any project authorisation, there is a detailed financial appraisal and economic analysis.
+• The World Bank exercises effective control of the project-management structure. Important issues such as the selection of consultants and contractors are influenced by the bank. Projects sponsored and/or supervised by the bank are known to be generally executed on schedule.
+Analysis of questionnaire survey of causes of high cost of projects in Nigeria
+Methodology
+From existing literature on the construction industry in Nigeria and elsewhere 6 , it was possible to identify certain
+Table 3 Questionnaire distribution and response
+DescriptionNumber distributedNumber of respondents Percentage of number distributedPercentage of number of responsesContractors
+Consultants
+Public clients
+Total35
+25
+20
+8015
+13
+9
+3743
+52
+4541
+35
+24
+47N 
+major factors that could cause delays and cost overruns. In all, 16 variables were selected, with seven other variables that could result in an escalation of construction costs without necessarily causing delay.
+  A questionnaire was then drawn up which was sent to members of the professions in the Nigerian construction industry 7 . 80 questionnaires were distributed, and 37 replies were received, representing a response rate of 47% (see Table 3).
+  The contractors' and consultants' omces were located within Lagos state (the former capital of Nigeria), and all the contractors/consultants had a solid reputation in the execution of Nigerian Federal Government projects. The public clients (engineers) were selected from the FM WH headquarters in Lagos, and the field headquarters located in other states of the federation. All the staff selected occupied senior positions, and had substantial experience in the management of public-sector projects.
+Presentation and analysis of results
+The procedure used in analysing the results was aimed at establishing the relative importance of the various factors responsible for delay and cost overruns. The questionnaire gave each respondent an opportunity to identify any factor that was likely to make an important contribution by giving the response 'strongly agree' or 'agree'. For each variable, the percentage of respondents giving these responses was called the severity index 8 . These severity indices were then used to rank the items for each group.
+  On the basis of the ranking of the items by the various groups (see Tables 4—7) it was possible to identify the most important factors that influenced time and cost overruns. It was intended that the results obtained would generate some proposals on how to minimize delays and cost-overrun problems and thus improve effciency in the Nigerian construction industry.
+  A summary of the most important factors causing delays and cost overruns, as identified by all groups, is shown in Table 7.
+  A closer look at the rankings of the variables indicates the following (see Tables 4—7):
+• There was very good agreement between the various professionals on those factors that could cause delay and cost overruns. However, for those factors that could cause excessive costs without necessarily causing delays, there was closer agreement between the consultants and the public clients than between the consultants and the contractors. This was very noticeable when inaccurate estimates had an influence. Contractors ranked this second, with a severity index of 88% while consultants and public clients ranked it fourth, at 76% and 66%, respectively.
+• The four most important items, as agreed by the contractors, consultants and public clients (see Table 7) were
+the financing of and payment for completed works; r- poor contract management; o changes in site conditions; shortages of materials.
+	of 	1994 
+of 
+Table 4 Factors responsible for delays and cost overruns according to contractors
+
+	Strongly	Do not	Do not	Severity
+Rank	Delay and cost overrun variables	agree, %	Agree, 	agree, %	know, %	index, %
+
+Financing and payment of completed works873IOO2Poor contract management473320803Subcontractors and nominated suppliers206020804Shortages of materials472726745Changes in site conditions403426746Weather274033677Design changes135334668Mistakes and discrepancies in contract document134740609Imported materials and plant items2727465410Preparation and approval of drawings544654I lNonadherence to contract conditions47534712Mistakes during construction2713604013Negotiation and obtaining of contract13206733Labour and management relations27732715Inspection and testing of completed portions of work13871316Construction methods138713Cost -overrun variables (only):	Price fluctuationsIOO1002	Inaccurate estimates731314863	Delays274627734	Additional work134740605	Fraudulent practices and kickbacks5446546	Shortening of contract periods4060407	Insurance	13	87	13
+The financing of and payment for completed works was ranked first by contractors, and second by the consultants and public clients. This may be attributed to the dominant culture within the industry, since the government still bears the whole burden of project financing. At present, there is very little participation by private investors in primary public-sector projects. Also, contractors do not participate in cofinancing such projects, and, even in the few cases in which there is initial agreement to this effect, contractors have been known to back out once the project is under way.
+However, this attitude may be linked to the prevailing economic and political environment, since investors have to pay attenion to the security of their investments and the resources that they commit to such projects. Poor contract management was ranked first by both consultants and public clients (see Tables 5 and 6), while contractors ranked it second (see Table
+4). However, the severity indices from all the groups (see Table 7) clearly indicated the importance of this, and they also demonstrated an increased awareness in the industry at large. Generally, poor contract
+
+Table 5 Factors responsible for delays and cost overruns according to consultants
+
+	Strongly	Do not	Do not	Severity
+Rank 	Delay and cost overrun variables	agree, %	Agree, 0/0	agree, %	know, %
+
+Poor contract management54461002	Financing and payment of completed works61318923	Imported materials and plant items3153844	Changes in site conditions236116845	Shortages of materials383824766	Design changes155332687	Subcontractors and nominated suppliers382438628	Nonadherence to contract conditions6238629	Weather62386210	Mistakes during construction534753Mistakes and discrepancies in contract documents4631234612	Preparation and approval of drawings46	54	4613	Negotiation and obtaining of contracts38623814	Labour and management relations3154153115	Construction methods23	77	2316	Inspection and testing of completed portions of work
+Cost overrun turiables (only):15	85	15Price fluctuations62381002	Delays3853	9	913	Additional work3146	23	774	Inaccurate estimates3046	24	765	Shortening of contract periods1545	40	606	Fraudulent practices and kickbacks3030	40	607	Insurance	15	85	15
+of 
+	Q/ 	N 
+Table 6 Factors responsible for delays and cost overruns according to public clients
+
+                                                            Strongly	Do not	Do not	Severity Delay and cost overrun variables	agree, %	Agree,	agree, %	know, %
+	Poor contract management	55	45	100
+ 2 Financing and payment of completed works	55	33	12	88
+ 3 Imported materials and plant items	33	55	12	88
+ 4 Changes in site conditions	44	33	33	77
+ 5 Shortages of materials	22	55	33	77
+ 6 Design changes55	34	66
+ 7 Nonadherence to contract conditions66	34	66
+ 8 Subcontractors and nominated suppliers44	45	55
+ 9 Weather44 45 55 10 Preparation and approval of drawings55 45 55
+         Mistakes and discrepancies in contract documents 55 45 55 12 Labour and management relations 55 45 55
+13 Negotiation and obtaining of contracts	33	56	44
+14 Inspection and testing of completed portions of work	33	67	33
+15 Mistakes during construction		22	78	22
+16 Construction methods	77	12	I l
+Cost overrun variables (only 
+	Price fluctuations	78	22	
+2 Delays	55	33	12	88
+3 Additional work	33	44	23	77
+4 Inaccurate estimates	55	34	66
+5 Shortening of contract periods	I l	44	33	12	55
+6 Fraudulent practices and kickbacks		44	34	22	44
+7 Insurance		22	78		22
+
+
+management produces deficiencies in the contractor's plan, cost control, and overall site management. This can be because of any of the following:
+o a lack of adequate experience and training at the senior management level, and inadequate technical manpower;  a very low level of productivity; o inadequate finances for short- and long-term purposes;  an absence of specialisation.
+Changes in site conditions were identified as another major factor (see Table 7); this must also be linked to inadequate technical feasibility studies before proj-
+ect authorisation. This is further explained in most
+Table 7 Most important factors responsible for project delays and cost overruns according to contractors, consultants and public clients
+VariablesSeverity index, %Contractors ConsultantsPublic clientsPoor contract management Financing and payment of completed works
+Changes in site conditions
+Shortages of materials Imported materials and plant items Design changes
+Subcontractors and nominated suppliers
+Cost overrun turiables (only):
+Price fluctuations
+Inaccurate estimates
+Delays
+Additional work80
+IOO 74
+74
+54
+66
+80
+100
+86
+73
+6092
+84
+76
+84
+68
+62
+100
+76
+91
+77IOO
+88
+77
+77
+88
+66
+55
+[00
+66
+88
+77[N — 37; 15 contractors, 13 consultants, 9 public clients.]
+circumstances by projects being rushed at their commencement, and political sensitivities overriding the detailed preparation of project plans. Shortages of materials were also identified as being very important. This was not unexpected, as this invariably triggers off delays at the project site. This factor can result from any of the following:
+o an absence of adequate statistics on materials avail-
+fluctuations in the availability of construction materials; very long average waiting times and uncertainty about the deliveries of ordered materials; shortages of funds to procure materials, and inadequacy in terms of transportation.
+Owing to a low level of manufacturing and extractive development in Nigeria, most construction materials are still imported. Even then, established bureaucratic structures seem to inhibit the easy flow of imported materials. Nonetheless, an abundance of local construction materials exists in the country; these should be identified, harnessed and suitably developed so as to ensure that there is a reliable and long-term supply at the local level. In any case, this aspect demonstrates a complete absence of effective materials management on the part of most contractors. Hence, there is a need for improved vendor appraisal of materials supplies. Other factors identified as important in causing delays and cost overruns included a lack of flow of imported materials and plant items, problems with subcontractors and nominated suppliers, design changes, weather, and nonadherence to conditions of contract.
+o With regard to cost overruns not necessarily involving delay, price fluctuations were identified as the most important factor by all the groups (see Table 7). This
+	o/' 	1994 
+can be explained by spiralling inflationary trends in the country, and the absence of a unified price adjustment formula in the industry. It is self-evident that price fluctuations must affect the cost of materials of construction, labour, and other interdependent services. Any measures to stabilise the value of the local currency (naira) in the exchange market would significantly improve the situation. Clients and consultants ranked 'delay' second, while 'additional work' was ranked third (see Tables 5 and 6). However, contractors ranked 'inaccurate estimates' second, 'delay' third, and 'additional work' fourth (see Table 4). This shift in ranking may demonstrate a determination of the various parties in the industry to shift blame and responsibility between themselves. Nevertheless, it is clear that inaccurate estimates have an overriding influence on the cost-overrun rate. Delays are also associated with heavy costs, since contractors usually put forward claims in such circumstances. Additional work is related to design changes, and can be explained by a lack of detailed briefing on the functional and technical requirements of the project by the client. This again demonstrates the weakness of inadequate project planning, and also the problems encountered by not involving the contractor at the design stage of the project.
+Conclusions
+From the ranking of the above variables, and their severity indices, it can be seen that most of the problems in the construction industry are human and management problems. While a rapid solution to these nontechnical problems would minimize delay and cost overruns, it is evident that these problems will continue to occupy the attention of managers and other decision makers in the construction industry for some years to come.
+  An essential component of the project cycle begins with the identification of ideas that require the optimum use of resources in order to achieve the set objectives. The identification and preliminary screening of competing alternatives is a crucial part of the process, and decisions made at this stage can have far-reaching effects on the success of the project. At the preliminary stage of the project, it is essential that effective decisions on design specifications, project financing, contractual systems, and methods of construction are all taken at the right time.
+  In developing countries, the lack of proper phasing of construction projects can contribute to the economy becoming 'overheated'. This gives rise to project-cost overruns, with consequential effects on inflation and a decline in effcient activity in the industry. The continued adherence to traditional forms of contract, especially the fixed-price system, often precludes innovation in terms of certain construction-management techniques which are appropriate to developing countries.
+  The major variables that can lead to excessive project overruns in a developing country such as Nigeria are the financing of and payment for completed works, poor contract management, shortages of materials, price fluctuations, and inaccurate estimates leading to delays. (The latter were probably responsible for about half of
+of 
+the uncompleted government projects in Nigeria during the second Nigerian republic).
+  Other factors which can be identified as usually being responsible for project delays and excessive costs are excessive bureaucratic checking and approval procedures, unclear definitions of contract terms by the client, and insumcient geotechnical investigations at the feasibility stage.
+  The efficiency of the Nigerian construction industry would be improved by addressing a number of issues in particular.
+  Greater attention must be paid to obtaining more accurate estimates from contractors. Clients and consultants must allow the various parties sufficient time and resources to produce these effectively.
+  A climate of confidence needs to be created in which the private sector can be encouraged to put funding into projects, and this sector has to include contractors. There is much that can be learned from other countries such as the UK, where private finance has been offered for some major bridge projects, and the returns could be assessed reasonably objectively.
+  To reduce the incidence of poor contract management, greater training is also needed. This has to take place at the senior- and middle-management levels. The practice of local contractors working alongside international contractors on Nigerian projects has to be encouraged, with some individual managers being selected for project-management courses.
+  Lack of availability of materials has to be addressed at government and state level across ministries. A higher priority has to be given to investing in improving the stock of local materials and their supply.
+Recommendations
+On the basis of the above findings, and with developing countries in mind, the following recommendations are made:
+• More emphasis should be placed on thorough project analysis before authorisation. Clients should allow sufficient time to prepare project briefs and other feasibility studies. Moreover, construction programmes should be drawn up by qualified and experienced personnel and be sufficiently accurate and realistic. The programme should be seriously monitored and reviewed as often as necessary so that its performance can be evaluated and compared with the projected targets.
+• Clients should ensure that adequate funds are available before projects are started, so that contractors can be paid in accordance with the contract agreement. There is also a need for comprehensive economic analysis and workable financial plans to be prepared before contracts are awarded. The private sector should be encouraged, in certain circumstances, to participate in financing public-sector projects. This could take place in the form of equity participation or with other credit-facility arrangements. Alternative contract methods, such as build—own—operate—transfer (BOOT) schemes could be introduced to encourage contractors to participate in financing new projects9 . However, the Nigerian
+
+of NFederal Government must create a climate of econ-7Ugwu, O O 'An appraisal of project planning and managementomic and political stability that is sumcient to rekindlein Nigeria and the United Kingdom' MSc Thesis University of Strathclyde, UK (1992)confidence in investors, and enable them to achieve8Okpala, D C and Aniekwu, A N 'Causes of high costs ofa reasonable return on their investment. The mainconstruction in Nigeria' J Construction Engineering & Managementthrust of government action should be to evolve a well1988 1 14 (2) 233, 234defined functional structural system, which would9'Nigeria' Financial Times I Apr 1993 1--10 (FT Survey Section 3)enable financial resources to be generated from the10
+I lUkim, U 'Back on course' Newswatch 10 Jan 1994 29—31
+Mansfield, N R and Sasillo, S I H 'International constructionprivate sector and injected back into the economy 10contracts in Tanzania' Int J Project Management 1990 8 (2)The strategic objective here should be to achieve12Doran, T 'The influence of certain basic economic factors onan investment-led growth that is sustainable overparking in town centres' MSc Thesis, University of Strathclyde,time which would benefit the Nigerian construction13UK (1979)
+Mansfield, N R 'A case study of British construction consultants'industry.involvement with technology transfer in developing countries' Contractors and other construction personnel shouldPresented 7th IMP Con/&rence International Business Networks,establish an effcient materials management system forEvolution, Structure & Management University of Uppsala, Swedena given construction project. Concerted efforts should be directed towards research and development in the use of local construction materials. In order to encour-(Sep 1991)Dr Nigel is the director Q/' postgraduate studies in the Department of Civil Engineering at the University Q/ Strathclyde, UK. He has worked in the private and public sectors of the construction industry in the UK and overseas. He "'as head Q/ bridges and marine works in the country Q/ Belize. His research interests are in international construction, hehat'ioural and contract nianagement, and technology transfi-»r to developing countriesage international contractors and investors to undertake greater foreign direct investment in such areas as materials development and production, it is necessary for the host government to relax 'interventionist monetary policies' and other strict economic measures. This incentive will enable the local currency to find its true stable value in the free market, and thereby curtail excessive price fluctuations associated with imported construction materials, equipment and other plant items.
+Onuegbu UgM'u graduated ./i•om the University of Nigeria Nsukka M'ith a B Eng in civil engineering. He worked with G F Appio & Associales, Gezmva Local Gocernment Kano, and the Federal Ministr.v Qf Works and Housing, Nigeria, on electrical povver, roads and housing prqjects in Nigeria befbre obtaining an MSc in construction management al the University Slrathclvde, UK.• There is a continuing need for institutional strengthening and manpower development in the areas of project management, information and database management systems. Since present construction methods are predominantly capital-intensive, labour-intensive methods should be encouraged through the use of direct labour organisations. Aid agencies such as the World Bank should assist developing countries to research appropriate technology and construction-management techniques which are suited to their particular local environment The host governments could also achieve this through well packaged technology-transfer agreements with international contractors operating in their countries. Pilot projects designed for this purpose are particularly recommended in such cases 1 .3 
+References
+Toni Doran is in charge o/' highh'ay planning economic assessments för major road preject.s at Strathcl_vde Regional Council, the largesl local authoritv in the UK. He holds a master's degree fi•om the University o/' Strathclyde, and is a visiting lecturer on managerial-economics topics. He has had extensive experience with local authorities, mainly on the project appraisal o/' large highway preiects. Olaloku, F A 'The quantity surveyor, the second-tier foreign exchange market (SFEM) and the construction industry in Nigeria: options and challenges' Construction in Nigeria 1987 4 (l) 4—8 'National construction policy in Nigeria' Construction in Nigeria
+1991 8 (2) 13-20
+3 Akande, C SO 'Contract system in Nigeria which way forward' Proc Seminar Federation Building & Civil Engineering Contractors (12 Dec 1985)
+4 Anekwe, C M 'Contract award — Nigerian experience' J Professional Issues in Engineering 1987 1 13 (3) 229-235
+5 World Bank Assisted Development Projects Under Implementation World Bank Mission, Nigeria (Apr 1991) (restricted circulation)
+6 Pilcher, R Principles q/' Construction Management (3rd ed) M cGraw Hill, UK (1992)
+	Q/' 	1994 
+Causes 	delay and cost overruns in Nigerian construction projects: R Mansfield et al.
+
+	Causes 	delay and cost overruns in Nigerian construction projects: N R Man.!field et al.
+
+256	International Journal Preject Management 	Volume 12 Number 4
+
+International Journal Project Management 1994 Volume 12 Number 4	255
+
+
+
+
+

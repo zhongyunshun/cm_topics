@@ -1,0 +1,310 @@
+﻿Construction Management and Economics, 1991, 9, 171—186
+Cost prediction using decision/risk analysis methodologies
+JAMES BIRNIE I and ALAN YATES 2
+IDepartment of Surveying, University of Ulster, Newtownabbey, Northern Ireland
+2Dearle & Henderson, Chartered Quantity Surveyors, 4 Lygon Place, London SWI OJR, UK
+The ability to make good cost predictions is a very important aspect of the construction process. The methods used have historically relied on subjective judgements based on data which have proved satisfactory. Theformal methodologies ofdecision/risk analysis have been little used in construction. This paper looks at how the use ofdecision trees, utility theory and the Monte Carlo simulation technique might improve human judgement in cost prediction. The successful application of decision/risk analysis to a housing refurbishment contract is described in a case study.
+Keywords: Decision analysis, decision trees, Monte Carlo simulation, probability, risk analysis, utility theory
+Introduction
+We all make decisions every day. In construction, decisions may have to be made regarding the following:
+  1. Should I tender for Contract A in preference to Contract B?
+  2. Should I arrange for the roofing contractor to commence next Monday on the assumption that the bricklaying squad will have finished their work?
+  3. Which type of excavating equipment will I use on a specific contract?
+  In making decisions we should evaluate the alternative outcomes and select the one which is most appropriate to our needs. In addition we should consider the uncertainty attached to the events associated with the alternative outcomes.
+  In the first example, the appropriate rule may be to select the contract which is likely to give the larger profit. But what of the uncertainty in the eventual profits and the likelihoods of being the lowest tender in the respective contracts?
+  In the second example, the problem has already identified part of the uncertainty, namely will the bricklayers be finished by a specific date?
+  The last example requires the decision-maker to consider the alternatives available and then assess the uncertainties such as type of ground, weather, operatives' skill, etc., which could influence the profitability of the different types of plant usage. The process of decision-making may be done:
+1. informally, i.e. intuitively, or
+2. formally using a decision analysis technique.
+0144-6193/91 $03.00+.12 0 1991 E. & F.N. spon Ltd.
+Co ri ht 
+  Most simple decisions are made intuitively. Some diffcult ones such as Kitchener's correct prediction that the troops could be evacuated from Gallipoli without casualties have also been made intuitively. History, however, is also full of examples of bad decisions, such as Napoleon's advance on Moscow, the outcomes of which have proved disastrous. In construction bad decisions regarding events such as inclement weather, strikes, etc., can lead to unsatisfactory financial outcomes. The greater the risk and uncertainty in the financial outcome, the greater is the case for using the formal techniques of decision/risk analysis. 1 Ward Edwards describes decision analysis as a methodology which helps in making wise decisions. This methodology assists the decision-maker by breaking down the complex problem into smaller and more manageable sub-problems, to each of which an intuitive judgement can be made. These informal intuitive judgements can then be combined formally in the decision/risk analysis procedure to assist us to make a wise decision to the complete problem. Before we look at these procedures, the nature of human decision-making should be considered because biases in human judgement will influence our capacity to make the sound judgements which lead to wise decisions.
+The nature of human judgement
+Judgements are made on the basis ofinformation which has been processed by the individual. Studies by Tversky and Kahneman have shown that people are inconsistent and biased in the process of interpreting information. Research experiments by Hogarth and other cognitive psychologists have found these biases to exist in groups of people randomly sampled from differing social, academic and occupational backgrounds: for example, see Meehl (1954) on clinical predictions in medicine; Raiffa (1969) on probability assessment in MBA students; Slovic (1972, 1980) on risk assessment of investment, social, and technological decisions. It would seem unlikely that cost prediction in construction should be immune from the following biases.
+Representativeness
+People attach much more significance to certain cues than to others. The estimator may see a similarity to an item of construction in a previous contract. The extent of this similarity or representativeness becomes the dominant factor in the probability assessment of the cost and all other available data such as differences in quantity, physical location, or market conditions are ignored or sublimated.
+Availability
+ Because of limited memory capacity, people depend on associations which are not reliable. A previous experience of a material shortage, the recall of a relevant article in a technical journal, delays on site due to bad weather are examples of where decisions may be made on pieces of information rather than an objective consideration of all available data. The quantity surveyor who has recently witnessed the removal of a defective ready-mix load of concrete is likely to give a higher probability assessment to a similar event occurring compared with a quantity surveyor who did not witness the incident.
+Ri fs 
+Adjustment and anchoring
+This refers to the process of using a previous piece ofinformation as an anchor point and then adjusting from same to take account of any special features. Rates in previous Bills of Quantity or cost plan are examples where the use of an anchor could result in biased predictions because of:
+1. unsuitable anchor point, or
+2. insuffcient adjustment of anchor point.
+This bias can also lead to the incorrect evaluation of compound events. These events may be conjunctive, such as frost occurring for five successive January days, or disjunctive, such as frost occurring at least once in five successive January days. Studies by Cohen (1972) indicate that people tend to overestimate the probability of conjunctive events and underestimate the probability of disjunctive events. In both cases this is due to insumcient adjustment from the probability of the single event (frost on a January day).
+  In construction, delay may be caused by inclement weather, strikes, material shortage, bankruptcy of sub-contractor, defective work, etc. If any one of these independent events can cause delay then the overall probability of the disjunctive event (delay) must be greater than the probability of any one event.
+  Research by Bennett and Ormerod (1984) into the uncertainty surrounding the likely duration of complex construction work has shown the need to use formal decision-making techniques to improve the assessment of delays.
+  Decision analysts believe that by using formal methodologies in decision-making, less bias and better judgements will result. These methods use probability to measure the uncertainty of our knowledge and the risk involved in the possible outcome of the events.
+Probability measurement of uncertainty and risk
+Risk as defined by Hertz means both uncertainty and the results (eventualities) of uncertainty. To assess risk and uncertainty one must measure same. Moore states it is important to neither ignore risk or be frightened by it; systematic methods to assess risk have been developed.
+  In decision analysis the risk is normally measured in terms of the probability of the event happening on a scale O (certain not to occur) to 1 (certain to occur).
+Decision analysis procedural stages
+The following are the typical stages carried out using decision/risk analysis methodology and relates closely to the procedure described later in the case study.
+  For readers unfamiliar with the use of decision trees, utility theory and the Monte Carlo simulation techniques, a brief description of each is given later.
+Stage 1 Structure the problem
+Decompose the problem into a number of simpler and more manageable sub-problems. The objective is to clearly identify the problem, and consider possible alternative outcomes. Decision trees may be useful.
+
+Stage 2 Evaluate outcomes
+The value (usually in monetary terms) of each outcome, should it occur, is calculated. If the decision-maker does not consider the monetary outcomes on a linear scale (for example a profit outcome of E4000 is considered worth more than twice an outcome of E2000) then utility values should be calculated for the outcomes. This is discussed later under Utility Theory.
+Stage 3 Assess probabilities
+Make judgements about the various outcomes in terms of probabilities. The case study describes numerous techniques to assist the assessor in this stage.
+Stage 4 Calculate probabilistic outcomes
+The outcome values established at stage 2 have to be multiplied by the probabilities of their occurrence, giving the expected monetary values of the alternative outcomes. Where the total cost of different combinations of outcomes of a number of events have to be considered then the use of the Monte Carlo simulation technique may be used.
+Stage 5 Review the results
+By changing the probability assessments of the key variables in stage 3, repeat stage 4 to see what change has occurred in the values of alternative outcomes.
+Decision trees
+Decision trees are useful to the decision analyst because they:
+  1. force the decision-maker to structure the problem;
+  2. present in a visual way a complete picture of the problem;
+  3. present a series of sequential decisions in a way that makes the probabilities of the final outcomes easy to calculate;
+  4. evaluate the best strategy by using the folding back process.
+  Figure 1 shows how a decision tree could be used to consider alternative methods of carrying out the excavation work on a kitchen extension contract. At the right-hand tips of the various branches, the payoff for each is inserted. If this is multiplied by the combined route probability we obtain the expected monetary value (EMV) for the individual route, e.g. Use of plant A in suitable weather and squad A with no delay
+= 0.7 x 0.5 x 2000=E700.
+Where the realization of final payoffs is dependent on events over which we have no control, e.g. the weather, then the decision-maker should be more interested in determining what the best EMV is for the whole process. To do this the folding back process2 is used as follows:
+
+"ÄTöpyri5htO 2001 . 
+
+PAYOFF (PROFIT)
+
+Fig. 1. Decision tree
+  1. Work back from end tips (right-hand side) of the tree choosing at each decision point the action with the highest EM V. Calculations for top branch are:
+0.5 x 2000+0.3 x 1000+0.2 x 1200
+0.6 x 1600+0.2 x 800+0.2 x (-200) = 1080 Choose 1200
+0.7 x 1200+0.3 x 1100 =1170 Insert 1170 at chance node
+  2. Continue the process until the starting point is reached.
+  3. Select the best strategy. In this case it is use of plant A and squad A.
+Utility theory
+Although utility theory 3 is a theoretical technique which may be diffcult to apply in construction there are situations where an appreciation of the subject could help the contractor in his decision-making.
+  A contractor has to decide between methods A or B to carry out a piece of work. The contractor has evaluated the optimistic, most likely and pessimistic profit outcomes of each and their respective probabilities as follows:
+Method AMethod BProbability	OutcomeProbability	Outcome0.3	E40000.1	22500.5	E20000.7	E15000.2	-EIOOO0.2	E500Using the traditional EMV approach.
+For Method A EMV=O.3 x 4000+0.5 x 2000+0.2 x
+	For Method B EMV=O.I x 2250+0.7 x 1500+0.2 x 500	=E1375
+  This shows method A to be the better. However, it does involve the risk of a loss of EIOOO. The contractor may now be less sure about using method A. A utility analysis could now be carried out. This analysis attempts to discover to what extent an individual in a particular situation deviates from maximizing expected value when faced with a choice of options. A technique, known as the lottery ticket method of utility measurement, is carried out as follows:
+  1. List the range of outcomes.
+  2. Give the highest a utility value of 100 and the lowest a utility value of 0.
+  3. Take each of the other profit outcomes in turn and determine a utility value for them, e.g. to determine the utility value of E2250 we have to choose between gaining E2250 for certain and a probability (P) of gaining E4000 or (I—P) of losing EIOOO. P represents our lottery indifferent probability to the choice of outcome.
+  4. List the results of the utilities for each outcome.
+  5. Repeat the original EMV calculation but using the utility values instead.
+Assuming the following utility values were determined
+u	E4000= 100 80
+    70 u €1500= 65
+u	40 u -EIOOO=	
+then
+expected utility value method A = 0.3 x 100+0.5 x 70 + 0.2 x 65 expected utility value method B = 0.1 x 80+0.7 x 65 + 0.2 x 40=61.5.
+  Although method A is still superior to method B, the difference is so small that the contractor may feel method B is the safer and wiser option.
+
+	CöüiöhVö20öfl 	äGerved.
+The Monte Carlo simulation method
+Where the final outcome to a decision problem depends on the outcomes of a number of different events (sub-problems) and in the manner in which they combine, then the use of the Monte Carlo simulation method is appropriate.
+  The method simulates real life by generating the uncertainty of the outcomes occurring in accordance with their pre-determined probability. Each outcome will have an agreed cost so that by drawing a probability at random a corresponding associated cost has also been drawn. The process is repeated for each event and the cost of all the events are then added together to give the total cost of one iteration of the simulation. The whole process would be repeated for an agreed number of iterations (in the case study 200 were used).
+The following shows the data for one event (delay on substructures)
+CumulativeDelay (weeks) CostProbabilityprobabilityRandom nos000.050.0501-5014000.100.1551-15028000.250.40151311000.300.70401-700413500.200.90701-900515500.090.99901-990617000.011.00991-1000Case study
+Background to project
+The project consisted of extensive refurbishment work to approximately 600 dwellings owned by a public authority. This body appointed a firm of Chartered Quantity Surveyors to advise them on a suitable method of contract procurement which would ensure good postcontract cost control.
+  In view of the uncertainty surrounding the extent of the work, and the circumstances which would prevail during its execution, the quantity surveyor decided to recommend a management style contract instead of the traditional firm or approximate bills of quantities procurement systems. As the client felt that this proposal would leave them exposed to a greater risk than usual it requested assurances that it would be kept regularly informed of the risk of financial overrun. In addition because the funding was being provided by a government department, the latter body insisted that the normal financial monitoring controls of the contract would still be enforced. It was therefore necessary to show that the proposed system would provide this. A system of risk analysis was developed by the practice and adopted by the design and construction teams in the forecasting of final costs.
+The need for risk analysis
+In considering the need for and the use of risk analysis it may be helpful to consider the extent to which different methods of procurement4 expose the client to the risk and uncertainty of the financial outcome of the contract. Table 1 gives an indication of this. What is needed is a
+system which assesses the risks and establishes financial outcomes in terms of probability. The use of the Monte Carlo simulation technique was considered appropriate for this project because of the uncertain nature and extent of the works. Although the client would be accepting a greater risk of the fianncial outcome compared with a traditional fixed price contract, the quantity surveyor believed that regular cost monitoring during the construction stage using the Monte Carlo technique would ensure a financial outcome within a range acceptable to the client.
+Table 1
+Procurement methodFinal price known at tender stageRisk to client in control of final account costPossible uses of decision/risk analysis (DT/RA)1. Bill of quantities
+2. Bill of approximate quantities
+3. Prime cost
+4. Target cost
+5. Management
+6. NegotiatedYes
+No
+No
+No
+No
+YesMinimal except for provisional quantities Limited provided estimates of approximate quantities and possible items are good
+Considerable. Final cost unknown. No incentive to contractor to control costs
+Variable. Diffculty in use is agreeing realistic target figure when nature of work is unknown Reasonable.
+Competitive tendering of sub-contract work packages reduce risk Minimal. However client may well be taking most of the risk by contractor pricing at a safe level,
+i.e. low level of risk to contractorDT/RA of provisional quantities
+DT/RA could be used to predict same
+Good decisionmaking process would help to overcome basic use problems
+DT/RA ideally suited to establish fair prices for same
+Use of DT/RA in risk sharing. NB comments in case study  It may be asked why the contractor should not be persuaded to accept the probabilistic outcomes of the simulation as a fixed price. The diffculties of target cost type contracts (see Table 1) would then exist. However, it is significant that on this particular project the contractor felt a commitment to stay within the predicted cost outcomes. This then is the case for the application of risk analysis.
+
+	2001 . 	"keserved.
+The implementation of the risk analysis technique
+The techniques adopted basically follow the five-stage decision analysis procedure previously described.
+1. Structure the problem. This is done by breaking down the total work in the project into appropriate cost components as listed below.
+Preliminaries
+Preparatory work
+Gables
+Internal walls
+Roof
+Heads and piers
+Joinery
+First floors
+Drainage
+Heating
+Painting
+External works
+For each component one then has to identify the likely risks associated with it. To do this we consider how the costs of each component might change because of the occurrence of certain events, e.g. strikes, inclement weather, tax changes, etc. These events are the significant risk variables to be considered for that component. Decision analysts agree that identifying these variables is a most important and crucial part of decision/risk analysis. Failure to carry out this stage thoroughly may lead to an incomplete structuring of the problem. Where a number of people are involved in the decision making process then the use of one of the established group processes in behavioural decision theory, e.g. brainstorming or delphi, 5 could be considered. Brainstorming is a useful technique to encourage the thinking of as many outcomes as possible. The delphi method is a means of achieving probability consensus within a group.
+  Although certain variables are likely to occur on most projects, it has been found from experience that using a standard list is not recommended. Even within a single project the variables may differ for each component, e.g. inclement weather which is likely to be a significant variable for the roofing component may not be so for the internal walls component.
+  Having identified the variables to be considered, the team is now ready to assess the probabilities to the possible outcomes. Variables with less than a one in a hundred chance of occurring would normally be excluded from further assessment.
+2. Evaluate outcomes. The cost of each event should it occur is calculated (see Fig. 2). It should be noted that whilst utility theory was not formally used in this case study the costs agreed do take into account subjective beliefs. The non-linear cost interpretation of varying lengths of strike may reflect differing risk attitudes to differing outcomes. For example, a 5week strike gives the contractor a greater chance to redeploy his resources as compared with a 3-week strike.
+
+PROBABILITY
+DELAY (weeks)
+EXTRA COST
+DELAY
+ PROBABILITY
+DELAY (weeks)
+EXTRA COST (E,ows)
+	DELAY (STRIKE) 	DISTRIBUTN
+Fig. 2. Probability assessment of variables
+3. Assess probabilities. The nature of the variables to be assessed are normally classified as (a) discrete or (b) continuous.
+  (a) Discrete refers to events which either happen or do not happen, e.g. bankruptcy of electrical sub-contractor.
+To help the assessor make good judgements in probablistic terms, decision analysts have developed numerous techniques. The two best known are
+(i) the equivalent urn method
+(ii) pie diagram and spinner (see Fig. 3).
+  The principle used in both techniques is the same. The assessor is asked to compare two gambles and by adjusting the number of balls or the position of the spinner eventually settles on a position where he is indifferent to the outcome of the two gambles. In the example shown
+
+	1 . A I 	rved.
+in Fig. 3 the assessor would set the size of the shaded portion of the pie diagram so that the occurrence of frost or the pointer stopping in the shaded area was felt to be equally likely. Notice the assessor does not need to quantify his probability, this can be done by the analyst measuring the size of the pie segment. Whichever technique is used, the assessor must feel comfortable with using it. Work by Thomas et al. (1973) suggests that these formal procedures are excellent for training in assessment. They are, however, time consuming and often boring and, with increasing confidence of the assessor, can be replaced with less formal techniques such as giving the likely odds for an event happening.
+	FROST	E 1000	POINTER STTS	1000
+IN BLACK
+		360
+Fig. 3. Standard spinner for comparing probabilities
+  (b) Continuous refers to those events which have a range of possible answers, e.g. building costs (money) or length of strike (weeks).
+  The assessor is asked to match probabilities with amounts of money or weeks on a measurement scale.
+  Various procedures which may be used to help the assessor are well documented in most decision theory/analysis books (often in the form of conversational question and answer dialogue between analyst and assessor).
+  The following is an example of the percentile procedure where the assessor is asked to assess uncertain building costs. The assessor is asked to determine the particular percentiles of the distribution being considered.
+Question 1
+Question 2Consider the range within which you are virtually certain the cost will lie. The extremes of this range will represent the 1 % and 99% probabilities that the cost will be below the quoted figures.
+Consider a figure within the above range where you consider the cost is as likely to be above as below same (if you find it diffcult to settle on a figure use one ofthe training techniques previously described such as the pie diagram). You have now established the 50th percentile figure.
+Question 3 Now decide on a figure between the 1% and 50% figures where again you think it equally likely the cost could be above as below same. This represents the 25th percentile figure.
+Question 4 Repeat above procedure between the 50% and 99% figures to obtain the 75th percentile figure. This procedure which is also known as the successive subdivisions method can be continued to establish further percentiles, namely 122, 87}, etc.
+4. Calculate probabilistic outcomes. Using the continuous event technique previously described, the assessment team agree the probability assessment distribution for each of the variables being considered for the first cost component. Where the event is of a nonmonetary nature, then the equivalent monetary value for the distribution is established as previously described in stage 2.
+  A tabular print out for all the variables being considered for that component can now be produced (see Table 2). This shows the cost range of outcomes and the probabilities associated with specific amounts within the range. Where the probability is of an event not happening, the resultant saving is shown as a negative figure, e.g. non-use of contingency sum. Most events are likely to be of a continuous nature. Discrete events such as event No. 30 may be shown as continuous by simply recording zero costs to the probabilities below which you think the event will not occur. Where this event represents a considerable proportion of the likely total cost of the component, then the significance of this event should be considered in the final review of the results at stage 5.
+  Having obtained the probability distribution for each variable in the first cost component, the same procedure is repeated for each subsequent cost component. The first cost component (preliminary works) had 34 variables, the others a maximum of 5.
+  The final part of this stage is to combine the results of each variable to obtain the likely total cost of (a) each separate component or (b) all the components. In both the Monte Carlo simulation technique is used. In the former each component is treated as a separate exercise whilst in the latter one simulation covering all the variables in each component is carried out. In this case study a simulation of 200 iterations was used to obtain the likely total cost for all the components.
+5. Review the results. Where the cost of any variable represents a significant percentage of the total cost the probability assessment for this variable should be reconsidered and further simulations carried out using alternative probability distributions. Figure 4 shows the final results displayed graphically. The dark shaded graph shows the likely frequency distribution of differing costs whilst the light shading gives the cumulative cost curve, i.e. the probability that the cost will be below a specific figure.
+  By showing the range of possible outcomes and the risk pertaining to each the client is in a better position to decide the extent to which he is prepared to carry it.
+Appraisal of the system
+To appraise it we must assess how well the system performed in meeting the objectives of the client.
+
+opyright 
+
+Table 2.
+Risk analysis — 10-06-1988 — Item value listJob number	4068
+Project name
+Number of items	34
+Item number
+Item nameNumber	1.00%	6.25% 12.50% 25.00%50.00%75.00%87.50%93.75%99.00%1	12000	13 000 13 500 1800028 00036 00040 00042 00044 0002	5 000	5 400	5 500	6 000100001200013 5001400015 0003	5 000	5 300	5 500	6 0001000012 50013 00014000150004	120	180	200	2402803003804405	100	120	160	1802002202602803006	o	o	o	1002002203003204007	o	100	450	6009001 2002 0003 6008	-25 000 -20 000 -15 000 —10 000o15 00020 00022 00025 0009		4 0006 000800020 00024 000300003200045 00010	-20000 -12 000-6000-3000o7 000100001200020 00011	-10000 -5000o1000020 00025000350004050 00012	-10000 -5000-3 000-1000o3 0005 0007 0001000013	0	oooo4 0001700034 00051 00014	o	2 0003 00050008 0001600024 0003051 00015	o	2 0003 0005 0008 0001600024 0003000051 00016	o	0ooo2 0005 000100001700017	o	2 0001600024 00032 0003500051 00018	o	oooo5 000100003040 00019	0	o0o3 00040 00051 00020	900 -1 000-1 200	 400—1 800-2000-2 800-3000—3 60021 —49 000 - 50 000 -60 000 —80 000 -98 000 - 108 000 -135 000 -160 000 — 195 000
+22 -51 000 -58 000 -65 000 —85 000 -102 000 -140 000 - 160 000 -190 000-204 000
+23	o50200 000300 000400 000420 000460 000480 000500 000248 0001700034 00051 0006810200025	15 0001700020 00025303500045 000506026	03005007001 0002 0002 5002 80027	ooo0o2 0008 0001400020 00028	20 0002500030 0003500050 00055 000650007500080 00029	ooo0o1500030ooo2 0002 0002 00031	-2000-1 000-800o1 0001 5002 0003 00032	00ooo300 00033	00oo0o3500034	12000140001800020260003200042 0005072 000
+In practical terms this means
+  1. How close did the predicted cost come to the actual figure? This is best illustrated by examining extracts from cost reports for the project. Below are summaries from cost reports issued (a) early on in the construction process and (b) towards the end.
+Co ri ht 
+% LESS
+
+Fig. 4. Probability of financial outcome — total construction cost
+Predicted costEarly onTowards endMaximum{5.017 m€4.839 mMost likely€4.762 m€4.810 mMinimum€4.589 mE4.788 mActual Final Cost €4.805 m
+  2. Was the actual result within the client's preferred risk range (see Fig. 4). It was (the risk range for this project was an upper limit expenditure of €4.90 m).
+  3. Was the cost of the works comparable with work of a similar nature carried out using a traditional procurement system? The answer to this must be to some extent subjective. It is the opinion of the client's quantity surveyor that the cost was fair and in line with current costs. Also the submitted final cost account was approved by the government department funding the project.
+Final comments
+This paper has tried to show the potential for the application of decision/risk analysis to construction cost problems. The case study described its application to a type of contract work which is typical today. The Chartered Quantity Surveyor by the marketing of this service will enable the client to avail themselves of the best option in cost control for their particular requirements. Although risk analysis was only used in the case study during the construction stage, it can also be applied in investment appraisal, cost planning stages, and consideration of alternative work implementation methods. In addition it has application in more specialized areas of quantity surveying practice, e.g. litigation, quality assessment, etc.
+	opyng	Ri htskeserved.
+Cost 
+How traditional single point cost planning procedures could be adapted to provide answers in terms of probabilities of differing cost ranges is shown below:
+Traditional1.Comparative — costing a designCost planning2.Element — designing to a costProbability range 1.Comparative — probability cost range of designCost planning2.Element/component — designing within a predetermined range of uncertainty.Notes
+1. Within this paper, no distinction is made between decision analysis and risk analysis. For a more detailed examination of their relationship, see Hertz and Thomas (1983).
+2. For a fuller description, see Raiffa (1968).
+3. See various methodologies for measuring utility values in Von Winterfeldt and Edwards (1986).
+4. For a fuller description of procurement methods see, for example, The Aqua Group, Tenders and Contracts for Building. Granada, London 1982.
+5. see Hogarth (1980).
+References
+Arlane, A.G. and Rakhra, A.S. (1988) Building code assessment framework, Construction Management and Economics, 6, 117—31.
+Bar-Hillel, M. (1979) The role of sample size in sample evaluation, Organisational Behaviour and Human Performance, 24, 245—57.
+Bennett, J. and Ormerod, R.N. (1984) Simulation applied to construction projects, Construction Management and Economics, 2, 225—63.
+Beeston, D. (1986) Combined risks in estimating, Construction Management and Economics, 4, 75—9. Byrne, P. and Cadman, D. (1984) Risk, Uncertainty and Decision-Making in Property Development. E. & F.N. spon, London.
+Chapman, C.B. (1979) Large engineering project risk analysis, IEEE Transactions on Engineering Management, EM 26, 3, 78—86.
+Cohen, J. (1972) Psychological Probability: Or the Art of Doubt. George Allen and Unwin, London. Cooper, D.F., MacDonald, D.H. and Chapman, C.B. (1985) Risk analysis of a construction cost estimate, Project Management, 3, 141—9.
+Fischoff, B. (1982) In D. Kahneman, P. Slovic and A. Tversky (eds), Judgement under Uncertainty: Heuristics and Biases. Cambridge University Press, Cambridge, pp. 422-44.
+Flanagan, D. et al. (1987) Life cycle costing and risk management, Construction Management and Economics, 5, S53-71.
+Hayes, R.W., Perry, J.G., Thompson, P.A. and Willmer, G. (1987) Risk Management in Engineering Construction. Thomas Telford Publications, London.
+Hertz, D.B. and Thomas, H. (1983) Risk Analysis and its Applications. John Wiley, Chichester, England.
+Hogarth, R. (1980) Judgement and Choice. John Wiley, Chichester, England.
+Ireland, V. (1985) The role of managerial actions in the cost, time and quality performance of high-rise commercial building projects, Construction Management and Economics, 3, 59—87.
+Copyright 
+
+Kahneman, D. , Slovic, P. and Tversky, A. (eds) (1982) Judgement Under Uncertainty: Heuristics and Biases. Cambridge University Press, Cambridge.
+Lichtenstein, S. and Fischoff, B. (1980) Training for calibration, Organizational Behavior and Human Performance, 26, 149—71.
+Meehl, P.E. (1954) Clinical Versus Statistical Prediction: A theoretical analysis and a review of the evidence. University of Minnesota Press, Minneapolis.
+Moore, P.G. (1980) The Business of Risk. Cambridge Unviersity Press, Cambridge.
+Perry, J.G. and Hayes, R.W. (1985) Risk and its management in construction projects, Proceedings of the Institution of Civil Engineers, pt 1, 78, 499—521.
+Phillips, L.D. and Thomas, H. (1973) Assessing Probability and Utility, Working Paper, London Business School, Decision Analysis Unit.
+Raiffa, H. (1968) Decision Analysis. Addison-Wesley, Reading, Mass.
+Raiffa, H. (1969) Assessments of Probabilities. Unpublished manuscript, Harvard University.
+Slovic, P. (1972) Psychological study of human judgement: implications for investment decision making. Journal of Finance, 27, 779—99.
+Slovic, P. , Fischoff, B. and Lichtenstein, S. (1980) Facts vs fears: Understanding perceived risk. In Schwing and Albers, Jr (eds), Societal Risk Assessment: How Safe is Enough? Plenum Press, New York.
+Von Winterfeldt, D. and Edwards, W. (1986) Decision Analysis and Behavioral Research. Cambridge University Press, Cambridge.
+Wilson, A. (1982) In P.S. Brandon (ed.), Building Cost Techniques: New Directions in Experiments in Probabilistic Cost Modelling, E. & F.N. Spon, London.
+Woodward, J.F. (1975) Quantitative Methods in Construction Management and Design. Macmillan,
+
+London.
+
+	opynght 	Ri hts Regerved.
+	172	Birnie and Yates
+
+Cost prediction	173
+
+Reserved.
+
+Copyright 0 2001 . All Rights Reserved.
+
+
+
+0 2001 . All Rights Reserved.
+
+172	Birnie and Yates
+
+Cost prediction	173
+
+All Rights 
+
+Copyright 0 2001 . All Rights Reserved.
+
+172	Birnie and Yates
+
+All Rights Reserved.
+
+	172	Birnie and Yates
+
+Cost prediction	173
+
+0 2001 . All Rights Reserved.
+
+Copyright 0 2001 . All Rights Reserved.
+
+	172	Birnie and Yates
+
+
+
+	172	Birnie and Yates
+
+	prediction	185
+
+0 2001 . All 
+
+0 2001 . All Rights Reserved.
+
+Cost prediction	173
+
+0 2001 . All Rights Reserved.
+
+172	Birnie and Yates
+
+172	Birnie and Yates
+
+2001 . All 
+
+2001 . All 
+
+172	Birnie and Yates
+
+2001 . All 
+

@@ -1,0 +1,656 @@
+﻿Construction Management and Economics, 1992, 10, 227—247
+Competitiveness in bidding: a consultant's perspective
+D.S. DREW I and R.M. SKITMORE 2
+1Senior Lecturer, Department of Building and Surveying, Hong Kong Polytechnic, Hung Hom, Kowloon, Hong Kong and 2Senior Lecturer, Department of Surveying, University of Salford, Salford M5 4 WT, England
+This paper examines the relationship between the competitiveness of contract bids entered by individual bidders through the variables ofbidder size, contract value and project type. The analysis indicates that, in terms ofcompetitiveness, there is a relationship between the size ofbidder and size ofcontract. This concurs with previous work in the field. Bidders having competitiveness affinities towards particular types of projects, although apparent, appear to be weaker for the private sector than found in previous work concerning the public sector.
+Keywords: bidding performance, competitive bidding, bid variability.
+Introduction
+A major aspect in the use of selective competitive tendering (bidding) is the prequalification (selection) of suitable bidders to enter the auction. This is often accomplished by crude subjective assessment of bidders' capabilities based on the prequalifier's first- or second-hand knowledge of the bidders. Russell et al. (1990) describe the process as an art, where subjective judgement based on an individual's experience is an essential part of the process. Such a procedure is naturally rather unreliable and may result in the selection of bidders that are either not interested or not able to provide competitive bids for a contract. There is also the possibility that other ready, willing and able potential bidders may be neglected.
+  In an earlier paper (Skitmore, 1981), one of the authors examined the implications of a virtually random prequalification procedure in which it was shown that identification of the most competitive bidders was a crucial missing factor. Flanagan and Norman (1982a) suggest that, in order to assess competitiveness, the decision maker . must take into account the bidding range and the relationship between the lowest and second and third lowest bids'. In a subsequent analysis (Flanagan and Norman, 1982b) they consider a series of bids from three construction contract bidders and conclude that competitiveness is affected to some extent by both project type and size, depending on the particular bidder concerned.
+  The work described in this paper was aimed firstly at examining the rationale underlying Flanagan and Norman's approach and then extending their original analysis to a closer examination of the exhibited and likely competitiveness of bidders in terms of common characteristics of both bidders (size) and contracts (size and type), for explanatory and predictive purposes. Our main contribution in this has been in the development of a quadratic form of competitiveness index by which it has been possible to generate some new
+0144-6193/92 0 1992 E. & F.N. spon
+Co ri ht 
+findings in addition to testing Flanagan and Norman's assertions. Concluding remarks indicate the potential of the new approach for use by practitioners in making more systematic prequalification decisions of this kind.
+Competitiveness and bid variability
+In construction contract auctions, bidders entering consistently low-value bids are reckoned to be more competitive than those entering consistently high-value bids. A well-known adage, however, is that 'the bidder who makes the most mistakes wins the most contracts'. Such mistakes may be regarded as random perturbations resulting in either unnecessary additions or omissions to bids to produce high and low bids respectively. Bidders most prone to mistakes of this kind therefore have a greater competitiveness inconsistency than others and in general these bidders have a greater chance of entering the lowest (and highest) bid.
+  Competitive inconsistency is manifested in the variability of bids entered by individual bidders over a series of auctions and has been ascribed to many factors other than pure mistake, including those discussed later in this section.
+Cost estimate
+The variability of cost estimates has been attributed to three factors: (1) inherent unpredictability (e.g. site performance, weather conditions); (2) uncertainty due to incomplete design and future cost levels; and (3) costing errors (Skitmore, 1982). Also, as bidders have only an imperfect knowledge of the direct costs of a building contract, they allow different contingency values according to their perception and attitude to the levels of risk involved.
+  The difference in cost estimates between bidders is considered by several authors (e.g. Beeston, 1983) to be the major component of bid variability.
+Mark-up
+Different bidders apply different mark-up policies which may be variable of fixed. Upson ( 1987 ) suggests that the following factors should be given consideration for variable mark-up policies:
+I . Work in hand.
+2. Bids in hand.
+3. Availability of staff.
+4. Profitability.
+5. Ability of architect or other supervising omcer.
+6. Contract conditions.
+7. Site conditions.
+8. Construction methods and programme.
+9. Market conditions.
+10. Identity of other bidders.
+  The strategic selection of mark-up values has been considered extensively in the literature. Fine (1975) has identified several strategies including random bidding when work is low, selective bidding and severely competitive bidding with claim back options within the limits of the contract. Stone (1983) has also suggested that some firms aim at lower standards of work than others and that there are differences in efficiency and therefore cost.
+Serious and non-serious bids
+The seriousness of bids can considered in relation to job desirability. For example, the following six decisions are often made in ascending order of job desirability:
+1. Decline to bid.
+2. Return tender documents.
+3. Submit cover price.
+4. Produce rough estimate and add mark-up.
+5. Produce detailed estimate and add mark-up.
+6. Add 'non price' features.
+  Only bids derived from at least number five above are usually considered to be genuine and serious. As detailed estimates are most likely to be less variable, even between bidders, we can be reasonably confident that serious bids will have a lower variability than non-serious bids.
+Collusion with other bidders
+The little evidence that is available suggests that collusion with other bidders is a rare occurrence in construction auctions, generally restricted to highly specialized work where the bidders virtually monopolize the field (Skitmore, 1986).
+Effect of subcontracting
+Flanagan and Norman (1985) state that this is a source of bid variability simply because main contractors employ different subcontractors and split the contract into various subcontracted work packages for different contracts.
+Variety of bidders involved
+The smaller the contract the greater the potential number of bidders able to undertake the work. Therefore, there is less chance that the same bidders are included on the bid list.
+Perceived 'norms'
+Just as some contractors display a greater bidding inconsistency, others may be more consistent in their bidding which on occasion may manifest itself in a small range of bids being received for certain projects. This small range may be indicative of collusion between the bidders or due to the existence of a perceived 'norm'.
+  A genuine bid may be interpreted as a reflection of the perceived 'norm' — that is what contractors think the market price is for a particular contract at a certain point in time. Thus a bid is essentially an estimate of the (unknown) market price. In this sense, the consistency between bidders is an indication of the degree of consensus concerning the value of market
+Co ri ht 
+price which, in turn, is influenced by such factors as the predictability of the market price and the experience of the bidders.
+Selection of bidders
+In the selection of bidders, Russell et al. (1990) propose a decision model for prequalification consisting of
+1. Preliminary screening criteria (e.g. references, reputation, past performance).
+2. Contractor resources (e.g. financial stability, status of current work programme, technical expertise)
+3. Other items (e.g. project-specific criteria).
+More specifically, they suggest that the following factors should be considered:
+1. Length of time in business and length of time controlled by current management.
+2. Types of project performed in the past.
+3. Largest projects performed within the last 10 years and last 5 years.
+4. Amount of current uncompleted work-in-hand and largest amount of uncompleted workin-hand (past 3 years or highest historical value).
+5. Bond decision and bond cost.
+One of the main objectives in prequalification of potential bidders is to ensure a reasonable level of competitiveness for the work-in-hand. This presents little diffcultly with effcient and consistently low bidders. Inconsistent bidders are more of a problem. If the inconsistency is caused by erratic cost estimating, then low bids may well be based on estimates unwittingly made for values below actual costs. Although superficially of little interest to the client, such unrealistic or suicidal bids are potentially terminal for the contractor involved resulting in either a proliferation of claims or illiquidity. Either way this will cause problems for the client.
+  Consultants, to a limited extent, have control over this in selective tendering as they may determine the number and identity of bidders allowed to enter the auction. Reducing the number of competing bidders is one possibility as it lessens the chance of a suicidally inconsistent bid winning the contract. An alternative is carefully to construct the bid-list to avoid possible problems by including only bidders who are sumciently experienced with estimating costs for the work involved.
+  It would seem that experience is a key factor. By using feedback from previous similar contracts handled, an experienced bidder can be more confident of his company's likely actual costs. As a result it is expected that such experienced bidders formulate bid prices on the basis of knowledge, relative emciency and experience rather than simply reacting to what competitors are expected to do (Flanagan and Norman, 1985) and are therefore rather more consistent in their bidding than their inexperienced counterparts.
+  Likely efficiency and consistency can be determined to an extent by raising a few key questions such as:
+1. Has the bidder had recent experience in constructing a project of similar size and type?
+2. Is the size of bidder appropiate to the contract value?
+
+3. Is the contract value within ranges normally undertaken by the bidder?
+Answers to these questions can, to some extent, be obtained through the analysis of past bidding performance.
+Measurable factors affecting bidding behaviour
+Flanagan and Norman (1982a) suggested that bidding behaviour is likely to be affected by five major factors, namely
+1. Size and value of contract and construction or managerial complexity to complete it.
+2. Regional market conditions.
+3. Current and projected workload of the bidder.
+4. Type of client.
+5. Type of project.
+In a later empirical study, Flanagan and Norman (1982b) examined the bid performance of a small, medium, and large bidder. They found that when bidding (1) the small bidder considered both project type and contract value (2) the large bidder was more successful in bidding for large contracts and (3) the medium bidder's competitiveness was not related to either type or size. These three variables — project size, project type and bidder size — were also used in our work.
+Measuring competitiveness
+Bidding performance concerns the relationship between bids submitted by different bidders in competition. Although this relationship can be quantified in purely relative terms (Skitmore, 1991), the model and subsequent analysis is quite diffcult and not easily treated by conventional means. For most practical purposes it is sumcient to consider bids in relation to a baseline. Common baselines include the designer's estimate, a bidder's cost estimate, or the mean, median or lowest of the bids entered for a contract. In this case we use the latter measure as it is easily understood and also because it has been shown that, under certain restrictive conditions, the expected value of the winning bid ' . . . is surely equal to the true value' of the project (see Milgrom, 1981, and Wilson, 1979, for instance).
+  A measure of competitiveness of this type commonly found in the literature is the percentage of each bid above the baseline, i.e.
+	C = 100(x —	(1)
+where C denotes the measure of competitiveness required, x represents the bid value entered by an individual bidder, and X(l) represents the value of the lowest bid entered for the contract. From this it is clear that lower percentage values indicate greater competitiveness, the lowest bidder having a competitiveness value of 0%.
+  By aggregating the C values for an individual bidder over a series of auctions it is then possible to examine that bidder's performance in terms of the frequency distribution of the
+aggregated C values. In this study we consider two summary statistics describing the frequency distribution — the arithmetic mean, C' and standard deviation, C". Low values of C' are taken to denote high competitiveness and low values of C" are taken to denote a high level of consistency of competitiveness. This latter interpretation needs to be treated with care for, as C values are constrained to minimum at zero, C' and C" are not necessarily independent and greater values of C" are to be expected for greater values of C. The coeffcient of variation is given by
+	CV 100) + l}	(2)
+Analysis
+A total of 2347 bids from 368 contract bids, for the period 1978—85, were collected from a large quantity surveying practice in Hong Kong. This represented general building work only. Specialist work such as piling and services was not included in the sample. The data source was unwilling to make available more recent information due to reasons of confidentiality.
+  In the initial screening all qualified bids were omitted from the data as they could not be directly compared with other bids. Additionally, all contracts where the total number and identity of bidders were not known were also omitted. It was felt that if these were included they would distort the true competitiveness of the bidders being analysed as in these cases only the most competitive bids were recorded (usually the three lowest bids).
+  From this sample, 12 bidders were selected for analysis on the basis that they had submitted the most bids and were government approved. Each bidder was assigned a code to preserve identity and classified into size groupings according to Government criteria for contractor classification. This categorizes contractors into three project value bands. Each band has an upper project value limit to which the contractor can bid, i.e. up to HK$6 million (small), up to HK$30 million (medium), unlimited (large) (Hong Kong Government, 1990). The 12 bidders selected comprised four large, four medium, and four small companies and were coded 1—4, 5—8, 9—12, respectively. A total of 446 bids received from the 12 bidders for 228 contracts were analysed. A total of 210 contracts were for private sector work, and 18 contracts were for public sector work.
+  For the building type analysis the projects were classified into broad building-type categories according to CI Sfb classification (RIBA, 1976), namely
+1. Building type 1 : utilities, civil engineering facilities.
+2. Building type 2: industrial facilities.
+3. Building type 3: administrative, commercial, protective services facilities.
+4. Building type 4: health, welfare facilities.
+5. Building type 5: recreational facilities.
+6. Building type 6: religious facilities.
+7. Building type 7: education, scientific, information facilities.
+8. Building type 8: residential facilities.
+9. Building type 9: common facilities.
+Broad categories were selected because there was insumcient data for specific building-type categorization.
+  For comparison all contract values were updated to a common base date (February 1986) based on a local tender price index (Levett and Bailey, 1990). On average, 10 bidders were invited to bid for each contract, and nine bids were recorded.
+  Table 1 gives the contract bid statistics for each of the bidders. There is more data on the large bidders and, as expected, larger bidders have, on average, bid for larger contracts. It is,
+Table 1. Bids received
+Bidder classificationBidder codeAverage contract bidMinimum bid valueMaximum bid valueLarge
+Medium
+Small
+Overall1
+2
+3
+4
+5
+6
+7
+8
+10 11
+1233 295 513
+105 816 074
+102 042 336
+50 025 160
+7 624 180
+15 521 911
+14 544 635
+27 968 786
+1 724 441
+13 385 729
+9 947 344
+32 812 372
+44 052 0871 669 076
+357 006
+2 747 598
+3 679 345
+55 865
+408 863
+271 942
+279 051
+76 562
+167 247
+189 225
+2 471 828
+55 865134 926 307
+440 707 600
+428 183 871
+440 010 757
+59 369 510
+87 302 959
+62 597 101
+245 569 448
+5 682 676
+53 789 680
+63 669 522
+84 633 017
+440 707 600perhaps, surprising to find, especially when economies of scale are considered, that all the medium and large bidders in the sample have also bid for comparatively small contracts. This it would seem, lends weight to the argument that larger bidders are selected to bid on the basis of reputation as they are better known than the smaller bidders (this aspect is considered in more detail later in this analysis).
+  Table 1 also highlights the fact that classifying bidder size according to government criteria for what is essentially a sample of private sector work is not directly applicable and, therefore, can only be used as a crude measure of size. For example, although bidder 12, a 'small bidder', is only eligible to bid for government work up to $6 million, he has submitted a bid of over $84 million. Likewise bidder eight, a 'medium bidder' who is only eligible to bid for government work up to $30 million has submitted a bid of over $245 million. Bidder 12, a 'smaller bidder' also has an average contract bid larger than any of the medium bidders.
+  In respect of the analysis by project type, Table 2 illustrates the bidding performance of all bidders according to building type. Most bidding attempts were for building type eight, residential contracts, which would be expected. With the exception of this and building types six and nine, which in this sample represented uncommon building types, the bidding attempts for the remaining building types were quite evenly distributed.
+Table 2. Bidder performance according to building type for all bidders
+Building typeAverage bid value No. of bidding attempts   Average competitiveness valueVarianceCoemcient of variation1
+2
+3
+4
+5
+(6)
+7
+8
+(9)
+Overall14 400 564
+38 537 646
+72 487 719 46 219 382
+22 095 237
+(19 945 541)
+18 319 841
+70 972 613
+(195 210)
+44 052 08764
+47
+51
+49
+38
+(7)
+64
+124
+(2)
+44632.81
+14.16
+14.02
+17.24
+16.90
+(20.13)
+20.47
+16.27
+(67.05)
+19.211551.23
+202.40 480.54
+251.02
+359.03
+(528.40)
+403.41
+302.88
+(3192.01)
+552.7729.66
+12.46
+19.23
+13.51
+16.21
+(19.14)
+16.67
+14.97
+(33.82)
+19.72Bracketed figures denote project types with small number of bidding attempts.
+  Disregarding types six and nine due to lack of data, Table 2 reveals that there is a significant correlation between the average competitiveness percentage and average bid size of r=0.934 (prob<0.001). Contracts of a larger average bid therefore generate a smaller competitiveness percentage. This may be partly due to the smaller differences in the competitiveness percentage per dollar change for larger contracts. This in turn may be related to the size of contractor being invited for the size of project, large contractors have been invited to bid for predominantly large contracts.
+  A total of 19 outliers were recorded at the two standard deviations level (see Table 3). With three exceptions all the outliers were for contracts under $11 million which is noteworthy when the average bid size in the analysis was over $44 million. This may be partly due to large and medium bidders not being so competitive on small contracts. (This point is examined more closely later in the analysis). The three exceptions were
+1. A bid of $87 302 969 which was the largest bid submitted by bidder number six, a 'medium' bidder.
+2. A bid of $28 307 558 which was submitted by bidder number 10, a 'small' bidder.
+3. A bid of $48 657 656 which was submitted by bidder number two, a 'large' bidder. This bid was for an unusual building type (a mosque).
+  It is also interesting to note that eight of the 19 outliers were for building type one (utilities, civil engineering facilities). This may be because this building-type generated substantially smaller than average bids. The average bid generated for this project type can be seen from Table 2 as being $14 400 564.
+  The correlation between average competitiveness and its coefficient of variation was found to be significant (r = 0.878, prob < 0.05) which suggests that competitive bids were more consistent than other bids.
+  The number of times that a bidder declined to bid was also considered. Large bidders, who declined to bid on 35 occasions, exercised the option in declining to bid substantially more than either the medium or small bidders. These groups of contractors declined to bid on only Table 3. Outliers
+
+Record Bidder Building Bid Competitiveness number code type value percentage
+
+5721729 73777772648 657 65665116314 994 431211171413 786 331136172415 162 1959021659111 370107231512 868 58779235554 743 66773255611 803 379115263675 606 20087274687 922 436712896887 302 959673117510 727 010903821111 882 222131384113189 2251473851041 543 500834031079 957 8588740710828 307 55810742412110 182 96493
+three and two occasions respectively. Bidder number three, who declined to bid on 20 occasions, appeared to adopt a selective bidding strategy.
+Bidder analysis
+The bidders were initially analysed according to classification (i.e. small, medium and large bidders) for all project types and then according to each building type. Subsequently, each individual bidder's performance was analysed for all project types and then according to each building type.
+Bidding performance according to bidder classification
+An inspection of Table 4 reveals a trend which points towards the larger bidders achieving a lower average competitiveness percentage. This may be for reasons previously described (see comments under Table 2). However, the bidding attempt/lowest bid ratio increases with the smaller bidders. This may be caused by small bidders displaying a higher bid variability, which, in turn, may be partly attributable to smaller contracts giving rise to greater differences in the competitiveness percentage as the percentage differences are greater per dollar change from the lowest bid received.
+  Classifying the bidders into large, medium and small based on government criteria (Table 4) produced the statistics of F(2) = 2.65 (prob=0.072) and Cochran's C=0.48 (prob =0.000). A sensitivity analysis was carried out on this method of grouping. The grouping was rescheduled by average recorded contract bid (large = bidders coded 1, 2, 3, 4;
+Table 4. Bidding performance according to bidder classification for all building types
+Bidder class No. of bidding attempts No. of occasions lowest bid Bidding attempt lowest bid ratio Average compet. percentage VarianceCoeff.
+ of varn.Large
+Medium
+Small Overall214
+153
+79
+44617
+20
+14
+510.079
+0.131
+0.177
+0.1 1416.60
+21.15
+22.53
+19.21479.18
+471.98
+888.1 1
+552.7718.77
+17.93
+24.32
+19.72medium = bidders coded 6, 7, 8, 12; small = bidders coded 7, 9, 1 (), 1 1). This new grouping produced average competitiveness percentages and variances of 16.60 (479.18), 21.22 (435.56) and 22.21 (872.61) for large, medium and small bidders respectively prob=0.075; Cochran's C =0.49, prob =0.000). Bidders were further rescheduled by average contract bid recorded into two size categories large and small (large = bidders coded 1, 2, 3, 4, 8, 12; small = 5, 6, 7, 9, 10, I l), producing an average competitiveness percentage and variance of 16.58 (441.42) and 23.19 (698.02) respectively (RI) = 8.57, prob=0.004; Cochran's C=0.61, prob =0.001). The results of these analyses suggest that larger contractors are more competitive and less variable than smaller contractors irrespective of the particular method of classifying contractor size.
+  When the bidder performance, according to bidder classification for each building type, was analysed it was found that large bidders achieved the highest average competitive percentage (34.28%) and variance (2947.19) for building type one, the project type with the smallest average contract bid ($14.40 million). Likewise, for small bidders the highest average competitive percentage (32.04%) and variance (3329.63) is for building type three, the project type with with the highest average contract bid ($72.49 million). This observation offers some evidence that, in terms of competitiveness, there is some relationship between bidder size and contract value. (Later in the analysis this aspect is considered further.)
+  When analysing the variability of bidding between contract types it was found that large, medium and small bidding achieved a variability of 957 1 10, 204 662 and 1 032 538, respectively. The suspected reason for large bidders having a high variability between types is that they have been invited to bid for smaller contracts on which they are generally less competitive and, in addition, achieve a higher variability. Smaller bidders, however, due to their limited resources, have generally been invited to bid only on smaller contracts. It is hypothesized that if the bids for larger bidders on large contracts were considered in a similar fashion as the bids of the smaller bidders who have generally bid only on smaller contracts, the variance between project types for the larger bidders would be substantially reduced.
+Bidding performance according to bidder
+Each bidder's bidding performance was subsequently analysed (see Table 5). In this analysis it is contended that the bidders who are judged to be better performers are those who are able to attain a lower average competitiveness percentage and also achieve a lower bid variability.
+  The bidders that best satisfy this criterion are bidders coded one, three, five, and nine. With respect to bidder one, although he has been a good performer he has unfortunately achieved
+
+Table 5. Bidding performance according to bidders for all building types
+Bidder class No. of bidding attempts No. of occasions lowest bid Bidding attempt/ lowest bid ratio Average compet. percentageVarianceCoeff. of varn.All types
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Overall55
+59
+(57)
+55
+(54)
+45
+(43)
+36
+(33)
+39
+(35)
+44
+(43)
+34
+13
+26
+(23)
+20
+(18)
+20
+(19)
+446
+(427)3
+5
+7
+2
+9
+5
+4
+2
+3
+5
+4
+2
+510.055
+0.085
+0.127
+0.044
+0.250
+0.128
+0.091
+0.059
+0.231
+0.192
+0.200
+0.100
+0.11412.96
+14.05
+(12.05)
+14.36
+(10.72)
+27.14
+(23.13)
+19.87
+(13.85)
+32.38
+(26.34)
+17.08
+(15.39)
+14.92
+11.23
+23.01
+(13.98)
+32.61
+(20.79)
+19.17
+(15.27)
+19.21
+(15.58)117.55
+256.87
+(144.33)
+826.28
+(98.80)
+677.64
+(316.05)
+661.78
+(254.53)
+690.25
+(365.01)
+237.59
+(114.76)
+154.83
+159.60
+903.16
+(271.20)
+1591.53
+(291.75)
+558.62
+(267.45)
+552.77
+(213.30)9.60
+14.05
+(10.72)
+25.14
+(8.98)
+20.47
+(14.44)
+21.46
+(14.01)
+19.85
+(15.12)
+13.17
+(9.28)
+10.83
+11.36
+24.43
+(14.45)
+30.08
+(14.14)
+19.83
+(14.19)
+19.72
+(12.64)Bracketed figures denote bidding performance with outliers omitted.
+one of the smallest bidding attempts/lowest bid ratios. This is probably because of his comparatively low variance. Bidder three, with one outlier omitted, has achieved both the lowest average competitiveness percentage and variance. This may be a reflection on the fact that this bidder adopts a selective strategy. The bidding performance of bidder five is also impressive particularly as this bidder has attained a bidding attempt/lowest bid ratio of0.25. However, it should be noted that his 36 bidding attempts produced three outliers. Finally, bidder nine is also a good performer, however, this may be due to the fact that this bidder has submitted a comparatively small range of bids (see Table l ).
+  The worst performers overall in terms of average competitiveness and bid variability are bidders coded four, six, and eleven (outliers omitted). Bidder four also has the lowest bidding attempt/lowest bid ratio and being a large bidder possibly relies on his reputation to obtain work. (The low ratio is probably attributable to the bidder having a comparatively high average competitive percentage, but proportionally not so high variance.) Although the average competitiveness percentage is comparatively high for bidders 6 and 11 , they have still managed to attain reasonable bidding attempt/lowest bid ratio which probably is a reflection on their comparatively high bidding variability.
+Co ri ht 
+  The competitiveness percentage was compared with the variance to determine if there was any correlation between these two variables (see Table 6). The outliers were not omitted to reflect the 'raw' performance of the bidder. This produced a correlation coemcient of r = 0.760 (df= 1 1, prob < 0.01 ). There is, therefore, a strong correlation between competitive
+Table 6. Competitiveness percentages vs bid attempts/lowest bid ratio
+Bidder codeBidding attempt lowest bid ratio   Average competitiveness percentageVarianceCoeff.
+ of varn.9
+1
+2
+3
+8
+7
+12
+5
+10
+4
+6
+1 10.231
+0.055
+0.085
+0.127
+0.059
+0.091
+0.100
+0.250
+0.192
+0.044
+0.128
+0.2001 1.23
+12.96
+14.05
+14.36
+17.08
+19.17
+19.87
+23.01
+27.14
+32.38
+32.61159.60
+1 17.55
+256.87
+826.28
+154.83
+237.59
+558.62
+661.78
+903.16
+677.64
+690.25
+1591.9311.36
+9.60
+14.05
+25.14
+10.83
+13.17
+19.83
+21.46
+24.43
+20.47
+19.85
+30.08percentage and variance. Bidder number three is the exception to the trend. His performance has been adversely affected by the presence of one outlier (see Table I and Table 4). If this one outlier is omitted from the analysis the variance and average competitiveness percentage of bidder three is 98.8 and 10.72 respectively. This gives an overall improved correlation coemcient rating of r = 0.856 (df= 11, prob<0.001 ).
+  The correlation of a larger competitive percentage attracting a larger variance would seem a logical outcome as a bidder with a high average competitiveness percentage but low variance would fail to get any work. Conversely, a bidder with a lower average competitiveness percentage but high variability would eventually become bankrupt.
+  The correlation of average competitiveness with the coeffcient of variation was significant (r =0.683, prob<0.05). With one outlier removed, the correlation was still significant (r = 0.661 , prob < 0.05). This again suggests that consistency increases with competitiveness.
+  The comparison of variance with the bid attempt/lowest bid ratio produced a correlation coemcient of r = 0.424 (df= 1 1, prob > 0.05) which indicates that there is insuffcient evidence of correlation between bidders with a larger variance also having a larger bid attempt/lowest bid ratio. The two exceptions to this trend are bidders coded four and nine. (Possible reasons for these exceptions are because bidder four, a large bidder, relies on reputation, bidder nine has submitted a comparatively small range of bids.)
+  Likewise the comparison of competitiveness with the bid attempt/lowest bid ratio produced a correlation coemcient of r =0.149 (df=6, prob > 0.05). There is, therefore, no evidence of correlation between bidders with a larger average competitiveness percentage also having a larger bid attempt/lowest bid ratio. The reason for the low correlation may be because of bidders three, four and nine whose performances conflict with the expected trend.
+  For the sake of brevity, Table 7 illustrates the bidding performance of each of the bidders according to building types one, three and seven only. (The bidding attempt/lowest bid ratio has not been calculated as the number of bidding attempts are too widely dispersed to give a meaningful result.)
+  The importance of omitting outliers should be noted especially as the number of bidding attempts on each building type by most bidders is small, For example, consider the bidding performance of bidder number three on building type one. Bidder number three had four bidding attempts on this type of project, one of which achieved a competitiveness percentage of 211 % above the lowest bid (see outlier analysis). If this is treated as an outlier, and as such, is omitted, the remaining bids show the bidder to be very competitive for this building type. Therefore, in assessing bidding performance outliers need to be considered.
+  In addition to the outliers, the number of bidding attempts also needs to be considered, as the fewer the bidding attempts on a project type the less certainty there is of a bidder's performance. For example, consider the bidding performance of bidder number 11 on building type number three. Bidder number 1 1 submitted two bids; one in which he was the lowest bidder and another in which he was 147% above the lowest bid (see outlier analysis). The bidding performance of bidders with a small number of bidding attempts for a particular type should therefore be viewed with caution.
+  Taking the above into consideration, it is suggested that the bidders with the better bidding performance, in terms of competitiveness and bid variability for particular building types, are denoted with an asterisk.
+  For building type seven there would appear to be no outstanding performer. However, a possible contender may be bidder number five who succeeded in becoming the lowest bidder on four occasions from 11 bidding attempts, although this is probably attributable to his comparatively high bid variability.
+  Although there appears to be some amnity by certain bidders towards particular building types there is little evidence of bidders having a strong preference in terms of competitiveness for a particular building type. For example, the strongest type preference was for building type seven in which bidder five was the lowest bidder on four occasions out of 11 bidding attempts.
+  Domination by certain bidders in terms of competitiveness for a building type in the private sector is not as strong as that shown in previous research for public sector work (Flanagan and Norman, 1982b; Drew and Skitmore, 1990). Possible reasons for this include
+1. The private sector contracts are for a variety of clients as opposed to one client.
+2. The design and specification of the private sector contracts are likely to be more diversified than that of government contracts.
+3. The method of bidding for the private sector contracts is selective in which the bidders are invited, as opposed to open bidding as practised by the Hong Kong Government, where the onus is on the bidder to enter into competition.
+4. Unlike the usual practice adopted by the government, contracts in the private sector may not be awarded to the lowest bidder.
+5. The project types for this sample are more broadly-based when compared with the previous research (Flanagan and Norman, 1982b: Drew and Skitmore, 1990) which focused on a few specific building types.
+6. In constructing the bid-list, little emphasis may have been placed on bidders having preferences for particular building types.
+Copvriqht 
+Table 7. Bidding performance according to bidders for each building type
+
+No. of
+                  No. of	occasions	Average	Coeff. Bidder	bidding	lowest	compet.	of class	attempts	bid	percentage	Variance	varn.
+
+Building Type 16	0	6.4914.863.622351.27722.3217.77(2)(38.45)(459.05)(15.48)4	1	54.5110887.5967.53(3)(2.34)(4.26)(2.02)48	0	28.632496.5538.84(6)(321.44)(15.76)541 104.6225.31(3)(15.60)(173.12)(1 1 .38)61 136.3241 1.4514.887313.5619.663.9083	0	20.107.002.2092	1	16.45541.2019.98	10	23.45	23.74	4.71
+	1 1	654.45	1579.24	25.73
+	(5)(39.14)	(238.57)	(1 1.10)
+	12	1 124.77	843.71	23.28
+Building Type 3(10)(17.91 )(361.19)(16.12)	9	10.04	86.70	8.46
+	8	2	4.25	18.59	4.14
+310010.0543.966.024
+59118.96316.2114.956219.351 5.133.267
+8611 2.43
+13.0862.177.01910.0010033.501 12
+(1)173.50
+(0.00)10804.5059.9112
+Building Type 725.877.372.5610115.99310.2715.1925026.39201.591 1 .2335021.311 17.838.954425.08145.109.6351 1417.43482.7018.7167136.78968.2522.75(6)(28.41 )(573.80)(18.65)7
+86 o15.8015.553.41961 1.03125.3110.08105221.271386.5030.70	(4.84)	(48.71)	(6.66)
+	9.46	89.30	8.63
+	32.85	5.91
+Bracketed figures denote bidding performance with outliers omitted.
+Bidders with an asterisk denote good performers for that particular building type.
+Regression analysis and bidder size
+Regression analysis was used as an aid to determine the bidding performance. The bid values of past bidding attempts were plotted against the competitiveness percentage (the dependent variable) and contract value. Regression analysis was used to determine the line of best fit. Assuming the regression line represents a bidder's true competitiveness contract size relationship, then he is clearly most competitive where the regression line is closest to the X axis, i.e. at the trough of the regression line. The corresponding contract value at this point represents the bidder's preferred value (see Fig. 1).
+Regression line
+idding attempts
+Project value ( HK$ Millions )
+Fig. 1. Competitiveness, according to project value, of a hypothetical contractor.
+  Figure 2 illustrates the bidding performance in terms of competitiveness for each of the bidders coded 1 to 12. Each bidder's competitiveness according to contract value is represented by the quadratic regression curve referred to in Fig. 1. This has been fitted to the recorded data values for each of the 12 bidders encircled. Bold lines indicate the fit within the recorded data values and dashed lines show the curve extrapolated outside the data values.
+
+Project value ( HK$ Millions )
+Fig. 2. Competitiveness, according to project value, of 12 bidders for all projects in sample.
+Co ri ht 
+  As may be seen from Fig. 2, nine out of the 12 bidders display a concave curve which indicates a preferred value. The exceptions, who display a convex curve, are bidders seven, nine and ten. A convex curve may be due to the existence of any one or a combination of the following
+1. Two or more preferred size ranges.
+2. Weak or no preferred size range.
+3. Confounding effects of other preferences, e.g. location.
+4. 'Noise' effects caused by random fluctuations in bidding.
+5. Sampling effects, e.g. lack of data, spurious data, and outliers.
+Only two regression curves are significant at the 5% level (F Test). This is probably attributable to the high variability in bidding. In respect of the large bidders (bidders one to four), the graph illustrates that the preferred value is for larger contracts and that they are not so competitive on the smaller contracts. This accords with previous findings (Flanagan and Norman, 1982b; Drew and Skitmore 1990).
+  For the medium bidders (bidders five to eight) only bidders five and six display a preferred value. Bidder eight has what would appear to be a very weak preferred value. This is probably a reflection on the fact that for a medium bidder, this bidder has submitted comparatively large bids.
+  For the smaller bidders (bidders nine to 12) only bidder 12 clearly displays a preferred value. This may be due to the fact that this bidder has submitted comparatively large bids for a small bidder. Bidder number 1 1 displays a negative preferred value which is possibly due to this bidder's extremely high variability in bidding.
+  If the convex regression lines are regarded as spurious then there is evidence to suggest that the medium and small bidders, when compared to the larger bidders, are more competitive on the smaller contracts. In terms of competitiveness, therefore, there would appear to be a relationship between bidder size and contract value in which larger bidders are more competitive for larger contracts and vice versa.
+  The regression analysis was repeated for building type eight (residential buildings). Ten out of 11 bidders displayed a concave curve indicating a preferred value (see Fig. 3).
+Regression analysis and coefficient for the x squared term
+In our earlier work (Drew and Skitmore, 1990) it was hypothesised that 'in respect of size of contractor, due to the influence of resource constraints, smaller contractors should have smaller preferred size ranges than large contractors and therefore larger coemcients for the x squared term'. However, it was concluded that 'there is no evidence that larger contractors are more competitive over a wider range of contract sizes than small contractors'.
+  This hypothesis was repeated with the current data, initially according to bidder classification in which it was found that large, medium and small contractors achieved coemcients for the x squared term of —2.20720 E-07, — 2.46549 E-07 and —5.92301 E—07, respectively.
+  The three sets of bidders therefore display preferred contract ranges (this can be seen from the negative values of the coeffcient for the x squared term which gives a concave regression curve). In addition, there is a trend which points to smaller bidders producing a larger coeffcient for the x squared term. In respect of individual bidders, nine out of 12 bidders have
+
+
+Project value ( HHS Millions)
+Fig. 3. Competitiveness, according to project value, of 12 bidders for building type eight — residential facilities.
+preferred contract values (due to the negative coeffcient), whereas the three remaining bidders display a convex curve (as can be seen by the positive coeffcient — see also Fig. 2).
+  If the convex curves are treated as being spurious, then there is evidence to suggest that small and medium bidders, at least, are likely to have larger coeffcient for the x squared term than larger bidders. (It is suspected that bidder eight, a medium bidder, has a coeffcient smaller than any of the large bidders due to the fact that he has bid over a comparatively wide range of project values (see Table 8).)
+Table 8. Regression coeffcients according to bidders
+Bidder codeBidder classCoeffcient8
+4
+(7)
+1
+2
+3
+(9)
+11
+6
+5
+12Medium
+Large
+(Medium)
+(Small)
+Large
+Large
+Large (Small)
+Small
+Medium
+Medium
+Small-6.55883 E 08
+—4.96991 E 07
+( + 3.99297 E-07)
+( + 3.12742 E-07)
+-2.76154 E 07
+-2.13083 E 07
+-2.04388 E 07
++5.04080 E 07
+—4.00982 E 07 -2.03396 E 06
+- 1.04384 E 06
+-1.00555 E 06Bracketed figures denote bidders with convex curves.
+  Although there appears to be some evidence to support the hypothesis, the results should be considered in the light of the data being based on selective tendering. The ability, therefore, of entering into the competition rests with the consultant selecting the bidder and not with the bidder entering into the competition on his own initiative (as is the case with open tendering). The bidder, therefore, has no control over the size of the contract for which he bids (unless he declines to bid) this is left in the hands of the consultant. For this reason the coeffcients are unlikely to reflect a bidder's true competitiveness value range.
+Success and bidder size
+The notion that larger bidders succeed in winning contracts on the basis of reputation was investigated. It has already been demonstrated that the bidding attempt/lowest bid ratio increases with smaller bidders (see Table 4). This is based on information contained in bid reports for 228 contracts. However, this cannot be used as a basis for determining the winning bidder as this is not known at the time the bid report is written. Therefore, the contract bills were sought for these contracts of which 1 11 contract bills were found. By comparing the bidding attempt/lowest bid ratio based on bid reports (see Table 4) with that based on contract bills (see Table 9) it can be seen that the ratios are almost identical. Therefore, the 11 1 contracts based on contract bills would appear to be a fair representation sample of the 228 contracts based on bid reports.
+Table 9. Success and lowest bidder according to classification
+Bidder class No. of bidding attempts No. of occasions lowest bid Bidding attempts lowest bid ratio No. of occasions successful Bidding attempts success ratioLarge
+Medium
+Small
+Overall104
+76
+43
+2239
+10
+8
+270.086
+0.18616
+7
+6
+290.153
+0.092
+0.140
+0.130  As both the lowest bidder and successful bidder are known for the contracts based on contract bills, it is possible to calculate both the bidding attempt/lowest bid ratio and bidding attempt/successful bidder ratio as shown in Table 9. Although the bidding attempt/lowest bid ratio increases with the smaller bidders it can be seen that the group of large bidders enjoy the highest success/lowest bid ratio. It would seem, therefore, although the smaller bidders have the greatest chance of becoming the lowest bidder, large bidders have the greatest chance of winning the contract which supports the notion that bidders succeed in winning contracts on the basis of reputation.
+  Bidder number two (a large bidder) was the most favoured bidder in this respect, because although he was the lowest bidder on two occasions he was successful on six occasions. Bidder number six (a medium bidder) however, submitted 24 bids and was the lowest bidder on two occasions, yet failed to secure a contract.
+Conclusions
+The results indicate that in terms of competitiveness there is a relationship between bidder size and contract value. As expected, large bidders are more competitive on large contracts and medium and small bidders are more competitive on smaller contracts.
+  Contracts of a larger value generate a smaller average competitive percentage. A contributing factor is that for larger contracts there is a smaller percentage difference per dollar change from the lowest bid received. This phenomena gives rise to larger bidders generally achieving a greater average competitiveness percentage as they bid for, on average, larger contracts. As competitiveness is the dependent variable, smaller contracts are therefore likely to generate a larger number of outliers.
+  This finding also has repercussions on the bidding consistency of bidders in that smaller bidders are likely to display a higher bidding variance. This higher variability may be exacerbated as smaller bidders are likely to display a greater competitive variability than large bidders due to a combination of reasons which may include resource constraints coupled with the greater variety of potential competitors.
+  The variability relationship between different size of bidders also has an effect on the bidding attempt/lowest bid ratio. Smaller bidders are likely to achieve a larger bidding attempt/lowest bid ratio.
+  There is a strong correlation between competitiveness and variability. A higher average competitiveness percentage gives rise to higher variance/standard deviation/coeffcient of variation. There is, however, insuffcient evidence of correlation between variance and bidding attempt lowest bid ratio.
+  There are, however, grounds to show that although smaller bidders achieve a higher bid attempt/lowest bid ratio, large bidders, at least, achieve a higher bid attempt/success ratio. A selective bidding strategy is likely to achieve a lower average competitiveness percentage and vanance.
+  There is evidence to suggest that, in terms of competitiveness, bidders have preferred value ranges. In addition, there is some evidence, at least, that larger bidders have a wider preferred value range and are more competitive over a wider value range. This was judged by the fact that small bidders display a larger coeffcient for the x squared term. However, due to the procedures of selective tendering, the ability of entering into competition rests with the consultant, not with the bidder. Therefore, the coemcient of the x squared term is unlikely to be a true reflection of a bidders true competitive value range. There is no evidence to show that certain bidders display strong amnities in terms of competitiveness towards particular project types for private sector work as has been shown for public sector work (Flanagan and Norman, 1982b; Drew and Skitmore, 1990).
+  The analysis is also inconclusive in showing that smaller bidders are more variable in their competitiveness between certain types. The suspected reason is that the larger bidders have been invited to bid on smaller contracts on which they are less competitive. This, when combined with the larger contracts on which they are more competitive, compounds the larger bidders bidding variability.
+  Using government criteria as a means ofclassifying bidder size for private sector work does have limitations. However, this measure has shown that bidders classified as large, medium and small have generally submitted bids appropriate to their size. Sensitivity analysis by alternative sizing criteria provided similar results. The larger bidders have also been invited and submitted bids on comparatively small contracts. This may be linked to the fact that larger bidders are preferred to smaller bidders as witnessed by the high bid attempt success ratio.
+In conclusion, it is our view that in constructing bid-lists consultants should ensure that
+1. The size of the bidder is appropriate to the contract value.
+2. In terms of competitiveness, bidders' preferences, such as type, are considered.
+3. Bidders have recent experience in constructing projects of a similar type and contract value.
+One of the benefits of carefully constructing a bid-list is that fewer bidders can be invited to bid without adversely affecting the likely bid values received. In addition, by consistently choosing bidders who are likely to submit competitive bids, on average, lower bids are likely to be received thereby giving the client better value for money.
+Acknowledgement
+The authors would like to thank the anonymous reviewers for their kind and helpful comments in the preparation of the final version of this paper.
+References
+Beeston, D.T. (1983). Statistical Methods for Building Price Data, E. & F.N. Spon, London.
+Drew, D.S. and Skitmore, R.M. (1990). Analysing bidding performance: measuring the influence of contract size and type. In Building Economics and Construction Management, Vol. 6, Management of the Building Firm (edited by V. Ireland and D. Cheetham), pp. 129—39. The International Council for Building Research Studies and Documentation, CIB W-55/65.
+Fine, B. (1975). Tendering strategy. In Aspects ofthe Economics of Construction (edited by D.A. Turin) Godwin, London, pp. 203—21.
+Flanagan, R. and Norman, G. (1982a). Making good use of low bids, Chartered Quantity Surveyor, 14, March, 226-7.
+Flanagan, R. and Norman, G. (1982b). An examination of the tendering pattern of individual building contractors, Building Technology and Management, 28, April, 25—8.
+Flanagan, R. and Norman, G. (1985). Sealed bid auctions: an application to the building industry, Construction Management and Economics, 3, 145—61.
+Hong Kong Government, (1990). Hong Kong Gazette, SS No. 4 to Gazette no. 7/1990, GN(S)6 of 1990, List 1, Government Secretariat Works Branch, Hong Kong, pp. DI 13—D121.
+Levett and Bailey (1990). Tender Price Indices, 1990.
+Milgrom, P.R. (1981) Rational expectations, information acquisition and competitive bidding, Econometrica, 49, 921—43.
+RIBA, (1976). Cl/SfB Construction Indexing Manual, RIBA Publications Ltd, London.
+Russell, J.S., Skibniewski, M.J. and Cozier, D.R. (1990). Qualifier-2: Knowledge-based system for contractor prequalification, Journal of Construction Engineering and Management, 116, 157—71. Skitmore, R.M. (1981). Why do tenders vary? Chartered Quantity Surveyor, 4, 128—9.
+Skitmore, R.M. (1982). A bidding model, In Building cost techniques: new directions (edited by P.S. Brandon) pp. 278-9. E. & F.N. spon, London.
+Skitmore, R.M. (1986). A model of the construction project and bidding decision. Unpublished PhD thesis, University of Salford.
+Skitmore, R.M. (1991). The contract bidder homogeneity assumption: an empirical analysis, Construction Management and Economics, 9, 403—29.
+Stone, P.A. (1983). Building Economy, Pergamon Press, Oxford.
+Upson, A. (1987). Financial Management for Contractors, BSP Professional Books, Oxford.
+Wilson, R. (1979). A bidding model for perfect competition, Review of Economic Studies, 44, 511—18.
+	228	Drew and Skitmore
+
+Competitiveness in bidding	229
+
+
+
+0 2001 . All Rights Reseved.
+
+
+
+0 2001 . All Rights Reseved.
+
+	228	Drew and Skitmore
+
+Competitiveness in bidding	229
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+Competitiveness in bidding	229
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+	228	Drew and Skitmore
+
+Competitiveness in bidding	229
+
+
+
+0 2001 . All Rights Reseved.
+
+Competitiveness in bidding	229
+
+0 2001 . All Rights Reseved.
+
+	228	Drew and Skitmore
+
+	Competitiveness in bidding	229
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+	Competitiveness in bidding	229
+
+Copvriqht 0 2001 . All Rights Reseved.
+

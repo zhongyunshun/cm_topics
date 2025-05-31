@@ -1,0 +1,295 @@
+﻿Construction Management and Economics, 1990, 8, 249—257
+Thai construction industry: Demand and projection
+JOHN C.S. TANGa , PISIDHI KARASUDH1 b and
+PORNTIPA TACHOPIYAGOONC
+aAssociate Professor, Industrial Engineering & Management Division, Asian Institute of Technology, GPO Box 2754, Bangkok 10501 , Thailand bProfessor, Structural Engineering & Construction Division, Asian Institute of Technology, GPO Box 2754, Bangkok 10501, Thailand
+CGraduated Student, IE & M Division, AIT
+ Thailand is fast becoming a newly industrializing country and, consequently, a large number of construction works are projected for the future. This study is an attempt to gain further insight into the demandfor construction activities in Thailand. Three types of construction — residential, non-residential and 'other' (mainly public projects) — were considered. The demand function for each type ofconstruction was estimated using regression analysis. Results indicate that rising per capita income, the ratio of consumer price index to the construction cost index, and population are the major determinants ofdemand for residential construction. The expansion of industrial production capacity and the ratio of corporate savings to the construction cost index are the most significant factors affecting the demand for nonresidential construction. The demand of other construction is found to be largely a function of rising revenues of government and of public utilities.
+  Further, projection results indicate that total construction activities in Thailand appear to have a bright future: projected values rangefrom an annual average of230 481 million Baht to 310 599 million Bahtfor the next 5 five years.
+Keywords: Construction industry, demand analysis
+Introduction
+Construction is an essential activity in any economy and plays an important role in its development. The importance of the construction industry is such that there is hardly any sector in the national economy where the construction industry does not play an important role.
+  From 1976 to 1985, the value of total construction in Thailand increased from 35 860 million Baht to 124 835 million Baht, representing an increase of slightly over 13% per annum. During the first half of the 10-year period, non-residential construction predominated (activities in this category include construction of factories, omces, stores, hotels and institutional buildings), whereas for the latter half, other types of construction predominated (other construction activities are mainly public works and utilities, e.g. roads, ports and airports). Detailed data are shown in Table 1.
+0144-6193/90 $03.00+.12 C 1990 E. & F.N. spon Ltd.
+Co ri ht 
+Table 1. Construction output by type in current year (million Baht)
+YearResidentialNonresidentialAll other constructionTotal construction1976
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985 9 126 Il 329 15 876
+17 484
+19 269
+26 524
+29 685
+37 549
+39 754
+38 07214 036
+17 532
+29 025
+29 899
+37 478
+38 352
+29 051
+27 728
+30 575
+31 38412 698 17 834 Il 892 18 970
+32 408
+29 036
+39 025
+45 265
+53 039
+55 37935 860
+46 695
+56 793
+66 353
+89 155
+93 912
+97 761
+110 542
+123 338
+124 835Source: National Income 1985
+25 Baht = USSI.OO
+Objectives of the study
+The objectives of this study are, first, to estimate the demand functions for construction activities in Thailand. Using the above results, the second objective is to project the growth of the construction industry in Thailand to 1993.
+Demand models
+To estimate the demand functions for construction activities in Thailand, segregation is first necessary, since the factors affecting demand for different types of construction are usually different. The nature of those factors, together with an analysis of their relationships to the demand for construction will then be looked into.
+  In this study, the construction industry is divided into residential, non-residential and other.
+Demand for residential construction
+Residential construction constitutes the largest (in terms of units) and most homogeneous group in the construction family. The demand for residential construction is subject to postponement decisions by the consumer for whom the purchase of a house or an apartment typically represents their largest investment. Consequently, in times of recession or when credits are tight, the demand for residential construction tends to decline. On the other hand, when the economy is booming, demand increases. In the case of Thailand, specific factors affecting the demand for residential construction (RES) are found to include national income per capita (NPCI), relative price index (PI) which is expressed as a ratio of consumer price index to the construction cost index — rate of household formation (HF), size of population (POP), and prevailing interest rates (INT). The implicit demand function is as follows (see also Cassimatis, 1975):
+	RES  PI, HF, POP, INT)	(1)
+
+Ri hts 
+  It is hypothesized that the demand for residential construction will increase with increasing national income per capita, relative price index, rate of household formation, and size of population; at the same time, demand for residential construction is expected to move in the opposite direction with prevailing interest rates. Impacts of national income, household formation, population, and interest rates on demand for residential construction are fairly obvious. Since relative price index is defined to be the ratio of consumer price index over construction cost index, an increase in the relative price index implies that the consumer price index is increasing at a faster rate relative to the construction cost index and this will have a positive effect on the demand for residential construction.
+Demand for non-residential construction
+The level of activities in non-residential construction is generally considered to be an excellent indicator of the degree of industrialization of a country. Non-residential construction includes factories, offces, stores, hotels and institutional buildings. The demand in this market is derived from the expansions in productive capacity and forecasts of increased sales and expenditures on buildings and plants which are considered part ofprivate capital investment in the economy. In the case of Thailand, specific factors affecting the demand for non-residential construction (NRES) includes the ratio of corporate savings to the construction cost index (CSI), which is a proxy for the index of profit expectations, industrial production index (MPI), value of exports (EXI), number of tourist arrivals (TOUR), and gross domestic product (GDP). The implicit demand function for nonresidential construction is as follows (see also Cassimatis, 1975):
+	MPI, EXI, TOUR, GDP)	(2)
+  It is hypothesized that the demand for non-residential contruction will increase with increases in the ratio of corporate savings to the construction cost index, industrial production index, exports, tourist arrivals, and gross domestic product.
+Demand for 'other' construction
+All 'other' construction consists mainly of construction in public utilities and public works. The demand for this sector is mainly dependent on public policy as well as the availability of government revenue. Since the early 1960s, the government of Thailand has deliberately invested in the public infrastructure as a means to realize development objectives. In the case of Thailand, the specific factors affecting other construction (0TH) includes the ratio of government revenue to the construction cost index (GRI), value added by public utilities (VAl), and value of government expenditure (GEI). The implicit demand function for other construction is as follows (see also Cassimatis, 1975):
+	0TH 	VAI, GEO	(3)
+  The hypotheses made are that 'other' construction demand will increase with increases in the value added of public utilities and government revenue; but will decrease with increases
+Copyright 
+in government expenditures due to the fact that as government has to spend more, less resources will be available for construction, which is only one activity among numerous others that the state has to undertake.
+Sign of coeffcients
+The hypothesized signs of the different coemcients are summarized in Table 2.
+Table 2. Summary of hypothesized sign of coeffcients
+VariablesExpected signNational income per capita
+Relative price index
+Population
+Interest rate
+Housing formation
+Corporate savings
+Industrial production index
+Number of tourists
+Gross Domestic Product
+Exports
+Government revenue
+Value added from public utilities
+Government expenditureResults and discussions
+The construction demand function for residential, non-residential and 'other' sectors were estimated using the stepwise regression technique. The demand functions were estimated with different combinations of the independent variables (see equations 1 , 2 and 3), and some of the variables were eventually found not to be significant at the 20% confidence level.
+Residential construction demand
+The final results for residential construction demand are shown in Table 3.
+  The demand for residential construction is found to be a function of per capita income, price index, interest rate and the size of population. Household formation does not seem to have a significant effect on demand. The high value of R 2 (0.9591) indicates that over 95% of the variations between the observed and estimated values of the dependent variable can be explained by the independent variables. The respective sign of each coemcient is as hypothesized and, for both population and price index, also found to be significant at the 20% confidence level.
+
+Rights 
+Table 3. Estimated demand function for residential construction
+RES =c+a NPC1+b POP+d PI +e INT      a	b c (NPCI) (POP)d
+(PI)(INT)DWF-testCoef. SEE t-value—734.4 
+97.1
+-7.57 1.75
+1.63
+1.0710.79
+5.38
+2.002.61
+1.21
+2.15-2.92	0.9591
+3.46
+—0.841.8429.35where
+RES = value of residential construction in 1976 (Baht, million)
+NPCI = national income per capita in 1976 (Baht)
+POP = population (millions)
+	PI	= relative price index, ratio of consumer price index to construction cost index
+(1976 100)
+INT = interest rate (%)
+(For details see Tachopiyagoon, 1988.)
+Non-residential construction demand
+The final results for non-residential construction demand are shown in Table 4.
+  The demand for non-residential construction is found to be a function of the industrial production index and index of profit expectation (proxied by using the ratio of corporate savings to the index of construction costs). Exports do not appear to have any significant effect on the demand for non-residential construction. The fairly high R2 (0.73) indicates that over 70% of the variations between the observed and estimated values of the dependent variable can be explained by the independent variables. The respective sign of each of the coeffcients is as hypothesized, and the estimates are found to be significant at the 20% confidence level.
+'Other' construction demand
+The final results for 'other' construction demand are shown in Table 5.
+  All demand for 'other' construction is found to be a function of the ratio of government revenues to the construction cost index and the value added by public utilities. Government expenditure does not appear to have a significant effect on the demand for 'other' construction. The high value of R 2 (0.9586) indicates that over 95% of the variations between the observed and estimated values of the dependent variable can be explained by the independent variables. The respective sign of each coeffcient is as hypothesized. The estimated coeffcient of the value added variable is also found to be significant at the 20% confidence level.
+Summary of results
+Although a lack of adequate data and other limitations do not permit a more precise formulation of the model for the Thai construction industry, the results obtained are interesting and sumcient to present an economic analysis of the economic factors affecting
+Co ri ht 
+
+Table 4. Estimated demand function for non-residential construction
+LNRES=f+g LCS1+h LMPIg
+(LCSI)h
+(LMPI)DWF-testCoef. SEE t-value- 1.50
+3.95
+-3.370.77
+0.44
+1.731.76	0.7324
+0.48
+3.631.519.58where
+LNRES = natural logarithm of value of non-residential construction in 1976 (Baht, millions)
+LCSI = natural logarithm of ratio of corporate savings (Baht, millions) to the construction cost index (1976= 100)
+= natural logarithm of industrial production index (1976=100)
+(For details see Tachopiyagoon, 1988.)
+Table 5. Estimated demand function for all 'other' construction
+OTH=k+m GRI ( l)+n VAIkm (GRI)n (VAI)DWF-testCoef. SEE t-value-78.51
+29.46
+-2.670.57
+0.61
+0.930.68	0.9586
+0.1 1
+6.471.9057.86where
+	0TH	= value of all 'other' construction in 1976 (Baht, millions)
+GRI(- I) = ratio of government revenue (Baht, millions) to the construction cost index (1976=100) lagged one year
+VAI(-I) = value added from public utilities (Baht, millions) lagged one year (For details see Tachopiyagoon, 1988.)
+the demand for construction activities in Thailand from 1976 to 1985. The analysis shows that rising per capita income, the ratio of consumer price index to the construction cost index, and population are the major determinants of demand for residential construction. The expansion of industrial productive capacity (expressed by the industrial production index) and the ratio of corporate savings to the construction cost index are the most significant factors affecting the demand for non-residential building construction. The demand of 'other' construction is largely a function of rising revenues of government and of public utilities.
+Projection of total construction demand
+Total demand (TOT) for construction in Thailand is then a summation of demand for residential, non-residential and 'other' construction. To project the total demand for construction in Thailand, three scenarios were looked into, each with different assumptions
+
+	1985	1986	1987	1988	1989	1990	1991	1992	1993
+Year
+Fig. 1. Projected total demand for construction in Thailand to 1993 (for details see Tachopiyagoon, 1988)
+Table 6. Projected construction output by type: Case A (Baht, millions)
+YearResidentialNon-
+residentialAll other constructionTotal construction1986
+1987
+1988 1989 1990
+1991 1992
+199347 163
+49 949
+52 337
+53 929
+55 720
+59 302 61 09335 820
+35 422 35 223
+35 024
+34 825
+34 026
+34 427
+34 22869 650 80 197
+91 739
+104 873
+119 599
+136 116
+154 623
+175 319152 833
+165 568
+179 299
+193 826
+210 144 227 653
+248 352
+270 640regarding the growth rates of the social and economic factors used in estimating the demand functions.
+Scenario A
+Growth rates are assumed to follow past trends. National income per capita is assumed to continue to increase at 5% per year; population at 1% per year; interest rates at 5% per year; investment in the industrial sector at 1.5% per year; consumer price index and construction cost index at 2.5% per year; corporate savings at 1.5% per year; value added from public utilities and government revenues at 15% per year.
+Table 7. Projected construction output by type: Case B (Baht, millions)
+Year	ResidentialNonresidentialAll other constructionTotal construction1986	43 780 1987	54 128
+1988 58 705
+1989 62 085
+1990 67 262
+1991 71 839 1992	76 615 1993	81 59039 004
+42 188
+45 770
+49 551
+53 531
+58 108
+62 884
+68 05869 650
+83 779
+100 694
+120 894
+144 673
+173 727
+208 751
+251 735152 434
+180 095
+205 169
+232 530
+265 466
+303 674
+348 250
+401 383Table 8. Projected construction output by type: Case C (Baht, millions)Year	ResidentialNonresidentialAll other constructionTotal construction1986	47 362 1987	51 143
+1988	53 730 1989	56 317
+1990 59 302
+1991 62 088
+1992 65 073
+1993 68 25737 411
+39 004
+40 379
+42 188
+43 780
+45 571
+47 362
+49 35269 650
+83 978
+96 913
+I l l 639
+128 554
+147 459
+169 349
+194 025152 423
+174 125
+191 022
+210 144
+231 636
+255 118
+281 784
+311 634Scenario B
+Forecasts by economists reflect the general consensus that the Thai economy is rapidly expanding and these translate into higher growth rates on key economic indicators that are used to project the total demand for construction. Under this scenario, national income per capita is assumed to increase at 10% per year; population remaining at 1 interest rates at 5%; investment in the industrial sector at 5%; consumer price index and construction cost index at 4.5 and 2.5%, respectively; corporate savings at 5%; value added from public utilities at 4%; and government revenues at 20%.
+Scenario C
+Average growth rates of scenarios A and B will be used in this scenario to provide an intermediate projection of the total demand for construction.
+Results
+The projected total demand for construction in Thailand to 1993 for different scenarios is shown in Fig. 1. The results indicate that construction activities in Thailand appear to have a bright future. The projected values range from an average of 230 481 million Baht per year
+
+for the next 5 years (Scenario A) to a high average of 310 599 million Baht per year over the same period (Scenario B). Detailed projections of construction output by type are shown in Tables 6, 7 and 8. From these results, it is interesting to note too that 'other' construction (public projects) will continue to play a significant and dominant role in the growing Thai economy, accounting for over half of the total construction projected for each year to 1993.
+References
+Bank of Thailand Quarterly Bulletin (1976-86) Department of Economic Research, Bank of Thailand, Bangkok.
+Cassimatis, Peter J. (1975) Construction and Economic Development, Fairleigh Dickenson University, New Jersey.
+Department of Planning and Economic Development (1980) Econometric Model of the Hawaiian Construction Industry, Hawaii.
+Tachopiyagoon, P. (1988) Potential and Competitiveness ofthe Thai Construction Industry, Thesis No. IE—88—22, Asian Institute of Technology, Bangkok, Thailand, December.
+Co ri ht 
+	250	Tang, Karasudhi and Tachopiyagoon
+
+Thai construction industry	251
+
+	Copyright 0 2001 . All 	Reserved.
+
+0 2001 . All Rights Reserved.
+
+
+
+0 2001 . All Rights Reserved.
+
+	250	Tang, Karasudhi and Tachopiyagoon
+
+Thai construction industry	251
+
+Copyright 0 2001 . All Ri hts Reserved.
+
+Copyright 0 2001 . All Ri hts Reserved.
+
+	250	Tang, Karasudhi and Tachopiyagoon
+
+Copyright 0 2001 . All Ri hts Reserved.
+
+Thai construction industry	251
+
+Thai construction industry	251
+
+0 2001 . All Rights Reserved.
+
+0 2001 . All Rights Reserved.
+
+Thai construction industry	251
+
+0 2001 . All Rights Reserved.
+

@@ -1,0 +1,405 @@
+﻿Construction Management and Economics, 1992, 10, 31—43
+A micro view of the project planning process
+ALEXANDER LAUFER
+National Building Research Institute, Technion, Haifa, Israel, 32000
+The objective was to make a descriptive study ofthe decision making process in the early stages ofproject planning as it actually takes place. Data were gatheredfrom 27 managers affiliated with large owners in the USA. Interviewees were questioned about the degree of involvement of client, project manager, project manager's team, and design engineers, in the technical definition, organization and systems, and schedule of the project — once at the conceptual planning stage and again at the engineering design stage. Involvement was assessed also in terms ofintensity, relative efforts invested by the parties in the phases ofthe decision making process, and by type of contract. Other variables studied included extent of disagreement among the parties, degree of interruption during the planning process and sources of uncertainty hindering the decision making process.
+Keywords: client, conflicts, construction, decision making, interruptions, planning, project, uncertainty
+Introduction
+The importance of project planning has long been recognized, but little is known about the process itself. On the premise that before one prescribes how a project manager should plan, one must understand how they actually do plan, the study adopted a descriptive mode. The study purports to provide an initial data base for researchers focusing on the organizational aspects of the planning process, as well as for practitioners interested in learning and improving the organization and planning of the project. To this end, the study addresses three aspects:
+1. People — the decision making role of the relevant parties.
+2. Effort the intensity of involvement in planning.
+3. Characteristics of the process — the degree of uncertainty, interruption and disagreement during the decision making process.
+The study focused on the early stages of project planning by the owner.
+Research methodology
+The data were assembled from interviews conducted in 1 1 USA companies. Companies were selected for study using the following criteria:
+0144-6193/92 $03.00+.12 0 1992 E. & F.N. spon
+	32	Laufer
+1. Acknowledged position of leadership in project management.
+2. Handling various types of facilities.
+3. Time and money constraints of the research.
+  Three to four interviews were held in each company, totalling 37 interviews. The company selected the interviewee to present a typical range of projects it handled. Twenty-seven interviewees with recent first-hand experience on specific projects qualified as reliable sources for this part of the interview. Of these, 13 were project managers, six cost/schedule managers, five design engineering managers, and three construction managers. Each interview took from one to one and a half hours. Table I shows the profile of the projects reviewed.
+Table 1. Characteristics of the projects
+Type of facilityO and T C and MTotalNumber of projects
+Size of projects (range; median)
+1. 2-10; 6 ($ million)
+2. 11-100; 60 ($ million)
+3. 101-2000; 275 (S million)
+Type of contract
+4. Lump sum
+5. Cost reimbursable4
+1
+1
+37
+1
+5
+5
+28
+8
+0
+2
+68
+3
+4
+4
+427
+5
+14
+8
+14
+13* PG — Power generating plants.
+PC — Petrochemical plants.
+O and T Office and high technology facilities.
+C and M — Chemical and manufacturing plants.
+  The number of projects getting useful responses to the questions about disagreements, interruptions and uncertainty were 28. The 28th project was a medium size, cost reimbursable office and high technology (O and T) facility.
+  A structured guide led to questions that referred to a specific project selected by the interviewee, typically the most recent one in which he was inolved. Planning was defined as 'a process of deciding what to do and how to do it before action is required. Planning includes the integration of a set of interdependent decisions. The formulation of the results of this process is the plan'
+Four major research variables were selected for the interviews as follows:
+l . Project stages.
+(a) Conceptual planning which takes place after the feasibility study, typically after setting (the initial) project objectives before preliminary engineering begins.
+(b) Engineering design — expansion and elaboration of the conceptual planning, in particular the decisions to guide the datailed design engineering.
+2. Functional plans (areas of planning).
+(a) Technical definition of project (e.g. scope, design criteria and work breakdown outline).
+(b) Organization and administrative systems (e.g. organizational design, contractual strategies, communication and reporting systems).
+(c) Schedule.
+3. Phases of decision making.
+(a) Information search.
+(b) Information analysis and processing.
+(c) Alternative development and design.
+(d) Analysis and evaluation of alternatives. (e) Choice making.
+4. Project planning parties.
+(a) Client (sponsor, user).
+(b) Project manager (the owner's).
+(c) Project manager's team, typically comprising specialists from disciplines such as cost, scheduling, construction and occasionally, design and procurement. (The term 'team' was used throughout, irrespective of the degree of closeness of cooperation under the project manager.)
+(d) Design engineers (process and facility engineers).
+Degree of involvement in planning
+The interviewees were asked to assess the degree of involvement of each party in each of the five decision-making phases on a five point scale from 'very low' (= l) to 'very high' ( = 5). Some of the factors to be considered when assessing the degree of involvement were: participation (full vs partial), role (proactive vs reactive), and contribution (crucial vs marginal). The participants were questioned about the degree of involvement of the four parties in the preparation of the three functional plans at the conceptual planning stage, and then again at the engineering design stage. The functional plan in each stage covered the remaining life span of the project. The parties' involvement was broken down further into the five decision-making phases.
+  The extent to which project planning can be split into separate stages, plans, and phases is discussed in detail in the final report of the study (Laufer, 1989). The variable used for the analysis is the mean degree of involvement, and is presented in Fig. l .
+  The results indicate that the client is mainly active during the final phase of choice making. In planning the project definition he also maintains an active involvement in the analysis and evaluation of the alternative phase, while in the conceptual planning stage he is equally active in the information search phase. The project manager maintains a high degree of involvement throughout all decision making phases in organization and systems. In the other two planning areas he is mainly active during the last two phases of decision making. The two staff groups, the project manager's team and the design engineers, are primarily active during the first four decision making phases. Low profiles are displayed by the project manager's team in project definition and by the design engineers in organization and systems.
+  The patterns of involvement in project definition and project schedule exhibit a similarity between the roles of the design engineers and the project manager's team on the one hand, and the client and the project manager on the other. The first parties prepare the background, the design engineers the project definition, and the project manager's team the schedule. The other two parties take over in the evaluation and choice making phases, the client being dominant in the definition, the project manager in the schedule.
+
+・0の・寸 一0・寸
+
+	SH33NION2NO一S 0	《山トSを 9《2《Wト0 っ08d
+◆◆・◆ ・◆◆◆ マ・◆◆ ◆・◆◆◆・・
+・◆◆◆  ◆◆・◆ ◆・◆・ :◆・◆ ・◆◆・・◆◆・き の ・設呈0ⅵ
+	u	の0
+・ち℃
+	uo一 4u26」0	←輩0」生
+	H20VNVWト0山っOHd	ト29コ0
+
+Intensity of involvement in planning
+At this stage of the interview the unit of analysis was the decision phase. This paper focuses on the attention given to each decision phase as measured by the effort (man-hours) spent in each phase. In practice, no records of effort according to decision phase are kept. The interviewee was, therefore, requested to assess the relative effort invested in each phase by all four parties combined. The responses for each decision phase were given as percentages.
+  The results for the total sample exhibit a high degree of dispersion, and no reliably 'typical' values can be reported. Certain trends, however, are observable. The relative effort in choice making was low, 10—15%, while in information search and in alternative development and design it was quite high, approximately 25% in each. The other two phases, analysis and processing of information, and analysis and evaluation of alternatives, scored approximately 20% each.
+  The type offacility may partially account for the large dispersion of the results. The median intensity of involvement by type of facility is presented in Figs 2—4. (Results are only shown where answers were provided by at least three interviewees per type of facility.)
+CONCEPTUAL PLANNING
+	Püochemlcal	Chemlcal and	Offices and
+	Manufacwrlng	High Tech
+A. Search og
+Informadm
+B. Analysis of
+Informadon
+C. 
+Attemadves
+D. Evaluadon of Attematiws
+E. ChoJce Making
+ENGINEERING DESIGN
+		Chemlcal and	Offices and
+High Tech
+A. Search
+Informadon
+B. Anatysls
+Informadon
+C. Dælopment of Alternatiws
+D. EvaluaØon
+A)termüws
+E. Choice Ma)dng
+Fig. 2. Median intensity of involvement in project definition by type of facility. Relative effort n o-8%•, Z 9-16%; S17-24%; m5-32%•, — 33-40%.
+36
+CONCEPTUAL PLANNING
+P&ochemlcalChemical andOffices andManufacwrlngHigh TechA. Search of
+Information
+B. Analysis
+IMormadm
+C. Development of Alternatwo
+D. Evaluadon
+E. Choice Making
+ENGINEERING DESIGNChemical andOffices andManufacWrIngHigh TechA. Search of
+IMomaBoo
+B. Analysis o'
+Information
+C. Developmem
+Attemaüws
+D. Evaluaöon ot Alternatiws
+E. Choice Making
+
+Fig. 3. Median intensity of involvement in organization and systems planning by type of facility. Relative effort 	0--8%; 	9—16%; •33400/0.
+  Figure 2 shows that the definition of O and T projects demands more effort in the 'information search' phase, while PC projects spend more effort on the 'alternative development and design' phase. Comparing Fig. 2 with Fig. 4 it can be seen that in project definition the accent is generally on generating new information, while in schedule planning on gathering and processing information.
+  The relative effort by type of construction contract is presented in Table 2. The trade-off between information search and alternative development and design is readily detected. Table 2 shows that at the conceptual stage of lump-sum projects, information search for project definition gets 15%, while 'alternative development and design' obtain 28% of the effort. Cost reimbursable projects exhibit a reversed picture in which 30% of the effort is allocated to information search and only 20% to alternative development and design. (The total is not 100% since the median is calculated for each decision phase separately.)
+  A similar pattern of more information search in cost reimbursable projects can be observed in all three functional plans. If we combine the median intensity of involvement of the first two decision phases (search and processing of information) at the conceptual planning stage, and compare the cost reimbursable projects with the lump-sum projects in the three functional plans (definition, organization and system, and schedule), we get 50%, 40% and
+CONCEPTUAL PLANNING
+	P&ochemlcal	Chemical and	Offlces and	Power
+	Manufacünring	High Tech
+A. Search of
+Informadm
+B. Analysis of
+Informadon
+C. Development
+  01 Attematives D. Evaluation
+Altematives
+E. Choice Making
+ENGINEERING DESIGNPetochemlcalChemical and Offlces and Manufacnring High TechA. Search
+Information
+B. Analysis
+Infonnadon
+C. Development of Attemadves
+D. Evaluadon
+E. Choice Making
+Fig. 4. Median intensity of involvement in schedule planning by type of facility. Relative effort 00-8%; Z9-16%; N17-24%;  —33-40%.
+46% vs 33%, 30%, and 33 % , respectively. A similar analysis for the engineering design stage yields even greater differences. These findings reflect the reciprocity between uncertainty and type of contract. One resorts to cost reimbursable projects when uncertainty is high and considerable resources are needed to compensate for the information gap. In lump-sum projects information is quite stable and early attention can be given to the development of alternatives.
+Disagreement during planning
+According to Kerzner (1984) conflict of judgement is a distinct characteristic of project environment. Disagreement is not necessarily a negative attribute. A healthy measure of it stimulates new ideas which is the very essence of the creative planning process. Excessive and lingering disagreement, though, stymies effective planning.
+  In this study the inteviewee was asked to assess the degree of agreement that prevailed among the parties during the decision-making process on a three-point scale of 'agreement', 'moderate disagreement' and 'high disagreement'.
+
+  The breakdown of responses by type of facility is presented in Table 3 (percentages in brackets indicate projects with 'high disagreement'). Overall, 51% of the projects encountered moderate or high disagreement during the early planning stages. The highest
+Table 3. Proportion of projects with moderate or high disagreement by type of facility
+Functional planType of facilityPCC and MO and TPGOverallDefinition 1
+Organization 1
+Schedule 1
+Definition 2
+Organization 2
+Schedule 2
+Overall29%
+25% (0 0
+25% (20%)
+33% (0%)
+33% (0%)
+25% (0%)
+28% (4%)83% (50%)
+60% (40%)
+83% (50%)
+86% (29%)
+60% (40%)
+43% (29%)
+69% (40%)44% (11%)
+43% (14%)
+63% (25%)
+(25%)
+43 % ( % )
+(25%)
+49% (19%)100% (60%)
+40% (20%)
+52% (10%)(30%)
+35% (14%)
+57% (29%)
+65% (14%)
+(14%)
+46% (14%)
+51% (18%)1 is the conceptual planning stage.
+2 is the engineering design stage.
+* () is the means proportion of project, with high disagreement.
+percentage of disagreement occurred during preparation of project definition. In the conceptual planning stage 59% of the projects experienced moderate or high disagreement. This percentage rose to 65% at the engineering design stage. The organization and systems planning exhibited the lowest degree of disagreement. Analysis of disagreement by facility type indicates that the chemical and manufacturing facilities suffered the greatest amount of disagreement (overall 69%), while the petrochemical plants met the lowest (overall 28%).
+Interruption during planning
+On the basis of a study of 25 strategic decisions, Minszberg, Raisinghani and Theoret (1976) suggested a model that describes the decision process. One key element in the model is its dynamic dimension which includes several types of interruptions and delays during the decision making process. In this study the degree of interruption was rated by the interviewees on a three point scale of 'uninterrupted', 'moderately interrupted' and 'extensively interrupted'.
+  The results by type of facility presented in Table 4 indicate a fairly parallel situation with the agreement characteristic. Overall, projects show 52% of moderate-to-high interruptions. The project definition stage encountered the highest rate, and organization and systems the lowest, though with smaller disparities. The differences between type of facility are similar and likewise less pronounced than with the agreement factor — C and M with the highest rate (61%) and PC with the lowest rate (40%).
+  A direct comparison between the rates ofdisagreement and interruption as reported by the interviewees indicated a fairly consistent correlation:
+1. In answers for approximately 50% of projects the rates of both aspects were identical, i.e. planning rated with agreement was also uninterrupted, just as planning rated with high disagreement suffered severe interruptions.
+40
+Table 4. Proportion of projects with moderate or extensive interruption by type of facility
+Functional planType of facilityPCC and MO and TPGOverallDefinition I
+Organization I
+Schedule 1
+Definition 2
+Organization 2
+Schedule 2
+Overall57%
+25% (0%)
+33% (0%)
+67% (0%)
+40% (7%)67% (33%)
+60% (20%)
+67% (30%)
+(43%)
+60% (60%)
+57% (43%)
+(39%)78% (44%)
+43% (14%)
+(25%)
+(13%)
+14 0/0 ( 14 0/0 j
+38% (25%)
+(23%)(60 0/ )
+(50%)
+(40%)
+60% (60%)
+(200/ )
+(40%)
+56% (450(45%)
+(21%)
+43% (25%)
+(29%)
+(24%)
+(27%)
+52% (28%)1 is the conceptual planning stage.
+2 is the engineering design stage.
+* () is the means proportion of projects with extensive interruption.
+2. In approximately 30% of the answers the correlation was disparate by one degree, e.g. uninterrupted planning with moderate disagreement, or moderate disagreement with severe interruptions.
+3. Only in the remaining 20% the differences were 2 degrees apart.
+Sources of uncertainty
+The importance of uncertainty as a factor in project planning was dwelt on in detail in two previous articles in this journal (Laufer and Tucker, 1987; 1988). In the study reviewed here the controllable part of uncertainty is dealt with. Uncertainty was defined as the difference between the amount of information required to perform the task and the amount of information already possessed by the planners (Galbraith, 1977). The interviewee was asked to what extent could uncertainty (i.e. incomplete information) be reduced if more time and sources were available to obtain or gather more information. More time meant either more available elapsed time in general, and/or more available time by the information collector and/or by the informant. The answers were to relate to three possible information sources the client, the design engineers, and the constructor/suppliers.
+  Ratings were assigned by the interviewee to each of these source on a five point scale from 'very low' (= 1) to 'very high' (—5) to indicate the prospect of reducing uncertainty. The answers in Table 5 include the proportion of projects in which reduction of uncertainty was rated medium or higher (3 to 5). Bracketed numbers indicate the proportion of projects with high or very high (4 or 5) potential for uncertainty reduction.
+  The results point to a similar tendency observed with disagreement and interruption, though to a more moderate degree. The overall proportion of moderate, high or very high potential for uncertainty reduction, relative to at least one information source, ran to 41 %. Here, too, project definition exhibited the highest potential for uncertainty reduction, though at a lower disparity with the other two areas of planning. In the analysis by type of facility we find O and T taking the top position (47% ahead of C and M (45%). PG shows the lowest potential for uncertainty reduction (3 1 0 0 ), which does not necessarily peg the total
+Table 5. Proportion of projects in which 'given more time and resources uncertainty could have been moderately or greatly reduced': by type of facility
+Functional planType of facilityPCC and MO and TPGOverallDefinition 1
+Organization 1 Schedule 1
+Definition 2
+Organization 2
+Schedule 2
+Overall65%
+25% (17%)
+20% (13%)
+22% (22%)
+33% (22%)
+58% (25%)
+39% (23%)33% (27%)
+40% (17%)
+56% (33%)
+52% (22%)
+28% (25%)
+57% (50%)
+45% (29%)48% (37%)
+53% (31%)
+50% (41%)
+58% (41%)
+29% (29%)
+42% (26%)
+47% (34%)47% (20%)
+40% (33%)
+33% (22%)
+22% (0%)
+25% (17%)
+(17%)46% (28%)
+34% (28%)
+41% (29%)
+50% (30%)
+35% (23%)
+48% (30%)
+41% (26%)1 is the conceptual planning stage.
+2 is the engineering design stage.
+* ( ) is the proportion of project, with possible great reduction.
+uncertainty of PG projects to the low side. It only indicates a low potential for uncertainty reduction attainable from the given information sources.
+  Significant differences are manifest in Table 6 which presents the results by type of contract. In 49% of cost reimbursable contracts, compared to 35% of lump-sum contracts, the potential for uncertainty reduction is moderate or higher. A closer look at Tables 1, 5 and 6 shows that uncertainty reduction in O and T and PG facilities were, in this survey, closely linked to the type of contract. All O and T projects were cost reimbursable, whereas three out of four PG contracts were lump-sum types.
+Table 6. Proportion of projects in which 'given more time and resources uncertainty could have been moderately or greatly reduced': by type of contract
+Functional planContract typeLump sum    Cost reimbursableOverallDefinition 1
+Organization 1
+Schedule I
+Definition 2
+Organization 2
+Schedule 2
+Overall40%
+(20%)
+33% (26%)
+36% (22%)
+33% (22%)
+47% (28%)
+35% (21%)46% (35%)
+39% (33%)
+(33%)
+63% (38%)
+37% (22%)
+52% (30%)
+49% (32%)46% (28%)
+34% (28%)
+(30%)
+50% (30%)
+35% (23%)
+48% (30%)
+41% (26%)1 is the conceptual planning stage.
+2 is the engineering design stage.
+* () is the proportion of projects with possible great reduction.
+42
+  Marked differences emerge from an analysis of the results by type of partnership, exhibited in Table 7. In 54% of the projects uncertainty was reducible from 'moderate' upwards and could have improved the quality ofdecisions by better communications with the client, while only in 34% of the projects more information was obtainable from contractors/suppliers. Deficient communication with the client was particularly noticeable in the engineering design stage during the project definition (63%) and schedule (64%) phases. The differences between the partners is very small when looking at the potential of reducing uncertainty from 'high' and above.
+Table 7. Proportion of projects in which 'given more time and resources uncertainty could have been moderately or greatly reduced': by Party
+Functional planClient Design engineersConstructors/ suppliersOverallDefinition 1
+Organization I
+Schedule 1
+Definition 2
+Organization 2
+Schedule 2
+Overall50%
+57% (48%)
+48% (32%)
+63% (37%)
+(25%)
+64% (23%)
+54% (30%)50% (38%)
+20% (10%)
+36% (24%)
+47% (37%)
+38% (31%)
+41% (23%)
+38% (27%)(28%)
+25% (10%)
+40% (32%)
+42% (16%)
+(13%)
+41 % (41 0/0 )
+34% (23%)46% (28%)
+34% (28%)
+41% (29%)
+50% (30%)
+35% (23%)
+48% (30%)
+41% (26%)1 is the conceptual planning stage.
+2 is the engineering design stage.
+* ( ) is the proportion of projects with possible great reduction.
+  Examining communication with clients by type of facility, one finds that more information can be obtained from the PG facility client in the area of project definition, from the O and T facility client in the area of organization and systems, and from the C and M facility client in the area of schedule.
+  A comparative analysis between involvement in the decision making process and reduction of potential uncertainty evidences a clear correlation. Generally, the higher the involvement of the partner in the planning process (by type of facility or area of planning), reduction of uncertainty becomes more noticeable.
+Conclusions
+The main independent variables dealt with in this study are: project stages, planning areas, decision phases, planning partners, types of facility under construction, and types of contract. Dependent variables are: degree of involvement in planning, effort invested, extent of disagreement, extent of interruption and potential to reduce uncertainty by collecting additional information.
+  The results demonstrate that a separation between formal authority and technical expertise in the project planning decision process is untenable and artificial. Line managers and staff experts share in decision making power, the nature of their cooperation, being mainly determined by the respective functional area of planning and the state of the project.
+Acknowledgements
+The author gratefully acknowledges the sponsorship and support of the Construction Industry Institute and the hospitality of the Department of Civil Engineering at the North Carolina State University, where he spent his Sabbatical year.
+  The study would not have been possible without the cooperation of more than 50 individuals who were interviewed or consulted throughout the study. Especially valuable were the contributions made by Hough Beaton, Consultant DuPont, Jim Carroll, Manager of Planning and Development, Morrison Knudsen Co., Hasan Hammami, Director, Engineering Division, Procter & Gamble, Greg Howell, University of New Mexico, Neal MacFarlane, Manager, Project Execution and Support Division, Exxon, Thomas Penn, Projects Manager, Pepco, Tom White, Manager, Construction Projects, AT&T, Alfred Woodward, Construction Manager, DuPont, and Edward Wynant, Consultant, Exxon (ret.).
+  Last but not least, appreciation is due to William Pruden Ill and Fernando Torrijos-Ordones for their steadfast support in the processing of the data.
+References
+Galbraith, J.R. (1977) Organization Design. Addison-Wesley, Reading, MA.
+Kerzner, H. (1984) Project Management: A System Approach to Planning Scheduling and Controlling, Van Nostrand Reinhold Company, NY.
+Laufer, A. (1989) Owner's Project Planning: The Process Approach, Source Document 45, The Construction Industry Institute, The University of Texas, Austin, TX.
+Laufer, A. and Tucker, R.L. (1987) Is construction project planning really doing its job? A critical examination of focus, role and process, Construction Management and Economics, 5, 243—66.
+Laufer, A. and Tucker, R.L. (1988) Competence and timing dilemma in construction planning, Construction Management and Economics, 6, 339—55.
+Mintzberg, H., Raisinghani, D. and Thoeret, A. (1976) The structure of unstructured decision processes, Administrative Science Quarterly, 21, 246—75.
+
+
+A micro view of the project planning process	33
+
+
+
+i ht 0 2001 . All Riahts Reseved.
+
+
+
+i ht 0 2001 . All Riahts Reseved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Laufer
+
+A micro view of the project planning process	33
+
+
+
+Co ri ht 0 2001 . All Rights Reseved.
+
+A micro view of the project planning process	33
+
+i ht 0 2001 . All Riahts Reseved.
+

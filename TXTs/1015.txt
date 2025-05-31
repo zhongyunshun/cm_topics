@@ -1,0 +1,475 @@
+﻿Construction Management and Economics (1993) 11, 370—383
+Estimating industry-level productivity trends in the building industry from building cost and price data
+K.W. CHAU
+Department of Surveying, The University of Hong Kong, Pokfulam Road, Hong Kong
+Received 15 September 1992; revised 18 January 1993
+A method ofmeasuring total-factor productivity (TFP) trends in the building industry is described in this paper. This method is an improved version of the approach described in a paper by Chau and Walker in that it requires less restrictive assumptions and is theoretically less biased while requiring only slightly more data. With small modification, the same method can be used to measure other productivity trends corresponding to other productivity concepts. The data used in measuring TFP of Hong Kong's building industry are also different from those proposed in Chau and Walker. A number of modifications have been made. These modifications have been possible both as a result of work by Chau and the increased availability of statistics in recent years.
+  One of the major diffculties in measuring TFP trends in the building or construction industry has been the lack ofdata. This is also one of the major reasons for the dearth of empirical studies in this area. Very few attempts have been made to solve the problem of data availability. Lowe recognizes the diffculties in obtaining suitable data for measuring T FP of the British construction industry. His suggestion, however, is to use capital productivity as the second-best alternative to T FP rather than solving the problem. Chau and Walker's solution is to develop a method for estimating T FP from construction cost and price data. The method is then used to measure the T FP of Hong Kong's building industry. Since construction cost and price data are usually more readily available in most countries, Chau and Walker's approach is potentially useful in these countries. There are, however, certain deficiencies in Chau and Walker's approach in that some of the underlying assumptions are relatively restrictive.
+0144—6193	1993 E. & F.N. spon  As more statistics are now available in Hong Kong, this has rendered Chau and Walker's approach a crude tool for making full use of the data. This paper presents a modified approach which requires less restrictive assumptions and can make better use of the newly available data.
+Keywords: Total factor productivity, productivity, Hong Kong, translog aggregator function.
+
+Introduction
+Total-factor productivity (TFP) has been widely accepted as a much better indicator of productive effciency than conventional labour productivity. However, very little empirical research has been carried out into TFP, particularly in the building industry mainly because of a lack of data. The purpose of this paper is to develop a framework for measuring the T FP trend of the building industry using building cost and price indices which are more readily available than the quantity data used in most T FP studies. This method is essentially an improved version of the method proposed by Chau and Walker (1988). Some of the restrictive assumptions in
+Chau and Walker's approach are relaxed. The modified approach presented here should give a more reliable estimate of the T FP trend of the construction industry.
+  The conventional approach to measuring T FP of the economy and/or industry often measures output as value-added and includes only labour and capital on the input side. Intermediate inputs (output from other industries such as construction materials, fuel etc.) are assumed to have no effect on the TFP trend. Under this assumption, it does not matter whether intermediate input is included in the TFP measurement. While this might be the case for some industries, such an assumption is unrealistic in the building construction industry since new materials that are of better quality and easier to handle or work with are invented from time to time. Their contribution to productive effciency cannot be ignored. The definition of TFP adopted in this paper is the same as that used by Chau and Walker in that all tangible inputs, including intermediate inputs, are included on the input side and output is measured as gross rather than value-added.
+  The conventional two-factor TFP trend (also referred to as value-added total factor productivity [VATFP in the rest of the paper]) and other single-factor productivity trends (such as output, either gross or value-added, per unit of labour) can also be derived using the same framework. These productivity trends are useful for comparing findings in other research, as most reported construction building productivity trends are in these formats. No serious attempt has been made to analyse the factors shaping the T FP trend because such a discussion would require another full paper. However, a number of interesting observations, worthy of a more detailed study, have been highlighted.
+Previous research
+The first attempt to estimate the T FP trend of the building industry from building cost and price data was suggested by Chau and Walker (1988). Their approach is based on the assumption of constant input value shares and on an explicit input aggregator function. By ignoring the time lag between tendering and construction and using book profit as a proxy of supernormal profit, the following TFP formula is deduced for estimating the TFP trend of Hong Kong's building industry :
+
+It—Pt-1
+		(1)
+where TFP is the total factor productivity index of the building industry, OPI is the output price index of the building output and is approximated by the tender price index, LCI is the labour cost index, MCI is the material cost index, U VI is the unit value index of imported capital goods, GDP is the price deflator for gross domestic product, S S S and So are respectively the shares of labour, material, construction machinery and overhead in total cost.
+  What this means is that relative change in TFP (lefthand-side) is given by deducting the relative change in tender price index (the fifth term on the right-handside) from the sum of the relative changes in the input costs weighted by their corresponding shares in the total cost (the first four terms of the right-hand-side) plus the relative change in book (or accounting) profit margin (the last term). The intuitive interpretation is that the difference between the growths in input prices and output prices after adjustment for the change in profit margin is equal to the change in TFP.
+  Although such an approach solves the problem of availability of quantity data which is very common in the building industry in most countries, there are drawbacks to the approach. Firstly, because of a lack of data, the value shares of inputs are assumed to be constant over time. Although convenient, this assumption is restrictive and may not be consistent with empirical facts. As more data are now available, this assumption can be tested empirically and modified if necessary. Secondly, an explicit geometric input aggregator function is assumed in the derivation of the result. This aggregator function is somewhat arbitrary and might not be consistent with the actual underlying production structure governing the input—output relationship. Thirdly, the T FP formula is a discrete approximation of a continuous form which is derived by differentiating the input—output relation with respect to time. Such an approximation lacks a theoretical justification. The possibility of bias which might have resulted from the approximation has been also ignored. Fourthly, book profit is used as a proxy for supernormal profit, which is conceptually erroneous. Supernormal profit is a result of market imperfection while book profit is a function of factors such as interest rates, accounting conventions and the tax system. Fifthly, tender price index is not a good proxy for the output price index due to the time lag between tendering and construction.
+  The modified approach presented in the later sections of this paper attempts to provide solutions to the above problems. The more conventional two-factor T FP and labour productivity can also be estimated using the same approach. These productivity measures provide the basis for comparison with results from other studies and estimation of the contribution of building materials to the growth in the conventional two-factor TFP.
+The approach
+quantity of the ith input as QIi, by definition,total factorConsider a single-output and multiple-input production system. Denoting quantity of output by Qo, and productivity T can be written as
+	(2) gull , Q12,	, QIn)
+whereg(.) is an input aggregator function and is assumed to be linearly homogeneous and continuously differentiable. I
+  Total logarithmic differentiation of Equation 2 with respect to time gives
+	d Q0 dT	dQIl
+	(20 - T	(?QIi g	(3)
+where dX denotes the derivative of X with respect to t, and OX denotes the partial derivative of X with respect to t.
+  Under the assumptions of Hicks Neutral Technical Change2 and constant return to scale, partial differentiation of Equation 2 with respect to QIi gives
+		(4)
+or
+		(5)
+therefore, Equation 3 can be written as d Q0 
+(6)
+The first-order conditions for producer equilibrium in a competitive market are
+		Vi	(7)
+where PO is the price of output and Pil is the price of the ith input. Substituting Equation 7 into Equation 6 gives
+		(8)
+but(9)POQO
+which is the value share of the ith input, hence
+	dT dQ0	dQIi
+(10)
+QIi
+Assuming that supernormal profit does not exist at industry level,3 total differentiation of the following identity with respect to time
+	PoQ0Ä E PIQI?	(1 1)
+yields dQ0dP0
+(12) (20
+Thus Equation 10 can also be written as
+		(13)4
+The T FP index derived from Equation 13 is a special type of index devised by Divisia (1926). This is known as the Divisia index which can be defined as a sum of infinitesimal rates of change in the price or quantity of components weighted by the corresponding value share of each component. The properties of the Divisia index have been extensively researched; examples include the work of Richter (1966), Hulten (1973) and Diewert 1976).
+  The Divisia index is known to have many desirable properties which are not shown by the more conventional Laspeyres and Paasche indexes. These include conformation to Fisher's ( 1922) factor-reversal rule, and the reproductive property, i.e. the Divisia index of Divisia indexes is a Divisia index of the components.5 This property is particularly attractive for analysis at industry or national/regional levels where aggregated variables are used.
+However, the Divisia index is not free of problems.
+The value of a Divisia index is found by integrating Equation 13 and is therefore a line integral over a time interval which depends on the path over which the integration is taken. This gives rise to the problem of cycling, i.e. the value of the Divisia index is not uniquely determined by the values of its components. This problem can be avoided only if the index is path independent. Hulten (1973) has identified the following three necessary and sumcient conditions for path independence :
+(a) there exists a continuously differentiable aggregator function F defined on the set of values of components ;
+(b) F is linearly homogeneous in all the components;
+(c) the existence of normalized value shares for all aggregate components that are observable and unique up to a scalar multiplication.
+  In the derivation of Equation 13 above, conditions (a) and (b) are assumed. Condition (c) is implied by the conditions of producer equilibrium. Thus no additional assumption needs to be made to ensure path independence.
+Since data are available over discrete time intervals, it
+is necessary to find a discrete approximation of Equation 13 for empirical research. For this purpose, the following discrete form, which was first suggested by Tornqvist (1936), is used in this research.
+	A(ln  A(ln 	A(ln PO)t	14)
+where the A sign denotes the difference in the value of the corresponding variable between two successive periods, e.g.
+	A(ln ID—in Tr-ln Tt	(15)
+and the bar sign denotes the average of the same two successive periods, i.e.
+Sit + Sit
+                   (16) 2
+The discrete approximation is 'natural' since Equation
+13 can also be written as
+		(17)
+which is the same as Equation 14 when the time interval between two successful periods approaches zero.
+  The discrete approximation suggested above is superior to the discrete approximation suggested by Chau and Walker, since the underlying production function is much less restrictive. The Tornqvist discrete formula has been shown by Diewert (1976) to be consistent with (or 'exact for' using Diewert's terminology) a linearly homogeneous transcendental logarithmic (or Translog in short) aggregator function. The Translog aggregator function was introduced by Christensen et al. (1973) and is defined as
+In Qo=ln a+a In T+ ai In 
+	In 	In QI + 	In 	In T (18)
+where a, b, q, bi, bij are parameters and b: =b . If constant returns to scale and Hicks Neutral Technical Change hold, then Equation 18 can be simplified to
+In Qo=ln T + In a + q In QIz
+	+ } 	by in 	in Q]	(19)
+Based on Taylor's series approximation, Christensen et al. have shown that the Translog aggregator function is a second-order local approximation to any linearly homogeneous, twice-differentiable function. Therefore the aggregator function is very flexible within the limit of second-order approximation. Since Equation 14 is consistent with the Translog function, which is very flexible, it does not impose serious restrictions on the functional form of the aggregator function.
+Value-added total factor productivity
+Value-added TFP (VATFP) is defined as
+	(20) h (QK, QD
+where QA is value added in real terms, QK and QL are quantity of capital and labour respectively and h(.) is an aggregator function.
+  The difference between VATFP and TFP is that in the former approach, intermediate inputs are subtracted from both the input and output side.
+  VATFP is one of the most popular definitions used in many productivity studies at the aggregate level. Using the VATFP concept, all production systems are simplified to a two-input (namely labour and capital) and single-output system; this greatly simplifies the problem of estimation of the parameters characterizing the production structure (e.g. elasticities of substitution) and reduces the amount of data required.
+  Assuming a linearly homogeneous aggregator function, Hicks Neutral Technical Change and producer equilibrium in the two-input single-output production system, differentiation of Equation 20 with respect to time, following manipulations similar to those of
+
+Equations 2—10 gives
+	dTA dQAdQK	dQL
+		+ SC	(21)
+TA QA
+
+where and SC are respectively the value share of capital and labour in the value-added output measure, i.e.
+(22)
+and
+(23)
+where 17K , VL and VA are the market values of capital, labour and added value respectively.
+  Since only price data are available, the following equivalent form of Equation 21 can be obtained by undertaking similar manipulations to those in Equations 1 1-13.
+		(24)
+
+where PA is the price deflator of added value. The discrete approximation of Equation 24 for empirical study is
+A(ln 	A(ln PK)t+S'L A(ln PA)t	(25)
+By definition,
+		(26)
+and
+	VA = vo-vm	(27)
+where Vo and vm are the market values of gross output and intermediate inputs respectively. Therefore
+		(28)
+I-sm
+and
+(29)I-sm
+where Sm is the value share of intermediate inputs.
+The most commonly used method for measuring
+value added in real terms is the double deflation procedure, i.e.
+		(30)
+where vm and Pm are the value and price of intermediate input respectively.
+Since
+		(31)
+Equation 30 can be divided by Vo to give
+		(32)
+If there is more than one intermediate input,
+Equation 32 becomes
+(33)
+                              ma where Sm and Pm are the value share and price index of the ith intermediate input. The implicit price deflator of value added in terms of value shares, gross output price and price of intermediate inputs can be written:
+		(34)
+Substituting Equations 28, 29 and 34 into Equation 25, the VAT FP can be calculated using the same set of data as used for estimating TFP.
+Single-factor productivity
+It is also possible to calculate the partial factor (singlefactor) productivity from the price trends. The partialfactor productivity (PFP) of input i is defined as
+(20
+(35)
+(211
+Differentiating Equation 35 logarithmically with respect to time, we have
+		(36)
+Differentiating
+	QIPII = spoQ0	(37)
+logarithmically with respect to time, we have
+dQ0 dQI? dPIi dP0 
+
+	Qo 	QII - PIZ - po	(38)
+Substituting the above into Equation 36, we have
+		(39)
+The corresponding discrete approximation for empirical study is
+	A(ln 	A(ln 	- A(ln 	- A(ln	(40)
+Value-added single-factor productivity
+The single-factor productivity of input i when output is measured as value added is
+(41)
+spect to time gives
+dZA dQA dQIt
+(44)
+Differentiating
+
+logarithmically gives
+dQA(42)
+(43)where QA is value added in real terms and QI is the quantity of the ith input which is either capital or labour. Differentiating Equation 41 logarithmically with rewhere sAi is the share of input i in value added. Substituting the above into Equation 41, we have
+		(45)
+The corresponding discrete approximation for empirical study is therefore
+A(ln  (46)
+Data
+To use Equation 14 to estimate the T FP trend of Hong Kong's building industry, the trend of building cost (input price) and price (output price) data and the value shares of different types of inputs are required.
+  Four types of physical inputs are identified, i.e. labour, material, capital goods (which includes construction machinery and real estate, e.g. offces) and other miscellaneous expenses. The price indexes of Labour and Material are Labour Cost Index (LCI) and Material Cost Index (MCI). A detailed description of the LCI and MCI can be found in Chau and Walker (1988).
+  The price index for miscellaneous expenses is the implicit price deflator for consumption expenses (PCE) constructed by the Census and Statistics Department.6 The other data, namely capital price index and output price index are not readily available and must be derived from available data. The methods of deriving these data are presented in the following sections.
+Capital price index
+The two major categories of capital goods consumed by the building industry are construction plant and machinery and offce space.
+  The price index of capital inputs (KPI) is therefore constructed as a discrete Divisia index of the construction machinery rental index and the omce rental index with their average value shares as weights.
+  The rental index of construction plant and machinery is estimated from the capital prices of construction plant and machinery and its average rate of return (see Appendix l).
+Output price index
+The lack of a true offcial output price index for building works in Hong Kong8 is one of the major problems in applying any theoretical framework for estimating industry-level productivity trends in Hong Kong's building industry. Chau and Walker's solution to this problem is to use tender price index as a proxy for output price index. This approach, however, relies on the assumption that production periods (contract durations) are short enough to be ignored in the productivity calculation. This assumption may be acceptable in certain industries but is certainly not realistic in building construction. As a result, a new output price index for building works has to be constructed, taking into account the long construction periods of building works.
+  The index used in this research is constructed from the private sector output price index (PRO) and the public sector output price index (PUO) which are in turn constructed from other available statistics. Since private sector building contracts in Hong Kong are firm-price contracts (i.e. fluctuation clauses are not included in the conditions of contracts), output price at any time t is largely determined by the tender price levels before t. 9 The PRO can therefore be constructed as a weighted moving average of previous tender prices. The weight for TPI at time t—s represents the value of work tendered at t—s but completed at time t as a proportion of total value of work completed at time t. The weights are determined empirically, based on the following information :
+(a) value of work tendered in each quarter;
+(b) distribution of contract durations of value of work tendered ;
+(c) the rate of progress of a typical construction project.
+  A more detailed description of the derivation of the index can be found in Chau (1990).
+  The PUO is also constructed in a similar way except that it is modified by the LMI since fluctuation clauses are normally included in government contracts with project durations greater than 12 months.
+  The final output price deflator for all building works OPI) is calculated as a weighted discrete Divisia index of the public and private sector output price indices, as described above. The weights are calculated as the proportion of total expenditure in building works in each sector averaged over two successive periods.
+Value shares
+The value share of individual inputs after 1979 can be calculated from the data collected in the annual survey of building, construction and real estate sectors conducted by the Census and Statistics Department. Value shares before 1979 and those of 1980 have to be estimated indirectly. A similar survey was not conducted in 1980 because of insumcient manpower to cope with the workload in consolidating the first benchmark survey conducted in 1979.
+The constant value share assumption
+In reality, value shares may change for different reasons.
+Following the assumptions made earlier, i.e. Hicks Neutral Technical Change, constant returns to scale and producer equilibrium, changes in value shares of inputs can only be caused by changes in their relative prices. Intuitively, changes in relative prices can result in the substitution of the dearer input by the relatively cheaper input. The effect of price changes on values shares thus depends on how easily one input can be substituted for by another input. Hicks (1932) proposed a very useful means of measuring the ease by which inputs can be substituted for each other in a two-input production system, namely the elasticity of substitution. It is defined as d In(QIl/Q12) (47) d In(ml/rn2)
+where QII and Q12 are the quantities of inputs I and 2,
+and and are the marginal products of inputs 1 and
+2. Under the assumption of constant returns to scale and Hicks Neutral technical change, en is independent of the
+level of output and technology. Under producer equilibrium, ml is equal to the ratio of the prices of the two inputs. Therefore, el 2 can also be defined as the negative 10 value of the ratio of relative change in their quantity proportion to the relative change in their price ratio.
+  In other words, the 'ease of substitution' between two inputs is measured by the sensitivity of relative change in input proportions to relative change in their price ratio or relative prices. The numerical value of e12 ranges from zero to infinity. The larger the value of en (more sensitive) the easier the substitution. Il When en substitution is impossible and the input proportion is not affected by any change in relative prices. It can be seen that e12 as defined by Equation 47 is symmetrical, i.e.
+	e 12	21	(48)
+Another way of expressing e 12 is in terms of their cross-price elasticities. Standard transformations in the theory of production] 2 show that
+(49)
+where Em is the cross-elasticity of demand for input I with respect to the price of input 2 and is defined as
+d In(Q12
+	E21 	(50)
+d In(PIl
+In the two-input case, both E21 and E12 must be positive.
+  Generalization of the definition of elasticity of substitution for more then two inputs is, however, not 1963), Samuelson (1968) and Hicks (1970) all of which reduced to the Hicks definition in the two-input case. We have adopted Allen's definition in this research simply because it is most widely used and easiest to understand. Allen has defined the partial elasticity of substitution (AES) between two inputs in a multi-input production system as
+	eti =	(51)
+where and m, denote respectively the quantity and marginal product of input i, Ml is the cofactor of m, in M which is the matrix
+M(52)
+m,
+my is the partial derivative of mt with respect to Q?) and Ml is the determinant of M. Allen has shown that under constant returns to scale
+	e	(53)
+where El is the cross-price elasticity of demand as defined for the two-factor case. It can easily be seen that Equation 52 reduces to Equation 47 in the two-input case. Allen has also shown that
+		(54)
+The economic interpretation of AES (i.e. %) is similar to that of Hicks's definition except that more than two inputs are involved. It describes changes in input proportions when the price of one input is allowed to vary and the prices of all other inputs are kept constant. Inputs i and j are said to be substitutes or complements depending on whether el is positive or negative.
+  To see how value shares are affected by the ease of substitution between input pairs (i.e. the value of the following identity is differentiated logarithmically with respect to time
+	PIlQIF%V0	(55)
+straightforward. Different generalizations have been proposed by Robinson (1933), Allen (1938), McFaddenwhere PIZ and (211 are the quantity and price of input i, is its value share and Vo is the total value of output. By making use of Equations 53 and 54 and after tedious manipulation (see Appendix 2), we have
+
+assuming Hicks Neutral Technical Change and constant returns to scale. It can be seen from Equation 56 that changes in value shares depend on changes in relative prices (expression inside the parentheses) and/or elasticity of substitution between input pairs (the last expression).
+  The expression inside the parentheses on the righthand-side is the deviation of relative change in the price of input i from the average of relative changes in the prices of all inputs weighted by their value shares.
+  The intuitive interpretation of this expression is that, other things being equal (including input proportions), the larger the magnitude of the price decrease/increase of an input relative to the others, the higher the decrease increase in its value share. This is because when input proportions remain unchanged, an increase in the price of an input relative to other inputs will result in an increase in its value share. Since input proportions are kept constant, this effect does not take into account the possibility of substitution between input pairs.
+  Changes in relative prices of inputs may result in the substitution of the relatively cheaper inputs for the relatively dearer inputs. This effect is represented by the expression on the right-hand side of Equation 56 which involves the % as the major parameters.
+  When all inputs are substitutes rather than complements, the substitution effect and pure price effect will work in opposite directions in terms of their effects on value shares. When the price of an input decreases relative to the other inputs, the pure price effect implies that its value share will decrease. However, if substitution is possible, under the assumption of cost minimization more of the input will be used (relative to other inputs) and thus its value share may increase.
+  When inputs are close substitutes for each other (i.e. the values of the AESs are very large), the substitution effect dominates. At the extreme end of this (all AESs approach infinity), a small decrease in the price of an input will raise its value share to 100 0 0 since cost minimization implies that only the cheapest input will be used when inputs are perfect substitutes.
+  It is also interesting to see that, somewhere in between the two extreme cases, the pure price effect will just be offset by the substitution effect, in which case the value shares of inputs will remain constant, irrespective of any change in prices. To see the implied value of the AESs in this case, Equation 56 is rearranged to yield (see Appendix 3 for the derivation) :
+ (57)
+Constant value shares implies that d In(s)
+                       (58) dt
+Therefore
+(59)
+ensures that all value shares are constant irrespective of price changes. 13 If the AESs are constant over time irrespective of any changes in relative prices, then the assumption of constant value share is the same as assuming all AESs equal unity. This is the constant value share assumption suggested by Chau and Walker (1988). Such an assumption of unitary elasticity of substitution is very restrictive, since the AESs may not be constant over time irrespective of price ratios and, even if they are, they may not necessarly be equal to unity.
+  In theory, even if we can assume that all AESs are constant over time it is still impossible to estimate all the AESs without imposing any restriction on them. This is because Equation 57 is a system of m equations, which represents an m-input production system. However, as the left-hand side of the m equations sum to zero, one equation must be a linear combination of the others, therefore there are (m — l) independent equations. Since eu equals ejt, there are (m) (m 1)/2 unknowns (AESs). When the number of inputs (m) is greater than two, there is no unique solution for each AES.
+  Depending on the restrictions imposed on the AESs, a large number of time series and/or cross-sectional data in general is required to estimate all AESs statistically. The less restrictive the assumption about the AESs, the greater the amount of data required to estimate them. As such data are not available in suffciently large quantities, the extent to which the unitary partial elasticities can be relaxed is therefore limited.
+Constant and equal elasticity of substitution
+Within the limited sets of available data, an attempt has been made to estimate the value shares under assumptions which are less restrictive than the unitary AES assumption. This approach assumes that all the AESs are constant and equal but not necessarily equal to one, i.e.
+(60)
+so that Equation 59 becomes
+		(61)
+which can be approximated by
+I(e- 1)  (62)
+where A denotes the difference between two successive periods.
+Given the value shares of a particular (base) year, a time senes of value shares can be simulated using Equation 62 for different assumed values of e. To determine which value of e is the best approximation to reality, the simulated value shares are compared with the observed value shares which are available since 1979. The closer the simulated value shares to the observations, the better the approximation.
+  For a given value of e, the closeness between the simulated and the observed value shares is measured by the sum of the squares of their differences, 14 which is denoted by De. The smaller the value of De the more realistic the assumed value of e. The values of De are calculated for values Ofe between 0 and I in 0.1 intervals. The results are summarized in Fig. l . which shows the observed relationship between De and e.
+
+AES
+Figure 1 Simulated De values at different AES values
+  It can be seen that the value of e is likely to be closer to zero than unity. The estimated value of e is approximately equal to 0.2 since the value of De is lowest at this value of e.
+  When e is equal to unity, De is the deviation of the observed value shares from their averages over the years.
+The results suggest that the ease of substitution between input pairs is likely to be over-estimated under the assumption of constant value shares.
+The productivity trends
+Figure 2 shows the T FP and LP trends of Hong Kong's building industry over the period 1972—1987 for AES =O.2. The LP and TFP trends are very similar, which is a result of the low substitution possibility between labour and other inputs. Although the trends fluctuate considerably over the observed period, the estimated average annual compound growth rate is about 2 0 0 p.a. for both trends, indicating a general upward-sloping tendency. It is perhaps interesting to investigate the sources of such growth, as research and development, which is often the major source of productivity advance, has been almost non-existent in Hong Kong's building industry.
+  The cyclical nature of the trend suggests that the T FP trend is under the influence of certain changing economic forces. The identification of these forces and the way they affect the T FP trend also requires more detailed investigation.
+  In terms of international comparison, the VAT FP trend is more useful as in most productivity studies construction output is measured in terms of value added. The VATFP 15 trend and the VALP 16 trend in Hong Kong's building industry are shown in Fig. 3. Similarity of the two trends is a result of the low substitution possibility between capital and labour. The cyclical pattern of the VAT FP trend is very similar to that of the T FP trend although the former grows at a much higher rate. The average annual compound growth rate of VAT FP is about 4.3 0 0 , which is very high compared with those of other developed countries. The average annual growth rate in VATFP in these countries ranges from 0.2 0 in the UK to 2.2 0 0 in Japan in the 1950s and 1960s, during which period these economies
+YearTFP72
+74
+75
+76
+78
+79
+81
+82
+83
+84
+85
+86
+87100
+104
+101
+93
+1 17
+124
+1 1 8
+120
+107
+103
+1 10
+1 19
+130
+132
+135
+143IOO
+104
+94
+1 1 7
+12 1
+1 14
+1 1 8
+106
+102
+109
+1 1 8
+128
+130
+133
+139
+
+	Figure 2 T FP and LP of Hong Kong's construction industry.	LP (average growth rate=2.42 TFP
+(average growth rate 2.23 0 p.a.)
+
+Year VALP VATFP72 100	100
+73 109	109
+74 105
+75 85	85
+76 137	138
+77 149	148
+78 132	131
+79 141	140
+80 1 14	1 14
+81 104	105
+82 1 18	120
+83 138	140
+84 163	164
+85 168	169
+86 174	174
+87 190	189Figure 3 VAT FP and VALP of Hong Kong's construction industry. — — —, VALP (average growth 
+
+VATFP (average growth rate = 4.34% p.a.)
+experienced fast economic and productivity growth. More recent studies show that the growth in construction productivity in many developed countries has been declining since the 1970s. 17 The comparison is summarized in Table 1.
+  These figures, however, have to be interpreted with care since the definition, method of measurement and the data used are not exactly comparable with the present study. Nevertheless, they do give us an approximate idea, by international standards, of productivity growth in Hong Kong's building industry.
+  The growth rate of the VAT FP trend is about twice that of the T FP trend. This suggests that intermediate inputs (mainly construction materials) have played an important role in the growth in the productive effciency of Hong Kong's building industry. Technological diffusion from the manufacturing industry to the building industry in the form of new building materials that are, for example, more durable or easier to work with could be one of the major contributing factors in the high growth rate of VATFP, although more empirical evidence is required to support this.
+  The actual mechanism and magnitude of the impact of product invention and innovation in the manufacturing industry on construction productivity could be another interesting area for a more in-depth study.
+Conclusion
+A method of estimating the various productivity trends (including the conventional two-factor VAT FP and T FP embracing all tangible inputs as well as other single-factor productivity measures) has been presented in this paper. The method requires only cost and price data and the relative value shares of inputs. These data are in general more readily available than the corresponding quantity data in the building/construction industry. Compared with Chau and Walker's approach, the present method is less restrictive. It does not rely on the constant value share assumption which has been shown in this paper to be unrealistic. The underlying production function is also much more flexible. The output price deflator used in this research should reflect the trend of output prices better than the tender price index used in Chau and Walker's study since the latter does not take into account the time lag between tendering and construction.
+
+Table 1 International comparison of average growth rates in productivity in the building construction industry
+USACanadaUKJapanGermanyDenmarkVATFP (00)
+Period
+VALP ( 0 0) Period1948-76
+2.0b
+1948-760.6b
+1949—60
+1.38
+1949-600.2b
+1953-59
+0.8b
+1953-592.2b
+1951-59
+4.0b
+1951-592.97d
+1968-711966-87
+1966-874.3
+1972-84
+4.4
+1972-84VATFP: Total-factor productivity (output measured in value added).
+VALP: Labour productivity (output measured in value added). Sources: a Kendrick and Grossman (1980). b Domar et al. (1964).
+ Pedersen (1990). Smith (1982).
+e Author's estimate.
+
+Results using Hong Kong data suggest that the valuetractors. This is evident by the increasing number ofshares of inputs are not constant over time. The patternoverseas contractors in Hong Kong. At the end ofof change of the value shares in response to change in1991, there were 84 building contractors on therelative input prices indicates a relatively low substitu-Government's List of Contractors (Hong Kongtion possibility between inputs. This means that short-Government Gazette, 1992) who were allowed toage in any one input can lead to a significant decline inbid for large building construction projects (con-TFP growth as such shortage cannot be easily compen-tract sum over US$4 million). Of the 84 buildingsated by using more of other inputs, as least not in thecontractors, 29 are classified as overseas contractorsshort term.(List Il Contractors). In fact, many of the list IThe estimated growth rates in Hong Kong's TFP andContractors also came from overseas originally, butVATFP trends are approximately 2 0 0 and 4 0 6 respect-since they have established their Hong Kongively over the period 1972—1987. This suggests thatsubsidiaries here for a long time they are nowabout 50 0 ( of the growth in VATFP, which is theregarded as 'local contractors'. These companiesconventional two-factor VATFP, is attributable toinclude Dragges et Travaux Publics, Nishimatsutechnological diffusion from other industries throughConstruction Co. Ltd, Kumagai Gumi (Hongthe use of new building materials. The 4 0 0 growth rateKong) Ltd, Leighton Contractor (Asia) Ltd, just toin VATFP is also high when compared with thename a few. Thirdly, in the absence of a betterconstruction industries in other developed countriesindicator, book profit is used by Chau and Walkerduring the 1960s and 1970s when these economies(1988) as a proxy for supernormal profit. Theexperienced strong growth in productivity.resultant T FP trend, after adjustment for changesPrevious research in T FP suggests that research andin book profit margin, was not dissimilar to thedevelopment is a major contributor to growth in TFP.unadjusted trend. Since the difference is small, it isThere has been, however, very little research andtherefore not worthwhile, in this case, to adjust thedevelopment in Hong Kong's building industry duringT FP trend for possible changes in profit marginthe period of strong growth in TFP, which is anusing a dubious proxy.interesting area for a more in-depth study.4.See Chau and Walker (1988) for an intuitive interpretation of Equation 13.5.As a result of the reproductive property, relativeNoteschange in output price in Equation 13 can be replaced by a Divisia index of price of outputs in the1. In Chau and Walker's approach an explicit geo-case of a multi-output production system.6.For a more detailed description of the index see, for	metric aggregator is assumed, i.e. g(.)= QIT	example, Census and Statistics Department (1992).7.Similar to Chau and Walker's approach, the UVIwhere st is the value share of the ith input and is(unit Value Price Index of imported capital goods) isassumed to be constant over time. The approachused as a proxy of the capital price of constructionpresented here is much less restrictive since it doesplant and machinery since almost all of them arenot assume an explicit functional form for the inputimported.aggregator function.8.The official price deflator for deflating construction2. Under this assumption, input proportions remainoutputs is the Labour and Material Cost Indexunchanged if there is no change in relative prices.which is an input price (or factor price) input rather3. The zero-profit assumption does not appear in Chauthan output price index. Also see Chau (1990) for aand Walker's approach. However, such an assump-more detailed discussion.tion does not add any restriction, in practical terms,9.Since the output price is the price paid by the clientto the measurement of TFP for three reasons.and this price is largely determined by the unit ratesFirstly, supernormal profit is very diffcult, if notin the accepted tender which determines the tenderimpossible, to measure. Secondly, there is noprice index, there is a definite relationship betweenbarrier to entry into the building industry. Thisoutput price index and tender price index. Howevermeans that the building industry is competitive forsuch relationship is not a simple time-laggedsmall- to medium-scale projects. For larger-scalerelationship, i.e. the output price index at time tprojects, market competition is ensured by thedoes not equal the tender price index at time t S,Hong Kong Government's policy towards overseassince projects tendered at any time t comprisecontractors. Consistent with the free-trade policy,projects with different contract sums and durations.the Hong Kong Government has never imposed anySee Chau (1990) for a more detailed discussion.restrictions discriminating against overseas con-10. The increase in the relative price of an input will
+normally result in a decrease in its quantity ratio; the negative sign is simply used to make the value of e12 positive.
+11. When two inputs are close substitutes, i.e. one can be easily substituted by the other, a small change in their price ratio (i.e. when price of one increases relative to the other), under the assumption of cost minimization, will cause producers to use more of the relatively cheaper inputs and less of the relatively dearer inputs resulting in a substantial change in the quantity ratio of the two inputs. The value of elasticity of substitution which is defined in Equation 47 as the negative value of the ratio of change in quantity ratio to the change in the price ratio must be very large. On the other hand, if two inputs cannot be substituted for each other, the value of elasticity of substitution is zero since the quantity ratio is unchanged irrespective of any price changes.
+12. See, for example, Allen (1938).
+13. The same result has also been derived by both Sato and Koizumi (1973) and Samuelson (1973) using different approaches.
+14. Since the simulated value shares differ slightly when different years' observed value shares are used as base year value shares, the sum of the squares ofdifferences for a given value of e is calculated as the averages of the sum ofthe squares of differences using different years' value shares as base year value shares.
+15. Total Factor Productivity trend with output measured in value added. This is the same as the conventional two-factor total-factor productivity.
+16. Labour productivity with output measured in value added.
+17. See, for example, Allen (1985).
+References
+Allen, R.G.D. (1938) Mathematical Analysis for Economists, Macmillan, London.
+Allen, S.G. (1985) Why construction industry productivity is declining, Review of Economics and Statistics, 467, 661—9.
+Census and Statistics Department (1992) Estimates of Gross Domestic Product (1966—1991 ) , Hong Kong Government Printer, Hong Kong.
+Chau, K.W. and Walker, A. (1988) The measurement of total factor productivity of the Hong Kong construction industry, Construction Management and Economics, 6, 209—24.
+Chau, K. W. (1990) On the estimation of the output growth rate and price trend of the Hong Kong construction industry, Journal of Real Estate and Construction, 1, 46—59.
+Christensen, L.R., Jorgenson, D. W. and Lau, L. J. (1973) Transcendental logarithmic production frontiers, Review of Economics and Statistics, 55, 28—45.
+Diewert, W.E. (1976) Exact and superlative index numbers, Journal of Economics, 4, 115—45.
+Divisia, F. (1926) L'indice monetaire et la monnaie, Société anonyme du Recueil Sirey, Paris.
+Domar, E.D., Eddie, s.M., Herrick, B.H., Hohenberg, P.M., Intriligator, M.D. and Miyamoto, I. (1964) Economic growth and productivity in the United States, Canada, United Kingdom, Germany and Japan in the post war period, Review of Economics and Statistics, 46, 33—40.
+Fisher, I. (1922) The Making of Index Numbers, Houghton Miffin, Boston, MA.
+Hicks, J.R. (1932) The Theory of Wages, Macmillan, London.
+Hicks, J.R. (1970) Elasticity of substitution: substitutes and complements, Oxford Economic Papers, 22, 289—96.
+Hong Kong Government (1992) Gazette, No 14/1992, Hong Kong: Hong Kong Government Printer, DI 176—8.
+Hulten, C.R. (1973) Divisia index numbers, Econometrica, 41, 1017-26.
+Kendrick, J. W. and Grossman, E.S. (1980) Productivity in the United States : Trends and Cycles, Johns Hopkins University Press, Baltimore.
+Kendrick, J. W. and Sato, R. (1963) Factor prices, productivity and economic growth, American Economic Review, 53, 974—1003.
+Lowe, J.G. (1987) The measurement of productivity in the construction industry, Construction Management and Economics, 5, 115—21.
+McFadden, D. (1963) Constant elasticity of substitution production functions, Review of Economics Studies, 30, 73—7.
+Pedersen, D.O. (1990) Productivity measurement in the construction sector — a case study of Denmark 1966—87, In Proceedings of CIB International Symposium on Building Economics and Construction Management, 1, 240—51.
+Richter, M.K. (1966) Invariance axioms and economic indexes, Econometrica, 34, 739—55.
+Robinson, J. (1933) The Economics of Imperfect Competition, Macmillan, London.
+Samuelson, P.A. (1968) Two generalizations of the elasticity of substitution. In Value, Capital and Growth: Essays in Honour of Sir John Hicks, J.N. Wolfe (ed.), Chicago, Aldine.
+Sato, R. and Koizumi, T. (1973) The Production Function and the theory of relative shares, American Economic Review, 63, 484-9.
+Smith, A.D. (1982) International Industrial Productivity: A Comparison of Britain, America and Germany, Pitman Press, Bath.
+Tornqvist, L. (1936) The Bank of Finland's consumption price index, Bank of Finland Monthly Bulletin, 10, 1—8.
+Apnendix 1
+The price of capital input (or rental price) can be defined as total return (rent paid) for the use of capital divided by the quantity of capital (see, for example, Kendrick and Sato 1963)), i.e.
+Al-I)
+where Tc is the total cost for using KR units of capital. This is analogous to the definition of the price of labour which is equal to wage payment (return for labour) per man-day (quantity of labour). Let KP be the purchase price of the capital, then the total initial capital cost is
+(Al-2)
+By definition, the current dollar rate of return of capital is
+(Al-3)
+Therefore, Equation Al-I can be written as
+(Al -4)
+Thus the price deflator of capital input (or the rental index) is equal to an index of its purchase price times its current dollar rate of return.
+  The trend in the purchase prices of plant and machinery is estimated by the Unit Value Index of imported capital goods (UVI) constructed by the Census and Statistics Department. As a price index for plant and machinery used in the building industry is not available, the UVI is the best information we can get for estimating the trend in the purchase prices of all construction plant and machinery (since they are all imported). The average rate of return of plant and machinery is estimated by the smoothed trend in interest rates. A smoothed trend is used since it is unlikely that the rate of return on plant machinery will respond immediately to a fluctuation in interest rates.
+Appendix 2
+Logarithmically differentiating
+P[QI,
+with respect to time gives d In(s) d In(Plz) d In(Qlt) I d Inc VI)
+	dt	dt	dt	VI	dt
+where VI is the total market value of inputs. Since
+PIJQ13
+therefore
+d(PIJQI})
+dt
+or d In(s) d In(P12)	d In(Qll)
+	dt	dt	dt
+- i
+By definition
+PlyQIJ
+and
+(A2-7)
+.1 2 i
+Thus Equation A2-5 can be written as
+
+		(A2-8)
+or
+
+d In(Q1t QIj)
+                 (A2-9) dt
+Under the assumption of constant returns and Hicks Neutral Technical Change, factor proportions can only be affected by price changes. The last term of Equation A2-9 can thus be written as
+		(A2-10)
+which is equal to
+		(A2-1 1)
+
+Allen (1938) has shown that
+In(QIi)
+	= 	eyk • Sk	(A2-12)
+In(P
+Substituting into (A2-10) gives
+(A2-2)A2-13)
+which is equal to
+(A2-3)A2-14)
+Re-arranging the terms and switching the summation sign gives
+(A2—4)
+A2-15)
+Allen has also shown that
+A2-16)
+(A2-5)
+but q. is symmetrical, i.e.
+sjez,A2-17)
+(A2-6)
+
+The last term of Equation A2-15 vanishes and since From Equation A2-16, we know that
+we have- 1(A2-18)		(A3-4)
+	when substituted 	A3-3 givesd In(Q1i/Q1j) - i 	d In Plk	(PO-19)	which 	into Equation elk%—
+	dt	dt
+
+To maintain consistency in notation, j is used as the index of summation in the right-hand side, i.e.
+	d In(Q1i/Q1}) =ies—d In	(A2-20)
+	dt	dt
+9-1
+Substituting Equation A2-20 back into Equation A2-9, we get
+		(A2-21)
+Appendix 3
+The assumption of constant value shares implies that
+d In s
+	(A3-1) dt
+From the result obtained in Appendix 2, we have
+ d In(P Ij ) = 0 (A3-2)
+Extracting the ith item from both summations, Equation A3-2 becomes
+		(A3-3)
+		(A3-5)
+or
+
+		(A3-6)
+Since
+(A3-7)
+that is
+	= I —st	(A3-8)
+thus
+		(A3-9)
+Multiplying by and rearranging, we get
+A3-10)
+372
+Chau
+
+Estimating productivity trends from cost and price data	371
+
+Copyright 0 2001 . All Rights Reserved.
+
+Copyright 0 2001 . All Rights Reserved.
+
+
+
+Copyright 0 2001 . All Rights Reserved.
+

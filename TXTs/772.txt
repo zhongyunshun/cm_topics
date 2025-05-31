@@ -1,0 +1,422 @@
+﻿
+Article
+Adoption of Green Mark Criteria toward Construction
+Management Sustainability
+Hai Chien Pham 1, Vu Hong Son Pham 2,* and Trong Kich Than 2
+    
+
+Citation: Pham, H.C.; Pham, V.H.S.;
+Than, T.K. Adoption of Green Mark Criteria toward Construction
+Management Sustainability. Buildings
+2024, 14, 1242. https://doi.org/
+10.3390/buildings14051242
+Academic Editor: Hongping Yuan
+Received: 14 March 2024
+Revised: 12 April 2024
+Accepted: 23 April 2024
+Published: 27 April 2024
+
+Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/
+4.0/).
+1 Applied Computational Civil and Structural Engineering Research Group, Faculty of Civil Engineering,
+Ton Duc Thang University, Ho Chi Minh City 700000, Vietnam; phamhaichien@tdtu.edu.vn
+2 Department of Construction Engineering and Management, Faculty of Civil Engineering, Ho Chi Minh City University of Technology (HCMUT), VNU-HCM, Ho Chi Minh City 700000, Vietnam
+*	Correspondence: pvhson@hcmut.edu.vn
+Abstract: Sustainable construction plays a significant role in developing countries. However, the adoption of sustainable buildings has faced diverse challenges. Therefore, this research investigates the benefits and challenges of adopting the Green Mark in green building projects. After a literature review and a pilot study with construction experts, an industry-wide survey was conducted to collect 148 valid responses. The data were analyzed in depth, with 24 barriers and 10 benefits, using the Statistical Package for the Social Science (SPSS) software. After this, the collected data were analyzed using the analytic hierarchy process (AHP) method to prioritize critical factors. The preliminary findings revealed significant practical implications and offered valuable insights to support the adoption of Green Mark criteria for construction management sustainability. Furthermore, practical solutions were proposed to foster the widespread adoption of green buildings toward sustainable construction in the future.
+Keywords: green buildings; sustainable construction; analytic hierarchy process (AHP)
+
+1. Introduction
+    In recent years, green buildings (GBs) have been a global trend that has gained significant momentum, driven by the growing awareness of environmental sustainability and climate change. As a developing nation, Vietnam has seen an increasing demand for housing and infrastructure development to accommodate its growing population and urbanization. This demand poses a unique challenge as it requires sustainable building solutions to address environmental concerns while meeting the country’s economic growth targets. The World Bank’s projection of robust economic growth, reaching 2.91% in 2020, 2.58% in 2021, and a remarkable 8.0% in 2022, has emphasized the urgency to incorporate eco-friendly practices into its construction sector.
+    Moreover, the government normally has strongly committed to combat climate change by pledging to achieve net-zero emissions in future. To realize this ambitious target, embracing GB practices becomes even more crucial. Besides the numerous advantages GBs offer, their implementation remains various challenges. Past studies have highlighted the general benefits of GBs and the obstacles faced by developing nations. However, there remains to be a noticeable research gap regarding the specific barriers and benefits associated with the application of the Green Mark program in construction.
+    In the pursuit of sustainable development, the global trend toward green buildings (GBs) has gained remarkable traction, with nations increasingly prioritizing eco-friendly infrastructure. For developing countries, like Vietnam, where rapid urbanization and population growth drive a surge in construction demands, the imperative for sustainable building solutions is particularly pressing. Amidst this backdrop, the Green Mark program emerges as a beacon for environmentally responsible construction practices. Developed by the Building and Construction Authority of Singapore, the program sets stringent
+    
+
+Buildings 2024, 14, 1242. https://doi.org/10.3390/buildings14051242	https://www.mdpi.com/journal/buildings
+standards for green building certification, reflecting Singapore’s leadership in sustainable development. Notably, Singapore has been the top country for Foreign Direct Investment (FDI) in Vietnam in recent years, underscoring the significance of Singapore’s influence on Vietnam’s construction sector. While past research has highlighted the broad advantages of green buildings and the challenges faced by developing nations, a notable gap persists in understanding the nuanced barriers and benefits inherent to implementing programs like Green Mark in construction. This study void underscores the need for a targeted investigation, recognizing the program’s unique standards, requirements, and potential impacts within Vietnam’s construction landscape. By delving into the specific challenges and advantages associated with Green Mark certification, stakeholders can tailor strategies to overcome implementation hurdles and capitalize on its potential benefits. Such insights not only foster evidence-based decision making but also pave the way for a greener, more sustainable future in Vietnam’s construction industry.
+    This study aims to address this limitation by comprehensively examining the obstacles and benefits of adopting the Green Mark criteria. It provides valuable insights into the challenges and advantages of the Green Mark program’s implementation. This study ultimately paves the way for greener and more sustainable future. This study’s integration of academic rigor and detailed analysis aims to foster evidence-based decision making and policy formulation to accelerate the transition toward a low-carbon and environmentally responsible economy.
+    This study differentiates itself from the existing literature by considering the influence of project stakeholders on project success with the Green Mark. Factors from previous research were compiled into seven categories. The survey includes listed barriers and benefit factors. It was prepared and distributed to many experts in the construction field for ranking. These factors, along with their respective categories, were used to collect perceptions from owners, contractors, and design, supervision, and project management consultants. The analytic hierarchy process (AHP) method quantified the effect of each category on project barriers and benefits. A prioritized list of factors is presented with the support of AHP. This prioritization enables the efficient allocation of limited project resources, leading to more sustainable Green Mark projects in construction projects. The discussion of results will provide recommendations for promoting the construction of more Green Mark-certified buildings.
+    This research has meticulously reviewed the relevant literature to underscore the research component. In Section 2, a comprehensive analysis of the critical barriers and benefits of implementing the Green Mark program are presented. Furthermore, a research methodology developed specifically for this research is detailed in Section 3. Section 4 showcases the research findings and offers a comparative analysis. The study’s implications and in-depth discussions are expounded upon in Section 5. Finally, the conclusions drawn from the research findings and potential avenues for future research are presented in Section 6.
+2. Literature Review
+2.1. Green Rating Systems
+    After conducting a comprehensive review of various factors, a total of thirteen green rating systems spanning continents such as Asia, Europe, North America, Australia, and South Africa were meticulously identified [1], as shown in Table 1.
+    These systems include renowned frameworks such as BREEAM in the UK, LEED in the US, and Green Mark in Singapore, each offering different certification levels to denote the environmental performance of buildings. Additionally, regional systems like GRIHA in India and LOTUS in Vietnam provide certification levels tailored to their respective contexts. The diversity of these rating systems reflects the global commitment to sustainable building practices and underscores the importance of environmental certification in construction projects worldwide.
+Table 1. World GB rating systems.
+No.	Rating System	CountryCertification Level1	BREEAM	UKPass, Good, Very Good, Excellent2	LEED	USCertified, Silver, Gold, Platinum3	HK-BEAM	Hong KongBronze, Silver, Gold, Platinum4	Green Star-AUS	AustraliaBest Practice, Australian Excellence, World Leadership5Green MarkSingaporeCertified, Gold, Gold Plus, Platinum6GRIHAIndia1 Star, 2 Stars, 3 Stars, 4 Stars, 5 Stars7Green Star-SASouth AfricaBest Practice, South African Excellence, World Leadership8GBIMalaysiaCertified, Silver, Gold, Platinum9Green Star-NZNew ZealandGood Practice, Best Practice, NZ Practice, World Excellence10GreenSLSir LankaCertified, Silver, Gold, Platinum11LOTUSVietnamCertified, Silver, Gold, Platinum12Pearl-BRSAbu-Dhabi1 Pearl, 2 Pearls, 3 Pearls, 4 Pearls, 5 Pearls13EDGEUKCertified, Advanced, Zero Carbon2.2. Main Rating Systems in Vietnam
+    Regarding the Vietnam Green Building Council (VGBC), there were four main rating systems of GB that were commonly applied in Vietnam, and the main differences among the systems are summarized in Table 2.
+Table 2. Main rating systems in Vietnam.No.Rating SystemBrief Description of the System1Leadership in Energy and Environmental Design (LEED)“A holistic GB certification system, developed in the US, is particularly suitable for projects seeking international recognition. LEED requirements are more adapted to developed GB markets than to developing markets”.2LOTUS“A holistic GB certification system developed in Vietnam, LOTUS requirements are tailored to adapt to Vietnamese construction practices, regulations, and climatic conditions, making LOTUS easier to implement”.3Excellence in Design for Greater Efficiencies (EDGE)“A certification system focusing only on Energy, Water, and Embodied Energy of Materials, particularly suitable for projects that want to minimize their use of resources”.4Green Mark“The GB certification system was developed in Singapore. Green Mark requirements are more adapted to developed GB markets than to developing markets”.    These rating systems provide valuable frameworks for assessing and certifying the environmental performance of buildings in Vietnam, each offering specific advantages and considerations tailored to the local context.
+2.3. Implementing Green Mark in Developing Countries
+    The recent literature spanning from 2020 to 2024 underscores the significant advancements in technology that have revolutionized the field of green building. Innovations in sustainable construction materials, energy-efficient systems, and smart building technologies have emerged as key drivers in promoting the adoption of green building practices. These technological advancements not only enhance the environmental performance of buildings but also offer a myriad of benefits such as improved energy efficiency, enhanced occupant comfort, and reduced operational costs. Moreover, the integration of renewable energy sources, digital monitoring and control systems, and Building Information Modeling (BIM) has streamlined the design, construction, and operation phases of green building projects, contributing to their overall sustainability and resilience. As such, the literature highlights technology as a pivotal enabler in advancing the agenda of sustainable development and promoting the widespread adoption of green building practices in the contemporary built environment.
+    In the context of sustainable construction, the identification and mitigation of barriers to adopting green building practices are critical for fostering widespread implementation. Within the sphere of the Green Mark program, these barriers manifest across distinct categories, each posing unique challenges.
+i. Cost Considerations emerge as a primary hurdle, with perceptions of elevated upfront expenses hindering adoption [2,3]. The initial investment outlay for energyefficient systems, renewable technologies, and sustainable materials is perceived as prohibitive, particularly for smaller projects or developers with limited financial resources [4,5]. This highlights the need for innovative financing mechanisms and incentives to offset these costs and to incentivize adoption, aligning with the global trends promoting sustainable finance initiatives.
+ii. Technical Capacity presents another formidable challenge, as the availability of skilled professionals proficient in green building practices is integral to a successful implementation [6,7]. Shortages in qualified architects, engineers, and construction personnel versed in sustainable construction methodologies underscore the need for capacity-building initiatives, educational programs, and knowledge transfer platforms to address skill gaps and ensure competency across the industry [8]. iii. The Regulatory Framework and Enforcement dimension underscores the importance of robust governance structures and enforcement mechanisms in driving green building adoption [9,10]. Effective regulation not only mandates compliance but also incentivizes and rewards sustainable practices, creating a conducive environment for industry-wide adoption. Strengthening regulatory frameworks, streamlining permitting processes, and fostering inter-agency collaboration can enhance regulatory effectiveness and facilitate seamless integration of green building standards. iv. Education and Awareness constitute pivotal pillars for advancing green building adoption, as stakeholders must be equipped with comprehensive knowledge and awareness of the benefits and intricacies of sustainable construction practices [11]. Continuous education and outreach efforts targeting all stakeholders, including developers, policymakers, and the public, are imperative for dispelling misconceptions, fostering buy-in and catalyzing behavioral change toward sustainable construction practices.
+    On the other hand, the adoption of green building practices presents a myriad of benefits, spanning environmental, economic, and social dimensions, contributing to the overall resilience and sustainability of the built environment.
+i. Environmental Sustainability stands as a cornerstone benefit, with Green Markcertified buildings significantly reducing carbon emissions, water consumption, and waste generation through energy-efficient systems, water conservation measures, and sustainable materials [12,13]. This not only mitigates their environmental impact but also fosters ecological stewardship and resource conservation, aligning with the global imperatives for climate action and sustainable development. ii. Energy and Cost Savings emerge as compelling incentives, with Green Mark-
+certified buildings delivering substantial operational cost reductions and enhanced long-term financial viability [14,15]. By integrating energy-efficient designs, renewable energy sources, and smart building technologies, these buildings not only lower utility expenses but also enhance asset value and market competitiveness, yielding favorable returns on investment over the building’s lifecycle.
+iii. Health and Wellbeing considerations underscore the pivotal role of green buildings in enhancing occupant health, comfort, and productivity [16,17]. By prioritizing indoor air quality, natural lighting, thermal comfort, and acoustic performance, Green Mark-certified buildings create healthier, more conducive indoor environments, promoting occupants’ wellbeing, satisfaction, and performance.
+iv. Market Differentiation and Reputation serve as potent catalysts for market adoption, with Green Mark certification enhancing the marketability and reputation of construction projects [18,19]. As a recognized symbol of environmental commitment and sustainability performance, Green Mark certification attracts environmentally conscious investors, tenants, and occupants, positioning projects for enhanced market value and stakeholder recognition [20].
+    In conclusion, a nuanced understanding of these barriers and benefits is imperative for driving the widespread adoption of the Green Mark program in the Vietnam construction industry. By addressing barriers and leveraging benefits, stakeholders can unlock the full potential of green building practices, fostering a more sustainable and resilient built environment in Vietnam.
+    With the pre-survey and consultancy conducted by experts in the construction industry, their insights in the industry have highlighted crucial barriers and benefits pertinent to the adoption of the Green Mark program in construction projects.
+    Firstly, experts point out the limitation that the Green Mark is predominantly utilized in projects of Singaporean investors (BR-SC07), suggesting a need for broader international recognition to enhance its global relevance. Secondly, experts emphasize the challenge in accurately assessing the performance of green buildings (BR-TK05), underscoring the necessity for standardized metrics and assessment methodologies to ensure consistent evaluations across diverse projects. Additionally, experts note the difficulty in selecting subcontractors to provide green building services (BR-TK06), indicating a potential skill gap within the industry that necessitates capacity-building initiatives and specialized training programs.
+    On the positive side, experts highlight the strong support from the Singaporean government for the Green Mark program (BN-SC02), indicating a conducive environment for its adoption and signaling a commitment to sustainability at the national level.
+    Based on a literature review from a previous study and a consultation with experts, a summary of 24 barriers and 10 benefits was identified and issued for the first survey in Table 3.
+Table 3. Barriers and benefits to implementing the Green Mark.
+No.CategoryBenefits and BarriersCodeReferencesABarriers (BR)1
+2
+3
+4
+5Social and cognitive (SC)Lack of public awareness about GBs
+Lack of expressed interest from clients
+The behavior of occupants (e.g., occupants consume more electricity when using energy-saving equipment) Reluctant to adopt changes (e.g., new concepts, new construction technologies) Insufficient brand recognition and competitive advantageBR-SC01
+BR-SC02
+BR-SC03
+BR-SC04
+BR-SC05[11]
+[21]
+[22]
+[23,24]
+[25]6Lack of well-known sources of informationBR-SC06[6,7]7The Green Mark is mainly applied in some projects of Singaporean investorsBR-SC07Experts’ opinions8The Green Mark takes into account the characteristics of the country (especially in terms of energy) in the
+hot and humid climate near the equatorBR-SC08[26,27]9
+10
+11Economic and cost (EC)Longer time for construction and a long payback period
+High initial costs
+High risks associated with investment (e.g., no guarantee in being certified after registration, uncertainty in higher return on investment)BR-EC01
+BR-EC02
+BR-EC03[24,28]
+[2,3,29]
+[30]12Incurred cost in seeking certification (e.g., registration and assessment fee)BR-EC04[31,32]13High cost of green materials and difficulty in sourcing locallyBR-EC05[33]14High costs for investment in equipment, materials, and green construction activitiesBR-EC06[4,5]Table 3. Cont.
+No.CategoryBenefits and BarriersCodeReferencesABarriers (BR)15
+16
+17Legislative and institutional (LI)Weak enforcement of legislation; not established yet
+Government Department of Green Buildings
+Delays in approval and licensing of green projects Lack of encouragement from government and financial support programsBR-LI01
+BR-LI02
+BR-LI03[9,10]
+[34]
+[35]18
+19
+20
+21Technical and knowledge (TK)Insufficient cost–benefit data from interdisciplinary research
+Lack of technical understanding of designers, builders, and project teams
+Requires modern and high-tech components (building control technology, solar energy, heating, heat recovery, etc.)
+Not mandatory yet to apply the standards for
+energy-efficient construction projectsBR-TK01
+BR-TK02
+BR-TK03
+BR-TK04[36]
+[6,7]
+[37,38]
+[39]22Difficulty in measuring, defining, and accurately assessing the performance of green buildingsBR-TK05Experts’ opinion23Difficulty in choosing subcontractors to provide green building servicesBR-TK06Experts’ opinion24Contractors lack of experience, skills, and knowledge of correct construction methods and proceduresBR-TK07[34]BBenefits (BN)1
+2Environment (EN)Avoid wasting energy, clean water, and other resources
+Reducing waste, pollution, and negative impacts on the environmentBN-EN01
+BN-EN02[12,13]
+[6,28]3Protecting, and restoring the ecosystem, reducing emissions, regulating the temperatureBN-EN03[40]4
+5
+6
+7Economic and cost (EC)Reducing operating and maintenance costs
+Improve work and study productivity
+Adding value to the projects
+Green Certificate provides more reliable quality assurance of projectBN-EC01
+BN-EC02
+BN-EC03
+BN-EC04[14,15]
+[37,38] [41]
+[18,19]8Higher rental rateBN-EC05[42]9
+10Social and cognitive (SC)Improve the quality of the indoor living environment and improve public health
+BCA Green Mark is supported by the Singaporean Government and encouraged to be applied in projects invested by Singaporean companiesBN-SC01
+BN-SC02[20]
+Experts’ opinion3. Research Methodology
+    This research was conducted to review previous studies to identify the barriers and benefits of applying the GB criteria Green Mark to construction projects and, simultaneously, consulted the experts to form a preliminary survey questionnaire. After that, this pilot questionnaire was sent to experts and experienced individuals to receive feedback and complete the final questionnaire for an industry-wide survey. The industry-wide questionnaire was divided into three parts: (1) a general introduction to the survey to overview the barriers and benefits of applying the GB criteria Green Mark to construction projects in Vietnam; (2) use of a 5-level Likert scale to assess the barriers and benefits of applying GB criteria Green Mark to construction projects in Vietnam; and (3) information of respondents.
+    In the research survey process, the authors diligently verified the qualifications of the surveyed experts to ensure the reliability and validity of our findings. We specifically targeted construction professionals and experts actively engaged in the Vietnam construction industry, utilizing various distribution channels to reach our intended audience. To ascertain the expertise of respondents, we incorporated screening questions in our survey, requiring participants to confirm their involvement in green building projects. This step served to filter out individuals who did not meet the criteria of relevant experience in the field.
+    
+    The questionnaire was sent through direct and indirect (online) survey forms. Participation in the survey was voluntary. The survey was administered from April 2023 to July 2023. After completing the survey, through analysis and evaluation, the authors opted for a non-probability sampling technique, specifically the convenience sampling method, owing to several factors including the accessibility of survey subjects, low implementation costs, and constraints related to time and information availability (such as the number of population units, overall structure, and sampling frame). Although non-probability sampling does not provide a representative sample of the entire population, it is commonly accepted in exploratory research projects aimed at gauging the practical significance of the research problem.
+    Moreover, in the analysis of research data using SPSS version 20, it is typically recommended that the number of observations (sample size) should be at least four or five times the number of variables in the factor. In line with this criterion, the required sample size for this study, represented by the number of valid questionnaires collected, should be at least five times larger than the number of variables in the factor analysis. In this study, a total of 148 valid responses were collected, meeting this criterion. Satisfying the requirements was based on the number of votes of the respondents, with 34 variables being divided into 2 groups: the benefit group included 10 variables and the challenge group included 24 variables. Hence, the number of votes required had to be greater than or equal to 120 responses to satisfy the requirements of the 2 groups. After survey and data collection, descriptive statistical data analysis software SPSS was used for an in-depth analysis, evaluation, and refinement of data and control. Evidence of the uniformity and objectivity of the data was collected before carrying out the analysis and evaluation of the results. The research procedure is shown in Figure 1.
+
+Figure 1. Research procedure for analysis of construction projects using Green Mark.
+    The second survey was conducted in the form of direct interviews with experts having many years of experience in construction. The analytic hierarchy process (AHP) is evaluated as an effective method and has been popularly applied in recent years to solve multi-criteria decision problems in various fields proposed by Saaty in 1980 [43]. In construction, AHP is used as a powerful support tool for complex issues during project evaluation and planning. Therefore, this study proposed to build an AHP model to identify the most critical barriers and benefit factors of projects applying the Green Mark in Vietnam.
+    A questionnaire was meticulously devised based on the critical factors identified, and these factors were then assessed by professionals within the construction industry. Through this process, significant critical factors were systematically identified using the analytic hierarchy process (AHP). The diverse perspectives or conflicting viewpoints were captured by ranking the critical factors via the questionnaire. Subsequently, this questionnaire served as the foundation for the AHP analysis, aiding in the determination of critical factors through an integrated approach.
+    This research endeavor aimed to address the assessment of critical factors pertinent to implementing Green Mark projects through the utilization of the AHP. What sets this research apart from others in the literature is its incorporation of the impact of project stakeholders on the implementation of Green Mark projects. This distinctive approach enhances the comprehensiveness and relevance of this study’s findings within the field.
+    The AHP employs a multi-level hierarchical structure consisting of objectives, criteria, and alternatives, termed an analytic hierarchy. This structure facilitates the decomposition of the overarching objective into manageable components, enabling a systematic analysis and decision-making process [44]. The analytic hierarchy process (AHP) is performed according to the following main steps:
+Step 1:Define the priority for the criteria and the alternatives according to each criterion.
+    The priority level is collected from the expert evaluation on a scale of 1–9, as shown in Table 4.
+Table 4. Classification of criteria’s relative importance.
+PriorityNumeric ValueEqual priority1Prioritize with a little superiority3More priority5Very priority7Extremely priority9Intermediate level between the above levels2, 4, 6, 8    The comparison is conducted between pairs of criteria, juxtaposing them together and consolidating the assessments into a matrix comprising n rows and n columns, where n represents the number of criteria under consideration. The element aij represents the priority of the i row criteria over the j column criteria. The relative priority of criteria i over j is calculated in the ratio k (k from 1 to 9), the opposite of criteria j over i is 1/k. Thus, aij > 0, aij = 1/aji, and aii = 1 (Table 5).
+Table 5. Priority of criteria according to experts’ opinions.
+Criteria12. . .n1a11a12. . .a1n2a21a22. . .a2n. . .. . .. . .. . .. . .nan1an2. . .annStep 2: Calculate weight.
+    The weight of each criterion and the selection alternative according to the corresponding criteria will be equal to the mean of the values in each horizontal row, resulting in a one-column n-row matrix, as shown in Table 6.
+Table 6. Weighted mean matrix.
+Criteria12. . .nWeight1w11w12. . .w1nw12w21w22. . .w2nw2. . .. . .. . .. . .. . .. . .nwn1wn2. . .wnnwnWhere wij is defined by the following formula:
+aij
+	wij = n	(1)
+∑ aij j=1
+Step 3: Check Consistency Ratio (CR).
+    The consistency ratio (CR) is an important aspect of the AHP, showing the consistency and unification of an expert opinion to ensure the scientific power of survey evaluation, as defined by the following formula:
+CI
+	CR =		(2)
+RI
+The appropriate value of the consistency ratio (CR) should be less than or equal to
+10%. If the CR is greater than 10%, there is an inconsistency in the expert evaluation and should be reviewed.
+Where CI is the consistency index:
+CI =λmax− n	(3) n − 1
+λmax is the eigenvalue of the comparison matrix:
+!
+λmax =(4)
+n is the size of the calculation matrix.
+RI is a random index, defined according to Table 7.
+Table 7. Random index (RI) corresponding to number of factors.
+n12345678910RI000.580.91.121.241.321.411.451.49Step 4: Calculate scores of alternatives selected.
+    The primary objective for all stakeholders is the successful completion of the Green Mark project. This paper is chiefly focused on defining, examining, and evaluating the critical factors that can influence Green Mark projects as well as the significant benefits that these projects can yield. The compilation of 30 factors was derived from an extensive review of the pertinent literature, including articles, cases, and studies within the field. An evaluation was conducted through a survey administered to experts from the construction industry. Participants were asked to assess the impact of each factor on a Green Mark project using a 9-point scale. Subsequently, data collected from professionals in the construction industry were analyzed using the analytic hierarchy process (AHP). The findings from these analyses are presented in the subsequent sections.
+4. Results/Findings
+4.1. Descriptive Analysis
+    The survey questionnaire was distributed to 179 potential respondents, who were identified as construction professionals and experts working in the Vietnam construction industry, of which 3 did not respond (1.68%) and 176 responded (accounting for 98.32%). The number of satisfactory responses was 148 (accounting for 82.68%) due to 28 responses
+(15.64%) not passing the main requirement of this survey with regard to the following question: “Have you ever participated in any GB project?”. Those respondents who indicated “No” for this question were rejected. The results for 148 valid responses are shown in Tables 8 and 9.
+Table 8. Background of respondents.
+CharacteristicsFrequencyValid Percent (%)ExpertiseArchitect
+Project Management
+Engineer
+Others16
+70
+52
+1010.8
+47.3
+35.1
+6.8Total148100Project investmentPublic Sector
+Private Sector
+Public–Private
+Partnership (PPP) Foreign Sector
+(FDI/ODA)14
+78
+4
+529.5
+52.7 2.7
+35.1Total148100Project stakeholderClient/Owner
+Supervision
+Consultant
+Designer
+Project Management58
+16
+18
+1639.2
+10.8
+12.2
+10.8General Contractor3423.0Others64.1Total148100Table 9. The characteristics of project respondents involved.CharacteristicsFrequencyValid Percent (%)ExperienceLess than 5 years From 5 to 10 years
+From 10 to 15 years More than 15 years12
+52
+50
+348.1
+35.1
+33.8
+23.0Total148100.0Project scaleLess than USD 2 million From USD 2 to 4 million
+From USD 4 to 20 million
+More than USD 20 million34
+8
+36
+7023.0 5.4
+24.3
+47.3Total148100.0    The result of 148 valid responses shows that the survey was conducted by individuals with 5–15 years of experience in the construction industry (accounting for 68.9%) and shows a high understanding of GB and the Green Mark. Most respondents were Project Management experts (accounting for 47.3%), and most participating Project Owners (accounting for 39.2%) had a deeply involved and complete understanding of the project comprehensively. The analysis of response data also shows that the interest to participate in GB mainly comes from the project with a private investment (accounting for 52.7%) and big project scale with more than USD 20 million in project investment capital (accounting for 47.3%). This shows that the surveyed data covering the working environment of the construction industry are reliable and suitable to meet the requirements of this research.
+4.2. Coefficient Alpha Reliability Test
+    Coefficient alpha reliability (Cronbach’s alpha) quantifies the extent of both unique and shared variance among items within a scale. However, it is important to note that Cronbach’s alpha does not specify the nature of this shared variance; rather, it measures the overall consistency and reliability of the scale without delineating the specific sources of common variance [45]. Cronbach’s alpha value ≥ 0.60 is still acceptable but not significant; Cronbach’s alpha value ∈ [0.70–0.90] is a good value and Cronbach’s alpha value > 0.90 is acceptable but not significant. Therefore, this study used CR values, and the construct reliability coefficients revealed that the minimum reliability coefficient value was 0.665,
+which shows that none of the variables exhibited reliability coefficients below 0.60.
+4.3. Exploratory Factor Analysis
+    Factor loading serves as a crucial indicator for assessing the practical significance of Exploratory Factor Analysis (EFA). Factor loading greater than 0.3 is deemed minimal, factor loading surpassing 0.4 is considered important, and a factor loading equal to or exceeding 0.5 signifies practical significance [46]. In determining the appropriate factor loading standard, the research sample size plays a critical role. For instance, if the sample size is approximately 100, then selecting a factor loading standard greater than 0.55 is advisable. Similarly, if the sample size decreases to about 50, factor loading must be raised to greater than 0.75 to maintain robustness in the analysis.
+    After filtering the data, the sample size in this paper was 148, interpolating factor loading of >0.5 [47]. After exploratory factor analysis, four variables in the barrier factor group did not meet factor loading of >0.5, respectively. The dataset was re-analyzed after removing these four variables. So, they were rejected, as shown in Table 10.
+Table 10. Summary of rejected variables.
+CodeReferencesRejected VariablesBR-TK03[37,38]Requires modern and high-tech components (building
+control technology, solar energy, heating, heat recovery, etc.)BR-TK04[39]Not mandatory yet to apply the standards for energy-efficient construction projectsBR-LI02[34]Delays in approval and licensing of green projectsBR-SC03[22]The behavior of occupants (e.g., occupants consume more electricity when using energy-saving equipment)    The KMO (Kaiser–Mayer–Olkin) statistic serves as an indicator for assessing the suitability of conducting Exploratory Factor Analysis (EFA), with values falling within the range of 0.5 to 1 considered appropriate. On the other hand, the Bartlett test evaluates the hypothesis of correlation among significant variables within the population. If the Bartlett test yields statistical significance (sig ≤ 0.05), it suggests that the observed variables are indeed correlated with each other in the population. Tables 11 and 12 present the results of both the KMO and Bartlett’s tests.
+Table 11. KMO and Bartlett’s tests—barrier factor.
+KMO and Bartlett’s TestsKaiser-Meyer-Olkin Measure. . .0.891Approx. chi-squared value2244.561Bartlett’s test of sphericity	df276Sig.Bartlett0.000Table 12. KMO and Bartlett’s tests—benefit factor.KMO and Bartlett’s TestsKaiser–Meyer–Olkin Measure. . .0.694Approx. chi-squared value943.797Bartlett’s test of sphericity	df45Sig.Bartlett0.000    The average variance extracted (AVE) and composite reliability coefficients play pivotal roles in assessing the quality of a measure. AVE gauges the proportion of variance captured by a construct in contrast to the variance attributed to a measurement error [48]. Specifically, AVE serves as an indicator for evaluating convergent validity. With values ranging from 0 to 1, a higher AVE signifies greater reliability. An AVE equal to or exceeding 0.5 confirms convergent validity. Eigenvalues indicate the amount of variance explained by each principal component or each factor. In an exploratory analysis, an eigenvalue of >1 criterion is used to consider retaining factors [45]. A discernible disparity between factor loading coefficients of an observed variable among factors of ≥0.3 is utilized to establish a discriminant value between factors. Additionally, it is advisable to retain solely the items with corrected item total correlation ≥ 0.3. To facilitate further differentiation among components, the variables are recategorized into groups. Tables 13 and 14 present the conclusive EFA analysis, incorporating factor loading values.
+Table 13. EFA analysis of barrier factors (factors reduced).
+ComponentReliability StatisticsFactor
+1234Cronbach’s AlphaNo. of ItemsSocial and cognitiveBR-SC070.789BR-SC02
+BR-SC05
+BR-SC010.761
+0.730
+0.7260.9077BR-SC040.702BR-SC060.695BR-SC080.617Economic and costBR-EC010.843BR-EC05
+BR-EC06
+BR-EC040.836
+0.822
+0.7490.9076BR-EC030.689BR-EC020.605Technical and knowledgeBR-TK010.744BR-TK06
+BR-TK040.698 0.6960.8145BR-TK070.661BR-TK020.621Legislative and institutionalBR-LI01
+BR-LI030.833
+0.6380.6652Table 14. EFA analysis of benefit factors.
+ComponentReliability StatisticsFactor
+123Cronbach’s AlphaNo. of ItemsEconomic and costBN-EC010.862BN-EC02
+BN-EC030.847
+0.8100.9195BN-EC040.782BN-EC050.781EnvironmentBN-EN030.862BN-EN020.7760.7233BN-EN010.694Social and cognitiveBN-SC01
+BN-SC020.880
+0.8690.84824.4. Ranking of Factors
+    Derived from the mean values of each factor, the ranking of the factors to be analyzed and the results are summarized as shown in Tables 15 and 16.
+Table 15. Summary table of barrier factors ranking.
+CodeBarriersReferencesMeanStd. DevRankBR-SC02Lack of expressed interest from clients[21]4.1751.0861BR-SC06Lack of well-known sources of information[6,7]3.9721.1062BR-SC05Insufficient brand recognition and competitive advantage[25]3.9591.1593BR-TK04Not mandatory yet to apply the standards for energy-efficient construction projects[39]3.8510.9714BR-TK02Lack of technical understanding of designers, builders, and project teams[6,7]3.7290.9665BR-EC01Longer time for construction and a long payback period[24,28]3.7021.0136BR-EC02High initial costs[2,3,29]3.6620.8457BR-EC04Incurred cost in seeking certification[31,32]3.6481.0098BR-SC04Reluctant to adopt changes[23,24]3.6481.0099BR-TK06Difficulty in choosing subcontractors to provide GB servicesExperts’ opinion3.6211.01210BR-TK07Contractor lacks experience, skills, and knowledge of correct construction methods and procedures[34]3.6211.07711BR-SC01Lack of public awareness about GB[11]3.6081.09112BR-EC05High cost of green materials and difficulty in sourcing them locally[33]3.6081.00013BR-EC06High costs for investment in equipment, materials, and green construction activities[4,5]3.5810.92514BR-TK01Insufficient cost–benefit data from interdisciplinary research[36]3.5130.89215BR-LI03Lack of encouragement from government and financial support programs[35]3.5130.92216BR-SC07The Green Mark is mainly applied in some projects of Singaporean investorsExperts’ opinion3.4721.13317BR-SC08The Green Mark takes into account the characteristics of the country (especially in terms of energy) in the hot and humid climate near the equator[26,27]3.4450.93518BR-LI01Weak enforcement of legislation; not established yet by the governing department of GBs[9,10]3.4451.00519BR-EC03High risks associated with investment[30]3.4450.96320Table 16. Summary table of benefit factors ranking.
+CodeBenefitsReferencesMeanStd. DevRankBN-EC01Reducing operating and maintenance costs[14]3.7021.0131BN-EN02Reducing waste, pollution, and negative impacts on the environment[6,28]3.6750.9342BN-EC02Improve work and study productivity[37,38]3.6680.9783BN-EC04Green Certificate provides more reliable quality assurance of project[18]3.6481.0094BN-SC02The Green Mark is supported by the Singaporean government and encouraged to be applied in projects invested by Singaporean companiesExperts’ opinion3.6350.8345BN-EC05Higher rental rate[42]3.6081.0006BN-SC01Improve the quality of the indoor living environment and improve public health[20]3.5870.8157BN-EN03Protecting and restoring the ecosystem, reducing emissions, and regulating the temperature[40]3.4791.0208BN-EN01Avoids wasting energy, clean water, and other resources[12]3.4451.0059BN-EC03Adding value to the projects[41]3.4450.96310    Based on the ranking of factors derived from mean values, several key insights emerge regarding both barriers and benefits associated with the Green Mark program in construction.
+    For barriers, the analysis reveals that the lack of expressed interest from clients (BRSC02) is identified as the primary obstacle, followed by challenges such as the lack of well-known sources of information (BR-SC06) and insufficient brand recognition and competitive advantage (BR-SC05). Interestingly, factors related to technical knowledge and understanding, such as the lack of technical understanding among designers, builders, and project teams (BR-TK02), are also significant barriers. Moreover, financial considerations, including longer construction time and payback periods (BR-EC01) and high initial costs (BR-EC02), are prominent concerns, alongside challenges in seeking certification and reluctance to adopt changes.
+    Conversely, the analysis of benefits highlights several positive outcomes associated with green building practices. Leading the list is the potential for reducing operating and maintenance costs (BN-EC01), followed closely by benefits, such as reducing waste, pollution, and negative environmental impacts (BN-EN02), and improving work and study productivity (BN-EC02). Additionally, the reliability of green certification in ensuring project quality (BN-EC04) as well as the support of the Singaporean government for Green Mark initiatives (BN-SC02) are recognized as significant advantages.
+    In summary, the analysis underscores a range of barriers and benefits influencing the adoption of the Green Mark program in construction. These findings provide valuable insights for stakeholders seeking to promote sustainable building practices, highlighting areas of opportunity for addressing barriers and leveraging benefits to drive greater adoption of green building initiatives in the future. A further discussion of these findings will be provided in Section 5.
+4.5. Analysis Results of AHP Model
+    In response to this challenge, an extensive literature review was conducted to capture diverse perspectives from various researchers. The authors conducted comprehensive investigations to discern the critical factors and subsequently evaluated and ranked them through factor analysis. This rigorous review culminated in the formulation of an exhaustive checklist comprising seven distinct categories encompassing thirty critical factors, which are all meticulously documented in Tables 17 and 18. The categorization of these seven groups was informed by their inherent characteristics and extensive consultations
+    
+with professionals within the field of construction management. Following this, a meticulously crafted questionnaire was designed, incorporating the critical factors distilled from this comprehensive review. These factors underwent a rigorous evaluation by experts
+within the construction industry.
+Table 17. Four categories and twenty critical barrier factors with relevant references.
+No.CodeBarrier FactorsKey ReferenceISocial and cognitive1BR-SC01Lack of public awareness about GB[11]2BR-SC02Lack of expressed interest from clients[21]3BR-SC03Reluctant to adopt changes[23,24]4BR-SC04Insufficient brand recognition and competitive advantage[25]5BR-SC05Lack of well-known sources of information[6,7]6BR-SC06The Green Mark is mainly applied in some projects of Singaporean investorsExperts’ opinions7BR-SC07The Green Mark considers the characteristics of the country[26,27]IIEconomic and cost8BR-EC01Longer time for construction and a long payback period[24,28]9BR-EC02High initial costs[2,3,29]10BR-EC03High risks associated with investment[30]11BR-EC04Incurred cost in seeking certification[31,32]12BR-EC05High cost of green materials and difficulty in sourcing locally[33]13BR-EC06High costs for investment in equipment, materials, and green construction activities[4,5]IIITechnical and knowledge14BR-TK01Insufficient cost–benefit data from interdisciplinary research[36]15BR-TK02Lack of technical understanding of designers, builders, and project teams[6,7]16BR-TK03Not mandatory yet to apply the standards for energy-efficient construction projects[39]17BR-TK04Difficulty in choosing subcontractors to provide GB servicesExperts’ opinions18BR-TK05Contractor lack of experience, skills, and knowledge of correct construction methods and procedures[34]IVLegislative and institutional19BR-LI01Weak enforcement of legislation; not established yet by the government department of GBs[9,10]20BR-LI02Lack of encouragement from government and financial support programs[35]Table 18. Three categories and ten critical benefit factors with relevant references.No.CodeBenefit FactorsKey ReferenceIEconomic and cost1BN-EC01Reducing operating and maintenance costs[14,15]2BN-EC02Improve work and study productivity[37,38]3BN-EC03Adding value to the projects[41]4BN-EC04Green Certificate provides more reliable quality assurance of project[18,19]5BN-EC05Higher rental rate[42]
+Table 18. Cont.
+
+No.CodeBenefit FactorsKey ReferenceIIEnvironment6BN-EN01Avoid wasting energy, clean water, and other resources[12,13]7BN-EN02Reducing waste, pollution, and negative impacts on the environment[6,28]8BN-EN03Protecting, and restoring the ecosystem, reducing emissions, regulating the temperature[40]IIISocial and cognitiveImprove the quality of the indoor living environment and improve
+9BN-SC01public health[20]10BN-SC02The Green Mark is supported by the Singaporean government and encouraged to be applied in projects invested by Singaporean companiesExperts’ opinions
+    The initial step in the AHP was to construct a hierarchical structure for the analysis, as illustrated in Figure 2. The hierarchical structure comprises multiple levels, with the first level focusing on the Critical Factors under study. The second level encompasses seven categories, as previously listed.
+
+Figure 2. AHP hierarchy figure of criteria for Green Mark project’s critical factors.
+    The subsequent stage in the AHP involved generating matrices of comparisons on a pairwise basis, which constitute a crucial component of AHP research. The gathered data comprised the levels assigned to each factor by each participant, adhering to the suggested 9-point scale as per the theory outlined in Section 3. Subsequently, average values were computed for utilization in the pairwise comparison procedure, as depicted in Tables 19 and 20.
+Table 19. Summary of priority evaluation among pairs of barrier factors of experts’ opinions.
+Level 1CriteriaBR-ECBR-LIBR-SCBR-TKBarrierBR-EC
+BR-LI
+BR-SC1.00
+0.25
+0.334.00
+1.00
+0.333.00
+3.00
+1.004.00
+3.00
+2.00BR-TK0.250.330.501.00Sum1.835.677.5010.00Table 20. Summary of priority evaluation among pairs of benefit factors of experts’ opinions.
+Level 1CriteriaBN-ECBN-ENBN-SCBenefitBN-EC
+BN-EN
+BN-SC1.00 0.33
+0.253.00 1.00
+0.334.00
+3.00
+1.00Sum1.584.338.00    The subsequent procedure involved dividing each value in every column by the total sum of each column to determine the normalized weight. Subsequently, the average value of each row was computed, representing the priority weight. Moreover, the consistency ratio for the pairwise comparison was assessed, resulting in values of 0.091 and 0.067 for barrier and benefit factors respectively, both falling below the acceptable threshold of 0.1. The next phase entails replicating the same process across seven groups, with each success factor listed under each group. This necessitates the creation of multiple matrices. As an example, Tables 21 and 22 present the normalized weights and priority weights.
+Table 21. Criteria weight when pairwise comparison of barrier factors.
+Level 1CriteriaBR-ECBR-LIBR-SCBR-TKPriority WeightBarrierBR-EC
+BR-LI
+BR-SC0.55
+0.14
+0.180.71
+0.18
+0.060.40
+0.40
+0.130.40
+0.30
+0.200.513
+0.253
+0.143BR-TK0.140.060.070.100.090Sum1.001.001.001.00CICR0.0820.091 < 0.1Table 22. Criteria weight whenpairwise comparison of benefit factors.Level 1CriteriaBN-ECBN-ENBN-SCPriority WeightBenefitBN-EC
+BN-EN BN-SC0.63
+0.21
+0.160.69
+0.23
+0.080.50
+0.38
+0.130.608
+0.272
+0.120Sum1.001.001.00CICR0.0370.064 < 0.1    The results obtained from the application of the analytic hierarchy process (AHP) method offer valuable insights into the relative importance of various factors influencing the adoption of the Green Mark program in construction. Firstly, the consistency ratios for pairwise comparisons of both barrier and benefit factors were found to be within acceptable limits, indicating the reliability of the results derived from the AHP analysis.
+    In terms of barrier factors, the priority weights calculated for economic (BR-EC), legislative (BR-LI), social (BR-SC), and technical (BR-TK) categories shed light on the most significant obstacles hindering the adoption of green building practices. Economic factors emerged as the most critical, followed by legislative, social, and technical considerations.
+    Conversely, the analysis of benefit factors revealed the relative importance of economic (BN-EC), environmental (BN-EN), and social (BN-SC) benefits associated with the Green Mark program. Economic benefits were deemed the most influential, followed by environmental and social advantages.
+    These findings provide stakeholders with a clear understanding of the key barriers to overcome and the most significant benefits to leverage in promoting the adoption of green building practices. By strategically addressing identified barriers and capitalizing on recognized benefits, stakeholders can enhance the effectiveness and impact of the Green Mark program, ultimately advancing sustainable development goals in the construction industry. Further discussion of these findings will be provided in Section 5.
+5. Discussion
+    From the analysis results, four variables in the barrier factor group were rejected due to failure in EFA. The remaining factors met the requirements of testing and factor analysis. The results of the EFA have identified distinct groupings for both the barrier and benefit factors. The barrier factors are categorized into four groups, as follows:
+    The social and cognitive group comprises factors that stem from stakeholders’ perceptions, attitudes, and awareness toward GB practices. Vietnam’s cultural context and traditional building practices may influence the reluctance of project owners and developers to embrace sustainable building technologies (BR-SC02). Addressing this barrier necessitates targeted efforts to raise awareness and educate stakeholders about the advantages of the Green Mark. Furthermore, the lack of well-known sources of information related to GB practices (BR-SC06) may be attributed to inadequate knowledge dissemination channels. Collaborating with local industry associations, academic institutions, and government agencies can bridge this knowledge gap and promote technical guidance.
+    The economic and cost group of barrier factors highlights challenges related to financial considerations. These factors include reluctance to adopt changes (BR-SC04), long payback periods, and high initial costs (BR-EC01, BR-EC02). In Vietnam, developers may hesitate to invest in GB practices due to concerns about return on investment and higher upfront expenses. To overcome these barriers, government support in the form of financial incentives, tax breaks, and grants can alleviate the financial burden and provide incentives for long-term investment in sustainable projects.
+    Technical and knowledge barriers encompass challenges associated with limited technical understanding and expertise among designers, builders, and project teams (BRTK02). Addressing this barrier requires investments in comprehensive training programs and workshops to educate professionals on sustainable building principles and cuttingedge construction techniques. Building local capacity in green design and technology can empower stakeholders to embrace and implement GB practices effectively.
+    Legislative and institutional barriers pertain to the challenges arising from the regulatory and policy framework (BR-LI01). While Vietnam has made strides in implementing GB regulations, further alignment with international standards and best practices is crucial. Strengthening and enforcing clear regulations, including energy efficiency standards, renewable energy mandates, and GB certifications, can enable developers to invest in sustainable projects confidently. Moreover, fostering collaborations between government agencies, private sector developers, and non-governmental organizations can enhance the effectiveness of GB policies and facilitate streamlined processes for Green Mark certification in Vietnam.
+On the other hand, the benefit factors are grouped into three groups:
+    Economic and cost benefits (BN-EC01) reflect the potential for GBs to reduce operating and maintenance costs, providing a strong incentive for stakeholders in the Vietnam market to pursue sustainable building practices.
+    Furthermore, environmental benefits (BN-EN02) underscore the significant positive impact of GBs on minimizing waste, pollution, and negative environmental effects, aligning with Vietnam’s commitment to sustainable development and environmental protection.
+    Social and cognitive benefits (BN-EC02) highlight the positive effects of GBs on occupant productivity, creating healthy and comfortable indoor environments that enhance both work and educational productivity in Vietnam.
+    Further detailed analysis with a ranking based on the mean values of the factors, with the factors having large mean values, shows that experts appreciate the influence of the factors. The influence of factors on the main criteria is specific: the most critical barrier factor is “Social and cognitive,” with the variable BR-SC02—“Lack of expressed interest from clients”—being ranked the highest (ranked 1st) with a mean value of 4.175, emphasizing the need to address the reluctance of project owners and developers in adopting sustainable building practices. From the perspective of actual research, the lack of interest of project owners and developers, as well as the lack of information sources and insufficient brand recognition and competitive advantage, are the biggest barriers. To overcome this challenge, targeted efforts must be made to raise awareness and educate stakeholders about the advantages of the Green Mark. The following two ranking variables are BR-SC06 (“Lack of well-known sources of information” (ranked 2nd)) and BR-SC05 (“Insufficient brand recognition and competitive advantage” (ranked 3rd)), reaching a mean value from 3.972 to 3.959, showing that these two barrier variables also play a vital role in causing barriers affecting the implementation of the Green Mark in Vietnam. BRSC06 reflects the scarcity of easily accessible and reliable information sources related to GB practices. To tackle this barrier, collaboration with local industry associations, academic institutions, and government agencies can be instrumental in providing technical guidance and knowledge dissemination. The factor BR-SC05 highlights the importance of establishing brand recognition and a competitive advantage for GB practices in Vietnam. Promoting successful case studies and recognition through media coverage and awards can help increase awareness and build confidence in the Green Mark.
+    Similarly, the critical factor of benefits is the “Economic and cost” factor with the variable BN-EC01 “Reducing operating and maintenance costs” (1st ranked) with a mean value of 3.702, which is ranked the highest. To continuously encourage this mentioned benefit, some actions should be proposed and implemented, such as the following. Incentives and Support: These provide financial incentives, tax breaks, and grants to developers and building owners who pursue Green Mark certification. Moreover, these encompass offering technical support and guidance to developers throughout the certification process. Collaboration and Partnership: Foster collaboration between the Singapore BCA and Vietnamese government agencies, industry associations, and academic institutions to jointly develop and implement the Green Mark in Vietnam. This collaboration can help customize the certification criteria and streamline the certification process. Capacity Building: Invest in training programs and workshops to build local capacity in sustainable building practices. This includes training architects, engineers, contractors, and building professionals on green design principles, construction techniques, and energy-efficient systems. Industry Recognition and Promotion: Recognize and promote Green Mark-certified projects through media coverage, awards, and case studies. This will raise awareness among industry professionals and the public and encourage more projects to pursue green certification. Environmental Impact Reduction: BN-EN02 (ranked 2nd) emphasizes the potential for GB practices to minimize waste, pollution, and negative environmental impacts. This benefit aligns with Vietnam’s commitment to sustainable development and environmental protection. Improved Work and Study Productivity: BN-EC02 (ranked 3rd) highlights the positive effects of GBs on occupant productivity. Creating healthy and comfortable indoor environments can boost productivity in both work and educational settings.
+    Addressing new factors in Vietnam, the Vietnamese market presents unique challenges and opportunities for implementing the Green Mark. To address the specific barriers identified, it is crucial to engage in the following actions. Collaborative Education and Awareness: Conduct workshops, seminars, and training programs to educate stakeholders about the benefits of the Green Mark. Partner with local industry associations, universities, and government agencies to raise awareness and provide technical guidance on sustainable building practices. Local Capacity Building: Invest in training programs for architects, engineers, contractors, and building professionals on green design principles, construction techniques, and energy-efficient systems. Building local capacity will support the adoption of GB practices in Vietnam. Customized Criteria and Support: Foster collaboration between the Singapore BCA and Vietnamese government agencies, industry associations, and academic institutions. This partnership can lead to customized certification criteria and streamlined processes tailored to Vietnam’s unique market conditions. Incentives and Recognition: Provide financial incentives, tax breaks, and grants to developers and building owners pursuing Green Mark certification. Recognize and promote certified projects through media coverage, awards, and case studies to encourage further adoption.
+    The results highlight the key barriers and benefits of implementing the Green Mark in Vietnam. Addressing barriers is essential to promote the widespread adoption of sustainable building practices. On the other hand, leveraging economic and cost advantages, environmental benefits, and social and cognitive enhancements can drive demand and incentivize stakeholders to invest in GB projects in Vietnam. By understanding these factors and tailoring strategies accordingly, Vietnam can accelerate its progress toward a greener and more sustainable built environment.
+    Based on AHP analysis results, this research has revealed a significant finding: economic and cost factors emerge as the most critical elements affecting both the barriers and benefits of construction projects when applying the Green Mark certification. This finding underscores the intricate relationship between financial considerations and the implementation of sustainable practices in the construction industry, which merits a comprehensive discussion.
+    Economic and cost factors, as identified in this study, play a pivotal role in shaping the dynamics of Green Mark-certified projects in Vietnam. The prominence of economic considerations as critical barriers suggests that the financial burden associated with adopting sustainable practices can pose substantial challenges to project stakeholders. These challenges may encompass increased initial capital investments, higher construction costs, and uncertainties regarding the long-term return on investment. It is essential to recognize that in a competitive economic environment, project stakeholders may be reluctant to commit to environmentally friendly technologies and practices that potentially threaten a project’s profitability.
+    On the other hand, the identification of economic and cost factors as critical benefits highlights the potential for economic advantages associated with Green Mark certification. Sustainable building practices can lead to operational cost savings through reduced energy consumption, enhanced building efficiency, and decreased maintenance and operating expenses. Moreover, as global awareness of sustainability issues continues to rise, and properties with Green Mark certification may experience increased market value and demand, which could translate into higher property values and rental rates.
+    The coexistence of economic and cost factors as both barriers and benefits raise essential questions regarding the optimization of construction projects under Green Mark certification. These findings emphasize the need for a more nuanced and strategic approach to sustainable construction practices. While the up-front costs may be daunting, the longterm benefits and competitive advantages associated with Green Mark certification need to be carefully weighed against the initial financial challenges. Therefore, it is imperative that project stakeholders, including owners, contractors, and design consultants engage in a holistic analysis of the lifecycle costs and benefits of sustainable construction. This analysis should include not only the construction phase but also the post-construction operation and maintenance phases of the project.
+    In light of this study’s findings, it is also essential for policymakers, industry regulators, and Green Mark program administrators to consider the economic implications of sustainability initiatives. There may be opportunities to incentivize the adoption of green building practices through financial mechanisms, such as tax incentives or subsidies, which can help mitigate the initial financial barriers and promote the long-term economic benefits.
+    In conclusion, the identification of economic and cost factors as both critical barriers and benefits in Green Mark-certified construction projects underscores the complex interplay between economic considerations and sustainable building practices. To advance the adoption of sustainable construction in Vietnam and elsewhere, stakeholders must engage in a thorough cost–benefit analysis that accounts for both the immediate costs and the longterm economic advantages of environmentally responsible construction. This approach can facilitate a more informed and strategic decision-making process, ultimately contributing to the promotion of sustainable and environmentally responsible construction practices.
+6. Conclusions
+    This study has effectively fulfilled its objective of furnishing comprehensive insights into the applicability of the Green Mark program within the sustainable construction context of Vietnam. The research findings offer valuable guidance for clients in the construction industry, empowering them to make informed decisions regarding the adoption of a Green Mark certification for their projects. By delineating both the benefits to be gained and the barriers to be addressed, this study equips clients with the necessary information to assess the viability and potential impacts of integrating the Green Mark program into their projects. Ultimately, the results serve as a practical tool for clients to navigate implementation challenges effectively and capitalize on the program’s benefits, thus facilitating the pursuit of sustainable development objectives in Vietnam’s construction industry.
+    The research results show the relative importance of the criteria affecting the implementation of the BCA Green Mark in Vietnam through two main groups of factors, barriers and benefits, based on mean weights, with factors having a large mean proving to be highly appreciated by and interesting for survey experts in the industry. However, it is important to acknowledge the limitations of this research. This study’s generalizability may be limited due to the potential constraints in the size of the surveyed pool of experts, which could impact the representation of diverse perspectives and project types. Additionally, relying on expert opinions through surveys may introduce inherent subjectivity, with individual biases potentially influencing respondents’ interpretations of the importance of criteria. Moreover, the BCA Green Mark system is multifaceted, encompassing numerous criteria and considerations. This study’s focus on mean weights may oversimplify the intricate interplay between factors, potentially overlooking critical nuances.
+    This research also aimed at assessing and prioritizing the critical barrier and benefit factors of projects applying the Green Mark in the Vietnam construction industry. A list of 30 factors was generated by reviewing the literature and related studies to. The variables were grouped under seven major groups. The results indicate that the majority of the significant factors stemmed from various economic and cost factors; this applies for both the barrier and benefit factor groups.
+    Despite these limitations, this research presents a valuable starting point for understanding the relative importance of criteria influencing the implementation of the Green Mark in Vietnam. Based on this initial research, the authors wish to carry out a further study, such as combining two or more multiple-criteria decision making or other methods (i.e., fuzzy AHP, etc.) for the validation and ranking of alternatives, which will enable us to gain more robust results.
+Author Contributions: Conceptualization, H.C.P.; Methodology, H.C.P. and T.K.T.; Software, T.K.T.; Validation, H.C.P. and V.H.S.P.; Formal analysis, H.C.P. and T.K.T.; Investigation, T.K.T.; Resources,
+T.K.T.; Data curation, T.K.T.; Writing—original draft, H.C.P. and T.K.T.; Writing—review & editing, V.H.S.P.; Supervision, V.H.S.P.; Project administration, H.C.P. and V.H.S.P.; Funding acquisition, H.C.P. and V.H.S.P. All authors have read and agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Data Availability Statement: The original contributions presented in the study are included in the article, further inquiries can be directed to the corresponding author.
+Acknowledgments: We acknowledge the Ho Chi Minh City University of Technology (HCMUT), VNU-HCM and the Ton Duc Thang University for supporting this study.
+Conflicts of Interest: The authors declare no conflict of interest.
+References
+1. Al Khalifa, F.A. Adaptation of international sustainability rating tools to Bahrain: A comparative analysis of eleven systems. Archnet-IJAR Int. J. Archit. Res. 2019, 13, 169–193. [CrossRef]
+2. Addae-Dapaah, K.; Chieh, S.J. Green mark certification: Does the market understand? J. Sustain. Real Estate 2011, 3, 162–191. [CrossRef]
+3. Hassan, A.; Asharuddin, S.M.; Sukaimy, M.F. Constraints in Implementation of Green Building Projects in Malaysia: A Short Review. Emerg. Adv. Integr. Technol. 2023, 4, 27–32. [CrossRef]
+4. Hwang, B.-G.; Zhu, L.; Wang, Y.; Cheong, X. Green building construction projects in Singapore: Cost premiums and cost performance. Proj. Manag. J. 2017, 48, 67–79. [CrossRef]
+5. Aks¸it, S¸.F.; Bas¸tanog˘lu, E. A review of LEED green building certification systems in Europe and Turkey. A|Z ITU J. Fac. Archit. 2021, 18, 115–126.
+6. Wu, P.; Low, S.P. Project management and green buildings: Lessons from the rating systems. J. Prof. Issues Eng. Educ. Pract. 2010, 136, 64–70. [CrossRef]
+7. Boddapati, G.K.; Tawalare, A. Critical Success Factors for Implementation of Green Building in India. IOP Conf. Ser. Mater. Sci. Eng. 2021, 1203, 032061.
+8. Hwang, B.-G.; Ng, W.J. Project management knowledge and skills for green construction: Overcoming challenges. Int. J. Proj. Manag. 2013, 31, 272–284. [CrossRef]
+9. Han, H. Governance for green urbanisation: Lessons from Singapore’s green building certification scheme. Environ. Plan. C Politics Space 2019, 37, 137–156. [CrossRef]
+10. Wang, Q.; Liu, J. Demand-side and traditional environmental regulations in green construction: The moderating role of CNSC and SOE intensity. Environ. Dev. Sustain. 2023, 25, 6897–6938. [CrossRef]
+11. Hwang, B.G.; Zhao, X.; See, Y.L.; Zhong, Y. Addressing risks in green retrofit projects: The case of Singapore. Proj. Manag. J. 2015, 46, 76–89. [CrossRef]
+12. Kua, H.W.; Wong, C.L. Analysing the life cycle greenhouse gas emission and energy consumption of a multi-storied commercial building in Singapore from an extended system boundary perspective. Energy Build. 2012, 51, 6–14. [CrossRef]
+13. Doan, D.T.; Qin, L. Impacts of green rating systems on the economy and society. IOP Conf. Ser. Earth Environ. Sci. 2023, 1204, 012006. [CrossRef]
+14. Robichaud, L.B.; Anantatmula, V.S. Greening project management practices for sustainable construction. J. Manag. Eng. 2011, 27, 48–57. [CrossRef]
+15. Olanrewaju, O.I.; Enegbuma, W.I.; Donn, M.; Chileshe, N. Building information modelling and green building certification systems: A systematic literature review and gap spotting. Sustain. Cities Soc. 2022, 81, 103865. [CrossRef]
+16. Nguyen, H.-T.; Gray, M. A review on green building in Vietnam. Procedia Eng. 2016, 142, 314–321. [CrossRef]
+17. Grzegorzewska, M.; Kirschke, P. The impact of certification systems for architectural solutions in green office buildings in the perspective of occupant well-being. Buildings 2021, 11, 659. [CrossRef]
+18. Tatari, O.; Kucukvar, M. Cost premium prediction of certified green buildings: A neural network approach. Build. Environ. 2011, 46, 1081–1086. [CrossRef]
+19. Darko, A.; Chan, A.P.C.; Ameyaw, E.E.; He, B.-J.; Olanipekun, A.O. Examining issues influencing green building technologies adoption: The United States green building experts’ perspectives. Energy Build. 2017, 144, 320–332. [CrossRef]
+20. Heerwagen, J. Green buildings, organizational success and occupant productivity. Build. Res. Inf. 2000, 28, 353–367. [CrossRef] 21.	Hwang, B.-G.; Shan, M.; Lye, J.-M. Adoption of sustainable construction for small contractors: Major barriers and best solutions. Clean Technol. Environ. Policy 2018, 20, 2223–2237. [CrossRef]
+22. Ohueri, C.C.; Enegbuma, W.I.; Kenley, R. Energy efficiency practices for Malaysian green office building occupants. Built Environ. Proj. Asset Manag. 2018, 8, 134–146. [CrossRef]
+23. Jain, M.; Siva, V.; Hoppe, T.; Bressers, H. Assessing governance of low energy green building innovation in the building sector: Insights from Singapore and Delhi. Energy Policy 2020, 145, 111752. [CrossRef]
+24. Siva, V.; Hoppe, T.; Jain, M. Green buildings in Singapore; analyzing a frontrunner’s sectoral innovation system. Sustainability
+2017, 9, 919. [CrossRef]
+25. Low, S.P.; Gao, S.; See, Y.L. Strategies and measures for implementing eco-labelling schemes in Singapore’s construction industry. Resour. Conserv. Recycl. 2014, 89, 31–40. [CrossRef]
+26. Lai, F.; Zhou, J.; Lu, L.; Hasanuzzaman, M.; Yuan, Y. Green building technologies in Southeast Asia: A review. Sustain. Energy Technol. Assess. 2023, 55, 102946. [CrossRef]
+27. Ting, K.H. Tropical green building rating systems: A comparison between Green Building Index and BCA Green Mark. In Proceedings of the 2012 IEEE Business, Engineering & Industrial Applications Colloquium (BEIAC), Kuala Lumpur, Malaysia, 7–8 April 2012; pp. 263–268. [CrossRef]
+28. Lu, Y.; Chang, R.; Shabunko, V.; Yee, A.T.L. The implementation of building-integrated photovoltaics in Singapore: Drivers versus barriers. Energy 2019, 168, 400–408. [CrossRef]
+29. Hwang, B.-G.; Shan, M.; Phua, H.; Chi, S. An exploratory analysis of risks in green residential building construction projects: The case of Singapore. Sustainability 2017, 9, 1116. [CrossRef]
+30. Zhao, X.; Hwang, B.-G.; Gao, Y. A fuzzy synthetic evaluation approach for risk assessment: A case of Singapore’s green projects. J. Clean. Prod. 2016, 115, 203–213. [CrossRef]
+31. Azizi, N.Z.M.; Abidin, N.Z.; Raofuddin, A. Identification of soft cost elements in green projects: Exploring experts’ experience. Procedia Soc. Behav. Sci. 2015, 170, 18–26. [CrossRef]
+32. Azizi, N.Z.M.; Abidin, N.Z.; Raofuddin, A. Soft Cost Elements in Green Projects: Malaysian building industry. Asian J. Behav. Stud. 2018, 3, 135–146. [CrossRef]
+33. Varnäs, A.; Balfors, B.; Faith-Ell, C. Environmental consideration in procurement of construction contracts: Current practice, problems and opportunities in green procurement in the Swedish construction industry. J. Clean. Prod. 2009, 17, 1214–1222. [CrossRef]
+34. Choi, C. Removing market barriers to green development: Principles and action projects to promote widespread adoption of green development practices. J. Sustain. Real Estate 2009, 1, 107–138. [CrossRef]
+35. Hwang, B.-G.; Zhu, L.; Tan, J.S.H. Green business park project management: Barriers and solutions for sustainable development.
+J. Clean. Prod. 2017, 153, 209–219. [CrossRef]
+36. Omotayo, T.; Tan, S.W.; Ekundayo, D. Sustainable construction and the versatility of the quantity surveying profession in Singapore. Smart Sustain. Built Environ. 2022, 12, 435–457. [CrossRef]
+37. Addae-Dapaah, K.; Hiang, L.K.; Sharon, N.Y.S. Sustainability of sustainable real property development. J. Sustain. Real Estate 2009, 1, 203–225. [CrossRef]
+38. Pheng Low, S.; Ying Liu, J.; Wu, P. Sustainable facilities: Institutional compliance and the Sino-Singapore Tianjin Eco-city Project. Facilities 2009, 27, 368–386. [CrossRef]
+39. Mlecnik, E.; Visscher, H.; Van Hal, A. Barriers and opportunities for labels for highly energy-efficient houses. Energy Policy 2010, 38, 4592–4603. [CrossRef]
+40. Gebre, T.; Gebremedhin, B. The mutual benefits of promoting rural-urban interdependence through linked ecosystem services. Glob. Ecol. Conserv. 2019, 20, e00707. [CrossRef]
+41. Raadal, H.L.; Dotzauer, E.; Hanssen, O.J.; Kildal, H.P. The interaction between electricity disclosure and tradable green certificates. Energy Policy 2012, 42, 419–428. [CrossRef]
+42. Wiley, J.A.; Benefield, J.D.; Johnson, K.H. Green design and the market for commercial office space. J. Real Estate Financ. Econ. 2010, 41, 228–243. [CrossRef]
+43. Dickson, G.W. An analysis of vendor selection systems and decisions. J. Purch. 1966, 2, 5–17. [CrossRef]
+44. Basu, R.; Jha, K.N. An AHP based model for the selection of horizontal formwork systems in Indian residential construction. Int.
+J. Struct. Civ. Eng. Res. 2016, 5, 80–86. [CrossRef]
+45. Gerbing, D.W.; Anderson, J.C. An updated paradigm for scale development incorporating unidimensionality and its assessment.
+J. Mark. Res. 1988, 25, 186–192. [CrossRef]
+46. Ferguson, E.; Cox, T. Exploratory factor analysis: A users’ guide. Int. J. Sel. Assess. 1993, 1, 84–94. [CrossRef]
+47. MacCallum, R.C.; Widaman, K.F.; Zhang, S.; Hong, S. Sample size in factor analysis. Psychol. Methods 1999, 4, 84. [CrossRef] 48.	Fornell, C.; Larcker, D.F. Evaluating structural equation models with unobservable variables and measurement error. J. Mark. Res. 1981, 18, 39–50. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+    
+Reproduced with permission of copyright owner. Further reproduction prohibited without permission.
+Buildings 2024, 14, 1242	2 of 23
+    
+Buildings 2024, 14, 1242	3 of 23
+    
+
+    
+Buildings 2024, 14, 1242	2 of 23
+    
+Buildings 2024, 14, 1242	2 of 23
+    
+Buildings 2024, 14, 1242	2 of 23
+    
+Buildings 2024, 14, 1242	2 of 23
+    
+Buildings 2024, 14, 1242	2 of 23
+    
+Buildings 2024, 14, 1242	3 of 23
+    
+
+    
+
+    
+
+    

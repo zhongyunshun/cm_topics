@@ -1,0 +1,174 @@
+﻿Construction Management and Economics (1994) 12, 457—465
+A survey of data communications in the UK construction industry
+MARK O'BRIEN and ALI AL-SOUFI
+Department of Computer Science, University of Nottingham, Nottingham NG7 2RD, UK
+Received 10 December 1993; revised 3 March 1994
+The UK construction industry has in general been slow to adopt information technology. The tactical use of this technology for personal productivity improvement has nevertheless become generally accepted. Communications technology has the capability to alter the industry fundamentally. This paper describes a postal survey carried out in early 1993 to ascertain the current position of this particular technology within the UK construction industry; the survey not only provides statistical data but also some evaluative measures on the problems encountered by construction professionals. The survey shows that the use of electronic mail and electronic data interchange is still highly restricted in the industry. More importantly these two technologies are being used primarily to support finance and accounting processes rather than mainstream construction processes.
+Keywords : Communications, EDI, email, industry, information technology.
+  
+Introduction
+The exact position of information technology (IT) in the construction industry is uncertain. This uncertainty springs from the continually changing nature of the technology and the numerous attempts made by the construction industry to utilize that technology. This dynamic environment has meant that it is diffcult to ascertain the true state of affairs and it is unsurprising to witness the number of surveys that have been performed to establish the current standing of IT in the construction industry. The most notable of these surveys are the three that have been performed by KPMG Peat Marwick McClintock and the CICA (KPMG, 1987, 1990, 1993). However, there have been others of a more specialized nature, an example being that performed by Ortefia and Baldwin (1991) on computer-aided estimating systems.
+  This paper describes a survey designed to collect statistics and evaluative statements on the current state of data communications technology in the UK construction industry. The primary reason for this survey was to discover the collective awareness, use and perception of communications technology within the construction industry so that this knowledge could be put to use in the
+0144-6193 	1994 E. & F.N. spon
+ri ht 
+design and implementation of distributed systems. To achieve this result a number of basic facts needed to be established. In general the survey aimed to collect numerical measures and statistics but it was also felt to be important in canvassing opinions. These individual views highlight many of the problems encountered in the industry and provide a context for interpreting the raw data of the more objective questions.
+  Data communications technology has had the same mixed reception in the construction industry as data processing technology. It hardly needs a survey to identify the widespread adoption of FAX, but as a technology FAX is rather similar to word processors and spread sheets, in that it is relatively simple, cheap and easy to adopt and use. Despite the fact that FAX is a window on a wider world it is nevertheless still tactical in nature. Equally, local area networks (LANs) are increasingly being used to tie together different machines within the same organization. Yet there are more fundamental forms of communications technology which begin to tie trading partners closer together and which begin to alter business relationships and methods of working (O'Brien and Al-Soufi, 1993). The survey described herein was primarily aimed at these more fundamental communication technologies.
+Survey description
+Survey questionnaires were sent by post to over 1000 organizations within the UK construction industry early in 1993. The names and addresses of the organizations were selected from the Financial Analysis Made Easy (FAME) CD-ROM database of UK companies. This database holds data on over 80 000 firms in the UK. Since communications technology will eventually tie all industry participants together it was decided that no specific targeting should take place on the basis of organization type. Thus, the scope of the survey included architects, consultants, contractors, materials manufacturers, distributors and quantity surveyors. There was no geographical restriction on the selection of participating organizations.
+  It was decided, however, to select organizations on the basis of size. In the case of contractors, materials manufacturers and distributors only organizations with over 100 employees were selected. This selection criterion was not used in the case of the other specialists. This decision is important when reviewing the results since it naturally excludes the very large number of smaller contractors in this industrial sector.
+  Two further sources of information were used to identify potential survey participants: these were a list of contractors who are members of the National Contractors Group (Ivanhoe, 1989) and a list of members of EDICON (Electronic Data Interchange in the Construction Industry). Clearly this last group are active in the area of communications technology.
+  Out of the 1012 questionnaires sent there were 245 responses to the survey, a response rate of 24 0 ( . This figure is in line with the response rates reported by other surveys: Ortefia and Baldwin (1991) reported a response rate of 23.7 0 and the original KPMG survey (1987) reported 28 0
+Survey respondents
+The majority of replies received were from general contractors (Fig. 1). The categories of house builders, materials suppliers, materials manufacturers and architects were approximately equally represented. The classification 'Others' includes structural engineers, subcontractors, quantity surveyors and building services contractors. Some of the larger organizations put down more than one classification.
+  Organizations were asked to classify themselves in terms of size on the basis of the number of employees (Fig. 2). Obviously with the method of selecting the organizations there are few who have less than 100 employees. Those which have less than 100 employees are consultants, architects, etc. It is reassuring to note
+Architect/Oesigner
+Manufacturer
+General Contractor
+Supplier
+House Builder
+Deveioper
+Others
+140
+No of Respondents
+Figure 1 Organizations: type of work
+1 
+140
+No of Respondents
+Figure 2 Organization: number of enployees
+that the pattern of responses for those organizations with 100 or more employees reflects the well-known industry structure; there are a very large number of smaller firms with a small number of medium-sized firms and only a handful of large concerns.
+Hardware and software platforms
+Electronic communications technology is usually operated in conjunction with processing technology. The survey therefore made some simple enquiries on the hardware and software platforms used by the respondents. This information provides a backdrop to the later results and was used to put the communications technology in context.
+  As would be expected the PC with the DOS operating system is the commonest platform used by over 85 0 of respondents (Figs 3 and 4). Perhaps more surprisingly is the widespread use of mini-computers and the UNIX operating system. Over half the organizations are using mini-computers and just under half are now using UNIX. UNIX and mini-computers are not as easy to adopt as PCs and DOS. They are more expensive, they are more complex and in the case of UNIX they are not in general as easy to use as DOS.
+
+	o	10	20	30	40	60	so	70	80	90
+% Respondents
+Figure 3 Hardware type
+
+% Respordå"ts
+Figure 4 Operating system usage
+All this suggests an increasing sophistication on the part of computer users in the construction industry.
+  One might speculate that whilst PCs and DOS will remain popular for many years to come, the current large scale use of mini-computers and UNIX will continue and increase. PC/DOS systems are most useful for improving the effciency of well-defined tasks; corporate business functions, however, can be better improved through the use of larger machines such as mini-computers. Our results imply that construction organizations understand this proposition and are developing basic infrastructures necessary to support such changes.
+Data communications within firms
+The questions relevant to the communications technology itself were split into two sections. On the one hand, there was a set of questions pertaining to the communications that existed within the organizations and on the other hand the survey enquired about
+Propct Sites
+District Offices
+Main Office
+	o	10	20	30 	40 50	60	70	80	90
+% Respondents
+Figure 5 Computer locations
+communications between organizations. This division between internal and external communications is necessary because the two forms are quite distinct in nature. Internal communications can be implemented using special purpose and proprietary systems; external communications, however, rely upon the adoption of standards which allow disparate systems to be linked. Typically therefore internal communications will involve joining PCs together using some form of local area network system such as Novell.
+Distribution of computers
+The nature of internal communications is essentially determined by the physical distribution of the computers which are being used (Fig. 5). The vast majority of construction organizations (84%) have their computers based at head offce; these machines presumably support the central administration tasks and off-site construction management processes, such as estimating. However, approximately half (47%) also maintain computers at district omces.
+  The most revealing figure, however, is the extremely low use of computers on-site (6%). This number must partly be a reflection on the organization of site work in which a prime contractor will be responsible for that site; subcontractors would not therefore be likely to install on-site computers unless they had a high profile and long-term involvement in the project. Equally project sites are not, in general, viewed as a suitable environment for expensive computers. Nevertheless, the low figure confirms a reluctance to bring machines closer to the actual place of production. This might change in the future with the increasing use of robust portable PC notebooks and cheap communications facilities.
+  This result is surprising given the nature of on-site administration that can be supported even by quite simple PCs. Correspondence can be dealt with using word processors and more specialized software systems can handle the administration of safety regulations and
+50
+% Respondents
+Figure 6 LAN usage
+the control of drawings; project planning software can also be run on-site with advantage.
+Local area networks
+Local area networks (LANs) are intercomputer cabling topologies that allow computers in some small area to communicate with each other. This communication may take the form of passing messages or data to each other or more profoundly through sharing resources such as a database or a printer. LANs are not restricted to operating within a part of a building or even within an entire large building, nevertheless many users perceive them as such. The survey revealed that 8 0/0 of respondents had all their computers connected together using a LAN and 42% had some LAN infrastructure but that it was not all embracing (Fig. 6). Although the survey does not reveal the exact nature of these LAN systems it is probably safe to speculate that they almost all involve communications between PCs.
+  These figures confirm the steady rise in the adoption of LAN systems. In the KPMG Peat Marwick and CICA survey of 1990 (KPMG, 1990) it was forecast that by 1991 43 0 ) of firms would have some form of LAN technology; the figure of 50 0 •o found in this survey confirms the steady upwards trend.
+Types of data transferred
+Perhaps more important than the actual communications systems themselves are the use to which these systems are put. Past surveys have put too much emphasis on the hardware and software systems from the technological point of view. This survey broadened its outlook by investigating communications from the applications and users point of view. The exact nature of the data types exchanged between various parties shows how the technology is being adopted in the construction environment. The survey has revealed that the majority of the data exchanged internally is
+CAD Drawngs
+Tech Specifications
+Job Costing16
+Job Schedules
+Marketing Data
+Plant Movement Invoices
+Orders EFT
+  Delivery Note System Support Administration
+Protect Data
+Financlal
+Spreadsheet
+% Respondents
+Figure 7 Type of data transferred
+financial in nature (Fig. 7). This indicates that the adoption of communications technology is, initially at least, following the same path as the adoption of computing technology; the emphasis is on supporting financial functions rather than mainstream construction management processes. Since the majority of financial functions are concerned with monitoring and control rather than facilitating work, the primary function of the communications technology would thus seem to be concerned with monitoring and control. There appears to be little attempt to alter the methods of working, to introduce new practices or at a more fundamental level to re-engineer the business that has occurred in other industrial sectors with the introduction of communications technology. In short, there is little evidence that communications technology is being used as an enabling technology, rather the traditional control functions are merely being bolted on top of the new network capabilities. The emphasis is clearly on improving the emciency of existing operations and not on improving effectiveness, that is altering the methods of work.
+  In considering the data exchanges internal to an organization it is perhaps surprising to note that one of the commonest forms of data exchange involves marketing data. Unfortunately the survey did not anticipate this result and so the exact form of the marketing data involved remains unknown. It would be interesting to perform a further minor study to investigate this result.
+Data communications between firms
+Of more strategic importance for the construction industry is the growth of communications between different trading partners rather than purely internal communications. The survey again asked about the technology in use and the types of data.
+
+Figure 8 Inter-organization communication media
+
+Figure 9 Types of data exchanged between organizations
+  The two most sophisticated forms of communication, electronic data interchange (EDI) and wide area networks (WANs) were used by 6% and 5% of the respondents, respectively (Fig. 8). However, 23% of the respondents revealed that they used MODEMs, a fairly crude form of communication which uses existing telephone lines in a dial-up mode. The most important part of this survey was not to reveal who used what, but rather that 70 0 0 used no form of computer communications to link them to other firms. Thus, although internal communications are well established and growing steadily, the same cannot be said about external communications. These are very restricted in scope and crude in nature; it is still very much in an experimental stage.
+  The types of data exchanged (Fig. 9) once again show that financial data dominate. The two largest categories are electronic funds transfer and the sending of invoices. These two categories are generic in character and apply to any industrial sector; there is minimal use of communications technology to support construction processes. The small scale of interfirm communications within the industry is further highlighted when it is realized that electronic funds transfer is
+Practical
+Economical
+User Related
+Technical
+Utilization
+12
+                       % Respmdents Figure 10 Electronic mail problems
+concerned with the exchange of data with banks and building societies and not other construction firms.
+Electronic mail (email)
+In many organizations (not in the construction industry) electronic mail is the offcial internal means of communication, replacing the paper form of memoranda, minutes of meetings, etc. with electronic dissemination. The survey showed that only 16% of the respondents (39 in total) had an email facility and that only 3% (that is seven organizations) were connected with the outside world.
+  These results were expected. To put the statistics into context the survey asked for further evaluative statements on the adoption and diffculties in using email. Five major problems were identified by respondents (Fig. 10): they are problems of utilization, technical problems, user-related issues, cost and practical problems. Utilization, which is concerned with the incomplete connections between various sites and inefficient use, was cited by 4% of the respondents and was the least of the perceived problems. The remaining four problems all ranked more or less equally. The most important, however, was concerned with the users themselves rather than the technology itself. The problem of implementing an email system is primarily concerned with awareness and training of the staff and employees, particularly among the senior managers. Incoming mail can accumulate rapidly if users do not regularly check their mailboxes and this was also seen as a problem. On the other hand, some respondents identified a simple, but honest reluctance to dispense with paper-based communications.
+  Practical issues revolved around the provision of terminals for the users. In short, an email system can only really be made to work if everyone has a terminal on his or her desk. Furthermore, as some of the smaller firms reported, there is simply no need to have the
+
+	o	5	10	16	20	25	30	35	40	45
+(h Respondents
+Figure 11 EDI and organizational awareness
+facility given the ease of communication in a small set of omces; yellow sticky notepads are much more effcient in these circumstances.
+  Quite obviously economic considerations were seen as a brake on implementing a comprehensive email system. It is easy to identify the hardware, software and line rental costs but the benefits and cost-effectiveness are much more problematical.
+  The final problem area, that of technical problems, revealed that some respondents were technically advanced in their appreciation of communications technology. They identified problems inherent in the existing local area networks, the problems of interaction between different software and hardware platforms and the cumbersome nature of some systems. There were also concerns about the loads placed on existing facilities and problems associated with poorly intalled email systems.
+Electronic data interchange (EDI)
+As well as concentrating on email the survey also looked at EDI in some detail. The issue investigated here was not so much how many firms were using EDI but rather what were their attitudes towards it. Clearly at the present moment few firms in construction have an EDI capability and this was reflected in the survey's statistics (Fig. 11). Most firms a.re aware of EDI and its capabilities and 10 0 0 have implemented an EDI system, yet at the other end of the spectrum 9% had not even heard of EDI. Looking at the actual users of EDI the survey asked how they had become involved with this particular technology. Over half (55%) said that they had been encouraged by a business partner (presumably a partner who used EDI) and 19 0 0 had reacted to direct business pressure. These figures suggest that EDI is spreading through the industry primarily through a process of exposure to the technology, coming either from trading collaborators or direct competitors.
+'STEL(EDICT) 8% iNS(TRADENET)
+BT (NETCOM)
+Figure 12 VAN providers
+Not Sure
+8
+Fourty Two
+No of Respondents
+Figure 13 Organizational connectivity
+  EDI depends on the provision of a trading network. The survey investigated who was providing these networks, which are usually called value-added networks or VANs (Fig. 12). By far the biggest VAN provider in the construction industry is INS with its TRADENET VAN. A small number of construction firms deal with more than one VAN provider.
+  EDI is at its strongest in an industry where nearly all the trading partners use the technology. The survey investigated not only the absolute number of EDI users but the breadth of usage throughout the industry. Whilst 10 0 of respondents had an EDI capability it was found that the use of the technology was still highly tentative (Fig. 13). It is clear that EDI is still in its formative stages in the construction industry. Only two firms said that they were connected to over 10 trading partners; one of these was connected to 42 partners and the other 50 partners. Investigating this in more detail it was found that neither of these firms were mainstream contractors or consultants; they were both manufacturers and suppliers of building materials. The widespread nature of their connections appears to have occurred not so much from a large interconnection in the industry itself but rather with other suppliers and manufacturers who operate outside the industry.
+  EDI is primarily used to support ordering and accounting processes Fig. 14). This is hardly surprising given that the development of standards in these areas is well understood. Again, however, one notes
+
+Figure 14 EDI integration
+that these are not particular to the contruction industry; the use of EDI in construction is based upon use external to the industry.
+  As with email the survey also sought evaluative statements about EDI. The diffculties in implementing EDI were well advertised in these responses. One obvious problem that faces potential EDI users is the need to integrate the EDI facility with existing software systems. This is essential given that EDI is application to application communication and not user to user. Typical comments talked about the 'poor quality of software integration', 'problems of integration with existing systems' and the 'poor quality of EDI packages'.
+  But even if these particular problems could be overcome there is still the problem of dealing with trading partners. EDI only becomes cost-effective when it reaches a certain 'critical mass' within the industry and to date the construction industry has not yet reached this mass. Many potential EDI users complained not about their own systems but those of their trading partners, systems which could not support EDI.
+  As with all new technology there were reservations about balancing costs and benefits. EDI is seen to be a particularly expensive technology and there was scepticism that it would work in an industry with so many small organizations. Again with such a new initiative there is a natural resistance to change. Some respondents noted the natural conservatism of the construction industry, others felt that the technology simply wasn't needed.
+  Given some of these remarks the data on EDI was reanalysed to investigate any cross-correlations. In particular the use of EDI was compared with organization size (Fig. 15), organization type (Fig. 16) and total IT annual expenditure (Fig. 17). Comparing EDI adoption with organization size shows that large organizations are much more likely to use it than small ones. This result is particularly marked if one remembers the structure of the construction industry with its ex-
+29
+30
+% EDI Users
+Figure 15 EDI and size of organization
+
+% eu use-s
+Figure 16 EDI and organization type
+
+% EDI Uws
+Figure 17 EDI and annual IT expenditure
+tremely high number of small organizations. Analysing EDI uptake against the organization type shows that EDI is primarily used by building materials manufacturers and suppliers. This again confirms the finding that modern communications technology has not established itself in the mainstream of the UK construction industry. Finally turning to consider the relationship between EDI use and annual IT expenditure it can be seen that EDI users are concentrated amongst the big spenders. This is more marked than the correlation between EDI use and size. It shows that a few organizations are clearly investing heavily and that it is those organizations who have the most sophisticated communications infrastructure.
+Finally, by further analysis it was discovered that not
+all EDI users are email users and vice versa. In fact email use was concentrated amongst general contractors who showed poor EDI use. Only 55 0 0 of EDI users were also email users. These two technologies are showing signs of convergence (for example, as described in X435, email will in the future be used as the transfer medium for EDI documents) which will reduce this independence between them.
+Conclusions
+If software developers are to design and build systems which are to be useful to the construction industry, then these systems must improve the effciency and effectiveness of the value-adding processes within that industry. The design of data-processing software involves the well-known process of systems analysis whereby the future users are interviewed to identify their individual requirements. Such an approach however is diffcult in the case of systems which are to be used throughout the industry. It is simply not possible to seek the views of all possible users on an individual basis. The design method relies upon consensus and the establishment of standards; the aim of the standards is to provide a framework within which all the users can satisfy their own particular needs. The survey has shown that many communication applications remain to be fully exploited. The widespread collaboration and cooperation needed for the success of such applications has yet to occur. However, the survey has established a possible mechanism for the formation of the collaborative framework and infrastructure necessary for successful interorganizational communications.
+  The identification of the primary means by which electronic communications technology is spreading through the industry is perhaps the most important finding of the survey. Although a small number of organizations claimed that they had decided upon the adoption of email and EDI through their own desire to gain a competitive advantage, the vast majority have revealed that outside pressure of one form or another has been the driving force. This is confirmed by considering the nature of the data exchanged; most construction firms are not connected with other construction firms but with outside agencies such as banks. Only a small amount of data relevant to mainstream construction processes is currently communicated via email or EDI. Again looking at the types of organization that use EDI it is obvious that general contractors have been particularly hesitant in using this technology. This particular result is more startling if one remembers that over half the respondents to the survey were general contractors. In fact the manufacturers and suppliers of building materials are leading the way in the industry in the use of EDI. This is to be expected given the standardized, repetitive and administrative nature of the data they use and the fact that they are required to communicate with organizations outside the construction industry.
+  The spread of email and EDI is occurring through a process of diffusion rather than spontaneous adoption. It appears as though construction organizations are adopting it to maintain communications with other trading partners who have themselves implemented advanced data communications technology. The dominance of financially based data exchange shows that the potential of email and EDI to support construction management directly remains largely unexploited.
+  In some ways this survey has shown that data communications technology is being adopted in a similar manner to data-processing technology. Initially at least the processing technology was adopted to support the finance and accounting functions, it was only later that the machines began to support processes specific to the construction industry.
+  One can foresee that the communications infrastructure will continue to expand because of the need to exchange financial data. Finally, however, one can also optimistically expect that given the existence of this infrastructure a 'second wave' of expansion will occur when it is used primarily for construction purposes rather than financial use.
+  The rationale for this survey was to provide software developers with a picture of communications use in the UK construction industry. The extent of the communications infrastructure is still small and the applications it supports are generic in nature rather than specific to the construction industry. For software developers the result shows that much remains to be done and it may take many years before the infrastructure is so extensive that it can be used as the standard method of exchanging construction data. It appears as if such specific data communications will be adopted only after the more general financial communications have been well established.
+References
+Ivanhoe (1989) The Ivanhoe Guide to Chartered Builders 1990. The Ivanhoe Press, Oxford.
+KPMG (1987) Building on IT: A Survey of Information Technology Trends and Needs in the Construction Industry. Construction Industry Computing Association and KPMG Peat Marwick McLintock Management Consultants, London.
+KPMG (1990) Building on IT for the 90s: A Survey of
+Information Technology Trends and Needs in the Construction Industry. Construction Industry Computing Association and KPMG Peat Marwick McLintock Management Consultants, London.
+KPMG (1993) Building on IT—for Quality. Construction Industry Computing Association and KPMG Peat Marwick Management Consultants, London.
+O'Brien, M. and Al-Soufi, A. (1993) Electronic data interchange and the structure of the UK construction industry. Construction Management and Economics, 11, 443—453.
+Ortefia, S. and Baldwin, A. (1991) Estimators' tasks and computer-aided estimating systems: A survey of FCEC member companies. Construction Management and Economics, 9, 553—564.
+	458	O'Brien and Al-Soufi
+  
+Data communications in the UK construction industry	459
+  
+Coovriaht 0 2001 . All Ri hts Reseved
+  
+Coovriaht 0 2001 . All Ri hts Reseved
+  
+
+  
+0 2001 . All Riahts Reseved.
+  

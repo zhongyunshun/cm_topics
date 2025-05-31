@@ -1,0 +1,120 @@
+﻿PAPER • OPEN ACCESS
+BIM + VR Technology in Construction Management of Construction Engineering
+To cite this article: Yingchun Wang 2021 J. Phys.: Conf. Ser. 2037 012083
+ 
+View the article online for updates and enhancements.
+You may also like
+- Design of patrol and control platform for power network based on UAV and VR Yanjun Hao, Weidong Shi, Ting Lei et al.
+- VR Technology in Building Environment and Energy Application Engineering Major Education
+Wenhong Yu, Yue Zhao and Junlan Zhao
+- Game Design and Implementation in
+Popular Science Education Based on
+Virtual Reality Maze
+Tao Ran and Gao Xin
+  
+
+This content was downloaded from IP address 70.50.141.186 on 23/04/2025 at 04:48
+  
+BIM + VR Technology in Construction Management of Construction Engineering 
+Yingchun Wang* 
+Liaoning Jianzhu Vocational College, Liaoning, China 
+*Corresponding author e-mail: 93526531@lnjz.edu.cn 
+Abstract. In recent years, with the rapid development of construction industry, the corresponding construction problems have become increasingly prominent. The key parts of construction engineering have become the focus of problems due to the complex construction technology, numerous external interference factors and difficult management. The integration of Bim and VR technology, with the unique advantages of virtual visualization, information interaction and management coordination, can predict and dynamically control the potential factors in the construction process, which opens up a new idea for the construction project management. Therefore, this paper takes the identification of influencing factors of key parts of construction engineering as the breakthrough point, analyzes the influencing factors that can be solved by Bim and VR technology, studies the application scheme of key parts management of construction engineering based on BIM and VR technology. Through three tests, it is found that the rate is basically stable at about 0.14s, meeting the basic requirements of less than 0.2S, so as to improve the level of on-site management. 
+Keywords: Construction Industry, BIM Technology, VR Technology, Safety Management 
+1. Introduction 
+In recent years, with the rapid development of China's construction industry, the corresponding construction engineering problems have become the focus of people's attention. The occurrence of accidents will inevitably have a huge impact on people's life and enterprise development, resulting in personal injury and economic losses. Therefore, the problem of construction engineering is an important problem to be solved. 
+  Nowadays, with the rapid development of information technology and the wave of informatization sweeping the world, building information modeling (BIM) emerges as the times require. The emergence of BIM Technology has solved some problems related to engineering safety, quality and cost management in the whole life cycle construction of the project, and improved the information management level of the construction industry [1]. In order to improve the situation of China's construction industry, the Ministry of housing and urban rural development and provincial governments have issued a series of policy documents to promote the application and research of BIM Technology in project management. The Ministry of housing and urban rural development proposed to 
+Content from this work may be used under the terms of theCreativeCommonsAttribution 3.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+Published under licence by IOP Publishing Ltd
+accelerate the integrated application of BIM Technology in the whole process, strengthen the informatization construction of project quality and safety supervision, and promote the digital supervision of project quality and safety in the "notice on printing and distributing the project quality and safety improvement action plan". VR technology (also known as virtual reality technology) is a high-tech that can highly integrate information in a large-scale integrated environment. It can generate a variety of realistic virtual environments, which can act on the user's vision, hearing and touch, and make the user feel immersive [6]. At present, it is widely used in various fields [2]. In the field of construction, VR technology and BIM Technology are combined to simulate the real information of buildings through digital information simulation, which has great guiding significance for project management. In terms of the national strategic layout, the 2016-2020 outline for the development of information technology in the construction industry clearly mentions that it is necessary to encourage the construction industry to use advanced technologies such as BIM Technology, virtual reality technology and 3D printing, accelerate the deep integration of information technology and the development of the construction industry, give full play to the leading and supporting role of informatization, and shape a new business form of the construction industry. At the local implementation level, it is also mentioned that enterprises should be encouraged to increase the R & D, application and promotion of BIM Technology, intelligent technology, virtual simulation technology, information system and other information technology, so as to realize digital design, production automation, management network, intelligent operation, business electronic, service formulation and whole process integration innovation, so as to comprehensively improve the operation efficiency of construction enterprises And management ability [3]. 
+  In the construction project management, building information model can integrate the attribute, cost, quality, safety and other multi-dimensional information of component equipment. On this basis, VR technology can provide users with a virtual three-dimensional environment. Users can participate in the construction and production experience, expand the cognitive means and cognitive field of practitioners, and have overall cognition of the project in advance. The three-dimensional visualization based on BIM Technology and immersive perception and experience function of VR technology can intuitively identify unsafe factors in construction projects, make up for the shortcomings of traditional project management to a certain extent, and open up a new path for project management. 
+2. Application of BIM + VR Technology in Construction Management 
+2.1. BIM Technology Definition and Characteristics 
+The theory of building information model (BIM) originated in 1962 when Ivan E. Sutherland of Massachusetts Institute of technology first developed the interactive graphic system Sketchpad, which proposed the concept of computer graphics and created computer interaction. In the mid-1980s, American scholar Robert Aish put forward the concept of building information modeling for the first time in his paper. In the early 1990s, G. avan nederveen and F. Tolman proposed to establish "building information model" through information decomposition. In 2002, Autodesk company in the promotion of building inf0 muscle molding process, referred to as BIM. Since then, software developers Bentley and graphisoft have launched BIM related software. Since then, BIM has gone from theoretical thinking to tools and methods to solve practical problems [4]. 
+  The core of BIM is data management, which forms a perfect information database by collecting all kinds of effective information data about the building itself and its own environment produced in the whole life cycle of the building [5]. Through the integration, processing and processing of computer software, a three-dimensional information model is formed to provide effective management for the project participants in terms of schedule, resources, cost, etc. 
+  BIM Technology simulates the building model through relevant software and 3D digital information technology, and is applied to the management of the whole life cycle of the building, providing decision support for all participants of the construction project, so that the construction project has the following characteristics in the implementation management process [6]. 
+  (1) Simulation: through 3D modeling of main structure, pipe network system, safety system and building index, BIM Technology can complete installation simulation, collision test, load-bearing and pipe network test by computer, so as to improve construction efficiency, arrange construction process reasonably, and improve operation and maintenance management efficiency. Therefore, on the basis of ensuring the efficient implementation of the project, reduce the management cost of the enterprise [7]. 
+  (2) Visualization: different from the traditional two-dimensional drawings, BIM transforms the relevant information of the building ontology and facilities into a three-dimensional model, showing the architectural effect intuitively and dynamically, so that users can fully understand each stage of the project and deal with related problems cooperatively in the life cycle of the building [8]. 
+  (3) Coordination: the construction project has the characteristics of large cycle and many participants, so it is difficult to communicate and cooperate with each other. Using BIM to control the project as a whole and pre adjust the problems to be faced in the follow-up, greatly reducing the workload of construction projects in the face of hidden works, phase II construction and other issues [9]. 
+  (4)Printability: traditional two-dimensional drawings have many limitations in the process of construction management, and BIM Technology can clearly and completely show the building model in front of the project managers, but also conducive to the construction personnel to grasp the overall construction project and local tasks more intuitive understanding. In addition, in the later operation and maintenance management, non professionals can have a detailed understanding of the project as a whole and guide the operation and maintenance management work [6]. 
+2.2. VR Technology and Technical Features 
+Virtual reality (VR) is one of the most effective advanced human-computer interaction technology to simulate human's behavior of seeing, listening and moving in the natural environment. It is a science and technology developed by integrating computer graphics technology, multimedia technology, artificial intelligence, simulation technology and other disciplines. This technology combines computer technology and media technology perfectly, brings users a highly realistic virtual experience, and provides an effective means for people to explore things and their development laws. Sensing device and video implementation device are hardware technology, and system application is software technology. Nowadays, VR technology is applied in various fields of natural and social disciplines, such as engineering, medical treatment, military, entertainment and education [10]. 
+2.3. BIM Technology Determination Risk Assessment 
+Analyze the target project and determine the basic risk factors set 
+U {X , X , X ...X }
+                                                                              1	2	3	N	                         Determine the weight of each basic risk: (1) W {W1， W2， W33，…， WN}                         (2)   Determine the occurrence probability level of basic factors, and organize various evaluation results into occurrence probability sets 
+V ={V， V， V ...V )
+	l	2	3	N      	                
+In this experiment, it is divided into three grades, namely    (3) V ={Vl， V2， V3) ={slight， more， serious)                    (4) Establish risk factor rank matrix 
+The subordination relation is determined, the mapping from u to V is established, and the fuzzy relation matrix R is determined: 
+	R {riji 1,2,...n, j 1,2,...n}   	                   	  (5) 
+  The index I belongs to the j rating level. Using the fuzzy statistical method, the following matrix is obtained: 
+r11,r12,r13 
+	 r21,r22,r23 
+R 
+	...	
+		
+	rn1,rn2,rn3   	                      	  (6) 
+3. Application of BIM + VR Technology in Construction Management of Construction Engineering 
+3.1. Research Purpose 
+In view of the frequent occurrence of safety accidents in China's construction industry at this stage, the management personnel failed to carry out effective beforehand and dynamic management and control of the existing safety problems. The purpose of this paper is divided into the following three aspects 
+  (1) Construct the safety influencing factors system of key parts of construction projects: broaden channels to search for safety accident cases of key parts of construction projects, and form a rich corpus. Through the method of text mining, the safety factors are identified scientifically, and the safety influencing factors system of key parts of construction engineering is constructed; 
+  (2) This paper reveals the action mechanism among the safety influencing factors of the key parts of the construction project: the influence among the safety influencing factors of the key parts of the construction project is complex. The mechanism is revealed through the social analysis network, and the safety influencing factors that can be effectively solved by Bim and VR technology are clarified; 
+  (3) Based on the actual project, through the effective application of Bim and VR technology, this paper studies the safety management method of key parts of construction engineering, innovates the safety management thinking, and improves the safety management level of the project. 
+3.2. Research Significance 
+ (1) At present, many researchers' identification of safety influencing factors remains at the level of questionnaire survey and expert interview. These methods rely too much on the subjective experience of the respondents and lack the support of objective data. This paper adopts the method of combining text mining with case analysis, and takes a large number of cases as the objective data support to determine a more comprehensive identification method of safety influencing factors, which has certain guiding and reference significance for the identification of safety influencing factors in key parts of construction engineering. 
+ (2) The traditional safety management mode of engineering project is mainly based on the experience of project management personnel and relevant experts. This management mode emphasizes the accumulation of experience value and the cognition of site construction situation. Due to the lack of intuitive cognition of site conditions by different participants, there will be some different results in the end. BIM Technology can provide a rich information database for on-site project management personnel, including the physical, functional, progress, cost, quality and other information of components and equipment used in project construction. 
+4. The Application of BIM + VR Technology in Construction Management of Construction Engineering 
+4.1. Construction of Social Network of Safety Influencing Factors 
+ 
+Table 1. “0-1” Matrix of Safety Influencing Factor 
+ S101 S102 S103 S104 S105 S106 S201 S202 S203 S204 S205 S101 0 1 1 0 1 0 0 0 0 0 0 S102 0 0 0 0 0 0 0 0 0 1 1 S103 0 0 0 0 0 0 0 0 0 1 1 S104 0 0 0 0 0 0 0 0 0 1 1 S105 0 0 0 1 0 0 0 0 0 1 1 S106 0 0 0 1 0 0 0 0 0 0 0 S201 0 0 0 0 0 0 0 0 0 1 0 S202 0 0 0 0 0 0 0 0 0 1 0 S203 0 0 0 0 0 0 0 0 0 1 1 S204 0 0 0 0 0 0 0 0 0 0 0 S205 0 0 0 0 0 0 0 0 0 0 0 S301 0 1 0 0 0 0 0 0 0 1 1 S302 0 0 0 0 0 0 0 0 0 1 1 S303 0 1 0 0 0 0 0 0 0 1 1   Because the frequency in the co-occurrence matrix of safety factors is greatly affected by the repetition rate of text in the text database, and the data is segmented in the process of transforming from "lower triangular matrix" to "full matrix", the importance of safety influencing factors can not be reflected by influence frequency. However, the binary processing in social network relationship can simplify the frequency influence relationship, and finally measure the importance relationship between factors by the number of factors. The number of "> 0" in the matrix is represented by "1", and the number of "= 0" remains unchanged. The "0-1" matrix is constructed. The binary processing process and the safety impact factor "0-1" after treatment are co-occurrence matrix table, as shown in Table 1. 
+4.2. Analysis of Safety Influencing Factors 
+Table 2. Betweenness Calculation of Safety Influencing Factors 
+ID Factor Degree Betweenness S101 Weak safety awareness 7 15.582 S102 Illegal operation 8 24.338 S103 Illegal command 7 11.933 S104 Improper operation 5 20.892 S105 Unsafe habits 4 4.163 S106 Lack of construction experience 2 1.586 S201 Material quality defects 2 0 S202 Unreasonable stacking of materials 2 0 S203 Safety protection is not in place  4.079 S204 Unsafe state of construction 4 80.598 S205 The geological environment is complex 13 33.653 S301 Changeable climate and environment 10 0 S302 The working environment is complex 1 0.222 S303 Insufficient safety management training 3 26.604   It can be seen from the above table that the degree centrality and intermediary centrality values of "unsafe state of components" and "unsafe state of mechanical equipment" are in the top three, which are in the center of social network of safety influencing factors of key parts of construction engineering, which have a significant impact on the whole safety management work. "Unsafe state of components" and "unsafe state of mechanical equipment" are the two focuses of safety influencing factors, which are the most direct influencing factors leading to safety accidents. At the same time, "imperfect safety management system" and "chaotic site layout" are also important sources of safety influencing factors, and "insufficient safety supervision and inspection" are safety influencing factors in management, which further confirms that management factors are the most profound factors inducing safety accidents. 
+4.3. Capability Test of Management Platform Based on VR and BIM Technology 
+According to figure 1 and Figure 2, through actual test, the sports platform based on blockchain technology can meet the basic data transmission requirements; in terms of speed, the transmission rate tends to be stable with the increase of time. Through three tests, it is found that the rate is basically stable at 0.17s, meeting the basic requirement of less than 0.3s. 
+
+Figure 1. Platform Transmission Success Rate Test 
+
+Figure 2. Platform Data Transmission Rate Test  
+5. Conclusion 
+This paper takes the key parts of construction engineering as the research object, from the perspective of construction safety management, studies the safety influencing factors existing in the construction process of key parts of construction engineering, constructs the network relationship diagram among many safety influencing factors, analyzes the safety problems that can be solved after introducing Bim and VR technology, and finally formulates the construction management practice of key parts of construction engineering based on BIM and VR.Through the analysis of the overall impact analysis of the key parts of the construction project, this paper studies the internal relationship network of the four factors of human, material, environment and management and the relationship with external influencing factors by analyzing and classifying the social network, and comprehensively analyzes the introduction of Bim and VR technology. Through the test, the transmission speed and success rate of the platform can meet the actual needs of the project. 
+References 
+[1] Lin Y C, Chang J X, Su Y C. Developing construction defect management system using BIM technology in quality inspection. Statyba, 2016, 22(7):903-914. 
+[2] Pavlovskis M, Antucheviien J, Migilinskas D. Conversion of Industrial Buildings and Areas in Terms of Sustainable Development by Using BIM Technology: Analysis and Further Developments. Mokslas - Lietuvos ateitis, 2016, 7(5):505-513. 
+[3] Ginzburg A, Shilova L, Adamtsevich A, et al. Implementation of BIM-technologies in Russian construction industry according to the international experience. Istrazivanja i Projektovanja za Privredu, 2016, 14(4):457-460. 
+[4] Szwarkowski D, Pilecka E. BIM technology in geotechnical engineering in terms of impact high building "Mogilska Tower" in Cracow of existing building development. Technical ences, 2017, 3(20):297-309. 
+[5] Kwon C H. A Study on the Ubiquitous Safety Monitoring through Utilizing BIM Technology. Journal of Digital Convergence, 2016, 14(6):61-67. 
+[6] Rasiulis R, Ustinovichius L, Migilinskas D, et al. Energy efficiency of a public building renovation and reconstruction using base model passive house and BIM technology. Statybins Konstrukcijos Ir Technologijos, 2016, 7(3):114-125. 
+[7] Hui L, Yifei L. Research on the Talents Training Mode of Engineering Management Major Based on BIM Technology. International Journal of Management ence & Engineering Research, 2015, 2(2):49-50. 
+[8] Hamid A B A, Embi M R, Taib M Z M. Engagement of Interior Design in the Design Process Phases through BIM Technology Implementation. International Journal of Humanities and Social ence, 2019, 9(12):2222-6990. 
+[9] Rosedale P. Virtual Reality: The Next Disruptor: A new kind of worldwide communication. IEEE Consumer Electronics Magazine, 2016, 6(1):48-50. 
+[10] Banos R M, Escobar P, Cebolla A, et al. Using Virtual Reality to Distract Overweight Children from Bodily Sensations During Exercise. Cyberpsychology Behavior & Social Networking, 2016, 19(2):115-116.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ICAIIT 2021	IOP Publishing
+Journal of Physics: Conference Series	2037 (2021) 012083	doi:10.1088/1742-6596/2037/1/012083
+  
+ICAIIT 2021	IOP Publishing
+Journal of Physics: Conference Series	2037 (2021) 012083	doi:10.1088/1742-6596/2037/1/012083
+  
+1
+  
+1
+  
+ICAIIT 2021	IOP Publishing
+Journal of Physics: Conference Series	2037 (2021) 012083	doi:10.1088/1742-6596/2037/1/012083
+  
+1
+  

@@ -1,0 +1,638 @@
+﻿Construction Management and Economics, 1992, 10, 397—413
+Parameter prediction for cash flow forecasting models
+MARTIN SKITMORE
+Department of Surveying, University of Salford, Salford M5 4 WT, UK
+ The paper describes the application ofthe DHSSformula to 27 completed construction projects comprising four types — steel-framed low rise buildings, new build housing developments, housing refurbishment projects, and multi-house 'pre-paint' maintenance contracts. Application of the formula to individual projects indicates that the 'best' parameter values offer a ten-fold improvement over the published values based on project size. Similar results occur when using the best parameter valuesfor other two parameter models.
+   Various approaches are considered in attempting to predict the best parameter values of the models based on known characteristics ofthe project. A multiple linear regression with project value, duration, and type independent variables is shown not to produce any significant improvement on standard DHSS formula predictions. However, a reduction in the number of independent variables by cross validation produces an approximately 25 % improvement on standard DHSS formula forecasts outside the data base. Examination of the models derived from this analysis indicate the type of project to be of major importance.
+Keywords: Cash flow, forecasts, project type, regression, cross validation.
+Introduction
+The model most commonly used for expenditure forecasting in the UK is the two parameter model derived by the Hudson (1978), commonly known as the DHSS formula. The values of the parameters are provided over a range of project sizes as a result of Hudson's analysis of a large number of hospital projects. Different parameter values should, according to Hudson, be used for different types of construction rather than the general practice of applying his parameter values to all types of work.
+  Since Hudson's work, the emcacy of the DHSS formula seems to have received little attention. Peer's (1982) analysis of a small sample of data indicated that projects within the same building type group had similar expenditure patterns even when they were of different size and had a different rate of progress. What is not clear, however, is the extent of the differences between building type groups, especially in comparison with the DHSS formula and Hudson's parameter values. Nor is it clear what kinds of building work constitute a group in terms of expenditure profiles generally.
+  In this paper the expenditure flows for a set of 27 completed projects is examined to assess the effect of different building type groups in relation to the DHSS and, for ease of comparison, other similar two parameter models. Firstly, the best parameter values for each
+0144-6193 0 1992 E. & F.N. spon
+0 
+model for each project is found by a method of successive approximation. Secondly, a standard linear multiple regression is used to analyse and predict model parameters via the value, duration and project type group. Finally, a non linear technique is used to find the best set of predictors for each model for projects outside the data base. Analysis of the resulting models indicates that: 1 . the inclusion of the project type grouping significantly improves the predictive power of the models, 2. all have similar predictive power, and 3. the predictive power is approximately 25% better than the DHSS formula with Hudson's parameter values.
+Analysis
+The data
+The data consisted of details of 27 completed construction projects in the United Kingdom, together with their associated estimated monthly values. The data were obtained from one single private practice quantity surveying firm and two local authority surveying departments. All contract values were rebased to 1974 prices by means of the RICS Building Cost Information Service Tender Price Index (Appendix A).
+  Four project type groups were involved — steel-framed low rise buildings, new build housing developments, housing refurbishment projects, and multi-house 'pre-paint' maintenance contracts. The cumulative gross value of work executed, before adjustment for retention or fluctuations, was used since these adjustments vary between projects and may distort any model trying to reflect a general trend. In practice, of course, such adjustments can easily be applied for a specific project as an adjunct to the results provided by an expenditure model. Clearly, some knowledge of the likelihood of cost and time overruns is needed for a comprehensive treatment of the subject and it is intended to address this issue as an extension of the work described.
+  No adjustments were made for any inter-project variations such as winter working, industry holidays or delivery to site of steel or mechanical plant, since these adjustments were considered to be relatively small and have little effect on the results. An extension of the work to cover these aspects is also under consideration.
+The models
+Four alternative models were considered: 1. the DHSS formula (Hudson, 1978); 2. the Kenley Wilson formula (Kenley and Wilson, 1989); 3. the Miskawi formula (Miskawi, 1989), and 4. the Berny—Howes formula (Berny and Howes, 1982). For comparative purposes, the following notation is adopted: V = total value of the contract (E); D=total duration of contract (days); v = percentage value complete; d = percentage of time complete;
+
+a and b are constants.
+The DHSS formula v = 100[x + ax 2 —ax— (6x 3 — 9x 2 + 3x)/b] (l ) where
+prediction for cashflow x = d/100
+The Kenley—Wilson formula is
+	IOOF/(I+F)	(2)
+where
+
+The Miskawi formula is
+v = (3 (100 - + d)] 2d 3/10 000+3d 2/100 (3)
+The Berny—Howes formula is
+	v= 100x{1 +a(l —x) (x— b)}	(4)
+  Two problems are immediately apparent with these formulae. Firstly, the Kenley—Wilson formula contains the divisor 100—d which implies that 100 > d. It is important therefore to either omit values where d= 100 or raise the value of 100 slightly to say 100.1. The latter method has been adopted in this study. Secondly, the Miskawi formula contains a power variable 3d which is clearly inappropriate for d values approaching 100. This was overcome by substituting a new constant b for the d power in the formula.
+Parameter estimation
+Estimates of the DHSS formula constants, a and b, are provided by Hudson (1978) based on the contract value of the project. This method is termed here the standard DHSS formula. An attempt was made to estimate the values of the constants in the four formulae by method of
+
+least squares, i.e. to minimize for each project
+	SSQ(a, 	E (Vi-Ui)2
+where
+ul = actual percentage value completed;
+		= forecast percentage value completed; i.e.(5)			 100[Xi + ax; — ax. (6Xi3 — 9Xi2 + 3Xi)/b] (from Equation 1)(6)0 
+IOOFi/(1 + Fi) (from Equation 2)	(7) (100 - 1 	+ di)]
+— 2di3/10 000+ 3di2/100 (from Equation 3)(8)	= 100Xi{l +a(l —Xi) (x. b)} (from Equation 4)(9)n are the valuation points recorded.
+This was done numerically by a method of successive approximation for each of the 27 project data sets. The results are shown in Table 1 together with the mean square error
+	MSQ (a,b) ¯-SSQ (a,b)/(n-2)	(10)
+As the Table shows, no results were obtained for 1 3 of the Miskawi formula applications, due to the lack of a minimum least squares result within the bounds allowed (0 Sac 100). The Berney-Howes b values for projects 5, 6, 10, 24 and 26 may be regarded as spurious as, when a=0, v=x, a straight line.
+  The substantial, around ten-fold, improvement brought about by using 'best' estimates of the formulae constants is certainly encouraging. It should be noted however that the method of least squares is limited to a simple quantification of the aggregated differences between the model's predictions and the observed values and therefore provides no specific information concerning counter-intuitive predictions, such as negative values at the beginning and end of the curve, that sometimes occur with such one-element polynomial models. More sophisticated multi-element models exist to overcome these problems by providing independent variables potentially capable of modelling greater extremes and variability in expenditure (e.g. Tucker, 1986; Tucker, 1988; Khosrowshahi, 1991 ). Bearing in mind these limitations, a further analysis was conducted aimed at investigating the relationship between the model parameters and characteristics of the projects involved.
+Analysis offormulae constants
+Discussion. The first approach to this was to examine the relationship between the a and b values and the MSQ (a,b) for each project. The MSQ (a,b) was calculated over a range of a and b values and plotted in the form of a contour map. Figure I gives the results for project 3 analysed by the Kenley—Wilson formula. Although not contributing very much to the overall analysis, the contour maps were found to be a useful aid in understanding the nature of the lack of fit of the formulae between projects, particularly the sensitivity of the a and b parameter values on model performance.
+  These contour maps nicely illustrate the task in hand, which is to find a meaningful grouping of similar maps. This raises two issues. Firstly, what constitutes a 'meaningful' grouping, and secondly, what measure of similarity should be used?
+  The answer to the first of these questions is relatively straightforward and depends on the purpose of the analysis. In our case, the object was to find some suitable predictors that would be readily available in the project preconstruction phase. The standard DHSS formula, for instance, uses the contract value as a predictor. Other obvious predictors include the project type and duration.
+r.nnvrifilht 0 0001 All
+predictionfor cashflow 
+
+㉢ 
+
+1 66665555555444444444444333333333333344444444444455555556666667777788889999AAl
+1 66665555555444444444443333333333333334444444444445555556666667777788889999M I
+1 66655555544444444443333333333333333333334444444444555555666666777788889999M I
+2. OH 66655555444444443333333333333333333333333334444444455555566666777778888999Mk
+66555554444444433333333333333333333333333333344444445555556666677778888999M I
+1 65555554444443333333333333222222223333333333333444444555555666677778888999M I
+165555544444433333333332222222222222222333333333344444455555666667778888999Ml
+1 55555444444333333332222222222222222222222333333334444445555566667777888999@
+1 . 55555444443333333222222222222222222222222223333333444444555566667777888999AAh | 55554444433333332222222222222222222222222222333333344444555566667777888999M I
+b
+    1 9988776665554444333332222222222222222222333334445556667778899AABBCCDEEFFGHH11 1 . 99988777665555444433333222222222222223333334444555666778899AABBCCDDEEFGGB11JF i AA99888776665555444433333333333333333333444445556667788899AABBCCDEEFFCHHIJRXl BBAA9988777666555544444333333333333344444455556667778899AABBCCDDEPPCHBIJJKLMl I CCBBAA9988777666555554å44å4444444444444555566667778899AABBCCDDEEFGGH11JXL1.XNl
+    I DDCBBAA999887777666655555554444445555555666677788899AABBCCDDEEPGGH11JU1.mOOl O . 84 EEDCCBBAAA9988877776666665555555555666667777888999AA.BBCCDDEEPGGH1 IJRLL>NOOPQ
+| 11BGGPPEEDDCCBBBAMA9999999888889999999AAABBBCCCDDEEPPGGB1 IJXX1..nntOPQRRSTUVW I
+  1 JJKL*NOPPQRSTUVVVXY I o . 64 KRJJIIBGGFFPEEDDDCCCCBBBBBBBBBBBBBBBBBCCCDDDEEEFFCGHHIJJXXIHNOPQQRSTUVVXYZZ h
+
+	-0.5	-0.3	-0.1	0.1	0 . 3	0 .5	0 . 7	0.9
+	-0.2	0.0	0.2	0 . 4	0.6	0.8	1.0
+a
+The bounds of MSQ are defined as follows :16.90025.5532:25.553	44.20644.206	62.85962 .859-81 .5135:81 .513- 100.1666:100 . 166- 118.8197:118.819-137.4728:137.472- 156. 1259:156. 125- 174.778A:174 . 778-193.431B:193.431- 212.085c:212.085- 230.738230. 738-249. 391E:249.391- 268.		F:268.044- 286.697286. 697-305. 350H:305.350- 324.0031:324 . 003- 342.657J:342.657-361 . 310K:361.310- 379.963L:379.963- 398.616M:398.616-417 .269N:417 .269- 435. 922o:435 . 922- 			5 75p:454.575-473.229Q:473.229- 491 . 882R:491 . 882- 510.535s:510.535-529. 188T:529. 188- 547 . 841547 . 841- 566.494v:566.494-585.147w:585.			 603 . 801x:603.801- 622.454Y: 622.454- 641.107 Z: 641.107- 659.760
+Fig. 1 . Contour map of MSQ for Project 3.
+  In addressing the second question, several approaches are available. One is to conduct a cluster analysis on the  grid. This would group similar project maps together from which we may be able to detect some pattern relating to say project type or size. A similar alternative is a factor analysis on the maps together with the type, value and duration
+
+flow 
+characteristics of interest. This would provide factor loadings that we may be able to interpret in terms of desired groupings. Another possibility is to revert back to the best estimates of a and b for each project and use multiple regression analysis on each with the project characteristics as independent variables. Major problems exist with each of these alternatives, the cluster and factor analysis only providing a limited connection between the MSQ(a b) values and the project characteristics of interest, and the regression analysis only utilizing a small part of the potential data present in the maps. Perhaps the biggest problem, however, is that all three approaches, being essentially linear models, rely on euclidian measures of the error term. In our case the error term is clearly non linear, being defined by Equations 1 to 4 above. As a result of these deliberations it was decided to utilize the method of successive approximation in the analysis of project characteristics.
+Model 1. Figure 2 shows the intended model conceived prior to analysis. This (Tl , T2 and T3) incorporates the three project characteristics ofinterest — project type, size (small/large), and duration (short/long) — as predictors of the a and b constants in Equations 1 to 4. For a
+
+                                      a Fig. 2. Prior conceived model.
+given project type, the required a and b values will lie on the line shown. Similarly for a given size and duration, the a and b values will lie on these (different) lines. Thus the correct a and b values for a project of given type, size and duration will lie somewhere in the triangle described at the intersection of the three lines (a proper statistical treatment would define the boundaries in probabilistic terms but this is beyond the capabilities of the relatively crude method (and researcher) employed here).
+The implications of this in mathematical terms is that
+0 
+		(1 1)
+a	V + ßv Vbv(12)a 		(13)
+where Tk is the type, k, of project and and represent the position and slope respectively of the lines.
+  Now by calculating the SSQ (a,b) over all the projects for a series of b values, the method of successive approximation can be used to estimate the values of and for each of the project characteristics.
+  The resulting and ß estimates for the Kenley Wilson formulation are given in Table 2. Figure 3 shows the actual model for V = 100 000, 500 000, 1 000 000, D = 100, 500, 1000, and the project types 1 to 4. As the figure shows, the hoped for convex-like structure of Figure 2 is absent, the parallel nature of the lines indicating a general lack of orthogonality among the variables. Similar results were also obtained for the DHSS and Berny—Howes alternatives.
+Table 2. Model 1 and estimates
+VariableSSQerrorValue (V/100 000)
+Duration (D/IOO)
+Project type 1 Project type 2
+Project type 3 Project type 40.137
+0.014
+0.151
+0.079
+0.004
+0.0810.206
+0.027
+0.336
+0.083
+0.047
+0.4161 278 142
+1 182 604 1 149 053
+1 329 255
+1 360 932
+1 234 987Model 2. The lack of a convenient convex-like arrangement for model 1, together with the knowledge that the solution space (if it existed) resulting from this method may not neccessarily contain optimal estimates of the required a and b constants, suggests a better model to be the more obvious regression type of approach:
+
+	 + ß4T2+ß5T4	(15)
+where Vis the contract value, in 100 000 units, D is the contract duration, in 100 day units, and T1, T2, and T4 are dummy variables representing project types 1, 2 and 4 found in the data. It is then proposed to minimize Equation 5 as before by inserting suitable and ß values into Equations 14 and 15 simultaneously (naturally one of the project types, type 3 in this case, must be omitted from the analysis to avoid over specification).
+  The method of successive approximation was again employed and the necessary and ß estimates obtained. The results for the Kenley—Wilson formulation are given in Table 3 (SSQerror — 13 981). The presence of 12 variables for only 27 cases is not particularly satisfactory — we would normally prefer the number of cases to be at least three to four time flow 
+2.0
+1.0
+1.0	2.0	3.0 a
+Fig. 3. Actual model.
+
+the number of variables — but the results provide an indication of the general relative influence of the variables selected.
+Table 3. Model 2 coeffcient estimates (Kenley—Wilson
+0.126
+-0.043
+-0.023
+0.525
+0.254
+0 
+Reliability. As the most important application of the analysis is in forecasting values of the constants, 'error of forecast' or 'error rate' estimates are likely to be the most relevant and useful. * Two types of error rate estimates are available — parametric and non parametric. In this case a non parametric error rate estimate was considered to be most appropriate due to 1 . the small sample size, as the coefficient estimates are likely to be biased, and 2. although the least squares approach used here is known to be robust for mild departures from the implicit assumptions of the approach, i.e. normally distributed errors, the parametric estimates of the error rates of the approach are not necessarily robust in themselves.
+  Non parametric error rate estimators, and in particular, resampling methods are known to produce improved estimators of the error rates by appropriate bias correction of the apparent (error of prediction) error (McLachlan, 1987).
+  Three possible resampling methods were considered; I . cross validation, where one case is omitted in turn from the model derivation and the resulting coefficients applied to that case; 2. the jackknife method, where one case is omitted in turn from the model derivation and the resulting coemcients applied to the other cases; and 3. the bootstrap method, where the coefficients are used to generate simulated data from which a second set of coeffcients are obtained. For predictive applications, the cross validation method 1 . has the most intuitive appeal as, with the non time series data of this nature, each error value can be thought of as a real error that may arise in the 'real world' practice of forecasting.
+  For the data under study, cross validation involves the repeated estimation of regression coefficients for a series of selected case removals, in this case with one project removed for each estimation a total of 27 repeats. Thus and [3 estimates were made as described above but with project 1 removed from the data base. The a and b values were calculated from Equations 14 and 15, and the MSQ (a,b) error obtained for project 1. This was repeated for all the projects in turn. The results for the Kenley Wilson formulation are shown in Table 4.
+  Each row in this Table give the results of applying to that case the parameter estimates obtained by analysis of the data for all the other cases. The overall average MSQ is 80.34, a slight improvement over the standard DHSS equivalent of 81.79 (Table 1).
+Variable parsimony. Previous experience of cross validation suggests that a reduced number of variables may increase the predictive ability of the model (Skitmore and Patchell, 1990). Ideally we should wish to extract the subset of variables which produces the lowest overall average MSQ. Some of the standard computer based statistical analysis procedures are able to provide this for more routine problems. Unlike standard parametric procedures however, where the significance of variables entering in and exiting from the equation may be readily obtained, the use of non parametric error rate estimates together with the non linear model is a major computational task.
+  To find the best subset involves the consideration of all possible combination of 1 to 12 variables, i.e.
+13
+
+As each combination involves the computation of a Table similar to Table 4, a task currently
+*These measures of error concern the relationship between the actual values of a case variable and the value predicted by the model where the model is derived from a data base which does not include that case.
+Onnvrinht 0 9001 All Rinhte
+
+flowforecasting 
+旨 雲 旨 离 및 말 2 줜일 일0仆 至00寸 卜 卜 이00卜 00卜『`1 ㈈卜 000
+00•4
+00
+0 000•40 0 08 8 일 잏 寺 旨 얶 旨 R 等 랑篝 영 읽8 띙 8 8 窒 띙 뜨 亡 R g 풒婁
+협 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0	0 흐 寸 0 0 00 0 이 00	兮 0	0 00 m 이	이 이 이
+	0 0 0 0 0	0 0 0 0 00 0 0 0 0 0 0 0 0 0 0 0 0 00
+                                            CO m m	寸 m
+	0 0 0 0 0	0 0 0 0	0 0 0 0 0 0 0 0 0 0 0 0 0 0
+	o 卜 0 ㈈ ㈈ 卜 0	00
+0 0 0 0 0 00 0 0 00 00 0 0 0 0 0 0 0 0 0 0 0 00 0
+8 8 8 8 8 苳8 8 8 88 88 8 8 8 8 8 0 0 0 0 0
+0 0 0 0 0 00 0 0 00 00 0 0 0 0 0 0 0 0 0 0 0 00 0
+                      0 卜 卜 卜 卜 卜
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 00 0
+	兮 ㈈ 0000 卜 0 이 00 卜	0 0 卜 CN 0
+	0 00 00	00 0000 00 ㈈ 00	兮 00	兮 ㈈
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+                이 0 0	0 寸 Ⅵ 兮 0 m m 전)	SO
+	0 0 0 0 0	0 0 00 00 00 0 0 0 0 0 0 0 0 0 0 0 0
+8 5
+0 0 0 0 0 00 0 0 00 0 0 00 0 0 0 0 0 0 0 0 0 0 0 0
+	0 0 至卜 0 0 00 0	兮 卜	0
+CN 이 m
+0 0 0 0 0 00 0 0 00 0 0 00 0 0 0 0 0 0 0 0 0 0 0 0
+	兮 0 00	兮 0 兮	至 兮
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+℃ 召 0 0 0 0 0 0 0 0 0 0 0 00 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+                                      0 00 卜 卜 卜 卜 卜 卜 卜 卜 卜 卜 00 卜 00 卜 卜 卜 卜 00 00
+	0	0 0 0 0 0 0 0 0 0 0 0 00 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 g 苳 8 8 8 8 8 8 8 S 8 85 8 8 8 5 3 3 8 8 일 黛 ㉦ 요薯 청
+0 0 0 0 0 0 0 0 0 0 0 00 0 0 0 0 0 0 0 0 0 0 0 00 0
+0
+	卜 仆 0 이 寸	0
+이 <
+㉢ 
+requiring approximately 6 minutes cpu time, a full analysis of this kind would take over 34 days of computing time!
+  Several parametric approximating methods are available which may be utilized to reduce the computational burden. The most well known of these are forward, backward, and step wise regression. Forward regression involves the sequential selection and retention of individual variables most contributing to the reduction of the SSQ error term. Backward regression involves the sequential deletion of individual variables least contributing to the reduction in the SSQ error term. Stepwise regression is a combination of both forward and backward regression.
+  The use of all these methods in parametric problems has a common diffculty. As each variable is added to the equation, the SSQ error always reduces thus making the choice of termination criteria an important issue. With non parametric approaches, such as the cross validation method used in this study, the termination criteria is simply the reduction in SSQ error, as both forward and backward methods produce reductions that seem to tend to an optimal like solution.
+  Two methods were used in this analysis 1. forward regression to minimal SSQ error, followed by a stepwise regression of backward to minimum, forward to minimum etc; 2. backward regression to minimal SSQ error, followed by a step wise regression of forward to minimum, backward to minimum etc.
+  For the DHSS formulation, the forward regression resulted in the progressive inclusion of ßo (99.29), (75.34), (65.24), ß4 (60.20), and ß3 (59.98) whilst the backward regression eliminated only (75.00). The progressive mean square error is given in brackets. The Kenley—Wilson formulation forward regression resulted in the inclusion of ßo (99.80), (74.26), (67.79), (64.39), (61.94) and ß4 (61.21), followed by the backward exclusion of ao (60.25), whilst the backward regression eliminated (70.19), (64.10), (61.64) and (59.63). The Berny Howes formulation forward regression resulted in the inclusion of (72.21), [33 (68.72), ß5 (66.50), [30 (66.09) and (61.81 ), whilst the backward regression eliminated 132 (81.71 ) and ßl (71.07). The resulting best models are summarized in Table 5.
+Several points of interest emerge from this analysis of the parsimonious models:
+Table 5. Summary of regression results
+FormulaLowest MSQ Variables in equationDHSS
+Kenley—Wilson
+Berny—Howes59.98
+59.63
+61.81
+l l ß ß ß0 4 0 3 5  1. All models give similar results in terms of reliability with an MSQ improvement over the standard DHSS model (81.79 MSQ) of 26.8, 27.1 and 24.4 per cent for the DHSS, Kenley—Wilson, and Berny Howes formulations respectively;
+  2. All models include all the project type measures;
+  3. Only the Kenley—Wilson model utilizes the contract value measure;
+  4. None of the models include or ß2 — the duration related measures.
+Revised models. The coemcient estimates of the revised models are shown in Table 6. The standard error values of the coemcients were not available but the mean square errors associated with the models were computed for comparative purposes. The resulting parameter estimates and mean square errors for each of the projects are shown in Table 7. Comparison with Table 1 confirms the improved predictive ability of the models over the standard DHSS model. It is of interest to note that the revised DHSS model, in contrast with the standard DHSS model does not contain any 'size' parameters.
+Table 6. Coemcient estimates
+CoeffcientDHSSKenley—Wilson Berny—Howes
+130
+[33
+[34—0.498
+— 0.499
+210.18
+210.18
+-372094
+— 999 7900.533
+0.539
+0.835
+0.455
+0.221
+0.288
+0.2620.268
+1.188
+0.378Conclusions
+The DHSS formula, since Hudson, seems to have received little testing on hospital or any other projects. This paper has described its application to some data concerning the expenditure flow on four types of projects — steel-framed low rise buildings, new build housing developments, housing refurbishment projects, and multi-house 'pre-paint' maintenance contracts. Comparison of the formula applied to individual projects using the recommended parameter values with the best parameter values, indicates that tenfold improvements may be made. Using the best parameter values for some other two parameter models produced similar results.
+  Various possibilities were considered in attempting to predict the best parameter values for the two parameter models based on known characteristics of the project. A multiple linear regression with project value, duration, and type independent variables failed to produce any significant improvement to the standard DHSS formula. However, a reduction in the number of independent variables by means of a cross validation approach produced an approximately 25% improvement on the standard DHSS formula by all the alternative models. Examination of the models derived from this analysis indicated the type of project to be a major contributor to this improvement with contract value being of lesser importance.
+  The work described in this paper provides an interesting example of the benefits of assessing the emcacy of regression models by reference to forecasts outside the data base of the analysis. In using the cross validation approach, the model is developed and tested
+Table 7. Results with the revişed formulae
+ProjaDHSSMSQKenley—Wilson
+a	b	MSQBerny—Howes b	MSQ2
+3
+4
+5
+6
+7
+8
+9
+10
+1 1
+12 13
+14 15 16
+17
+18
+19 20 21 22
+23
+24
+25
+26
+27
+Average0.00
+0.00
+0.00
+0.00
+-0.50
+-0.50
+-0.50
+-0.50
+0.00
+-0.50
+-0.50
+-0.50
+-0.50
+-0.50
+-0.50
+0.00
+0.00
+0.00
+0,00
+0.00
+0 50 
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00210.00
+-372 095
+- 372 095
+- 372 095
+210.18
+210.18
+210.18
+210.18
+- 372 095
+- 1 000 000
+- 1 000 000
+- 1 000 000
+1 000 000
+1 000 000
+- 1 000 000
+210.18
+210.18
+210.18
+210.18
+210.18
+-1 000000
+210.18
+210.18
+210.18
+- 372 095
+- 372 095
+- 372 0957.53
+71.29
+35.42
+18.66
+33.95
+34.40
+28.42
+122.68
+17.49
+12.03
+19.03
+23.73
+73.99
+53.69
+56.32
+21.43
+14.68
+8.69
+55.38
+62.93
+61.10
+95.26
+58.31
+727.09
+215.02
+59.48
+61.83
+67.730.00
+0.00
+0.00
+0.00
+0.54
+0.54
+0.54
+0.54
+0.00
+0.53
+0.53
+0.53
+0.53
+0.53
+0.53
+0.00
+0.00
+0.00
+0.00
+0.00
+0.53
+0.00
+0.00
+0.00
+0.00
+0.00
+0.001.01
+1 .43
+1.21
+1.36
+1 .13
+1.13
+1.14
+1 .14
+.24
+1.20
+1 .18 ı .08
+1.12
+1.18
+1 .21
+0.93
+1 .21
+0.98
+0.98
+0.89
+1.17
+0.92
+0.92
+0.85
+ .42 1 .51 ı .257.43
+21.90
+12.87
+9.45
+32.91
+34.40
+29.53
+107.35
+10.80
+26.64
+7.68
+69.37
+40.72
+56.90
+27.33
+6.19
+61.01
+37.86
+52,32
+83.28
+56,95
+696.30
+189.33
+15.76
+44.77
+53.040.27 1 46
+I .46
+I .46
+0.27
+0.27
+0.27
+0.27
+I .46
+0.27
+0 27
+0.27
+0.27
+0.27
+0.27
+0.27
+0.27
+O. 27
+0.27
+0.27
+0.27
+0.27
+0.27
+( 27
+I .46
+I .460.38
+0.38
+0.38
+0.38
+-1.37
+- 1.37
+- 1.37
+-1.37
+0.38
+-1.36
+- 1.36
+— 1.36
+- 1.36
+- 1.36
+-1.36
+0.38
+0.38
+0.38
+0.38
+0.38
+— 1.36
+0.38
+0.38
+0.38
+0.38
+0.38
+0.3810.42
+7.00
+8.55
+14.44
+35.62
+38.44
+29.07
+107.48
+22.91
+17.38
+12.12
+18.85
+71.67
+45.24
+53.82
+9.28
+14.95
+44.73
+85.34
+55.71
+1 16.20
+70.80
+705.90
+107.42
+52.21
+19.20
+49.92simultaneously on this criteria. This clearly has considerable intuitive appeal. in addition, the fortuitous convex-like nature of the cross validation procedure when applied to these data provides an unexpected and welcome means of automatic variable parsimony. Future work Will extend the method to more complex multi„variable models incorporating time-cost overruns, seasonal variations, etc.
+  The author would like to acknowledge the contributions of Vernon Marston and Jon Tylee, both of Salford University Department of Surveying, in the collection of data, provision of references, and advice on the analysis described in this paper. Thanks are also due to the two anonymous reviewers who pointed out several errors and oversights in the first draft of the paper.
+References
+Berny, J. and Howes, R. (1982) Project management control using real-time budgeting and forecasting models, Construction Papers, 2, 19—40.
+411
+Hudson, K. W. (1978) DHSS expenditure forecasting method, Chartered Surveyor: Building and Quantity Surveying Quarterly, 5, 42—5.
+Kenley, R. and Wilson, O.D. (1989) A construction project net case flow model, Construction Management and Economics, 7, 3—18.
+Khosrowshahi, F. (1991) Simulation of expenditure patterns of construction projects, Construction Management and Economics, 9, 113—32.
+McLachlan, G.J. (1987) Error rate estimation in discriminant analysis: recent advances. In Advances in Multivariate Statistical Analysis, (edited by A.K. Gupta), D. Reidel Publishing Company, pp. 233-52.
+Miskawi, Z. (1989) An S-curve equation for project control, Construction Management and Economics, 7, 115-24.
+Peer, S. (1982) Application of cost-flow forecasting models. Proceedings of the American Society ofCivil Engineers, Journal of the Construction Division, Vol. 108, no C02, June, pp. 266—31.
+Skitmore, R.M. and Patchell, B. (1990) Developments in contract price forecasting and bidding techniques. In Quantity Surveying Techniques: New Directions, (Edited by P.S. Brandon), BSP Professional Books, pp. 75—120.
+Tucker, S.N. (1986) Formulating construction cash flow curves using a reliability theory analogy, Construction Management and Economics, 4, 179—88.
+Tucker, S.N. (1988) A single alternative formula for the Department of Health and Social Security S-curves, Construction Management and Economics, 6, 12—23.
+Appendix
+Case data (Contract values rebased to 1974 prices by means of the RICS Building Cost Information Service Tender Price Index)
+
+1 379 996	266	3	8.68	11.28	23.64		39.77		44.18	46.24
+	54.43	58.65	70.77	72.56	84.81	83.08	97.36	97.74
+	100.00	100.00
+2 682 681	863	2	6.16	5.56	7.06	8.23	8.64	12.28	10.08	15.64
+	12.56	19.70	15.19	22.60	18.77	25.38	23.34	30.01
+	29.60	33.49	36.47	37.43	42.06	40.67	45.52	44.38
+	50.75	47.28	60.05	51.33	63.92	54.92	69.81	58.52
+	73.93	61.88	78.18	64.89	80.88	68.37	84.93	72.31
+	88.35	75.43	91.49	79.26	94.03	83.55	94.79	86.10
+	97.30	89.92	98.76	93.05	100.00	100.00
+3 888 123	379	2	4.64	6.07	7.68		16.60	20.32	25.42	28.50
+	34.26	35.88	47.47	46.97	54.67	54.35	65.41	63.32
+	81.23	71.24	89.38	78.36	98.38	87.86	99.56	96.83
+	100.00	100.00
+4 526 024	552	2	4.26	7.79	8.03		13.70		21.98	23.19
+	28.97	28.44	34.09	33.51	38.96		43.07	45.47
+	49.55	50.72	56.83	54.89	63.43	62.50	71.71	68.66
+	79.25	72.83	86.45	77.72	91.56	84.06	95.71	89.31
+	97.77	94.38	100.00	100.00
+5 82 003	255	4	12.65	9.98	40.66	25.06	53.18	32.59	60.67	42.13
+	69.49	51.22	77.16	57.43	86.14	70.73	88.41	79.16
+                                       90.88	85.81	98.28	90.91	100.00	100.00 v=percentage value complete.
+bd percentage of time complete.
+	6	80 108	4	7.06	9.55	24.93	16.99	33.90	23.99	47.84	30.57
+	57.39	38.85	63.01	45.22	75.4Q	51.17	79.47	70.06
+	84.23	77.92	89.79	84.93		92.99	100.00	100,00
+7 95 305	375	4	8.62	7.73	17.4321.95	36.26	28.93
+	42.64	39.15	53.52	44.64	62.99	51.62	70.43	57,1 1
+	74.28	71.82	75,59	76.06	93.25	82.79	100.00	100.00
+8 91 355	204	4	6.95	10.40	18.20		38.8-5	38.73	54.38	47 98
+	80.35	67.63	96.40	84.97	100.00	100.00
+9 247 347	442	2	4.67	5.20	10.54		19.84	17.65	25.03	26.24
+	32.31	33.26	37.43	40.27	45.70	48.42	51.40	55.43
+	63.10	61.76	76.95	69.9t	84 84	76.02	89.32	84.16
+	94.40	89.37	98.18	95.93	100.00	100.00
+10 32 3717	650	8.01	6.36		10.70	23.20	15.04	29.94	18.29
+	41.37	24.96	46.96	29.30		33.64	54.26	38.14
+	58.63	43.7264.22	51.94	67.93	56.74
+	71.88	62.33	75.8571.47	84.58	76.59
+	88.43	82.48		85.89		89.92	99.54	95.50
+	100.00	100.00
+	1 1	272 052	409	6.96	8.5622.25	37.82	34.23
+	47.41	39.36	56.36	44.74	67.24	55.26	74,31	61.61
+	81.29	68.46	90.73		96.05	85.57	97.9()	92.42
+	100.00	100.00
+	12	57 493	262	13.55	13.74		22.52	44.79	35.50	57.03	48.47
+	77.26	61.45		70.99	85.95	83.97	100.00	100.00
+	143 440	214	22.84	14.4942.52	81.39	57.01
+	91.82	75.23	99,67	88.32	100.00	100.00
+	280 346	496	I .65	3.43	7.88	9 48		16.33	25.81	25.40
+	35.33	31.25	41 05	36.69	45.94	44.15	50.78	49.80
+	61.32	56.85		62.90		68.35	90.67	75.20
+	96.67	81.25	98.08		98.77	93,95	100.00	100.00
+	1 5	342 743	465	13.12	6.2420.00	40.52	27,10
+	51 ,17	33.12	60.12		68.50	48.17	74.06	5.3.55
+	83.53	60.2273.12	96.92	80.43
+	97.62	87.10	99.14	96.34		100.00
+16 217 335	212	3	18.38	18.40	33.21	28.30		48.10	66.01	
+	81.18	75.94	94.30.04	100.00	100.00
+17 832 869	405	3		1.98	7,1818.77	23.02	27.41
+	28.67	34.32	39,60		48.38	48.15	58.00	56.79
+	68.79	63.70	77 19	72.35		79.26	89 06	86.17
+	96.35	94.81	100.00	100.00
+18 316 025	267	3	9.40	7.87	19.42		30 02	28.84	44.70	42.70
+	55.23	53.56	62 20	65.54		76.03	86.80	89.51
+	100.00	100.00
+19 327 272	297	3	5.65	7.74		26.60		34.34	46.39	43.77
+	57.6()	55.56	84.58		94 48	87.54	100.00	100.00
+20 1 21	3	27.98	29.75	60.49	66.94		90.08	100.00	100.00
+21 260 746	394	9.24	9.39	13.7224.87	32.85	32.23
+	40.72	39.59	52.86		60.90	55.08	67.65	63.96
+	76.25	70.30	85.4285.28	94.96	93.15
+	100.00	100.00
+22 197 198	221	3	5.12	10.86	23 1242.53	45.16	57.47
+	56.87	69.68	70.85		86.40	92.76	100.00	100.00
+23 195 997	242	3	2.50	9.92	21 34		30.44	38.84	40.83	52.48
+                                      56.70 63.64 67.4584.71 100.00 100.00 24 43 960 55 3 22.31 15.36 46.64  70.55 39.06 84.12 46.61
+	87.32	65.36	89.69100.00
+percentage value complete.
+— percentage of time complete.
+
+413
+Value
+25 656 715	2	2.37	2.74	7.93	6.79	10.20	11.88	14.29	15.54
+	20.73	18.80	25.08	21.28	32.70	27.02	36.34	28.72
+	42.95	34.07	52.05	38.64	57.78	42.43	64.99	47.52
+	70.31	49.87	76.46	54.05	79.41	56.27	83.64	62.14
+	88.41	65.80	90.93	68.93	94.81	74.93	96.04	78.20
+	97.09	82.64	97.43	86.42	98.96	90.86	99.45	96.34
+	100.00	100.00
+26 841 063	923	2	1.02	3.36	3.34	5.96	4.43	9.75	6.32	12.89
+	8.53	16.58	11.09	19.50	12.98	23.19	14.11	27.09
+	18.32	30.01	21.07	32.39	26.50	36.08	29.37	39.44
+	31.79	42.25	37.56	46.15	42.58	49.30	46.66	52.98
+	53.85	56.12	59.01	59.15	61.44	63.27	67.09	66.31
+	73.84	69.56	79.76	72.59		75.73	87.54	78.76
+	90.65	81.58	93.68	85.48	95.42	88.62	97.25	91.55
+	98.99	95.23	100.00	100.00
+27 279 650	436	2	4.85	8.72	18.09	15.37	26.40	24.08	30.03	29.59
+	37.51	37.16	48.29	40.37	55.45	50.69	61.46	58.49
+	71.10	65.14	83.72	69.95	94.91	78.67	96.04	85.32
+	97.79	93.81	100.00	100.00
+
+"v = percentage value complete.
+percentage of time complete.
+.
+	398	Skitmore
+
+Parameter 	forecasting models	399
+
+
+
+Coovriaht 2001 . All Riahts Reseved.
+
+
+
+Coovriaht 2001 . All Riahts Reseved.
+
+	398	Skitmore
+
+Parameter prediction for cash 	forecasting models	403
+
+
+
+Coovriaht 2001 . All Riahts Reseved.
+
+Parameter prediction for cash 	forecasting models	403
+
+Coovriaht 2001 . All Riahts Reseved.
+
+	398	Skitmore
+
+Parameter prediction for cash flow forecasting models
+
+
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+Parameter prediction for cash 	models	407
+
+Coovriaht 2001 . All Riahts Reseved.
+
+Parameter prediction for cash flow forecasting models
+
+Parameter prediction for cash flow forecasting models
+
+Coovriaht 0 2001 All Riahts Reseved.
+
+Coovriaht 0 2001 All Riahts Reseved.
+
+Parameter prediction for cash flow forecasting models
+
+Coovriaht 0 2001 All Riahts Reseved.
+

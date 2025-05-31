@@ -1,0 +1,335 @@
+﻿Construction Management and Economics (1995) 13, 209—217
+Determinants of construction duration
+MOHAN M. KUMARASWAMY* and DANIEL W.M. CHAN
+Department of Civil and Structural Engineering, University of Hong Kong, Pokfulam Road, Hong Kong
+Received 21 June 1994; revised 6 December 1994
+This paper probes the range of factors affecting construction project duration through a literature review and a pilot survey in Hong Kong. Time—cost models previously proposed in Australia and the UK are compared with data obtained in Hong Kong and similarities are noted. The 1 1 1 responses to the detailed questionnaire issued in Hong Kong and the follow-up interviews also indicate other factors that may significantly affect project duration. Of these productivity is examined here, while other factors will be probed in the second phase of this investigation. Time—floor area relationships are also examined and found to be significant. Projects are classified as public or private sector housing and other buildings, roads and other civil engineering projects. Larger samples in each category of construction project will be targeted to test the validity of the models and their parameters in Hong Kong as derived from the pilot survey. It is noted that standardization in public housing projects (as in Hong Kong and Singapore) leads to more consistency in durations, providing useful reference points for such studies. International comparisons are intended to test the models, parameters and significant factors relating to the timeframe of construction projects.
+Keywords: Construction project duration, productivity, time—cost models, Hong Kong.
+  
+Myth or methodology?
+Definitive determination of the duration of a construction project in practice rarely depends on the deployment of sophisticated planning methodologies alone. This was confirmed by observations from a general survey of international literature and practice, as well as from a sample survey that specifically investigated practices in Hong Kong. Some rules of thumb were found for forecasting the possible range of construction duration and related guidelines, for example in standardized public housing in Hong Kong and buildings in China. Planning and programming techniques and past experience contributed in varying measures to such guidelines or to fresh assessments. However, the overall timescales of many projects often appear to be decided on the basis of commercial and/or political considerations. Planning and programming methodologies and resource inputs are then designed to meet such time targets.
+  Admittedly, competition to build faster drives such base timescales towards a limiting minimum duration in each case, but it is arguable as to how often that minimum is actually reached and to what extent it can
+To whom correspondence should be addressed.
+0144-6193 @ 1995 E. & F.N. spon
+further be compressed by technological and managerial innovations or sheer motivation. The initial first-order assessment of project duration may be based on a developer's deadline, an architect's assessment, an engineer's rule of thumb, a planner's programme, or often a compromise between such proposals and pressures.
+  The survey in Hong Kong was prompted by the reportedly remarkable speeds of construction achieved on this once 'barren rock' and the accompanying clichés claiming this to be possible only in Hong Kong. Many questions inspired as well as arose from this study, for example:
+I. Is the speed of construction really remarkable in Hong Kong?
+2. If so, by what standards/criteria?
+3. Is it at the expense of higher costs? Have safety aspects suffered?
+4. Is the labour more productive? Is the technology superior?
+5. What other factors influence the speed of construction (for example commercial imperatives and incentives, planning and control methodologies, cultural factors)?
+6. Are these results reproducible in other parts of the world (for example by the same international company operating elsewhere)?
+7. Have we reached a point of diminishing returns in terms of time compression? (Alternatively, is it possible to build even faster without compromising quality and safety, or significantly enhancing costs?)
+8. How realistic are the client's or other first-order assessments of construction project durations?
+This paper does not answer all such questions. However, it charts a course towards the answers based on a background review of the relevant literature and interim observations ofthe ongoing survey. The emerging results merit comparison with similar scenarios elsewhere. The internationalization of commerce in general and of construction in particular suggests probable parallels. This is supported by the similarity between the parameters derived for the time—cost model tested in the Hong Kong survey and those from previous surveys in Australia (Bromilow, 1988) and in the UK by Kaka and Price (1991) and by NEDO (1988).
+Scope and limitations of the survey in Hong Kong
+Although over 400 questionnaires were issued and followed up, only 1 1 1 responses were received, perhaps due to the detailed nature of some queries. The sample is therefore much smaller and the results less reliable than envisaged. It is thus considered a pilot survey with a more detailed survey planned for 1995, based on specific aspects arising from the former.
+  Two types of questionnaire were designed: one for building projects and the other for civil engineering projects. These were issued according to the type ofwork handled by each organization. The responses were classified as indicated in Table 1, in order to assess any patterns within categories of similar projects.
+  The target group included engineering, architectural and quantity surveying consultancies as well as contractors and government departments. Organizations were selected from publicly available listings — from pro-
+Table I Structured classification by type ofclient and project in the Hong Kong sample
+Type of projectsNumber of projects Total estimated cost (HK$ m)Public housing
+Public buildings
+Private commercial Private housing
+Roadworks
+Other civil works16
+21
+23
+13
+15
+2343%
+57%
+64%
+36%
+39%
+61%4955.19
+2628.95
+4208.21
+2305.54
+1790.60
+4966.8165%
+35%
+65%
+35%
+270/0
+73%fessional institutions of architects, engineers and quantity surveyors, lists of contractors registered for government works, as well as from personal networking.
+  No multiple feedback on a single project from different organizations was encountered, although this could have helped to check and confirm data. Follow-up semi-structured interviews and site visits were conducted in a few cases for checking, clarification and further investigation. Specific case-studies, for example on utilization levels and productivity of key resources are planned in the second phase of this study.
+Factors affecting construction project durations
+Figure 1 illustrates a hierarchy of factors that can contribute to construction project duration, as derived firstly from the experience of the authors and the literature in general and secondly from the survey in Hong Kong in particular. This excludes, in this case, the feasibility and design phases focusing instead on the construction phase alone. Actual (as against planned) durations are affected by other factors such as variations, disputes, claims and counter-claims. The factors indicated in Figure I are representative rather than comprehensive. It is intended that this hierarchy be improved and expanded with the progress of this ongoing research.
+  Construction time can be considered to be a function of all such primary, secondary and tertiary factors in the hierarchy of determinants of construction project duration, so construction time = f (factors from Figure 1 hierarchy).
+  In comparison, Figure 2 projects the principal determinants of the first-order assessments of project timescales as perceived by the survey respondents in Hong Kong in 1994.
+Time—cost relationships
+The chosen model
+Previous studies in Australia and the UK led the authors to assess the apparent effect of construction cost on project duration in Hong Kong, with a view to international comparisons. Although this was just one aspect of the analysis of the pilot survey observations, the emerging patterns appear worth recording both by themselves and in comparison with previous studies.
+  Although a direct linear relationship between time and cost was considered unlikely, it was nevertheless tested initially and confirmed as statistically insignificant. However a relationship of the form
+T = KCB, or	log T = log K + B log C as proposed by Bromilow et al. (1980), was tested and found significant within the small samples in each category of the Hong Kong projects. Here, T represents the construction duration in days between possession of site and practical completion, C represents the project cost in the relevant currency, K is a constant describing the general level of time performance for a project of 1 million units of that currency while B is a constant indicating the effect of cost on time performance, that is, the sensitivity of the latter to the former.
+  This model evidently does not incorporate the effects of other factors as listed in Figure 1, but was chosen as a first approximation for general scenarios. It was decided to test sensitivities to other factors in the next phase and incorporate coefficients or weightings as appropriate.
+Results from the pilot survey in Hong Kong
+Figures 3, 4, and 5 project the patterns observed in each category of government-sponsored building projects, of private sector building projects and of civil engineering projects respectively, in Hong Kong. Tables 2, 3 and 4 indicate the corresponding K and B values derived from these categories together with R, the coefficient of
+CONSTRUCTION PROJECT DURATION
+Construction	LOCATION	TOTAL FACTOR	TYPE
+VALUE'
+TYPE           Client's of and Oth•
+Construction imperatives/ prioritiesPROWCTMTY
+OthersCONTRACTUALTechnical Para. Complexity meters og• Height; (on scale Floor ; spans from to 10)
+auanty
+Earth Dam;
+'ramed•RiSk
+Allocation eg: inflation: technical
+Tenderer method (Open. 
+qualification,Selection 
+Structure •g: Traditional;
+Design & Buiki
+    Payment Modalities eg: Fixed 	Cost plus; BOT selection pre.
+etc.)ManagerialOrganisationalTechnoVariation OrdersPOST.
+Product
+Building
+ConflictsInformatioStructure
+Style SystemLabour/
+interference level Equ mentEquipment Plant A
+Mix Timing
+Magnitude
+Level of
+TechnologyMotivatioSkills
+Work
+Systems COST 
+09 : 
+Steel 
+Foundation works(10 7%)
+Superstructural works(50.0%)
+(39.3%)In-boug standards 	exrn•iage C P M ProgrammingFigure 20) Government building projects
+
+
+(61 9%)
+
+081%)
+n C p M Prew•mvmngFigure 2(b) Private building projects
+Main contract(12.5%)(373%)• 	stndards 	eXFn«Ke
+•C, p. El progru:urungFigure 2(c) - Civil engineering projects
+Figure 2 Methods of estimating construction project duration as identified in surveyed sample
+correlation in each case. The latter indicates a degree of correlation in the samples obtained from this pilot survey that justifies an expanded structured survey supplemented by some case studies.
+Results from Australia and the UK
+Results from previous surveys by Bromilow et al. (1980, 1988) in Australia and by Kaka and Price (1991) in the UK are consolidated in Tables 5 and 6 respectively. The surveys in Australia focused on projects in three specific periods as indicated, while that in the UK related to projects from about 1984 to 1989. The samples are significantly larger than those in the pilot Hong Kong survey in each case.
+Type of buildingKEstimated BRKActual BRTotal building projects
+Public (government) housing
+Public (government) buildings182.3
+188.8
+166.40.277
+0.262
+0.2940.81
+0.77
+0.78216.3
+178.8
+207.10.253
+0.279
+0.2660.79
+0.70
+0.76Motivation
+Ab ilit ies Systems
+Note: unlabelled arrows indicate that other factors also contribute
+• Cost Value is in tum affected by all other factors listed; whereas some other factors also interact to varying degrees
+Figure 1 Some factors affecting construction project durationTable 2 Time—cost performance of government building projects in the Hong Kong sample
+Table 3 Time—cost performance of private sector building projects in the Hong Kong sample
+Type of buildingKEstimated BRKActual BTotal building projects
+Private commercial
+Private housing202.6
+232.7
+160.20.233
+0.187
+0.3060.69
+0.71
+0.69250.9
+245.0
+315.50.215
+0.202
+0.1970.65
+0.68
+0.59Re-interpretation of the NEDO study results
+An investigation by the National Economic Development Office (NEDO, 1988) in the UK also indicated definitive linkages of building construction time to cost, depending on
+1. The end use of the building (i.e. whether office, retail or other, e.g. churches).
+2. Whether purpose-built or speculative.
+3. Whether new, extension or refurbishment.
+The model so derived was applied to suggest that project participants could predict their project construction duration on precalibrated circular scales that indicated the duration of specific types of projects in relation to their costs. A 'clock-type centre-pivoted hand' was used to help 'dial' the appropriate predicted project time. A choice of two values of such times were provided for average conditions and for good conditions of performance.
+  A derivation of the relationships underlying these calibrated scales was attempted by the authors of this paper for the purpose of comparison with the foregoing studies in Australia and the UK and the graphical relationships of the value-pairs so derived are shown in Figures 6 and 7. The values of K and B derived assuming these models are indicated in Tables 7 and 8.
+  The apparently very high correlation (R = 0.97) is probably due to 'smoothening' of the raw data in order to set up the scales on the dial, from which in turn this sample was derived.
+Comparison ofparameters K and B as derived in different studies
+Direct comparison of K values is unrealistic considering disparities in currency values and construction cost levels between different economies, which would affect this parameter. Adjustments for these two factors also need to incorporate relevant time-related indices.
+Table 4 Time—cost performance of civil engineering projects in the Hong Kong sample
+Type of civil worksKEstimated
+BRKActual
+BRTotal civil projects
+Roadworks
+Other civil projects252.5
+233.1
+270.60.213 0.248
+o. 1900.80
+0.89
+0.71291.4
+301.4
+272.30.205
+0.215
+0.21 10.78
+0.80
+0.77Estimated time-cost performance T = 182 3 • CA 0277.R=o.81Actual tirne-cost performance
+T -216,3 	. R -079Figure 3(a) Total Government building proj«ts
+
+Figure 3 Time—cost relationships in Hong Kong government building projects
+  However, B values (which essentially indicate the sensitivity of the project duration to changes in the construction costs), may be expected to be more comparable. This is in fact indicated by a comparison of Tables 2-8.
+Time—floor area relationships from the pilot survey in Hong Kong
+Since construction time is dependent on many other factors (as in Figure 1) and since the cost itself depends on many project parameters, it was decided to test the relationship between time and a hypothesized principal contributor to building cost — the floor area.
+  Figures 8 and 9 indicate the relationships derived from the pilot survey in Hong Kong. These relationships were not surprisingly found to be reasonably similar to the time—cost relationships. A model of the form T = LAM
+may be postulated, where A is the area in and L and M are the coefficients corresponding to K and B in the time—cost model. The coefficients of correlation, R, were found to be marginally better except in two cases, but not
+
+Figure 4 Time—cost relationships in Hong Kong private building projects
+significantly so. This indicates that other factors such as number of floors, quality level and complexity also need to be considered. This is intended in the next phase of analysis.
+  Tables 9 and 10 summarize the L and M values as derived from the pilot survey in Hong Kong and the corresponding coefficients of correlation. The relatively higher values of L apparent in private sector projects need investigation, although the initial response may be to attempt explanations through the non-standardized nature of the buildings and the many midstream changes introduced with shifting commercial priorities in the private sector.
+Productivity and its impact on construction project duration
+It may be hypothesized that productivity is one of the more significant factors affecting both planned and actual construction durations, and therefore should be investigated as such in the next phase of this study.
+  Work norms that relate unit output (e.g., m2 of wall plaster or m 3 of Grade 30 concrete) to all necessary direct resource inputs, have been standardized at national levels only in a few observed instances such as China and
+
+
+Figure 5 Time—cost relationships in Hong Kong civil engineering projects
+Sri Lanka. For example in Sri Lanka, the Building Schedule of Rates issued by the Buildings Department every few years (and similarly the Highway Schedule of Rates by the Road Development Authority) attempts to list all inputs of labour, materials and plant, into a unit quantity of (output of) each work item.
+  While such standardization is convenient for estimators it is not always realistic, given the various resource mix of options and levels of productivity achieved in different scenarios. However, each contracting organization eventually evolves its own work norms for estimating, whether by direct observation or overall assessment of past work. Since these are usually implicit rather than explicit norms, there is an inherent variability in productivity levels expected and achieved. Time estimates of different organizations for the same or similar projects would thus vary with their assumed
+Table 5 Time—cost performance of projects in the three previous surveys in Australia
+Building projects completed during:Government sector
+BPrivate sectorAverage1964-1967
+1970-1976
+1976-1986293
+358
+2220.30
+0.30
+0.38216	0.30
+238	0.33
+189	0.28248
+288Table 6 Time—cost performance of projects surveyed in the UK (adjusted price contracts* )
+Type of projects started during 1984—1989:Government buildings
+Private buildings
+Roadworks486.7
+491.2
+436.30.205
+0.082
+0.4370.68
+0.61
+0.97* using adjustment formula unlike in fixed price contracts (Kaka and Price, 1991).
+
+R is the correlation coefficient.
+operative work norms as well as with the chosen technology/resource mix.
+  Actual project durations are further affected by productivity differentials — between those assumed and those achieved. For example, one m2 of a work item A may absorb 10 worker-hours rather than the 7 workerhours estimated. It may be hypothesized that such differentials will frequently be encountered, either due to unrealistic estimating or depressed productivity, resulting in cost and time overruns. However, cost and time overruns are not always attributed to such causes. For example, Figures 10 and 11 indicate the analysis of principal causes of cost and time overruns as perceived by those surveyed in Hong Kong in 1994.
+
+100cot
+(millkuFigure 6(c) Miscellaneous buildingsFigure 7(c) Miscellaneous buildingsFigure 6 Time—cost relationships in UK speculative commercial projects (built between 1984 and 1986) Figure 7 Time—cost relationships in UK purpose-built commercial projects (built between 1984 and 1986) Source: Based on the 'average time' data derived from the time—cost relationships depicted in NEDO (1988)
+Table 7 Time—cost performance of UK speculative commercial projects (1984—1986)
+Project types as per
+NEDO (1988) categoriesOffices
+Shops
+Miscellaneous375.0
+281.3
+354.00.246
+0.246
+0.2490.97
+0.97
+0.97Construction productivity improvement initiatives in Singapore
+The Construction Industry Development Board of Singapore (CIDB, 1992) commissioned a taskforce in 1991 to:
+'(a) ascertain the productivity level of Singapore's construction vis-å-vis that of other economic sectors, and vis-å-vis construction productivity levels in developed countries; (b) to identify the underlying reasons for low productivity; and (c) to recommend directions and programmes to improve productivity in the longer term' (p. 1).
+  The taskforce was critical of the traditional productivity indicator of 'value added per worker' in view of distorting effects such as construction boom and bust cycles. They proposed an additional indicator of rn2 of built-up area per man-day and showed that Japanese construction was 30% more productive, while Finland was 60% more productive than Singapore.
+  A higher level of prefabrication and standardization was considered necessary to increase productivity in Singapore. Another interesting conclusion with useful parallels is that public housing projects achieved higher productivity levels. This is attributable to the standardization of designs and procedures used in such projects.
+Total factor productivity vs single factor productivity
+Both the shortage and the high cost of labour in Hong Kong has led to an emphasis on increasing the productivity of the labour resource (Ganesan, 1993). While the resource productivity or single factor productivity of any construction input (such as labour) can be measured as
+output
+
+(labour) input
+the total factor productivity evaluates the ratio of output to all measurable inputs including labour, plant, materials, capital and energy (Ganesan, 1984). The labour/equipment mix is thus significant whereas the materials component may not vary.
+
+Figure 8(a) Total Government building projects
+
+Figure 8(b) • Public housing
+
+Figure 8 Time—floor area relationships in Hong Kong government building projects
+Specific indicators for measuring and comparing productivity and/or speed
+Indicators such as man-hours per metre ofpipe laid have been developed and incorporated in the Productivity Management System (PMS) developed by the National Economic Development Office of the UK (NEDO, 1989) for measuring productivity on engineering projects. These can be said to be at a micro (or task) level compared to, say, multi-operational indicators of (for example) floor cycle times, which compare the number of days taken to complete a floor (ie incorporating the structural cycle of formwork, reinforcement and concreting) on a high-rise building. For example, floor-cycle times of 4 to 5 days may be targeted, while even 3-day cycles are said to have been achieved. However this does not account for the inputs and thus can merely be
+Table 8 Time—cost performance of UK purpose-built commercial projects (1984—1986)
+Project types as per
+NEDO (1988) categoriesOffices
+Shops
+Miscellaneous306.2
+227.3
+283.70.247
+0.247
+0.2490.97
+0.97
+0.97
+Figure 9(a) Total private building projects
+
+Figure 90) Private commercial Emildings
+
+Figure 9 Time—floor area relationships in Hong Kong private building projects
+classified as a speed indicator rather than a productivity indicator.
+  Operational indicators for each operation can be useful as well. For example, Anson et al. (1992) compared concrete placing rates using different methods (pumping, skip buckets, tremie) in Hong Kong, using (productivity) indicators ofm3/man-hour, m3/plant hour and m 3/truck-mixer-hour and an overall indicator of m 3/hour. They also documented the differences between observed overall pour rates for pumped pours and craned pours of concrete, along with the average differences in 'time waiting' for concrete arrivals in the latter, comparing these across the UK, West Germany, Beijing and Hong Kong.
+  Hong Kong appeared to perform the best on pumped pours at 22.1m 3/hour, West Germany being a close
+Table 9 Time—floor area relationship of government building projects in the Hong Kong sample
+Type of buildingTotal government buildings
+Public housing
+Public buildings89.8
+74.8
+51.60.203
+0.214
+0.2680.77
+0.72
+0.79Table 10 Time—floor area relationship of private building projects in the Hong Kong sample
+Type of buildingTotal private buildings
+Commercial buildings
+Private housing153.6
+177.4
+137.10.150
+0.125
+0.1780.69
+0.65
+0.68second while Beijing and the UK had similar rates. As for craned pours, West Germany had the best rate of 12.3m 3/hour with Hong Kong at 11.7m 3/hour and the UK at 8.3m3/hour. The waiting time for truck-mixers was seen to be greater (23%) in the UK than in Hong Kong or West Germany (1 1 % each).
+  Gale and Fellows (1990) used an indicator ofm2/week to compare speed of construction, stating that the average speed had increased in the UK from 157 to about 169m2/week in the 10 years up to 1990. They claimed that the speed of the Broadgate project in London at 627m2/week was 50% faster than in the USA. This demonstrates the usefulness of what may be termed macro indicators of speed. It would be useful to establish linkages to productivity by comparing the man-hours/m2 of building.
+
+(368%)
+(26
+Vannion
+price
+Unktxnm Site others(5.3%)
+01.6%)Figure I O(c) Civil engineering projects
+Figure 10 Causes of construction cost overrun as identified in surveyed sample
+
+Figure 11 Causes of construction time delay as identified in surveyed sample
+Standardization of projects and project duration
+Each construction project is undeniably unique, if not in design then at least in location factors, site conditions, team characteristics, project-specific priorities and many other variables. The variability is significantly reduced however, when the designs are standardized.
+  For example, the Hong Kong Housing Authority has developed a series of standardized designs for Harmony Blocks (types I, IA, 2, 3, 3A, 3B, 3C and a new Cruciform type). Specific studies such as for Harmony Block type 1 (Coffey and Skinn, 1990) helped optimize formwork systems and construction programmes. They have also led to internally developed guidelines for overall construction periods for each such standard type, with specific breakdowns for piling and building elements such as pile caps, floors, roof and lift installation.
+  Standard time durations in calendar days for building and installation projects in China have also been documented, classified according to provinces (divided into three regions based on annual average temperatures — below 80C, above 15 0C and between 8 and 15 0 C), and categorized according to both number of storeys and gross floor area (m2 ).
+Conclusions
+Many factors contribute to the determination of construction project duration, such as those indicated in Figure 1. However, the first phase of this study has discerned patterns in Hong Kong that are comparable with the 'time—cost relationship' model (T = KCB) developed by Bromilow et al. (1980) in Australia and used by Kaka and Price (1991) in the UK. Larger samples in each category are required to validate the parameters derived for this model from the pilot survey in Hong Kong. This is envisaged in subsequent phases of this study.
+  The 'time—floor area relationship' model proposed herein (T = LAM) appears to be more fundamental, although it neglects factors such as quality levels which would enter into the cost dimension of the time—cost relationship. Still, the significance of the time—floor area correlation, as discerned in this pilot study, also warrants further investigation with larger samples.
+  Focus is also needed on other specific factors affecting construction duration. For example, the influence of the number of stories in a building project on the project duration will be investigated in the next phase of the study. In addition, productivity has been hypothesized as a significant factor for further investigation, hence labour and construction plant productivity will also be specifically studied in the next phase. Further statistical analysis and case studies will be based on the productivity indicators discussed in this paper, so as to assess overall or total factor productivity, considering the technology mix adopted, rather than a one-dimensional single factor resource productivity. The identification or derivation of more indicators to evaluate productivity and their development into a framework, would help link these to an improved project duration prediction model.
+  The K values obtained from this investigation in Hong Kong suggest that project durations are relatively lower in government-sponsored (public) buildings. Evidence from Singapore (CIDB, 1992) also suggests that productivity is relatively higher in public buildings. This may be plausibly explained in terms of the standardization of designs and procedures on such projects. However, further investigations would be useful in order to confirm this explanation.
+  No significant difference was discernible between the government/public and private sectors in the relevant data (K values) from the UK whereas the private sector appeared to be more efficient than the public sector in Australia during the periods investigated. However, the public sector samples in the UK and Australia probably did not include a component of standardized public housing as incorporated in Singapore and Hong Kong.
+  This pilot study has led to interesting interim results that merit further comparison with observations from other countries as well as more detailed investigation in Hong Kong. A clear agenda for future research has been structured and links have been established for international comparisons. It is envisaged that the results of the next phase of the investigation will be published very soon.
+References
+Anson, M., Pau, s.H., Wang, s.Q. and Ho, K.K. (1992) Matching concrete supply to site production, in Proceedings of the International Conference on The Concrete Future, Kuala Lumpur, 22—6 February, pp. 9—14.
+Bromilow, F.J., Hinds, M.F. and Moody, N.F. (1980) AIQS survey of building contract time performance, The Building Economist, 19 (September), 79—82.
+Bromilow, F.J. (1988) The time and cost performance of building contracts 1976—1986, The Building Economist, 27 (September), 4.
+Coffey, M.W. and Skinn, A.G. (1990) Construction Simulation ofthe Harmony I Design for the HKHA. Hong Kong Housing Authority.
+CIDB (1992) Raising Singapore's Construction Productivity. CIDB Construction Productivity Taskforce Report 1992, Construction Industry Development Board, Singapore.
+Gale, A.W. and Fellows, R.F. (1990) Change and innovation: the challenge to the construction industry, Construction Management and Economics, 8, 431—36.
+Ganesan, S. (1984) Construction productivity, Habitat International, 8(34), 29-42.
+Ganesan, S. (1993) Construction in Hong Kong. How to maximise productivity and output under current conditions of labour supply. Presentation of main research, Seminar, Dept of Architecture, University of Hong Kong, 1 1 December 1993.
+Kaka, A. and Price, A.D.F. (1991) Relationship between value and duration of construction projects, Construction Management and Economics, 9, 383—400.
+NEDO (1988) Faster Building for Commerce. National Economic Development Office, Millbank, UK.
+NEDO (1989) Promoting Productivity in the Construction Industry. National Economic Development Office, Millbank, UK.
+  
+Copyright of Construction Management & Economics is the property of Routledge and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However. users may print. download. or email articles for individual use.
+	210	Kumaraswamy and Chan
+  
+Determinants of construction duration	211
+  
+
+  
+
+  
+
+  
+
+  

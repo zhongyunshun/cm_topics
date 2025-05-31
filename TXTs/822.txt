@@ -1,0 +1,341 @@
+﻿
+Review
+Application of Artificial Neural Networks in Construction Management: Current Status and Future Directions
+Shicheng Liu 1, Ruidong Chang 2, Jian Zuo 2, Ronald J. Webber 3, Feng Xiong 1 and Na Dong 1,*
+    
+
+
+Citation: Liu, S.; Chang, R.; Zuo, J.; Webber, R.J.; Xiong, F.; Dong, N.
+Application of Artificial Neural
+Networks in Construction
+Management: Current Status and
+Future Directions. Appl. Sci. 2021, 11,
+9616. https://doi.org/10.3390/app
+11209616
+Academic Editor: Konstantinos
+Diamantaras
+Received: 17 September 2021 Accepted: 6 October 2021
+Published: 15 October 2021
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Copyright: © 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/
+4.0/).
+1 College of Architecture and Environment, Sichuan University, Chengdu 610065, China; scliu@stu.scu.edu.cn (S.L.); fxiong@scu.edu.cn (F.X.)
+2 School of Architecture and Built Environment, The University of Adelaide, Adelaide, SA 5005, Australia; ruidong.chang@adelaide.edu.au (R.C.); jian.zuo@adelaide.edu.au (J.Z.)
+3 Department of Mining-Built Environment, Central Queensland University, Rockhampton, QLD 4701, Australia; r.webber@cqu.edu.au
+*	Correspondence: dongna@scu.edu.cn
+Abstract: Artificial neural networks (ANN) exhibit excellent performance in complex problems and have been increasingly applied in the research field of construction management (CM) over the last few decades. However, few papers draw up a systematic review to evaluate the state-of-the-art research on ANN in CM. In this paper, content analysis is performed to comprehensively analyze 112 related bibliographic records retrieved from seven selected top journals published between 2000 and 2020. The results indicate that the applications of ANN of interest in CM research have been significantly increasing since 2015. Back-propagation was the most widely used algorithm in training ANN. Integrated ANN with fuzzy logic/genetic algorithm was the most commonly employed way of addressing the CM problem. In addition, 11 application fields and 31 research topics were identified, with the primary research interests focusing on cost, performance, and safety. Lastly, challenges and future directions for ANN in CM were put forward from four main areas of input data, modeling, application fields, and emerging technologies. This paper provides a comprehensive understanding of the application of ANN in CM research and useful reference for the future.
+Keywords: artificial neural network; construction management; content analysis; challenges; review
+    
+
+Appl. Sci. 2021, 11, 9616. https://doi.org/10.3390/app11209616	https://www.mdpi.com/journal/applsci
+    ANN is a mathematical model inspired by the biological brain to acquire the knowledge hidden in historical data for information-processing and computation purposes [9]. As a branch of artificial intelligence (AI) technology, ANN performs well in dealing with complex nonlinear problems without assuming the relationships between variables, because of the self-learning, self-organizing functions, and high-speed computing capabilities [10]. For these reasons, ANN is particularly suitable for solving practical CM problems, which is difficult for classical mathematics and traditional modeling [9]. ANN can play roles in the prediction, optimization, classification, and decision-making in the practice of CM and has been used in CM since the early 1990s [11]. For instance, Juszczyk et al. [12] proposed a predictive model for fast cost analyses and conceptual estimates in the planning stage. The crack detection method of wavelet neural network was proposed by Turkan et al. [13] to minimize the possibility of facility failure.
+    Since ANN is the most commonly used AI method in the architecture, engineering and construction industry [14], a growing body of literature reviewing ANN applications has been published. For instance, Sony et al. [15] systematically reviewed the application of convolutional neural networks in structural state assessment. These reviews on ANN focused on a specific application instead of targeting CM. Pan and Zhang [16] reviewed AI in CM in which ANN is mentioned limitedly in some paragraphs. Adeli [17] reviewed the application status of ANN from 1989 to 2000 in CM which was limited to research before 2000. It can be seen there is no thorough review and systematic analysis of the existing literature on ANN in CM for the past 20 years. The absence of an up-to-date systematic review on ANN in CM makes it difficult for researchers to understand the diversity and complexity of using ANN for CM.
+Accordingly, it is necessary to conduct a comprehensive and structured review of
+ANN in CM. The main objective of this review is to: (1) identify the publication trend and important publications over the past 20 years on ANN in CM; (2) provide key information related to the research status of ANN, such as ANN types; (3) uncover specific application fields, hot topics, research interests of ANN in CM; (4) clarify which project lifecycle stage has been focused on by previous studies and what perspectives have been researched; (5) identify current research progress and challenges as well as the promising research directions.
+2. Artificial Neural Networks
+    The concept of ANN was first proposed in 1943. It is an information-processing technology that simulates the human brain and the nervous system. Similar to the human brain, ANN does not follow specific rules to process data but uses the data that it obtains to abstract the rules governing them [18].
+    ANN in simple terms is a biologically inspired computational model. Like the neuron, it is an interconnection of nodes as is shown in Figure 1a [19]. Each node receives multiple inputs from other nodes through connections with related weights. If the weighted sum of inputs exceeds the threshold value of the node, it activates and passes the signal through the transfer function and sends it to the next node. This process can be expressed as a mathematical model [20]:
+	yk = f.	(1)
+where y is the output of the node, f is the transfer function, ωij is the weight of input x, and b is the threshold value.
+    The general architecture of an ANN is shown in Figure 1a [21]. The nodes in the network are organized into linear arrays called layers. Generally, three layers are included, the input layer with input neurons, hidden layer(s) with hidden neurons, and output layers with output neurons. Input layers are responsible for receiving signals from specific datasets. Hidden layers give a critical computational ability to the system, are predominant stages of ANN. Output layers make the final decisions and output results [22]. Designing the network topology involves determining the number of nodes at each layer, the number of layers in the network, and the path of the connections among the nodes [19].
+    The ANN uses a learning process to train the network, which can be summarized in Figure 1b. To ensure the reliability of the ANN in tackling the problem before putting it into operation, running a validation protocol is necessary [18]. Part of the sample is prepared for training the ANN (training set), while the remaining cases are used to assess the predictive capability of the ANN (testing set or validation set) [18]. The subsequent training process is explained below [19,20,23]. During training, the input layer broadcasts a pattern to all the hidden nodes. The system is then required to calculate the output value according to Equation (1) and broadcasts the result to the output nodes. Each output node then calculates a weighted sum, and an actual result is generated. In the next stage, the system has to decide whether further learning is required, which is accomplished by comparing the obtained total difference with a specified acceptable error given by the system developer. If the goal is not met, the output nodes calculate the derivatives of the error with respect to the weights and the result is sent back through the system to all the hidden nodes. Then, each hidden-layer node and output-layer node will change their weights to compensate for the corrections. Once the weights have been changed, the computation starts all over again. New output values are obtained, and the cycle continues until a desired result is obtained. Finally, the ANN system that passed the test can now be used to predict the outcome of an input not previously seen by the ANN.
+
+Figure 1. Artificial neural metwork model. (a) ANN structure. (Adapted from [24]); (b) development process (Adapted from [25]).
+    The flexible network topology and the self-learning ability make ANN a powerful algorithm for learning [21]. Adaptivity allows ANN to perform well even when the environment or the system being modeled varies with time. However, some shortcomings of ANN are also revealed. The network structures and the ability to deal with problems of ANN are two manifestations of its characteristics, and the corresponding pros and cons of ANN are listed in Table 1 according to the literature [26].
+Table 1. Pros and Cons of the ANN. (Adapted from [26].)
+FeatureProsConsTopology•	Flexible setting of hidden layer	•
+structure for specific requirements [21].The complexity of the model may
+lead to over-fitting or under fitting [27].•	Multiple target output setting
+•
+without significantly increasing the difficulty [19].No specific rules and guidelines for network design [28].Ability• Complex regression problems or • classification tasks [24].
+• •	Nonlinear and multi-variable problems [23].Local optimum and low learning rate [18].
+Poor performance of extrapolation beyond the data range [19].•	Problems with uncertain or	• limited experience [21].Difficulty in explaining the reasons for the decision [26].                                  • •	Unclear relationship between variables [18].Challenges in determining weight and other important parameters [26].3. Research Methodology
+    Different methods are available for reviewing the literature. Content analysis is a powerful technique for systematically making valid inferences based on written, verbal, or visual communication messages so as to describe and quantify specific phenomena [29]. Its applicability in the CM literature review has been confirmed [30]. Qualitative content analysis focuses on data classification, while quantitative content analysis determines the frequency of classified data by counting the number of times a topic is mentioned [30]. It helps reveal the potential content of documents by objectively stating events that are not immediately apparent [29]. Content analysis was adopted in this paper because of its fit for the research purpose. A three-stage process was adopted based on the procedures developed by Hu et al. [31], including data collection, content analysis, and discussion (Figure 2).
+3.1. Data Collection
+3.1.1. Journal Selection
+    Research in CM combines multiple disciplines covering both technical and managerial topics [32]. Therefore, it is necessary to collect journals based on a comprehensive academic database [33]. Web of Science was chosen in this paper because of its comprehensiveness, organized structure and scientific robustness [34].
+    Articles in high-ranked journals represent the most influential research, so there is consensus within the profession regarding the preferability of picturing research within a field based on these articles [35]. In light of the purpose of sampling, journals that have an important impact and top quality in CM were selected. Journal selection is based on the 2019 Scopus journal metrics and the ranking of construction management journals [36,37]. In addition, these journals must have published at least three articles related to the topic between 2000 and 2020. Selected journals are as follows (Table 2).
+
+Figure 2. Outline of the three-stage process of research methodology. Table 2. Distribution of the selected papers among different journals.
+No.JournalCite Score 2019No. of Paper1Journal of Construction Engineering and Management (JCEM)5.8382Automation in Construction (AC)9.5343Journal of Civil Engineering and Management (JCiEM)4.7134Engineering, Construction and Architectural Management (ECAM)2.595Journal of Management in Engineering (JME)6.786International Journal of Project Management (IJPM)13.067Journal of Computing in Civil Engineering (JCCE)7.64Total1123.1.2. Article Selection
+    According to the objective of this review, it is necessary to collect as much of the literature of ANN applications in CM as possible. To realize this target, keywords were selected following related previous review studies in CM [31,38]. As a result, the key search words “neural network” and “construction management/engineering management” were used. The keyword search in web of science was set as the “topic” in order to retrieve all the publications containing the selected keywords in their title, abstract, or selected keywords section. The search period was set to include the last 20 years, from January 2000 to December 2020. The “document type” was limited to “article”, because journal articles usually provide more comprehensive and higher-quality information than other types of publications [39] and most reviews of CM study only focus on journal articles [40]. As a result, four hundred potential documents were initially retrieved from the selected journals. Adopting a two-round strategy, the same process as in Reference [31], the contents of the articles were further examined through manual screening. The first round of selection checked the articles’ title, abstract and keywords information, followed by a second round of selection conducted by reading and analyzing the whole article to double-check articles. The following criteria were used [41]: ANN was studied as the main technology or played an important role rather than a comparison. Finally, 112 articles were selected and used in this study (Table 2).
+3.2. Content Analysis
+    Qualitative and quantitative content analyses were combined in this paper. Firstly, according to the type of journal and year of publication, the selected articles were profiled to show the trend of research publications related to ANN in CM from the perspective of publication time and journal type. Secondly, after a manual review of the article’s methodology and even the entire article, the specific ANN types were classified, and their frequency was calculated through detailed information analysis extracted from the article. All types are counted when more than one type was used in the same article [42]. Thirdly, to identify the pattern of application of ANN in the articles, the studies were divided into three categories, namely hybrid model application, individual model application, and model comparison. Then, their frequencies were presented through the analysis of the article one by one. Fourthly, as a general description of the knowledge, skills, and tools required for project management published by the Project Management Institute (PMI), Project Management Body of Knowledge (PMBOK) was used in this paper as the primary reference for the classification of research fields [43]. The main research fields and their specific hot topics were identified and recorded by sorting out the contents of the literature based on PMBOK. Finally, all studies were classified into four lifecycle stages, namely planning and design, bidding, construction, and maintenance and operation, and three levels, namely the project level, enterprise level, and industry level, to reveal the focus stage and perspective of current research.
+4. Results of Content Analysis
+4.1. Publication Trend of Research on ANN in CM from 2000 to 2020
+    To analyze the publication trend of ANN in CM in the past 20 years, the selected articles were profiled based on journal and publication year. The number of articles and their journal sources are summarized in Table 2. It can be found that JCEM (38) and AC (34) include the most publications on this topic, accounting for 64.29% of the total, while the remaining five journals account for 35.71%. Figure 3 shows the publication trend for ANN in CM from 2000 to 2020. It reveals an overall increase since 2000 within three years. Especially since 2015, the number of related documents has increased dramatically. This result is consistent with the application trend of data mining technology in the construction industry [44], as the construction industry has a growing need to process a large amount of heterogeneous data [45].
+4.2. Types of ANN Applied in CM Research
+    Figure 4 provides the statistical result of the types of ANN used in the reviewed articles. The results show that a total of 13 types of ANN were employed in the CM research. BPNN has captured the most attention and accounts for 45.1% of the total. MLPNN and CNN both account for 13.8%. In addition, RBFNN, GRNN, and PNN have also received some attention.
+    BPNN is a multilayer feed-forward neural network trained according to the error back-propagation algorithm. It has the general advantages of all neural networks such as self-learning and adaptive capabilities, nonlinear mapping capabilities, and high fault tolerance [46], and its own advantages, such as simplicity and good generalization capability [47]. A detailed review found that BPNN as a representative of ANN in CM has been applied to all application fields, demonstrating its absolute domination.
+
+2000–2002 2003–2005 2006–2008 2009–2011 2012–2014 2015–2017 2018–2020
+Figure 3. Publication trend of literatures on ANN in CM (2000–2020).
+
+Figure 4. Types of ANNs applied in selected articles.
+    MLPNN is typically designed with a fully connected feed-forward-based architecture and trained by static back-propagation, LM, Gauss-Newton, or other algorithms. Its input layer contains a set of sensory nodes, and both hidden layers and the output layer contain computing nodes [48]. It has been applied to complete a wide range of classification and prediction tasks in the CM field. The CNN model achieves feature extraction through a stack of layers (such as convolution, activation, and polarization) on the input image [49]. It is one of the deep learning algorithms that has been widely used in the image field [50].
+The characteristics and main research fields of BPNN, MLPNN, and CNN are listed in Table 3.
+Table 3. Comparison of BPNN, MLPNN and CNN.
+TypeFeaturesWeaknessApplicable FieldBPNN
+[10,51,52]Gradient descent method.
+Nonlinear mapping function.
+Self-learning and adaptive.Problem of slow convergence, over-fitting, and local optima.Applied to prediction and classification tasks in CM: widely used to solve problems in 11 fields; see Table 4.MLPNN
+[12,53]Nonlinear mapping function. Global optimization.Insufficient generalization ability. Poor performance in processing multidimensional data.Applied to prediction and classification tasks in CM: claim prediction, cost prediction, classification of patent screening, classification of project decision.CNN
+[15,54]Sparse connectivity and weight sharing. Suitable for high-dimensional data.Large amount of calculation, and high requirements for input data.Applied to the image field in CM: safety risk identification at construction site, sewer image defect classification, equipment tracking and monitoring.Table 4. 11 application fields and 31 specific topics on ANN in CM.CodeApplication FieldsFreq./
+PercentageSpecific TopicsFreq.Percentage1Cost26
+23.21%Project cost estimation
+Materials prices prediction
+Bid price prediction
+Forecasting construction cost index13
+5
+3
+211.61%
+4.46% 2.68%
+1.79%Usage and service cost estimation21.79%Maintenance cost of equipment prediction10.89%2Performance18
+16.07%Corporate performance evaluation
+Project performance evaluation
+Industry performance evaluation5
+11
+24.46% 9.82%
+1.79%3Safety13
+11.61%Worker safety behavior assessment
+Accident analysis for construction safety
+Safety climate prediction10
+2
+18.93% 1.79%
+0.89%4Quality9
+8.04%Health monitoring of construction structure Construction stability testing6
+35.36%
+2.68%5Resource9
+8.04%Mechanical equipment management
+Material management
+Fund management
+Patent technology management3
+2
+2
+12.68% 1.79% 1.79%
+0.89%Human resources management10.89%6Risk7
+6.25%Optimal risk allocation in projects
+Multi-project resource conflict risk prediction
+Prediction of financial contingency3
+3
+12.68% 2.68%
+0.89%7Contract6
+5.36%Project dispute prediction and resolution Prediction of project claim3
+32.68%
+2.68%8Schedule6
+5.36%Project duration and time estimation
+S-curve prediction, auxiliary schedule control4
+23.57%
+1.79%9Procurement5/4.46%Contractor prequalification and selection54.46%10Environment and sustainability4
+3.57%Energy consumption evaluation Environment assessment3
+12.68% 0.89%11Other9
+8.04%Model or system development
+Trend forecast7
+26.25% 1.79%4.3. Methods Integrated with ANN Applied in CM Research
+    The result shows that 61% of studies established a hybrid model in which ANN is integrated with other methods to solve the problems in CM, and the number is considerably greater than that of the individual model. Researchers are adopting more and more hybrid models to improve the performance and overcome the defects of a particular method [55,56].
+    Figure 5 illustrates the distribution of methods/algorithms integrated with ANN more than twice in the reviewed studies. The results indicate that Fuzzy Logic (FL) (21) is used more often combined with ANN in the selected literature than the others, followed by Genetic Algorithms (GA) (15). Furthermore, case-based reasoning and long short-term memory have achieved ideal results in auxiliary ANN applications.
+K-Nearest Neighbors
+Wavelet Analysis
+Clustering techniques
+Decision Tree
+Long Short-Term Memory
+Casebased Reasoning
+Genetic Algorithms
+Fuzzy Logic
+	0	5	10	15	20	25
+                                            Number of articles Figure 5. Methods/algorithms integrated with ANN in selected articles.
+    Most research on the application of individual ANN models has focused on using its capabilities to deal with highly nonlinear problems. However, the accuracy of the estimation results is not very high when dealing with uncertainty and subjectivity issues. These disadvantages can be partially overcome by integrating FL, which is a tool for representing uncertain and imprecise information [57]. FL imitates the human decision-making process in a high-level way for automated systems to describe highly complex, undefined, or difficult-to-analyze topics [58]. However, FL encounters difficulties in determining parameters. ANN was introduced to resolve this problem and to infuse into the FL a capacity for self-learning. As the actual CM problems are always complex and uncertain due to the changing nature of the construction industry [59], FNN has been widely used in CM.
+    GA is a stochastic search approach inspired by the natural evolution process, which involves crossover, mutation, and survival fitness evaluation. It is widely used to identify parameter values for ANN models to solve search and optimization problems. GA helps improve the convergence speed, and its mutation mechanism avoids confinement to locally optimal solutions [60]. In addition, the complementary combination of ANN, GA, and FL can maximize their respective merits [61]. When dealing with CM problems with complex, uncertain, and subjective characteristics such as dynamic project success prediction and subcontractor performance evaluation, FL is used to deal with uncertainty and approximate inference, while ANN is employed in fuzzy input-output mapping and GA is used for optimization.
+4.4. Application Fields and Hot Topics on ANN in CM
+    Twelve application fields are identified, as shown in Table 4. Cost is the most common application field of ANN (23.21%), followed by performance (16.07%) and safety (11.60%).
+    Cost is the main criterion for project feasibility study and early project decisionmaking. Cost overruns can lead to project cancellations [62]. The highest degree of attention (23.21%) demonstrates that ANN has made progress in solving traditional cost management problems. Performance is critical to construction [63]. A total of 16.07% of studies focused on performance measurement and improvement, which is the second hottest topic after cost. According to Ayhan and Tokdemir [64], more than 1.3 million people suffer from occupational accidents in the construction industry annually. Although safety management systems have been introduced in recent decades, occupational safety is still poor [65]. Table 4 (11.60%) indicates that safety is a major concern in the construction
+    
+industry. With the application of information and sensor technology, the availability of an extensive training dataset makes ANN a promising approach in construction safety management [65]. In addition to the above three fields, quality and resources also received significant attention, and both accounted for 8.04%. All application fields and specific topics are shown in Table 4.
+    Upon further analysis, 31 specific topics about ANN in CM can be extracted from the above 11 fields. Table 4 shows all ANN topics in CM in the selected articles and the percentage of articles on each topic. It implies that cost estimation is the most widely discussed topic (11.61%), followed by project performance evaluation (9.82%) and worker safety behavior assessment (8.93%).
+    For construction cost estimation, ANN is a representative method for early construction cost estimation by identifying cost influencing factors and establishing a prediction model based on historical data [47]. Juszczyk, Zima, and Lelek [12] presented an original approach of building construction cost predictive models based on ensembles of some MLPNNs. Rafiei and Adeli [66] used advanced machine learning concepts to create innovative construction cost estimation models, including an unsupervised deep Boltzmann machine learning approach and a soft-max layer three-layer BPNN. Some studies compared multiple models to find the best one, for example, comparing ANN with multiple regression analysis [67] and comparing different types of ANN [68]. ANN is recognized as one of the most common AI techniques for parametric cost modeling, so determining model parameters is the key stage of model development [69]. The selected literature has been surveyed to identify the drivers in the cost field, and Table 5 presents important variables in main topics.
+Table 5. Important variables in main cost field.
+Research TopicsInput VariableDescriptionReferencesVariable RankingPredicting construction costTotal construction area number of floors project locality
+FacilityAbove and below ground Above and below ground, building height
+Project location, location index Interior decoration,
+electromechanical infrastructure[61,66,68,70] [61,68,70]
+[66,70,71]
+[61,70]1 2
+3 4Market conditionsPrice at the beginning of the project, economic variables and indexes[66,70]5Site conditionsTopography, ground conditions, soil condition[61,70]6Forecasting index/priceCorresponding data in previous
+Macroeconomic indicatorsMaterial prices in the previous five days, price index of the last two quarters, etc. CPI, PPI, unemployment rate, GDP, foreign reserves, lending rate, etc.[72–74]
+[75,76]1
+2    The application of ANN in project performance evaluation consists of project success evaluation and project productivity evaluation. Cheng et al. [77] developed and applied EFHNN to evaluate project success by fusing hybrid neural network, FL and GA. For evaluation of project productivity, ANN is mainly used for construction operations and the prediction of construction worker productivity. Han et al. [78] combined simulation and an ANN technique to produce more reliable prediction results for earthworks productivity. To improve the predictive performance of labor productivity, Heravi and Eslamdoost [79] proposed using Bayesian regularization to optimize BPNN. The performance of FFNN was compared with RBFNN in modeling the productivity of masonry crews by Gerek et al. [80].
+    ANN applications in worker safety behavior assessment include the fall prevention inspection for working at a height, unsafe behavior, and posture detection. High-altitude fall accidents are the main cause of fatalities on construction sites. Zhang et al. [81] proposed using a smartphone as a data collection tool to detect and identify near-miss falls based on ANN. This method helps to identify hazardous elements and vulnerable workers. In terms of unsafe behavior and posture detection, Patel and Jha [10] used ANN to predict employees’ safe work behaviors and identified the main influencing factors of safe behaviors. Yi et al. [82] presented an early warning system as a surveillance method for working in hot and humid environments, safeguarding frontline workers’ health and safety.
+4.5. Stages and Perspectives
+    To classify the 112 selected articles according to the project lifecycle, Table 6 shows the distribution of studies from the planning and design stage, bidding stage, and construction stage to the operation and maintenance stage. In addition, three levels, namely the project level, enterprise level, and industry level, were introduced to further clarify the current research focus of ANN in CM. The results show that ANN usually assists in solving project management problems in the construction stage, followed by the planning and design stage. On the other hand, the interest in ANN from the enterprise and industry perspective needs further exploration. The construction industry is well-known for fragmented data, and the adoption of big data technology in this field lags the progress made in other fields [45], leading to a lack of studies from the enterprises and industry perspectives.
+Table 6. Stages and levels.
+
+Applications FieldsPlanning and DesignBiddingConstruction Operation MaintenanceEnterprise LevelIndustry LevelCost1633013Performance209052Safety0013000Quality002700Resource105111Procurement040001Risk management003040Contract006000Schedule105000Environment and
+sustainability100300Other411102Total25847121195. Discussions and Future Directions
+5.1. Progress for ANN in CM
+    During the last two decades, there has been a growing interest in ANN in CM. Compared with the research between 1989 to 2000 [17], some progress has been revealed after conducting a comprehensive literature review on ANN in CM as shown in Table 7.
+    New types of ANN (RBFNN, GRNN, PNN, CNN, etc.) have been developed and gradually applied to the CM field. CNN has solved image classification in the field of CM to a great extent, such as the applications of safety guardrail detection in 2D images and automatic detection of building damage. In addition, ANN is no longer considered as an isolated algorithm. Recent research is not only on ANN itself but also on integrating with other computing paradigms and more adaptive system development., e.g., fuzzy neural inference system and frameworks for facility operations and management. Similarly, in addition to previous research interests such as cost and scheduling [17], the research field of ANN in CM have been expanded more widely to meet challenging practical needs. In recent years, as shown in Table 4, ANN has been used to predict safe work behavior, manage energy consumption, detect building damage, and optimize the bid selection policy.
+    Regarding the method integrated with ANN, researchers integrate GA, FL and wavelets with ANN more often before 2000, while nearest neighbor, decision tree, casebased reasoning, support vector machine, regression analysis, and deep learning methods have become the mainstream between 2000 and 2020. Emerging technologies, e.g., computer vision, smart sensors, and smartphone applications, have been actively used to assist ANN in solving complex CM problems. Yi et al. [82] proposed an early warning system for working in hot and humid environments, integrating smart sensor technology, location tracking technology, and information communication technology.
+Table 7. Comparison of research progress.
+ProgressResearch between 1989 and 2000 [17]Research between 2000 and 2020Type of ANNBPNN, RBFNNBPNN, MLPNN, CNN, RBFNN, GRNN, PNN, NNA, WNN, TDNN, QNN, BANN, ABNNFields of researchcost, schedule, resource allocation, dispute predictioncost, performance, safety, quality, resource, risk, contract, schedule, procurement, environment, and sustainabilityIntegratedalgorithm/methodGA, FL, WaveletsGA, FL, Long Short-Term Memory, Wavelet, Clustering,
+K-Nearest Neighbors, Decision Tree, Case-based
+Reasoning, Support Vector Machine, Regression Analysis, Deep Learning methodEmerging Technologies/computer vision, smart sensor, smart bracelet, smart phone, done, video camera, natural language processing5.2. Challenges and Future Directions for ANN in CM
+    Despite the opportunities and benefits of ANN for CM, there are still some challenging issues. Challenges and corresponding recommendations to address them are proposed as shown in Figure 6.
+ 
+Figure 6. Challenges and future directions.
+5.2.1. Model Development and Application
+    ANN models for specific problems such as cost prediction, performance evaluation, and safety assessment are relatively isolated even for similar application goals. This makes it difficult to replicate results from previous studies, resulting in inefficient output and discontinuous progress. To address this issue, a good starting point is to use techniques such as transfer learning [83], namely reusing known architectures or models with good classification or predictive performance to develop specific model guidelines. Future research can pay more attention to the solution system for a particular problem under different scenarios, for example, cost estimation system under different information conditions at different stages. This research opportunity has been emphasized in some articles in the steel industry [83].
+    Meanwhile, ANN in CM belongs to a multidisciplinary field involving computer science, data science, and traditional CM. Therefore, the application of ANN in CM requires cooperation between many fields, and research on organization management for ANN in CM deserves future attention. The government authority can actively implement cooperative pilot projects integrating the industry and academic communities to achieve standardized ANN applications. Packaging the developed ANN model into a user-friendly interface running on the Matlab platform may achieve this goal more quickly. Some attempts have been made in this research direction. Alshamrani and Alshibani [84] developed an automated decision support system and designed a GUI for selecting the envelope and structure system of educational facilities. Program developers can also learn from mature software such as DesignBuilder in the energy simulation field to develop integrated ANN software to achieve practical applications [85]. It is expected to show users a series of dialog boxes with various menus and toolbars so that they can easily perform ANN for cost estimation, performance evaluation, etc., without programming.
+5.2.2. Data Availability
+    ANN is an effective tool for data mining. However, most ANN research focused on developing and applying ANN models in the CM field but ignored streamlined data collection and processing. According to Bilal, et al. [45], tremendous time spent on data mining work usually consists in preparing the data. Figure 7 shows the six types of data sources used in existing articles. Historical project files are the most extensive data source, followed by online databases. A careful review of the selected article reveals most articles used one-time data collection. Only a few have long-term database plans in the selected articles. Due to the complexity of CM, it is not unusual that the data collected, processed, and applied inevitably have errors. The problems of null values, misleading values, outliers, and non-standardized values make the application of ANN challenging in CM. Although previous studies have completed data standardization [47], there is no comprehensive data quality analysis of ANN in CM.
+
+Figure 7. Data source of ANN application in CM.
+    Future research could investigate how to collect efficient and standardized data from historical and new projects. Data standards need to be developed, and automated information collection system should be adopted to ensure sustainable data updating and high data quality. Additionally, in many manufacturing companies, enterprise resource planning (ERP) has become a successful management platform providing decision support for managers [86]. It is necessary for construction companies to learn from ERP to develop an integrated platform. You and Wu [1] proposed a business data integration platform framework, including enterprise resource database, construction process database, and enterprise data warehouse to realize the integration and utilization of engineering data and
+    
+business data in construction companies. In addition, the industry’s professional bodies can also actively hold seminars to encourage enterprises to invest in data storage and processing [87]. The government should strengthen the publicity and guidance of database construction and application as well.
+5.2.3. Application Field Exploration
+    Lifecycle management of projects can optimize the overall goal and enhance project value. However, existing research has mainly focused on a specific stage rather than the whole life cycle. The systematic application of ANN from the perspective of the whole life cycle is worthy of further study. For example, the total cost of facility ownership can be minimized by focusing on life cycle costs (LCC) rather than initial design and construction costs [88]. Similarly, sustainable construction is a trend in the future development of the construction industry [89]. However, some topics related to sustainable construction, such as resource and waste management, have not received enough attention (Table 4). In this regard, Random Forest provides a direction for the research of ANN in construction waste to use building structure, building use, wall material, and roofing material to predict the generation of construction and demolition (C&D) waste [90]. In addition, in the context of greenhouse gas research of road engineering, future ANN studies can predict the greenhouse gas emissions of various other types of projects [89].
+5.2.4. The Introduction of Emerging Technologies
+    In the future, CM will continue to undergo rapid digital transformation, with advanced technologies being developed and introduced. A promising research direction is to introduce emerging technologies as a supplement to ANN applications. The Internet of Things (IoT), as a network of interconnected devices such as sensors, drones, wearable and mobile devices, and radio frequency identification devices (RFID), can collect real-time data about the status of the project [91]. The integration of ANN and IoT can achieve AIoT, which is a new generation of IoT [92]. AIoT can remotely control the construction site, optimize project performance, and predict future conditions for maintenance plans [16]. However, the practical use of AIoT is still in the startup, so further research on the integration of ANN and IoT is essential to its boost.
+Similarly, research on the integration of ANN with Building Information Modeling
+(BIM) and Geographic Information Systems (GIS) should be given more attention. BIM and GIS can provide digital representations of the building itself and external environmental entities [93]. As a shared database, both of them can provide reliable data support for ANN. For instance, future studies can explore GIS-ANN for construction land survey, facility management and maintenance, disaster monitoring, and other purposes in the future [93]. Ym et al. [94] proposed that the synergy among AIoT, BIM, and GIS will promote the efficiency of data collection, transmission, and processing. Ways to integrate these technologies is a challenge and will become a hot topic in future works.
+    As a nascent technology, blockchain, namely a verified chain with blocks of information, serves as a decentralized, transparent, and comprehensive database to improve the built asset sustainability [95]. Blockchain can provide a secure and stable database by collecting large data from all stages of the projects and sharing data among different stakeholders. ANN can intelligently analyze the data and find hidden knowledge. The integration of ANN and blockchain will contribute greatly to the realization of smart cities, transportations, etc. which are still insufficiently developed and deserve more research attention.
+6. Conclusions
+    The construction industry has experienced the rapid development of digital technology in the past 20 years. ANN offers a suitable approach to address CM problems because can adapt to capture and learn significant information structures in historical data. It has gained significant attention and has been increasingly applied in the research area of CM during the last two decades, but few papers attempt to draw up a holistic review of the existing ANN studies for CM. This paper provides a content analysis of ANN in CM covering articles published by seven selected top-quality journals from 2000 to 2020. A total of 112 journal articles were identified. This paper carried out a detailed content analysis to identify the commonly used types of ANN, methods popular to be combined with, as well as focused stages and perspectives. Through in-depth qualitative and quantitative analysis, this paper showcased the existing research on ANN in CM and presented challenges and future directions for further research. The findings are valuable to both researchers and industry practitioners trying to apply ANN to address CM problems.
+Author Contributions: Conceptualization, S.L., R.C. and N.D.; Methodology, S.L. and J.Z.; Formal analysis, J.Z. and R.J.W.; Methodology, S.L. and R.C.; Investigation: F.X. and J.Z.; Writing—original draft, S.L.; Writing—review and editing: R.C., N.D. and R.J.W. All authors contributed equally to this work. All authors have read and agreed to the published version of the manuscript.
+Funding: Research and application of rural housing system by dry-connected precast concrete sandwich panels, the branch project of key technologies of rural housing design and construction, National Key R&D Program of China (2018YFD1100903-02. Dec. 2018–Dec. 2022).
+Institutional Review Board Statement: Not applicable.
+Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+Data Availability Statement: All data used in this research can be provided upon request.
+Conflicts of Interest: The authors declare that they have no conflict of interest.
+Abbreviations
+ABNNAdaptive boosting neural networksACAutomation in constructionAIArtificial intelligenceANNArtificial neural networksBANNBootstrap aggregating neural networksBIMBuilding Information ModelingBPNNBack-propagation neural networkCMConstruction managementCNNConvolutional neural networkECAMEngineering, Construction, and Architectural ManagementERPenterprise resource planningFFNNFeed-forward neural networkFLFuzzy logicGAGenetic algorithmsGISGeographic information systemsGRNNGeneral regression neural networkGUIGraphical user interfaceIJPMInternational Journal of Project ManagementIoTInternet of ThingsJCCEJournal of Computing in Civil EngineeringJCEMJournal of Construction Engineering and ManagementJCiEMJournal of Civil Engineering and ManagementJMEJournal of Management in EngineeringLCCLife cycle costsMLPNNMultilayer perceptron neural networksNNANeural network autoregressionPMBOKProject Management Body of KnowledgePMIProject Management InstitutePNNProbabilistic neural networkQNNQuantile neural networksRBFNNRadial basis function (RBF) neural networks	RFID	Radio frequency identification devices
+	TDNN	Time delay neural network
+	WNN	Wavelet neural network
+References
+1. You, Z.; Wu, C. A framework for data-driven informatization of the construction company. Adv. Eng. Inform. 2019, 39, 269–277. [CrossRef]
+2. Busta, H. KPMG Report: Construction Industry Slow to Adopt New Technology. 2016. Available online: Constructiondive.com (accessed on 15 January 2021).
+3. Manyika, J.; Lund, S.; Bughin, J.; Woetzel, J.; Stamenov, K.; Dhingra, D. Digital Globalization: The New Era of Global Flows; DhingraMcKinsey & Company: New York, NY, USA, 2016.
+4. Deng, H.; Hong, H.; Luo, D.H.; Deng, Y.C.; Su, C. Automatic Indoor Construction Process Monitoring for Tiles Based on BIM and Computer Vision. J. Constr. Eng. Manag. 2020, 146, 04019095. [CrossRef]
+5. Yx, A.; Ying, Z.B.; Psc, D.; Ld, B. Machine learning in construction: From shallow to deep learning. Dev. Built Environ. 2021, 6, 100045. [CrossRef]
+6. Sun, H.; Burton, H.; Huang, H. Machine Learning Applications for Building Structural Design and Performance Assessment: State-of-the-Art Review. J. Build. Eng. 2020, 33, 101816. [CrossRef]
+7. Shehadeh, A.; Alshboul, O.; Al Mamlook, R.E.; Hamedat, O. Machine learning models for predicting the residual value of heavy construction equipment: An evaluation of modified decision tree, LightGBM, and XGBoost regression. Autom. Constr. 2021,
+129, 103827. [CrossRef]
+8. Ruggieri, S.; Cardellicchio, A.; Leggieri, V.; Uva, G. Machine-learning based vulnerability analysis of existing buildings. Autom. Constr. 2021, 132, 103936. [CrossRef]
+9. Lesniak, A.; Juszczyk, M. Prediction of site overhead costs with the use of artificial neural network based model. Arch. Civ. Mech. Eng. 2018, 18, 973–982. [CrossRef]
+10. Patel, D.A.; Jha, K.N. Neural Network Model for the Prediction of Safe Work Behavior in Construction Projects. J. Constr. Eng. Manag. 2015, 141, 04014066. [CrossRef]
+11. Chao, L.C.; Skibniewski, M.J. Neural-Network Method of Estimating Construction Technology Acceptability. J. Constr. Eng. Manag.-ASCE 1995, 121, 130–142. [CrossRef]
+12. Juszczyk, M.; Zima, K.; Lelek, W. Forecasting of sports fields construction costs aided by ensembles of neural networks. J. Civ. Eng. Manag. 2019, 25, 715–729. [CrossRef]
+13. Turkan, Y.; Hong, J.; Laflamme, S.; Puri, N. Adaptive wavelet neural network for terrestrial laser scanner-based crack detection. Autom. Constr. 2018, 94, 191–202. [CrossRef]
+14. Darko, A.; Chan, A.P.C.; Adabre, M.A.; Edwards, D.J.; Hosseini, M.R.; Ameyaw, E.E. Artificial intelligence in the AEC industry: Scientometric analysis and visualization of research activities. Autom. Constr. 2020, 112. [CrossRef]
+15. Sony, S.; Dunphy, K.; Sadhu, A.; Capretz, M. A systematic review of convolutional neural network-based structural condition assessment techniques. Eng. Struct. 2021, 226. [CrossRef]
+16. Pan, Y.; Zhang, L.M. Roles of artificial intelligence in construction engineering and management: A critical review and future trends. Autom. Constr. 2021, 122, 41–52. [CrossRef]
+17. Adeli, H. Neural networks in civil engineering: 1989–2000. Comput.-Aided. Civ. Inf. 2001, 16, 126–142. [CrossRef]
+18. Buscema, M. A brief overview and introduction to artificial neural networks. Subst. Use Misuse 2002, 37, 1093–1148. [CrossRef]
+19. Zou, J.; Han, Y.; So, S.-S. Overview of Artificial Neural Networks. In Artificial Neural Networks: Methods and Applications; Livingstone, D.J., Ed.; Humana Press: Totowa, NJ, USA, 2009; pp. 14–22.
+20. Bougrain, L. Practical Introduction to Artificial Neural Networks. IFAC Proc. Vol. 2004, 37, 347–352. [CrossRef]
+21. Boussabaine, A.H. The use of artificial neural networks in construction management: A review. Constr. Manag. Econ. 1996, 14, 427–436. [CrossRef]
+22. Cao, B.; Zhang, K.C.; Wei, B.; Chen, L. Status quo and future prospects of artificial neural network from the perspective of gastroenterologists. World J. Gastroenterol. 2021, 27, 2681–2709. [CrossRef] [PubMed]
+23. Wang, D.; Arditi, D.; Damci, A. Construction Project Managers’ Motivators and Human Values. J. Constr. Eng. Manag. 2017, 143. [CrossRef]
+24. Shariati, M.; Mafipour, M.S.; Mehrabi, P.; Bahadori, A.; Zandi, Y.; Salih, M.N.A.; Hoang, N.; Dou, J.; Song, X.; Poi-Ngian, S.
+Application of a Hybrid Artificial Neural Network-Particle Swarm Optimization (ANN-PSO) Model in Behavior Prediction of Channel Shear Connectors Embedded in Normal and High-Strength Concrete. Appl. Sci. 2019, 9, 5534. [CrossRef]
+25. Garg, N.; Dhruw, S.; Gandhi, L. Prediction of Sound Insulation of Sandwich Partition Panels by Means of Artificial Neural Networks. Arch. Acoust. 2017, 42, 643–651. [CrossRef]
+26. Wang, X.; Lu, H.F.; Wei, X.J.; Wei, G.; Behbahani, S.S.; Iseley, T. Application of Artificial Neural Network in Tunnel Engineering: A Systematic Review. IEEE Access 2020, 8, 119527–119543. [CrossRef]
+27. Prieto, A.; Prieto, B.; Ortigosa, E.M.; Ros, E.; Pelayo, F.; Ortega, J.; Rojas, I. Neural networks: An overview of early research, current frameworks and new challenges. Neurocomputing 2016, 214, 242–268. [CrossRef]
+28. Kumar, R.; Aggarwal, R.K.; Sharma, J.D. Energy analysis of a building using artificial neural network: A review. Energy Build. 2013, 65, 352–358. [CrossRef]
+29. Krippendorff, K. Content Analysis: An Introduction to Its Methodology, 3rd ed.; SAGE: Los Angeles, CA, USA, 2013.
+30. Chan, A.; Chan, D.; Yeung, J. Overview of the Application of “Fuzzy Techniques” in Construction Management Research. J. Constr. Eng. Manag. 2009, 135, 1241–1252. [CrossRef]
+31. Hu, X.; Xia, B.; Skitmore, M.; Chen, Q. The application of case-based reasoning in construction management research: An overview. Autom. Constr. 2016, 72, 65–74. [CrossRef]
+32. Xiong, B.; Skitmore, M.; Xia, B. A critical review of structural equation modeling applications in construction research. Autom. Constr. 2015, 49, 59–70. [CrossRef]
+33. Yang, J.; Shen, G.Q.; Ho, M.F.; Drew, D.S.; Xue, X.L. Stakeholder management in construction: An empirical study to address research gaps in previous studies. Int. J. Proj. Manag. 2011, 29, 900–910. [CrossRef]
+34. Neto, D.d.C.e.S.; Cruz, C.O.; Rodrigues, F.; Silva, P. Bibliometric Analysis of PPP and PFI Literature: Overview of 25 Years of Research. J. Constr. Eng. Manag. 2016, 142. [CrossRef]
+35. Hosseini, M.R.; Martek, I.; Zavadskas, E.K.; Aibinu, A.A.; Arashpour, M.; Chileshe, N. Critical evaluation of off-site construction research: A Scientometric analysis. Autom. Constr. 2018, 87, 235–247. [CrossRef]
+36. Siraj, N.B.; Fayek, A.R. Risk Identification and Common Risks in Construction: Literature Review and Content Analysis. J. Constr. Eng. Manag. 2019, 145. [CrossRef]
+37. Wing, C.K. The ranking of construction management journals. Constr. Manag. Econ. 1997, 15, 387–398. [CrossRef]
+38. Araujo, A.G.; Pereira Carneiro, A.M.; Palha, R.P. Sustainable construction management: A systematic review of the literature with meta-analysis. J. Clean. Prod. 2020, 256, 120350. [CrossRef]
+39. Santos, R.; Costa, A.A.; Grilo, A. Bibliometric analysis and review of Building Information Modelling literature published between 2005 and 2015. Autom. Constr. 2017, 80, 118–136. [CrossRef]
+40. Zhao, X. A scientometric review of global BIM research: Analysis and visualization. Autom. Constr. 2017, 80, 37–47. [CrossRef]
+41. Liu, M.; Le, Y.; Hu, Y.; Xia, B.; Gao, X. System dynamics modeling for construction management research: Critical review and future trends. J. Civ. Eng. Manag. 2019, 25, 730–741. [CrossRef]
+42. Sousa, V.; Matos, J.P.; Matias, N. Evaluation of artificial intelligence tool performance and uncertainty for predicting sewer structural condition. Autom. Constr. 2014, 44, 84–91. [CrossRef]
+43. Chou, J.S.; Irawan, N.; Pham, A.D. Project Management Knowledge of Construction Professionals: Cross-Country Study of Effects on Project Success. J. Constr. Eng. Manag. 2013, 139, 04013015. [CrossRef]
+44. Yan, H.; Yang, N.; Peng, Y.; Ren, Y.T. Data mining in the construction industry: Present status, opportunities, and future trends. Autom. Constr. 2020, 119, 103331. [CrossRef]
+45. Bilal, M.; Oyedele, L.O.; Qadir, J.; Munir, K.; Ajayi, S.O.; Akinade, O.O.; Owolabi, H.A.; Alaka, H.A.; Pasha, M. Big Data in the construction industry: A review of present status, opportunities, and future trends. Adv. Eng. Inf. 2016, 30, 500–521. [CrossRef]
+46. Wilmot, C.G.; Mei, B. Neural network modeling of highway construction costs. J. Constr. Eng. Manag. 2005, 131, 765–771. [CrossRef]
+47. Petroutsatou, K.; Georgopoulos, E.; Lambropoulos, S.; Pantouvakis, J.P. Early Cost Estimating of Road Tunnel Construction Using Neural Networks. J. Constr. Eng. Manag. 2012, 138, 679–687. [CrossRef]
+48. Chaphalkar, N.B.; Iyer, K.C.; Patil, S.K. Prediction of outcome of construction dispute claims using multilayer perceptron neural network model. Int. J. Proj. Manag. 2015, 33, 1827–1835. [CrossRef]
+49. Cheng, J.C.P.; Wang, M.Z. Automated detection of sewer pipe defects in closed-circuit television images using deep learning techniques. Autom. Constr. 2018, 95, 155–171. [CrossRef]
+50. Gu, J.; Wang, Z.; Kuen, J.; Ma, L.; Shahroudy, A.; Shuai, B.; Liu, T.; Wang, X.; Wang, G.; Cai, J.; et al. Recent advances in convolutional neural networks. Pattern Recogn. 2018, 77, 354–377. [CrossRef]
+51. Patel, D.A.; Jha, K.N. Neural Network Approach for Safety Climate Prediction. J. Manag. Eng. 2015, 31. [CrossRef]
+52. Lhee, S.C.; Issa, R.R.A.; Flood, I. Prediction of Financial Contingency for Asphalt Resurfacing Projects using Artificial Neural Networks. J. Constr. Eng. Manag. Asce 2012, 138, 22–30. [CrossRef]
+53. Costantino, F.; Di Gravio, G.; Nonino, F. Project selection in project portfolio management: An artificial neural network model based on critical success factors. Int. J. Proj. Manag. 2015, 33, 1744–1754. [CrossRef]
+54. Meijer, D.; Scholten, L.; Clemens, F.; Knobbe, A. A defect classification methodology for sewer image sets with convolutional neural networks. Autom. Constr. 2019, 104, 281–298. [CrossRef]
+55. Cheng, M.-Y.; Tsai, H.-C.; Liu, C.-L. Artificial intelligence approaches to achieve strategic control over project cash flows. Autom. Constr. 2009, 18, 386–393. [CrossRef]
+56. Wang, W.; Chen, J.; Hong, T. Occupancy prediction through machine learning and data fusion of environmental sensing and Wi-Fi sensing in buildings. Autom. Constr. 2018, 94, 233–243. [CrossRef]
+57. Zadeh, L.A. Fuzzy Sets. Inf. Control 1965, 8, 338–353. [CrossRef]
+58. Fayek, A.R. Fuzzy Logic and Fuzzy Hybrid Techniques for Construction Engineering and Management. J. Constr. Eng. Manag. 2020, 146, 04020064. [CrossRef]
+59. Ko, C.H.; Cheng, M.Y. Dynamic prediction of project success using artificial intelligence. J. Constr. Eng. Manag. 2007, 133, 316–324. [CrossRef]
+60. Chou, J.S.; Lin, C.W.; Pham, A.D.; Shao, J.Y. Optimized artificial intelligence models for predicting project award price. Autom. Constr. 2015, 54, 106–115. [CrossRef]
+61. Cheng, M.Y.; Tsai, H.C.; Hsieh, W.S. Web-based conceptual cost estimates for construction projects using Evolutionary Fuzzy Neural Inference Model. Autom. Constr. 2009, 18, 164–172. [CrossRef]
+62. Zhu, W.; Feng, W.; Zhou, Y. The Application of Genetic Fuzzy Neural Network in Project Cost Estimate. In Proceedings of the International Conference on e-Product e-Service and e-Entertainment, Henan, China, 7–9 November 2010; pp. 1–4.
+63. Assaad, R.; El-Adaway, I.H.; Abotaleb, I.S. Predicting Project Performance in the Construction Industry. J. Constr. Eng. Manag. 2020, 146. [CrossRef]
+64. Ayhan, B.U.; Tokdemir, O.B. Accident Analysis for Construction Safety Using Latent Class Clustering and Artificial Neural Networks. J. Constr. Eng. Manag. 2020, 146, 14. [CrossRef]
+65. Kolar, Z.; Chen, H.N.; Luo, X.W. Transfer learning and deep convolutional neural networks for safety guardrail detection in 2D images. Autom. Constr. 2018, 89, 58–70. [CrossRef]
+66. Rafiei, M.H.; Adeli, H. Novel Machine-Learning Model for Estimating Construction Costs Considering Economic Variables and Indexes. J. Constr. Eng. Manag. 2018, 144, 04018106. [CrossRef]
+67. ElMousalami, H.H.; Elyamany, A.H.; Ibrahim, A.H. Predicting Conceptual Cost for Field Canal Improvement Projects. J. Constr. Eng. Manag. 2018, 144, 04018102. [CrossRef]
+68. Bayram, S.; Ocal, M.E.; Laptali Oral, E.; Atis, C.D. Comparison of Multi Layer Perceptron (Mlp) and Radial Basis Function (Rbf) for Construction Cost Estimation: The Case of Turkey. J. Civ. Eng. Manag. 2016, 22, 480–490. [CrossRef]
+69. Elmousalami, H.H. Artificial Intelligence and Parametric Construction Cost Estimate Modeling: State-of-the-Art Review. J. Constr. Eng. Manag. 2020, 146, 03119008. [CrossRef]
+70. Dursun, O.; Stoy, C. Conceptual Estimation of Construction Costs Using the Multistep Ahead Approach. J. Constr. Eng. Manag. 2016, 142, 04016038. [CrossRef]
+71. Hyari, K.H.; Al-Daraiseh, A.; El-Mashaleh, M. Conceptual Cost Estimation Model for Engineering Services in Public Construction Projects. J. Manag. Eng. 2016, 32, 04015021. [CrossRef]
+72. Baalousha, Y.; Celik, T. Integrated web-based data warehouse and artificial neural networks system for unit price analysis with inflation adjustment. J. Civ. Eng. Manag. 2011, 17, 157–167. [CrossRef]
+73. Marzouk, M.; Amin, A. Predicting Construction Materials Prices Using Fuzzy Logic and Neural Networks. J. Constr. Eng. Manag. 2013, 139, 1190–1198. [CrossRef]
+74. Meng, J.; Yan, J.; Xue, B.; Fu, J.; He, N. Reducing construction material cost by optimizing buy-in decision that accounts the flexibility of non-critical activities. Eng. Constr. Archit. Manag. 2018, 25, 1092–1108. [CrossRef]
+75. Cao, M.-T.; Cheng, M.-Y.; Wu, Y.-W. Hybrid Computational Model for Forecasting Taiwan Construction Cost Index. J. Constr. Eng. Manag. 2015, 141, 04014089. [CrossRef]
+76. Shiha, A.; Dorra, E.M.; Nassar, K. Neural Networks Model for Prediction of Construction Material Prices in Egypt Using Macroeconomic Indicators. J. Constr. Eng. Manag. 2020, 146, 04020010. [CrossRef]
+77. Cheng, M.Y.; Tsai, H.C.; Sudjono, E. Evolutionary fuzzy hybrid neural network for dynamic project success assessment in construction industry. Autom. Constr. 2012, 21, 46–51. [CrossRef]
+78. Han, S.; Hong, T.; Kim, G.; Lee, S. Technical Comparisons of Simulation-Based Productivity Prediction Methodologies by Means of Estimation Tools Focusing on Conventional Earthmovings. J. Civ. Eng. Manag. 2011, 17, 265–277. [CrossRef]
+79. Heravi, G.; Eslamdoost, E. Applying Artificial Neural Networks for Measuring and Predicting Construction-Labor Productivity. J. Constr. Eng. Manag. 2015, 141, 04015032. [CrossRef]
+80. Gerek, I.H.; Erdis, E.; Mistikoglu, G.; Usmen, M. Modelling masonry crew productivity using two artificial neural network techniques. J. Civ. Eng. Manag. 2015, 21, 231–238. [CrossRef]
+81. Zhang, M.Y.; Cao, T.Z.; Zhao, X.F. Using Smartphones to Detect and Identify Construction Workers’ Near-Miss Falls Based on ANN. J. Constr. Eng. Manag. 2019, 145, 14. [CrossRef]
+82. Yi; Chan, A.P.C.; Wang, X.Y.; Wang, J. Development of an early-warning system for site work in hot and humid environments: A case study. Autom. Constr. 2016, 62, 101–113. [CrossRef]
+83. Akinosho, T.D.; Oyedele, L.O.; Bilal, M.; Ajayi, A.O.; Delgado, M.D.; Akinade, O.O.; Ahmed, A.A. Deep learning in the construction industry: A review of present status and future innovations. J. Build. Eng. 2020, 32, 101827. [CrossRef]
+84. Alshamrani, O.S.; Alshibani, A. Automated decision support system for selecting the envelope and structural systems for educational facilities. Build. Environ. 2020, 181, 106993. [CrossRef]
+85. Hamida, A.; Alsudairi, A.; Alshaibani, K.; Alshamrani, O. Parametric study of the impact of building envelope systems on embodied and operational carbon of residential buildings. Int. J. Build. Pathol. Adapt. 2021. [CrossRef]
+86. Ptak, C.A.; Schragenheim, E. ERP: Tools, Techniques, and Applications for Integrating the Supply Chain, 2nd ed.; CRC Press: Boca Raton, FL, USA, 2004. [CrossRef]
+87. Zhou, Y.; Yang, Y.; Yang, J.B. Barriers to BIM implementation strategies in China. Eng. Constr. Archit. Manag. 2019, 26, 554–574. [CrossRef]
+88. Gao, X.H.; Pishdad-Bozorgi, P. A framework of developing machine learning models for facility life-cycle cost analysis. Build Res. Inf. 2020, 48, 501–525. [CrossRef]
+89. Kim, B.; Lee, H.; Park, H.; Kim, H. Framework for Estimating Greenhouse Gas Emissions Due to Asphalt Pavement Construction.
+J. Constr. Eng. Manag. 2012, 138, 1312–1321. [CrossRef]
+90. Cha, G.W.; Moon, H.J.; Kim, Y.M.; Hong, W.H.; Kim, Y.C. Development of a Prediction Model for Demolition Waste Generation Using a Random Forest Algorithm Based on Small DataSets. Int. J. Environ. Res. Public Health 2020, 17, 6997. [CrossRef]
+91. Ismail, Z.-A.B. Thermal comfort practices for precast concrete building construction projects: Towards BIM and IOT integration. Eng. Constr. Archit. Manag. 2021. [CrossRef]
+92. Cheng, J.; Chen, W.; Chen, K.; Wang, Q. Data-driven predictive maintenance planning framework for MEP components based on BIM and IoT using machine learning algorithms. Autom. Constr. 2020, 112, 103087. [CrossRef]
+93. Wang, H.; Pan, Y.; Luo, X. Integration of BIM and GIS in sustainable built environment: A review and bibliometric analysis. Autom. Constr. 2019, 103, 41–52. [CrossRef]
+94. Mo, Y.; Zhao, D.; Du, J.; Syal, M.; Aziz, A.; Li, H. Automated staff assignment for building maintenance using natural language processing. Autom. Constr. 2020, 113, 103150. [CrossRef]
+95. Shojaei, A.; Wang, J.; Fenner, A.E. Exploring the feasibility of blockchain technology as an infrastructure for improving built asset sustainability. Built Environ. Proj. Asset Manag. 2019, 10, 184–199. [CrossRef]
+1 . Introduction
+    The construction industry has made a significant contribution to the development and maintenance of buildings and civil infrastructure. As a data-intensive industry, the construction industry is experiencing unprecedented growth in data volume [1]. The hidden knowledge in these data is of great significance for adopting appropriate construction approaches to improve project performance. Nevertheless, data-driven technology adoption in construction management (CM) has been relatively conservative [2]. According to the digitization report released by McKinsey, the construction industry is currently one of the worst-performing industries in terms of digitalization [3]. Meanwhile, data in the construction industry are far from being fully utilized. It is estimated that site managers waste tremendous time processing data before making a decision [4]. Machine learning, as a set of technologies that can automatically detect patterns in data, brings a significant added value to saving time and maximizing computing resources, especially when processing large amounts of data [5]. It has shown excellent performance in many continuously expanding areas of construction, such as building structure design and performance evaluation, prediction of residual value of construction equipment, and vulnerability analysis of existing buildings [6–8]. Therefore, intelligent technology is urgently needed, with the artificial neural network (ANN) being one of the most promising ones to handle the rapid growth of data generation in CM.
+---------------
+    
+------------------------------------------------------------
+    
+    ---------------
+    
+    ------------------------------------------------------------
+    
+Appl. Sci. 2021, 11, 9616	2 of 19
+    
+Appl. Sci. 2021, 11, 9616	2 of 19
+    
+
+    
+Appl. Sci. 2021, 11, 9616	10 of 19
+    
+Appl. Sci. 2021, 11, 9616	2 of 19
+    
+Appl. Sci. 2021, 11, 9616	10 of 19
+    
+Appl. Sci. 2021, 11, 9616	2 of 19
+    
+Appl. Sci. 2021, 11, 9616	2 of 19
+    
+Appl. Sci. 2021, 11, 9616	2 of 19
+    

@@ -1,0 +1,219 @@
+﻿https://doi.org/10.1007/s41062-017-0125-0
+
+Digital Obeya Room: exploring the synergies between BIM and lean for visual construction management
+Daniel Nascimento1 · Rodrigo Caiado2 · Guilherme Tortorella3 · Paulo Ivson1 · Marcelo Meiriño2
+Received: 6 October 2017 / Accepted: 29 December 2017 / Published online: 15 January 2018 
+© Springer International Publishing AG, part of Springer Nature 2018
+Abstract
+Industrial construction management increasingly needs to integrate processes, technologies, and people to support strategic objectives and seeks to eliminate waste to achieve more efficient results. From this, the synergistic use of building information modeling (BIM) and lean construction (LC) principles can bring continuous improvements to the construction industry. This paper proposes a novel methodology for interdisciplinary management of construction projects by integrating BIM into LC. First, the study presents a literature review of BIM and lean methods and tools. Afterward, the research proposes the Digital Obeya Room framework for visual management of industrial pipelines manufacturing. A real-world application evaluates this new proposal on production planning and control of an industrial construction. From this experiment, the study presents results from a focus group that correlates the applied BIM functionalities and lean principles with the PDCA stages of industrial construction. This paper contributes to planning predictability, integration among stakeholders and usage of lean and BIM for continuous improvement of engineering management.
+Keywords BIM · Construction projects · Interdisciplinary management · Lean construction · PDCA
+
+Introduction
+Building information modeling (BIM) and lean construction (LC) are bringing fundamental changes in Architecture, Engineering, Construction, and Operation (AECO) [1]. During the last two decades, they have become essential approaches for processes management, providing more assertive results with respect to quality and timely deliveries [2]. However, the synergism’s between them is little bit explored in the oil and gas sector. This area needs methodologies and technologies to optimize engineering process.
+  Nowadays, diverse needs of the construction industry are benefited by the integration between BIM and LC, destined to interconnect the project with the construction phase [1, 3], maintenance [4, 5] and operations [6]. However, these areas of civil construction has several barriers with the 
+
+] 	 Guilherme Tortorella  	gtortorella@bol.com.br
+1 Pontifícia Universidade Católica do Rio de Janeiro - (PUCRJ), Rio de Janeiro, Brazil
+2 Universidade Federal Fluminense, Rio de Janeiro, Brazil
+3 Universidade Federal de Santa Catarina, Florianópolis, Brazil
+information systems deployment in work processes [7–10], technologies [2, 11, 12] and people [13]. Therefore, these methodologies and technologies are widely used in civil construction, meanwhile, little explored in the oil and gas sector [10, 11].
+  This approach is necessary, due to the iterative and exploratory nature of a construction project, design changes are inevitable. Their structure and content are not static. Changes can occur even after the beginning of construction, particularly in fast-track projects. Thus, successful change management is primordial for an efficient delivery of these enterprises. In this context, BIM is expected to play an important role in integrating design, construction, and facilitating processes management to coordinate changes throughout the project life cycle [13].
+  Besides the short-term impacts on productivity and quality, BIM allows improvements in management processes. It provides the necessary inputs for the orchestration of an intense amount of information, which is a critical challenge of lean systems [14]. Meanwhile, LC changes the organizations culture to enable improvements on process efficiency, according to customers expectations through a systematic search for waste elimination [15]. Therefore, to encourage integration among processes, 
+Vol.:(0123456789)1 3
+technologies and people, it is necessary to identify synergies between BIM and lean systems.
+  In the current practices, the lack of interoperability in information flows and engineering systems on industrial plant construction, for example, accounted for a debit of US$15.8 billion dollars a year in US capital facility projects in 2004 [16]. Becoming a critical success factor to adoption of BIM–Lean approaches. Similarly, construction companies are facing barriers and challenges in BIM adoption. This is mainly because there is no clear orientation or effective practical studies to support companies to improve their capabilities on BIM [17], preventing gains in productivity, efficiency and quality. Currently, these companies struggle to achieve competitive advantages in the global market and to accomplish organizational sustainability goals.
+  To effectively Plan, Do, Check and Act (PDCA), according to the alignment between BIM and LC, this research seeks to answer the following questions:
+• What are the concepts of LC and BIM functionalities?
+• What are the synergism’s between BIM and lean in the current literature background?
+• Which are the most applicable principles of LC and BIM functionalities in the empirical study?
+Within this context, this paper proposes a process framework called the Digital Obeya Room. The incremental innovation is based on the integration of BIM and lean methods and tools. The framework was evaluated in an empirical study within production planning and control of an industrial plant construction. Afterwards, a focus group validated the findings and identified the main synergies between BIM functionalities and lean principles.
+  This paper demonstrates a novel experiment that aims at fulfilling the gap in the change management processes to improve the effectiveness of engineering management. By promoting interdisciplinary collaboration through information technology, it is possible to achieve gains in managing design or scope changes, time constraints, cost and resources, barriers of quality, communication and safety of information in the oil and gas sector.
+Literature background
+For decades, the BIM and LC approaches have been seen separately in a variety of research, developments and applications. The following subsections focus on recent works, highlighting their potential synergies towards improvements in construction project management.
+Building information modeling functionalities
+According to the glossary of the BIM Handbook (2011), BIM is used as a verb or adjective phrase to describe tools, processes and technologies that are facilitated by digital, machinereadable documentation about a building, its performance, its planning, its construction and later its operation  [18]. BIM has the potential to be the catalyst for project managers to reengineer their processes and to better integrate the various stakeholders of modern construction projects. This reengineering process can be a transition for effectively applying Lean principles [19].
+  Regarding people, the implementation of BIM should have a bottom-up approach, rather than a top-down one. This would ensure the improvement in skills and the understanding of professionals to implement continuous improvement strategies, while reduce any potential resistance to changes. The seven pillars of a BIM implementation strategy are: eliminate waste, increase feedback, analyze decisions until reaching a consensus, faster delivery, build on integrity, capacitate the team, and see the whole [17]. Meanwhile, the seminal studies [1, 9, 10, 18, 20] propose that for BIM to provide compilation, edition, evaluation and report of information regarding construction projects, their implementation should follow guidelines as the nine functionalities below:
+• B1—3D visualization (for aesthetics and functional assessment);
+• B2—Rapid generation of multiple design alternatives;
+• B3—Usage of model data for predictive analysis of the structure (performance, automated cost estimates, and evaluation of customer value conformity);
+• B4—Information maintenance and model integrity (single information source, automated conflict checking);
+• B5—Automatic generation of documents and drawings;
+• B6—Collaboration in the design and construction (multiuser editing of a single discipline model and multiuser visualization of multidisciplinary models, either separated or combined);
+• B7—Rapid assessment and generation of alternative construction plans (automatic generation of construction tasks, construction process simulations, 4D planning);
+• B8—Online/electronic object-based communication (information visualizations, online communication, computer controlled manufacturing, systems integration, data collection onsite/offsite);
+• B9—Automatic transference of information to support computer-controlled manufacturing processes.
+Principles of lean construction (LC)
+Since the 50s, lean principles of the Toyota production system have evolved, and have been implemented successfully by the Toyota Motor Company. They were formed by two main conceptions: Just-in-Time (producing according to the demand) and Jidoka (man–machine separation, in which a single operator manages several machines) [21–24].
+  LC has used the same concepts of lean manufacturing (LM) since both have the goal of reducing waste and increasing productivity and efficiency. In 1992, it was developed an adaptation of the LC concept for the construction industry and presented a new paradigm of production management [25]. This approach was latter conceptualized according to three complementary ways: (i) transformation, (ii) flow, and (iii) value generation (VG). Additionally, lean thinking can be summarized in 11 principles, which were added more by [1] in 2010 to LC:
+• L1—Variability reduction;
+• L2—Decrease of number of cycles;
+• L3—Reduction of sample size;
+• L4—Flexibility increase;
+• L5—Selection of an appropriate method of production control;
+• L6—Standardization;
+• L7—Institution continuous improvement;
+• L8—Visual management use;
+• L9—Production system design for value chain flow;
+• L10—Ensure comprehensive requirements capture;
+• L11—Focus on the concept selection;
+• L12—Guarantee operating flow requirements;
+• L13—Verification and validation;
+• L14—Go and see for yourself (Gemba);
+• L15—Decision by consensus, considering all options;
+• L16—Cultivation of an extensive network of partners.
+Alignments between BIM and LC
+Previous research has already pointed the association between BIM and LC for supporting project management [1, 6, 7, 9, 10, 17, 20, 22, 25]. This is especially beneficial since BIM provides frameworks and technologies for advanced collaboration and information sharing. Although the concepts of LC and BIM are independent, there are synergies between them that extend beyond the maturity of their contemporary approaches [1]. LC is a conceptual approach for project management, while BIM is a transformational information technology. Similarly, the complementary aspects of LC and BIM throughout the entire life cycle of a construction project are viewed as potential to allow savings in construction industry. Even though these synergies were studied in implementations of individual designs, there is no systematic exploration strategy, and there is a lack of integration technologies capable of concretizing these systemic synergies [3, 9, 10, 20, 23].
+  For these reasons, this research proposes a model to manage pipe manufacturing automatically, with emphasis on visual management in BIM models within the PDCA cycle of industrial construction.
+Research method
+The approach of this paper is exploratory since it aims on raising the most relevant information about BIM functionalities and lean principles to provide the integration of both approaches in industrial plants construction projects. It is also descriptive because it seeks to reveal how information can be presented, and to show its impacts on similar environments.
+  As a research strategy, the exploration and theory-building case study method [26], through the development of the Digital Obeya Room framework, its application in a real project to evaluation and discussion of results by means of the focus group with project collaborators. This case study use data from multiple sources, compound by following steps:
+• Documental and bibliographic research of the state of the art of BIM and lean;
+• Empirical study realized in real-world industrial plant construction project;
+• Focus group with construction and assembly management specialists.
+The study can be considered valid insofar as the data were obtained from different procedures (theory, documents, experiment and focus group). This constitutes a triangulation that helps in avoiding researcher subjectivity while also increasing quality and precision of the results [27, 28].
+Sample selection
+The empirical study was carried out in an industrial plant construction project. The company analyzed in this study, holds a huge volume of contracts in Brazil for exploration and production, logistics, distribution and petroleum refining and derivatives. In this context, investigation consisted of the construction of this petrochemical refinery between 2014 and 2015. With 3677 employees, the empirical study was applied in the utilities units for oil refining. Samples from these scenarios were selected by extracting images and reports from 3D visualization software developed, with results from its application in the previously mentioned industrial projects.
+  The focus group was attended by 12 collaborators (1 quality management, 1 civil construction management, 1 industrial construction management, 2 piping engineering designer, 2 equipment engineering designer, 2 electrical engineering designer, 1 instrumentation engineering, 2 production engineering), who were present during the project where the Digital Obeya Room was applied. From this, the group contributed qualitatively evaluating at which stage of the PDCA cycle each of the 25 principles (lean) or BIM functionalities were predominantly applied and also indicated which are the most important, based on their knowledge and experience.
+  Besides, the quantitative data was extracted from engineering systems that were utilized in the selected projects. As identified in Fig. 1, several engineering systems were integrated to provide access to diverse necessary information. Theses pieces of information were extracted, transformed and loaded into an integrated relational database daily, and linked to multidimensional visualizations in the management PDCA cycle. The main systems used were: Smart Plant Diagrams, COMOS, Aveva Plant PDMS, Physical and Financial System, Piping Fabrication and Assembly System, Supply-Chain System, and Commissioning System. These databases were integrated and queries were exported on demand to the 3D visualization system. Focus group design
+The focus group instrument was designed as follows:
+• Introductory opening for the recipients, including the purpose of the implementing BIM–Lean approaches in the visual management of manufacturing pipelines;
+• General information about the respondents and their organizations, e.g., type of industry, name of respondents department and his/her position, as well as the number of years of experience the respondent has in the oil and gas sector;
+• Four sections for data collection:
+1. Overview first of BIM and LC, intended to find out the respondents basic knowledge on principles and functionalities;
+2. Brainstorm about challenges and lessons learned through the Digital Obeya Room model in pipelines manufacturing to discuss by means facts and data with collaborators of the industrial construction project applied;
+3. Zoom and filter: evaluate the most applied principles and functionalities within the PDCA Cycle to measure the extent of knowledge that respondents have about those concepts;
+4. Details on demand: perception of BIM functionalities and LC principles to find out their opinion and expectations about those concepts in the Digital Obeya Room model.
+
+Fig. 1  Digital Obeya Room framework for integration of lean thinking to BIM in the PDCA cycle of 3D visual managementWe used the integrated evaluation approach composed of two stages: interviews to elicit information on a questionnaire and four sections of focus group discussion to discuss a topic raised by a skilled moderator [29].
+Data analysis
+The validation and quantification of the apparent gains in the application of BIM–lean approaches were taken. It contained the measurements, adherence, and benefits highlighted by the construction project participants throughout the empirical study. The group of experts evaluated the applicability of BIM functionalities and lean principles using a Likert scale, from 1 (weakly important) to 5 (strongly important). The results were analyzed and organized in Microsoft Excel through the median, standard deviation (SD) and the frequencies to rank the most demanded principles and functionalities and to evaluate in which stage of PDCA each one contributes predominantly for the Digital Obeya Room in pipelines manufacturing.
+Digital Obeya Room framework
+Toyota executives defined the concept of Obeya Room at the beginning of the nineties. It sought to help a better coordination of complex engineering projects. In this framework, A3 sheets of paper were hung up all over the walls of a large meeting room to describe different points of view of the members who were participating in the project [30]. Hence, each participant could have easy access and better understanding of each others opinions about the project in the context of visual management and continuous improvement.
+  The Obeya rooms, like many other LC practices, have proven to be very successful for improving the value stream of management processes. The rooms help to make decisions faster [31], provide the basis for significant elimination of waste, and mitigate the time, space and organizational barriers [23]. From this practice, participants can listen actively to the concerns of other teammates and gain a deeper awareness of problems, thus accelerating the development of solutions.
+  As shown in Fig. 1, the proposed Digital Obeya Room aims to contribute to interdisciplinary project management for the construction industry. One of the main uses is in production planning and control, whose framework extracts quantities from the scope items and allows the reutilization of historical performance data. This information is fundamental for an effective planning. Another relevant purpose is its use before execution, with computational simulations in 3D models, which allows identifying physical interferences, analysis of the rules of engineering through checklists and unequivocal sequence of the construction and assembly.
+  The following steps describe work flow for continuous improvement and activity validation within the proposed framework:
+• Plan: The balance of opportunities (design, materials, equipment, work fronts), and priorities (deadlines, dependencies, resources, costs) with the goal of promoting a pulled production system of the value chain, seeking to achieve the optimal production level. In this step, production capability and work package practicability (Workface Planning) are assessed;
+• Do: Consists of controlling the variables and variabilities of tasks execution, such as supply, production, quality, health, safety, and environment;
+• Check: Analysis and metrics related to: physical–financial advances, key performance indicators, difficulties and problems;
+• Act: Impacts on schedule are analyzed, while priorities are updated and redefined. The goal is to select the best opportunities based on the relationship between expected versus actual results.
+In all of the previous steps, the 3D visualization system simulates and analyzes work plans and contingencies in a visual and collaborative manner. All stakeholders are involved in meetings to define actions within the PDCA cycle, using the 3D visualization as a way to monitor incomplete or carry out tasks on all steps of continuous improvement. Then, following visual management of activities, the decision-making purpose and destinations is described in the Fig. 2.
+  In this sense, it was possible to level the available resources by physical areas and to manage work and material flows. The multidimensional data visualization system 
+
+Fig. 2  Information transfer to support computer controlled spools fabrication
+contributes for constructability analysis to determine and validate work packages. These, in turn, guide the supply management to verify storage availability and logistics, minimizing material movement and applying first-in, first-out (FIFO) to supply the construction areas. Within this context, the lean Mizusumashi (optimize a distribution of material to multiple work-fronts) technique can be applied to define paths and routines of material management so that the workforce can focus solely on the assembly tasks.
+Empirical study
+In this study, 36 meetings were conducted with the goal of using data integration, 3D visual management, and the Obeya room methodology. Additionally, another aim of these meetings was to involve several stakeholders in the accordance of prioritizing activities on the executive project, referring to the manufacturing needs and to promote pull production of industrial assembly. The deployment had begun in May and it was completed in July of 2014. The Digital Obeya Room implementation was held in August of 2014 with events to operate its use in meetings of work packages definitions, and to daily monitor the execution in an automated manner.
+  The main objective of this study was to integrate the executive design into supply, fabrication, and piping assembly. Then, it was possible to develop and apply an integration between the 3D model and the industrial piping fabrication control. For this to happen, a standardization of status, colors, and nomenclature of engineering data of the execution project was established. Mechanisms were developed to standardize piping fabrication processes and the transference of information between 3D design databases and the pipe shop manufacturing. The 3D visualization system was used to promote visual multidimensional management of the pull production system, to measure productivity of different work cells at the construction site. The 3D model was customized to contain information about individual spools that compose each pipeline. This was later used to compute which items would fit in transportation trucks, to facilitate the final assembly at the construction site. Therefore, participants were able to implement the proposed model in a daily updated information, allowing the projects progress visualization and determine the best path to be followed pulling the value chain according to objective strategies.
+  Following the concepts of the proposed Digital Obeya Room framework, the engineering information that was required to start piping fabrication was standardized by all stakeholders involved, while quality inspectors used mobile devices to verify physical advances on-site. Thereby, the 3D visualization system was able to present color-coded fabrication and assembly status of several pipelines on demand, as illustrated in Fig. 2, promoting the interdisciplinary visual management of the entire piping fabrication process.
+  The visual management of piping fabrication motivated the collaborators of several engineering disciplines to analyze the best material routes, to plan work flows, to perform constructability analysis, and to guide design priorities towards a pull production system. Different fabrication plans were simulated using the 3D visualization system to verify the best alternatives considering the priorities and issues of everyone involved. These results corroborate the main guidelines of several previous researches [17, 21, 32–34].
+Data analysis from focus group
+In this final stage of the study, was applied a focus group composed of 12 industry experts in industrial plants, who used the proposed model to improve the production planning and control. The group evaluated the applicability of BIM functionalities and LC principles in the project studied.
+  The average of stakeholders answers was performed to evaluate the most applicable principles and functionalities to the model. Besides, from four discussions in the focus group interviews, it was possible to identify the compatibility between BIM and LC and to evaluate in which PDCA stage each principle contributes the most for the continuous improvement process. The Digital Obeya Room proved to be an important environment to promote interdisciplinary project management in pipelines manufacturing.
+  Figure  3 depicts the perception of stakeholders involved in empirical study regarding the principles and functionalities that were most explored in the project, which are: L1, L5, L6, L7, L8, L9, B2, B3, B4, B6, B7 (rated as strongly important) and L4, L12, L13, L14, L15, L16, B1, B5, B8, B9 (rated as important). On the other hand, principles L2, L3, L10, and L11 were considered neutral in their vision. It is possible to affirm that have increased in the perception of benefits of LC principles, due to the link with BIM functionalities. However, the collaborators of the project demonstrated certain indifference regarding background BIM functionalities that involves interoperability, 2D document generation, and online information communication.
+  Therefore, Table 1 shows the results of the questionnaire applied on the focus group. The table indicates in which stage of the PDCA the compatibility between lean thinking (L1–L16) and BIM (B1–B9) principles takes place with the goal of achieving Kaizen. It is possible to note that L4, L7 and B8 are present in all stages of the PDCA. L6, L11, L14, B5, and B6 are only present on the execution stage (Do) and that L9, B2 and B7 should be present during planning (Plan).
+  Table 1 demonstrates that only one BIM functionality (B8) and 18.75% of lean principles were allocated in the Act stage. Additionally, even though all lean principles were 
+
+Fig. 3  Focus group results by perceptions from industrial construction specialist’s
+Table 1  Compatibilities between BIM and lean principles used on the PDCA stagesB1B2B3B4B5B6B7B8B9L1
+L2PC CPC
+DCC
+CDDPPC
+DCP
+DL3PCPCCPPCPL4PCPDCCDDPPDCAPDL5CCCCL6DDDDDL7PCPDCCDDPPDCAPDL8PCPCCPPCPL9PPPPPL10CCCCL11DDDDDL12CCCCL13CCCCL14DDDDDL15CCCCL16Aplaced on the “Check” stage, only 44.44% of BIM functionalities were allocated on this same stage. Besides, 55.55% of BIM functionalities and 37.50% of lean principles were considered on the same proportion to be in the Plan or Do stages. This result indicates that graphical computing technologies or BIM functionalities have bigger benefits on the predictability, and assertiveness increase between planned and realized activities in engineering projects.
+  On the other hand, Lean methodologies have less applicability on the Plan and Do stages when compared with Check. In the Act stage, according to stakeholders, one BIM functionalities and three Lean principles were considered, making it easy to perceive that these alignments are hardly used or noticed during this stage of the PDCA, which involves competencies and attitudes in relation to the action plan most suitable for problem resolution. It is important to highlight the deficiency of BIM functionalities and Lean principles regarding an attitude for better Kaizen implementation and the great presence of Lean principles during the stages of control, inspection, and analysis of what has been executed on the empirical investigation.
+  The focus group highlighted the use of visual management and institution of continuous improvement as the highest priority. Variability reduction and Gemba have high demand; while the cultivation of an extensive network of partners presents a moderate requirement, and automatic generation documents and drawings is on the lowest exigency. In addition, from the importance perceived on which actions an organization must take to boost its Kaizen capability, it was identified that effective support of the high management, commitment of all employees regarding change, and the presence of an experienced and team-focused Kaizen leadership are determinant and differentiated factors to achieve continuous improvement.
+  It can also be noticed from stakeholders perceptions in Fig. 4 that alignments of BIM functionalities and Lean principles, together, during the checking stage (Check) represent 
+36.59% of total positive contribution. Meanwhile, during the 
+
+Fig. 4  BIM and lean principles utilization percentage on each PDCA stage
+acting step (Act) only 9.76% of these were selected. In the Act stage, according to experts, just one BIM functionalities and three lean principles were considered, making it easy to perceive that these principles are hardly used or noticed during this stage of the PDCA, which involves competencies and attitudes in relation to the action plan most suitable for problem resolution. Figure 4 shows that 53.66% of the principles and functionalities were placed in the Plan and Do stages, due to the complete noted adherence of the model during production planning and control. Also, 36.56% are applied in the Check stage, credited to the consistency of lean tools and methodologies to accomplish total quality. It is worth noting that the positive mix between BIM and LM was little bit perceived in the Act stage, making it clear that the principles hardly affected on the competencies of problem-solving, which serve as an attention point for environments from similar nature.
+Conclusions
+Implications to theory
+This paper has described a methodology called Digital Obeya Room for improved industrial construction management. Similarly to the findings of previous studies [2, 5, 34–41], our research has suggested a framework that allows a faster and smoother resolution of errors and mending information deficiencies between the teams. These gaps might be due to the lack of collaborative design under a lean environment, real-time visualization, big-room meetings, and decision-making purposes enabled through BIM functionalities. Promoting the use of BIM–Lean approaches, it was possible to implement a pull production system that better-leveled resources and minimized rework or waste during industrial construction.
+  The differential of this work if compared with others researchers  [42–48], is the practical point of view to the predictability of construction planning, making the schedule more adherent to what is actually achieved and improving the cooperation between stakeholders. The framework was evaluated in a real-world case study, helping them to choose the adequate management strategies, guide their actions according to the prioritized principle and indicate in which step of the PDCA these synergies would happen to optimize scheduling, reduce waste, improve quality, have a precise scope, avoid errors, motivate teams, and promote an interdisciplinary management with shared information and clear communication in the oil and gas sector.
+Implications to practices
+When applied to PDCA stages, the compatibilities matrix between BIM and lean principles could guide managers, leaders and decision-makers into prioritizing the correct, efficient and effective use of human, material and technological resources. Based on the convergence of principles and functionalities that are predominant throughout the PDCA cycle, stakeholders might continuously improve each phase of their projects. Above all, the Digital Obeya Room model promotes activities that use BIM–Lean approaches aiming to continuous flow and Jidoka.
+  Human factors (Act) were identified in the focus group as critical success factor. Since the principles and functionalities presented in this article have little or no influence on managerial competencies.
+Future works
+Following this research, future work could investigate the following propositions:
+• Surveying industry experts to evaluate the perception of BIM and lean in real-world applications, employing inferential data statistics;
+• Case study to assess the compatibility between lean and BIM principles amongst companies of different industries;
+• Improve the proposed methodology by employing the concept of Look, Ask, Model, Discuss and Act (LAMDA), according to [24].
+Acknowledgements The study was funded by Conselho Nacional de Desenvolvimento Científico e Tecnológico (Edital Universal 2016).
+References
+1. Sacks R, Radosavljevic M, Barak R (2010) Requirements for building information modeling based lean production management systems for construction. Autom Constr 19(5):641–655
+2. Wang X, Love PED, Kim MJ, Park C-S, Sing C-P, Hou L (2013) A conceptual framework for integrating building information modeling with augmented reality. Autom Constr 34:37–44
+3. Dave B, Kubler S, Pikas E, Holmström J, Singh V, Främling K, Koskela L et al (2015) Intelligent products: shifting the production control logic in construction (with lean and BIM). In: Proceedings of the 23rd annual conference of the international group for lean construction, Perth, 29–31 July 2015. International Group for Lean Construction
+4. Almarshad A, Motawa I (2012) BIM-based knowledge management for building maintenance. In: Proceedings of the 29th International Conference of CIB W78, Beirut, Lebanon, pp 17–19
+5. Hattab MA, Hamzeh F (2015) Using social network theory and simulation to compare traditional versus BIM–lean practice for design error management. Autom Constr 52:59–69
+6. Oskouie P, Gerber DJ, Alves T, Becerik-Gerber B (2012) Extending the interaction of building information modeling and lean construction. In: Proceedings for the 20th annual conference of the international group for lean construction, pp 1–617
+7. Jung Y, Joo M (2011) Building information modelling (BIM) framework for practical implementation. Autom Constr 20(2):126–133 (building information modeling and changing construction practices)
+8. Barlish K, Sullivan K (2012) How to measure the benefits of BIM—a case study approach. Autom Constr 24:149–159
+9. Saieg P, Sotelino ED, Nascimento D, Caiado R (2018) Interactions of building information modeling, lean and sustainability on the architectural, engineering and construction industry: a systematic review. J Clean Prod 174:788–806
+10. Nascimento DLM, Sotelino ED, Lara TPS, Caiado RGG, Ivson P (2017) Constructability in industrial plants construction: a BIM– lean approach using the Digital Obeya Room framework. J Civil Eng Manag 23(8):1100–1108
+11. Ivson P, Nascimento D, Celes W, Barbosa SD (2017) Cascade: a novel 4D visualization system for virtual construction planning. IEEE Trans Vis Comput Graph 24(1):687–697
+12. Papadopoulos NA, Sotelino ED, Martha LF, Nascimento DLM, Faria PS (2017) Evaluation of integration between a BIM platform and a tool for structural analysis. Sist Gestão 12(1):108–116
+13. Pilehchian Behzad, Staub-French Sheryl, Nepal Madhav Prasad (2015) A conceptual approach to track design changes within a multi-disciplinary building information modeling environment. Can J Civil Eng 42(2):139–152
+14. Womack JP, Jones DT (2010) Lean thinking: banish waste and create wealth in your corporation. Simon and Schuster, New York
+15. Comm CL, Mathaisel DFX (2005) A case study in applying lean sustainability concepts to universities. Int J Sustain Higher Educ 6(2):134–146
+16. NIST GCR (2004) Cost analysis of inadequate interoperability in the US capital facilities industry. National Institute of Standards and Technology (NIST), Gaithersburg
+17. Arayici Y, Coates P, Koskela L, Kagioglou M, Usher C, O’reilly K (2011) Technology adoption in the BIM implementation for lean architectural practice. Autom Constr 20(2):189–195
+18. Eastman CM, Eastman C, Teicholz P, Sacks R (2011) BIM handbook: a guide to building information modeling for owners, managers, designers, engineers and contractors. Wiley, New York
+19. Bryde David, Broquetas Martí, Volm Jürgen Marc (2013) The project benefits of building information modelling (BIM). Int J 
+Project Manag 31(7):971–980
+20. de Mattos Nascimento DL, Sotelino ED, Caiado RGG, Faria PS et al (2017) Synergy between principles of lean thinking and BIM functionalities in interdisciplinarity of management in industrial plants. J Lean Syst 2(4):84–109
+21. Aziz RF, Hafez SM (2013) Applying lean thinking in construction and performance improvement. Alex Eng J 52(4):679–695
+22. Olatunji OA (2011) Modelling the costs of corporate implementation of building information modelling. J Financ Manag Property Constr 16(3):211–231
+23. Oosterwal DP (2010) The lean machine: how Harley–Davidson drove top-line growth and profitability with revolutionary lean product development. AMACOM Division American Management Association, New York
+24. Tortorella G, Viana S, Fettermann D (2015) Learning cycles and focus groups: a complementary approach to the A3 thinking methodology. Learn Organ 22(4):229–240 (cited by 2)
+25. Koskela Lauri (1992) Application of the new production philosophy to construction, vol 72. Stanford University, Stanford
+26. Voss Chris, Tsikriktsis Nikos, Frohlich Mark (2002) Case research in operations management. Int J Oper Prod Manag 22(2):195–219
+27. Yin RK (2015) Estudo de Caso: Planejamento e Métodos. Bookman Editora, Madrid
+28. Runeson P, Höst M (2009) Guidelines for conducting and reporting case study research in software engineering. Empir Softw Eng 14(2):131–164
+29. Dürrenberger G, Behringer J, Dahinden U, Gerger A, Kasemir B, Querol C, Schüle R, Tabara D, Toth F, van Asselt M et al (1997) Focus groups in integrated assessment: a manual for a participatory tool. Center for Interdisciplinary Studies in Technology, Darmstadt University of Technology, Darmstadt
+30. Morgan JM, Liker JK (2006) The Toyota product development system, vol 13533. Productivity Press, New York
+31. Shahbazi S, Javadi S (2013) Supporting production system development through Obeya concept
+32. Azhar S, Nadeem A, Mok JY, Leung BH (2008) Building information modeling (BIM): a new paradigm for visual interactive modeling and simulation for construction projects. In: Proceedings of the first international conference on construction in developing countries, pp 435–446
+33. Azhar S (2011) Building information modeling (BIM): trends, benefits, risks, and challenges for the AEC industry. Leadersh Manag Eng 11(3):241–252
+34. Qiqi Lu, Won Jongsung, Cheng Jack CP (2016) A financial decision making framework for construction projects based on 5D building information modeling (BIM). Int J Project Manag 
+34(1):3–21
+35. Anand G, Kodali Rambabu (2009) Development of a framework for lean manufacturing systems. Int J Serv Oper Manag 5(5):687–716
+36. Chen LiJuan, Luo Hanbin (2014) A BIM-based construction quality management model and its applications. Autom Constr 46:64–73
+37. Ichikawa H (2009) Simulating an applied model to optimize cell production and parts supply (Mizusumashi) for laptop assembly. In: Winter simulation conference, pp 2272–2280
+38. Eswaramoorthi M, Kathiresan GR, Prasad PSS, Mohanram PV (2011) A survey on lean practices in Indian machine tool industries. Int J Adv Manuf Technol 52(9–12):1091–1101 (cited by 51)
+39. Pattanaik LN, Sharma BP (2009) Implementing lean manufacturing with cellular layout: a case study. Int J Adv Manuf Technol 
+42(7–8):772–779 (cited by 47)
+40. Sahoo AK, Singh NK, Shankar R, Tiwari MK (2008) Lean philosophy: implementation in a forging company. Int J Adv Manuf Technol 36(5–6):451–462 (cited by 39)
+41. Tortorella GL, Vergara LGL, Ferreira EP (2017) Lean manufacturing implementation: an assessment method with regards 
+to socio-technical and ergonomics practices adoption. Int J Adv Manuf Technol 89(9–12):3407–3418 (cited by 1)
+42. Anvari A, Zulkifli N, Yusuff RM (2013) A dynamic modeling to measure lean performance within lean attributes. Int J Adv Manuf Technol 66(5–8):663–677 (cited by 16)
+43. Chen JC, Cheng C-H, Huang PB, Wang K-J, Huang C-J, Ting T-C (2013) Warehouse management with lean and RFID application: a case study. Int J Adv Manuf Technol 69(1–4):531–542 (cited by 15)
+44. Barbosa GF, Carvalho J, Filho EVG (2014) A proper framework for design of aircraft production system based on lean manufacturing principles focusing to automated processes. Int J Adv Manuf Technol 72(9–12):1257–1273 (cited by 4)
+45. Maasouman MA, Demirli K (2016) Development of a lean maturity model for operational level planning. Int J Adv Manuf Technol 83(5–8):1171–1188
+46. Tortorella GL, Marodin GA, Miorando R, Seidel A (2015) The impact of contextual variables on learning organization in firms that are implementing lean: a study in southern Brazil. Int J Adv Manuf Technol 78(9–12):1879–1892
+47. Salem R, Musharavati F, Hamouda AM, Al-Khalifa KN (2016) An empirical study on lean awareness and potential for lean implementations in Qatar industries. Int J Adv Manuf Technol 82(9–12):1607–1625 (cited by 2)
+48. Anholon R, Sano AT (2016) Analysis of critical processes in the implementation of lean manufacturing projects using project management guidelines. Int J Adv Manuf Technol 84(9–12):2247– 2256 (cited by 1)
+19 	 	Page 2 of 10	Innovative Infrastructure Solutions (2018) 3:19
+
+Innovative Infrastructure Solutions (2018) 3:19 	Page 3 of 10 19
+
+1 3
+
+1 3
+
+Innovative Infrastructure Solutions (2018) 3:19 
+
+
+
+19 	 	Page 2 of 10	Innovative Infrastructure Solutions (2018) 3:19
+
+Innovative Infrastructure Solutions (2018) 3:19 	Page 3 of 10 19
+
+1 3
+
+1 3
+
+Innovative Infrastructure Solutions (2018) 3:19 	Page 7 of 10 19
+
+1 3
+

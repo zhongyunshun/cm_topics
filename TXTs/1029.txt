@@ -1,0 +1,172 @@
+﻿Construction Management and Economics (1994) 12, 287—293
+SHORT COMMUNICATION
+Is construction an industry?
+Notes towards a greater analytic emphasis on external linkages
+STEVEN GROÅK
+Research and Development Group, Ove Arup Partnership, 13 Fitzroy St, London WIP 6BQ, UK
+Received 30 July 1993; revised 20 March 1994
+There has been a frequent misconception in analyses of construction sectors of the national economy: the tendency to describe these activities as 'an industry' or a small and stable set of 'industries'. This has led to confusion. Construction was inappropriately assimilated to various forms of manufacturing industry. Characteristics of the construction process were treated as 'problems', to whose solution substantial energies were unnecessarily diverted. There has been muddle about the extent to which macro-level planning is appropriate, notably on R&D strategies and innovation for improved industrial effciency. Construction projects increasingly use unfamiliar technological bases, comparable to 'technology fusion' in other sectors. A more fruitful emphasis may be to regard construction as organized as agglomerations of projects — rather than as a discrete industry or a fixed constellation of firms. The idea of the 'demand chain' is introduced. The paper concludes that a 'technological paradigm' should replace the 'industry paradigm' and that an enduring question remains to explore what is meant by construction 'capacity'.
+Keywords : Projects, technology fusion, external linkages, demand chain, technological paradigm.
+  
+It is especially needful to remember that economic problems are imperfectly presented when they are treated as problems of statical equilibrium, and not of organic growth.
+Alfred Marshall
+Introduction
+Many studies of the construction sector, including its subsector building, invoke the idea of 'the industry'. Some l refer in their title to the construction or building industry; others use such terms within their texts.
+  In the UK, we can observe a number of important national organizations whose title, remit and mission are construed in terms of 'the construction industry': the
+ For example, The Builder, 1962; Hillebrandt, 1971, 1974, 1975, 1984; Bishop, 1972; NEDO, 1975; Powell, 1980; World Bank, 1984; Cooney, 1985; Groåk and Krimgold, 1989. 0144-6193 C 1994 E. & F.N. spon
+Construction Industry Council (CIC), the Construction Industry Research and Information Association (CIRIA), the Construction Industry Training Board (CITB), etc.
+  Two recent studies reinforce the point. A decennial review of Construction Management and Economics by Betts and Lansley (1993) takes 'firms, organisations in the construction industry' as one of its main categories, without identifying other types of industry as issues. A note by Tan and Dong (1993) analyses aspects of the current National Construction Industry Automation Plan in the Republic of China. So the notion of a coherent 'industry' is alive and well in the worlds of academic discourse and political planning.
+  It is suggested here that this description of construction activity is too limited — even misconceived — and that the sector is more usefully described in other ways. If this point were solely a matter of terminological convenience, it would not be of interest. However, its use has been more fundamental. It has affected the way in which analysis of and policy debate on construction activities have proceeded.
+  This has led to three kinds of confusion. First of all, it has encouraged us to compare construction inappropriately to various forms of manufacturing industry, diminishing attention to important new linkages outside the conventional definition of the sector. Second, it has led us to regard certain inherent characteristics of construction processes as 'problems', to whose solution substantial energies are unnecessarily diverted. And, third, it has muddled our thinking about the extent to which macro-level planning is appropriate, notably on R&D strategies and the role of innovation as a condition of improved productivity and better quality outputs.
+  This paper — more a set of notes — examines the diffculties raised and suggests an alternative emphasis, in which much more attention is given to the linkages between construction and other economic sectors.
+Background
+In the UK, from the late 1950s onwards, with major studies such as Emmerson (1962), Higgin and Jessop (1965) and Bowley (1966), the analytic consensus has taken a model of the construction sector based upon an assumption of a generalized, essentially repetitive and systemic process 1 . This reflected a more international consensus2 . The key ideas which emerged at that time were 'the construction process' and its relative 'the structure of the industry' 3 . These led to governmental attempts to manage the total effective demand placed upon the industry, especially by the public sector: the public client would use its combined demand to induce certain desirable changes in the industry, to overcome the perceived problem that 'a responsive industry' could not stabilize its workload.
+  The typical construction process was aggregated into a plausible model of 'the industry' at a national level — which for some could be seen potentially as a single organism, where issues of quality and effciency were transformed into issues of management, information and feedback. Simultaneously, issues of proper conflict were transformed into problems of communication. A consequential insight was to explore the notion of construction 'capacity', in which Hillebrandt (1975) was prominent.
+  For many protagonists, there was an explicit agenda of change: that construction should become more like manufacturing. The image of making houses on the model of the Fordist car production line was a familiar examples . A significant consequence of this assimilation was to assume that the supply chain was (or should be) organized as if for continuous production, with many problems of capacity utilization and a failure to recognize that the site was the defining locus of production organization 6.
+  In the UK, a particular apotheosis was in The National Plan (Cmnd 2764, 1964). The plan's demise obscured the model's survival in other contexts. Across a range of studies 7 , we thus effectively insisted upon an analysis which assumed:
+l. that a single construction industry existed, as a feasibly coherent and responsive organism;
+2. that it was aggregated from a large number of contracts, in turn modelled on a small repertory of stable processes involving a limited set of main participants with stable specialized roles;
+3. that these participants were in turn organized essentially through typical and stable firms;
+4. as a basis of improvement, that its essential characteristics should be converging upon those associated with some notion of manufacturing industry ;
+5. that adaptation was a consequence of innovation, which therefore had to be stimulated.
+This model still lingers in the mental corridors of the construction disciplines, including some educational programmes — and even some research. Although it introduced important concepts, as a unified model it is now obsolete.
+Is it an industry?
+Construction draws upon so many other technological bases than those conventionally regarded as the national construction industry. The NEDO (1985) study of construction R&D noted the increased UK imports for
+
+ Russell (1981) explores these propositions very fully. A particularly revealing study is in Herbert (1984).
+ A recent initiative in the UK which maintains this unclarity is in SERC (1993).
+ See a review of UK and some other European studies, in Groåk and Ive (1986).
+construction; the rise of 'intelligent buildings', sophisticated building management systems (BMS) and other trends are making construction a new focus for many other sectors. We can legitimately begin to ask: in what sense is it useful to speak of construction as a single entity, as an industry?
+  We have intermittently recognized that construction (or even its subset, building) is not a single entity, that there are several overlapping industries4 . But this alternative multi-industry model has still been one of a stable configuration. Other analyses display a similar blurring of previously fixed concepts. For example, the demonstration by Meikle (1990) of the diffculty of meaningful international cost comparisons reveals a fundamental problem — precisely in the area where comparison may be thought most appropriate. Ive (1990) has drawn attention to the extent to which construction contractors may be more sensibly regarded as agents or merchants, rather than as producers.
+  Increasingly those who design (and redesign), make (and remake), manage and use (and reuse) our built environment will borrow from whatever industry or technological base suits them — whether or not they have been regarded previously as part of 'the construction industry'. Some, such as Kodama (1986, 1992) now use the idea of 'technology fusion' to describe such developments, although he still implies a degree of stability in the configurations.
+  What we might now term 'the industry paradigm'5 has also defined the parameters of change — whether for observation or intervention — in more recent discussions of how we improve both the performance and products of this industry 67 . A number of these parameters have perplexing results, despite their admirable intentions, because their underlying concepts are inappropriate. Examples include the following.
+1. Buildability. This is limited by its implication that contracting organizations are interchangeable and that they originate in a single 'industry'. It does not sumciently acknowledge that there are great variations in the skills and resources — the capacity — in  the potential organizations which produce the onsite building or structure, not to mention their potential location outside 'construction' altogether.
+2. Fragmentation. The separation of design and production skills or other forms of the divisions of labour, including subcontracting, are seen as particular problems for construction (rather than as inherent characteristics . . .). This implies that some form of regularly coordinated or unified organization must be preferable to one which is assembled for the specific project il . Yet the growth of out-sourcing is typical of many other industrial and commercial organizations. It reflects what Handy (1989) more generally has termed 'the shamrock organization' 89
+3. Feedback. This is based upon an identifiable set of inputs, a transforming process which can be described and a set of criteria by which the output can be measured. If it actually varies from intended output, the difference is fed back ('negative feedback') to modify the inputs or the process to guide the actual output back to that desired. In construction, we know remarkably little about these basic elements, whether feedback is during the design and construction process or is from the construction in use. What actually is fed back, when or to whom? Yet, using a model of a single industry, we are led to expect that there will be regular and defined routes for feedback, learning and the maintenance of good practice. The significance of feedback generally is now being reassessed l % the results should also have interesting consequences for construction.
+A further diffculty with the industry paradigm has arisen with research and development. Many now seek improved R&D in construction as a necessary condition of improved productivity and quality 10 . However, the proposed version is too often based upon assumptions about the link between science and technology and the ways in which manufacturing industries absorb such advances11 It ignores the potent role of advanced practice and project-based development which has defined much of construction innovation12
+  Similarly, as recent studies have demonstrated 13 , a significant proportion of R&D innovation for construction is not generated in construction. The model for innovation has to be revised and (in the UK) the Standard Industrial Classification system does not help. Kodama (1992) points out that in industrial situations of technology fusion, the concept of formally funded research programmes for 'an industry' has to be redefined.
+  The combination of analytic diffculties and misleading concepts which flow from the industry paradigm means that we should seriously question its utility and appropriateness — without discarding the benefits which have resulted. A useful alternative may be based upon the role of the project in construction activities.
+A project-based set of activities
+Construction products are determined significantly by location, site and performance 14 . Construction activities — and, hence, the processes — are determined significantly by the project, not by the firm. It is this latter implication which seems not fully explored in the general rise of project management in construction.
+The discipline of project management has emerged over the last 25 years or so, as noted by Morris (1973), Hillebrandt et al. (1974), McGhie (1982), Winch (1989) and Allinson (1993); indeed, Ball (1988) has suggested that it has replaced the historical role of the contractors as production managers (in which they have been overtaken by the rise of specialist subcontractors).
+  The significance of the project has grown in almost all studies of industrial (and other) organizations, for example, in the ideas of 'champions' and 'task forces', as developed by Peters and Waterman (1982). In the manufacturing industry, it is plainly one of the transforming concepts which has led to ideas of process management and business process re-engineering (BPR), in which studies of the process almost supplant those of the product.
+Another view of construction?
+We are discovering the need for a more holistic systems model for construction, but more open and dynamic than those invoked during the 1960s. We can invert the implied supply chain model and ask what are the consequences of analysing our work in terms of the project and what has been termed 'the demand chain' 15
+  That is, we can treat the provision of a service or range of products as a project, to be achieved to a given standard by a given time. The organization of the resources and facilities will be a specific configuration of those generally available, but may also bring in resources specific to that project. The project defines ad hoc whatever supply of services, finance, information and products are possible and necessary.
+  In this sense, the project induces its own demand chain, its needs and resources, its own process and consequential processes and its own specific organization. It thus creates constantly new patterns of connections between sources of expertise and technical know-how. In particular, in the UK, with our increasing dependence upon an array of manufacturers from home and abroad (which began over a century ago), a crucial issue here is how to benefit from this expanded availability of potential products and how to display good practice in selecting from domains with which the lead designers/constructors may not be familiar.
+  This notion of the dominance of the project changes ideas about how we organize highly responsive networks of skills, where we locate research and development effort, on what we focus for productivity improvements and how we construe feedback systems. Combined with the trans-industry scope of construction, it also changes ideas of project management, basic research, technology generations and what can be meant by good practice, in the sense of a skilled practitioner.
+Construction as a new model for other sectors ?
+We find an interesting reversal of previous attitudes, reflected in reports (e.g. from the USA) that some of the sunrise industries are examining construction for its complex adaptive features — now seen as positive advantages20. Hitherto, we have treated special characteristics in construction as problems, because they are anomalous when compared with the idea of a single industry based on the manufacturing model. We now see that construction offers paradigms of response to these kinds of uncertainty — via the construction project: temporary coalitions in a turbulent environment requiring unpredictable (but inventable?) configurations of supply industries and technical skills. These may be termed 'technological paradigms '21
+  These industries and their temporary coalitions of people and organizations are essentially organized around the project, not the firm. With the development of work packages, specialist subcontracting (and its increasing design role), advanced manufacturing, emerging design specialisms, etc., the division of labour has meant an extraordinary dispersal of technical knowledge — but also of great increases in know-how. With the more active role taken by many client/user organizations, a new source of building knowledge from users themselves, dynamic, transient, has replaced earlier passive concepts of user requirements.
+  In many ways, this should be no surprise. After all, the work of Hillebrandt (1975) on the capacity of the industry revealed these issues some years ago. We know that the different sectors of construction use fundamentally distinct resource and skill bases: for example,
+
+20 Part of the discussion revolves around the various forms of uncertainty which arise and the extent to which they are — separately or in combination — peculiar to the construction process. Some of the ideas emerge in Higgin and Jessop (1965) — part of the work at the Tavistock Institute on socio-technical systems. A more recent evaluation — on matters specific to construction and innovation — is to be found in Groåk and Krimgold (1989). Winch (1989) explores the implications of 'uncertainty' in relation to the control of the project by the firm.
+21 The importance of a paradigm of technology in construction studies, and its significance in turbulent environments, based on know-how, is explored in Groåk (1992), following Polanyi (1958); another more general approach, closer to the earlier versions proposed by Kuhn, is in Dosi (1982). Issues of comparing technological bases in the USA are examined in Bon (1991).
+sophisticated urban offce buildings do not use the same resources as bridge building or housing maintenance. They are distinct 'industries'; as Kodama (1992) notes of industries more generally, we are moving away from the idea of 'one technology, one industry' as the framework of analysis for industrial change.
+  Analytic frameworks are on the move: construction used to be investigated with tools from economics; now those from construction may have utility elsewhere.
+Concluding comments
+To respond to the title of this note, it is suggested that it is no longer useful to insist upon the industry paradigm for construction studies. One way forward is to emphasize construction as a project-based (or at least projectled) economic activity, with its arrangements and disposal of resources induced by those projects and borrowing across technological bases, almost unpredictably.
+  The project is, in a sense, an invention — of the client, the users, as a consequence of a design — driven by a variety of factors and agents, some identifiable, some not. Winch (1989) and Allinson (1993) have shown the benefit of giving more attention to the 'project' aspect of project management — Allinson notably from the viewpoint of the architect. Drucker (1989, 1993) has identified the importance of 'the knowledge worker', with ways of thinking which transcend industries and whose career is not industry specific. Designers in the construction sectors, such as architects, have always understood this form of technology transfer.
+  In this context, it is crucial to understand that many of the 'problems' of construction are not problems to be eliminated from our work or anomalies to be excluded from our theoretical models. They are characteristics, which emerge depending on the projects and which we should recognize as necessary components of our analytical methods.
+  Furthermore, in aggregating projects up to 'the sector', new studies of adaptive complex organizations offer ways forward, including the study of instability and criticality in large, interactive and self-organizing systems made up from apparently stable elements, such as described by Bak and Chen (1991). A technological paradigm may emerge, in which concepts of knowledge for action and organizational learning take their rightful place in our analyses.
+  We should no longer treat construction activities as belonging to 'an industry' with definable boundaries, specific technical skills and using specific resources. The focus should be more towards its end products and services, recognizing increasingly external linkages — and potential innovators from beyond 'construction' altogether. It all gives renewed significance to Hillebrandt's potent and fundamental research question: what do we mean by the capacity of construction?
+Note
+The views expressed here are personal and do not necessarily reflect those of the Ove Arup Partnership.
+References
+Allinson, K. (1993) The Wild card of Design. A Perspective on Architecture in a Project Management Environment. Butterworth Architecture, Oxford.
+Arthur, W.B. (199()) Positive feedbacks in the economy. Scientific American, February, 80—85.
+Bak, P. and Chen, K. (1991) Self-organised criticality. Scientific American, January, 26—33.
+Ball, M. (1988) Rebuilding Construction. Routledge, London. Betts, M. and Lansley, P. (1993) Construction Management and Economics: A review of the first ten years. Construction Management and Economics, 11, 221—45.
+Bishop, D. (1972) Productivity in the building industry. Proceedings of the Royal Society, A272, 533—63.
+Bon, R. (1989) Building as an Economic Process : An Introduction to Building Economics. Prentice-Hall, Englewood Cliffs, NJ.
+Bon, R. (1991) What do we mean by construction technology? Habitat International, 15, 3—26.
+Bowley, M. (1966) The British Building Industry : Four Studies in Response and Resistance to Change. Cambridge University Press, Cambridge.
+The Builder (1962) The Building Industry — 1962 Onwards. The Builder, London.
+Cm 2250 (1993) Realising our Potential. A Strategy for Science, Engineering and Technology. HMSO, London.
+Cmnd 2764 (1964) The National Plan. HMSO, London.
+Cooney, E. (1985) Innovation in the post-war British building industry: a historical view. Construction History, 1, 52—9.
+De Landa, M. (1991) War in the Age of Intelligent Machines. Swerve Editions, New York.
+Derbyshire, A. (1990) R&D in the UK Construction Industry. In Construction to and Beyond the Year 2000. National Economic Development Offce Conference, London.
+Dosi, G. (1982) Technological paradigms and technological trajectories. Research Policy, 11, 147—62.
+Drewer, S. (1975) The Supply of Construction Services in the West Midlands. The Study of the Mechanism of Response to Effective Demand. Building Economics Research Unit, University College, London.
+Drewer, S. (1990) The international construction system. Habitat International, 14, 29—35.
+Drucker, P. (1989) The New Realities. Heinemann, London.
+Drucker, P. (1993) Post-capitalist Society. ButterworthHeinemann, London.
+Economic Commission for Europe (1965) Report on the
+Proceedings of the Seminar on Changes in the Structure of the Building Industry Necessary for Improving its Output, Prague, April 1964. United Nations/ECE, Geneva.
+Emery, F.E. (1969) Systems Thinking. Penguin, Harmondsworth.
+Emmerson, H. (1962) Survey of Problems Before the Construction Industries. HMSO, London.
+Gann, D. (1993) Innovation in the construction sector. In The Handbook of Industrial Innovation, Dodgson, M. and Rothwell, R. (eds), Edward Elgar, London.
+Groåk, M.H.C. (1991—92) Modern logistics — a strategy for unlocking profits and resources. In International Chief Financial Officers' and Fund Managers' Reference Book. Kensington Group, London.
+Groåk, M.H.C. (1992—93) The logistics P&L. In International Chief Financial Officers' and Fund Managers' Reference Book. Kensington Group, London.
+Groåk, S. (1992) The Idea of Building. Spon. London.
+Groåk, S. and Ive, G. (1986) Economics and technical change: some implications for the study of the building industry. Habitat International, 10, 115—32.
+Groåk, S. and Krimgold, F. (1989) The practitioner— researcher in the building industry. Building Research and Practice, 17, 52—9.
+Handy, C. (1989) The Age of Unreason. Business Books, London.
+Herbert, G. (1984) The Dream of the Factory-made House. MIT Press, Cambridge, MA.
+Higgin, G. and Jessop, N. (1965) Communication in the Building Industry. Tavistock Institute, London.
+Hillebrandt, P.N'I. (1971) Small Firms in the Construction Industry. HMSO, London.
+Hillebrandt, P.M. (1974) Economic Theory and the Construction Industry, Macmillan, London.
+Hillebrandt, P.M. (1975) The capacity of the industry. In Aspects of the Economics of Construction, Turin, D.A. (ed.), George Godwin, London, pp. 25—57.
+Hillebrandt, P.M. (1984) Analysis of the British Construction Industry. Macmillan, London.
+Hillebrandt, P.M., Andrews, J., Bale, J. and Smith, T. (1974) Project Management : Proposals for Change. Building Economics Research Unit, University College London, London.
+Innovation Policy Research Associates (1992) Construction R + D: Analysis of Private and Public Sector Funding of Research and Development in the UK Construction Sector. Department of the Environment, London.
+Institution of Civil Engineers (1988) Research Funding in the Construction Industry. ICE, London.
+Ive, G. (1990) Structure and strategies. An approach towards international comparison of industrial structures and corporate strategies in the construction industries of advanced capitalist societies. Habitat International, 14, 45—58.
+Kodama, F. (1986) Technological diversification of Japanese industry. Science, 233, 291—6.
+Kodama, F. (1992) Technology fusion and the new R + D. Harvard Business Review, July—August, 70—8.
+Koenigsberger, O.H. and Groåk, S. (eds) (1978) Essays In Memory of Duccio Turin. Pergamon, Oxford.
+Kuhn, T.S. (1970) The Structure of Scientific Revolutions, 2nd edn. Chicago University Press, Chicago.
+McGhie, B. (1982) The implications of project management. In The Production of the Built Environment, Proceedings of the Third Bartlett Summer School, University College London, pp. 2.1—2.9.
+Meikle, J.L. (1990) International comparisons of construction costs and prices. Habitat International, 14, 185—92.
+Morris, P.W.G. (1973) An organisational analysis of project management in the building industry. Build International, 6.
+Nam, C.H. and Tatum, C.B. (1988) Major characteristics of constructed products and resulting limitations of construction technology. Construction Management and Economics, 6, 133-48.
+National Economic Development Office (1975) The Public Client and the Construction Industries. HNiSO, London.
+Nationale Economic Development Office (1985) Strategy for Construction R&D. NEDO Books, London.
+Peters, T. J. and Waterman, R.H. (1982) In Search of Excellence. Harper & Row, New York.
+Polanyi, M. (1958) Personal Knowledge. Routledge and Kegan Paul, London.
+Powell, C.G. (1980) An Economic History of the British Building Industry, 1815—1979. Architectural Press, London.
+Russell, B. (1981) Building Systems, Industrialisation, and Architecture. John Wiley, London.
+Science and Engineering Research Council (1993) Construction as a manufacturing process. In SERC Initiative in Innovative Manufacturing, SERC, Swindon.
+senge, P.M. (1990) The Fifth Discipline. The Art and Practice of the Learning Organisation. Century Business, London.
+Tan, R.R. and Dong, S.C. (1993) The formulation of performance indicators in evaluating the implementation of automation in the construction industry. Construction Management and Economics, 11, 398—403.
+Turin, D.A. (1966) What do we mean by building? Reprinted in Habitat International, 5, 271—88.
+Turin, D. (1973) Construction and development. In Essays in Memory of Duccio Turin, Koenigsberger, O.H. and Groåk, S. (eds), Pergamon, Oxford, pp. 33—45.
+Winch, G. (1989) The construction firm and the construction project: a transaction cost approach. Construction Management and Economics, 7, 331—45.
+World Bank (1984) The Construction Industry, Issues and Strategies in Developing Countries. World Bank, Washington DC.
+Zuboff, S. (1988) In the Age of the Smart Machine. Basic Books, New York.
+1 The basic ideas of systems theory can be found in Emery (1969). Much of their evolution was accelerated by military needs, especially in the Second World War. Russell (1981) reviews their significance for construction, particularly in attempts to move work from the site to the factory and to introduce automation. The implications of this general military connection, and the specific issues of modern information technology, are provocatively explored in de Landa (1991). The broader transformations from automating to 'informating' are discussed in Zuboff (1988).
+2 See, for example, the synoptic work of Turin (1973) and other works by him and collaborators in Koenigsberger and Groåk (1978).
+3 The 1964 Prague seminar reported in ECE (1965) was a notable culmination of this international consensus, as developed for the building sector.
+4 See, for example, discussions in Drewer (1975), Groåk and Ive (1986).
+5 The term 'paradigm', in the sense of framing theoretical concepts, acceptable terminology and normal working methods, the parameters of meaning, was first devised by Kuhn to describe scientific practice. Kuhn (1970) — his second edition — restricts the use of this term to something very akin to the concept of 'tacit knowledge' proposed by Polanyi (1958). In Polanyi (1958), tacit knowledge is knowledge for action, the internalized version of more explicit forms, such as theoretical exemplars.
+ 6 This is not to argue that such assumptions of a single industry, etc., are inevitably unhelpful, since they have provided the foundation of the emerging discipline of 'building economics', but rather that we now need to acknowledge significant change in the terms of debate. For example, Bon (1989) has shown the importance of analysing the economic linkages between construction and property transactions.
+ 7 It is interesting to note the recent requirements of UK public sector procurement, which appear actively to prevent unified approaches to construction work. Some in the UK also argue similar effects from taxation and statutorily imposed labour on-costs. The crucial issue for the division of labour and specialization is that of subsequent reintegration, for which (at least in the UK) the plethora of forms of contract has not always been helpful.
+ 8 He defines the shamrock model as applying to organizations which have three distinct elements: a core of crucial (often professional) permanent staff, a network of key subcontractors, which provide services and products which are not part of the core function (e.g. one might cite recent trends at IBM) and a cloud of part-time staff, taken on ad hoc as the nature and volume of workload ebbs and flows. Nevertheless, he implies a network of regular linkages.
+9 In business studies, Senge (1990) has examined the difference between reinforcing feedback and balancing feedback. In new approaches to neo-classical economics, Arthur (1990) has pursued his idea of positive feedback in economic systems. These two trends are coalescing.
+10 For example, ICE, 1988; Derbyshire, 1990.
+11 The recent UK White Paper (Cm 2250, 1993) still retains some elements of 'the linear model', in which there is posited a causal chain (between fundamental science, application technology and commercial product), which in turn defines the criteria for location and funding of research. However, it does acknowledge new ways of conceiving the linkages.
+12 See a wider discussion in Groåk (1992), which examines some of the roots of construction R & D and the role of the informal innovation infrastructure.
+13 See the work of Gann, especially I PRA (1992) and Gann (1993). Drewer (1990) has also shown the importance of studying supporting technologies, which may be more advanced than those at the point of application.
+14 Nam and Tatum (1988) have explored the extended notion of 'the constructed product' and its relationship to technical change. From a USA perspective, they place much greater significance than many previous analysts on issues of social responsibility. It is interesting to see how this has similarities to the emerging framework within the European Union of replacing the doctrine of caveat emptor ('let the buyer beware') with provisions for consumer protection, health, safety and environmental awareness.
+ 15 The term was devised by M. Groåk (personal communication, 1992), in the context of modern logistics arrangements for transnational manufacturers, ideas developed in Groåk (1991—92, 1992—93). Grateful thanks are also due to him for helpful comments on an earlier draft of this note.
+---------------
+  
+------------------------------------------------------------
+  
+  ---------------
+  
+  ------------------------------------------------------------
+  
+	288	Groåk
+  
+Is construction an industry?	289
+  
+Coovriaht 0 2001 . All Riahts Reseved.
+  
+Coovriaht 0 2001 . All Riahts Reseved.
+  
+
+  
+Coovriaht 0 2001 . All Riahts Reseved.
+  

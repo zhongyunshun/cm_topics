@@ -1,0 +1,266 @@
+﻿Construction Management and Economics, 1990, 8, 315—328
+BOT projects: Risks and securities
+ROBERT L.K. TIONG
+School of Civil and Structural Engineering, Nanyang Technological Institute, Singapore
+There has been a growing trend in recent years for governments in many developing countries to place major public investments, particularlyfor infrastructure projects, into the private sector. This has meant that governments look to the private sector to finance projects using the projects' anticipated revenues as security rather than relying upon a direct sovereign guarantee of the project debt. Many have adopted the 'Build-Operate-Transfer', or BOT approach, so that the private sector have to operate the plant and transfer the ownership to the government after a specified concession period. However,for BOT to succeed in any major privatized project, the host government cannot withdraw or adpot a passive role: it has to ensure the right political and commercial environments in which to advance the projects. This paper deals with the various guarantees and incentives that could be provided by the government. It covers the responsibilities and undertakings that the project sponsors could commit to in order to negotiatefavourable concessionsfrom the government and to raisefinancing that is so vitalfor the BOT model to be successful. Thefinancing, political and technical risks are discussed and the techniques that could be used to have these risks covered are suggested to ensure a smooth project implementation.
+Keywords: Financing, risk, security, guarantee, toll, concession
+Introduction
+The concept 'Build-Operate-Transfer' or BOT was first coined by the Turkish Prime Minister Turgut Ozal in 1984 within the framework of the privatization éf Turkey's public projects (Bueker, 1988). The idea immediately captured the world's attention, especially in developing countries such as Malaysia and Thailand which see BOT as a way of reducing public sector borrowing, and at the same time promoting direct foreign investments in their country's infrasturcture or industrial projects. The success of Eurotunnel in raising $1.5 billion equity recently for the Channel Tunnel project further inspired world-wide interests in the BOT schemes. Examples of such projects are power stations, toll roads, toll bridges and even pipeline system for oil and gas. Table 1 shows a list of BOT projects that are either under construction or currently in operation in various countries.
+  Increasingly, contractors are being asked to assume greater risks by taking equity in the projects, arrange finance for owners and even operate plants or collect toll fees to pay for the project loans (Barrett, 1986). Indeed, it is the commercial and financial considerations, rather than the technical elements, that are likely to be determinants in a successful proposal for a BOT project. This paper will examine the network of contractual relationships and responsibilities among the main parties involved in BOT projects (Fig. 1), particularly the project sponsors/contractors, and the host goverment. It will focus on the risks and securities of such schemes during the construction and operation phases and suggest solutions for a successful project implementation.
+0144 6193/90 $03.00+.12 C 1990 E. & F.N. spon Ltd.
+Table 1. Current BOT projects
+Country
+(1)Type of project
+(2)(3)Concession period (years)
+(4)Completion date
+(5)China
+Hong Kong
+Hong Kong Malaysia
+Malaysia
+Malaysia Malaysia
+Australia
+Thailand
+Thailand
+Turkey Turkey
+UK/France
+UKPower station
+Tunnel Road
+Road
+Road
+Water supply Expressway
+Tunnel
+Expressway
+Subway
+Power plant
+Power plant
+Tunnel
+Bridge517.8 mil
+425.0 mil
+250.0 mil
+8.0 mil
+32.0 mil
+127.0 mil
+550.0 mil
+880.0 mil
+
+289.0 mil10
+30
+22
+25
+9
+13
+30
+30
+30
+30
+55
+201987
+NAb
+1986
+1988
+1989
+1995
+1992
+
+1993a The costs include interest and financial charges b NA= Not available
+
+Fig. 1. Main parties involed in BOT projects
+BOT project phases
+BOT can be defined as a major start-up business venture where private organizations undertake to build and operate a project, which would normally be undertaken by the government, and return the ownership to the government after a fixed concession period. Lenders and investors are expected to look to the revenues generated from the completed project as the main source of security for repaying the debts (Neil, 1988). The projects would
+be structured to have limited or no recourse to the project sponsors/contractors or to the government. For international projects, the BOT schemes usually require the setting up of a joint venture/project company in the host country with the local private sector and incorporated in accordance with the laws of the country.
+
+
+Fig. 2. Typical BOT project phases
+  The five phases of a typical BOT project are pre-investment, implementation, construction, operation and transfer (Fig. 2). The roles and responsibilities of the project sponsors at each phase of the project can be as follows:
+  1. as consultants to carry out the feasibility study during the pre-investment phase and engineering design during the implementation phase,
+  2. as project sponsors to negotiate favourable concession agreements from the government and as project promoters to raise equity and borrow loans during the implementation phase,
+  3. as contractors to build the facility, usually on a fixed price turnkey basis, during the construction phase,
+  4. as operator and owner of the facility, using the project revenues to retire the loans during the operation phase.
+Thus contractors usually have to play a number of roles in a BOT project. Sometimes these lead to conflicts of interest and place the contractors in a paradoxical position. For example, in the event of a downturn in the market for the completed project's product, the owner half of the contractor would favour a reduction in the project size but the contractor half might not as it would reduce its volume of work. The contractors involved in the Channel Tunnel project, five British and five French, were also the founder shareholders of the project company, Eurotunnel. As a result, the construction contract was negotiated by the contractors largely with themselves. The contractors, however, failed to grasp their diffcult position as both suppliers and purchasers and this had a major negative impact on the project in its infancy. It led to the eventual separation between Eurotunnel's founder banks and contractors (Heywood et al., 1988).
+  To avoid this conflict of interest the presence within the project company of a commercial partner will be a distinct advantage. This partner should not stand to benefit materially from the terms of the construction contract or the project financing but rather through the profitability of the completed project. The US construction company, Bechtel, recognized this problem and formed two separate companies, Bechtel Development Company and Bechtel Financing Services, to deal with equity investments in construction projects and ownership issues. These companies are distinct from the engineering and construction group and have separate boards of management.
+Risk and return characteristics
+Since these projects are often structured using the undertakings and guarantees of different parties to achieve the equivalent of a bankable credit, it is essential that the sponsors thoroughly review the different credit exposure which occurs at different times ofthe projects. There are, however, distinct differences between the risk and return characteristics of infrastructure and industrial projects (Table 2). For an infrastructure project, the concession
+Table 2. Project characteristics — infrastructure vs. industrial
+BOT projectsCharacteristics (1)Infrastructure (2)Industrial (3)Concession period
+Construction period
+Life of asset
+Operational maintenance cost Rolled-up interestTypically 30 years years
+Significantly longer Relatively lower
+Significantly higheryears
+1—3 years
+Significantly shorter
+Relatively higher
+Significantly lowerand construction periods are significantly longer, and if no revenues are available to the project during construction, the rolled-up interest will form a significant part of the overall cost to be financed. In the Channel Tunnel project, the construction work will take 7 years and the project sponsors have to borrow $1.7 billion to meet the capitalized interest and financing costs over the 55-year concession period. The consequence of these distinct characteristics in infrastructure projects is that project returns to lenders can be very susceptible to delay in the completion of the project.
+  These serve to emphasize that any infrastructure project can be viewed as two distinct projects: a relatively high-risk construction project and a relatively low-risk utility project (Fig. 3). After commencement ofconstruction, the amount of risks begins to increase sharply as funds are advanced to purchase materials, labour and equipment. Interest charges on loans to finance constuction also begin to accumulate. The risks would peak in the early operational years when the projects are under the greatest pressure due to peak debt servicing when the highest interest burden occurs. Once the project is running to specification, the revenues would be collected from toll fees, debts would be paid and the project sponsors would recover their investment with profits. This is in contrast to most industrial projects where the risk of product obsolescence and competitor response usually leads to market risks dominating, especially when the operation and maintenance costs are high and the concession period is short.
+                                               Transfer Cost $	Construction Phase	to Govt.
+(millions)
+140 120 100
+80
+60
+40
+20
+Fig. 3. Risk phases in a BOT project financing
+  Where this characteristic risk profile of an infrastructure project is apparent, the yield expected by investors such as contractors and private institutions must similarly come in two distinct forms: a high-yield pre-completion and a somewhat lower yield post-completion. The earlier yield should be realized predominantly in the form of capital appreciation of the project's net worth, which rises as the construction risks fall away; the later yield should be realized predominantly in the form of dividends, once the project is a generator of cash (Syrett, 1987).
+Allocation of risks
+Given the complexity of such schemes and the magnitude of funds involved, it is important for project sponsors to establish and adhere to the following principles in structuring BOT projects:
+1. identify the key risks,
+2. evaluate the level of acceptability of each risk,
+3. allocate the risks to the different parties involved (Fig. 4).
+The analysis and allocation of risk is central to the structuring of a BOT project financing. In the first instance, the objective must be to minimize the risks associated with the project, for example, by adequate geological, technical and market studies. Thereafter, the process is one of insuring, controlling and apportioning risks according to the parties' willingness to bear them.
+
+Fig. 4. Allocation of project risks
+Table 3. Risks and solutions during construction phases
+Construction phaseRisksSolutionsCompletion delays
+Cost overruns
+Force majeure
+Political risk
+InfrastructureExperienced turnkey contractor
+Penalties, liquidated damages
+Completion/performance guarantees Proven technology
+Fixed-price/lump-sum contracts
+Standby credit
+Increased equity
+Insurance
+Government indemnities
+Insurance
+Export credit agency cover
+Government assurances  Tables 3 and 4 show the basic risks that would occur and the techniques that could be used by the project sponsors during the construction and operation phases to ensure that the risks are equitably distributed. The main purpose of the security package is therefore to overcome and find acceptable solutions to the problems arising from these basic areas of risk. For the
+Table 4. Risks and solutions during operation phase
+Operation phaseRisksSolutionsRaw material supply
+Market
+Performance/technical
+Operations/maintenance
+Foreign exchange
+Other contingenciesFeedstock contracts
+Market study
+Offtake agreements
+Joint venture with offtaker
+Proven technology Performance guarantees
+Contractor's equity
+Deficiency agreement
+Contractor/licensor involvement
+Experienced operator
+Flexible price formula
+Central bank assurances
+Swaps
+Escrow accounts
+Government support
+Covenantsproject to succeed, each of the parties involved must remain interconnected by the terms of the required contracts and agreements with the project company acting as the hub of the security package (Fig. 5). If a breakage were to occur at any stage, it would clearly put the project in jeopardy. In the case of the Channel Tunnel, a supervisory body, Maitre D'oeuvre was formed to advise on all aspects of the construction contract, settle disputes between Eurotunnel and contractors, and provide independent reporting to all parties concerned (Fig. 6).
+  Putting these networks in place is a tremendously complex process of allocating risks and securities among all the project participants. The process will only work if all participants are committed to the goal of successful project implementation, which requires that each party has meaningful contractual incentives and securities to help solve the unforeseen difficulties that will emerge over the course of a 20- or 30-year project. This means that all project risks must be adequately covered.
+  The three major categories of risks which deserve careful consideration by the project sponsors are the financing risk, political risk and technical risk.
+Financing risks and securities
+One key area to the successful implementation of the BOT concept is the raising of finance. However, the most diffcult issue faced by project sponsors in raising debt for projects in developing countries is the lender's requirement of host government's support. Thus although the projects are in the private sector, some government guarantees are generally
+
+
+Fig. 6. Project structure of Channel Tunnel
+required to attract financing. For example, an undertaking from the government that new restrictions will not be placed on a toll structure at some later date, could be vital for securing finance. When BOT was first applied by the Turkish government to the $652 million Akkuyu reactor plant project, it failed to raise the finance due to insuffcient government guarantees.
+  The project sponsors should negotiate the following assistance and incentives from the host government:
+1. Foreign exchange guarantees
+Loans made available for projects in developing countries would generally be in hard currency loans. Repayments would therefore also have to be made in hard currency. One of the major problems in infrastructure projects is that they will not generate any income in hard currency. Thus the remittance guarantees would be necessary to enable the project sponsors to remit freely all project revenues including dividends. Guarantees of foreign exchange covertibility and availability should also be obtained from the host government or its central bank. In the Malaysian $1.8 billion North—South Expressway, the government provided the operating company with the guarantee that it would make up the shortfall if the exchange rate dropped by more than 15% against the rates at the time of drawdown offunds.
+2. Offshore escrow account
+The project sponsors should seek government's co-operation in establishing an offshore escrow account into which all project revenues and foreign loans should be paid. The rights and obligations of the local bank to deal in foreign currencies should be spelled out in an agreement with the central bank. This will ensure smooth flow of capital and revenues to all parties concerned during the concession period (Fig. 7).
+3. Offtake agreement
+In industrial projects, lenders want to make sure that the sale of the product could generate sumcient revenues to pay their loans. The government could guarantee the obligations under such take-or-pay or take-and-pay contracts to purchase the product on defined terms and price formulae. For the $517 million power plant project at Shajiao, China, which was funded on a BOT basis, the government agreed to purchase a minimum quantity of electricity on a 'take-and-pay' basis and to pay the sponsors a fixed price per kilowatt-hour over the concession period.
+  However, infrastructure projects are often unable to provide this level of security of cash flow. Banks and lenders have to look to the tramc projections and revenue sensitivity in relation to various market scenarios to form their judgement of security and return. In such cases, the host government could guarantee a minimum tramc volume or minimum operation income. In the case of the Malaysian expressway, the government has agreed to provide additional finance if tramc volume falls below projection in the first 17 years of operation. As there would be no direct government guarantees for repayment of the project loans, these contractual undertakings would serve as the project's fundamental credit support to lenders. To avoid the foreign exchange risk, a flexible price formula linked to foreign currency movement or inflation would be appropriate. Toll rates on the Malaysian expressway are pre-set until 1995, after which any further increase will be tied to the country's consumer price index.
+
+Kg
+
+uu.rß to in—tors I letders
+Opratiq ald cotstNction cash floc
+Fig. 7. Cashflows in BOT projects
+4. Feedstock agreement
+The risk of raw materials being unavailable or unacceptable could be covered by the feedstock contract which guarantees supply of the required raw materials, e.g. gas or oil, at competitive prices to enable the facility to run smoothly and compete successfully in the markets. For the Chinese power plant project, the government agreed to arrange the supply of coal over the concession period at a fixed price per tonne.
+  The above government agreements will assure the lenders that the project revenues under the offtake agreement will be able to service the repayments under the loan agreement. Another incentive that is usually given by the government in BOT schemes is the concession for project sponsors to operate exisiting toll-operated facilities. This guarantees immediate cashflows from the project and repayments to the lenders and investors. Such is the case with the Malaysian project, which was given the concession to operate 309 km of the existing expressway. This generated a toll income of $1.6 million a month for the project sponsors.
+  A provision commonly incorporated in loan agreements is retention of title until the debt has been completely paid. This frequently poses problems to both lenders and contractors involved in BOT projects because, according to the laws in force in most countries, all physical assets that are firmly attached to a plot of land belong to the landowner, that is the host government. Should the project fail, the assets will therefore immediately revert to the government and the concession will be revoked without compensation. This means that the conventional form of security available to lenders is valueless. Other more appropriate clauses or guarantees must be provided by the project sponsors or government. For the Channel Tunnel project, the principal security for the banks take the form of:
+
+  1. fixed charges over concession, agreements, facilities, fixed assets and shares in project company,
+  2. floating charge over all property,
+  3. assignment of insurances and revenue,
+  4. charges on all bank accounts,
+  5. assignment of revenue.
+Thus tremendous powers are vested upon the banks. If their interests are at risk, they can take charge of Eurotunnel and sell its assets or they can replace the Board of Eurotunnel with their own nominees to rescue the situation.
+  Another financing risk is overrun, i.e. when the construction costs exceed the original estimates due to factors such as inflation and material shortages, and drawdowns from loans cannot match the payments to contractors. These overruns can range from 5% to 300% of original costs (Castle, 1975). This can create serious problems in a BOT project financing where the ability of the expected revenues to cover operating costs and debts is dependent upon the assumed cost of the project. This risk can be covered in the following ways:
+1. additional capital by project sponsors,
+2. standby credit facility from original lenders,
+3. fixed-price contracts from contractors,
+4. sponsors' escrow fund for completion.
+  It is unusual for a project to obtain unlimited funds to cover all contingencies but a wellprepared project will make adequate over-provision. The Eurotunnel, for example, planned for a 25% over-funding, an amount of $1.7 billion (Table 5).
+Table 5. Sources of funds for Channel Tunnel project
+Financing (l)Sources (2)Amount (3)Remarks (4)Equity
+Debt (loans)Banks and contractors
+Private institutions Public investors
+Public investors
+Public investors
+Commercial banks
+Commercial banks$80 mil
+$370 mil
+$800 mil
+$275 mil
+$275 mil
+$6800 mil
+$1700 milFounder shareholders
+1st tranche (end 1986) 2nd tranche (end 1987)
+3rd tranche (end 1988)
+4th tranche (end 1989)
+Main facility
+Standby facility
+Total = $10.3 billionPolitical risk and securities
+The political risk is probably the most significant risk faced by a BOT financial project as it in turn has a significant impact on all the other risks to be considered. In some developing countries, political risk can range from labour unrest and embargo of construction equipment to outright expropriation. Construction companies could be forced into bankruptcy by a political decision to stop work on a project at a critical stage. During the
+Co ri ht 
+first few years of the Iran—Iraq war, many projects had to be cancelled or abandoned and banks had to write off millions in development costs. One such project was the $4.5 billion Bandar Khomeni petrochemical complex in Iran which was abandoned after successive air raids and Mitsui bank of Japan had to write off $1 billion against the project in 1987 (Evans, 1988).
+  There are ways in which companies can protect themselves when investing in BOT projects in potentially unstable countries:
+  1. Obtain a concession agreement from the government which will allow the project sponsors freely to exploit the particular investment for a given period of time.
+  2. Form a consortium of international investors and lenders so that expropriation of the project facility will result in default of a number of international loans and jeopardize the country's credit rating to an unacceptable degree (Nevitt, 1983).
+  3. Political risk insurance by government agencies such as the US's Overseas Private Investment Corporation (OPIC) and the UK's Export Credits Guarantee Department (ECGD).
+  4. Financial undertakings by the host government. These provide for the government to take over outstanding debt and other financial obligations in the event offorce majeure.
+Technical risks and securities
+In return for the financial and political guarantees by the government and investors, the project sponsors should provide the basic security for the completion and operating risks that are within their control. Their responsibilities would be to cover the following risks.
+1. Completion delays
+The inability of contractors to complete a project within the time span originally planned is as common as cost overruns. The completion delays can range from as short a time as a month to as long as 20 months and sometimes the projects are abandoned (Castle, 1975).
+  The project sponsors could commit to the successful construction and completion of the facility. This could be done through lump-sum contracts to experienced turnkey contractors, using proven technology and within an agreed time schedule. In the Chinese project, the sponsor, Hopewell Holding of Hong Kong, offered in its winning bid to build the plant on a turnkey basis and on a shorter time period than the other proposals even though it had no previous experience in power plant projects. It then negotiated a turnkey contract with a consortium of equipment suppliers and contractors and completed the project 6 months ahead of schedule (Lum, 1988). Contractors could also be required to provide completion guarantees and assume responsibilities for delays arising within their control. They should be asked to provide performance bonds, advance payment guarantees/bonds, and retention money guarantees/bonds.
+2. Operation and maintenance risks
+After completion there should be a warranty period, normally 12 months from handing over the system, for the contractors to rectify any defects in materials and workmanship. For contractors, the maintenance bonds will provide a source of funds for the remedial work.
+
+  Once in operation, production ineffciencies or stoppages can jeopardize the flow of product through the conversion process. The following factors would be essential for the successful operation and management of the facility: proven technology, qualified staff, experienced operator, and valid government licences.
+Conclusion
+The BOT model for project financing has shown to be a successful alternative to conventional financing methods in various countries. For the project sponsors to structure a winning proposal based on the BOT approach, a number of prerequisites are required: strong government support, stable currency, stable economic system and the project must be both technically feasible and economically viable. Considerable co-operation between the host government and private sector insititutions is essential for each of the project participants to take the risks they are best suited commercially and politically equipped to assume. The project sponsors must evaluate and allocate the financing, political and technical risks to the various parties involved and each participant must have suffcient contractual incentives and securities to be committed to the project. Indeed, the key to a successful BOT project financing is structuring the project finance with as little recourse as possible to the sponsors or government, while at the same time providing sumcient guarantees and undertakings so that lenders will be satisfied with the credit risk.
+Acknowledgement
+The author wishes to thank Mr James Neal of Morgan Grenfell (Singapore) for providing useful information on BOT projects.
+References
+Barrett, M. (1986) Project finance develops new risks, Euromoney, London, October, pp. 9—18.
+Bueker, H.H. (1988) Business opportunities in the pipline transmission system through BOT, Asian Conference on Planning, Packaging & Implementing BOT Projects, Singapore.
+Castle, R.G. (1975) Project financing — guidelines for the commercial banker, J. Commerical Bank Lending, April, pp. 14—30.
+Evans, R. (1988) Renaissance in the gulf? Euromoney, London, October, pp. 27—32.
+Heywood, P. et al. (1988) Hard chalk slows channel bore, Engineering News Record 112 (18), pp. 32—9. Lum, S.D. (1988) Structuring and implementing successful BOT energy projects, Asian Conference on Planning, Packaging & Implementing BOT Projects, Singapore.
+Neil, J. (1988) Security from a lender's perspective, Seminar on Financial Packaging for Contractors in International Markets, Singapore.
+Nevitt, K.P. (1983) Criteria for a successful project financing. In Project Financing. Euromoney Publications, London, 9—18.
+Private team to tunnel under Sydney Harbor (1987) Engineering News Record 218 (13), 8.
+Syrett, S. (1987) Role of financing institutions in privatisation projects, International Seminar on The Current of Privatisation in Overseas Projects, Tokyo.
+Tiong, R.L.K. (1988) Structuring ofloan packages for international construction projects, J. Institution of Engineers, Malaysia 42, pp. 28—34.
+Tiong, R.L.K. (1987) International Project Financing, thesis presented to University of California, Berkeley, in partial fulfilment of the requirement for the degree of Master of Engineering.
+Tiong, R.L.K. (1990) Comparative study of BOT projects. J. Management in Engineering, ASCE 6 (1 ), 107-122.
+
+	316	Tiong
+
+BOT projects: Risks and securities	317
+
+Copyright 0 2001 . All Rights Reserved.
+
+Copyright 0 2001 . All Rights Reserved.
+
+
+
+Copyright 0 2001 . All Rights Reserved.
+
+	316	Tiong
+
+BOT projects: Risks and securities	317
+
+Copyright 0 2001 . All Rights Reserved.
+
+Copyright 0 2001 . All Rights Reserved.
+
+BOT projects: Risks and securities	317
+
+0 2001 . All Rights Reserved.
+

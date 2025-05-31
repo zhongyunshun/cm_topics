@@ -1,0 +1,362 @@
+﻿This is the Pre-Published Version.
+A paper submitted to Journal of Management in Engineering, ASCE  
+(Third submission) 
+ 
+From Construction Megaproject Management to Complex Project Management: A Bibliographic Analysis 
+ 
+Yi HU 1, Albert P. C. Chan2, Yun LE3, Run-zhi JIN 4 
+1Ph.D. Student, Department of Building and Real Estate, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong, China 
+ 
+2 Professor and Associate Dean, Faculty of Construction and Environment, The Hong Kong 
+Polytechnic University, Hung Hom, Kowloon, Hong Kong, China 
+ 
+3 Professor and Head, Department of Construction Management and Real Estate, Tongji University, Shanghai 200092, China 
+ 
+4 Ph.D. Student, Department of Architectural Engineering, University of Seoul, Seoul, Republic of Korea 
+ 
+Abstract 
+The rapid growth of construction megaprojects worldwide has triggered a growing number of papers published in this area in the past two decades, suggesting that construction megaproject management has become an emerging area in the field of Construction Engineering and Management (CEM). This study aims to investigate the status and the trends in megaproject research by conducting a structured literature review. Eighty-five relevant articles identified from eight peer-reviewed CEM journals between 2000 and 2010 were analyzed based on the number of articles published annually, institutional and regional contributions, citations, and categorization of research interests and methodologies. Analysis results indicated that developed countries, such as the UK, the US, and Australia, have enjoyed significant advantages in megaproject research because of their longer experience, meanwhile, megaproject research in developing countries, such as Russia, India, Turkey, and Vietnam, remains weak or lacking. These results also revealed that many theory-based findings have been reported in five sub-areas, namely, construction and site management, cost and schedule management, risks analysis and management, innovation and utilization of information technology, and leadership and professional development. The sub-areas of organization and stakeholder management, project planning and procurement, and project monitoring and control remain to be promising domains for future research, particularly in developing countries which have yet to develop a research tradition. Incorporating the complexity theory and institutional theory as the theoretical foundation in these sub-areas can further develop megaproject research through strengthened global collaboration in the future. 
+Keywords: construction megaproject management; literature review; complex project 
+management; institutional theory. 
+ 
+Introduction 
+Rapid global urbanization has triggered another round of investment boom in construction megaprojects. From 1990 to 2008, the global urban population grew at an annual rate of 2.2% (World Bank 2010). Thus, the ever-increasing demand for infrastructure, primarily in developing countries, yielded huge investments in urban and infrastructure megaprojects, such as in water and sewage, electricity, transportation, and telecommunications. Major developing countries are predicted to invest another USD 22 trillion in infrastructure from 2008 to2017 (Fig. 1) (Economist 2008). Meanwhile infrastructure systems in major developed countries have deteriorated and are under renewal (Scott et al. 2011). Thus, a global megaproject boom is under way (Economist 2008).  (Please insert Fig.1 here) 
+    Since the early 2000s, construction megaprojects have become an emerging area in the field of Construction Engineering and Management (CEM). This emergence originated from research initiatives on the issues of megaproject investment in the urban US during the 1950s and 1960s (Altshuler and Luberoff 2003). These issues received increased attention from the academic community, as civic and infrastructure megaprojects continued to grow in major developed countries since the 1970s, and later emerged in developing countries (Merrow 1988; Flyvbjerg et al. 2003). Flyvbjerg et al. (2003) observed that megaprojects in developing countries also face risks, such as cost overruns, safety incidents and quality defects, similar to those in developed countries. Thus the management of megaprojects is a global challenge common to both developed and developing countries.  
+    The fast growth of megaprojects worldwide has been accompanied by a growing number of relevant papers published in peer-reviewed CEM journals.  This paper aims to review megaproject literature in the CEM field between 2000 and 2010 (inclusive), assess the state of megaproject research, and identify future trends in this area. This paper aims to address the following questions: 
+1) What was the coverage of megaproject research published in CEM journals from 2000 to 2010? 
+2) What did authors from different countries (regions) contribute to megaproject research in the same period? 
+3) How did the interests, methodologies, and research trend of megaproject-related papers evolve in this period? 
+ 
+Definition of Construction Megaprojects 
+Viewpoints of Governments and Industries 
+Construction megaproject is a social construct referring to a large-scale and complex construction project (Altshuler and Luberoff 2003). Most definitions of megaprojects are provided by governments and industry directives. One of the most widely-accepted definitions is that given by the US Department of Transportation: a megaproject is a project with at least a USD 1 billion budget (DTOIG 2001). The US Federal Highway Administration (FHA) later gave a detailed definition of megaprojects:  
+“major infrastructure projects that cost more than 1 billion USD, or projects of a significant cost that attract a high level of public attention or political interest because of substantial direct and indirect impacts on the community, environment, and state budgets” (Capka 2006). 
+    The project cost threshold of USD 1 billion is increasingly advocated worldwide as the key criterion for defining a megaproject (Flyvbjerg et al. 2003; van Marrewijk et al. 2008). In European Union countries, the International Project Management Association (IPMA) (2011) designated a cost threshold of EUR100 million as the basis for defining megaprojects across all industries.  
+    “Major project” or “major program(me)” is another term frequently used to define large public projects in several countries, such as the US, the UK, and China. These items are sometimes used interchangeably with “megaproject” (Haynes 2002). Even in the US, where megaprojects originated, the FHA designated “major project” as a separate category and megaproject as its sub-category in a new act, Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, which took effect in 2005. Thus, a major project is defined as “a project with a total estimated cost of USD 500 million or more that is receiving financial assistance” (FHA 2005). South Korea also adopted this threshold in defining an urban renewal megaproject (Hyun et al. 2009). In China, major national projects usually involve government-funded projects approved by the National Development and Reform Commission (NDRC), with a total investment of RMB 5 billion, or approximately USD 754 million [National Development and Plan Commission (NDPC) 2002; NDRC 2004]. This amount is near the widely accepted USD 1 billion megaproject threshold.  
+    Flyvbjerg (2009) estimated the cost of a megaproject to be within the range of USD 500 million to 1 billion when specific factors, such as scale, economy, and income, are considered. However, this cost threshold only applies to major developed countries, because its application may be difficult for several developing countries whose GDPs are only a few billion US dollars. Thus, the relationships between the megaproject cost threshold and GDP in the above countries were further examined in terms of cost-GDP ratios (Table 1). Most megaproject cost-GDP ratios are between 0.01% and 0.02%. 
+Therefore, 0.01% of GDP is suggested worldwide as a reasonable criterion to replace Flyvbjerg’s 
+(2009) criterion in defining megaprojects. 
+(Please insert Table 1 here) 
+ 
+Viewpoints of Academics 
+Construction megaprojects intrinsically exhibit highly complex characteristics and are theoretically viewed as complex projects. The management of complex projects originated from complexity theory (Whitty and Maylor 2009), a well-known physical theory developed by the Santa Fe Institute in the 1980s to solve complex real-world cross-discipline problems, such as those in astronomy, biology, and economy (Waldrop 1992; Ziemelis 2001). This theory has been applied to project management since the late 1990s (Baccarini 1996; Williams 2002). A growing number of complex projects are emerging nowadays because of the increasing complexity in project scope and environment (Fiori and Kovaka 2005; Remington and Pollack 2007). Complex projects can be viewed as complex systems formed from many components with emergent behavior. One of the most popular frameworks for complex projects is that provided by Remington and Pollack (2007). In this framework, project complexity is classified into four categories, namely, structural, technical, directional, and temporal complexity.  
+    A megaproject is a typical example of a complex project (Remington and Pollack 2007). Thus, the theory on complex project management can be applied to megaproject research as well. Fiori and Kovaka (2005) developed a five-criterion framework to define megaprojects: cost, complexity, risk, ideals and visibility. Case studies of six megaprojects constructed in the US, Japan, and Taiwan that used this framework revealed that construction megaprojects are primarily characterized by huge cost, high complexity and uncertainty. Brockmann and Girmscheid (2007) further categorized the complexity of megaprojects into three groups: task, social, and cultural complexity. Bruijn and Leijten (2008) provided a similar framework by citing technical complexity, social complexity, and complexities from implementation management to define the complexity of megaprojects. 
+    A megaproject can also refer to a program that includes two or more projects and requires close cooperation among these projects (Archibald 2003). Shehu and Akintoye (2010) noted that a construction megaproject is a typical example of a program in the construction industry. Remington and Pollack (2008) stated that programs can also be typical forms of complex projects.   
+Research Methodology 
+This work adopted a structured method advocated by Ke et al. (2009) to identify and assess the major outputs of megaproject research published in peer-reviewed journals. The entire research process included three phases.  
+    In Phase 1, comprehensive exploratory desktop searches were conducted through the Web of Science (WoS) and Scopus search engines to identify the peer-reviewed journals with the most number of megaproject articles published in the CEM field. These search engines are the world’s largest web sources of peer-reviewed literature, covering over 10,000 journals. Based on the abovementioned definitions of construction megaprojects, the common keywords of “megaproject,” 
+“mega project,” “large project,” “major project,” and “complex project” were used in the “title/abstract/keyword” field under the “engineering, environment, energy, and business” sub-area of the search engines. Six journals in the CEM field were identified as the journals with the most megaproject articles published. These journals include the International Journal of Project 
+Management (IJPM), Journal of Construction Engineering and Management (JCEM), Construction 
+Management and Economics (CME), Proceedings of the Institution of Civil Engineers- Civil 
+Engineering (PICE-CE), Leadership and Management in Engineering (LME), and Project Management Journal (PMJ). Most of these journals were among the top eight journals in Chau’s (1997) ranking. Two journals from this ranking were also added to our list of selected journals: 
+Engineering, Construction and Architectural Management (ECAM) and Journal of Management in Engineering (JME).Thus, the final list of target journals includes eight peer-reviewed construction journals: IJPM, JCEM, CME, PICE-CE, LME, PMJ, ECAM, and JME. 
+In Phase 2, megaproject articles in each selected journal were thoroughly searched. Two other 
+
+160 databases, namely, EBSCO (for PMJ) and Informaworld (for ECAM), were because the Scopus and 
+161 WoS did not contain a full record of papers published in PMJ and ECAM between 2000 and 2010. A 162 total of 85 articles from 2000 to 2010 were identified as valid from the eight selected journals.  
+163 In Phase 3, the 85 articles were quantitatively analyzed to determine their contribution by year, 
+164 country, author, institution, and citation. The scoring method developed by Howard et al.’s (1987) 
+165 was used to assess the contribution value of each author in multi-authored articles. In this method, 
+166 the credit of authors listed in the same article is calculated based on the order of authorship, as shown 
+167 in Eq. (1): 
+1.5n i
+Score
+168 n 1.5n i                    (1) 
+i1
+169 where n is the number of authors in the article; and i is the order of the specific author.  170 The detailed score matrix for the authors is provided in Table 2. This scoring method was also 
+171 	adopted by Ke et al. (2008) and Hong et al. (2012). 
+172 	(Please insert Table 2 here) 
+173 	 
+174 Citations of journal articles were used as a key index to assess research quality (Hong et al. 
+175 2012). Given that both Scopus and WoS did not cover all 85 articles identified in the eight selected 
+176 journals, Google Scholar was used to determine the citation status of the journal articles identified. 
+177 Although Google Scholar only provides an indirect citation report, its powerful search function is a 
+178 simple yet thorough channel used to acquire such citation reports. Research interests and methods 
+179 were then categorized to identify their evolutions in the past decade, and the relationships between 
+180 research topics and methods were examined. Future research directions were also discussed. 
+
+Although these analyses do not provide all the details on the 85 megaproject papers, they present an overall picture of megaproject research from 2000 to 2010, and thus are expected to guide and benefit future research. 
+ 
+Discussions of Search Result 
+Annual Productivity of Construction Journals based on Megaproject Articles 
+The total number of megaproject articles identified by Scopus and WoS in Phase 1 was 685 and 200, respectively. Scopus identified a greater number of megaproject papers than WoS because WoS has a more detailed sub-area classification system than Scopus. More specific searches into each of the selected journals revealed that among the 4,459 articles published in the eight selected journals, 85 (1.91%) addressed megaproject topics or associated issues with an obviously increasing trend from 3 in 2000 to 12 in 2010. The data in Table 3 suggest that by the 21st century, megaproject research has emerged as an increasingly important area in the CEM field. In particular, the number of megaproject papers published between 2006 and 2010 (49) was nearly double the number of those published between 2000 and 2004 (27). Table 3 indicates the consistent growth of interest research as a result of the fast growth of megaprojects. 
+(Please insert Table 3 here) 
+ 
+    The number of megaproject articles published in the eight selected journals between 2000 and 2010 is also indicated in Table 3. Four journals, namely, IJPM, PMJ, JCEM, and ECAM, published the most number of megaproject articles within the selected period (25, 18, 14 and 11 articles, respectively; 80% of all 85 papers identified in the journals). The number of papers published in each of the four journals was greater than the average number (10.6) of papers published in the eight journals. IJPM published 25 megaproject articles, which accounted for nearly 30% of all 85 papers, and contributed the most to megaproject research in the past decade. Table 3 also reflects that megaproject papers published in PMJ accounted for 5.73% of the total number of papers published in 
+PMJ during the selected period, higher than that in any of the other selected journals. IJPM and ECAM followed with a percentage of 3.29% and 2.76% respectively. Therefore, these four journals can be regarded as the most important sources to publish and acquire megaproject papers. 
+Contributions of Countries/Regions and Institutions to Megaproject Research 
+Hong et al. (2012) stated that the number of academic research publications in a country  or region implies the extent to which industrial development and practices in the research areas progress in that particular location. Thus, the analysis of research contributions of a country -or region and its affiliated institutions can obtain a collective view of the current status of industry development and practices in that particular location. In this study, the research contributions of each country or region and research institutions (universities) were analyzed by accumulating the score of each researcher’s contributions to megaproject research. The method to compute the score of each researcher’s contribution (as mentioned in the Research Methodology section) was the primary tool used to conduct this analysis. The sum of the contribution values of all researchers within identical origins was used as the final score of that origin. In addition, the contribution value of one researcher with two origins from different countries was divided into two equal parts pertaining to two origins.  (Please insert Table 4 here) 
+ 
+In Table 4, the countries or regions of origin of megaproject articles are outlined with the numbers of research institutions and their affiliated researchers, the total number of megaproject papers published, and the score for each origin. The 85 papers identified involved 31 countries and regions, of which 22 were developed countries and regions (including Taiwan) and nine were developing countries (United Nations Development Program [UNDP] 2010), which also include major construction markets and most emerging construction markets in the world (Global 
+Construction Perspectives [GCP] and Oxford Economics [OE] 2009). This finding reinforces Flyvbjerg’s (2003) observation that megaprojects have become a global phenomenon. On average, each country/region published 2.7 papers. The 22 developed countries and regions published 70 papers (82%), with a total score of 75.2, and a mean of 3.4 (75.2/22) papers per country; this value is higher than the average level of all 31 countries and regions. By contrast, the nine developing countries published only 15 papers (18%), with a total score of 9.8, and a mean of 1.1 papers per country. The huge difference between the developing and developed countries (regions) may be due to the fact that most developed countries and regions have practiced megaproject research for a longer time than developing countries. In addition, the total score of the nine developing countries 
+(9.84) is much lower than that of the 22 developed countries (15.00). Moreover, approximately, 60% (9/15) of the papers were co-authored with researchers from developed countries, indicating that a number of developing countries were trying to establish megaproject research through international collaborations in response to the gradual emergence of construction megaprojects in these locations. Among the eight developing countries that published less papers than the average level (2.7 papers), India, Turkey, and Vietnam are predicted to be among the top six construction markets to experience the highest growth in 2009-2014. Thus, these countries should strengthen their megaproject research. 
+Five countries listed among the 15 biggest construction markets but excluded in the list of involved countries in Table 4 (GCP and OE 2009) (i.e., Spain, Russia, South Korea, Brazil and Indonesia) need to establish megaproject research in their research institutions. An imbalance in megaproject research was also observed among developed countries and regions.  
+     The contribution of countries and regions were further examined. Among all the countries and regions, the UK, the US, and Australia (with scores of 17.61, 11.11, and 8.87, respectively) published the greatest number of megaproject articles in the eight journals within the selected period. Among the 46 papers published by these countries, 26 were published with the first authorship in these countries, accounting for 78.26% of all the papers. ) Thus, these countries are considered the main centers of megaproject research. These findings can be considered logical and understandable when the construction market scales in the world are examined (GCP and OE 2009). The fast growth of megaproject practices has greatly boosted the development of megaproject research in major developed countries.   
+(Please insert Table 5 here) 
+ 
+    Table 5 shows the top 10 research institutions with the highest number of megaproject papers published in the selected period. These research institutions represented 13.2% of all 76 research institutions involved. However, their overall contribution score was 25.6% of all megaproject papers published in the target journals between 2000 and 2010. The total number of researchers in the 10 universities represented 26.2% of all the researchers involved. The average number of researchers in these 10 universities was 4.4 persons, twice that of researchers in all research institutions involved (2.2 persons). As shown in Table 4, the University of Hong Kong (four articles published) ranked first among all the identified research institutions, with a score of 2.78. The National University of Singapore and Vrije Universiteit of the Netherlands ranked second and third, respectively. These universities have played essential roles in megaproject research in their geographic locations and throughout the world. However, the contribution of each of the 10 universities remained very limited. For instance, the University of Hong Kong published only four articles and obtained a contribution score of only 2.78, which was a small margin relative to those of other research institutions. In addition, a growing number of top universities in different countries and regions have established separate research centers to strengthen megaproject research. For instance, Stanford University established a multidiscipline megaproject research center in 2002 called the Collaboratory for Research on Global Projects. This center has extended the global collaborative research network not only to other universities across the US such as the University of Pennsylvania and the University of 
+Colorado at Boulder, but also to those outside the US, such as Alto University and the University of Oulu in Finland and the Indian Institute of Technology (Scott et al. 2011). In 2008, Oxford University established the Center for Major Program Management at the Saïd Business School in partnership with British Telecom. In 2010, Manchester University established the Center for Infrastructure Development at its business school. In China which is predicted to be the biggest investor in megaprojects in the future, Tongji University (an active participant in China’s construction megaprojects) established the Research Institute for Complex Engineering Management in 2011 to strengthen megaproject research. These research institutions will play a growing important role in megaproject research in the future.  
+ (Please insert Table 6 here) 
+ 
+Although using citations as a measure of research quality has raised some controversy (Kostoff 1998), this method has been increasingly adopted as the key indicator for measuring the quality of papers published in the CEM field (Ke et al. 2009; Hong et al. 2012). Therefore, the citations of relevant papers published in the target journals were examined. Table 6 shows the citation status of the articles identified from the eight journals. IJPM ranked first with 14.2 citations per article, followed by PMJ and ECAM with 10.5 and 10.0 citations per article respectively. The average number of citations of megaproject papers in each of the three journals was higher than that of citations of (9.8 citations per paper) of all 85 papers. Thus these three journals not only published the most megaproject papers in the selected period, but also the highest-quality megaproject papers.  (Please insert Table 7 here) 
+ 
+    The top 10 articles ranked by citation are listed in Table 7. Most of these articles were published in IJPM, PMJ, JCEM and ECAM, reinforcing the observation that these four journals published not only the most number of megaproject papers but also the most important and influential articles in the selected period. The paper by van Marrewijk et al. (2008) entitled “Managing public-private megaprojects: Paradoxes, complexity, and project design,” ranked seventh, with a citation of 30 times in the list of IJPM’s most cited papers given by Scopus (retrieved on March 11, 2013). Although these analyses may not fully reflect the citation status of journal articles published recently, megaproject research can be construed to an increasingly important area in the CEM field. 
+Categories of Research Interests in Megaproject Research 
+CEM publications have witnessed an increasing trend in megaproject research, with topics covering a wide scope from theoretical development to practical application. Megaproject research interests involve nine topics suggested by Themistocleous and Wearne (2000)(Table 8). 
+(Please insert Table 8 here) 
+ 
+    Organization and stakeholder management ranked first among the nine topics with 17 papers involved. Morris et al. (2011) stressed the importance of the new paradigm of viewing projects as organizations in project management studies and that this new research paradigm is the principal shift of the focus on project management studies. Table 8 shows that relevant papers focused on integrating activities and stakeholders across different organizational and disciplinary domains to improve megaproject performance, including stakeholder management (Awakul and Ogunlana 2002; 
+Leung et al. 2004; Helm and Reminton 2005; Ruuska et al. 2009), project partnership (Cathcart 2003; Anderson Jr. et al. 2006; Alderman and Ivory 2007; van Marrewijk et al. 2008), communication management (Murtoaro and Kujala 2007; Tai et al. 2009), team management (Dzeng and Wen 2005; van Marrewijk 2007), organizational governance and integration (Berggren et al. 2001; Klakegg et al. 2008; Miller and Hobbs 2005), and organizational learning and innovation (Lê and Brønn 2007; Winch 2000).  
+    Scope and procurement management also received the highest ranking with 17 papers involved. This topic is essential for clients in managing megaproject success. Relevant papers primarily dealt with  the tasks of defining project scope, breaking down the megaproject into several manageable packages and outsourcing these work packages to contractors, including objective and scope management (Ahmad et al. 2003; Nguyen et al. 2004; Beheiry et al. 2006; Zhai et al. 2009; Toor and 
+Ogunlana 2010), decision management (Ng et al. 2004; Jergeas 2008; Genadioand Singh 2010; Williams and Samset 2010), procurement methods (such as design and build, engineering procurement construction and build-operate-transfer) (Tam 2000; Lampel 2001; Kumaraswamy and Morris 2002; Ling and Lau 2002; Algarni et al. 2007), and contract management (von Branconi and Loch 2004; Badenfelt 2008; Rose and Manley 2010). Table 7 shows that the relevant studies have nearly gone through the entire period and received increased interest.  
+    The number of papers on cost and schedule management ranked third out of the 85 megaproject papers. Flyvbjerg et al. (2003) stated that cost overruns and time delay are the primary risks faced by construction megaprojects. Thus, this topic has received great attention in the past decade. Research interest in this aspect was grouped into the following categories: cost overrun analysis (Eden et al. 2005; Creedy et al. 2010), delay analysis (Williams 2003; Toor and Ogunlana 2008), optimization and modeling (Wang and Demsetz 2000; Hardie 2001; Liu and Rahbar 2004; Vanhoucke et al. 2005; Touran and Lopez 2006; Bonnal et al. 2006; Yang 2007; Zammori et al. 2009), and performance management (Walker and Shen 2002; Yang et al. 2006).  
+    Construction and site management ranked fourth (with 10 papers involved) among all megaproject papers. The interest in this area primarily included safety management (Chua and Goh 
+2005; Rajendran and Gambatese 2009), labor and construction productivity (Elhakeem and Hegazy 
+2005; Aziz 2008; Helen et al. 2010), quality and material management (Ibn-Homaid 2002; Keeling 
+2003), and construction technology and management (Attar et al. 2009; Chakraborty 2009; Hassanain 2009). These studies addressed the practical issues in the megaproject construction; these issues are indispensable to the execution management of construction megaprojects. 
+    Risk analysis and management took the fifth place with eight papers involved. This topic has been advocated as a critical aspect in managing megaprojects (Miller and Lessard 2000; Flyvbjerg et al. 2003; Fiori and Kovaka 2005). Specific topics of the identified papers included risk identification 
+(Santoso et al. 2003; Busby and Hughes 2004; de Camprieu et al. 2007; Krane et al. 2010), risk measurement (Molenaar 2005; Sun et al. 2008), and risk control methods (Schexnayder et al. 2004; Flyvbjerg 2006). Table 8 shows that research interest in this area has grown since 2003.  
+    Information technology (IT) is an indispensable aspect of managing megaprojects. Harty et al. (2007) emphasized the increasing trend in utilizing ITs in construction. In this study, seven papers were identified to be relevant to this area. These papers primarily involved IT application issues in different phases and aspects of megaproject management, including design management (Harty and 
+Whyte 2010; Whyte and Lobo 2010), communication management (Thorpe and Mead 2001; Underwood and Watson 2003; Rowlinson 2007), and workflow and process management (Badir et al. 
+2003; Boersma et al. 2007). 
+    The development of megaproject management as a new profession in project management has increased the attention given to leadership and professional development in megaproject research since 2006. Relevant papers concentrated on two specific topics, namely, capability assessment 
+(Yasin et al. 2009; Müller and Turner 2010) and professional development (Crawford et al. 2006; Toor and Ogunlana 2009; Frank et al. 2007). This topic is expected to receive greater research attention in the future because of the rapid growth of megaproject practices. 
+    Central monitoring and control plays an essential role in project management research, although this topic has only received very limited research attention in the past decade. Only three papers on this topic were identified: Brady and Davies (2010), Edum-Fotwe et al. (2004), and Jaafari (2007). 
+    Complex project management has been increasingly advocated as the main theory for megaproject research since the mid-2000s. A growing number of scholars stressed the importance of applying this theory to megaproject research, pointing out that it not only contributes to the establishment of a knowledge body for megaprojects (Ivory and Alderman 2005; Saynisch 2010), but also improves the capability of professionals managing megaprojects(Thomas and Mengel 2008; 
+Whitty and Maylor 2009).. 
+Categories of Research Methods in Megaproject Research 
+(Please insert Table 9 here) 
+ 
+Table 9 shows the relationships between eight research topics and methods of the 85 articles in the eight selected journals in the selected period. In general, qualitative methods (including mixed methods) were employed at a high frequency (62.4 %) in the relevant studies, indicating megaproject is an intermediate research area (Edmonson and Mcmanus 2007). 
+    Table 9 further shows the results of the detailed examinations of research methods employed in each topic. Quantitative methods (including mixed methods) were employed at a high frequency employing as primary research methods (60% to 80%) in each of the five topics, namely, cost and schedule management, construction and site management, risk analysis and management, IT innovation and utilization and leadership and professional development.) Thus, these topics are initially mature or mature topics in megaproject research (Edmonson and Mcmanus 2007). In these studies, many optimization models and tools were developed and used to resolve real-life problems. 
+The primary quantitative methods and models employed in these studies consisted of the following: 
+• Empirical survey (e.g. Müller and Turner 2010; Santoso et al. 2003; Yasin et al. 2009), 
+• Delphi survey (Dzeng and Wen 2005; Sun et al. 2008), 
+• Correlation analysis (Helen et al. 2010), 
+• Regression analysis (Creedy et al. 2010), 
+• Fuzzy analysis (Zammori et al. 2009; Dzeng and Wem, 2005), 
+• Particle swarm optimization (Yang 2007), 
+• Markov analysis (Hardie, 2001), 
+• Integer programming analysis (Rajendran and Gambatese 2009), 
+• Loss causation analysis (Chua and Goh 2005),  
+• Nomograph theory (Elhakeem and Hegazy 2005), 
+• Maximal flow theory (Liu and Rahbar 2004), 
+• Social network analysis (Thorpe and Mead 2001),  
+• Monte Carlo simulation analysis (Touran and Lopez 2006), and 
+• Networks under correlated uncertainty simulation model (Wang and Demsetz 2000). 
+    Among the four remaining topics, namely, organization and stakeholder management, project planning and procurement, project monitoring and control, and complex project management, a high ratio of qualitative methods (including mixed methods) as primary research methods (76% to 100%) was observed in each of these topics (Table 9). This result indicates that these topics are nascent research areas (Edmonson and Mcmanus 2007). A triangulation of multiple qualitative methods, such as interviews, case studies and content analyses, were frequently employed in these studies to explore the theories behind real cases (e.g. von Branconi and Loch 2004; Murtoaro and Kujala 2007; Thomas and Mengel 2008; Ruuska et al. 2009; Toor and Ogunlana 2010; Brady and Davies 2010). 
+ 
+Assessing Megaproject Research in a Project Complexity Framework 
+As shown in Fig. 2, a dual-dimension framework is proposed to assess previous megaproject 
+research and identify its future direction. 
+(Please insert Fig. 2 here) 
+    The fast emergence of construction projects worldwide has significantly improved in the built environment. However, the execution of these megaprojects has pushed the limits of scope, experience and technology (Fiori and Kovaka 2005). These megaprojects are usually characterized by the high internal complexity, such as task complexity (Brockmann and Girmscheid 2007), structural complexity (Remington and Pollack 2008), directional complexity (Remington and Pollack 2008), technical complexity, and organizational complexity (Baccarini 1996). Most previous megaproject studies focused on these internal complexity issues (Fig. 2).Many studies have been conducted on relevant topics, such as construction and site management, cost and schedule management, risks analysis and management, IT innovation and utilization and leadership and professional development. However, the frequent use of qualitative methods (including mixed methods) in the three additional topics, namely, organization and stakeholder management, project planning and procurement, project monitoring and control, indicates their possible lack of a main theory. This lack reinforces the argument of Pellegrinelli’s et al. (2011) that a great research opportunity exists in megaproject organization. A growing number of researchers suggest that complex project management serves as a theoretical foundation in megaproject research, particularly in these nascent topics (Ivory and Alderman 2005; Whitty and Maylor 2009; Thomas and Mengel 2008).  
+      Construction megaprojects also need to deal with the complexity from contextual uncertainty, namely external complexity. Construction projects operate in the uncertain context because of widespread economic fluctuation (Shehu and Akintoye 2010). In major developing countries, such as China, India, and Russia, which are new investors in megaprojects, megaproject management faces an even higher uncertainty from social and cultural transitions. This contextual uncertainty has greatly increased the external complexity in managing megaprojects which includes temporal complexity (Remington and Pollack 2007), social and cultural complexity (Brockmann and Girmscheid 2007). This complexity impacts relevant topics, such as organization and stakeholder management, project planning and procurement, project monitoring and control, and risk analysis and management. This issue has been discussed in Miller and Hobbs (2005), de Camprieu et al. (2007), and Klakegg et al. (2008), but it deserves greater attention in future megaproject research. Miller and Hobbs (2005) proposed that megaprojects can reconcile the uncertainty through good interaction with the institutional environment. Mahalingam et al. (2007) indicated that institutional theory can help practitioners classify the issues from institutions they encounter, determine the causes behind these problems, and judge with relative ease in resolving each problem. Only recently has institutional analysis been increasingly advocated as the main tool to examine the contextual effect on the management of megaprojects (e.g., Grigg, 2005; 
+Mahalingam et al. 2007; Chi and Javernick-Will, 2011). For instance, Chi and Javernick-Will (2011) used institutional analysis to examine project management arrangements in high-speed rail projects between Taiwan and China. Mahalingam et al. also used this theory to analyze the source of conflicts in metro railway projects in India. Pollack (2007) enumerated several methods for research on the external uncertainty of megaprojects, such as mapping complexity, system anatomy, and multi-methodology in parallel. Most of the relevant studies mentioned were conducted either in developed countries or as a collaboration between developed and developing countries. Major developing countries which are new investors in megaprojects but lack a research tradition, consider research collaborations with developed countries that have merit in megaproject research to be advantageous. Several collaborative studies have been completed, but they remain insufficient.  
+Conclusions 
+Megaproject management has emerged as a separate research area, drawing extensive attention from scholars and practitioners. As a practice-driven research area, megaproject management will command fast development in the near future because of the anticipated investment boom in construction megaprojects (Economist 2008). This paper systematically reviews relevant articles published between 2000 and 2010 to assess the state of this field and identify the research trends in megaproject research. Eighty-five relevant papers identified from eight peer-reviewed construction journals were analyzed in terms of the number of articles published annually, institutional and regional contributions, citation, and categorization of research interests and methodologies. 
+    Analysis results reveal a growing interest in megaproject research, particularly in the past five years. These results also reveal that major developed countries such as the UK, the US, and Australia have enjoyed a huge advantage in megaproject research because of their longer experience, meanwhile megaproject research in developing countries such as Russia, India, Turkey, and Vietnam, which are new investors in megaprojects, remains weak or lacking. In addition, several developed countries, such as Spain, South Korea, and Brazil, have yet to establish megaproject research in their research institutions.  
+    The research interests and methodologies in megaproject research are categorized to assess the state of this field and identify the future directions. Many important theory-based contributions to megaprojects have been made in the five sub-areas of cost and schedule management, construction and site management, risks analysis and management, IT innovation and utilization and leadership and professional development. Meanwhile the sub-areas of organization and stakeholder management, project planning and procurement, and project monitoring and control have been identified as rich domains for future research. An assessment using the project complexity framework confirms that greater research efforts incorporating new theories, such as complexity theory and institutional theory, should be directed to these topics through strengthened global collaboration. 
+    This study provides a critical overview of megaproject development in the academic field by presenting an overall theoretical picture for researchers to acquire useful insights into the megaproject issue. A better understanding of the research trend may enable scholars and practitioners to appreciate the key issues in megaproject research to facilitate a faster development in this area.  
+ 
+Acknowledgement 
+This work described in this paper has received supports from the PhD research scholarship of The Hong Kong Polytechnic University, the Natural Science Foundation of China (Grant Nos. 70972071) and the Humanity and Social Science Fund of the Ministry of Education of China (Grant Nos. 
+09YJAZH067). Special Thanks are given to Professor Geoffrey Qing-Ping Shen at The Hong Kong Polytechnic University for providing the authors with relevant research information to write up this article. Special gratitude is also extended to the Associate Editor and three anonymous reviewers for the insightful comments and suggestions on earlier versions of the manuscript. 
+ 
+References 
+Ahmad, I., Azhar, S., and Ahmed, S. M.  (2003). “Construction of a bridge in a developing country: 
+A Bangladesh case study.” Leadership Manage. Eng., 3 (4), 177-182. 
+Alderman, N., and Ivory, C.  (2007). “Partnering in major contracts: Paradox and metaphor.” Int. J. 
+Proj. Manage., 25 (4), 386-393.  
+Algarni, A. M., Arditi, D., and Polat, G. (2007). “Build-operate-transfer in infrastructure projects in the United States.” J. Constr. Eng. Manage., 133 (10), 728-735. 
+Altshuler, A., and Luberoff, D. (2003). Mega-Projects: The Changing Politics of Urban Public 
+Investment, Brookings Institution Washington, DC.  
+Anderson, L. L., Douglass, R. D., and Kaub, B. C.  (2006). “Anatomy of a successful partnering program on a megaproject.” Leadership Manage. Eng., 6 (3), 110-116.   
+Archibald, R. D. (2003). Managing high technology programs and projects, 3rd ed., John Wiley and Sons, Hoboken, New Jersey. 
+Attar, A., Boudjakdji, M. A., Bhuiyan, N., Grine, K., Kenai, S., and Aoubed, A. (2009). “Integrating numerical tools in underground construction process.” Eng. Constr. Archit. Manage., 16(4), 376-391.  
+Awakul, P., and Ogunlana, S. O.  (2002). “The effect of attitudinal differences on interface conflicts in large scale construction projects: A case study.” Constr. Manage. Econ., 20 (4), 365-377. 
+Aziz, A. M. A.  (2008). “Minimum performance bounds for evaluating contractors performance during construction of highway pavement projects.” Constr. Manage. Econ., 26 (5), 507-529.   Baccarini, D. (1996). “The concept of project complexity - a review.” Int. J. Proj. Manage. 14 (4), 
+201-204. 
+Badenfelt, U. (2008). “The selection of sharing ratios in target cost contracts.” Eng. Constr. Archit. Manage., 15(1), 54-65.  
+Badir, Y. F., Founou, R., Stricker, C., and Bourquin, V. (2003). “Management of global large-scale projects through a federation of multiple web-based workflow management systems.” Proj. 
+Manage. J., 34(3), 40-47.  
+Beheiry, S. M. A., Chong, W. K., and Haas, C. T.  (2006). “Examining the business impact of owner commitment to sustainability.” J. Constr. Eng. Manage., 132 (4), 384-392.   
+Berggren, C., Soderlund, J., and Anderson, C. (2001). “Clients, contractors, and consultants: The consequences of organizational fragmentation in contemporary project environments.” Proj. Manage. J., 32(3), 39-48. 
+Boersma, K., Kingma, S. F., and Veenswijk, M. (2007). “Paradoxes of control: the (electronic) monitoring and reporting system of the Dutch high speed alliance.” Proj. Manage. J., 38(2), 75-83. 
+Bonnal, P., de Jonghe, J., and Ferguson, J. (2006). “A deliverable-oriented EVM system suited to a 
+large-scale project.” Proj. Manage. J., 37(1), 67-80. 
+Brady, T., and Davies, A. (2010). “From hero to hubris - Reconsidering the project management of 
+Heathrow's Terminal 5.” Int. J. Proj. Manage., 28 (2), 151-157. 
+Brockmann, C., and Girmscheid, G. (2007). “Complexity of Megaprojects.” Proc. CIB World 
+Building Congress, Cape Town, 219-230. 
+Bruijn, H. de, and Leijten, M. (2008). “Management Characteristics of Megaprojects.” 
+Decision-Making on Mega-projects: Cost-benefit Analysis, Planning and Innovation, Edeard 
+Elgar, Cheltenham, 23-39. 
+Busby, J. S., and Hughes, E. J. (2004). “Projects, pathogens and incubation periods.” Int. J. Proj. Manage., 22 (5), 425-434. 
+Capka, J. R. (2006). Issuance of Interim Major Project Guidance. Department of Transportation 
+Federal Highway Administration, U.S., January 27. 
+Cathcart, A. (2003). “Channel Tunnel Rail Link: A contract partnership.” P. I. Civil Eng- Civ. En.,  156 (Spec.), 41-44. 
+Chakraborty R. (2009). “Keeping water in the Wadis of Arabia's perfume capital.” P. I. Civil Eng- 
+Civ. En.,162(3), 114-121. 
+Chau, K.W. (1997). “The ranking of construction management journals.” Constr. Manage. Econ., 
+15(4), 387-398. 
+Chi, C. S. F. and Javernick-will, A. N. (2011).” Institutional effects on project arrangement: 
+high-speed rail projects in China and Taiwan.” Constr. Manage. Econ., 29 (6), 595–611. 
+Chua, D. K. H., and Goh, Y. M.  (2005). “Poisson model of construction incident occurrence.” J. 
+Constr. Eng. Manage.,131 (6), 715-722.  
+Crawford, L., Morris, P., Thomas, J., and Winter, M.  (2006). “Practitioner development: From 
+trained technicians to reflective practitioners.” Int. J. Proj. Manage., 24 (8), 722-733. 
+Creedy, G. D., Skitmore, M., and Wong, J. K. W. (2010). “Evaluation of risk factors leading to cost overrun in delivery of highway construction projects.” J. Constr. Eng. Manage., 136 (5), 528-537.  
+de Camprieu, R., Desbiens, J., Feixue, Y. (2007). 'Cultural' differences in project risk perception: An empirical comparison of China and Canada.”  Int. J. Proj. Manage., 25 (7), 683-693. 
+Department of Transportation Office of Inspector General (DTOIG). 2001. Top Ten Management 
+Issues, PT-2001-017. Department of Transportation, US. 
+Dzeng, R. J., and Wen, K. S.  (2005). “ Evaluating project teaming strategies for construction of 
+Taipei 101 using resource-based theory.” Int. J. Proj. Manage., 23 (6), 483-491. 
+Economist, T. (2008). “Record spending on infrastructure will help to sustain rapid growth in emerging economies”. The Economist, 387(8583), 88. 
+Eden, C., Ackermann, F., and Williams, T. (2005). “The amoebic growth of project costs.” Proj. Manage. J., 36(2), 15-27. 
+Edmondson, A. C., and Mcmanus, S. E. (2007). “Methodological fit in management field research.” 
+Acad. Manage. Re., 32 (4), 1155-1179. 
+Edum-Fotwe, F. T., Gibb, A. G. F., and Benford-Miller, M. (2004). “Reconciling construction innovation and standardisation on major projects.” Eng. Constr. Archit. Manage., 11 (5), 366-372. 
+Elhakeem, A., and Hegazy, T.  (2005). “Graphical approach for manpower planning in 
+infrastructure networks.” J. Constr. Eng. Manage.,131 (2), 168-175. 
+Federal Highway Administration (FHA). (2005). Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users. US. Retrieved 10 August 2011, from: http://uscode.house.gov/pdf/2005/2005usc23.pdf 
+Fiori, C., and Kovaka, M. (2005). “Defining megaprojects: learning from construction at the edge of experience.” Proc. Construction Research Congress 2005, American Society of Construction Engineers. 
+Flyvbjerg, B. (2006). “From Nobel prize to project management: getting risks right.” Proj. Manage. J., 37(3), 5-15. 
+Flyvbjerg, B. (2009). “What is a Megaproject?” Retrieved 19 May 2011, from: 
+http://flyvbjerg.plan.aau.dk/whatisamegaproject.php. 
+Flyvbjerg, B., Bruzelius, N., and Rothengatter, W. 2003. Megaprojects and Risk: An Anatomy of 
+Ambition. Cambridge University, Cambridge, U.K. 
+Frank, M., Zwikael, O., and Boasson, M. (2007). “Jobs requiring a capacity for engineering systems thinking (CEST): Selection using an interest inventory.” Proj. Manage. J., 38(3), 36-44. 
+Genadio, F., and Singh, A. (2010). “A rough ride on the Oahu rail transit project.” Leadership 
+Manage. Eng., 10 (1), 21-31. 
+Global Construction Perspectives (GCP) and Oxford Economics (OE). (2009). Global Construction 
+2020: A Global Forecast for the Construction Industry Over the Next Decade to 2020, GCP and OE, London. 
+Grigg, N. S. (2005). “Institutional analysis of infrastructure problems: case study of water quality in distribution systems.” J. Manage. Eng., 21(4), 152-158. 
+Hardie, N. (2001). “ The prediction and control of project duration: A recursive model.” Int. J. Proj. Manage., 19 (7), 401-409. 
+Harty, C., and Whyte, J.  (2010). “Emerging hybrid practices in construction design work: Role of mixed media.” J. Constr. Eng. Manage., 136 (4), 468-476. 
+Harty, C., Goodier, C. I., Soetanto, R., Austin, S., Dainty, A. R. J., and Price, A. D. F. (2007). “The futures of construction: a critical review of construction future studies.” Constr. Manage. Econ., 25 (5), 477–493. 
+Hassanain, M. (2009). “Replacement of sitra bridges: A mega-project for Bahrain.” P. I. Civil Eng- 
+Civ. En., 162 (6), 34-41.  
+Haynes, W. (2002). “Transportation at the Millennium: In Search of a Megaproject Lens”. Rev. Policy Res., 19 (2), 62-89. 
+Helen, C. L., Francis, V., and Turner, M. (2010). “The rhythms of project life: A longitudinal analysis of work hours and work-life experiences in construction.” Constr. Manage. Econ., 28 (10), 
+1085-1098. 
+Helm, J., and Remington, K. (2005). “Effective project sponsorship: an evaluation of the role of the executive sponsor in complex infrastructure projects by senior project managers.” Proj. Manage. J., 36(3), 51-61. 
+Hong, Y. M., Chan, D. W. M., Chan, A. P. C., and Yeung, J. F. Y. (2012). “Critical analysis of partnering research trend in construction journals.” J. Manage. Eng., 28(2), 82-95. 
+Howard, G. S., Cole, D. A., and Maxwell, S. E. (1987). “Research productivity in psychology based on publication in the journals of the American Psychological Association.” Am. Psychol., 42(11), 975-986. 
+Hyun, C, T., Hong, T, H., Son, M, J., Kim, Y, S., and Jang, D, W. (2009). “Development of the 
+Construction Cost Prediction Model Based on Case-Based Reasoning in the Planning Phase of Mega-Project [only Korean version].” J. Architect. Institute of Korea, 2 (9), 181-190. 
+Ibn-Homaid, N. T.  (2002). “A comparative evaluation of construction and manufacturing materials management.” Int. J. Proj. Manage., 20 (4), 263-270.  
+International Project Management Association (IPMA). (2011). IPMA Project Excellence (PE) 
+Awards: PE Award Categories. Retrieved 3 February 2011, from: 
+http://www.ipma.ch/awards/projexcellence/Pages/PEAwardCategories.aspx.   
+Ivory, C., and Alderman, N. (2005). “Can project management learn anything from studies of failure in complex systems?”, Proj. Manage. J., 36(3), 5-16. 
+Jaafari, A. (2007). “Project and program diagnostics: A systemic approach.” Int. J. Proj. Manage., 25 (8), 781-790. 
+Jergeas, G. (2008). “Analysis of the front-end loading of Alberta mega oil sands projects.” Proj. 
+Manage. J., 39(4), 95-104. 
+Ke, Y. J., Wang, S. Q., Chan, A. P. C., and Cheung, E. (2009). “Research trend of Public-Private-Partnership (PPP) in construction journals.” J. Constr. Eng. Manage., 135(10), 1076-1086. 
+Keeling, D. (2003). “Channel Tunnel Rail Link: Quality management.” P. I. Civil Eng- Civ. En., 156 
+(Spec.), 45-48. 
+Klakegg, O. J., Williams, T., Magnussen, O. M., and Glasspool, H. (2008). “Governance frameworks for public project development and estimation.” Proj. Manage. J., 39 (Suppl.), 27-42. 
+Kostoff, R.N. (1998). “The use and misuse of citation analysis in research evaluation.”  
+Scientometrics, 43(1), 27-43. 
+Krane, H. P., Rolstadås, A., and Olsson, N. O. E. (2010). “Categorizing risks in seven large projects - 
+Which risks do the projects focus on?” Proj. Manage. J., 41 (1), 81-86. 
+Kumaraswamy, M. M., and Morris, D. A. (2002). “Build-operate-transfer-type procurement in Asian megaprojects .” J. Constr. Eng. Manage.,128 (2), 93-102. 
+Kumaraswamy, M. M., Ng, S. T., Ugwu, O. O., Palaneeswaran, E., and Rahman, M. M. (2004). 
+“Empowering collaborative decisions in complex construction project scenarios.” Eng. 
+Constr. Archit. Manage., 11(2), 133-142. 
+Lampel, J. (2001). “The core competencies of effective project execution: The challenge of diversity.” 
+Int. J. Proj. Manage., 19 (8), 471-483. 
+Lê, M. A. T., and Brønn, C. (2007). “Linking experience and learning: Application to multi-project building environments.” Eng. Constr. Archit. Manage., 14(2), 150-163. 
+Leung, M. Y., Chong, A., Ng, S. T., and Cheung, M. C. K.  (2004). “Demystifying stakeholders' commitment and its impacts on construction projects.”  Constr. Manage. Econ., 22 (7), 701-715. 
+Ling, Y. Y., and Lau, B. S. Y. (2002). “A case study on the management of the development of a large-scale power plant project in East Asia based on design-build arrangement.” Int. J. Proj. 
+Manage., 20 (6), 413-423. 
+Liu, J., and Rahbar, F. (2004). “Project time-cost trade-off optimization by maximal flow theory.” J. 
+Constr. Eng. Manage.,130 (4), 607-609.   
+Mahalingam, A., and Levitt, R. E. (2007). “Institutional theory as a framework for analyzing conflicts on global projects.” J. Constr. Eng. Manage., 133(7), 517-528. 
+Merrow, R. (1988). Understanding the Outcomes of Megaprojects: A Quantitative Analysis of Very Large Civilian Project, Rand, Santa Monica, CA. 
+Miller, R., and Lessard, D. (2000). The Strategic Management of Large Engineering Projects: 
+Shaping Institutions, Risks and Governance, MIT press, MA. 
+Miller, R., and Hobbs, B. (2005). “Governance regimes for large complex projects.” Proj. Manage. J., 36 (3), 42-50. 
+Molenaar, K. R. (2005). “Programmatic cost risk analysis for highway megaprojects.” J. Constr. Eng. Manage., 131 (3), 343-353.   
+Morris, P. W. G., Pinto, J. K., and Söderlund, J. (2011). The Oxford Handbook of Project 
+Management, Oxford University Press, Oxford. 
+Müller, R., and Turner, R. (2010). “Leadership competency profiles of successful project managers.” 
+Int. J. Proj. Manage., 28 (5), 437-448. 
+Murtoaro, J., and Kujala, J. (2007). “Project negotiation analysis.” Int. J. Proj. Manage., 25 (7), 
+722-733. 
+National Development and Plan Commission (NDPC). 2002. Interim Measures on Bidding and Bid for Major National Construction Projects [Only Chinese version], NDPC No. [2002] 18, China. 
+National Development and Reform Commission (NDRC). 2004. NDRC Fixed Asset Investment 
+Project List with the Need of Approved by the State Council [Only Chinese version], NDRC No. [2004]1927, China. 
+Nguyen, L. D., Ogunlana, S. O., and Lan, D. T. X. (2004). “A study on project success factors in large construction projects in Vietnam.” Eng. Constr. Archit. Manage., 11(6), 404-413. 
+Pellegrinelli, S., Partington, D., and Geraldi, J. G. (2011).”Program management: An emerging opportunity for research and scholarship.” The Oxford Handbook of Project Management. Oxford University Press, Oxford, 252-272. 
+Rajendran, S., and Gambatese, J.A. (2009). “Development and initial validation of sustainable construction safety and health rating system.” J. Constr. Eng. Manage., 135 (10), 1067-1075. 
+Remington, K., and Pollack, J. (2008). Tools for Complex Projects, Gower, England.  
+Rose, T. and Manley, K. (2010). “Client recommendations for financial incentives on construction projects.” Eng. Constr. Archit. Manage., 17(3), 252-267. 
+Rowlinson, S. (2007). “The temporal nature of forces acting on innovative IT in major construction projects.” Constr. Manage. Econ., 25 (3), 227-238. 
+Ruuska, I., Artto, K., Aaltonen, K., and Lehtonen, P. (2009). “Dimensions of distance in a project network: Exploring Olkiluoto 3 nuclear power plant project.” Int. J. Proj. Manage., 27 (2), 142-153.     
+Santoso, D.S., Ogunlana, S.O., and Minato, T. (2003). “Assessment of risks in high rise building construction in Jakarta.” Eng. Constr. Archit. Manage., 10 (1), 43-55. 
+Saynisch, M. (2010). “Mastering complexity and changes in projects, economy, and society via project management second order (PM-2).” Proj. Manage. J., 41 (5), 4-20. 
+Schexnayder, C. J., Weber, S. L., and David, S. A. (2004). “Transportation agency use of owner-controlled insurance programs.” J. Constr. Eng. Manage.,130 (4), 517-524. 
+Sun, Y., Fang, D., Wang, S., Dai, M., and Lv, X.  (2008). “Safety risk identification and assessment for Beijing olympic Venues construction.” J. Manage. Eng., 24 (1), 40-47. 
+Scott. W. R., Levitt, R. E., and Orr, R. J. (2011). Global Projects: Institutional and Political 
+Challenges, Cambridge: Cambridge University Press. 
+Shehu, Z. and Akintoye, A. (2010). “Major challenges to the successful implementation and practice of programme management in the construction environment: A critical analysis.” Int. J. Proj. Manage., 28(1), 26-39. 
+Tai, S., Wang, Y. and Anumba, C.J. (2009). “A survey on communications in large-scale construction projects in China.” Eng. Constr. Archit. Manage., 16(2), 136-149.  
+Tam, C.M.  (2000). “Design and Build on a complicated redevelopment project in Hong Kong: The 
+Happy Valley Racecourse Redevelopment.” Int. J. Proj. Manage., 18 (2), 125-129.  
+Themistocleous, G., and Wearne, S.H. (2000). “Project management topic coverage in journals.” Int. J. Proj. Manage, 18(1), 7-11. 
+Thomas, J., and Mengel, T. (2008). “Preparing project managers to deal with complexity - Advanced project management education.” Int. J. Proj. Manage., 26 (3), 304-315. 
+Thorpe, T., and Mead, S. (2001). “Project-specific Web sites: Friend or foe?” J. Constr. Eng. Manage., 127 (5), 406-413. 
+Toor, S. U. R., and Ogunlana, S. O. (2008). “Problems causing delays in major construction projects in Thailand.” Constr. Manage. Econ., 26 (4), 395-408. 
+Toor, S. U. R., and Ogunlana, S. O. (2009). “Ineffective leadership: Investigating the negative attributes of leaders and organizational neutralizers.” Eng. Constr. Archit. Manage., 16(3), 254-272. 
+Toor, S. U. R., and Ogunlana, S. O. (2010). “Beyond the 'iron triangle': Stakeholder perception of key performance indicators (KPIs) for large-scale public sector development projects.” Int. J. 
+Proj. Manage., 28 (3), 228-236. 
+Touran, A., and Lopez, R. (2006). “Modeling cost escalation in large infrastructure projects.” J. 
+Constr. Eng. Manage.,132 (8), 853-860. 
+Underwood, J., and Watson, A. (2003). “An XML metadata approach to seamless project information exchange between heterogeneous platforms.” Eng. Constr. Archit. Manage., 10 (2), 128-145. 
+United Nations Development Programme (UNDP). (2010). Human Development Report 2010—The 
+Real Wealth of Nations: Pathways to Human Development, UNDP, New York. 
+van Marrewijk, A. (2007). “Managing project culture: The case of Environ Megaproject.” Int. J. Proj. 
+Manage., 25 (3), 290-299. 
+van Marrewijk, A., Clegg, S.R., Pitsis, T.S., and Veenswijk, M.  (2008). “Managing public-private megaprojects: Paradoxes, complexity, and project design.” Int. J. Proj. Manage., 26 (6), 591-600.   
+Vanhoucke, M., Vereecke, A., and Gemmel, P. (2005). “The project scheduling game (psg): simulating time/cost trade-offs in projects.” Proj. Manage. J., 36(1), 51-59. 
+von Branconi, C., and Loch, C.H. (2004). “ Contracting for major projects: Eight business levers for top management.” Int. J. Proj. Manage., 22 (2), 119-130. 
+Waldrop, M. M. (1992). The Emerging Science at the Edge of Order and Chaos, Simon and Schuster, 
+New York, NY. 
+Walker D.H.T., and Shen Y.J. 2002). “Project understanding, planning, flexibility of management action and construction time performance: Two Australian case studies.” Constr. Manage. Econ., 20 (1), 31-44. 
+Wang, W. C., and Demsetz, L. A. (2000). “Model for evaluating networks under correlated uncertainty – NETCOR.” J. Constr. Eng. Manage.,126 (6), 458-466. 
+Whitty, S. J., and Maylor, H.  (2009) “And then came complex project management.” Int. J. Proj. Manage., 27 (3), 304-310. 
+Whyte, J., and Lobo, S.  (2010). “Coordination and control in project-based work: Digital objects and infrastructures for delivery.” Constr. Manage. Econ., 28 (6), 557-567. 
+Williams, T. (2003). “Assessing Extension of Time delays on major projects.” Int. J. Proj. Manage., 
+21 (1), 19-26. 
+Williams, T., and Samset, K. (2010). “Issues in front-end decision making on projects.” Proj. Manage. J., 41 (2), 38-49. 
+Winch, G. M. (2000). “Innovativeness in British and French construction: The evidence from 
+Transmanche-Link.” Constr. Manage. Econ., 18 (7), 807-817.  
+World Bank. (2010). The Little Green Data Book, The World Bank, Washington, D.C. 
+Yang, I. T.  2007. “Performing complex project crashing analysis with aid of particle swarm optimization algorithm.” Int. J. Proj. Manage., 25 (6), 637-646.     
+Yang, L. R., O'Connor, J. T., and Wang, C. C. (2006). “ Technology utilization on different sizes of projects and associated impacts on composite project success.” Int. J. Proj. Manage., 24 (2), 96-105. 
+Yasin, M. M., Gomes, C. F., and Miller, P. E. (2009). “Characteristics of Portuguese public-sector project managers: Toward closing the effectiveness gap.” Proj. Manage. J., 40(3), 47-55. 
+Zammori, F. A., Braglia, M., and Frosolini, M. (2009). “A fuzzy multi-criteria approach for critical 
+path definition.” Int. J. Proj. Manage., 27 (3), 278-291. 
+Zhai, L., Xin Y. F., and Cheng, C. S. (2009). “Understanding the value of project management from a stakeholder's perspective: Case study of mega-project management.” Proj. Manage. J., 40(1)   
+99-109. 
+Ziemelis, K.(ed.). (2001). “Complex systems.” Nature, 410, 241-284. 
+ 	1 
+
+ 	1 
+
+ 	1 
+
+	 	1 
+
+	 	1 
+
+	 	1 
+
+ 	1 
+
+ 	1 
+
+ 	1 
+

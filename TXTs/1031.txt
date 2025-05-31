@@ -1,0 +1,235 @@
+﻿Evolution of involvement and effort in construction planning throughout project life
+A Shapira and A Laufer
+
+
+The paper provides answers to some key questions regarding the process of construction planning. The answers are based on a field study of present-day practice in US companies known to have adopted an advanced planning culture. The study focused on two planning measures, the involvement of various parties in planning and the relative effort invested in various planning areas, and examined their evolution throughout project life. Together with the findings and conclusions of the study, several implications for practitioners and academics are offered.
+Keywords: construction planning, strategic planning, involvement in planning, planning effort, construction plans, project stages
+
+Construction planning has been the concern of many studies. Most of these, however, focus on techniques and procedures, being generally subject to traditionally prevailing (albeit not necessarily incorrect) concepts as to what planning is, when it is performed, and who does it. Only a very few studies address the essence of the planning process, and are aware of the need to examine it through concrete measures and to describe it in practical terms l 5.
+　The following fundamental questions form the basis of the research reported in this paper:
+• Does all or most of the planning precede (and should it precede) the commencement of construction, or does it, in fact, continue (and should it continue) throughout a project's life?
+• Can a construction company separate a 'planner', who is responsible for planning proper, from a 'manager', who runs the construction operations, or are many parties involved in planning (and should this be so)?
+
+National Building Research Institute, Technion—lsrael Institute of
+Technology, Haifa 32000, Israel• Is 'scheduling' almost synonymous with 'construction planning', or does the latter term embrace other planning areas as well?
+Some of these issues were raised in a previous paper6 that presented the background to, and outlined the methodology for, a field study of the present-day practice of construction planning. Following an expansion of the research program and its scope, the present paper now aims to provide answers to the above questions and to validate any hypotheses implied by them. Some questions not addressed in this paper (e.g. the actual issuance of plans and the various formats used) are addressed in another paper7 .
+　The general intent of this paper is to study the overall picture from the viewpoint of the construction company, and to examine, through selected measures, how planning evolves throughout project life.
+RESEARCH METHOD
+The study was based on in-depth interviews with experienced construction managers in companies known to have adopted an advanced planning culture. The interviewees, selected by the companies, were each asked to refer to a particular project in which they had been intimately involved. Most of the 18 interviewees, who represented eight firms in the western USA, were project managers (l l); the rest were project executives, general superintendents, and project engineers.
+The profiles of the referenced projects were as follows:
+Small projects:
+　　cost = $10--49M (median: $31M) duration = 10—24 months
+Vol 11 No 3 August 1993	0263-7863/93/030155-10 0 1993 Butterworth-Heinemann Ltd	155　　　　　　　　　　　　(median: 14 months) type of contract = one lump-sum, seven cost-reimbursable
+type of facility built = two commercial, four industrial, two R&D number of projects = 8
+Large projects:
+   cost — $58-195M (median: SUM) duration = 7—50 months
+                           (median: 24 months) type of contract = six lump-sum, four cost-reimbursable type of facility built = seven commercial, two industrial, one R&D number of projects = 10
+The interviews were based on a structured questionnaire that had been tested and refined in two preparatory pilot studies, conducted in Israel and in the USA. Each interview lasted about half a day, and accommodated both specific questions and open discussions. Full details of the research methodology are given in the complete report on this study8 which provides extensive documentation of the research.
+Planning levels and project stages
+The research made a distinction between two levels of planning: strategic [conceptual planning (also termed construction strategy in this paper), and tactical/ operational planning (commonly referred to as construction planning). The first of these two levels may require explanation. This is provided in the following section, which presents the findings of the enquiry into construction strategy. As most of the interviewees were project managers and other site staff, the treatment of siterelated construction planning was naturally comprehensive and detailed, while issues that are traditionally more the concern of the home omce, such as construction strategy, were more generally addressed.
+　Three project stages are discussed, each as a major research variable:
+• Prebid planning (PBP) stage: This precedes the submission of the proposal. It can last from a few days at one extreme to a considerable number of months at the other. It is determined mainly by the client/owner's timetable and the type of contract.
+• Preconstruction planning (PCP) stage: This starts immediately on the award of the contract, and proceeds to a certain point in the construction, typically not more than two months after mobilization.
+ During-construction planning (DCP) stage: With changing intensities and following a repetitive pattern, this stage lasts throughout construction.
+Planning stageContributing parties   Length of planning period, monthsMode of planning meetings, percentage of projectsConsiderable contributionModerate contributionRange 	MedianFormal Formal and informalInformalPrebid planning
+Preconstruction planningHome omce
+Project manager
+Project manager
+General superintendent
+Project engineerClient
+Design engineers
+Subcontractors0.05-3.00	227
+3140
+5033
+19Table 2. C0Ntruction strategy
+Table 1. Scope of study by planning levels and project stages
+PlanningPrebid planningPreconstruction planningDuring-construction planningStrategic/ conceptual
+Tactical/ operationalGeneral
+DetailedGeneral
+DetailedNot applicable
+Very detailedThis breakdown of construction planning into stages was validated with the respondents at the beginning of the interviews, to form a realistic reflection of the projects in which they were involved.
+　The matrix in Table I shows the intersections of the two planning levels with the three project planning stages, as defined and examined in this study, and summarizes the scope and depth of the examination for each level and stage.
+CONSTRUCTION STRATEGY
+Construction strategy is addressed by the construction company at both the prebid and the preconstruction planning stages, but preconstruction strategic planning differs from prebid planning in its main characteristic parameters, although perhaps not in essence. Table 2 shows the main observed changes from PBP to PCP in the preparation of the construction strategy. They were deduced from interviewees' responses to the closed questions. Other observations, in particular those regarding the main concerns of strategic planning, are the results of the open-discussion part of the interview. It should be noted that not all respondents were intimately familiar with the concept of strategic planning, making it diffcult for them to address all the relating issues thoroughly.
+　Before the observed differences in the nature and the main concerns of the strategic planning carried out in the two periods are addressed, it is vital to understand what, basically, is construction strategy, as compared with the more familiar construction planning. The essence of strategic planning can be summarized as follows:
+• It is, first and foremost, the process of learning and understanding the fundamental problems, and crystallizing conceptual solutions for them.  It focuses on the contractor's main goals and on the tradeoffs between them.
+• It is chiefly directed at ends, and only slightly at means, the latter being one of the main concerns of tactical planning.
+c It determines the limit ('constraints') to the various issues involved, but without finalizing them.
+ It addresses major topics to the point of making final decisions, exerting a significant impact on costs and time (e.g. weighing the external production versus in situ production of certain modules).
+Typical goals addressed in strategic planning are in the areas of cost (e.g. profit margin), the schedule, and quality of performance. Others may be public relations, safety, labour relations, and the like. At the PBP stage, these are normally dealt with only to the extent and at the level of detail believed to be essential to the submission of an effective proposal, the main emphasis being on results. Some of the goals may be more fully addressed when the company has won the bid and is making preparations for mobilization, and at the early phases of construction, when the focus shifts to principal production methods.
+　Another characteristic of prebid strategic planning as compared with preconstruction planning is the wider scope of the former, which considers not only the specific project in hand, but other projects also, as well as the firm at large (e.g. its policy regarding investment in equipment). In PCP, on the other hand, the project is at the centre of the strategic planning, although some previous issues beyond the boundaries of the current project may have to be considered, owing to both the new commitment added meanwhile to the planning process as a result of the bid award, and the possible changes that occurred during the time that elapsed between the bid submission and the award, whether they originate from the owner/client or from the firm itself.
+　The last major finding worth mentioning in this connection is the prominent position that bidding strategy occupies among the strategic decisions of the PBP stage ('knowing the competitors, their strengths and weaknesses' in the words of one interviewee), which is of course a unique PBP element, not existing in PCP.
+　In keeping with the shift of the focus from mainly broader, policy-type and firm-related issues (in PBP) to the project itself (in PCP), the dominant player in prebid strategic planning, namely the home offce (which not only represents top management but is also instrumental in making the pertinent estimates), is replaced in the preconstruction stage by the site management (the general superintendent and the project engineer), which now takes the lead. Neither party, the home omce on the one hand and the site management on the other, was observed to be even a moderate contributor in the other stage. The project manager maintains a permanent active presence at both stages, acting as the essential link, as it were. With the same line of argument, two other parties were observed to have contributed, albeit moderately, to the preparation of the construction strategy at the PBP stage, namely the client and the design engineers. Their place was taken by the subcontractors as the partners of the site management for strategic planning in PCP.
+　The length of the period during which prebid construction strategy planning takes place varies widely, as shown in Table 2, taking from only one week up to four months, depending on such factors as project type, project complexity, project size and company policy, but mainly on the type of contract, the cost-reimbursable project planning range being expected to be wider than that of the lump-sum projects. While this range is considerably smaller in PCP than in PBP, the duration of the strategic planning period in PCP is, on average, longer. This can be explained by the generally longer time taken by preconstruction planning than by prebid planning. It can also be attributed to the nature of the issues addressed in PCP and PBP.
+　Assessment of the modes of construction strategyplanning meetings yielded a mild trend towards increased formality from PBP to PCP. The bulk of the respondents, however, reported a mix of formal and informal meetings at both the planning stages. For this purpose, the level of meeting formality was defined as follows. The regularity of the meetings increased with the degree to which they included constant participants. The less predetermined their agenda was, the less formal they were. This does not necessarily reflect adversely on the products of these meetings (i.e. documents or plans issued), since the focus in strategic planning is on searching for the problems, on identifying and structuring them, and on selecting the methodologies for future decision making, i.e. it is on planning, rather than on issuing plans.
+DEGREE OF INVOLVEMENT
+The degree of involvement was one of the two measures through which construction planning was studied in this research. As distinct from that in construction strategy, the focus in planning is on means and solutions, and the examination is more specific and concrete. This was reflected in the nature of the findings. This section deals first with the variables and the rating technique, and then a short explanation of the method of analysis and the mode of presentation follows. Finally, the major findings are presented.
+Variables and rating
+For the evaluation of the various parties' involvement in planning, and the evolution of this involvement in the course of the project life, three major research variables were employed. First, a distinction was made between the three project stages, as defined and explained earlier, the degree of involvement being examined separately for each stage. For this purpose, the DCP stage was subdivided into three phases: information gathering, the development of alternatives, and choice making.
+　Second, nine areas of planning (functional construction plans) were defined and grouped into four families:
+• base plans: engineering and method (e.g. main construction technology) and organization and contract (e.g. stamng, contractual procedures),  control plans: schedule (both short- and long-term) and cost and cashflow,  technology plans: major equipment, site layout and logistics, and work methods,
+• resource plans: manpower allocation and materials allocation.
+In the analysis of results, reference was sometimes made to two pairs of families: base and control plans, and technology and resource plans. Since it was expected that, in certain cases, a somewhat different categorization of construction planning areas could have been adopted, it was assured, prior to questioning, that the meanings of all the construction plans on this suggested list were understood.
+　Finally, five major parties potentially participating in the planning process were specified: the project manager, the general superintendent, the project engineer, the home omce (comprising all its typical functions), and outside parties (the owner/client, design engineers and subcontractors).
+　All the interviewees were asked to rate the degree of the involvement of each participating party in the preparation of each plan at each planning stage (with the during-construction stage represented by its three planning phases). There were 225 points of reference for each examined sample project, as shown in Figure l . The rating was carried out using a six-level scale, from 0 (not at all) to 5 (very high), and then the percentage of projects for each level was obtained.
+Analysis and presentation of results
+Of interest and significance are the results (proportions of projects) pertaining to cases in which strong involvement was observed. Involvement was defined as strong when it was assigned to the upper half of the 0—5 rating scale. The relevant proportions of projects were obtained by summarizing the percentages of medium (3), high (4) and very high (5) degrees of involvement. The complete picture is shown in Figure l . The proportion of projects showing strong involvement is represented by the shading intensity of the squares, from very dark (81—100% of the projects aroused strong involvement) to very light For example, in the information-gathering phase of the DCP stage (see Figure lc), the involvement of the project engineer (middle column) in the preparation of the schedule and the cost and cashflow (third and fourth rows) was reported to be strong within the 81—100% range of the sample projects. At the PBP stage, on the other hand (see Figure la), less than 20% of the respondents found the project engineer to be strongly involved in the preparation of these two plans (as well as the rest). To quote another example, it is evident that, at the PCP stage (see Figure I b), the project manager is the dominant party in the preparation of the base and control plans (upper four rows), while, in the technology and resource plans (lower five rows), the general superintendent takes the lead.
+Findings
+The results shown in the matrices in Figure I were studied on two levels: (a) each planning stage by itself, and (b) the evolution of the involvement through all three stages. The examination was made both by participating party ('in which and in how many plans was a given party strongly involved, and what were the proportions?' ) and by construction plan ('which party was strongly involved in a given construction plan, and in what proportion?'). The major findings follow.
+Prebid planning
+• The project manager's involvement in the preparation of plans, and in more of them, at the PBP stage is greater than that of any other participating party. He/she is strongly involved, in the highest range of of the sample projects, in organization and contract, and is in the next highest range in the schedule, cost and cashflow, and major equipment.  The home omce, a major player in prebid strategic planning, comes after the project manager, with strong involvement in the range of 61—80% in organization and contract, and cost and cashflow.  The project engineer is almost completely uninvolved at the PBP stage.
+• Four of the construction plans drew a higher proportion overall of strong involvement than the other plans in PBP: organization and contract, schedule, cost and cashflow, and major equipment.
+Preconstruction planning
+• The general superintendent emerges as the dominant party in PCP (his/her role is similar to the important role that he/she played in strategic planning at this stage). He/she evinces strong involvement in a high proportion of projects in all technology and resource plans (the five lower plans in Figure 1) and in the schedule. His/her increased involvement, as compared with that in PBP, is more marked than that of all other participating parties.
+• The project manager, maintaining his/her lead in the base and control plans (the upper four plans in Figure l), is second only overall to the general superintendent.
+• The home omce, second in PBP, occupies in PCP the lowest position of all the parties, while externals (subcontractors in this case), who are most strongly involved in schedule and manpower allocation, have moved up.
+• The schedule is the leading plan in terms of the number of strongly involved parties in the highest observed range in PCP. Manpower allocation is next. Cost and cashflow is the only plan in which all participating parties demonstrated strong involvement in more than 40% of the projects studied.
+During-construction planning
+• On average, the general superintendent is the most strongly involved party during construction, i.e. at the highest range of proportions of the schedule, layout and logistics, and manpower allocation in all the planning phases. He/she is almost equally strongly involved in major equipment, work methods, and materials allocation.
+• The project manager's involvement in DCP is most evident in the choice-making phase, and more especially in the control plans (schedule and cost), organization and contract, and work methods. In the phases of information gathering and the development
+PM GS
+Engineering and method
+Organization and contract
+Schedule
+Cost and cash flow
+Layout and logistics
+Work methods
+Manpower allocation
+Materials allocation
+a
+	GS HO	GS HO	GS HO
+Il l IllO•O•• I IllPM GS	PM PE EX PM PE EX PM PE EX
+b	c	d
+Figure 1. Proportion of projects with strong involvement; (a) prebid planning, (b) preconstruction planning, (c) duringconstruction planning, information gathering, (d) during-construction planning, alternatives development, (e) duringconstruction planning, choice making
+[PM: project manager, GS: general superintendent, PE: project engineer, HO: home omce, EX: externals (client, designers, subcontractors).]0-20 21-40 41-60 61-80 81-100
+
+of alternatives, he/she is only third in involvement overall, coming after the general superintendent and the project engineer.
+The project engineer's involvement is prominent in the two control plans in the first two planning phases, and most marked in the information-gathering phase. In these two phases, he/she is also strongly involved in high proportions of the two resource plans.
+o Most respondents reported high levels of subcontractors' involvement in the schedule and materials allocation in the first two planning phases during construction, and in work methods and manpower allocation in the information-gathering phase. The home omce is very little involved in planning during construction.
+In terms of the overall strong involvement of all parties, the schedule leads in DCP throughout all the planning phases.
+In general, strong involvement in much higher proportions of the projects was observed during construction than was the case in the two preceding stages. Further, DCP also had the highest frequency of strong involvement in the highest possible proportions.
+OVERALL EVOLUTION
+The project manager shows a stable high level of involvement throughout the project life, and, in that respect, he/she is unique among all the participating parties. His/her performance is even more impressive in choice making during construction, where he/she is at the peak of his/her involvement in all the planning areas examined.
+The general superintendent, who is only mildly involved in prebid planning (where most of his/her classic planning areas are not on the agenda), enters the picture impressively after bid award. He/she intensifies his/her involvement and dominance during construction, mainly in the technology and resource plans and in the schedule.
+The project engineer, who is almost invisible before bid submission, is mildly involved in all the plans at the preconstruction stage, and is strongly involved in information gathering and the development of alternatives during construction in the control and resource plans.
+The home omce is most involved in prebid planning, and gradually leaves the arena, until it is reduced almost to nonexistence during construction, apart from some presence in organization and contract and cost and cashflow planning.
+Externals' involvement (mostly subcontractors) is on an ascending line: low during PBP, moderate during PCP, and yet more visible in DCP. In the planning phases within DCP, the course is reversed.
+The schedule is the one plan in which, by and large, more parties are more involved than in any other plan throughout the project life.
+A cumulative effect of growing strong involvement by the parties from one planning stage to the other is apparent.
+ A transition to onsite planning, from PBP through PCP to DCP, is evident. This is mostly indicated by the decrease in home-omce involvement on the one hand, and by the increasing involvement of the general superintendent (and the project engineer) on the other.
+Evolution by families of plans
+The evolution of involvement in planning throughout the project life was also examined from a different angle. Figure 2 shows the mean involvement intensity of each internal party in the three planning stages separated into two groups of plans: the base and control plans, and the technology and resource plans. The figure above each bar is the mean proportion of projects in which the respective party was reported to have been strongly involved. The results were obtained by computing, for each group of plans, the mean value of the medians of its corresponding percentage ranges (see Figure l). This was done for each party at each stage/phase. For example, to obtain the mean proportion of projects with strong involvement for the project manager at the PBP stage in the base and control plans, the median values of the upper four squares in the far-left column in Figure la were summed (50%, 90% and twice 70%), and then divided by 4 (plans), yielding 70%.
+	Project manager	General superintendent
+　In obtaining this involvement measure, all the construction plans were necessarily taken to have identical weights. For the purpose of observing overall trends, this was assumed to be an acceptable approximation, especially as this approximation is likely not to be as incorrect within each family as for the total of nine plans. Note also that the graphs depict mean involvement intensities both at the stages and at the planning phases within the same figure.
+The following overall trends were observed:
+• The project manager takes the lead in respect of involvement in the base and control plans throughout all the project stages and planning phases. He/she maintains an almost constant level of high involvement in these plans, with mean values of strong involvement in the range of 65—70% of the sample projects, and soaring to an average of 85% in choice making. In the technology and resource plans, his/her involvement is more moderate, apart from a sharp rise, again, in choice making. Overall, he/she is the only party who intensifies his/her involvement in choice making during construction.
+• Counterbalancing the project manager, the general superintendent is, overall, the dominant party in the technology and resource plans, and comes second in
+
+Figure 2. Evolution of involvement of key functionaries by families of plans
+[PBP: prebid planning, PCP: preconstruction planning, DCP: during-construction planning, (i) information gathering, (ii) alternatives development, (iii) choice making.]	Project engineer	Home office
+
+　the base and control plans. In terms of mean involvement intensity, his/her behaviour differs from the project manager's in that he/she is on an ascending curve in both families (sharper in technology and resource) from PBP through PCP to DCP. In the development-of-alternatives phase, he/she scores the highest possible mean involvement level (90%) in the technology and resource plans, the only occurrence of so high a maximum value here.  The project engineer exhibits a similar behaviour in both families of plans, with somewhat higher levels of involvement in the base and control plans than in technology and resources. His is a line of sharp increase from PBP (with 10%, the lowest mean value, in both families) to DCP (an impressive 70% in base and control in the information-gathering phase), and a decline within DCP towards a minimum (of 30/40 0/0) in choice making.
+• The home offce is the only party which shows its highest observed involvement throughout the project life at the PBP stage (in both families). In the technology and resource plans, it descends continually, down to 10%, the lowest mean level in any of the planning phases during cqlstruction. In the base and control plans, it maintains about the same low level of involvement in DCP as in PCP.
+RELATIVE PLANNING EFFORT
+The relative planning effort, evaluated by the relative time invested in the preparation of the various construction plans, is the second measure used in this study for the examination of construction planning throughout the project life. The variables, analysis and findings are presented below.
+Variables and ratings
+The respondents were asked first to identify the functional plan in the preparation of which more time was invested than for any others, and then to assess the time invested in all the other plans relative to that for this first one. For example, if the schedule was evaluated by a certain interviewee to have been the plan of his project on which the most time was invested, it would be rated at 100%. If that project required half as much time for the preparation of work methods, this would then be rated at 50%.
+　The evaluation process addressed the nine construction plans separated into the three defined project stages discussed in this paper, and referred to the cumulative effort of all the participating parties. The during-construction planning stage was addressed here as a whole, without subdivision into individual planning phases.
+Analysis and presentation of results
+The results for each planning stage were analysed in the following manner. A mean rating of all the projects was obtained for each plan. The plan which scored the highest mean percentage was then defined as requiring a relative planning effort of 100%, and the results of
+Engineering ond method
+Organization and contract
+Schedule100% 100%
+100%
+Cost 	cash flow
+Major equipment
+Loya.Jt and logistics
+Work methods
+Manpower allocation
+Materials allocation
+ PBP = Pre-bid planning
+Z PCP = Pre-construction planning
+        DCP = During -construction planning Figure 3. Relative planning effort.
+all the other plans were proportionally adjusted. For example, if, in a certain stage, the highest mean rating, 80%, were scored by the schedule, it would be designated as 100%, and the mean ratings of all the other plans in this stage would be multiplied by a factor of 100/80 = 1.25. Since the initial rating process had taken place within each planning stage separately, this normalization was necessary for the establishment of a common basis for the comparative analysis of results between stages.
+　The normalized mean relative planning efforts in all stages are shown in Figure 3. Note that all the results are given in relative terms, permitting the relative times invested in each plan across the stages to be compared with each other, as well as the rankings occupied by a plan within each stage (without, however, any indication whatsoever being given as to the absolute time invested in a plan).
+Findings
+Results were compared for the construction plans within each project stage, and for every construction plan between the three stages. The comparisons were then further studied by families of plans. The major findings are as follows:
+• In prebid planning, more time was invested in the preparation of cost and cashflow than in any other plan. Next, and quite close, was the schedule, being lower by less than 20%. With about 20%, manpower and materials allocation attracted a very small relative planning effort, and the rest of the plans were all situated in the 34—52% range, as compared with cost and cashflow (100%).
+• The schedule was found to be the dominant plan, in terms of invested effort, in the preconstruction stage, with cost and cashflow being down to almost half of this and ranked only fourth, after being first in PBP. After the schedule, layout and logistics and work methods are the most prominent plans, with 61 % and 55% respectively. Ranked last is materials allocation (again), along with engineering and method.
+• The schedule continues to be the plan with the most time invested in it during construction, and next is cost and cashflow, with 68%. Manpower allocation has risen to third place with 43%, and work methods follows closely with 38%. Last during construction is organization and contract.
+• The overall picture through all three project stages, in terms of invested effort, is as follows:
+ The schedule leads, overshadowed only in PBP (and not to any great extent) by cost and cashflow. o Cost and cashflow, ranked first in PBP, suffers the sharpest decrease in PCP, but rises again in DCP to second place, although far behind the schedule.  Work methods is at a relative high of 38—55%, and layout and logistics is next, in the 33—61% range. o Organization and contract has the steepest overall decline, from third place (52%) in PBP through sixth in PCP to last in DCP, with 18% being the lowest reported relative effort. Engineering and method is another declining plan in terms of relative planning effort, but it does not decline as sharply as organization and contract nor in its ranking.
+ Manpower allocation is the only plan that shows a steady increase, both in relative effort and in ranking, rising from eighth place (22%) in PBP to third place (43%) in DCP.
+The results of examining the relative planning effort by families of plans are shown in Table 3. The figures were obtained by computing, for each family and project stage, the mean values of the relative planning efforts appearing in Figure 3. The results were then sorted in decreasing order within each planning stage to obtain the relative ranking of each family.
+The following major conclusions can be drawn:
+• Throughout the project life, more effort is, on average, invested in the control plans than in any other family of plans.
+• In prebid planning, the mean efforts invested in the base plans and the technology plans are each about half of those invested in the control plans. Relatively very little effort is invested in the resource plans.
+• Although still leading, the control plans are not as dominant in preconstruction planning as in prebid planning. The mean effort invested in the technology plans is here at a level of more than 70% of that for the control plans, and the efforts for the base plans and the resource plans are 50% and 46% of that for the control plans respectively.
+• During construction, the mean efforts invested in the technology plans and the resource plans are each equal to about 40% of that invested in the control plans, with the base plans down to 29% of the effort for the control plans.
+Table 3. Mean relative planning effort by families of plus
+Family of plansProject planning stageEvolution of rankingPrebid,Preconstruction, 	Duringconstruction,Base	47	38	24	
+B C D
+1
+2
+Control	91	76	84
+3
+4
+B C D
+Technology	40	54	33	
+B C D
+Resource	22	35	34	
+
+[B: prebid planning, C: preconstruction planning, D: duringconstruction planning.]
+ When the relative ranking of each family within each stage is studied, the evolution throughout the project life is found to be as follows:
+ The control plans, as stated above, rank first in all stages.
+ The base plans show a steady decline in the relative planning effort: they come second in PBP, third in PCP and fourth in DCP.
+0 The technology plans rise from third place in PBP to second in PCP; in DCP, they drop again to third place.
+ The resource plans are last, in fourth place, in PBP and PCP, but then, during construction, they rise sharply to take up the second place after control.
+ The cumulative effort invested in all the plans except control is 1.2 times greater than that invested in control in PBP, 1.67 times in PCP, and 1.08 times in DCP. In other words, although the schedule and cost and cashflow are, throughout the project life, the
+
+plans requiring the longest time, the combined efforts invested in all the other plans, as observed in this study, are also significantly large.
+SUMMARY AND IMPLICATIONS
+This paper presents the results of a research program which examined some central aspects of planning practices in a sample of progressive construction companies. Strategic planning in the prebid and preconstruction planning stages was characterized by several representative parameters, while tactical planning in all the planning stages, and particularly in the course of construction, was studied and described with the aid of concrete planning measures: the involvement of the participating parties, and the relative effort invested in the preparation of functional construction plans.
+　Reverting now to the questions raised at the beginning of this paper, the findings of this study unequivocally provide the following answers, based on a panel of construction managers who were selected on the strength of their experience and proficiency, and who represent companies with an established planning culture.
+e Planning in a construction company is an ongoing process that is conducted through all the stages of a project: the prebid, preconstruction and duringconstruction stages. In some areas, of course, most of the planning is basically completed prior to the commencement of construction, but, in many areas, planning continues well into construction, whether it is the detailed planning of a schematic plan conceived in an earlier stage, or planning carried out in reaction to newly emerging conditions.
+ Throughout the project life, many parties are, to varying degrees, involved in planning, depending on the stage that the project is in, and on the planning area concerned. There is never a sole planner at any stage in any area, and even if the overall picture is that of the project manager and the general superintendent alternately leading, they still cooperate with each other in many planning areas, as well as with other internal (site or home-omce) or external functionaries.  Construction planning is much more than mere scheduling, although the schedule is the major and most time-consuming plan almost throughout the project life. Other construction plans are at the focus of planning in the various stages of the project. The base plans have a stronger presence at earlier stages, the resource plans are mainly evident during construction, and the technology plans are at the heart of planning, at a varying level, but almost continuously.
+For most master experts among practitioners, these conclusions may not reveal anything that they do not already know and implement. Thus, for them, this paper is mainly a more formal presentation and perhaps better-structured reflection of the realities of their work environment. For most other practitioners, however, as well as for the academic investigator, the findings and conclusions of this paper may contain several practical implications. Among these are the following:
+I l 
+ the development of guidelines on planning areas/ functional plans other than scheduling and cost estimation that may usefully be included by construction companies in their project manuals,  the initiation of training, through educational programmes, workshops etc., of potential planning functionaries in teamwork, including the introduction and employment of advanced tools, such as groupware,  the development of practical tools and procedures for enhancing the coordination and facilitating the communication among all internal and external parties participating in planning,  the attributing of greater importance to, and the placing of more emphasis on, the planning of the planning process, with the goal of laying down who should do what and when.
+ACKNOWLEDGEMENTS
+The authors wish to express their gratitude to the companies and individuals who participated in the field study conducted within this research programme.
+Dr Aviad Shapira is a faculty member in the Department of Civil Engineering and a senior researcher in the National Building Research Institute Department of Construction Management, Technion —Israel Institute of Technology. He obtained a DSC in construction engineering and management from the Technion in 1989, after which he spent a year at the University of Illinois, USA, as a visiting research associate, on a grant from the US Air Force. Prior to this he practised construction a.s a project manager and chief engineer in a construction company for ten years, during which he was in charge of the construction of more than 30 public, commercial, industrial and civil engineering projects. His current research and consultation work is in construction engineering and information technology.Alexander Laufer is a vice dean at the Department of Civil Engineering, and the head of the National Building Research Institute Department of Construction Management, Technion —Israel Institute of Technology. He obtained a BSc and MSc in civil engineering at the Technion, and a PhD in civil engineering at the University of Texas, USA, in 1980. Following this he taught at Texas A&M University, USA, and spnt a year at North Carolina State University, USA, as a visiting scholar, and as a consultant to the Project Organization Task Force of the / Construction Industry Institute. Prior to this he was for eight years a project manager and consultant for major owner clients and construction companies. His current research and consultation work is in project management.REFERENCES
+I Anderson, S D and Woodhead, R W Project Manpower Management: Management Processes in Construction Practice John Wiley, USA (1981)
+2 Cormican, D Construction Management: Planning and Finance Construction Press (1985)
+3 Laufer, A and Tucker, R L 'Is construction project planning really doing its job? A critical examination of focus, role and process' Construct. Manage. & Econ. Vol 5 No 3 (1987) pp 243-266
+4 Sanvido, V E 'A framework for designing and analyzing management and control systems to improve the productivity of construction projects' Technical Report 282 Stanford University, USA
+(1984)
+5 Gabriel, E and Trimble, E G 'Construction planning by participation' in Grool, M C et al. (Eds.) Project Management in Progress Elsevier (1986)
+6 Laufer, A, Cohenca-Zall, D and Howell, G A 'The planner—manager competence dilemma revisited' Proc. 1 Ith INTERNET World Congr. Project Management Vol 2 Florence, Italy (1992) pp 61-73
+7 Laufer, A, Shapira, A, Cohenca-Zall, D and Howell, G A 'The pre-bid and pre-construction planning process' J. Construct. Eng. & Manage. ASCE (to be published)
+8 Laufer, A, Shapira, A and Cohenca-Zall, D 'The process of construction planning and its products: practice in mature companies' Research Report National Building Research Institute, Technion,
+Haifa, Israel (1992)
+Evolution of involvement and effort in construction planning throughout project life
+
+A SHAPIRA AND A LAUFER
+
+156	International Journal of Project Management
+
+Vol 11 No 3 August 1993	157
+
+
+
+
+
+Evolution of involvement and effort in construction planning throughout project life
+
+A SHAPIRA AND A LAUFER
+
+156	International Journal of Project Management
+
+Vol 	No 3 August 1993	163
+
+A SHAPIRA AND A LAUFER
+
+Vol 	No 3 August 1993	163
+

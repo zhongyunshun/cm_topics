@@ -1,0 +1,152 @@
+﻿See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/353342935
+The Role of Common Data Environments as Enabler for Reliabe Digital Lean Construction Management
+Conference Paper · July 2021
+DOI: 10.24928/2021/0110
+
+CITATIONS	READS
+3	480
+Gabriele Pasetti Monizza
+Free University of Bozen-Bolzano
+22 PUBLICATIONS   416 CITATIONS   
+SEE PROFILE
+Free University of Bozen-Bolzano
+243 PUBLICATIONS   5,193 CITATIONS   
+All content following this page was uploaded by Christoph Paul Schimanski on 19 July 2021.
+The user has requested enhancement of the downloaded file.
+
+Schimanski C.P., Monizza G. P., and Matt D.T. (2021). “The Role of Common Data Environments as Enabler for Reliable Digital Lean Construction Management”. Proc. 29th Annual Conference of the International Group for Lean Construction (IGLC29), Alarcon, L.F. and González, V.A. (eds.), Lima, Peru, pp. 97–106, doi.org/10.24928/2021/0110, online at iglc.net. 
+THE ROLE OF COMMON DATA 
+ENVIRONMENTS AS ENABLER FOR 
+RELIABE DIGITAL LEAN CONSTRUCTION MANAGEMENT 
+Christoph Paul Schimanski1, Gabriele Pasetti Monizza2, and Dominik T. Matt3 
+ABSTRACT 
+Collaboration has always been a core element of Lean Construction. However, the current pandemic is changing the way collaborative environments can be created. Moving away from face-to-face discussions, concepts are needed that allow people to collaborate without meeting in person. Lean Construction methods implemented with digital technologies are a possible way to achieve this. Digital technologies in the built environment sector rely often on the Building Information Modelling (BIM) process. When information is managed and exchanged in a BIM process, Common Data Environments (CDE) as central information hubs come into play. How Lean concepts can make use of a standardized CDE workflow to access reliable information needed, e.g. for construction process planning, is yet to be addressed by the scientific community. 
+   This paper outlines a concept for using CDE workflows together with a digital variant of the Last Planner® System that has been devised from a Design Science Research initiative. We hypothesize that this concept allows for achieving similar positive collaboration effects in remote planning sessions as in physical ones.  First findings from a mock-up implementation of this concept in a Focus Group environment are presented and discussed in this paper. 
+KEYWORDS 
+Common data environment, BIM, Last Planner® System, lean construction, information management. 
+INTRODUCTION AND RELATED WORK 
+The current COVID-19 pandemic hinders people from meeting each other in person. This has surely an impact on how people collaborate with each other, which affects the global construction industry (CI) on a global scale. The CI is an industry, in which many different stakeholders need to collaborate to deliver projects. Improving collaboration is 
+ 
+one important principle of Lean Construction Management (LCM) to increase productivity. Weak productivity has been reported for years in the construction industry (Dallasega et al. 2013; Matt et al. 2013). Ideas based on “Lean Thinking” aim at improving this status quo (Aziz and Hafez 2013). In addition to the deficient organization of how people work together,  a poor degree of digitalization is often referred to as the main driver for weak productivity in the construction industry (Gbadamosi et al. 2019). 
+   Whilst LCM focuses on improving how people work together, the process of Building Information Modeling (BIM) is considered the core of digitalization in the construction industry (EUBIM Task Group 2017). BIM can be defined as a process for creating, collecting and distributing information over the life cycle of a building (NBS 2016). 
+   LCM and BIM are not independent (Bhatla and Leite 2012), but can even positively influence each other (Khan and Tzortzopoulos 2014). This also applies to workflow stabilization and production control in construction processes. In fact, information management, which is key to project delivery when BIM is used (ISO 19650-1 2018), is considered as crucial for successful production management (Von Heyl and Teizer 2017). 
+   Digitalization can empower collaboration and teamwork across large distances all over the world. This has been demonstrated not least by the current pandemic, in which people have been forced to switch to home office models and digital co-working concepts very rapidly. The possibility of remote co-working through digitalization while preserving the positive effects of team collaboration does also play an important role for Lean Construction: More and more concepts to improve design and construction processes based on Lean philosophy, which are well-proven umpteen times in an "analog" implementation, such as the Last Planner® System (LPS) (Ballard 2000a), or Takt Planning (Haghsheno et al. 2016), are being implemented into software systems (usually cloud-based). Examples of such systems include LCM Digital® (Demir et al. 2019), VisiLean® (Dave et al. 2011) or BeaM! (Schimanski et al. 2020). This paper aims to address the question whether remotely applied Lean concepts through digital tools differ from non-digital application. 
+   It is not uncommon for digital Lean Construction tools to be connected to the BIM approach. Linking BIM models to Lean Construction methods does intuitively make sense, since information inherently available in BIM models are often input parameters for applying these methods (e.g., material quantities for estimating activity durations within the pull planning sessions of the LPS). Moreover, in the literature there are also frequently cited references that emphasize the positive synergies of Lean and BIM  (Sacks et al. 2010). 
+PROBLEM STATEMENT 
+The BIM-based and digital implementation of Lean methods such as the Last Planner® System opens up the possibility of holding collaborative planning sessions online via cloud systems and thus also across large distances. To this end, IT tools such as the BeaM! software prototype are already being put forward. The BeaM! prototype enables pull planning tailored for the LPS on digital touchboards. One of the challenges of BIMsupported pull planning of construction processes is that it must be always clearly identifiable which planning basis is being referred to. This means that it must always be unambiguously and reliably clear what state the information in the BIM model has and hence, what it may and may not be used for. 
+   For this purpose, so-called Common Data Environments (CDE) are used in BIM projects. Preidel et al. (2017) define a CDE as a "central space for collecting, managing, evaluating and sharing information" and describe its importance for BIM-based collaboration processes. International standards differentiate between (i) the CDE workflow to account for the process perspective and (ii) CDE solutions that can be technological providers of the before mentioned “central space” (Kemp 2020). The CDE workflow may be implemented by multiple CDE solutions. The extent to which these considerations can be relevant for digital Lean Construction applications has not yet been addressed in the literature. The role of CDEs for applying BIM-supported Lean concepts is one of the issues being addressed in this paper. 
+   Since this paper presents a concept for remote pull planning meetings via video conferencing tools, this study also investigates to what extent this technical medium impacts the human perception on efficiency in pull planning sessions. Efficiency here means how smoothly and thoroughly the digital, remote pull planning is carried out compared to a traditional in-situ pull planning. 
+RESEARCH METHODOLOGY 
+A prescriptive concept for digital, BIM-based and remote Lean Construction involving the BeaM! Production Management System is presented in this study (BeaM! is introduced in a separate section below). The development of BeaM! itself is part of a larger research project following the Design Science Research (DRS) approach and not within the scope of this paper. However, contributing to the evaluation of BeaM! in terms of practicability and in the face of the current pandemic situation, this paper examines the aspect of collaborative pull planning (as an essential element of BeaM!) from the point of view of remote applicability. The aim is to investigate whether a remotely applied, digital pull planning differs from a non-digital one. For this purpose, the Focus Group methodology is used. Focus Groups consist of rather few selected participants who are brought together to discuss and reveal novel perspectives on developments in early stages (Ereiba et al. 2004). Focus groups are usually guided by a moderator and prepared questions. 
+   According to the DSR evaluation framework by Brocke and Sonnenberg (2012), Focus Groups provide for a valid method to evaluate the current development stage of BeaM! as a so-called "ex ante evaluation", since the final prototype has not yet been entirely constructed. 
+CONCEPT PROPOSAL 
+INFORMATION MANAGEMENT IN BIM PROJECTS 
+The ISO 19650 series is an international standard describing requirements and principles for information management in the built environment sector. When information management according to ISO 19650 is required in BIM projects, the utilization of a socalled Common Data Environment (CDE) for information exchange is recommended. In the CDE workflow, a so-called information container passes through various states, which are suggested in ISO 19650 as Work-in-Progress (WIP), Shared, Published and Archived states. In addition, each information container should be assigned a "suitability" so that each stakeholder involved in the design process can clearly determine at any time for what the information may be used for. It is thus intuitively understandable that only published information containers – saying only complete, checked, reviewed, approved and finally authorized information - with suitability for construction should be used for construction execution. Even if in practice we are still a way off from this ideal, the CDE workflow can help to always reveal in a reliable and transparent way which design bases were used for construction or which design deliverables and approvals for execution are still missing. 
+BEAM! PRODUCTION MANAGEMENT SYSTEM 
+BeaM! is a Production Management System that conceptually takes up the Last Planner® System, adapts it and expands it to include aspects of BIM, agile project management according to Scrum as well as cost management. However, the integration of the LPS with BIM is the main focus on a conceptual level. The term “BeaM!” refers to both the conceptual considerations for a novel Production Management System and an ITprototype that implements this Production Management System into a piece of software. The conceptual foundations for BeaM! are described in Schimanski et al. (2020). In principle, BeaM! aims at fully digitalizing the LPS process steps and supporting them by BIM. As an example, pull planning sessions for phase or look-ahead planning take place in front of a digital touchboard instead of at brown paper in the construction container. Another example is that quantity information for the determination of process and operation durations can be derived automatically from the linked BIM model objects, which are stored on a cloud-based model-server making use of open APIs. 
+   In the current pandemic, this digital version represents a promising opportunity to conduct a full-fledged LPS involving all relevant Last Planners from distance using the nowadays well established video conferencing systems such as MS Teams®, Zoom® or Skype® (Wiederhold 2020). However, especially in planning meetings where the participants are not physically present in the same room, it is necessary that the planning basis, which in this case consists of the BIM models, is reliable and that each participant is clearly aware of the state and suitability of the information within the model. For this purpose, we propose to link a CDE workflow to the BeaM! Production Management System to foster remote application. 
+   The prototypical implementation of BeaM! in an IT system is based on an architecture, where the process planning tool acts as a stand-alone web-application interacting with BIM models that are stored on a cloud-based model server. For the latter, the open source BIMserver.org project is used, where all Industry Foundation Classes (IFC)  entities are available as Java classes (Beetz et al. 2010). The BIMserver itself represents a platform that could fulfill the requirements for a CDE solution (Preidel et al. 2017). The BeaM! process planning tool can retrieve quantity information of linked BIM objects. Linking does take place within in the BeaM! user interface. 
+The proposed concept for a resilient and ISO 19650 compliant digital Lean 
+Construction Management (exemplified by a part of BeaM! as Production Management System and BIMserver as a CDE solution) is implemented and evaluated in a mock-up digital pull planning session. We chose pull planning, since it comprises the keycomponent of BeaM! for phase and lookahead planning. 
+CDE-BEAM! WORKFLOW AND MOCK-UP IMPLEMENTATION 
+The CDE-BeaM! workflow is shown in Figure 1. 
+ 
+Figure 1: CDE-BeaM! Workflow 
+In line with the CDE workflow according to ISO 19650, the BIM models pass through various states until they finally reach the state of published and suitability for execution. The information up to this status flows through various quality gates (e.g. clash control of all involved discipline models).. All BIM models are exchanged in the vendor-neutral IFC file format. Only objects of BIM models in the state published with suitability for execution are used for pull planning within the BeaM! web application. 
+   To conduct pull planning remotely, a video conference meeting via the Zoom® platform is hosted by the BeaM!-Knight, who comprises the moderating role in the BeaM! Production Management System. The participating Last Planners are invited to this conference via email link. The BeaM!-Knight shares his/her screen so that all participants see the same scene of the pull planning process at the same time. All participants have their microphones permanently switched on. Then, the activities and necessary discussions among the Last Planners for the planning of a phase or a process by means of pull planning can start: The Last Planners one by one request control of the screen. The BeaM! Knight provides the permission and only one Last Planner at a time can create new sticky notes and arrange them on the digital planning board. In this way, the process continues iteratively through the trades until a coordinated phase plan or look-ahead plan has been created and agreed on. 
+   This concept was implemented with one Focus Group in a mock-up process planning scenario. The Focus Group consisted of a total of 5 participants working in the construction sector who took on the role of Last Planners. All of whom were either already familiar with the "traditional" application of LPS or received a training beforehand. The participants' task was to create a phase plan for the construction phase of a single-family house using the pull planning module of the BeaM! software prototype, following the phase scheduling rules as postulated by Ballard (2000b). The planning session was moderated by the BeaM!-Knight. The role of the BeaM!-Knight in this mockup implementation was taken on by the first author of this paper. Figure 2 shows a screenshot taken during the phase planning in the Focus Group. 
+ 
+Figure 2: Screenshot taken during Focus Group mock-up Implementation 
+EVALUATION AND PRELIMINARY FINDINGS 
+The focus of evaluation in this paper is not the BeaM!-tool itself in terms of its applicability or potential benefit in practice (this will be addressed in a separate publication). This paper primarily aims at evaluating the usability of the BeaM!-tool while considering CDE workflow for enabling Lean Construction from a distance as presented in Figure 1. Consequently, the focus was laid on the pull planning aspects of the LPS and the questions directed to the participants were mainly addressing the perceived differences between digital and non-digital implementation as well as information reliability.  The questions to the participants of the Focus Group during and after the session were formulated as: 
+• Were the type/quality of discussions in the digital pull planning sessions comparable to traditional sessions? 
+• Could hand-offs and prerequisites between trades appropriately be addressed? 
+• Were you able to gather all the information you needed? 
+• Were you able to share everything you wanted to share? 
+• Have you felt any limitations/improvements in communication? 
+• Did the CDE workflow increase confidence in the reliability of the design basis? 
+• Was the used video-conferencing system adequate? 
+• What did you like, what did you not like during the planning sessions? 
+• Could the digital, BIM-based LPS process completely replace the traditional one, what is missing to get there? 
+• Did this session tire you more than a face-to-face session would? 
+The questions were raised in the form of casual discussions in line with the recommendations of conducting Focus Groups in construction management research by Ereiba et al. (2004). No transcription of what was said to capture the group discussion was made, but a video recording of the session was taken. The feedback of the participants can be summarized to the statement that the digital conduction of pull planning following the proposed concept was generally well possible. The participants confirmed that elementary principles in the virtual remote session did not differ from the traditional way. 
+This was especially confirmed for crucial points such as asking for hand-offs relevant to one's own activity or transmitting one's own relevant information for the overall process. 
+   However, it was found that on the one hand the online discussion in this setup was not quite as free, spontaneous, and intuitive, since only one Last Planner at a time could receive control over the screen. On the other hand, this forced the planning to take place in a more disciplined manner compared to the traditional way in which all Last Planners pin their sticky notes on the brown paper in an uncoordinated and simultaneous fashion. As a limitation in communication, it was reported that the always switched-on microphone meant that sometimes one did not capture who said what. Further, it was mentioned that the remote control of the shared screen was associated with minimal delays in cursor movements when arranging sticky notes, which somewhat disrupted the flow while using the application. 
+   Confidence in the reliability of the information in the BIM model provided by the CDE workflow was generally rated as high. The used hardware and the proposed workflow were also assessed as positive, except for the above-mentioned limitation (cursor delay). What the participants liked about this session was the possibility to conduct a pull planning session very spontaneously and independent of location, as well as the digital availability of information, so that, for example, no one had to transfer information from paper-based sticky notes to an Excel spreadsheet afterwards. An increased fatigue compared to physical pull planning sessions could not be observed at the scheduled duration of one hour. For longer sessions, however, this was assessed as being indeed possible. 
+   A complete replacement of physical pull planning sessions was not advocated by the participants, since some points could have been discussed even more naturally and directly in face-to-face discussions on-site or in construction containers. This was explained, among other things, by the fact that an ambience close to the construction site is generally considered to be inspiring for construction related planning activities. Nevertheless, the – in this study not-tested - variant of conducting pull planning in a physical environment but using digital touchboards and the BeaM! IT-tool instead of paper-based tools was evaluated as promising by all participants. 
+DISCUSSION & CONCLUSION 
+The findings of the Focus Group show that remote collaborative planning can be a useful addition or even alternative to the preferred physical sessions. The complete replacement was rejected, because the means of video-conferencing could not transport all subliminal and interpersonal elements of personal discussions. One fact contributing to this circumstance, namely that only one user can operate the digital planning board at a time, could be mitigated in the future by more sophisticated IT-systems that allow parallel working in real time, as e.g. proposed by Atencio et al. (2019). 
+   On the methodological side, it has been shown that the new style of “digital” discussion gives the moderator, in this case the BeaM!-Knight, an even more important role in coordinating the planning session appropriately. To this end, a high degree of methodological competence and interpersonal sensitivity are required to maintain a fruitful discussion. The emphasis on a moderating role for the application of BeaM! is also important in comparison to other existing BIM-Lean software systems mentioned in the introduction. In particular, BeaM! is designed to entirely mimic the "traditional" pull planning in a digital way. Therefore, digital sticky notes exist that can be freely moved on a canvas. Quantity information can be retrieved from linked BIM objects. This functionality, which can speed up e.g. the estimation of operation durations, certainly needs guidance for the Last Planners by in first applications. 
+   Regarding the conjunction of Lean Construction techniques with a CDE workflow in line with ISO 19650, the participants stated an increased trust in reliability and suitability of the BIM information. 
+   In overall conclusion, it can be stated that this paper’s findings indicate that parts of collaborative planning sessions within Lean Construction methods could be conducted completely digitally and remotely, without having a significant negative impact on the quality of the planning outcome. Surely, even in pandemic times with very restrictive lockdown periods, the physical presence of workers on construction sites is necessary to deliver projects. However, if the presented concept can help to ensure that production planning meetings can take place virtually with no-quality losses, then the number of meetings with high density of people in small rooms on construction sites (such as in construction containers) can be greatly reduced. With this, also the risk of infections on construction sites is reduced, since the indispensable physical presence of workers can usually be distributed over a larger (open-air) area. 
+ACKNOWLEDGEMENTS 
+This work is part of BIM Simulation Lab - FESR 1086, a research project financed by the European Regional Development Fund (ERDF) Südtirol/Alto Adige. 
+REFERENCES 
+Van Aken, J. E. (2004). “Management Research Based on the Paradigm of the Design Sciences: The Quest for Field-Tested and Grounded Technological Rules.” Journal of Management Studies, 41(2), 219–246. 
+Atencio, Y. P., Cabrera, M. I., and Huaman, L. A. (2019). “A Cooperative Drawing Tool to Improve Children’s Creativity.” 16th International Conference, CDVE 2019, Mallorca, Spain, October 6–9, 2019, Proceedings, 162–171. 
+Aziz, R. F., and Hafez, S. M. (2013). “Applying lean thinking in construction and performance improvement.” Alexandria Engineering Journal, 52(4), 679–695. Ballard, G. (2000a). “The Last Planner system of production control.” University of Birmingham. Ballard, G. (2000b). “Phase Scheduling.” Lean Construction Institute: White Paper No. 7, 7, 1–3. 
+Beetz, J., van Berlo, L. A. H. M., de Laat, R., and van den Helm, P. (2010). 
+“Bimserver.org - an Open Source IFC model server.” 27th International CIB W78 Conference, November 16-19, 2010, Cairo, Egypt, 1–8. 
+Bhatla, A., and Leite, F. (2012). “Integration Framework of BIM with the Last Planner System.” Proc. 20th Ann. Conf. of the Int’l. Group for Lean Construction, International Group for Lean Construction, San Diego, 10. 
+Brocke, J., and Sonnenberg, C. (2012). “Evaluation Patterns for Design Science Research 
+Artefacts.” Communications in Computer and Information Science, 286(Jan), 171– 177. 
+Dallasega, P., Matt, D. T., and Krause, D. (2013). “Design of the Building Execution Process in SME Construction Networks.” Second International Workshop on Design in Civil and Environmental Engineering, 7–15. 
+Dave, B., Boddy, S., and Koskela, L. (2011). “Visilean: Designing a production management system with lean and BIM.” 19th Annual Conference of the International Group for Lean Construction 2011, IGLC 2011, 477–487. 
+Demir, S., von Heyl, J., and Demir, S. (2019). “Digitizing Lean Construction With.” Proc. 27th Annual Conference of the International Group for Lean Construction (IGLC), 843–852. 
+Ereiba, Y. H., Glass, J., and Thorpe, T. (2004). “TBY Using Focus Groups in Construction Management Research.” 20th Annual ARCOM Conference, 1–3. 
+EUBIM Task Group. (2017). Handbook for the introduction of Building Information Modelling by the European Public Sector. EUBIM Task Group. 
+Gbadamosi, A.-Q., Oyedele, L., Mahamadu, A.-M., Kusimo, H., and Olawale, O. (2019). “The Role of Internet of Things in Delivering Smart Construction.” CIB World Building Congress, (June), 17–21. 
+Haghsheno, S., Binninger, M., Dlouhy, J., and Sterlike, S. (2016). “History and Theoretical Foundations of Takt Planning and Takt Control.” Proc. 24th Ann. Conf. of the Int’l. Group for Lean Construction, 53–62. 
+Haghsheno, S., Budau, M. R.-D., and Russmann, E. (2020). “Collaboration Barometer – Development of a Tool for Measuring Collaboration During Design and 
+Construction .” Proc. 28th Annual Conference of the International Group for Lean Construction (IGLC), 323–336. 
+Hamzeh, F. R., El Samad, G., and Emdanat, S. (2019). “Advanced Metrics for Construction Planning.” Journal of Construction Engineering and Management, ASCE, in press(11), 1–16. 
+von Heyl, J., and Teizer, J. (2017). “Lean production controlling and tracking using digital methods.” IGLC 2017 - Proceedings of the 25th Annual Conference of the International Group for Lean Construction, 127–134. 
+ISO 19650-1. (2018). ISO 19650 - Organization of information about construction works -- Information management using building information modelling - Part 1: Concepts and principles. Multiple Publishers. Distributed through American National Standards Institute (ANSI). 
+Kemp, A. (2020). Information management according to BS EN ISO 19650 - Guidance Part C Facilitating the common data environment (workflow and technical solutions ). UK BIM Framework. 
+Khan, S., and Tzortzopoulos, P. (2014). “Effects of the interactions between lps and bim on workflow in two building design projects.” 22nd Annual Conference of the International Group for Lean Construction, IGLC 2014, 933–944. 
+Matt, D. T., Krause, D., and Rauch, R. (2013). “Adaptation of the value stream optimization approach to collaborative company networks in the construction industry.” Procedia CIRP, Elsevier B.V., 12, 402–407. 
+Mollasalehi, S., Fleming, A., Talebi, S., and Underwood, J. (2016). “Development of an Experimental Waste Framework Based on Bim / Lean Concept in Construction Design.” Proc. 24th Ann. Conf. of the Int’l. Group for Lean Construction, International Group for Lean Construction, Boston, 193–202. 
+NBS. (2016). “What is Building Information Modelling (BIM)?” https://www.thenbs.com/knowledge/what-is-building-information-modelling-bim (Feb. 12, 2021). 
+Parn, E. A., and Edwards, D. (2019). “Cyber threats confronting the digital built environment: Common data environment vulnerabilities and block chain deterrence.” Engineering, Construction and Architectural Management, 26(2), 245–266. 
+Preidel, C., Borrmann, A., Oberender, C., and Tretheway, M. (2017). “Seamless Integration of Common Data Environment Access into BIM Authoring Applications: the BIM Integration Framework.” eWork and eBusiness in Architecture, Engineering and Construction: ECPPM 2016: Proc. 
+Sacks, R., Koskela, L., Dave, B. A., and Owen, R. (2010). “Interaction of Lean and 
+Building Information Modeling in Construction.” Journal of Construction Engineering and Management, 136(9), 968–980. 
+Schimanski, C. P., Monizza, G. P., Marcher, C., and Matt, D. T. (2020). “Development of a BIM-based production planning and control system for Lean Construction through advancement and integration of existing management techniques.” Frontiers of Engineering Management. 
+Wiederhold, B. K. (2020). “Connecting through Technology during the Coronavirus Disease 2019 Pandemic: Avoiding ‘zoom Fatigue.’” Cyberpsychology, Behavior, and Social Networking, 23(7), 437–438. 
+View publication stats
+1 PhD Cand., Faculty of Science and Technology, Free University of Bozen-Bolzano, Italy, christophpaul.schimanski@natec.unibz.it, orcid.org/0000-0002-0747-7173. Research Associate, Fraunhofer Italia Research, Bolzano, Italy. BIM Manager, HOCHTIEF ViCon GmbH, Essen, Germany. 
+2 Research Associate, Fraunhofer Italia Research, Bolzano, Italy, gabrielepasettimonizza@fraunhofer.it, orcid.org/0000-0003-2197-6267 
+3 Head of Fraunhofer Italia, Fraunhofer Italia Research, Bolzano, Italy, dominik.matt@unibz.it, orcid.org/0000-0002-2365-7529. Full Professor, Faculty of Science and Technology, Free University of Bozen-Bolzano, Bolzano, Italy. 
+	Lean and BIM 	 
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Role of Common Data Environments as Enabler for Reliable Digital Lean Construction Management 
+
+Christoph Paul Schimanski, Gabriele Pasetti Monizza, and Dominik T. Matt 
+
+	98	 Proceedings IGLC29, 14-17 July 2021, Lima, Peru 
+
+	Lean and BIM 	99 
+
+
+
+97
+

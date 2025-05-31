@@ -1,0 +1,306 @@
+﻿See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/334367595
+Improvement of students problem-solving skills through project execution planning in civil engineering and construction management education
+Article  in  Engineering Construction & Architectural Management · July 2019
+DOI: 10.1108/ECAM-08-2018-0321
+
+CITATIONS	READS
+44	5,555
+
+All content following this page was uploaded by Jingxiao Zhang on 22 August 2019.
+The user has requested enhancement of the downloaded file.
+Improvement of Students’ Problem-Solving Skills through Project 
+Execution Planning in Civil Engineering and Construction 
+Management Education 
+Jingxiao Zhang1, Haiyan Xie2, Hui Li3 
+1 School of Economic and Management, Chang’an University, Middle Section of Nanerhuan Road, Yanta District, Xi’an, 710064, P.R. China, Email: zhangjingxiao@chd.edu.cn 
+2 Department of Technology, Illinois State University, Normal, IL, 61790, USA, Email: hxie@ilstu.edu 
+3 School of Civil Engineering, Chang’an University, NO.161, Chang’an Road, Yanta 
+District, Xi’an, 710061, P.R. China, Email: lihui9922@chd.edu.cn 
+ 
+Corresponding author: zhangjingxiao@chd.edu.cn 
+Purpose – The purpose is to improve students’ problem-solving skills in civil engineering and construction management education. 
+Design/methodology/approach – The design includes structured role-
+playing as a pedagogical method in 21 project teams with a total of 82 undergraduate students at Chang’an University, China, in a 9-week Building Information Modeling capstone course. The methodology is a teaching-learning experiment in a civil engineering education program with a detailed description of the empirical case and assessment instruments. The approach is to train project execution planning in a capstone course by role-playing with a real-world project using the procedures of the Building Information Modeling Project Execution Planning Guide (PEPG) and process mapping. 
+Findings – The study finds that students can significantly improve their problemsolving skills through planning and role-specific communication during projects. 
+Research limitations/implications -The research sample needs to be 
+expanded from senior-level undergraduate students to consider the different backgrounds and motivations of students. 
+Practical implications – This pedagogy is helpful to educators who are interested in (a) group learning with a real-world project; (2) the procedures of BIM PEPG; (c) selfchosen responsibilities within a capstone course time framework; (d) raising the awareness of the importance of planning; (e) information exchange; and (f) team cooperation. Originality/value – This paper fulfils an identified need to study how role-playing in information and technology rich environments can be structured.  
+Keywords: problem-solving skills, construction education, BIM capstone course, roleplaying, project planning 
+	Article Type: Case study 	 
+
+1. Introduction 
+Problem solving skills in the construction industry have a profound effect on the success of projects and professional career paths. Many professionals and academics in the Architecture, Construction, Engineering, Facilities Management and Operation (ACEFMO) industries suggest improving the problem solving skills of students through Building Information Modeling (BIM) capstone courses (Gnaur et al., 2015). BIM capstone course classes usually provide comprehensive training in BIM processes, management and technology systems, portfolio management, spatial planning, and programming. Students obtain systematic knowledge and skills by solving industry-oriented practical problems from real-world projects (Forsythe et al., 2013; Mathews, 2013; Sacks and Barak, 2010). A BIM capstone course can facilitate the integration of new engineering and technology in the civil engineering and construction management (CECM) disciplines, which emphasizes the practical engineering capabilities of students (such as problem-solving skills) (Zhang, Schmidt et al., 2016; Zhang, Xie, et al., 2016). Thus, to respond to industry needs, current education should pay attention to the appropriate integration of BIM on pedagogical reform. 
+    However, there is a lack of research into the development of problem-solving skills in information and technology rich environments (ITRE) for undergraduate CECM education. Currently, researchers and educators suggest adopting the Project Execution Planning (PEP) guidelines in BIM-related classes to provide standardized work processes for the improvement of students’ problem-solving skills, particularly in CECM capstone courses (Ayer et al., 2015; Computer Integrated Construction Research Group, 2010; Ganah and John, 2017; Jeong et al., 2016; Perikamana, 2017; Ustinovichius et al., 2017). In essence, the PEP guidelines advocate the exhaustive and elaborate planning process used in projects. A completed BIM-PEP should define the appropriate uses of BIM (e.g., design authoring, design review, and 3D coordination), along with the detailed design and documentation for executing the process throughout a facility’s lifecycle. Once the plan is created, the project team can follow and monitor project progress against this plan to gain the maximum benefit from its use.  
+    Therefore, this study aims to (1) prepare BIM PEP for the improvement of students’ problem-solving skills; (2) provide a detailed operation document for peer educators; (3) develop a pedagogy to integrate BIM PEP into curriculum development, and (4) help students meet the requirements of industry. It is particularly important that the approach trains project execution planning in a capstone course by role-play with a real-world project using the procedures of BIM PEP Guide and process mapping. 
+    This paper is structured as follows, Section 2 review the literature from three perspectives. Section 3 describes the methodology, including curriculum description, activities, peer evaluation, and manual grading. Section 4 describes the empirical study. Section 5 discusses the results from student self-reported data and teacher feedback. 
+Section 6 summarizes the work and provides concluding remarks. 
+ 
+2 Literature review 
+2.1 Problem solving using role playing in engineering education 
+Problem-solving skills are widely used in mathematics (Pólya and Szegö, 1998). For example, educators use problem solving skills and Kitchener's models of hierarchical cognitive processes to clarify concepts and definitions. Applications improve problemsolving efficiencies (Hoffman and Schraw, 2010; Schraw et al., 2010). In addition, educators have experimented on problem-solving pedagogies in the social sciences (Voss et al., 1983) and physics courses to first-year engineering students (Bowe et al., 2003). For courses that emphasize practice, problem-based learning and problem-solving exercises help students reach learning objectives. For example, the assessment outcomes of an operating systems course using problem-based learning pedagogies for computer science professionals has achieved satisfactory results (Huang et al., 2010). Educators in construction engineering courses have also found that problem-based learning (PBL) could bring multiple benefits to teaching and learning. For example, Henry et al. (2012) have designed a PBL-based course in materials science at the junior level of an undergraduate education program (Henry et al., 2012), while Litzinger et al. (2010) observe how students in an engineering statics class execute the initial steps of a problem-solving process to improve their analytical skills (Litzinger et al., 2010).  
+    It is possible to improve problem-solving skills through structured training, and problem-solving processes are identified as the most powerful principles of learning for classroom instructors to better understand not only the process but the reasons for instructional innovation (Meter, 2005). After comparing the critical-thinking performance of the students in an experimental group and a control group, Arviana et al. (2018) found that problem-based learning could improve students’ critical thinking. Students with problem-based learning experience who joined the experimental group performed better than students in the control group. To assess the integration of the PBL pedagogy and technology in a self-care course, McFalls (2013) developed and employed PBL activities, finding that these enabled students to become active learners. 
+    Problem-solving skills are extremely important for engineers and managers (Tarnopolsky, 2012). Using role-play in teams to improve problem-solving skills has helped students to understand work scope and responsibilities more clearly (Ponsa et al., 2011). In addition, retrospective interviews concerning student comprehension of teamroles show that the knowledge helped them solve the problems encountered in their studies (Nathan 2016). The cognition and understanding of problems affect students’ methodformation processes when they solve problems, which can ultimately influence their learning of engineering practice. For example, Newstetter et al. (2002) analyze the characteristics of complex engineering problems to study how students apprehend them; Zowghi et al. (2003) further study students’ abilities to solve complex engineering problems, and how to develop and evaluate them; and Andersson and Asme (2016) strengthen the problem-solving capabilities of students seeking solutions in ubiquitous conflict scenarios, while scrutinizing the difficulties of the associated causes in an engineering education capstone course. However, these suggestions and pedagogies of problem-solving skills are insufficient alone in an ITRE, as there is a shortage of systematic guidelines and work plans for CECM educators and students to adopt PBL. 
+    At present, research into team role-playing includes the application of role-play in practical teaching (Alvarez et al., 2011; Wold and Moore,, 2013); the influence of roleplaying on student social behavior and psychological development (Alvarez et al., 2011; May et al., 2015); and the application of the role-playing method in simulation evaluation (Huesca et al., 2010). Software engineering (Zuppiroli et al., 2012) and manufacturing engineering management (Rajan et al., 2010) have been the subject of role-playing, with the focus on biomedical education (Blagosklonov et al., 2006), engineering ethics (Prince, 2006), oral communication skills (Sindre, 2005), and learning-games applications (Duarte et al., 2011), which implies the suitability of team role-playing to cultivate problem solving skills in such ITREs as BIM (Bennett et al., 2007).  
+    Educational games are especially advantageous for problem solving in engineering courses, and their pedagogy relates closely to role-playing. Wang et al. (2018), for example, have developed a micro-world-based educational game for students that provides simulated contexts, encouraging students to explore, discover, and solve practical problems. Similarly, Donald et al. (2017) have developed a game in which the players take on the role of a doctor to diagnose and cure tuberculosis; while Rodkroh et al. (2013) synthesize and propose the important elements to facilitate problem-solving skills in game-based learning, which include authentic problems, student-centered activity, and a facilitator. Furthermore, as students in the construction disciplines are challenged with visualizing and constructing three-dimensional structures, educational computer simulations have been used to enhance student learning experiences through testing real-world scenarios and the development of problem-solving skills (Nikolic et al., 2011). Moreover, educators in CECM areas have shown that educational simulation games can help in the acquisition of the skills necessary to solve complex construction problems (Castronovo et al., 2017). Engineering educators often face the problem of how to teach complex and theoretical material to students mainly interested in solving practical problems. Educational games are able to close the gap between theory and practice (Munz et al., 2007). For example, the NUCLEO framework is an online, multiplayer and role-playing game environment, which was instantiated to set the stage for an underlying collaborative and problem-based learning approach (Sancho et al., 2009). 
+ 
+2.2 Goals and procedures of PEP  
+Proactive preparation and planning are important for BIM project success (Computer Integrated Construction Research Group, 2010). Project teams can stimulate planning and direct communication through a structured procedure during the early phases of a project (Computer Integrated Construction Research Group, 2010). Developed at the Pennsylvania State University, the PEPG provides a practical manual for project teams to design BIM strategies and develop BIM project execution plans. The core concepts of the model and information exchange facilitate the development of a standard to improve the efficiency and effectiveness of the use of BIM on projects.  
+    For detailed and comprehensive planning, a well-documented BIM PEP ensures that all parties are clearly aware of the opportunities and responsibilities associated with the incorporation of BIM into the project workflow. This should define the appropriate uses of BIM on a project, and include the design and documentation of the process and its execution throughout the facility’s lifecycle. Once the plan is created, the team can follow and monitor its progress against it to obtain the maximum benefit. The plan provides a structured procedure that comprises the following four steps: (1) identify the BIM uses during the project planning, design, construction, and operation phases; (2) design the execution process by creating process maps; (3) define the deliverables in the form of information exchanges and (4) develop the infrastructure in the form of contracts, communication procedures, technology, and quality control to support the application. 
+2.3 BIM PEP in engineering education 
+Current research into the application of BIM PEP is mainly concerned with engineering, the applied sciences, architecture, and computer science (Liu, 2012; Zanni et al., 2014). 
+Industry applications are concentrated on the contents of the BIM project execution plan (Kreider et al., 2010), LEED green building projects (Wu and Issa, 2015), post-construction analysis for industry collaboration (Zanni et al., 2014), knowledge sharing by information exchange (Ali and Badinelli, 2016; Jung and Joo, 2011), and the mechanism for team collaboration (Zhang, 2018). Ayer et al. (2015) use the BIM PEP to teach and increase student focus on basic skills in the early stages of construction courses - the students being able to program a variety of uses through interdisciplinary cooperation with various architecture-related professionals. Perikamana’s (2017) experiments using BIM PEP to check the flowcharts created by students and the impact of Process Mapping Activities highlight an improvement in student learning outcomes. 
+    However, there is still a knowledge gap in how to improve students’ problem-solving skills of problem analysis, monitoring the solution process, and problem-solution representation. This research uses both case study and experimental methods in a civil engineering and construction management education environment via project execution planning. The case study method is a widely used approach in CECM education (Azhar and Brown, 2009; Clevenger et al., 2015; Mathews, 2013). For example, the use of cases has been proposed in an integrated construction curriculum for the collaborative learning of BIM technology (Ghosh et al., 2015). Other examples include studies of integrated approaches to the application of BIM in engineering education (Issa and Flood, 2014; Sampaio, 2015; Wang and Leite, 2014), where case studies provide representative, typical, events for peer instructors and university education (Pikas et al., 2013a, b). 
+ 
+3 Methodology 
+3.1 Curriculum description and test group 
+There are four principle elements in this study (Yin, 2003, 2014):  
+(1) Intellectual contribution. This emphasizes: (i) group learning with a real-world project; (ii) the BIM PEPG procedures; (iii) self-chosen responsibilities within the capstone course time framework; (iv) raising the awareness of the importance of planning; (v) information exchange; and (vi) team cooperation.  
+(2) Analysis unit. The analysis unit is the BIM PEP capstone course, with the embedded unit comprising the teams to finish the course.  
+(3) Linking logic. The four steps discussed in section 2.2 provide a practical manual for project teams. The important aspect of this structured procedure is to stimulate, plan, and direct communication within the project team during the early phases of a project. 
+(4) Assessment criteria. This is the proposed criteria to evaluate the students’ work in the BIM PEP capstone course (Bennett et al., 2007). It is also part of the research outcome. 
+    The participants comprise 20 project teams of 4 Chang’an University undergraduate students, and two of 20 teams have 5 students to make all the students have a team. All have education backgrounds in civil engineering and construction management and with primary 3D Model and site layout training in the traditional BIM curriculum. They identified their roles according to the BIM PEP, which include a BIM engineer and coordinator. The instructor was the project manager responsible for the overall organization of the capstone course, and participated in weekly meetings, designed scaffolding procedures, explained possible solutions, and made skill suggestions according to the PEP Guide. The teams were formed at the beginning of the project, with students playing the role of technicians, engineers, and supervisors.  
+3.2 Activity and evaluation 
+The research is concerned with problem-solving skills in role-playing pedagogy and uses a strategy that allows the improvement of the teaching-learning process by identifying such learning problems as how to divide a complex project into manageable parts and correctly assign responsibilities to team members. The study involved a class experiment of roleplaying and PEP, using observation, interviews, and a questionnaire to collect data. Table I explains the structure of the class activities. 
+ 
+Table I Structure of class activities 
+Item Explanation Teaching goal How to combine the BIM PEP into capstone course learning activities with a real world project to promote the students’ BIM strategy problem-solving skills in the early phases of a project. Objective To know the steps and instruments necessary for project success. Students play different roles to simulate the tasks in the project lifecycle. Analytical method Students divide an entire project into parts (or its constituent elements) in the planning phase. Experimental method The instructor encourages students to act in different project management roles, as an essential and active means of encouraging for student involvement and communication. Heuristic method The instructor provides the Project Execution Planning Guidelines to enable student discovery in learning. Observation The instructor provides site visits to real-world projects to observe technical and managerial activities. Strategy • To observe and describe the roles and responsibilities of project team members  
+• To distinguish and identify the materials, assemblies, components, systems, and functions of buildings  
+• To model the observed information Team-based learning technique • Computer software and hardware for BIM PEP  
+• Evaluation instrument – grading criteria on presentations and project documents  
+    The capstone course class included compulsory face-to-face meetings for two hours every week to help students learn, discuss, feedback, and communicate their reflections of role-playing. Four types of evaluation are used: (1) a questionnaire survey of student selfreported problem-solving skills (Table II); (2) peer evaluation (discussed in Section 3.3); (3) manual grading of student presentations (discussed in Section 3.4); and (4) evaluation of problem-solving skills in Information and Technology Rich Environments (IREF) (discussed in Section 4). The interview questions were designed and used in each stage of the course.  
+    Table II aligns role-playing skills to problem solving. Bennett et al.'s (2007) Technology in Rich Environments (TRE) is used for scoring. This employs an evidencemodeling process, in which the students first identified then assessed their actions for correctness and eventually consolidated their individual performance to generate the scores for Table II. Questions 1 and 2 in Table II are answered on a 5-point Likert scale ranging from A (“very much”) to E (“very little”).  
+ 
+Table II. Sample questionnaire for the student self-reported performance 
+Dimension No. Skill Question  Problem-solving skills Role playing (RP) skills  1 Metacognitive 
+skills I think I am able to use this system to understand my scope of work correctly. Problem analysis 2 Professional skills I can use the corresponding software according to the role. Monitoring 3 Cognitive skills of others I can perform team communication and coordination according to the role. Problem representation in communication; monitoring team coordination solutions 4 Leadership cognition I think I obtained leadership skills after using this system. Monitoring and problem presentation PEP skills 5 Mapping My work correctly follows the process mapping in the BIM PEP capstone course. Monitoring 6 Organization The structure of my work is organized effectively. Monitoring 7 Connections My work shows the connections between team members.  Problem presentation  
+3.3 Peer evaluation 
+Due to the complexity of the course deliverables, both quantitative and qualitative methods are used to evaluate the learning outcomes, focusing on assessing the students’ cognitive ability to solve problems. For example, the student team used the peer evaluation method prior to submitting their deliverables. Table III shows the formative peer evaluation used in the class, which evaluates the outcomes of student training in problem solving skills from a peer perspective. A external formative evaluation was also made from the instructor’s and external experts’ perspective to add ratings and anecdotal comments (see Table IV), with both paying attention to the students’ cognitive abilities in defining the problem in the right way, generating solutions, and picking the right one. 
+ 
+Table III Formative peer evaluation for course deliverables 
+Criteria PSA PSB PSC PSD The group member participated in group discussions.     The group member completed the major components of the project on time.      Was dependable in the project     Willingly accepted assigned tasks     The group member helped to keep the group on task.     Contributed useful ideas     Contributed a fair share to weekly deliverables     The quality of the work completed      Total Points     Note：Group members are PSA, PSB, PSC, and PSD in the boxes. Assign a value from 1 (weak) to 5 (superior) for each listed attribute for each of group member and total all the values. 
+ 
+Table IV Formative external evaluation of learning 
+Criteria 5 4 3 2 1 Comment Project materials       Project organization       Learning outcomes       Technology and methods       Up-to-date information/concepts       Innovative/effective delivery methods       Total project organization       Strong points of the deliverables  Suggestions for improvement  Note：Assign a value from 1 (weak) to 5 (superior) for each listed attribute for the team. 
+ 
+3.4 Manual grading 
+This real-world project is a kindergarten building with has one underground level and three aboveground levels. The screen shots of Figures 1 and 2 are examples of the best-scored BIM models created by the students. The evaluation portion of this process is based on the grading criteria shown in Table V. To control its validity, the instructor and industry experts relied on industry standards, such as material standards and International Building Codes. The students made oral presentations of their projects, with the instructor and industry expert scoring the presentations of the students’ electronic responses to the open-ended design and construction simulation questions and requests in the BIM PEP scenarios.  
+ 
+ 
+Figure 1 Example site utilization planning deliverables 
+ 
+ 
+Figure 2 Example 3D model deliverables 
+
+ 
+ 
+Table V Sample grading criteria 
+Criteria Excellent (10 points) Good 
+(8 pts) Needs improvement 
+(6 pts) Poor 
+(4 pts) Not acceptable (0 pts) Comments Facility description (10 points in total) 
+Describe the project with good spelling and grammar Professional < 2 minor errors 2 -4 errors 4-6 errors > 6 errors or no submission  Plot drawing on paper (10 points in total) No obvious errors < 2 minor errors 2 -4 errors 4-6 errors > 6 errors or no submission    Design (30 points in total) Professional without error < 2 minor errors 2 -4 errors 4-6 errors > 6 errors or no submission  Have appropriate walls and roof 5 pts 4 pts 3 pts 2 pts 0-1 pts  Have sufficient doors and windows 5 pts 4 pts 3 pts 2 pts 0-1 pts  Floor layout: including furniture and appliances 5 pts 4 pts 3 pts 2 pts 0-1 pts  Material selections 5 pts 4 pts 3 pts 2 pts 0-1 pts  Completeness of all views with requested information 5 pts 4 pts 3 pts 2 pts 0-1 pts  Proper creation of views according to instructions 5 pts 4 pts 3 pts 2 pts 0-1 pts  13 
+ 
+
+ 
+4 Empirical case 
+4.1 Identifying BIM use and student roles in BIM PEP 
+The student team members first set up the BIM goals. Then they developed the detailed BIM application process and a clear personal responsibility list according to the identified goals. For each goal, the team determined its primary responsible party, including potential external participants who could provide assistance, such as a supervisor engineer. After completion, the members carried out quality management by peer evaluation, with the instructor in the BIM manager role. 
+ 
+4.2 Process mapping  
+The goal of developing the structured procedure of level 1 process mapping is to stimulate planning and direct communication in student teams during the early phases of a project. After the structured procedure, the next step was to design the BIM execution process by creating process maps of level 1. The teams then followed and monitored their progress against their plans to gain the maximum benefit from the application. Figures 3 and 4 respectively show the level 1 and 2 process mapping created by the students. 
+ 
+
+Figure 3 Level 1 process mapping 
+ 
+
+Figure 4 Level 2 process mapping 
+ 
+    The teams sought professional experience (i.e., to search online or ask the people with relevant knowledge) to develop the details of information exchange in the level 2 process mapping. The measurements of the search processes are based on the discussion described in Section 5.2. The team members were instructed to develop the flow chart for the clear understanding of the entire process and identify the contents and methods of information sharing between the members, clearly defining the various application processes. Based on the flowcharts, they determined the processes involved attaining such other important BIM objectives as the contractual structure, building model requirements, and information technology infrastructures. 
+ 
+4.3 Questionnaire results 
+The members of the entire group (n=82) submitted their questionnaire responses in class, each student answering the constructs in Table II. These data, together with the peer and external assessed problem-solving skills, were analyzed by structural equation modelling 
+(SEM). Tables 6 to 8 show the results, together drawing direct lines between the content assessed by the constructs, the connections or correlations between them, and their analyses, calculating the composite indexes of such latent proficiency variables as problem-solving skills, RP skills, and PEP skills. Figure 5 illustrates the ITRE search cognitive model of the relationships between the variables, the parent proficiency being ‘problem-solving skills’, as a combination of ‘role playing (RP) skills’ and ‘project execution planning (PEP) skills’. PR1-4 and PEP1-3 are observed behaviors. 
+ 
+
+ 
+    The students’ role-playing knowledge was measured by six multiple-choice questions concerning metacognitive, professional, leadership, and more general roleplaying knowledge. The PEP knowledge measure comprises six multiple-choice questions on concepts relating to the project execution and project guidelines in BIM. The correlation results are shown in Table VI, the total score being based on the scores for RP skills and PEP skills. 
+ 
+Table VI. Correlations of ITRE search scores with knowledge measures 
+ Role playing PEP ITRE search score Knowledge measure Knowledge measure Total 0.61 0.40 Role playing skills 0.52 0.33 Project execution planning skills 0.55 0.39  
+  Table VII provides the correlation of the observables in Table II with each score to help clarify the meaning of the ITRE scales and identify which observables demonstrate which skill. 
+ 
+Table VII. Correlation between score of each ITRE observable and the ITRE search scales 
+Observable Role playing skills PEP inquiry RP1 .17 .71 RP2 .39 .70 RP3 .33 .51 RP4 .28 .44 PEP1 .62 .34 PEP2 .69 .37 PEP3 .65 .36 NOTE: ITRE = Information-Technology-Rich Environments. The bold values indicate that the scale in the column label was the one to which an observable was assigned. All correlations are significantly different from zero at p < .05. 
+n (number of students)=82. All scale scores include the observable being correlated. 
+ 
+    The correlational pattern suggests a difference between the two scales. Further, as shown in Table VIII, students who observed behaviors tended to provide better answers to the constructed-response question. 
+ 
+Table VIII. Observed correlation between the score of each observable and the raw score from the 
+constructed-response question 
+Observable Question RP1 .55* RP2 .35* RP3 .32* RP4 .32* PEP1 .21* PEP2 .21* PEP3 .21* NOTE: *Correlations are significantly different from zero at p< .05. ITRE=Information-Technology-Rich Environments. The values are raw correlations and not based on averages across imputations. The constructed-response question was scored on 5-point scale. 
+ 
+  The data in Tables 6, 7, and 8 show that role-playing and PEP skills are closely related in ITRE. In addition, the students found the project drawings to be rather complicated at the beginning. It was not feasible to import the drawings directly into the BIM model, so they had to replace the complex drawings with simpler drawings and start modeling again. This wasted a lot of time and tended to inhibit their enthusiasm toward the course. Hence, the students suggested that the drawings should be correct in future and not be too difficult.  
+    The students liked the richness of the information and technology in the course. Using the cloud functions after completion of the reinforcement and civil engineering modeling, they could check the rationality of the models. There were hundreds of error messages from the inspection after the initial model was completed, so they needed to be very patient to correct the errors during this time, especially those where the component properties were irrational. Some missing parts in the model could not be checked automatically by the BIM technology. For example, the software could not check where doors and windows in the drawings were mistakenly omitted in the model; therefore, the students had to be careful with the modeling and avoid omissions. 
+ 
+5 Discussion  
+5.1 Self-report data 
+This paper combines quantitative and qualitative methods to investigate the learning outcomes and student opinions experienced in a civil engineering and construction management BIM capstone course. In particular, the students wrote comments individually and anonymously in the classroom in the absence of the instructor. The students agreed that role-playing and PEP improved their problem-solving skills compared to their skills at the beginning of the semester. From the student feedback, it was found that Role Playing Skill 1 (RP1) is a metacognitive skill, RP2 is a professional skill, RP3 is a cognitive skill of others, and RP4 is a leadership cognition skill. Tables 7 and 8 demonstrate the improvement in the students’ problem-solving skills through role-playing and project execution. 
+Five themes emerged from the qualitative data as follows:  
+[1] Instructors should make a sound plan for project guidance. In the BIM project execution prophase, instructors or course designers should understand how students learn the objects of attention, so that they can plan the execution accordingly. Students select their most suitable learning styles based their learning experience. Students can communicate with the instructors over the selection of learning styles, which helps team establishment, role allocation, division of labor, and plan formulation. In the application process, the students can communicate with the instructors through the learning materials in real time, revise and improve their learning experience, and form new knowledge and skills. 
+[2] Students should complete the preparatory work as soon as possible. After establishing the tasks of the course, they should be familiar with the BIM application plan prior to the start of the semester. Meanwhile, they should understand the BIM execution planning process and learn the software operations, including the modeling and application processes. They can also make use of the opportunities of internship practice before the final semester to prepare a few sets of drawings that are correct and easy for modeling. These drawings usually include frame structures or shear-wall structures, with the overall elevations being usually below 10 stories. It is acceptable to have drawings of buildings with many standard levels. 
+[3] At the beginning of the capstone course, the students must determine a complete set of execution plans and the division of labor. The completion of these plans should be before the start of the design and modeling process through a development meeting, and according to the abilities of individual team members. The division of tasks includes the key milestones to complete the tasks. The determination of the task division and time arrangements depends on the learning outcomes of the modeling and other BIM software.  
+[4] Strictly carrying out the formulated plan as far as possible. The team members carry forward the project together, encourage, and communicate with each other. During the project, the team advances rapidly, which demands full attendance. If one or two individuals leave the group, the project can become blocked. 
+[5] Avoidance of grandiose aims and lack of ability. It takes time to learn modeling from videos. While videos are simple and easy to follow, a variety of small problems emerge in actual operation that may not be covered. For example, the course always failed to recognize imported drawings in the BIM software. Therefore, students should not take 
+the correctness of the automated software process for granted. In addition, such other issues may arise in the modeling processes as unrecognizable symbols of rebar, different symbols of rebar in CAD®, and unmatchable fonts in the text display. These need practical solutions, which may not be fully automatic. 
+ 
+5.2 Teacher feedback 
+The course instructor provided feedback on the observations of the teaching and learning experiences. The experiences gained new meanings and promoted teachers' cognitive development. From one course instructor, for example,  
+ 
+We need to plan the teaching and learning process with students early in the project planning and execution of the course. The assignments don’t usually relate to any current work efforts that any team member may have with the project. When integrating BIM PEP into the course, we should take into consideration the students’ lack of systematic knowledge and skills in BIM project planning. In the experiment, the overall learning attitude of students was very positive, which was an invaluable motivation to help students overcome many difficulties and learn new BIM PEP knowledge and skills. However, BIM PEP was a high-level strategy to most students in the class and they needed time to become familiar with its operation. There were time restrictions because of the need to complete the course in nine weeks and, due to the consequent learning barriers, the students had some worries and difficulties at the beginning of the course to progress their skills and information exchanges needed for the BIM PEP. However, this condition did not cause negative learning emotions that might hinder and even inhibit student learning. The comprehensive and detailed BIM PEP method helped students to overcome the obstacles. 
+ 
+    Introducing problem solving and role-playing in BIM execution planning in a nineweek capstone course undergraduate project was ambitious, and required the instructors and students having, or showing, a strong desire and determination to succeed. In this course, the students were at the graduation stage of their education, learning the practice of BIM project execution planning and developing sound deliverables. In this, understanding and application process mapping was the first academic challenge. Less prepared students may need at least 2 semesters of 15 weeks each to complete all the coursework. This paper sheds light on the use of BIM project execution planning in practice, an activity still in its infancy stage. 
+    In addition, the course instructor suggested paying attention to positioning the teacher’s role accurately in the planning and execution of the course. Instructors and teachers need four basic abilities for this to make student-centered learning possible, comprising experience, reflection, abstraction, and action. Moreover, instructors need to pay attention to the different learning styles of students in a team environment. Students come from different families, have different personalities, in addition to various learning and cognitive abilities. Learning style and effect are closely related to the iterative learning cycle. For example, in conducting the teaching experiment, the course instructor deliberated over the local teaching-learning context. This affected the design of the student group size. Some students may prefer to accept the guidelines from instructors passively and do not like to complete learning tasks through discussions and group work. This requires instructors to pay attention to balancing classroom teaching, student homework, and group presentations in carrying out the approach. 
+ 
+6 Conclusion  
+This pilot research applied project execution planning (PEP) for Building Information Modeling (BIM) in an undergraduate capstone course of a CECM education program. This innovative pedagogy integrates planning strategy and role-playing ideas in the course with real-world project information. The research objective is to improve the problem solving skills of students through training in project execution planning cognitively and systematically. This paper fulfils an identified need of studying how role-playing in an information and technology rich environment can be structured. It has the potential to provide a sound reference for the future training of engineering educators in problemsolving skills. 
+    For the application of role playing, the research emphasizes four types of evaluation methods: (a) questionnaire survey of self-reported student problem-solving skills, (b) problem solving in Technology Rich Environments (Bennett et al., 2007), (c) peer evaluation, and (d) manual grading of student submissions and presentations. It sheds light on the pedagogies of engineering education to meet the requirements of job expectations. Moreover, it prepares students for a rapidly changing BIM environment in the Architecture, Construction, Engineering, Facilities Management and Operation industries. BIM PEP is the new management technology for project management. It provides information for project planning, design, construction, and operation of the whole lifecycle of a real-world project. It additionally considers the BIM strategy of process, management, and technology in the early phases of projects to promote and realize the sustainable development of the established goals of teaching. This is the first time that a higher education program in China has integrated a comprehensive pedagogical plan into its undergraduate engineering management education process. This new attempt has the technical foundation of actual project information to establish the course team. The team, as a carrier, is in line with the content requirements of a university-based capstone course.  
+    In this research, the students reported that the BIM PEP helped in managing the lifecycles of their projects. It provided a platform for all project participants to communicate smoothly and collaboratively, which greatly contributed to avoiding mistakes, improving project quality, saving costs, and shortening the construction period. Further, the students came to the consensus that the real world project played an organic role in learning, agreeing on the importance of planning for collaborative design and construction integration. Project execution planning also helps with the intelligent maintenance and facilities management from the beginning to the end of building projects, while students could deepen their understanding of how planning applications can fundamentally eliminate gaps and coordinate broken information-flows among project team members.  
+    This study provides a reference operation integrated with a real-world project for peer instructors and educators. Role playing tasks help students follow the procedures of BIM PEP and identify BIM uses voluntarily. They assign the roles of engineers, coordinators, and project managers with clear scope definitions. Further, the groups employ a task table to finish the process mapping of the course, which records the course deliverables as well as the results of information exchange. The unambiguous communication involved benefits from the support of the planning and mapping activities. Future teaching applications have the potential to adopt a variety of real world experiences from engineering and even nonengineering fields.  
+ 
+Acknowledgment:  
+The research is supported by the National Natural Science Foundation of China [No. 
+71301013]; Humanity and Social Science Program Foundation of the Ministry of 
+Education of China [No. 13YJA790150 and No. 17YJA790091]; Shaanxi Social Science 
+Fund [No. 2017S004, No. 2017Z028, No. 2016ZB017, No. 2016Z047 and No. 2014HQ10]; Xi’an Social Science Fund [No.18J139]; Xi’an Science Technology Bureau Fund [No. CXY1512 [2]]; Xi’an Construction Science and Technology Planning Projects [No. 
+SJW201705]; Shaanxi Province Higher Education Teaching Reform Project [17BZ017]; 
+Education Funding of Master of Engineering Management in China [No. 2017-ZX-004]; 
+Special Fund for Graduate Student Education Reform of Central College, Chang’an 
+University [No. 300103187091, No. 310623176201, No.310623176702, No.310628176702 and No.310628161406]; Fundamental Research for Education Reform of Central College, Chang’an University [No. 300104282301, No. 300104282318, No. 300104282323, No.310623172904, No. 310623171003 and No. 310623171633]; 
+Fundamental Research for Funds for the Central Universities (Humanities and Social Sciences), Chang’an University [No.300102418659]; Fundamental Research for Funds for the Central Universities, Chang’an University [No. 300102238201]. 
+ 
+ 
+References: 
+Ali, A.K. and Badinelli, R. (2016), "Novel integration of sustainable and construction decisions into the design bid build project delivery method using BPMN", Procedia Engineering, 
+Vol. 145, pp. 164-171. doi:10.1016/j.proeng.2016.04.038 
+Alvarez, A.P., Benita, J.R.C., Ortiz-Marcos, I. and Sanchez-Alejo, F.J. (2011), "Acquiring negotiating skills by playing in project engineering", International Journal of Engineering Education, Vol. 27 No. 3, pp. 610-618.  
+Andersson, K. (2016), Evaluation of a model based learning approach for engineering design. 
+New York: Amer Soc Mechanical Engineers. 
+Arviana, R. and Dewi, M.P. (2018), "Problem based learning in mathematics education and its effect on student's critical thinking", Advanced Science Letters, Vol. 24 No, 1, pp. 211-
+213. doi:10.1166/asl.2018.11962 
+Ayer, S.K., Cribbs, J., Hailer, J.D. and Chasey, A.D. (2015), Best practices and lessons learned in 
+BIM project execution planning in construction education. Paper presented at the 9th 
+BIM Academic Symposium & Job Task Analysis Review, Washington, DC  
+Azhar, S. and Brown, J. (2009), "BIM for sustainability analyse", International Journal of Construction Education & Research, Vol. 5 No. 4, pp. 276.  
+Bennett, R.E., Persky, H., Weiss, A.R. and Jenkins., F. (2007), Problem Solving in TechnologyRich Environments: A Report from the NAEP Technology-Based Assessment Project (NCES 2007–466). Retrieved from Washington, DC:  
+Blagosklonov, O., Soto-Romero, G., Guyon, F., Courjal, N., Euphrasie, S., Yahiaoui, R. and Butterlin, N. (2006), Virtual firm as a role-playing tool for biomedical education. New York: IEEE. 
+Bowe, B., Flynn, C., Howard, R. and Daly, S. (2003), "Teaching physics to engineering students using problem-based learning", International Journal of Engineering Education, Vol. 19 No. 5, pp. 742-746.  
+Castronovo, F., Van Meter, P. N., Zappe, S.E., Leicht, R.M. and Messner, J.I. (2017), "Developing problem-solving skills in construction education with the virtual construction simulator", International Journal of Engineering Education, Vol. 33 No. 2, pp. 831-846.  
+Clevenger, C.M., Ozbek, M.E., Fanning, B. and Vonfeldt, S. (2015), "Case study of work-based learning involving BIM for infrastructure in support of graduate construction research", International Journal of Construction Education & Research, Vol. 11 No. 3, pp. 163.  
+Computer Integrated Construction Research Group, P.S.U. (2010), BIM Project Execution Planning Guide and Templates – Version 2.1. In (pp. 1-189). Pennsylvania, USA: 
+Pennsylvania State University. 
+Donald, I., Meyer, K.A., Brengman, J., Gillespie, S.H. and Bowness, R. (2017), "Project 
+Sanitarium: playing tuberculosis to its end game", Journal of Computing in Higher 
+Education, Vol. 29 No. 3, pp. 599-617. doi:10.1007/s12528-017-9145-1 
+Duarte, A.M.D., Oliveira, I.C., Felix, H.S., Carrilho, D.C., Pereira, A.S. and Direito, I. (2011), "Active classrooms: Role-playing experience in telecommunications engineering education", International Journal of Engineering Education, Vol. 27 No. 3, pp. 604-609.  
+Forsythe, P., Jupp, J. and Sawhney, A. (2013), "Building information modelling in tertiary construction project management education: A programme-wide implementation strategy", Journal for Education in the Built Environment, Vol. 8 No. 1, pp. 16.  
+Ganah, A.A. and John, G.A. (2017), "BIM and project planning integration for on-site safety induction", Journal of Engineering, Design and Technology, Vol. 15 No. 3, pp. 341.  
+Ghosh, A., Parrish, K. and Chasey, A.D. (2015), "Implementing a vertically integrated BIM curriculum in an undergraduate construction management program", International Journal of Construction Education & Research, Vol. 11 No. 2, pp. 121-135.  
+Gnaur, D., Svidt, K. and Thygesen, M.K. (2015), "Developing students' collaborative skills in interdisciplinary learning environments", International Journal of Engineering Education, Vol. 31 No. 1, pp. 257-266.  
+Henry, H., Jonassen, D.H., Winholtz, R.A. and Khanna, S.K. (2012), Introducing Problem Based Learning in a Materials Science Course In the Undergraduate Engineering Curriculum. 
+New York: Amer Soc Mechanical Engineers. 
+Hoffman, B. and Schraw, G. (2010), "Conceptions of efficiency: Applications in learning and problem solving", Educational Psychologist, Vol. 45 No. 1, pp. 1-14.  
+Huang, Y.-R., Zhong, C., Yang, F. and Ying, M.-X. (2010), "Research on teaching operating systems course using problem-based learning", 5th International Conference on 
+Computer Science & Education (ICCSE 2010), 691-694. doi:10.1109/iccse.2010.5593517 
+Huesca, G., Noguez, J., Neri, L. and Robledo-Rella, V. (2010), "Work in progress - using interactivity video games factors to define role playing games as a supporting tool for learning by doing", In 2010 IEEE Frontiers in Education Conference. New York: IEEE. Issa, R. and Flood, I. (2014), Computing in civil and building engineering proceedings of the 
+2014 International Conference on Computing in Civil and Building Engineering: June 
+23-25, Orlando, Florida. In (pp. 1 online resource (xxvi, 2286 pages)), Retrieved from 
+ASCE Library - Full text online 
+http://www.library.illinois.edu/proxy/go.php?url=http://ascelibrary.org/doi/book/10.1061/
+9780784413616  
+Jeong, W., Chang, S., Son, J. and Yi, J.-S. (2016). "BIM-integrated construction operation simulation for just-in-time production management", Sustainability, Vol. 8 No. 12, pp. 
+1106. doi:10.3390/su8111106 
+Jung, Y. and Joo, M. (2011), "Building information modelling (BIM) framework for practical implementation", Automation in Construction, Vol. 20 No. 2, pp. 126-133. doi:10.1016/j.autcon.2010.09.010 
+Kreider, R., Messner, J. and Dubler, C. (2010), Determining the frequency and benefit of applying BIM for different purposes on building projects. Paper presented at the 
+Proceedings of the 6th International Conference on Innovation in Architecture, Engineering and Construction (AEC), Penn State University, University Park, PA, USA, 2010. 
+Litzinger, T.A., Meter, P.V., Firetto, C.M., Passmore, L.J., Masters, C.B., Turns, S.R., Gray, G.L., 
+Costanzo, F. and Zappe, S.E. (2010), "A cognitive study of problem solving in statics", 
+Journal of Engineering Education, Vol. 99 No. 4, pp. 337-+. doi:10.1002/j.2168-
+9830.2010.tb01067.x 
+Liu, R. (2012), BIM-based life cycle information management: Integrating knowledge of facility management into design. (Dissertation/Thesis), ProQuest Dissertations Publishing, Retrieved from 
+http://qut.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwpV1LSwMxEB60XsSD ioqPCgHPq3lssq0X8VXswZv3ss1MQKi7Puqh_95km9SylV48hgzDhAkzmW8eAVDyk mctm2BLaQ2WjpMw44JQUJGTEkgoqbCyjb_dptaYqO5kJRvTjbUNqPmVMMYH4Url
+5ub9Iwv_SIV8a_xUYxO2RC65nqdv_4jffRTmPXloQ42Dn9K6t2KVG1cz2IWUL0rA12 Sls6A1yvFfJ9iDnYellPw-
+bFB1AHQ3fM6Cg0M2eXXE7MzfLhaHrAY69rYom7lmwzhywntBtsDoWO2YK20ovZ 0tUXsm05phUzdyCBeDx5f7pyyJPYo3-2v0K7M6gk5VV3QMjLTXq-
+OoHJpcIx9r2XNCI5m-RdXHE-iu43S6fvsMtv0zRc6Bjy50pp_fdN40Zv4AHxm8bg  
+Mathews, M. (2013), "BIM collaboration in student architectural technologist learning", Journal of Engineering, Design & Technology, Vol. 11 No. 2, pp. 190.  
+May, D., Wold, K. and Moore, S. (2015), "Using interactive online role-playing simulations to develop global competency and to prepare engineering students for a globalised world", European Journal of Engineering Education, Vol. 40 No. 5, pp. 522-545. doi:10.1080/03043797.2014.960511 
+McFalls, M. (2013), "Integration of problem-based learning and innovative technology into a self-care course", American Journal of Pharmaceutical Education, Vol. 77 No. 6, pp. 5. doi:10.5688/ajpe776127 
+Meter, P.V. (2005), "Enhancing learner processing for effective problem solving", Professional Issues in Engineering Education and Practice, Vol. 131 No. 3.  
+Munz, U., Schumm, P., Wiesebrock, A. and Allgower, F. (2007), "Motivation and learning progress through educational games", IEEE Transactions on Industrial Electronics, Vol. 
+54 No. 6, pp. 3141-3144. doi:10.1109/tie.2007.907030 
+NBIS (2016), Level of Development Specifications 2016 Part I. Retrieved from http://bimforum.org/lod/ 
+Newstetter, W.C., and Yoganathan, A. (2002), "Supporting complex problem solving in BME education", In Second Joint Embs-Bmes Conference 2002, Vols 1-3, Conference Proceedings: Bioengineering - Integrative Methodologies, New Technologies (pp. 26032604). New York: IEEE. 
+Nikolic, D., Jaruhar, S. and Messner, J. I. (2011), "Educational simulation in construction: virtual construction simulator", Journal of Computing in Civil Engineering, Vol. 25 No. 6, pp. 
+421-429. doi:10.1061/(asce)cp.1943-5487.0000098 
+Perikamana, A. (2017), Assessing the Impact of BIM Process Mapping Activities in Construction Education. (Dissertation/Thesis), ProQuest Dissertations Publishing, Retrieved from http://qut.summon.serialssolutions.com/2.0.0/link/0/eLvHCXMwpV1NS8NAEB36cREP Var4UWHAc-x-
+ZLPxJG212EPBg_cymyYiSKL4_8Hd7a5KWnrpMSyEWTbM25mX9wZAijuWtHKC0i kJW_hURWGY4ZoZbYhLLUkzqsx9q_82idKYcNwxS_rUvW4K1zUfWyhLZW7vDzh8ytxc6Qc3xqGanShz1PB1Ia-3VG_c5l58x2dB-On-
+Ky2srKHmvkAIl8UG18fW8qClpXjQTs4gePHf5T8KXTKeggvGy7YwhraCyIuvJQSmw qniyUGbQEuyXk7vOGk8BMobMmN7zW6CaDRkxZ_fx85g9v50vsOYkRrsJH_L36C0-eQ69u6vICUInccMGq0ilcUyLimVHESOXrzFiku4TRvjdd7V-hiPhcNP3OEbQs_GWN16D-QNDmLKE  
+Pikas, E., Sacks, R. and Hazzan, O. (2013a), "Building information modeling education for construction engineering and management. II: procedures and implementation case study", Journal of Construction Engineering and Management, Vol. 139 No. 11, pp. 13. doi:10.1061/(asce)co.1943-7862.0000765 
+Pikas, E., Sacks, R. and Hazzan, O. (2013b), "Building information modeling education for construction engineering and management II: procedures and implementation case study", Journal of Construction Engineering & Management, Vol. 139 No. 11, pp. 1. doi:10.1061/(ASCE)CO.1943-7862.0000765 
+Pólya, G. and Szegö, G. (1998), "Problems and theorems in analysis", Classics in Mathematics, Vol. 193 No. 1, pp. 125-132.  
+Ponsa, P., Vilanova, R., Goma, A. and Perez, A. (2011), "The use of role playing in engineering curricula: a case study in human-automation systems", International Journal of Engineering Education, Vol. 27 No. 3, pp. 625-634.  
+Prince, R. H. (2006), "Teaching engineering ethics using role-playing in a culturally diverse student group", Science and Engineering Ethics, Vol. 12 No. 2, pp. 321-326. 
+doi:10.1007/s11948-006-0030-y 
+Rajan, P., Raju, P. K. and Sankar, C. S. (2010), Improving Mechanical Engineering Education through Use of Case Studies. New York: Amer Soc Mechanical Engineers. 
+Rodkroh, P., Suwannatthachote, P. and Kaemkate, W. (2013), "Problem-based educational game becomes student-centered learning environment", IADIS International Conference on Cognition and Exploratory Learning in the Digital Age (CELDA 2013). Proceedings, 336-340.  
+Sacks, R. and Barak, R. (2010), "Teaching building information modeling as an integral part of freshman year civil engineering education", Journal of Professional Issues in Engineering Education & Practice, Vol. 136 No. 1, pp. 30.  
+Sampaio, A.Z. (2015), "The introduction of the BIM concept in civil engineering curriculum", International Journal of Engineering Education, Vol. 31 No. 1, pp. 302-315.  
+Sancho, P., Moreno-Ger, P., Fuentes-Fernandez, R. and Fernandez-Manjon, B. (2009), "Adaptive role playing games: An immersive approach for problem based learning", Educational Technology & Society, Vol. 12 No. 4, pp. 110-124.  
+Schraw, G., Dunkle, M.E. and Bendixen, L.D. (2010), "Cognitive processes in well‐defined and ill‐defined problem solving", Applied Cognitive Psychology, Vol. 9 No. 6, pp. 523-538.  
+Sindre, G. (2005), "Teaching oral communication techniques in RE by student-student role play: 
+Initial experiences", in T. C. Lethbridge and D. Port (Eds.), 18th Conference on Software Engineering Education & Training, Proceedings (pp. 85-92). Los Alamitos: IEEE Computer Soc. 
+Tarnopolsky, O. (2012), Constructivist blended learning approach to teaching English for specific purposes. In Versita Discipline: Language, Literature (pp. 1 online resource (254 pages)). Retrieved from DOAB - Full text online http://www.doabooks.org/doab?func=search&query=rid:15567  
+Ustinovichius, L., Peckienė, A. and Popov, V. (2017), "A model for spatial planning of site and building using BIM methodology", Journal of Civil Engineering and Management, Vol. 
+23 No. 2, pp. 173-182. doi:10.3846/13923730.2016.1247748 
+Voss, J.F., Greene, T.R., Post, T.A. and Penner, B.C. (1983), "Problem-solving skill in the social sciences", Psychology of Learning & Motivation, Vol. 17 No. 4, pp. 165-213.  
+Wang, L. and Leite, F. (2014), "Process-oriented approach of teaching building information modeling in construction management", Journal of Professional Issues in Engineering Education and Practice, Vol. 140 No. 4, pp. 9-27.  
+Wang, S.Y., Chang, S.C., Hwang, G.J. and Chen, P.Y. (2018), "A microworld-based role-playing game development approach to engaging students in interactive, enjoyable, and effective mathematics learning", Interactive Learning Environments, Vol. 26 No. 3, pp. 411-423. doi:10.1080/10494820.2017.1337038 
+Wold, K. and Moore, S. (2013), "The impact of role-playing simulations on global competency in an online transnational engineering course", in ASEE Annual Conference. Washington: 
+Amer Soc Engineering Education. 
+Wu, W. and Issa, R.R.A. (2015), "BIM Execution planning in green building projects: LEED as a use case", Journal of Management in Engineering, Vol. 31 No. 1, art. 4014007.  
+Yin, R.K. (2003), Applications of case study research (2nd ed. Vol. 34.). Thousand Oaks: Sage Publications. 
+Yin, R.K. (2014), Case study research: design and methods (Fifth ed.). Los Angeles: SAGE. 
+Zanni, M.-A., Soetanto, R. and Ruikar, K. (2014), "Defining the sustainable building design process: methods for BIM execution planning in the UK", International Journal of 
+Energy Sector Management, Vol. 8 No. 4, pp. 562-587. doi:10.1108/IJESM-04-20140005 
+Zhang, J., Schmidt, K. and Li, H. (2016), "BIM and sustainability education: Incorporating instructional needs into curriculum planning in CEM programs accredited by ACCE", 
+Sustainability, Vol. 8 No. 6, pp. 525. doi:10.3390/su8060525 
+Zhang, J., Wu, W. and Li, H. (2018), "Enhancing building information modeling competency among civil engineering and management students with team-based learning", ASCE Journal of Professional Issues in Engineering Education and Practice, Vol. 144 No. 2, art. 05018001-05018013. doi:10.1061/(ASCE)EI.1943-5541.0000356. 
+Zhang, J., Xie, H. and Li, H. (2016), "Exploring the cognitive structure and quality elements: 
+building information modeling education in civil engineering and management", International Journal of Engineering Education, Vol. 32 No. 4, pp. 1679-1690.  
+Zowghi, D., and Paryani, S. (2003), "Teaching requirements engineering through role playing: Lessons learnt", in Requirements Engineering Conference, Proceedings. 11th IEEE International (pp. 233-241). IEEE. Los Alamitos: IEEE Computer Soc. 
+Zuppiroli, S., Ciancarini, P., and Gabbrielli, M. (2012), "A role-playing game for a software engineering lab: Developing a product line", in IEEE 25th Conference on Software 
+Engineering Education and Training (pp. 13-22). New York: IEEE. 
+ 
+View publication stats
+2 
+ 
+
+2 
+ 
+
+
+
+
+
+
+
+
+
+2 
+ 
+
+2 
+ 
+
+2 
+ 
+

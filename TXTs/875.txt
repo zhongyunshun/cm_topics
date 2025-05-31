@@ -1,0 +1,144 @@
+﻿PAPER • OPEN ACCESS
+Benefits of Implementation of Common Data Environment (CDE) into Construction Projects
+To cite this article: Jan Radl and Jiri Kaiser 2019 IOP Conf. Ser.: Mater. Sci. Eng. 471 022021
+ 
+View the article online for updates and enhancements.
+You may also like
+- Dynamical Friction by Coupled Dark
+Energy
+Nasrin Nari and Mahmood Roshan
+- Magnetoplasmon spectrum of twodimensional helical metals Chao Li and Feng Zhai
+- Accurate 3D-dose-based generation of MLC segments for robotic radiotherapy
+B W K Schipaanboord, B Heijmen and S
+Breedveld
+
+
+This content was downloaded from IP address 99.229.196.79 on 27/04/2025 at 22:26
+
+Benefits of Implementation of Common Data Environment 
+(CDE) into Construction Projects 
+Jan Radl 1, Jiri Kaiser 1 1  Faculty of Civil Engineering, Czech Technical University in Prague, Thákurova 
+7/2077, 166 29, Prague, Czech Republic jan.radl@fsv.cvut.cz 
+Abstract. The BIM (Building Information Modelling) is very actual topic of contemporary research in construction management. There are many views how to observe benefits of BIM in construction industry. It is clear that project management and optimization of management processes in construction projects is big challenge nowadays. The purpose of paper is to enhance efficiency of construction management practices. Paper follows up previous papers of authors that were focused on crucial points of construction management from view of structure and hierarchy of construction projects. There were defined crucial points in exchanging information and their insufficiency for concrete participant of construction project. This paper is focused on standardized environment for exchanging information in BIM. Generally, it is called Common Data Environment (further CDE). The paper observes influence of CDE on efficiency of construction projects and options of implementation into real projects. From practical experience of authors in project management in construction business were proposed possibilities of implementation to road projects in Czech Republic from view of feasibility. For several possible types of implementation of CDE (proposed by authors) were evaluated impacts on feasibility of construction projects primarily cost and benefits of implementation. From this evaluation were find out the most appropriate types of implementation for CDE and practical proposal of strategies of implementation of CDE into construction projects of multiple types of construction projects. 
+1.  Introduction  
+Construction projects and their management are naturally complex and demanding systems. Inappropriate control of the system leads to increasing project costs, project delays, reducing productivity and loss of profit. Crucial point of control projects is delivering of right and actual information to person who does work or process. This requirement is hard to accomplish with increasing complexity of the project. During construction project are produced big amount of differentiate data. The main problem is the data are unstructured, chaotic, poorly coordinated and placed on isolated islands of information. Data are inappropriate to work with them, benefit from them or externalized knowledge from them. It causes workers who create this information chaotically and without structure. 
+   Related to BIM implementation into construction projects there exist effort to standardize this data environment. British Standard Institution created in 2013 code of practice named Specification for information management for the capital/delivery phase of construction projects using building information modelling. It defines types of data and protocols for their exchange. Clearly specified structured data and regulation of exchange enhance reduction of time and costs on co-ordinated information. Providing of CDE processes (data exchange, check protocols) delivers spatial coordination. 
+Content from this work may be used under the terms of theCreativeCommonsAttribution 3.0 licence. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+Published under licence by IOP Publishing Ltd
+2.  Principles and processes of CDE according to BSI PAS 1192-2:2013 
+According to BSI PAS 1192-2:2013 are data of project (so called Asset information model) structured to classes Documentation, Non-graphical data, Graphical model. Process of creating documentation is involved of these steps: 
+1. Work in progress (WIP) - non – verified design data 
+2. Approved WIP is authorised in shared area by other specialist designers. It confirms harmony with other models. Approval can consist of many levels of checking (e.g. model suitability check, technical content check, etc.). 
+3. The documentation publishes for all participants of projects and then it archives. 
+   All of these checks can provide without implemented BIM levels of adoption or computerized design. Nevertheless BIM and IT solutions can speed up exchange of coordinating information and interrelated approvals of the procedure. 
+   Procedures of checks are not described for construction operation, but it should be analogically used for construction operations. Matrix of approvals has to be created thoroughly with respect not to enlarge bureaucracy of project (e.g. unnecessary signatures). Approvals of changes, more detailed project documentation and quality tests should be registered in list of events which should be monitored by project manager regularly [1]. 
+3. State of the art of CDE in contemporary construction road projects in Czech Republic Construction projects of roads are under control of Czech highway agency. There exist guidelines, which specify documents need to create and to save. Formal view of documents differs for every project. Actual state of saved documents is poorly monitor during project. Documents are finished after action. 
+   Nowadays during construction projects of roads in Czech Republic are created documents according to the structure below. The structure is actual state of digital archives of projects in Czech highway agency. Documents and their structure are constantly under development. 
+1. Contract documentation 
+• Main contract 
+• Other contracts 
+• Contracts with owners of the land 
+• Tender documentation 
+• Bid of other bidders 
+2. Administrative documentation 
+• Territorial decision and relevant documents 
+• Public proceedings and the statements of the state administration bodies concerned 
+• Building permit 
+3. Guidelines, commands and procedures 
+• General guidelines of the owner of construction project 
+4. Construction diary 
+• Only main construction diary (Construction diaries of objects are saved in folders for objects) 
+5. Finance documentation 
+• Billing documentation 
+• Change orders 
+6. Quality documentation 
+• List of tests in laboratory 
+• Summary list of defects, disagreements and unfinished 
+• Technology prescription 
+• Control and exam plans 
+• Takeover of technological layers 
+• Contractor’s summary report of quality construction works 
+• Records from technical inspection  
+7. Geodetic documentation 
+• Summary geodetic documentation of project 
+• Geodetic measurements 
+8. Engineering activities documentation 
+• Handover/takeover site 
+• Organizational schema of project (owner and contractor)  
+• Mail of project 
+• Schedules of works (updated weekly) 
+• Approval of materials and suppliers 
+• Records from negotiations 
+• Harmonogram (long time schedule) 
+• Contractor’s report about works (update one a month) 
+• Report of technical consultant about works (one a week, one a month) 
+• Report of safety manager 
+9. Environment 
+	• 	Report of BIO/ECO consultant 
+10. Geology 
+• Detailed and additional geology research 
+• Hydrogeology monitoring 
+• Additional geology researches during project (Provided by contractor) 
+11. Information system TEMPUS  
+• Photography documentation with metadata (GPS coordinates, name of object, description of photo) 
+12. Records of video monitoring on site 
+• It is not yet included in projects. It will evaluate amounts of workers on site and progress of works. It should serve as evidence for dialog between owner and contractor. 
+   These documents are saved in digital archive with specified level of security. Savings of documents are done after authorization of final form of document. Digital archive does not include Work In Progress documents. It is saved on participant’s servers. It is related to fully responsibility of participants of projects for saved documents and their correctness. 
+   Up to date documents are provided by regularly recording e.g. one a day. Regular recording depends on frequency of creating of documents and personal liability of workers. Up to date documents are crucial for decision making of responsible persons. 
+   Points 1-10 generally are created in paper form then it is digitized. Even all of approval forms are in paper form and are exchanged and signed manually. It causes additional costs and time on coordination and it can cause errors (lost or corrupted documents – randomly or purposefully). 
+   Points 11-12 are digital by nature and are coordinated with respect to precise control of project. By the way to Tempus and Videomonitoring are inserted big expectations. 
+4.  Impacts of poorly defined CDE and its processes in construction project in Czech Republic 
+In paragraphs above were described CDE defined in British code of practice and state of art in Czech Republic. From previous research of authors was found out the most negative impacts on construction projects are caused insufficient information. Insufficient information is for instance Defects in project documentation, Deviation of project documentation from reality, Vaguely defined specification of project documentation, Insufficient inspection of performing works, Vaguely define supply system and relations with suppliers, [2]. 
+   From analysis of state of art of CDE in Czech Republic and according to British Standards is obvious that negative impacts of insufficient information are solvable by appropriate implementation of CDE to projects. By appropriate level of development is possible to mitigate failures during creating documentation and construction operations [3]. If the implementation of BIM and CDE have clear effects, it will enhance effort for more complex and deep implementation of BIM to companies and it will increase investments on trainings new BIM abilities [4]. Another steps for better implementation is research on field of methodology process model and modification of BPMN which will allow record activities with multiple roles. [5]  
+5.  Conclusion 
+Common data environment as described above fulfils definition of BIM maturity level 2. From view of owner (investor) of project implementation of CDE enhance its control functions and in final impact on reducing costs, increasing quality (keeping up all necessary parameters) and reducing time delays. General principles and concepts of CDE are described in BSI PAS 1192-2:2013. In Czech Republic it should be aptly adopted to this construction environment. The gap in level of definition of CDE is in concrete data exchange formats and definition of necessary documents for realization of construction operation. There should be initiative from governments to standardize this environment with respect to nature of every project (roads, residential buildings, refurbishment etc.). Road projects in Czech Republic are influenced by very complex legislation, often changing this legislation and complicated structure of decisions and responsibilities of local offices. It is hard to accomplish all conditions in right time. Properly defined Common Data Environment should enhance resilience of construction projects against changes of external environment of projects (e.g. legislation, technical innovation, changing opinions of land’s owners in neighbourhood in case of long-term projects). 
+   Another research activity of authors will direct to describe complex definition of Common data environment of construction projects and try to test this environment like dynamical system for better understanding of its behaviour as real system and design optimal architecture for fluent implementation in construction project. Next outputs will include quantitative effects of implementation of BIM and CDE.  
+Acknowledgment(s) 
+This work was supported by the Grant Agency of the Czech Technical University in Prague, grant No. SGS18/112/OHK1/2T/11 
+References 
+[1] British standard institution "PAS 1192-2:2013 Incorporating Corrigendum No. 1 Specification for information management for the capital/delivery phase of construction projects using building information modelling" 2013, The British Standards Institution 2013. ISBN 978-0580-82666-5. 
+[2] J. Rádl, J. Kaiser "Information Insufficiency Problems in Construction Projects" In: Vision 2020: Sustainable economic development, Innovation Management, and Global Growth, Norristown: IBIMA, 2017. pp. 5059-5070. ISBN 978-0-9860419-9-0. 
+[3] K. Prušková "Reducing failures rate within the project documentation using Building Information Modelling, especially Level of Development" In: Building Defects 2017. Les Ulis Cedex A: EDP Sciences, 2018. Materials science, Engineering and Chemistry. vol. 146. ISBN 978-27598-9032-3. 
+[4] M. Hotový, Dynamic model of implementation efficiency of Building Information Modelling (BIM) in relation to the complexity of buildings and the level of their safety In: 9th International Scientific Conference Building Defects 2017. České Budějovice: The Institute of Technology and Business in České Budějovice, 2017. pp. 60-65. ISBN 978-80-7468-1172 (in Czech) 
+[5] J. Myslín, Process Framework of Information Modeling for BIM Execution Planning In: Vision 2020: Innovation Management, Development Sustainability, and Competitive Economic Growth. Norristown: IBIMA, 2016. pp. 582-591. ISBN 978-0-9860419-8-3. 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+WMCAUS 2018	IOP Publishing
+ 
+IOP Conf. Series: Materials Science and Engineering 471 (2019) 022021	doi:10.1088/1757-899X/471/2/022021
+
+ 
+ 
+ 
+ 
+ 
+WMCAUS 2018	IOP Publishing
+ 
+IOP Conf. Series: Materials Science and Engineering 471 (2019) 022021	doi:10.1088/1757-899X/471/2/022021
+
+2
+ 
+
+2
+ 
+
+WMCAUS 2018	IOP Publishing
+IOP Conf. Series: Materials Science and Engineering 471 (2019) 022021	doi:10.1088/1757-899X/471/2/022021
+
+1
+

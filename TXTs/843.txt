@@ -1,0 +1,342 @@
+﻿Implementation of TQM and the Integration of BIM in the Construction 
+Management Sector in Saudi Arabia Validated with Hybridized Emerging 
+Harris Hawks Optimization (HHO) 
+Mohammad Abazid1, Hüseyin Gökçekuş2, Tahir Çelik3 
+1Faculty of Civil and Environmental Engineering, Near East University TRNC, Mersin 10, mohamad.rezq@gmail.com. 
+2Faculty of Civil and Environmental Engineering, Near East University TRNC, Mersin 10, huseyin.gokcekus@neu.edu.tr. 
+3Faculty of Engineering, Cyprus International University TRNC, Mersin 10, tcelik@ciu.edu.tr. 
+ 
+Abstract:  
+       This research is aimed at evaluating two different scenarios, firstly, appraising the impacts of employing the concepts of Total Quality Management (TQM) to the construction projects in Saudi Arabia. The results of the study were obtained through utilization of a descriptive analytical approach, where 300 questionnaires were distributed to engineering firms and companies with a response rate of 200 questionnaires, hence achieving the study sample for this research. The data gathered was analyzed by applying the Statistical Package for Social Science (SPSS) program and calculating the Relative importance index (RII) and the mean values. From the research conducted, the outcomes showed that the management’s ability to commit using TQM while applying BIM obtained a relative importance of (0.717), while the relative importance for the management’s ability to commit using TQM without the 
+application of BIM is (0.552). The results showed that construction projects in Saudi 
+1 
+ 
+Arabia still sustain setbacks from applying TQM concepts and suffer from the lack of administrative, scientific and technical applications. In a second scenario, a hybridized support vector regression (SVR) Harris-hawks optimization (HHO) (i.e., SVR-HHO) were used to predict the TQM. The performance accuracy of the models was checked through three different evaluation metrics namely; mean square error (MSE), correlation co-efficient (CC) and Nash-Sutcliffe efficiency (NSE). the hybridized emerging SVR-HHO outperformed the other two data driven approaches in both the training and testing stages based on the employed evaluation metrics. Overall, the obtained results showed that both the machine learning and metaheuristic approaches were capable of predicting TQM. 
+ 
+Keywords: Total Quality Management, construction projects, Saudi Arabia, Harrishawks optimization, support vector regression 
+1. Introduction  
+ For the past ten years, the construction industry in Saudi Arabia has endorsed a significant development. Construction developments are globally considered the most productive venture phases of any nation. Aside from the focus of construction projects on traditional endowments, currently, the focus has been extended into quality, cost-efficiency, cutback in cost, time management and investment [1]–[3]. Presently, construction projects face many developments and enhancements, which makes maintaining the projects more difficult and incomprehensible. This is particularly true for the construction projects in Saudi Arabia [4]. Contractors encounter several conflicts when planning and executing construction works such as uncoordinated drawings, specifications, absent pertinent information and overdue delivery of design material. As a result, the majority of the regions, in Saudi Arabia, were required to apply and implement innovative techniques and principles in project management and execution. Additionally, they needed to increase the qualifications, requirements such as skills and highly developed technology, and properties of the projects. The application of such approaches enhances production that is more accurate, offer simpler implementing tactics and eases operations. In turn, contractors will become more attentive and contribute in the application of quality insights throughout the entire duration of the project’s construction [5], [6]. 
+ The growing complications of projects has resulted in many developments within the construction industry. Information and Communication Technology (ICT) is one of the few matters that has developed and evolved at a rapid rate. Over the past decade, the construction industry observed a significant transformation in ICT, which is the initiation of Building Information Modelling (BIM). BIM was developed as a modern prototype for Computer Aided Design (CAD) to be implemented within industrial and academic services [6]. Currently, BIM is recognized to be the ultimate general compellation for an innovative approach in managing the design, construction and maintenance of a project/structure. One definition of BIM is “an array of interrelating guidelines, developments, and tools creating an approach to administer the fundamental structure design and project information in a digital system throughout the structure’s life-cycle”. Generally, theoretical progressions within BIM implies that, besides its assistance in geometric display of the structure’s implementation, it also aids the management and functional quality employment of a construction project[6].  
+ Depending on research in several fields, it revealed that TQM and BIM convey association in execution and productivity of institutions, which also speculated that advanced information would eventually lead to advanced outcomes of quality throughout the construction works [7][8][9], [10]. Accordingly, to determine whether the implementation of TQM concepts within the construction projects in Saudi Arabia can be accomplished, this research will study the evaluation of tangible BIM application. A comparison of the TQM will also be made regarding the outcomes of the project when BIM is applied or disregarded. The results will be obtained by conducting researches, applying evaluation/assessment utilities and the method used to comprehend the outcomes while acknowledging the primary features of the project that is represented by time and cost and are incorporated to acquire the vital quality.  
+   However, the knowledge of Artificial Intelligence (AI) entails developing machine elements that analyze the thinking made by a human and translate that thinking into real situations. It can be seen in recent times that artificial intelligence applications have the potential to play a vital role within civil engineering and other branches of engineering. The methods used to perform many construction and civil engineering activities during construction such as the pouring of concrete and bricklaying have remained the same for many years. Therefore, there is a need to provide new methods in construction and civil engineering practice using technology like AI. This technology has more sophisticated applications in areas of civil engineering including design, construction management, quality control as well as risk control [11]–[15] Thus, it has become necessary for construction managers and civil engineers to further their knowledge of AI to provide beneficial advantages to their careers. 
+ 
+2. Literature Review 
+ The application of Building Information Methodology (BIM) in the construction industry can be viewed as a method in employing Information Technology (IT), which represents the analyzation, enhancement, structuring, maintenance and processing computer-based data systems[16]. The concept of BIM was initially publicized in 2003 by Autodesk. It was developed as an innovative and sophisticated approach for structure design, building, and management. All over the world, the BIM has been able to transform the method followed by the industrial professionals in anticipating the impact of employing technology for structure design, building and management. Ever since BIM has appeared, the modeling and documentation of structure projects have endorsed exploitation of a modern approach [16]. Building Information Modelling (BIM), as a term was originally formulated to disengage the customary Computer Aided Design (CAD) that has been primarily focused on the drawing production of structures from the previous IT and CAD generations. BIM can be identified as the enhancement and processing of structural statistics by an interoperable and viable method. Therefore, BIM is recognized as a systematic process or a set of systematic processes that lets operators to integrate and retrieve structural information and domain data throughout the structure’s life cycle [17]. 
+ Many definitions have been associated to the Building Information Modeling (BIM) approach. The American Institute of Architects (AIA) defined BIM as a 
+“model-based machinery associated with a databank of project statistics” (AIA, 2010). The National Building Information Model Standard (NBIMS) stated that the BIM is viewed as an “automated interpretation of substantial and efficient aspects of a facility” [18]. They also claimed that BIM is “a communal information source for data on the facility, establishing a dependable foundation for assessments during the facilities life-cycle; or in other terms from the initial origin up to the demolition of the facility” [18]. 
+ 
+ BIM has been implemented in the execution of large and high-scale projects. An example of such projects includes the recently constructed London 2010 Olympic, 
+6,000 seating, Velodrome cycle track and the 225 meters high, 48 floors, Leadenhall 
+Building “The cheese grater”. BIM is not only implemented within massive projects; it also is processed in smaller scale projects on particular components throughout the project. One example of smaller scale projects with BIM application is the new bus post located in Slough, UK. It was opened in 2011 of June, in which BIM was utilized to model and install the modular stairs [19]. Due to the anticipated compensations from BIM employment, with respect to the cutbacks of operation costs and smaller chances of error, the UK government declared that all contracts as of 2014 will compel source chain partners to work jointly by utilizing the “fully collaborative 3D” BIM [20]. The three-dimensional BIM insinuates all resource information, data and records of all projects in a programmed method. In the United States, both the public and private sectors are collaborating to validate the application of the BIM method [21], [22]. 
+ On the contrary, there have been several evaluations that claim that the application of BIM has not yet proven or justified it to be completely effective [23]. Succar provided a definition on BIM that emphasizes its entire aspect, which consists of a software that involves arithmetical Modeling and input of information, as well as the utensils and procedures coupled with Project Management (PM).  Hence, observing BIM in its complete complexion undeniably classifies it within the structure of the Project Management domain. Structural project managers are capable of employing BIM to develop the involvement among investors, in which the duration needed for documentation is reduced resulting in profitable project results. From previous literature works on BIM features, some incorporated the detailed record of BIM application on specific project conditions such as the Heathrow Terminal 5 [24] and the Walt Disney Concert Hall [25].  
+      In second scenario, some knowledge of AI seen in artificial neural networks (ANN) has proven to be a useful measure for risk control as they can interpret a collection of construction information. This neural network was also used in predicting the compressive strength of a high strength self-compacting concrete, a normal concrete, and high-performance concrete with a high volume of fly ash at 28 days.  Also, the durability prediction of some construction materials was made using an AI-based technique (neuro-fuzzy). These techniques can also be applied in investigating problems that occur in concrete. Nowadays, AI-based models play a significant role and demonstrate a desirable capability in the modeling and simulation of random phenomena and non-linear time-series patterns. Thus, the AI-based model uses a data intelligent algorithm efficiently, controlling the experimental time series associated with the problem, particularly, the black-box model and any other prediction models. Many types of research have been conducted using AI-models and have revealed the successful application of their predictive capability in construction and material engineering projects. For example, [26]–[29] 
+ 
+ 
+ 
+3. Proposed Research Methodology 
+   As stated above the proposed research methodology contained two different scenarios, the first includes appraising the impacts of employing the concepts of TQM to the construction projects in Saudi Arabia. However, the second scenario involves coupling of hybridized support vector regression (SVR) Harris-hawks optimization (HHO) (i.e., SVR-HHO) were used to predict the TQM (see, Fig. 1).  
+ 
+
+Fig. 1. Proposed model development flow chart for this study 
+3.1 Conventional Modeling 
+ The objective of this research was obtained by employing the descriptive and analytical method to analyze the data collected. The data was collected through the distribution of 100 questionnaires to engineering organizations and construction companies that apply BIM concepts and another 100 questionnaires were sent to firms and companies that do not apply BIM in their work, which totals to 200 questionnaires. The sample size was determined by using a sample size calculator found online. The mathematical equation to determine the sample size is as follows:  
+𝑍2∗p∗(1−p)  
+𝑛	𝑍	∗𝑝∗(1−𝑝)   	 	 	 	 	 	 	 	(1) 
+	[𝑁−1+ 	𝑒2	]
+   In which n signifies the sample size, N represents the population size, Z is the confidence level, p denotes the sample proportion and e represents the margin of error. For the following study the population size is 412, the confidence level is 95%, the margin of error is 5% and the sample proportion is 50%,  which resulted in the sample size of 200. This census was acquired from the Saudi Engineers Association, which was based on the targeted research sample. To assess the information gathered from the questionnaires, the SPSS program (statistical package for social sciences), the Relative Importance Index and mean values methodologies were employed. The detail analysis of Relative Importance Index (RII), data and questionnaire measurement, validity of the structure, Kolmogorov-Smirnov test, and Cronbach alpha test are presented in Appendix A. 
+3.2 Hybridized Computational Models 
+3.2.1 Support vector regression (SVR) 
+The support vector machine (SVM) concept was first discovered by [30], which is considered as an observer-based learning technique. This method was recently employed in diverse areas of chemistry such as spectroscopy, chromatography, synthesis and spectrometry successfully. Generally, SVM is categorized into two; the 
+Support Vector Regression (SVR), which composed of prediction analysis and the Support Vector Classifiers (SVC) that deals with classification issues[31]. SVR can be denoted using 
+𝑓(𝑥) = 𝑤 × ϕ(x) + 𝑏  	 	 	 	 	 	 	 	(2) 
+Whereby, w is denoted as the weight of the vector shown in the feature space, the transfer function is denoted using ϕ, and b is considered as the bias. In order to present SVR function f (x), the issue of regression can be demonstrated as: 
+Minimize 	  ‖𝑤‖ 	 	 	 	 	          (3) 
+ 
+𝑦𝑖 − f(x) ≤ ε + 𝜉𝑖
+Subject to the condition: {	f(x) − 𝑦𝑖 ≤ ε + 𝜉𝑖∗	 	 	      	          (4) 
+𝜉𝑖, 𝜉𝑖∗ ≥ 0, 𝑖 = 1, 2, 3, … . , 𝑁 
+where, C, 𝜉𝑖 and 𝜉𝑖∗ are penalty parameter and two slack variables, respectively, and ε is the . By utilizing the Lagrangian functions, the solution of the non-linear regression function can be given based on the optimization as follows: 
+ 
+𝑓 𝑏  	 	 	 	 	    	(5) 
+ 
+where; 𝐾(𝑥, 𝑥𝑖), 𝛼𝑖, 𝛼𝑖∗ are kernel function and dual variables, respectively, and C, 𝛼𝑖 and 𝛼𝑖∗ > 0. There are several kernel functions like linear, sigmoid, polynomial, and radial basis function (RBF). Among them, the RBF kernel is considered as the most popular kernel used in the literature. Therefore, the RBF kernel was adopted for this research. The RBF kernel is defined as [32], [33]. 
+𝐾(𝑥, 𝑥𝑖) = exp (−γ‖𝑥𝑖 − 𝑥‖2) 	 	 	 	               	 	(6) 
+where, γ is the kernel parameter, which means C, γ, and ε are three parameters that are responsible for SVR performance. A detailed description of SVR and SVM can be found in [34]. 
+3.2.2 Harris Hawks Optimization (HHO) 	 
+Harris Hawks Optimization (HHO) is considered as a novel algorithm, which is developed through mimicking the hawk’s hunting procedure (Heidari et al. 2019). The technique was used successfully for solving various intricate problems in engineering and science in the recent years [36], [37]. Mostly, the hawks used to work alone but the Harris hawks used to chase and hunt through working and co-operating together. Therefore, the HHO technique resembles the co-operative mechanism and hunting behavior of the natural Harris hawks. The mechanisms involved during HHO hunting consists of tracing, encircling, approaching, and attacking. Which involve three main steps viz; exploration, a transition from exploration to exploitation and exploitation (Fig.2). The first stage involves the exploration, which is demonstrated as follows: 
+𝑋𝑟𝑎𝑛𝑑(𝑡) − 𝑟1|𝑋𝑟𝑎𝑛𝑑(𝑡) − 2𝑟2𝑋(𝑡)|  𝑖𝑓 𝑞 ≥ 0.5
+𝑋(𝑡 + 1) = {	  	           (7)      
+𝑋𝑟𝑎𝑏𝑏𝑖𝑡(𝑡) − 𝑋𝑎(𝑡) − 𝑟3(𝐿𝐵 + 𝑟4(𝑈𝐵 − 𝐿𝐵))  𝑖𝑓 𝑞 < 0.5
+  
+𝑋𝑎	𝑁	     	 	 	 	 	 	 	           (8) 
+ 
+Whereby 𝑋𝑎(𝑡) is defined as the mean location of the Harris hawks, while the no. of 
+Harris hawks was denoted using N, 𝑋(𝑡 + 1) is the location of the hawks in the following iteration t+1, 𝑋𝑖(𝑡) is the position of the current Harris Hawk at iteration t, 
+𝑋𝑟𝑎𝑛𝑑(𝑡) is a randomly selected hawk, 𝑋𝑟𝑎𝑏𝑏𝑖𝑡(𝑡) is the location of the rabbit (prey); LB and UB are the lower and upper bands, respectively, and 𝑞, 𝑟1, 𝑟2, 𝑟3 and 𝑟4 are random values varying between 0 and 1. 
+The second phase is considered as a transition from exploration to exploitation, if the energy of the hawks is minimized during the hunt. The energy used for escaping the hunt can be shown as follows: 
+𝑡
+𝐸 = 2𝐸0(1 − 𝑇)  	 	 	 	 	 	 	 	 	(9)     
+Whereby, 𝐸0 is indicated as the original energy used during every progression (𝐸0 ∈ 
+(−1, 1)), while T is the maximum size of iterations.  
+The exploitation stage is regarded as the third phase, and its planned predominantly for improving local solution in the recent solutions. During this phase, the hawks quickly attack the prey identified in the past stage based on the prey escape and hawk hunting. Based on both values of E and r, the besiege type to catch the rabbit is selected; the hard one is taken when |𝐸| < 0.5 and the soft one is taken when |𝐸| ≥ 0.5. The HHO algorithm has four strategies to mimic the attacking stage; soft besiege, soft besiege with progressive rapid dives, hard besiege, and hard besiege with progressive rapid dives (Fig.2) [14], [35]. 
+ 
+Fig. 2: Different stages of Harris Hawks Optimization[35], [37]–[39].  
+ 
+3.3 Evaluation Criteria of the Models and Data Normalization 
+In order to ensure and maintain that similar attention and priority was given to both the independent as well as the dependent variables and to equally minimize their dimensions. The data set employed in this work is scaled and normalized into a range of 0-1 based on equation 1. One of the main application of data normalization prior to AI modelling is to minimize the redundancy of the data and to reduce the larger numerical errors [40][31], [41]–[43]. 
+𝑥−𝑥𝑚𝑖𝑛
+	𝒚 = 0.05 + (0.95 × (	))                                                                     (10) 
+𝑥𝑚𝑎𝑥−𝑥𝑚𝑖𝑛
+In any data driven approach, the performance criteria is checked using different indices through comparing the experimental result with the predicted results [44]. The data driven algorithms (SVR, SVR-PSO and SVR-HHO) developed in both the calibration and verification phases were checked for their prediction ability using three performance indicator metrics Mean square error (MSE), correlation co-efficient 
+(CC) and Nash-Sutcliffe efficiency (NSE)  
+MSE =  𝑁1 (𝑌𝑜𝑏𝑠𝑖 − 𝑌𝑐𝑜𝑚𝑖)2  	                                     	          (11) 
+𝑁𝑆𝐸  	 	                                        (12) 
+𝐶𝐶  	 	 	 	 	 	          (13) 
+∑𝑗=1[(𝑌)𝑜𝑏𝑠,𝑗−(𝑌)𝑜𝑏𝑠,𝑗]
+ 
+ 
+3.4 Proposed Modelling Procedures 
+      In order to enhance the performance accuracy of SVR, the parameters of the model should be defined carefully. Its accuracy depends on selecting various appropriate conditions in order to attain the optimum state. It is paramount to determine the global optimum solution, which can lead to achieving the best performance. Therefore, the coupling of SVR technique with the nature-inspired algorithms (HHO) lead to the birth of the SVR-HHO. The nature-inspired algorithms were employed in order to find the three major parameters of the SVR model (C, γ, and ε.). Based on Fig. 3, the flowchart illustrates the hybrid SVR-HHO model used in this article. For the purpose of this current study, single and hybrid data driven algorithms models were utilized in the prediction of TQM in order to understand their activity as well as their structural behavior. The data involved in this study was derived from the existing work in this stud. Currently, the novel AI-based techniques (both hybrid and simple models) are now becoming interestingly popular in the field of construction and civil engineering materials. 
+ 
+Fig. 3: Flowchart of the proposed hybrid support vector regression models 
+ 
+      For effective modeling and forecasting, external or internal validation techniques are paramount. In AI-based models, validation is generally done in order to fit the model into the given data set according to the employed indicators with the aim of achieving a reliable result for the prediction of the unknown data set. Due to problems such as over fitting, satisfactory calibration performance is not usually in agreement with the testing performance. In the validation approach, various kinds of validation methods can be utilized including cross-validation (CV), (also known as kfold cross-validation), holdout and leave-one-out etc. Holdout technique is generally regarded as the simplest form of k-fold, where by the data is randomly categorized into two sets called the training/calibration data and the verification/testing data. One of the main advantages of this method is that in each single round, the training and validation sets are independent of one another[45]–[47]. This leads to a sound foundation in the model optimization. In this research the data is divided into two parts as stated above, 70% for training phase and 30% for testing phase. 
+4. Results and Discussion  
+As stated above the main objective of this study are presented in two different scenarios namely, (i) appraising the impacts of employing the concepts of TQM to the construction projects in Saudi Arabia, (ii) second scenario involves coupling of hybridized support vector regression (SVR) Harris-hawks optimization (HHO) (i.e., SVR-HHO) were used to predict the TQM. 
+4.1 Result of Conventional Modeling 
+   Occupation of the participants in the questionnaire are conducted using the responses gathered, 35% of the participants are site engineers with a frequency of 69, 29% are site mangers with a 58 frequency and 37% of the participants are company managers with a frequency of 73. Table 1 illustrates the results of occupation of participants in the questionnaire. Fig. 4a further illustrates the results obtained in a pie chart. From the graph shown, it can be concluded that the participants whom are company managers have the higher percentage, followed by the site engineers and site managers. In an Experience of Participants, the questionnaires showed that the participants have a 26% of “1-5 years” with a frequency of 52, 34% have “5-10” years of experience and a frequency of 67, and 41% of the participants have more than “10” years of experience with a frequency of 81. The results are shown in Table 2 and Fig. 
+4b illustrates the results in a pie chart. 
+ 
+ 
+Table 1. Frequency and Percentage of Participants Occupation 
+Job Frequency Percent Company Manager 73 37% Site Manager 58 29% Site Engineer 69 35% Total 200 100%  	 
+Table 2. Frequency and Percentage of experience of participants 
+Experience Frequency Percent 1-5 years 52 26% 5-10 years 67 34% More than 10 years 81 41% Total 200 100%  
+      From the Fig. 4b, it can be seen that the participants with more than ten years of experience are the highest percentage at 41%, followed by participants with “5-10” years at 34% and with the lowest percentage are participants with “1-4 years” experience at 26%. However, the organization of Participants From the responses collected, 22% of the respondents are employed in government organizations and the frequency is 43, 33% are employed in consultant organizations with a frequency of 66 and 46% of the respondents are employed in contractor organizations with a frequency of 91. The results are shown in Table 3 and Fig. 4c illustrates the results in a pie graph.  Fig. 4c shown, the participants whom are part of contractor organization had the highest rate at 46%, where 33% were part of consultant organizations and only 21% were part of government organizations.   
+ 
+Table 3. Frequency and Percentage of organization of participants 
+Organization Frequency Percent Government 43 22% Consultant 66 33% Contractor 91 46% Total 200 100%  
+
+ 
+ 	(c)
+ 
+ 
+ 
+Fig. 4 (a) Occupation of Participants (b) experience of participants (c) organization of 
+participants  
+ 
+      The higher management’s ability to applying TQM concepts when the organization does not use BIM is also explained. The following table, Table 4, illustrates the mean of the field “The higher management’s ability to commit to applying TQM concepts when the organization does not use BIM”. It can be seen that the mean of all the items in this field have a total value of (2.76). Moreover, the proportional mean is found to be (55.16%); the relative importance is equal to (0.552); the test value is (-2.404); and the p-value was found to be (0.201) wherein the value is greater than the significance level α = 0.05. When compared to the theoretical value of (3), the mean value calculated for this field is insignificantly different, including the relative importance value that is less than 0.7. From the questionnaires, the responses showed that the participants were either uncertain or neutral in their judgements for this field.  
+Table 4. The values of the Means and Test quantity for “The higher management’s ability to commit to applying TQM concepts when the organization does not use 
+BIM”. 
+ 
+Item 1 What is your assessment on the performance of the higher management of engineering projects in Saudi Arabia in applying the concepts of 
+TQM? 2.76 55.16% 0.552 -2.537 0.105 3 2 What is your assessment on the performance of the higher management of engineering projects in adhering to time schedule for engineering projects?  2.79 55.81% 0.558 -2.031 0.125 1 3 What is your assessment on the performance of the higher management of engineering projects in seeking to enhance project implementation?  2.75 55.00% 0.550 -2.544 0.355 4 4 What is your assessment on the performance of the higher management of engineering projects in seeking to cut back on expenses?  2.72 54.35% 0.544 -2.781 0.322 5 5 What is your assessment on the performance of the higher management of engineering projects in seeking to satisfy the client?  2.77 55.48% 0.555 -2.128 0.098 2  All items of the field 2.76 55.16% 0.552 -2.404 0.201   
+ Fig. 5 indicates that the questions that obtained the highest mean and relative importance values, which resulted in question 2 with a mean value of 2.79 and relative importance of 0.558. It also shows that the higher management’s ability to commit to utilizing the conceptions of total quality management is extensively smaller than the theoretical value (3) for the mean and smaller than 0.7 for relative importance. 
+
+Fig. 5 Mean and relative importance values of “The higher management’s ability to commit to applying TQM concepts when the organization does not use BIM” 
+      Yet, from the research conducted and based on the majority of the respondent’s judgments, the results prove that there is weak implementation of Total Quality Management concepts for delivering construction projects. The results showed that the higher management’s ability to commit to utilizing the conceptions of total quality management is extensively smaller than the theoretical value (3) for the mean, which was calculated at 2.76, and smaller than 0.7 for relative importance, which was calculated to be 0.552. This reflects on how much of an influential factor TQM concepts can be on the duration, cost and customer satisfaction in construction projects in Saudi Arabia, wherein not applying TQM concepts can negatively affect a project. Furthermore, this research advocates that when enhancing the activities of the company’s quality systems; the administrative work display inadequacy. The presence of inefficiency in setting methods and techniques for reaching a critical observation could assist in guaranteeing that TQM is manipulated in construction projects. All of the aforementioned results prove that the higher management is unable to commit to manipulating the conceptions of total quality management when they do not utilize BIM in construction projects.  
+ The following Table 5, illustrates the mean of the field “The higher management’s ability to commit to applying TQM concepts when the organization uses BIM”. The results in the table shows that the mean of all the items in this field have a total value of (3.59). Additionally, the proportional mean is calculated to be (71.71%); the relative importance is found to be (0.717); the test value is (0.860); and the p-value was calculated to be (0.402) wherein the value is greater than the significance level α = 0.05. By observing the test value, it is seen that the value was a positive integer, that means the average of this field is significantly greater than the theoretical value (3) and is larger than the relative importance value. From the questionnaires, the responses showed that the participants were fond and accepted the field “The higher management’s ability to commit to applying TQM concepts when the organization uses BIM”. 
+ 
+ 
+ 
+ 
+ 
+ 
+Item 6. What is your assessment that BIM application assists the higher management of engineering projects in Saudi Arabia by applying TQM? 3.56 71.13% 0.711 .568 .571 5 7. What is your assessment that BIM application assists the higher management of engineering projects to commit to projects schedule?  3.60 72.10% 0.721 1.080 .282 2  
+8. What is your assessment on BIM application in assisting the higher management of engineering projects to improve project performance?  3.57 71.45% 0.715 .736 .463 4  
+9. What is your assessment on BIM application in assisting the higher management of engineering projects in seeking to cut back on expenses?  3.61 72.26% 0.723 1.126 .262 1  
+10. What is your assessment on BIM application in assisting the higher management of engineering projects in pursuing customer satisfaction?  3.58 71.61% 0.716 .792 .430 3  All items of the field 3.59 71.71% 0.717 .860 .402  Table 5. The values of the Means and Test quantity for “The higher management’s ability to commit to applying TQM concepts when the organization uses BIM” 
+ 
+ Moreover, Fig. 6 illustrates the questions that obtained the highest and lowest values of mean and relative importance.  Based on the figure it is concluded that the question with the largest values is question 9 with a mean of 3.61 and relative importance of 0.723. The question that has the lowest values is question 6, with a mean value of 3.56 and relative importance value of 0.711. Furthermore, it depicts that the mean and relative importance of “The higher management’s ability to commit to applying TQM concepts when the organization uses BIM” is significantly greater than the theoretical value (3) for mean and greater than 0.7 for relative importance. 
+
+Fig. 6. Mean and relative importance values of “The higher management’s ability to commit to applying TQM concepts when the organization uses BIM” 
+ The results showed that a large part of the respondents support the question of the engineering department’s ability to apply the concepts of TQM when utilizing 
+BIM in their companies. The question with the highest value is question 9: “What is your assessment on BIM application in assisting the higher management of engineering projects in seeking to cut back on expenses?” which acquired a mean of 3.61 and relative importance of 0.723.  In addition, the results proved that the companies that applied BIM were capable of adhering to project schedule, cost and customer satisfaction unlike those companies that do not apply BIM in their projects. Moreover, all the results gathered from this study prove that the higher management is unable to commit to applying TQM concepts when BIM is not used in the construction projects. Hence, the mean and relative importance of “The higher management’s ability to commit to applying TQM concepts when the organization uses BIM” is considerably higher than the theoretical value (3) for the mean that is 
+3.59 and higher than 0.7 for the relative importance which is 0.717. 
+4.2 Result of hybridized optimization Modeling 
+    Prior to the model simulation, pre-processing of data was carried out using various methods including normalization, and reliability analysis. For computational analysis (time series data), understanding the effect of individual inputs is crucial in determining the robustness of the predictive models. Hence stationery and reliability analysis were conducted for all the study areas using Cronbach’s alpha method and unit root test (i.e., using Augmented Dickey-Fuller (ADF)). It should be noted that for any time-series, the preliminary analysis of single parameter or input is quite significant for the reason that their prediction accuracy could potentially add to the performance efficiency of the models. As reported in literature [48], [49], the internal consistency of the parameter can be a positive impact if the Cronbach's alpha values exceed the threshold of 0.7 (see, Table 6). According to Dickey et al., (2012), in order to obtain reliable and valid outcomes that safeguard the stationarity of all the parameters the  ADF test is paramount. The experimental data used in the present work qualified all the aforementioned criteria.  
+Table 6. Cronbach Alpha value for the individual field of the survey 
+No. Subject Cronbach's Alpha 1. The higher management’s ability to commit to applying TQM concepts when the organization uses BIM 0.988 2. The higher management’s ability to commit to applying TQM concepts when the organization does not use BIM 0.970  All items of the questionnaire 0.979  
+As described in the literature section, the modelling was conducted using 
+MATLAB 9.3 (R2020a). The best architecture of SVR model was optimized and selected using the trial-and-error technique. The results of the simulation were checked and evaluated using NSE and CC to check for the fitness between the experimental and predicted values, while MSE was employed in order to determine the error depicted by the models in both the training and testing stages. Based on model combinations, the simulated results in terms of quantitative assessment are presented in Table 7. 
+      From the results it can be observed that the predictive modeling approaches have achieved different adequacy in accordance with evaluation criteria. Besides, the overall results demonstrated that SVR-HHO served as the best simulation in term of performance criteria. Although it is difficult to rank the models in accordance with the achieved accuracies, nevertheless the HHO approach relatively showed the best predictions accuracy which attained more than 90% with regards to goodness of fit. However, the comparative visualization of the model combination are presented in scatter plots (see, Fig. 7). A scatter plot shows the level of agreement between the observed and predicted load for the overall goodness-of-fit. It is obvious from the scatter plot that the SVR-HHO model show higher accuracy in comparison to the SVR model.  
+Table 7. Results of evaluation criteria for SVR, SVR-HHO and SVR-POS model 
+  	  
+ Training 	    Testing 	  NSE CC MSE NSE CC MSE SVR 0.8343 0.9134 0.0235 0.8775 0.9368 0.0021 SVR-HHO 0.9381 0.9686 0.0031 0.9601 0.9798 0.0021  
+ 
+ 
+
+
+	0	0.5	1	1.5
+ 	Observed TQM
+
+0	0.5	1	1.5
+Observed TQM
+
+	 	Fig. 7: Scatter graphical representation for (a) SVR (b) SVR-HHO 
+ 
+      This also justified the capability of HHO model in handling the chaotic system. In addition, MSE and MAE is more natural measure of average error, and (unlike RMSE) is unambiguous. It is a model evaluation metric used 
+with regression models [51]. The mean absolute error of a model with respect to a test set is the mean of the absolute values of the individual prediction errors on over all instances in the test set. Fig. 8 also proved merit with regards to error values, as indicated by several researcher lowest values of MSE or MAE indicate the best result and vice-versa. It is evident that the superiority of the SVR-HHO model can be attributed to the fact that hybrid model has been proving to be promising results than single model.  It is very important to report how reliable AI-based models are in the fields of both science and engineering (Gaya et al.,2014; Jang, 1993; Solgi et 
+al.,2017).  
+ 
+ 
+ 
+ 
+ 
+0.025
+ 	0.02  0.015
+0.01
+ 	0.005
+ 	0
+ 	Response
+	 SVR (MSE)	 SVR-HHO (MSE)
+ 
+Fig. 8. Comparative performance of the models using MSE-values 
+    Moreover, the overall comparison between the best SVR model and the two hybrid SVR algorithms (SVR-HHO) is provided using two-dimensional Taylor diagram, as presented in Fig.9. The Taylor diagram highlights and summarizes several statistical indices such as correlation coefficient (R), RMSE, and standard deviation between the observed and computed values (Ghorbani et al., 2018; Taylor, 2001). The Taylor diagram has been utilized in various fields such as water engineering, climate and hydrological modeling. Interestingly, to the best of the author’s knowledge, this research serves as the first to use this diagram in forecasting load demand. Also, this diagram has the ability to highlight the goodness of fit of various models in comparison with one another, therefore the diagram can be seen as a series of points on a polar plot. Detailed explanation and discussion on the Taylor diagram are given in literature (Taylor, 2001). From Fig. 9, it can be observed that the SVR-HHO achieved better goodness of fit in all the four states with the value of R = 0.9798 in the testing phase. The results lead to the conclusion that for both training and testing, SVR-HHO is capable of capturing the complex nonlinear patterns between the load demand variables.  
+ 
+
+ 
+Fig. 9. Two-dimensional plot in terms of Taylor diagram of the models in both 
+calibration and verification 
+5. Conclusion 
+ Total Quality Management (TQM) represents the management method for continuous success through client satisfaction. By applying the concepts of TQM, operators or project owners are able to adhere to time schedule, meet all the clients’ demands, increase revenues, minimize expenses, and accomplish safety protocols. Moreover, they are able to maintain management and reliability within the fundamental constraints, which are time, cost and quality of a project. The results collected were dependent on the dominance of the respondent’s judgements and showed that applying the TQM concepts when implementing construction projects is inadequate and incomplete and the higher management cannot commit to applying TQM concepts within projects. The majority of the respondents judged that within the construction divisions, accomplishing the administrative, scientific and technical abilities while applying TQM is weak and insufficient. This study proposes that the organizations lack a sufficient committee to manipulate the TQM concept. The aim of this research was to focus on the significance and assess the influence of TQM application within the construction industry. This was completed by using descriptive and analytical approaches, as well as the SPPSS program, the Relative Importance and the mean values. The results were gathered by distributing questionnaires to engineering organizations and companies, which discussed the significance of TQM concepts on construction projects in Saudi Arabia. In second scenario, a multi-model data-driven approach using AI-based model (SVR) with a metaheuristic method including; HHO (SVR-HHO) were employed for predicting the TQM. The simulation methods have achieved various performances based on the evaluation metrics; NSE, CC and MSE. The SVR-HHO indicated lowest MSE value and higher goodness-of-fit in terms of NSE and CC in both the calibration and verification stages. Overall, the outcome of this study illustrates the impact of the metaheuristic approaches indicating that both the single and hybrid models resulted in obtaining more precise, accurate and robust results as compared with employing the traditional single models. The results equally suggested that the use of other hybrid models, optimizing methods, ensemble machine learning approaches and other metaheuristic algorithms can be used to improve the prediction ability of the chromatographic properties of the mycotoxins. 
+Conflict of interest: No 
+ 
+ 
+ 
+ 
+ 
+ 
+References 
+[1] M. Abazid, H. Gökçekuş, and T. Çelik, “Study of the quality concepts implementation in the construction of projects in Saudi Arabia by using building information modelling (BIM),” Int. J. Innov. Technol. Explor. Eng., 
+vol. 8, no. 3, pp. 84–87, 2019. 
+[2] A. Kimbonguila, L. Matos, J. Petit, J. Scher, and J.-M. Nzikou, “Effect of 
+Physical Treatment on the Physicochemical, Rheological and Functional 
+Properties of Yam Meal of the Cultivar ‘Ngumvu’ From Dioscorea Alata L. of Congo,” Int. J. Recent Sci. Res., vol. 9, no. 2008, pp. 26515–26517, 2019, doi: 10.24327/IJRSR. 
+[3] M. M. Altayeb and M. B. Alhasanat, “Implementing total quality management (TQM) in the Palestinian construction industry,” Int. J. Qual. Reliab. Manag., 
+vol. 31, no. 8, pp. 878–887, 2014, doi: 10.1108/IJQRM-05-2013-0085. 
+[4] A. Albogamy, D. Scott, and N. Dawood, “Dilemma of Saudi Arabian Construction Industry,” J. Constr. Eng. Proj. Manag., vol. 3, no. 4, pp. 35–40, 2013, doi: 10.6106/jcepm.2013.3.4.035. 
+[5] M. A. Berawi, N. Suwartha, and E. A. Setiawan, “Managing technology towards sustainable products and services development,” Int. J. Technol., vol. 
+6, no. 2, pp. 105–108, 2015, doi: 10.14716/ijtech.v6i2.1031. 
+[6] B. Succar, “Building information modelling framework: A research and delivery foundation for industry stakeholders,” Autom. Constr., vol. 18, no. 3, 
+pp. 357–375, 2009, doi: 10.1016/j.autcon.2008.10.003. 
+[7] C. O. Longenecker and J. A. Scazzero, “Total quality management from theory to practice: A case study,” Int. J. Qual. Reliab. Manag., vol. 10, no. 5, 1993, 
+doi: 10.1108/02656719310040114. 
+[8] L. S. Pheng and J. A. Teo, “Implementing total quality management in construction through iso 9001:2000,” Archit. Sci. Rev., vol. 46, no. 2, pp. 159– 165, 2003, doi: 10.1080/00038628.2003.9696979. 
+[9] F. Fatimah, T. A. Moelyati, and S. Syailendra, “The Impact of Total Quality Management Practice on Employees’ Satisfaction and Performance: The Case of Mass Media’s Employees,” Int. J. Hum. Resour. Stud., vol. 6, no. 2, p. 182, 2016, doi: 10.5296/ijhrs.v6i2.9296. 
+[10] E. Sadikoglu and H. Olcay, “The Effects of Total Quality Management Practices on Performance,” Lab. Manag. Inf. Syst. Curr. Requir. Futur. 
+Perspect., vol. 2014, pp. 996–1027, 2014, [Online]. Available: http://scopus.daneshgostar.org/inward/record.uri?eid=2-s2.0-
+84946734444&doi=10.4018%2F978-1-4666-6320-
+6.ch001&partnerID=40&md5=cf28c6d863f108d6d3bacb81159a52fb%0Ahttp:/
+/scopus.daneshgostar.org/inward/record.uri?eid=2-s2.085041680520&doi=10.4018%2F978-1-5. 
+[11] T. Dede, M. Kankal, A. R. Vosoughi, M. Grzywiński, and M. Kripka, “Artificial Intelligence Applications in Civil Engineering,” Adv. Civ. Eng., vol. 2019, 2019, doi: 10.1155/2019/8384523. 
+[12] Q. B. Pham et al., “Potential of Hybrid Data-Intelligence Algorithms for Multi-
+Station Modelling of Rainfall,” Water Resour. Manag., vol. 33, no. 15, pp. 
+5067–5087, 2019, doi: 10.1007/s11269-019-02408-3. 
+[13] R. Costache et al., “Flash-Flood Susceptibility Assessment Using MultiCriteria Decision Making and Machine Learning Supported by Remote Sensing 
+and GIS Techniques,” Remote Sens., vol. 12, no. 1, p. 106, Dec. 2019, doi: 
+10.3390/rs12010106. 
+[14] H. Moayedi, A. Osouli, H. Nguyen, and A. S. A. Rashid, “A novel Harris hawks’ optimization and k-fold cross-validation predicting slope stability,” Eng. Comput., 2019, doi: 10.1007/s00366-019-00828-8. 
+[15] H. Juahir, S. M. Zain, M. E. Toriman, M. Mokhtar, and H. C. Man, 
+“Application of artificial neural network models for predicting water quality index,” Malaysian J. Civ. Eng., vol. 16, no. 2, pp. 42–55, 2004. 
+[16] E. Namlı, Ü. Işıkdağ, and M. N. Kocakaya, “Building Information Management (BIM), A New Approach to Project Management,” J. Sustain. 
+Constr. Mater. Technol., vol. 4, no. 1, pp. 323–332, 2019, doi: 
+10.29187/jscmt.2019.36. 
+[17] G. Lee, R. Sacks, and C. M. Eastman, “Specifying parametric building object behavior (BOB) for a building information modeling system,” Autom. Constr., vol. 15, no. 6, pp. 758–776, 2006, doi: 10.1016/j.autcon.2005.09.009. 
+[18] NIMBS Committe, “National Building Information Modeling Standard,” Nbim, p. 180, 2007. 
+[19] N. Zaini, A. Ahmad Zaini, S. D. Tamjehi, A. W. Razali, and H. C. Gui, 
+“Implementation of Building Information Modeling (BIM) in Sarawak Construction Industry: A Review,” IOP Conf. Ser. Earth Environ. Sci., vol. 
+498, no. 1, pp. 0–9, 2020, doi: 10.1088/1755-1315/498/1/012091. 
+[20] The Cabinet Office, “Government Construction Strategy,” Construction, no. 
+May, 2011. 
+[21] B. I. M. F. O. R. Infrastructure, “BIM FOR INFRASTRUCTURE THE IMPACT OF TODAY ´ S TECHNOLOGY ON BIM,” pp. 1–14. 
+[22] E. A. Holt, J. M. Benham, and B. F. Bigelow, “Emerging technology in the construction industry: Perceptions from construction industry professionals,” ASEE Annu. Conf. Expo. Conf. Proc., vol. 122nd ASEE Annual Conference and Exposition: Making Value for Society, no. 122nd ASEE Annual 
+Conference and Exposition: Making Value for Society, 2015, doi: 
+10.18260/p.23933. 
+[23] Y. Jung and M. Joo, “Building information modelling (BIM) framework for practical implementation,” Autom. Constr., vol. 20, no. 2, pp. 126–133, 2011, doi: 10.1016/j.autcon.2010.09.010. 
+[24] S. Rowlinson, R. Collins, M. M. Tuuli, and Y. Jia, “Implementation of Building Information Modeling (BIM) in construction: A comparative case study,” AIP Conf. Proc., vol. 1233, no. PART 1, pp. 572–577, 2010, doi: 
+10.1063/1.3452236. 
+[25] M. Bresnen, A. Goussevskaia, and J. Swan, “Implementing change in construction project organizations: Exploring the interplay between structure and agency,” Build. Res. Inf., vol. 33, no. 6, pp. 547–560, 2005, doi: 
+10.1080/09613210500288837. 
+[26] C. Lu and R. Liu, “Predicting Carbonation Depth of Prestressed Concrete under 
+Different Stress States Using Artificial Neural Network,” Adv. Artif. Neural Syst., vol. 2009, pp. 1–8, 2009, doi: 10.1155/2009/193139. 
+[27] W. Z. Taffese, E. Sistonen, and J. Puttonen, “CaPrM: Carbonation prediction model for reinforced concrete using machine learning methods,” Constr. Build. 
+Mater., vol. 100, pp. 70–82, 2015, doi: 10.1016/j.conbuildmat.2015.09.058. 
+[28] P. Akpinar and I. D. Uwanuakwa, “Methodology,” vol. 9, no. 2, pp. 99–108, 2016. 
+[29] N. Romero, C. Dupuy, and J. Quiñones, “Revista ALCONPAT,” Alconpat, vol. 
+7, no. Maio-Agosto, pp. 186–199, 2017, [Online]. Available: 
+http://www.mda.cinvestav.mx/alconpat/revista/documentos/Revista ALCONPAT, Volumen 1, Numero 1, Enero-Abril 2011/Revista ALCONPAT, Volumen 1, Numero 1, Enero-Abril 2011.pdf. 
+[30] V. Vapnik, “The nature of statistical learning theory.” p. 188, 1995, doi: 
+10.1007/978-1-4757-2440-0. 
+[31] A. G. USMAN, S. IŞIK, S. I. ABBA, and F. MERİÇLİ, “Artificial intelligence–based models for the qualitative and quantitative prediction of a phytochemical compound using HPLC method,” Turkish J. Chem., vol. 44, no. 
+5, pp. 1339–1351, 2020, doi: 10.3906/kim-2003-6. 
+[32] D. Han, L. Chan, and N. Zhu, “Flood forecasting using support vector machines,” J. Hydroinformatics, vol. 9, no. 4, pp. 267–276, Oct. 2007, doi: 
+10.2166/hydro.2007.027. 
+[33] H. Hong, B. Pradhan, D. T. Bui, C. Xu, A. M. Youssef, and W. Chen, 
+“Comparison of four kernel functions used in support vector machines for landslide susceptibility mapping: a case study at Suichuan area (China),” 
+Geomatics, Nat. Hazards Risk, 2017, doi: 10.1080/19475705.2016.1250112. 
+[34] S. Gunn, “Support Vector Machiens for Classification and Regression,” Image Speech Intell. Syst. Res. Group, Univ. Southapt., 1998. 
+[35] A. A. Heidari, S. Mirjalili, H. Faris, I. Aljarah, M. Mafarja, and H. Chen, 
+“Harris hawks optimization: Algorithm and applications,” Futur. Gener. 
+Comput. Syst., vol. 97, no. March, pp. 849–872, 2019, doi: 
+10.1016/j.future.2019.02.028. 
+[36] H. Moayedi, M. Gör, Z. Lyu, and D. T. Bui, “Herding Behaviors of grasshopper and Harris hawk for hybridizing the neural network in predicting the soil compression coefficient,” Measurement, vol. 152, p. 107389, Feb. 
+2020, doi: 10.1016/j.measurement.2019.107389. 
+[37] H. Moayedi et al., “Harris hawks optimization: A novel swarm intelligence technique for spatial assessment of landslide susceptibility,” Sensors (Switzerland), 2019, doi: 10.3390/s19163590. 
+[38] M. Z. Islam et al., “A Harris Hawks optimization based singleand multiobjective optimal power flow considering environmental emission,” Sustain., vol. 12, no. 13, 2020, doi: 10.3390/su12135248. 
+[39] J. Yu, C. H. Kim, and S. B. Rhee, “The Comparison of Lately Proposed Harris Hawks Optimization and Jaya Optimization in Solving Directional Overcurrent 
+Relays Coordination Problem,” Complexity, vol. 2020, no. iii, 2020, doi: 
+10.1155/2020/3807653. 
+[40] N. Pfeifer, A. Leinenbach, C. G. Huber, and O. Kohlbacher, “Statistical learning of peptide retention behavior in chromatographic separations: A new kernel-based approach for computational proteomics,” BMC Bioinformatics, 
+vol. 8, pp. 1–14, 2007, doi: 10.1186/1471-2105-8-468. 
+[41] A. G. Usman, S. Işik, and S. I. Abba, “A Novel Multi-model Data-Driven 
+Ensemble Technique for the Prediction of Retention Factor in HPLC Method 
+Development,” Chromatographia, vol. 83, no. 8, pp. 933–945, 2020, doi: 
+10.1007/s10337-020-03912-0. 
+[42] U. M. Ghali et al., “Applications of Artificial Intelligence-Based Models and Multi- Linear Regression for the Prediction of Thyroid Stimulating Hormone Level in the Human Body,” vol. 29, no. 4, pp. 3690–3699, 2020. 
+[43] H. U. Abdullahi, A. G. Usman, and S. I. Abba, “Modelling the Absorbance of a 
+Bioactive Compound in HPLC Method using Artificial Neural Network and Multilinear Regression Methods,” vol. 6, no. 2, pp. 362–371, 2020. 
+[44] R. Saini and P. Kumar, “Optimization of chlorpyrifos degradation by Fenton oxidation using CCD and ANFIS computing technique,” J. Environ. Chem. Eng., vol. 4, no. 3, pp. 2952–2963, 2016, doi: 10.1016/j.jece.2016.06.003. 
+[45] R. G. Sargent, “VERIFICATION AND VALIDATION OF SIMULATION MODELS,” Proc. 2010 Winter Simul. Conf., no. 2009, pp. 278–289, 2010. 
+[46] M. Jomaa, M. Abbes, F. Tadeo, and A. Mami, “Greenhouse Modeling, 
+Validation and Climate Control based on Fuzzy Logic,” Eng. Technol. Appl. 
+Sci. Res., vol. 9, no. 4, pp. 4405–4410, 2019, doi: 10.48084/etasr.2871. 
+[47] K. Zarei, M. Atabati, and M. Ahmadi, “Shuffling cross–validation–bee algorithm as a new descriptor selection method for retention studies of pesticides in biopartitioning micellar chromatography,” J. Environ. Sci. Heal. - Part B Pestic. Food Contam. Agric. Wastes, vol. 52, no. 5, pp. 346–352, 2017, doi: 10.1080/03601234.2017.1283139. 
+[48] J. . Hair, W. . Black, B. . Babin, and R. Anderson, Multivariate Data Analysis, 
+7th ed. Upper Saddle River, NJ, USA.: Prentice-Hall, Inc., 2010. 
+[49] S. I. Abba et al., “Hybrid machine learning ensemble techniques for modeling dissolved oxygen concentration,” IEEE Access, vol. 8, no. September, pp. 
+157218–157237, 2020, doi: 10.1109/ACCESS.2020.3017743. 
+[50] D. A. Dickey, W. A. Fuller, D. A. Dickey, and W. A. Fuller, “Journal of the 
+American Statistical Association Distribution of the Estimators for 
+Autoregressive Time Series with a Unit Root Distribution of the Estimators for 
+Autoregressive Time Series With a Unit Root,” Taylor, Publ., no. July 2015, 
+pp. 37–41, 2012, doi: 10.1080/01621459.1979.10482531. 
+[51] C. J. Willmott and K. Matsuura, “Advantages of the mean absolute error (MAE) over the root mean square error (RMSE) in assessing average model performance,” Clim. Res., vol. 30, no. 1, pp. 79–82, 2005, doi: 
+10.3354/cr030079. 
+[52] M. S. Gaya, N. Abdul Wahab, Y. M. Sam, and S. I. Samsudin, “ANFIS 
+Modelling of Carbon and Nitrogen Removal in Domestic Wastewater 
+Treatment Plant,” J. Teknol., vol. 67, no. 5, 2014, doi: 10.11113/jt.v67.2839. 
+[53] J. R. Jang, “ANFIS : Adap tive-Ne twork-Based Fuzzy Inference System,” vol. 
+23, no. 3, 1993. 
+[54] A. Solgi, A. Pourhaghi, R. Bahmani, and H. Zarei, “Improving SVR and ANFIS performance using wavelet transform and PCA algorithm for modeling and predicting biochemical oxygen demand (BOD),” Ecohydrol. Hydrobiol., vol. 17, no. 2, pp. 164–175, 2017, doi: 10.1016/j.ecohyd.2017.02.002. 
+[55] K. E. Taylor, “Summarizing multiple aspects of model performance in a single diagram,” J. Geophys. Res., vol. 106, no. D7, pp. 7183–7192, 2001, doi: 
+10.1029/2000JD900719. 
+[56] M. A. Ghorbani, R. C. Deo, Z. M. Yaseen, M. H. Kashani, and B. Mohammadi, 
+“Pan evaporation prediction using a hybrid multilayer perceptron-firefly algorithm (MLP-FFA) model: case study in North Iran,” Theor. Appl. 
+Climatol., vol. 133, no. 3–4, pp. 1119–1131, 2018, doi: 10.1007/s00704-017-
+2244-0. 
+ 
+Preprints (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 17 March 2021                   doi:10.20944/preprints202103.0455.v1
+
+Preprints (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 17 March 2021                   doi:10.20944/preprints202103.0455.v1
+
+2 
+ 
+
+2 
+ 
+
+Preprints (www.preprints.org)  |  NOT PEER-REVIEWED  |  Posted: 17 March 2021                   doi:10.20944/preprints202103.0455.v1
+
+
+

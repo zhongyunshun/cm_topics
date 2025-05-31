@@ -1,0 +1,320 @@
+﻿Bond University
+Research Repository
+Integrated Experiential Learning-Based Framework to Facilitate Project Planning in Civil Engineering and Construction Management Courses
+Zhang, Jingxiao; Xie, Haiyan; Schmidt, Klaus; Xia, Bo; Li, Hui; Skitmore, Martin
+Published in:
+Journal of Professional Issues in Engineering Education and Practice
+DOI:
+10.1061/(ASCE)EI.1943-5541.0000421
+Licence: Other
+Link to output in Bond University research repository.
+Recommended citation(APA):
+Zhang, J., Xie, H., Schmidt, K., Xia, B., Li, H., & Skitmore, M. (2019). Integrated Experiential Learning-Based Framework to Facilitate Project Planning in Civil Engineering and Construction Management Courses. Journal of Professional Issues in Engineering Education and Practice, 145(4), Article 05019005. https://doi.org/10.1061/(ASCE)EI.1943-5541.0000421
+General rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+For more information, or if you believe that this document breaches copyright, please contact the Bond University research repository coordinator.
+Download date: 28 Apr 2025
+
+1 	An Integrated Experiential Learning-Based Framework to Facilitate Project 2 	Planning in Civil Engineering and Construction Management Courses 
+3 Jingxiao Zhang1 
+4 1 Professor, School of Economics and Management, Chang’an University, Shanxi Xian, P.R.China, 5 710061, Email: zhangjingxiao@chd.edu.cn 
+6 
+7 Haiyan Xie2 
+8 2 	Professor, Department of Technology, College of Applied Science and Technology, Illinois State 
+9 University, Email: hxie@ilstu.edu 
+10 
+11 Klaus Schmidt3 
+12 3 	Professor, Department of Technology, College of Applied Science and Technology 13 	Illinois State University, Email: kschmid@ilstu.edu 14 
+15 Bo Xia4 
+16 4 	Associate Professor, School of Civil Engineering and Built Environment, Queensland University 
+17 of Technology (QUT), Brisbane, Australia. Email: paul.xia@qut.edu.au 
+18 
+19 Hui Li5 
+20 5 	Associate Professor, School of Civil Engineering, Chang’an University, Shanxi Xian, P.R.China, 
+21 710061,Email: lihui9922@chd.edu.cn  
+22 
+23 Martin Skitmore6 
+24 6  Professor, School of Civil Engineering and Built Environment, Queensland University of 
+25 Technology (QUT), Brisbane, Australia. Email: rm.skitmore@qut.edu.au 
+26 	Abstract  
+27 The competence of leveraging Building Information Modeling (BIM) technology in the 
+28 early project stages is critical to drive its efficacy throughout the project life cycle. 
+29 However, a review of the literature indicates a lack of research into upskilling 
+30 undergraduate students in civil engineering and construction management (CECM) 
+31 majors, particularly with respect to such competencies as using BIM in design, 
+32 planning, processing, managing, and communicating complex projects. To better 
+33 facilitate the skills for undergraduate students, this study formulates an innovative 
+34 framework using Kolb’s experiential learning (EL) with tailored BIM capstone course 35 activities for project planning and implementations. This framework includes concrete 36 experience, reflective observation, abstract conceptualization, and active 
+37 experimentation. It provides the necessary integration of EL, BIM Planning Guide, 
+38 and pedagogies of capstone courses. It helps instructors to monitor and control 
+
+learning activities based on the BIM Planning Guide and test hypotheses through experiments. The framework includes features of group work involvement, connection with practical information, and student-centered learning. Subsequent surveys of students and teachers provide further evidence of the framework merits, specifically in terms of the improved formation of student cognition of BIM-based project planning (90% improvement), in addition to enhanced capabilities in process mapping (70% improvement), software operation (80% improvement), and information exchange (100% improvement). The proposed framework sets an innovative pedagogical rationale for university-based BIM education to refer to and upskills undergraduate students when expanding their capabilities in information and communication technology in the context of EL. 
+Key-words 
+Experiential learning, BIM capstone course, Civil Engineering and Construction 
+Management, BIM Project Planning 
+
+ 
+Introduction 
+The global higher education industry has started an active investigation into educational reforms (Henderson and Trede 2017; Michelsen et al. 2017; Nabi et al. 2017), including the efforts to cultivate qualified BIM practitioners and popularize BIM workflows. As part of the reform, there have been a variety of new pedagogical models and BIM programs at universities (Jingxiao Zhang 2017; Solnosky et al. 2015; Solnosky et al. 2014), such as single curriculum models, cross-curriculum models, graduation design models, and BIM capstone course models. The integration of BIM education into tertiary education systems has increased the demand for students to acquire essential skill sets such as BIM modeling, visualization, and synergized design, construction and operation activities. Introducing civil engineering and construction management (CECM) students to modern BIM software systems, platforms, and related processes will allow them to be more competitive and flexible in a rapidly changing information technology (IT) environment (Chegu Badrinath et al. 2016; Ghosh et al. 2015; Zhang et al. 2016). Furthermore, visualization can enhance communication among architecture, engineering, and construction (AEC) industry stakeholders, and result in a better understanding of project intentions. The design, construction, and operation synergies can also improve the efficiency of information exchange and assist CECM students in solving 3-dimensional (3D) geometric, 4-dimensional (4D) scheduling, 5-dimensional (5D) cost-associated and even n-dimensional (nD) tasks (Fridrich and Kubecka 2014). In principle, CECM students with BIM expertise are already in high demand in the AEC industries, and the realization of these BIM education initiatives requires these students to enter their respective industries with hands-on experience. Hence the integration of experiential learning (EL) in pedagogies of BIM classes can help prepare students and better respond to industry needs. 
+   This research focuses on the model designated to help learners acquire practice-oriented knowledge and skills to accommodate industry needs and address practical problems directly (Pikas et al. 2013). This model aligns well with the concept of EL that has been largely promoted in higher education in recent years (Gnaur et al. 2015; Simelane-Mnisi and Mji 2015; Wu and Hyatt 2016). Currently, there is a need for pedagogical designs of EL through hands-on experience. The learning environment should be supportive in applying student knowledge and conceptual understanding to real-world problems or authentic situations that students are expected to deal with in CECM programs. Although pedagogical practices in higher education started the adoption integrated EL and capstone courses, CECM education is still struggling to contextualize an essential syllabus to develop students’ competencies in BIM hands-on skills that specifically range across the design, planning, construction, and facilities management stages. In response, this study addresses the question of how to integrate actual site experiences and project information of a real-world project into a CECM capstone course to enhance students’ BIM Project Planning competencies. There are two associated challenges with this question. First, the AEC industry is organized into professional branches which do not broadly collaborate enough to obtain such goals as streamlined workflows and improved efficiencies (Giel and Issa 2016). Current AEC industries may not perceive BIM-centered tertiary education as an integrated and collaborative venture reflecting actual practices. Second, educational organizations need exemplified BIM-related paradigms to ensure the knowledge transferred from the tailored BIM syllabus could address a vast variety of empirical and practical real-world project management challenges. BIM programs are structured in a multitude of ways (Ahn et al. 2013; Andersson and Halmstad 2013; Clevenger et al. 2015; Ilozor and Kelly 2012; Zhang et al. 2016). However, the majority focuses on delivering BIM software skills. To face these challenges, educators should seek ways to accommodate existing experiences, project planning skills, and student competencies in BIM courses. 
+   Only limited research uses experience to guide the appropriate use of BIM in a project (e.g., design authoring, design review, and 3D coordination), along with a detailed design and documentation of the process for executing BIM throughout a facility's lifecycle. To implement BIM successfully, a project team needs to perform detailed and comprehensive planning. The planning strategies and site experiences help students to improve competencies and become aware of the opportunities and responsibilities associated with the incorporation of BIM into a well-documented project workflow. Further, it supports students to follow the explicit guidelines for BIM implementation in a project (e.g., design authoring, design review, and 3D coordination), along with detailed design and documentation processes for executing BIM throughout a facility’s lifecycle. Thus, for CECM education, carrying out the integration of experiential learning and BIM project execution planning provides a 
+   suitable way to solve the integration problem of fragmented curricula and knowledge modules in project design, construction, and operation.  
+   To answer the research question, this paper builds an integrated framework using Kolb’s EL theory in a BIM capstone course in CECM education. Through the case study of implementing the pedagogical framework, the paper explores how to use existing experience to execute BIM Project Planning, how to achieve BIM uses, and how student competencies can be enhanced by EL. This research the door to highlight the operation process of combining EL and standard curricular instruction. Moreover, it forms a pilot framework for BIM planning and training high-end BIM talents to meet the industry demands. The knowledge contribution of this paper is to use Kolb's EL theory to integrate BIM into a real-life capstone experience.  
+ 
+Literature review  
+EL Theory 
+In the EL field, Kolb’s theory is widely used in engineering education (Manolis et al. 2013). For instructors, EL can naturally reflect the characteristics of teachers’ development of self-learning strategies. Following Kolb’s EL theory, teachers can obtain clear operational procedures in curriculum design. Learning from experience can shape future learning and support university-based teachers as educators in enhancing their satisfaction and achievements from working in this stimulating and provocative field of teaching (Le Cornu 2016). Kolb's EL theory includes four phases: Concrete experience (CE), Reflective observation (RO), Abstract conceptualization (AC), and Active experimentation (AE). It emphasizes that learning is a process of transforming experience, and therefore generating knowledge. The model affirms the central role experience plays in the learning process. 
+    In particular, in the field of CECM, site experience and real-world skills play irreplaceable roles in the BIM training of virtual model and information inter-operational learning (Jingxiao Zhang 2017). For example, Gümüşburun used data from the Kolb Learning Style Inventory II (Demir et al. 2018) from four different undergraduate programs to explore the learning styles of Turkish civil engineering students (Ayalp 2015). Brown et al. (2014) developed and implemented a set of active learning modules (ALMs) using Kolb’s learning cycle as a conceptual framework to guide and evaluate students to solve specific engineering problems (Brown et al. 2014). Watson et al. (2016) examined the effects of a learning-cycle-based sustainability module on student conceptual understanding of sustainability at a large, research-intensive university in southeastern U.S. (Watson et al. 2016). Rojas and Dossick (2008) introduced an EL model to support active contextual learning, and presented the "interdisciplinary research model" in the Department of Construction Management at the University of Washington (Rojas and Dossick 2008). Wallin et al. (Wallin et al. 2017) explored EL in a discovery-oriented environment and identified three themes relating to student learning experience.  
+   EL is conducive to transcend learners’ ordinary experiences and limitations. It is a strong driver to the attainment of not only their own goals, productivity and creativity, but also their peers (because experience can be shared) (Breunig 2017). EL can also contribute to the conjunction of the learner’s original knowledge with the specific learning context, under which the learners’ inner landscape of intuition, emotions, and spiritual feelings can be aligned with the outer landscape of nature (Stirling et al. 2017). From this perspective, the nature of BIM education aligns well with the concept of EL, which can emulate a practical working environment on campus and provide campus-based futuristic workforce training opportunities. A successful combination of BIM education and EL can further enable student-centered learning with self-learning, trial-and-error, and peer-to-peer strategies. In the proposed EL pedagogical framework, potential employers can also rely on universities to cultivate specific processes and skills related to projects and reduce formal in-house training needs during the initial adoption of BIM. Educators need to pay attention to the three themes relating to student learning experience, which are: attainment of learners’ goals, conjunction of knowledge with context, and student-centered learning. 
+ 
+Application BIM Project Execution Planning Guidelines in CECM education 
+The development of BIM Project Execution Planning Guidelines (PEPG) applications in CECM lags significantly behind the promotion and widespread application of BIM in engineering practice. The current demand for talent with experience in BIM PEPG in the AEC industries exceeds by far the output of such talent from post-secondary education (Ganah and John 2017; Mathews 2013; Thomas et al. 2014; Volk et al. 2014). Previous work has demonstrated that, beyond curricular content, innovative pedagogical approaches are also important for enhancing student learning (Cannon et al. 2016; Carrick and Czekanski 2017; Othman et al. 2017). Because of the lack of exploration in BIM Project Planning education research, educators and students cannot obtain talent-training experience from knowledge sharing between universities. They need practical and documented structures and adjustments in teaching with inputs from industry experts (Hongyuan et al. 2010), who face challenges of being senior BIM engineers. To some degree, a lack of university-based training forms a communication barrier between industry and university. The deficiency also contradicts the current BIM Project Planning university education paradigm (Cannon et al. 2016; Casado et al. 2016; Helmi et al. 2016; Malik et al. 2017; Mora et al. 
+2017). 
+ 
+Research Methodology 
+Proposed Integration Framework 
+Based on the features of comprehensive BIM Project Planning and its lifecycle, we use a BIM capstone course as a foundation to integrate EL with BIM Project Planning on a real-world project. This innovative pedagogy can greatly improve student strategic understanding of BIM Project Planning throughout the lifecycle of a BIM project as well the key roles of process management in BIM project management. 
+ 
+Fig. 1. Proposed Framework of Designing Kolb's EL in a Capstone Course in CECM 
+Education 
+    Fig. 1 shows the integration process involved in the proposed framework. It describes the experience resources that need to be provided to a BIM Project Planning capstone course and ensures the realization of such BIM uses, as well as the created learning environment, expected objectives, and planned learning outcomes. Fig. 1 also illustrates how the stages of the learning cycle match the procedures of the course, and the learning styles and corresponding role responsibilities involved in each stage. 
+ 
+Implementation Process 
+The research process involved in implementing the framework is used as case study (Yin 2003; Yin 2014). This includes the following intellectual contributions: (a) group learning with a real-world project; (b) following the procedures of the course; (c) implementing the course systematically with self-chosen BIM uses within the capstone course time framework; (d) raising the awareness of the importance of BIM planning; (e) information exchange in the implementation of BIM planning; and (f) team cooperation. The best recommend scenario is when the project is in the early planning stages for BIM implementation, so that project groups can fully discuss and prepare their planning efforts.  
+   For this research, the analysis unit is the BIM Project Planning capstone course, and the embedded unit is the team to finish the course. This structured procedure stimulates planning and directs communication in the project team during the early phases of a project. After obtaining the Institutional Review Board (IRB) authorization for the interviews and surveys that were conducted in this work, the instructor implemented the course with the engagement of interdisciplinary fourth year students from Chang’an University’s School of Civil Engineering majoring in CECM. This was a three-credit course. Students met twice per week. There was no other course introducing BIM or modeling to the students. In spring 2017, the EL framework was not implemented in the course class of 82 students, who were therefore in the Non-EL Group. The students learned in the styles of traditional classroom teaching and learning (Zhang et al. 2017). In spring 2018, the EL framework was implemented to the capstone course class of 82 different students, who belonged to the EL group. The real-world construction project was a kindergarten with one underground and three above ground levels, from Taiyuan in Shanxi province. The building was an irregular shaped, framed structure on a raft foundation. According to the requirements of BIM project planning, there were ten BIM uses through the planning and learning process, and a set of relatively authentic EL models. At the same time, the implementation of BIM project planning should be supported by software infrastructure.  
+   Eight participating students were sampled (denoted as A to G) from both the EL and Non-EL groups. These students had preliminary skills of primary 3D modeling and site layout training from the traditional BIM curriculum. Four of the eight students formed a team to identify the roles involved in the course, including a BIM engineer and coordinator. The instructor was the project manager responsible for the overall organization of the course, weekly meetings, scaffolding, explanation of questions, solutions and knowledge in the course Guide. The team needed be formed at the beginning of the project, with students playing the roles of technicians and supervisor engineers as required by the Guide. Based on the student’s career readiness and willingness, the implementation of the Guide was from the contractor’s perspective.  
+   The following items show the process design for using Kolb’s EL cycle to explore this BIM PEP capstone course.  
+(a) Analytical: Based on the site experience, the students identified the BIM uses, and finished the process mapping and information exchange of the course through teamwork.  
+(b) Experimental: The instructor encouraged students to plan for the real project management scenario to gain active and practical insights from their concrete and reflective experiences.  
+(c) Heuristic: The instructor provided the Project Execution Planning Guidelines to 
+the students to enable them gain practice in planning skills.  
+(d) Observative: The instructor provided multiple site visits to students to real-world projects for their concrete and reflective experience of technical and managerial activities involved.  
+ 
+Evaluation 
+A questionnaire was used to investigate the students’ learning, its design being derived from the typical DFS characteristics of each stage in Fig. 1. This comprises the following questions: 
+For Concrete Experience: 
+CE#1: At my work, I feel I am bursting with energy 
+CE#2: I find the work I do to be full of meaning and purpose 
+CE#3: Time flies when I am working For Reflective Observation: 
+RO#4: I analyze my previous experience using BIM basic principles. 
+RO#5: I make decisions by interviewing the local contractor and visiting materials and equipment suppliers. 
+For Abstract Conceptualization: 
+AC#6: My previous thoughts about project planning have changed through BIM study. 
+AC#7: My previous views about project planning have changed through BIM study. 
+AC#8: My previous project planning practices have changed through BIM study. 
+For Active Experimentation: 
+AE#9: I apply new ideas, new skills, and new knowledge to practice. 
+AE#10: I have a new plan for my future CECM studies. 
+   The Concrete Experience questions are from established questionnaires concerning work engagement (Zhang and Gan 2005), while those for the Reflective Observation, Abstract Conceptualization, and Active Experimentation are self-compiled. All are scored on a 5-point Likert scale ranging from 1 (fully disagree) to 5 (fully agree). 
+ 
+Empirical Case 
+Concrete Experience (CE) 
+Concrete Experience (CE) is mainly from curriculum education, major curriculum’s real-world homework，site-based career readiness and work preparedness. During their junior year, students need to learn BIM concepts, tools, applications, and stake holder management concepts throughout the construction process (Fig. 1) (Jingxiao Zhang 2017). 
+    Before the beginning of the course, the instructor and students conduct an overview of the building process. At the same time, the students develop a construction scheme and specifications for the learning about a real-world project. One of their important tasks is the inspection of the construction project based on EL objectives. During the site visit, the instructor introduced the design standards and work progress, the rationale for system, and material selection as well as the performance criteria involved. Their direct and comprehensive involvement immediately attracted the students’ attention and became the foundation of their design experience. Some photographs of the site visit are shown in Fig. 2. 
+  
+Fig. 2. Site Visit before the Start of the Course 
+ 
+Reflective Observation (RO)  
+Without knowing the students’ reflections on their previous experiences, it may be difficult for the instructor to implement a course that students are able to understand and conceptualize a virtual construction model. Reflection is an analytical process when a learner consciously thinks. Firstly, during the site visit, the students were required to combine their own experiences through the visit and put forward at least three design schemes using the basic principle of BIM project planning to understand BIM project planning. Secondly, the students were required to interview the local contractor and visit material and equipment suppliers, to learn to make sound decisions about different modes of information exchange. Thirdly, BIM is intended to provide valuable EL for students to plan and control projects through its powerful 3D representation, 4D simulation, and 5D cost estimation capabilities. For example, the reflective observation of experiences in the design of the execution plan, as well as the procurement of materials and equipment, may help students attain better planning skills or a better price. 
+ 
+Abstract Conceptualization (AC)  
+In this process, students think profoundly about the BIM project execution plan. This could result in learners proposing a new idea, or modify existing concepts to explain their observations (Jingxiao Zhang 2018). Abstract conceptualization in the course requires students to learn from experience, and critically reflect on their knowledge, attitudes, or behaviors. Then, students can improve the knowledge, attitudes and behaviors in a more effective and satisfactory way. In this process, new knowledge can be derived from old knowledge, and new insights can be gained from the theory and practice of the course. When students implement the BIM project planning, they can gradually abstract their experience and conceptualize the curriculum.  
+    Abstract conceptualization in the course enables students to carry out information exchange and determine the necessary infrastructure for BIM implementation. The implementation includes reviewing initial BIM goals and usage to ensure that the project planning is consistent.  Students should consider the requirements for information exchange in the implementation as well. It further identifies the infrastructure needed to support processes and information exchange. The instructor and students should also jointly review the final BIM project implementation plan. This process includes developing weekly meeting plans and making sure the instruction procedure of the course is maintained.  
+   In the process of AC, students gradually understand the strategy and procedure of BIM project implementation planning (e.g., how BIM projects are planned), determine goals, and manage them. At the same time, it is further understood that the formulation and strict implementation of planning in BIM project management are the keys to the success of the BIM project, and the strategy of contrasting conceptual and strategic BIM management processes with the practical skills of applied BIM technology leads to a deeper BIM information exchange. In the case study, however, we found that it is challenging for students to conceptualize these processes in their entirety.  
+ 
+Active Experimentation (AE)  
+After the CE, RO, and AC steps, students begin the fourth cycle of AE and continue their learning with information from real-world construction site visits. 
+ 
+BIM Use Process Mapping  
+Following the structured procedure of the course, the team started to map the BIM planning process. Once the plan was created, the research team followed and monitored their progress. Fig. 3 shows the overall schematic planning arrangements. 
+ 
+Fig. 3. Process Mapping of Level 1 for AE in the course 
+ 
+Deliverables of BIM Uses 
+The well-documented deliverables of BIM uses are intended to ensure that all parties are aware of the opportunities and responsibilities associated with the incorporation of BIM into the project workflow. BIM uses during the building phase include 3D models, cost estimation, maintenance scheduling, 4D models, record models, 3D control and planning, programming, site utilization planning, energy analysis, light analysis, and collision checking. Figures 4 and 5 show the deliverables’ examples of BIM uses in the course. Active experimentation is expected to corroborate the use of BIM technology and information management in the real-world project.  
+ 
+Fig. 4. Site Utilization Planning Deliverables 
+ 
+Fig. 5. 3D Model Deliverables 
+ 
+Table 1. Checks of the Content and Responsibility Distribution for BIM Use 
+Deliverables 
+ 
+   The team members learn from each other by recording the information exchange and file transfer. All team members are responsible for the quality control of their design, their data sets, and model attributes before submitting their deliverables. The file or BIM report can be submitted after confirming the quality checks. The instructor, as the BIM manager, then confirms the quality of the model. At the same time, students have their own scopes of BIM use deliverables, including visual, interference, and standard checks. The specific checks and responsibilities assigned for active experimentation are shown in Table 1.  
+ 
+Results 
+The	Kolb	Four‐stage	Learning	Effect	
+    The questionnaire was distributed to all 82 students, 80 were collected, and 4 were rejected because of no answers, leaving 76 for analysis - a recovery rate of 93%. The descriptive statistics elaborating the Kolb four-stage learning effect of are shown in Table 2. The mean of each stage being higher than 3 indicates the learning effect is good, while the significant downward trend from CE to AE1 is expected as Kolb is a spiraling learning cycle, in which each stage is a necessary condition for the later stage, with the learning difficulty increasing each time constantly rising. 
+ 
+Table 2. Statistical Results of the Kolb Four-stage Learning Effect 
+ 
+   The Kolb four-stage learning effect is ultimately reflected in the students’ academic attainments, which are assessed on a rising 5-point scale by teachers and industrial professionals from their classroom work. Table 2 shows the correlation between the Academic Attainment Scores and the Kolb four-stage learning outcomes, all of which are significant at the 0.05 level, with the influence of the later stage on academic attainment far exceeding the earlier stages. This is consistent with the variety of the four-stage mean. 
+ 
+Student Responses 
+Table 3 summarizes the results of the weekly student questionnaire survey of the perceived impact of incorporating the EL cycle on the course. Six questions were used to investigate the learning response with the course proceeding. Generally speaking, with the deepening of the course, students ‘attitudes become more positive. Students hold different views at the beginning of the course and the final results are almost converge at the end. 
+ 
+Table 3. Student Weekly Learning Response with their Course Progress 
+ 
+   This research combines quantitative and qualitative methods together to investigate the learning outcomes and student opinions, with 70 of the 82 participants providing qualitative data for analysis in the form of comments on the questionnaires and from the interviews. The students agreed that EL was very helpful in the course, the main competencies being that, in addition to acquiring BIM skills Such as BIM modeling and synergized design., they learned by working through the processes of using BIM to achieve creativity and self-affirmation and graphical communication. Table 3 indicates the improved formation of student cognition of BIM-based project planning (90% improvement in 8-9 weeks), in addition to enhanced capabilities in process mapping (70% improvement), software operation (80% improvement), and information exchange (100% improvement). 
+   Five themes emerged during the interviews, comprising the need for: (1) a sound plan prepared by instructor; (2) an early capstone course preparation by students; (3) an established implementation plan and labor division at the beginning of the course assignment; (4) team members working together and strictly following the established plan; and (5) learning modeling skills as early as possible, as follows. 
+ 
+(1) Instructors should make a sound plan for project guidance. In the BIM project execution phase, the instructors or course designers should understand how students learn the objects of attention, so they can plan the execution accordingly. Students select the most suitable learning styles for themselves based on their own previous experiences. Students can communicate with the instructors about the selection of learning styles, which helps team establishment, role allocation, division of labor, and plan formulation. In the implementation process, students can communicate with the instructors through learning materials in real time, revise and improve the learning experience, and form new knowledge and skills. As participating Student A (PSA) commented, 
+  
+“The drawings we found at the beginning are a bit complicated for us. They are a bit problematic. It is not feasible to import the drawings directly into the BIM model, so we had to replace them with simple drawings and start modeling again. This not only wasted a lot of time, but also lessened our enthusiasm toward the course. Therefore, the drawings must be correct and should not be too complicated. In the early stage of the implementation of the BIM project, we needed to have more communication with the instructors. The instructors should understand how we learn to follow the BIM project target.” 
+ 
+Similarly, PSB commented that,  
+ 
+“Using the cloud functions after the completion of reinforcement and civil engineering modeling, we can check the rationality of the models. There are hundreds of error messages in the inspection after the initial model is completed. We need to be very patient to correct the errors in this part, especially to correct the errors where the component properties are irrational. It is very possible to gain knowledge from this process. Only the team leader and one member of the team are authorized to access the cloud functions 
+[access to project information] in each group. It would be better if we all 
+could have access. There are few subjects about building structures in the undergraduate courses and the coverage is narrow. I would like to study more in that area. Also, some missing parts (in the model) cannot be checked automatically. For example, if there are doors and windows on the drawings but missed in the model, the software cannot check them. Therefore, we must be careful with the modeling and not to omit them.” 
+ 
+(2) Students should complete the preparation as soon as possible. After setting up the tasks of the course, they should familiarize themselves with the BIM implementation plan prior to the start of the semester. Meanwhile, they should understand the BIM execution planning process and learn the operation of the BIM software, including the modeling and BIM application processes. They can also make use of the opportunities of internship practice before the final semester to prepare a few sets of drawings that are suitable for modeling. These drawings usually include frame or shear-wall structures, with the overall elevations being not too high - usually below ten-stories. It is acceptable to have the drawings of the buildings with many standard levels. As PSB commented, 
+ 
+“The other BIM course design teams had already started a phase of modeling in November 2016. In addition, they seemed to have acquired BIM knowledge and software during their college days very well. Some teams completed the modeling stage by the end of December. During the winter break, they studied stage two of BIM applications from January to March. At the end of March, they submitted the second-phase modeling results. From April to May, they basically executed the application and improvement of various knowledge points according to the class schedule. In contract, our team couldn’t decide on the topic of course design until the end of last semester. Some software instructions were in English. We had to translate them into Chinese, which we did in the winter break. At the beginning of this semester, we undertook our graduation internships for more than a month, which delayed the start of the BIM design and modeling. When we were finally ready for the course, it was already the end of April, resulting in insufficient completion time and a hasty process. The preparation time greatly affects the quality of the completed process. The more complete the preparation, the better the result of the assignment.” 
+ 
+(3) At the beginning of the course, students must determine a complete set of implementation-plans and division of labor. The plans should be completed before the start of BIM design and modeling through a development meeting, and according to the abilities of the individual team members. The division of tasks and arrangements include the key milestones to complete the tasks. The determination of task division and time arrangements relies on the learning outcomes of the modeling and other BIM software. As PSD comments, 
+ 
+“When using Luban® software to produce construction schedules, you can only make horizontal bar charts and output progress schedules, and cannot convert them into a time-scale network. Therefore, if you need time-marked network maps, you have to draw them manually. When you start the schedule, it is necessary to take into account the time to create the hand-drawn, time-scale, network map. You can use CAD® or Zebra Menglong® software to draw the map. CAD® requires a lot of time and can provide nice drawings. Menglong® is convenient to use, but the overall effect is not very good-looking.” 
+ 
+Also, as PSF commented,  
+ 
+“Time considerations are critical in a capstone course. There is no time to complete all the Project Planning modules. In the early stages of BIM implementation, we should determine our own implementation plan. 
+Otherwise, it will affect the final results.” 
+ 
+(4) Strictly carrying out the formulated plan as far as possible. The team members carry forward the project together and encourage each other. During the project, the team needs full attendance and advances rapidly. If one or two individuals leave, it affects the other team members. As PSE commented, 
+ 
+“In reinforcement modeling, we can use floor copying functions. It is possible to divide the work into small tasks, finish individual parts first, and finally merge them together. The premise is that the basic points of individual parts are the same. Team members work together and they should discuss and communicate with each other in a timely manner, which can relieve many burdens and ensure the plan is well executed.” 
+ 
+PSB also commented that, 
+ 
+“The modeling process of the beam and slab reinforcement is affected by mistakes in the drawings and unclear labels which, in turn, affects the rationality and correctness of the model. Because of the tight schedule, our team immediately discussed these issues and determined the solutions to continue the work.” 
+ 
+(5) Learning modeling skills as early as possible. It takes to learn modeling through videos during the internship time. The videos are simple and easy to follow. However, a variety of small problems emerged in the actual operation. For example, it always fails to recognize imported drawings in the BIM software. Such additional issues might arise in the modeling processes as unrecognizable rebar symbols, different rebar symbols in CAD®, and unmatchable fonts in text displays. These issues need practical solutions that might not be fully automatic. As PSD commented,  
+ 
+ “We failed to import the PDS files exported from the steel reinforcement models and civil models into Luban PE files or WORKS files. We were unable to contact the person in charge of the customer support in the Luban 
+Software Company in time. ” 
+ 
+According to PSF,  
+ 
+“The drawing lack information about the reinforcement at the junction of the primary and secondary beams. The first layer contradicts the plate thickness and plate reinforcement instructions. For example, LB1 is 100, C8@200. But in the following description, the layer thicknesses are 180 and the reinforcement is double-layered.”  
+ 
+While PSG added that,  
+ 
+“Automatic checking cannot find some missing components. For example, there are doors and windows in this area in the drawing. If there are omissions, the doors or windows will be missing in the model that the software cannot check. So the modeler must be careful and avoid missing things. Problems must be checked and corrected carefully to avoid mistakes.” 
+ 
+Instructor Feedback 
+The course instructor also provided feedback on the observations of teaching and learning experiences. In the case study, EL also made a positive contribution to the development of the instructor. It enabled the instructor to connect the original experiences with the characteristics of new situations. The experience provided new meanings and promoted the instructor's cognitive development. 
+    The course instructor suggested planning the teaching and learning process with students early in the project planning and execution of a capstone course. Student groups may wish to work with a professional BIM planning instructor or some students/groups who had worked on the similar project in the past. Nevertheless, the assignments in a capstone course do not usually relate to any current work that team members may have with the project. For example, the course instructor considered the implementation of BIM for multiple uses spanning across the planning, design, construction, and/or operational phases of the project lifecycle. When integrating BIM project planning into the course, the instructor should take into consideration that students lack the systematic knowledge and skills of BIM project execution planning. In the case study, the overall learning attitude of students was very positive, which was an invaluable motivation for students to overcome many difficulties to learn new knowledge and skills of BIM project planning. However, for most students in the class, the course constituted a high-level strategy. The students needed time to familiarize with the implementation of the strategy. There were time restrictions because of the need to complete in 10 weeks. Due to the learning barriers caused by time, the students had some worries and difficulties at the beginning of the course to progress the skills and information exchanges needed. This condition did not cause negative learning emotions and therefore did not hinder or inhibit student learning. The comprehensive and detailed course method presented in this paper helped students to overcome the obstacles. 
+    In addition, the course instructor suggested paying attention to positioning the instructor’s role accurately in the project planning and execution of the course. The instructors need four basic abilities in the process, comprising experience, reflection, abstraction, and action (CE, RO, AC, AE) to make student-centered BIM project planning learning possible. Furthermore, to promote the instructors' experience of learning effectively, they need to learn from the establishment of the experiential environment, differences in learning styles, instructor interactions with the environment, and instructor introspection. 
+    Moreover, instructors need to pay attention to the different learning styles of students in team learning. Students are from different families, have different personalities, and different levels of learning and cognitive abilities. Learning style and learning effect closely relate to the iterative learning cycle. For example, in the implementation the case study, the course instructor deliberated over the local teaching-learning context. This affected the design of the student group size. Some students may prefer to accept the guidelines from instructors in a passive way and don’t like to complete learning tasks through discussions and group work. This requires instructors to observe how to balance classroom teaching, student homework, and group presentations in the actual implementation processes. 
+ 
+Conclusions, Limitations, Further Research 
+The proposed framework applies experience learning to guide the implementation of a BIM Project Planning course for CECM education. This framework includes EL into the course curricula, which also highlights the formation of new knowledge combined with transforming experiences in engineering education. Overall, the study provides a theoretically grounded, empirically tested reference, and materials that can be adapted to other similar engineering courses with the expansion of EL.  
+    The study indicates that, for CECM education, site experiences contribute significantly to the mastery of competencies in BIM education. The research further shows that project planning plays an important role in realizing the successful development of a BIM Project Planning course. In addition, it is possible that site experience may speed up the learning of process mapping. Further, it effectively strengthens the confidence to enrich the transition of students' experience into BIM skills and management. To a large extent, it also prepares a readiness and highlights the potential use the Kolb’s EL in BIM project planning in teaching and learning tasks. In short, this capstone course helps students improve their experience learning style to develop communication procedures, technology, and quality control. It supports BIM Project Planning course implementation. 
+   There are three limitations to consider in this research. First, although the research provides a sound reference, it has yet to be applied in other colleges and universities. It has been carried out with a single case from Chang’an University in China. Therefore, there is still much work to be done in future to test and develop the framework with a large-scale application. Secondly, due to the capstone course schedule and assigned students, the research includes only 10 BIM uses for project planning. There are 15 remaining BIM uses need to incorporate into the proposed pedagogy. In addition, the pedagogy should consider the student perceptions obtained, along with the cognitive and learning outcomes using Kolb’s EL. Instructors can consider to integrate other education contents from related curricula into BIM Project Planning capstone courses for CECM education. With experience learning, it is possible to make the contents adapted for a variety of engineering and even non-engineering disciplines. The third limitation is the lack of analysis of the learning outcomes of BIM project planning between Kolb’s EL with such other teaching pedagogies as outcome-based learning and problem-based learning. Further research is needed to compare the performance between the proposed framework and other learning styles within cohort groups. In future research, it may be helpful to use a qualitative model to analyze the reflections(i.e. NVIVO).  
+ 
+Author Conflict:  
+No potential conflict of interest is reported by the authors. 
+ 
+Data Availability： 
+The data generated or analyzed during the study are available from the first author upon request at [TBA] 
+ 
+Acknowledgment： 
+This research is supported by the National Natural Science Foundation of China (No. 71301013); Humanity and Social Science Program Foundation of the Ministry of Education of China (No. 17YJA790091); List of Key Science and Technology Projects in China’s Transportation Industry in 2018-International Science and Technology Cooperation Project (2018-01639); Shaanxi Province Social Science Fund (No. 2017S004, No. 2016ZB017, No. 2016Z047 and No. 2014HQ10); Shaanxi Province Social Sciences Major Theoretical and Practical Research Fund (No.2017Z028); Xi’an Social Science Fund (No. 18J139); Xi’an Science Technology Bureau Fund (No.CXY1512(2)); Xi’an Construction Science and Technology Planning Projects (No. SJW201705); Xi’an Science Technology Bureau Fund (No.201805070RK1SF4(6)); Shaanxi Universities Second Batch of Youth Outstanding Talents Support Projects((2018)111); Shaanxi Province Higher Education Teaching Reform Project (17BZ017); Education Funding of Master of Engineering Management in China(No. 2017-ZX-004); Shaanxi Province Civil Engineering “first-class professional” project (No. 300103292801 and No. 300103292804); Special Fund for Graduate Student Education Reform of Central College, Chang’an University (No.300111002005, No. 300103187091, No. 310623176201, 
+No.310623176702, No.310628176702 and No.310628161406); Fundamental Research for Education Reform of Central College, Chang’an University (No. 300104292304, No. 300104292305, No. 300104292308, No. 300103292806, No. 300104282301, No. 300104282318, No. 300104282323, No. 310623172904, No. 310623171003 and No. 310623171633); Fundamental Research for Funds for the Central Universities (Humanities and Social Sciences), Chang’an University (No. 300102239616); Fundamental Research for Funds for the Central Universities, Chang’an University (No. 300102238201). 
+ 
+References: 
+Ahn, Y. H., Cho, C.-S., and Lee, N. (2013). "Building Information Modeling: Systematic Course Development for Undergraduate Construction Students." Journal of Professional Issues in Engineering Education & Practice, 139(4), 290. 
+Andersson, N. A., and Högskolan i Halmstad, S. f. e. o. t. C. f. i.-e.-o. l. S. I. a. M. i. B. O. (2013). "BIM Adoption in University Teaching Programs: The Swedish Case." Proceedings of CITA BIM Gathering Conference 14-15 November 2013, 163. 
+Ayalp, G. G. (2015). "Relationships between Learning Approaches of Civil Engineering Undergraduates in Three Turkish Universities and Success in Construction Management Courses." International Journal of Engineering Education, 31(6), 1504-1515. 
+Breunig, M. (2017). "Experientially Learning and Teaching in a Student-Directed Classroom." Journal of Experiential Education, 40(3), 213-230. 
+Brown, A. O., Watson, K. A., Liu, J. C., Orabi, II, Rencis, J. J., Chen, C. C., Akasheh, 
+F., Wood, J. J., Jackson, K. S., Hackett, R. K., Sargent, E. R., Dunlap, B., Wejmar, C. A., Crawford, R. H., Jensen, D. D., and Asee (2014). "Assessment of Finite Element Active Learning Modules: An Update in Research Findings." 2014 Asee Annual Conference, Amer Soc Engineering Education, Washington. 
+Cannon, B., Deb, S., Strawderman, L., and Heiselt, A. (2016). "Using Service-Learning to Improve the Engagement of Industrial Engineering Students." International Journal of Engineering Education, 32(4), 1732-1741. 
+Carrick, R., and Czekanski, A. (2017). "A Review of Outcome-Based Education and the Use of Engineering Design Competitions to Improve Underrepresented Attributes." International Journal of Engineering Education, 33(4), 1180-1188. 
+Casado, M. L., Lopez-Fernandez, D., and Lapuerta, V. (2016). "Socio-Emotional Competencies in Engineering Education." International Journal of Engineering Education, 32(4), 1660-1678. 
+Chegu Badrinath, A., Chang, Y. T., and Hsieh, S. H. (2016). "A review of tertiary BIM education for advanced engineering communication with visualization." Visualization in Engineering, 4(1), 9. 
+Clevenger, C. M., Ozbek, M. E., Fanning, B., and Vonfeldt, S. (2015). "Case Study of Work-based Learning Involving BIM for Infrastructure in Support of Graduate Construction Research." International Journal of Construction Education & Research, 11(3), 163. 
+Demir, M., Gumusburun, E., Seringec, N., Cicek, M., Ertugrul, R., and Guneri, B. (2018). "Radiographic analysis of the lumbar and sacral region angles in young Turkish adults." J. Pak. Med. Assoc., 68(8), 1212-1216. 
+Fridrich, J., and Kubecka, K. (2014). "BIM - The Process Of Modern Civil Engineering In Higher Education." 4th World Conference on Learning Teaching and Educational Leadership (Wclta-2013), 141, 763-767. 
+Ganah, A. A., and John, G. A. (2017). "BIM and project planning integration for on-site safety induction." Journal of Engineering, Design and Technology, 15(3), 341. 
+Ghosh, A., Parrish, K., and Chasey, A. D. (2015). "Implementing a Vertically Integrated BIM Curriculum in an Undergraduate Construction Management Program." International Journal of Construction Education & Research, 11(2), 121-135. 
+Giel, B., and Issa, R. R. A. (2016). "Framework for Evaluating the BIM Competencies of Facility Owners." J. Manage. Eng., 32(1), 15. 
+Gnaur, D., Svidt, K., and Thygesen, M. K. (2015). "Developing Students' Collaborative Skills in Interdisciplinary Learning Environments." International Journal of Engineering Education, 31(1), 257-266. 
+Helmi, S. A., Mohd-Yusof, K., and Phang, F. A. (2016). "Enhancement of Team-based Problem Solving Skills in Engineering Students through Cooperative Problem-based Learning." INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION, 32(6), 2401-2414. 
+Henderson, A., and Trede, F. (2017). "Strengthening attainment of student learning outcomes during work-integrated learning: A collaborative governance framework across academia, industry and students." Asia-Pac. J. Coop. Educ., 18(1), 73-80. 
+Hongyuan, L., Lili, C., Lingfei, C., and Dexiang, H. (2010). Effects of Nitrogen and Phosphorus Removal in Sequencing Batch Membrane Bioreactor with different modes. 
+Ilozor, B. D., and Kelly, D. J. (2012). "Building Information Modeling and Integrated Project Delivery in the Commercial Construction Industry: A Conceptual Study." Journal of Engineering, Project & Production Management, 2(1), 23-36. 
+Jingxiao Zhang, H. X. a. H. L. (2017). "Competency-Based Knowledge Integration of BIM Capstone in Construction Engineering and Management Education." The International Journal of Engineering Education, 33(Number 6(B)), 2020-2032. 
+Jingxiao Zhang, W. W., Hui Li (2018). "Enhancing Building Information Modeling Competency among Civil Engineering and Management Students with Team-based Learning." ASCE,Journal of Professional Issues in Engineering Education and Practice, 144(2), 05018001-05018001-05018001-05018013. 
+Le Cornu, R. (2016). "Professional experience: learning from the past to build the future." Asia-Pac. J. Teach. Educ., 44(1), 80-101. 
+Malik, Q., Witte, J. C., Zafar, N., and Hussain, Z. (2017). "Influences on Freshman Attitudes toward Engineering: Lessons from a Case Study of a Major Engineering University in Pakistan." International Journal of Engineering Education, 33(2), 596-609. 
+Manolis, C., Burns, D. J., Assudani, R., and Chinta, R. (2013). "Assessing experiential learning styles: A methodological reconstruction and validation of the Kolb Learning Style Inventory." Learn. Individ. Differ., 23, 44-52. 
+Mathews, M. (2013). "BIM collaboration in student architectural technologist learning." Journal of Engineering, Design & Technology, 11(2), 190. 
+Michelsen, S., Vabo, A., Kvilhaugsvik, H., and Kvam, E. (2017). "Higher Education Learning Outcomes and their Ambiguous Relationship to Disciplines and Professions." Eur. J. Educ., 52(1), 56-67. 
+Mora, C. E., Anorbe-Diaz, B., Gonzalez-Marrero, A. M., Martin-Gutierrez, J., and Jones, B. D. (2017). "Motivational Factors to Consider when Introducing Problem-Based Learning in Engineering Education Courses." International Journal of Engineering Education, 33(3), 1000-1017. 
+Nabi, G., Linan, F., Fayolle, A., Krueger, N., and Walmsley, A. (2017). "The Impact of Entrepreneurship Education in Higher Education: A Systematic Review and Research Agenda." Acad. Manag. Learn. Educ., 16(2), 277-299. 
+Othman, H., Daud, K. A. M., Ewon, U., Salleh, B. M., Omar, N. H., Abd Baser, J., Ismail, M. E., Sulaiman, A., and Iop (2017). "Engineering Students: Enhancing Employability Skills through PBL." Mechanical Engineering, Science and Technology International Conference, Iop Publishing Ltd, Bristol. 
+Pikas, E., Sacks, R., and Hazzan, O. (2013). "Building Information Modeling Education for Construction Engineering and Management. II: Procedures and Implementation Case Study." Journal of Construction Engineering & Management, 139(11), 1. 
+Rojas, E. M., and Dossick, C. S. (2008). "Developing a state-of-the-art facility to support construction research and education: A case study." J. Prof. Issues Eng. Educ. Pract., 134(1), 67-74. 
+Simelane-Mnisi, S., and Mji, A. (2015). "Establishing the Reliability and Validity of the Kolb Learning Style Inventory: A South African Perspective." Int. J. Educ. Sci., 11(3), 312-319. 
+Solnosky, R., Parfitt, M. K., and Holland, R. (2015). "Delivery methods for a multi-disciplinary architectural engineering capstone design course." Archit. Eng. Des. Manag., 11(4), 305-324. 
+Solnosky, R., Parfitt, M. K., and Holland, R. J. (2014). "IPD and BIM-Focused Capstone Course Based on AEC Industry Needs and Involvement." J. Prof. Issues Eng. Educ. Pract., 140(4), 11. 
+Stirling, A. a. s. u. c., Kerr, G., MacPherson, E., Banwell, J., Bandealy, A., and Battaglia, A. (2017). "Do Postsecondary Internships Address the Four Learning Modes of Experiential Learning Theory? An Exploration through Document Analysis." Canadian Journal of Higher Education, 47(1), 27-48. 
+Thomas, K., Chisholm, G., Dempsey, B., Graham, B., and Stubbs, R. (2014). "Collaborative BIM Learning via an Academia-Industry Partnership." International Journal of 3-D Information Modeling, 3(1), 40. 
+Volk, R., Stengel, J., and Schultmann, F. (2014). "Building Information Modeling (BIM) for existing buildings - literature review and future needs." AUTOMATION IN CONSTRUCTION, 38, 109-127. 
+Wallin, P., Adawi, T., and Gold, J. (2017). "Linking teaching and research in an undergraduate course and exploring student learning experiences." Eur. J. Eng. 
+Educ. (UK), 42(1), 58-74. 
+Watson, M. K., Pelkey, J., Noyes, C., and Rodgers, M. (2016). "Assessing impacts of a learning-cycle-based module on students' conceptual sustainability knowledge using concept maps and surveys." Journal of Cleaner Production, 133, 544-556. 
+Wu, W., and Hyatt, B. (2016). "Experiential and Project-based Learning in BIM for Sustainable Living with Tiny Solar Houses." Procedia Engineering, 145, 579-586. 
+Zhang, D., and Gan, Y. (2005). "The Chinese Version of Utrecht Work Engagement Scale: An Examination of Reliability and Validity." Chinese Journal of Clinical Psychology, 13(3), 268-270,281. 
+Zhang, J., Schmidt, K., and Li, H. (2016). "BIM and Sustainability Education: Incorporating Instructional Needs into Curriculum Planning in CEM Programs Accredited by ACCE." Sustainability 8(6), 32. 
+ 
+ 	 
+
+Figure captions 
+Fig. 1. Proposed Framework of Designing Kolb's EL in a Capstone Course in CECM 
+Education 
+Fig. 2. Site Visit before the Start of the Course 
+Fig. 3. Process Mapping of Level 1 for AE in the course 
+Fig. 4. Site Utilization Planning Deliverables 
+Fig. 5. 3D Model Deliverables 
+1 The probability CE>RO>AC>AE occurring by chance is .25x.33x.5=.042 
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
+
+
+2 
+This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. 
+This material may be found at https://ascelibrary.org/doi/10.1061/%28ASCE%29EI.1943-5541.0000421.
+
+3 
+ 
+This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. 
+This material may be found at https://ascelibrary.org/doi/10.1061/%28ASCE%29EI.1943-5541.0000421.
+
+This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. This material may be found at https://ascelibrary.org/doi/10.1061/%28ASCE%29EI.1943-5541.0000421.
+
+2 
+This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. 
+This material may be found at https://ascelibrary.org/doi/10.1061/%28ASCE%29EI.1943-5541.0000421.
+
+3 
+ 
+This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. 
+This material may be found at https://ascelibrary.org/doi/10.1061/%28ASCE%29EI.1943-5541.0000421.
+
+2 
+This material may be downloaded for personal use only. Any other use requires prior permission of the American Society of Civil Engineers. 
+This material may be found at https://ascelibrary.org/doi/10.1061/%28ASCE%29EI.1943-5541.0000421.
+

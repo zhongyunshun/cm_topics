@@ -1,0 +1,183 @@
+﻿See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/376862875
+Building Information Modeling and Artificial Intelligence Based Smart Construction Management: Materials and Electrical
+Article  in  European Journal of Theoretical and Applied Sciences · November 2023
+DOI: 10.59324/ejtas.2023.1(6).68
+
+CITATIONS	READS
+4	370
+10 authors, including:
+	Muhammad Adeel	Prodhan Md Safiq Raihan
+	Wuhan University of Technology	Hohai University
+	7 PUBLICATIONS   6 CITATIONS   	11 PUBLICATIONS   10 CITATIONS   
+SEE PROFILE
+Md Mahmudul Hasan
+Taiyuan University of Technology
+4 PUBLICATIONS   5 CITATIONS   
+All content following this page was uploaded by Muhammad Adeel on 24 November 2024.
+The user has requested enhancement of the downloaded file.
+
+ 
+ 
+Building Information Modeling and Artificial Intelligence Based Smart Construction Management: Materials and Electrical 
+Muhammad Adeel  
+Department of Architecture, Punjab Tianjin University of Technology, Pakistan 
+Shah Zaib S   
+Department of Civil Engineering, Institute of southern Punjab, Pakistan 
+Muhammad Awaz  
+School of Engineering, Bohai University, Jinzhou, China 
+Md Azgor Ali  
+School of Civil Engineering, Changsha University of Science and Technology, China 
+             Md Safiq Raihan Prodhan  School of Civil and Transportation Engineering, Hohai University, China 
+              Mst Julia Akter  School of Civil Engineering, Presidency University, Bangladesh 
+              Md Mahmudul Hasan  School of Civil Engineering, Shandong University of Technology, China 
+Habiba Kalsoom  
+Department of Zoology, The Government Sadiq College Women University, Pakistan 
+Laraib Ul Nissa  
+Department of Physics, The Government Sadiq College Women University, Pakistan 
+Rabia Amir  
+Department of Physics, The Government Sadiq College Women University, Pakistan 
+ 
+Suggested Citation Adeel, M., Zaib, S., Awaz, M., Ali, 
+A., Prodhan., S.R., Akter, J., Hasan, 
+M., Kalsoom, H., Ul Nissa, L & 
+Amir, R. (2023). Building 
+Information Modeling and 
+Artificial Intelligence Based Smart Construction Management: 
+Materials and Electrical. European Journal of Theoretical and Applied Sciences, 1(6), 684-691.  
+DOI: 10.59324/ejtas.2023.1(6).68 Abstract: 
+With the development of society and technological progress, the requirements of government regulatory departments for engineering construction efficiency, quality, and safety are constantly increasing. The traditional extensive construction process can no longer meet the requirements of modern construction industry development. Based on the shortcomings of traditional construction processes, the concept of intelligent construction has been introduced. The construction of new smart and digital twin (DT) cities is entering an explosive period. The application of building rapid modeling technology based on artificial intelligence (AI) and building information modeling (BIM) integration in smart cities has gradually 
+ begun new explorations and attempts, and its application value is 
+becoming increasingly prominent. A brand-new auto-machine learning (auto-ML) integrated algorithm technology platform for 3D building modeling is being developed and improved over time by combining 
+ 
+This work is licensed under a Creative Commons Attribution 4.0 International License. The license permits unrestricted use, distribution, and reproduction in any medium, on the condition that users give exact credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if they made any changes. 
+ 	 	 
+AI and BIM technology in a deep way. This allows for fast and accurate modeling as well as high-value scenarios in the smart city industry, including architecture, municipal engineering, roads, and bridges. 
+ 
+Keywords: BIM, AI, IoT, DT, auto-ML, smart construction, smart city. 
+
+ 
+Introduction  
+The traditional crucial construction process is affected by issues such as inadequate construction and monitoring efficiency, as well as insufficient management of construction quality and safety (Shah, 2022). Due to the ongoing enhancement of efficiency, quality, and safety standards set by government regulatory authorities for engineering construction, old construction methods are no longer able to match these requirements. Thus, the term intelligent building has been introduced. The development of smart cities is currently experiencing rapid expansion, and urban DTs (Shoukat, 2023), which are essential for the construction of smart cities (Niaz, 2022), are encountering challenges such as diverse urban structures, large data volumes, and incomplete information in management procedures.  
+Smart cities have developed as a guiding principle for sustainable, efficient, and technologically sophisticated urban development in the ever-changing urban context of urbanization. The incorporation of advanced technology is key to this evolution, and one particularly transformational invention is the utilization of DTs in building construction (Omrany, 2023). A "DT" is a virtual model of a physical object or system (Shoukat, 2022). Its use in the development of smart cities is revolutionizing the methods we use to strategize, create, build, and oversee urban infrastructure. The construction process incorporates practical engineering cases and utilizes various technologies such as BIM, Internet of Things (IoT), AI, DT, cloud computing, and mobile communication (Raza, 2021). These technologies are used to create project information models for building projects on a 3D design platform.  
+The building expenses associated with DT cities are consistently escalating due to their low efficacy, lengthy development cycles, and challenging updating processes. The IoT hardware is employed to regularly gather data from different aspects of the project. Simultaneously, AI is utilized to intelligently analyze the collected data, enabling an efficient mode of collaborative interconnection and intelligent analysis of various elements in the construction process. 
+The implementation of urban DTs heavily relies on manual processing, making it challenging to ensure quality and keep to standards. Additionally, there are numerous obstacles to achieving effective collaborative management across different specialties.  
+This article focuses on the auto-ML algorithm technology platform, which combines industry AI and BIM to facilitate quick modelling. It examines and analyses the various ways in which it might be applied and expanded upon in the context of smart cities. In order to achieve collaborative interconnection and intelligent analysis of various elements during the construction process, BIM, IoT, DT, and AI technologies must be utilized. The characteristics of the above three technologies and their interdependence are summarized as follows: 
+BIM Technology 
+The establishment of a virtual building model, which offers a single, comprehensive, and logically related building information collection, is the fundamental component of BIM (Tang, 2019). Not only does this information collection provide geometric information, professional qualities, and status information that describe building components, but it also contains status information of objects that are not comprised of components.  
+It is possible to incorporate knowledge ranging from building design and construction to operation and maintenance into the information library described above, which will finally result in the realization of the construction unit. In order to improve job efficiency and cut expenses, it is important to have effective coordination between staff from the facility operating department, owners, and other parties. The BIM can be divided down into three main categories, which are technology, procedure, and policy, as shown in Figure 1.  
+The collaboration of these three fields results in the formation of a framework that allows for the digital management of building data throughout the design and construction phases of architecture. 
+ 
+
+Figure 1. The Three Main Fields in Building Information Modeling 
+ 
+IoT Technology 
+In order to achieve intelligent identification, positioning, tracking, monitoring, and management of items, the IoT is a network that makes use of information sensing devices such as radio frequency identification, infrared sensors, global positioning systems, and video capture. These devices are used to connect any item to the internet in accordance with agreedupon protocols for information exchange and communication. 
+ 
+ 
+DT Technology 
+The DT concept functions based on the premise of connection, utilizing the IoT, sensors, and sophisticated data analytics. The interconnection allows for a constant exchange of information between the physical and digital worlds, giving stakeholders unparalleled knowledge about the current state, performance, and effectiveness of buildings in real-time (Shoukat, 2022). Consequently, those in positions of authority can make well-informed decisions, efficiently allocate resources, and aggressively tackle obstacles, ultimately promoting the growth of intelligent, more adaptable urban areas. DT model of a smart city as shown in Figure 2. AI Technology 
+With its learning, adaption, and autonomous decision-making, AI will transform the building business. AI technologies are used in design, planning, building, operation, and maintenance to improve processes, resource management, and urban structure intelligence. AI's ability to analyze large datasets and draw conclusions is crucial to smart city building construction. Machine learning algorithms, a subset of AI, help systems recognize patterns, forecast events, and learn from real-world data. This skill helps optimize building timetables, save costs, and sustain urban projects (Nawaz, 2022). 
+There is a clear indication that IoT technology possesses the capabilities of low-level information perception, collecting, transmission, and monitoring, as demonstrated by the analysis of the characteristics of BIM, IoT, DT, and AI technologies that were discussed before.  
+In the context of commercial requirements, AI technology shines in the intelligent analysis and processing of information data. Integration of information, contact with users, display of information, and management are all upper-level features that BIM technology possesses. It is possible to produce a "closed-loop information flow" throughout the construction process by integrating the three technologies mentioned above. This has a tremendous amount of application value in the engineering construction process. 
+
+Figure 2. A Digital Twin Model for Building Structure in a Smart City 
+ 
+Materials and Methods 
+Architecture of Smart Construction 
+The overall architecture of the intelligent construction platform is divided into four layers: sensor layer, network layer, platform layer, and application layer, as shown in Figure 3.  
+The specific functions of each layer are as follows. 
+(1) Perception layer: composed of basic sensing devices (such as various sensors, cameras, GPS and other devices) and a network of sensors (such as sensor networks). Its function is to identify objects and collect attribute information such as the status or location of monitored objects. 
+(2) Network layer: responsible for transmitting the information collected by the perception layer to the cloud server deployed by the smart construction platform, and also responsible for transmitting the commands issued by the smart construction platform to various sensor devices in the perception layer. The network layer mainly transmits a large amount of information through the Internet of Things, the Internet, and mobile communication networks. 
+(3) Platform layer: responsible for solving the data analysis and processing involved in the business processing process, as well as managing various sensing devices involved in the perception layer. 
+
+Figure 3. Overall Architecture of a Smart Construction Platform for Deep Foundation Pits (4) Application layer: Utilize the functions provided by the platform layer to complete specific user applications, such as real-time display of monitoring results, display of construction site control and monitoring data analysis, etc. 
+ 
+Results and Discussion 
+The rapid building modeling technology based on the integration of AI and BIM is based on AI algorithms to analyze 2D (architectural design drawings: CAD) and form building data packages for three-dimensional DT model construction (Paduano, 2023). It supports the generation of architectural, structural (including steel structures), mechanical and electrical specialties, and can quickly generate BIM to restore building spatial information. BIM models have high generation efficiency and accuracy, supporting seamless integration with mainstream BIM software and platforms, and are widely used in multiple scenarios such as digital construction and intelligent management of buildings, parks, communities, and cities.  
+The auto-ML algorithm platform system's business architecture is organized into six layers: device, communication, cloud foundation, data, platform, and application. This allows for quick modelling technology based on AI, DT, and BIM fusion. Devices for collecting data, such as those for scanning the indoor and outdoor environments, the human body, and other objects, make up the bulk of the device layer; IoT, wireless networks, 4G/5G, and fiber optic networks are the major components of the communication layer, which guarantees steady and seamless data transmission while the system is operating.  
+Figure 4. Overall Functional Division of the Intelligent Construction Platform for Deep Foundation The primary components of the cloud infrastructure layer, which are in charge of allocating, scheduling, using, and managing cloud resources, are resource management scheduling systems and virtualization hosts. Information from BIM, 2D-CAD drawings, databases, the IoT, and other sources make up the data layer. At its heart is the platform layer, which houses essential components such as algorithms for AI and BIM 3D building automatic high-precision modelling, XR fusion, big data construction using auto-ML, geographic information system (GIS), and so on (Lin, 2023). The application layer sits atop the hierarchy, and some of the current use cases include smart construction sites, buildings, communities, venues, firefighters, exhibitions, etc. According to the actual needs of the project, the functions of the deep foundation pit intelligent construction platform. It mainly includes seven aspects, as shown in Figure 4. 
+ 
+Personnel tracking 
+The project department keeps track of all the employees and managers involved in the project, creates a personnel ledger that includes biometric and positioning devices, and updates the smart construction platform every day with details on the kinds, numbers, and whereabouts of all the workers and managers that arrive at the site.  
+With this data in hand, project managers are able to accomplish the following: using data collected from employees at the location to develop an automated attendance system; If the quantity of workers on site turns out to be different from what was anticipated, make the necessary adjustments to the schedule; A warning prompt will be automatically issued by the platform whenever personnel enter the indicated dangerous area, ensuring their safety. Video monitoring 
+Locate strategic video monitoring spots on the building site and assign them to appropriate locations in the building information model. Connect various units, including the project construction party, the construction party, and the supervision party, using the smart construction platform's video monitoring center function. At any given moment, supervisors from any involved party can use smart mobile terminals or personal computers to see what's happening on-site, learn about any problems that have arisen, and check on the monitoring equipment's security. 
+Quality control 
+Quality control is comprised of two components: quality inspection and quality acceptance. During the daily quality inspection process, management personnel create a quality inspection plan by considering the management system and the specific circumstances of the project. They capture images of any quality issues identified during the inspection, along with accompanying text explanations. These images and explanations are then uploaded to the BIM platform, allowing for a connection between the quality problems and the BIM model. This enables traceability management.  
+Each subcontracting unit is required to individually address and resolve every matter in accordance with their respective responsibilities, ultimately establishing a comprehensive quality management system. Upon the completion of sub projects, the subcontracting unit has the ability to submit an acceptance application on the smart construction platform for the quality acceptance process. The quality manager will then proceed with the quality acceptance based on this application. In the event of acceptance failure, a notice of non-conformity will be given. Upon repair and review, the acceptance procedure will be concluded by resolving the warning. The complete acceptance process will generate records on the platform, offering fundamental data for the subsequent traceability of operational and maintenance quality. 
+Foundation monitoring 
+Utilize the IoTs to regularly monitor various monitoring projects in deep foundation, and use DT and AI to intelligently analyze the collected monitoring data, in order to guide construction by auto-ML algorithm and timely detect safety risks, and avoid accidents. 
+Environmental monitoring 
+The smart construction platform allows for the transmission of real-time data from environmental monitoring sensors, which include site-specific metrics like temperature, wind speed, humidity, and dust. This allows for the sharing of various metrics related to environmental monitoring and helps managers gain a timely understanding of the environmental situation on-site. The system is designed to automatically activate the sprinkler system in order to improve the construction site environment if the concentration of pollutants or particles exceeds the alert value. 
+Progress tracking 
+In order to track how far along a project is in its development, it is possible to connect the BIM model to data about the building's progress and then modify the model's attributes to more accurately reflect the real-time status of the project. Smart construction platforms also allow for the comparison of actual progress to projected progress, allowing management to swiftly and effectively address any significant deviations in development. 
+Engineering quantity statistics 
+It is possible to obtain the required quantity of various materials for construction at various time nodes of the project by analyzing and calculating the BIM model through auto-ML. These materials include concrete, steel, and other materials. This assists in the timely procurement of relevant materials and ensures that the construction of the project proceeds without any hiccups. 
+ 
+Conclusion 
+The development of smart cities in all over the world is currently observing a rapid and significant development. The digital economy is gradually improving as the digital-world strategy is being implemented. BIM, IoT, DT, and AI are the primary driving forces behind the development of the digital economy. We can solve the urban digitization problem in smart city development by actively exploring and innovating technologies like AI and BIM, advancing ML, expanding application scenarios and boundaries, and incorporating upcoming technologies like 5G/6G, edge cloud, industrial IoT, blockchain, quantum communication, etc. Case projects that used a deep foundation construction approach based on BIM, IoT, DT, and AI saw significant improvements in construction efficiency, implementation progress, risk control, and quality. Integrating information technology, particularly BIM, IoT, DT, and AI into the construction process organically is currently a major trend in the industry's development; this trend will provide the groundwork for environmentally friendly, safe, and efficient building practices. They offer extensive opportunities for growth, promising possibilities, and demanding responsibilities in the context of smart cities. This approach will help overcome crucial technological obstacles, generate value, introduce innovative methods, and establish models.    
+ 
+Acknowledgement 
+The author(s) wish to acknowledge Mr. Shah Zaib (Department of Civil Engineering, Institute of southern Punjab, Multan, Pakistan) for providing the facilities and funding needed for this research work.  
+ 
+Conflict of Interests 
+No conflict of interest. 
+ 
+References 
+Lin, P., Wu, M., & Zhang, L. (2023). 
+Probabilistic safety risk assessment in largediameter tunnel construction using an interactive and explainable tree-based pipeline optimization method. Applied Soft Computing, 143, 110376.  https://doi.org/10.1016/j.asoc.2023.110376  
+Nawaz, S. A., Li, J., Bhatti, U. A., Shoukat, M. U., & Ahmad, R. M. (2022). AI-based object detection latest trends in remote sensing, multimedia and agriculture applications. Frontiers in Plant Science, 13, 1041514.  
+https://doi.org/10.3389/fpls.2022.1041514   
+Niaz, A., Khan, S., Niaz, F., Shoukat, M. U., 
+Niaz, I., & Yanbing, J. (2022, October). Smart City IoT Application for Road Infrastructure 
+Safety and Monitoring by Using Digital Twin. In 2022 International Conference on IT and Industrial 
+Technologies 	(ICIT) 	(pp. 	1-6). 	IEEE.  https://doi.org/10.1109/ICIT56493.2022.9989 141  
+Omrany, H., Al-Obaidi, K. M., Husain, A., & Ghaffarianhoseini, A. (2023). Digital twins in the construction industry: a comprehensive review of current implementations, enabling technologies, and future directions. Sustainability, 
+15(14), 	10908.  
+https://doi.org/10.3390/su151410908  Paduano, I., Mileto, A., & Lofrano, E. (2023). A Perspective on AI-Based Image Analysis and Utilization Technologies in Building Engineering: Recent Developments and New Directions. Buildings, 13(5), 1198. 
+https://doi.org/10.3390/buildings13051198  
+Raza, M. U., Zhang, Z., Liu, T., Shoukat, M. U., Niaz, A., & Luo, K. (2021, December). Flexible monopole antenna for IoT applications: a survey. In 2021 7th International Conference on Computer and Communications (ICCC) (pp. 2154-
+2159). 	IEEE. 
+https://doi.org/10.1109/ICCC54389.2021.967 4696  
+Shah, S. S. A., Xing, Z., Wu, J., Ju, W., & Raza, 
+M. U. (2022). Particle Swarm Optimization 
+Based Fire Risk Valuation Model: Shopping-
+Mall. Open Journal of Safety Science and Technology, 
+12(4), 	108-124. https://doi.org/10.4236/ojsst.2022.124010  
+Shoukat, M. U., Yan, L., Liu, W., Hussain, F., Nawaz, S. A., & Niaz, A. (2022, November). Digital Twin-Driven Virtual Control 
+Technology of Home-Use Robot: Human-
+Cyber-Physical System. In 2022 17th International Conference on Emerging Technologies (ICET) (pp. 
+240-246). 	IEEE. 
+https://doi.org/10.1109/ICET56601.2022.100 04685  
+ 
+ 
+ 
+ 
+View publication stats
+Shoukat, M. U., Yan, L., Zhang, J., Cheng, Y., Raza, M. U., & Niaz, A. (2023). Smart home for enhanced healthcare: exploring human machine interface oriented digital twin model. Multimedia 
+Tools 	and 	Applications, 	1-19. 
+https://doi.org/10.1007/s11042-023-16875-9  
+Shoukat, M. U., Yan, L., Zou, B., Zhang, J., Niaz, 
+A., & Raza, M. U. (2022, November). 
+Application of Digital Twin Technology in the 
+Field of Autonomous Driving Test. In 2022 Third International Conference on Latest trends in Electrical Engineering and Computing Technologies 
+(INTELLECT) 	(pp. 	1-6). 	IEEE.  
+https://doi.org/10.1109/INTELLECT55495.2 022.9969184  
+Succar, B. (2009). Building information modelling framework: A research and delivery foundation for industry stakeholders. Automation in construction, 18(3), 357-375. https://doi.org/10.1016/j.autcon.2008.10.003   
+Tang, S., Shelden, D. R., Eastman, C. M., Pishdad-Bozorgi, P., & Gao, X. (2019). A review of building information modeling (BIM) and the internet of things (IoT) devices integration: Present status and future trends. Automation in 
+Construction, 	101, 	127-139. 
+https://doi.org/10.1016/j.autcon.2019.01.020 
+ 
+
+
+
+
+
+
+ 	 	 
+www.ejtas.com                                                                 	    EJTAS                    	2023 | Volume 1 | Number 6 
+
+ 	 	 
+www.ejtas.com                                                                 	    EJTAS                    	2023 | Volume 1 | Number 6 
+
+
+

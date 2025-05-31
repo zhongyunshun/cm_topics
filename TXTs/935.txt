@@ -1,0 +1,282 @@
+﻿Building and Environment, Vol. 32, No. 2, pp. 161—166, 1997 C 1997 Elsevier Science Ltd. All rights reserved
+	Pergamon	Printed in Great Britain
+0360-1323/97 $17.OO+O.OO
+
+Factors Affecting the Motivation of
+Iranian Construction Operatives
+
+M. ZAKERI* P. OLOMOLAIYE*
+G. D. HOLT*
+F. C. HARRIS*(Received 30 October 1995; accepted 26 August 1996)A study conducted with the aim of identifying factors affecting motivation of Iranian construction operatives is reported. Data were collected through a structured questionnaire survey. Utilising the relative index ranking technique, the identifiedfactors were prioritisedforfurther detailed analysis and discussion. Results indicate that the five most important motivation factors of Iranian construction operatives are, in descending order: "fairness ofpay", "incentive andfinancial rewards", "on-time payment ", "good workingfacilities " and "safety ". Despite operatives ' expectations, these factors were rarely gratified on the sites surveyed. Construction managers would have to be sensitive to these factors in order to sustain the drive for higher construction productivity in Iran. 0 1997 Elsevier Science Ltd. All rights reserved.
+
+
+INTRODUCTION
+CONSTRUCTION productivity has been steadily on the decline over the last decade and construction labour emciency has often been cited as poor [ll. Activity sampling surveys in the US have found productive work to be as low as 32-46.5% [2, 31. A pilot survey conducted on Iranian construction projects, has shown productive work to be between 33 and 56%. Since labour costs account for somewhere between 25 and 40% of the total project cost, reduction of these costs presents great potential as a source of increased productivity [4]. Construction productivity is influenced by many factors other than labour, including: material; equipment; tools; construction method; and management skills. However, these resources are inanimate, and meaningless if not transformed into productive tools by the human element. The quality of human performance depends largely upon motivation.
+  To date, very little has been done to improve the motivation of operatives within the Iranian construction industry. Companies undertaking large development projects all over the country occasionally initiate incentive scheme(s) and/or other fringe benefits to motivate employees. However, very few companies have management policies for improving productivity.
+
+  * School of Engineering and the Built Environment, University of Wolverhampton, Wulfruna Street, Wolverhampton ISB, U.K.
+161  The present economic situation (with the country having low productivity and a high inflation rate) has made productivity improvement imperative to the construction industry [5]. In order to lower a country's inflation and construction costs simultaneously, recognition and subsequent rectification of factors affecting workforce motivation are essential.
+AIMS OF THIS STUDY
+  The fundamental aims of the research reported in this paper may be summarised as follows.
+ Identification and ranking of factors affecting the motivation of Iranian construction operatives.  Identification and ranking of gratification levels of these factors, to individual operatives on their present construction sites.
+By identifying and prioritising these factors in this way, there is a likelihood that managers' awareness could, if proper corrective actions are taken, ultimately initiate a positive impact on operatives' productivity.
+DATA COLLECTION
+  The data for this study were collected via structured questionnaire survey of 335 Iranian construction operatives on 31 different sites. The questionnaire consisted of an introductory section on respondents' personal characteristics, with six remaining sections, totalling 78 questions, covering a number of productivity and motivation related factors. Arrangements to contact operatives were made through omcials in the Iranian Ministry of Residence and Urbanisation (MRU) for government housing projects in Tehran and neighbouring cities, and, through directors of private construction companies. These omcials requested the aims and potential benefits
+of this investigation to the Iranian construction industry (and their companies!), before granting permission to contact the operatives through their supervisors. Per-
+mission was subsequently granted to directly contact the operatives who were then asked to complete the questionnaires and return them directly to the first author. Whilst bias cannot be totally eliminated in a survey such as this, the operatives were assured that responses would have no effect on their employment. In the booming Iranian construction industry following eight years of devastating war with neighbouring Iraq (1980—88), it can safely be said that no skilled workers need fear any employer as they can easily find work on a nearby site!
+  A list of 20 factors was carefully selected from the literature [6—8], according to the basic classification of human needs as described by Maslow [1 3], i.e. (i) physiological needs, (ii) safety needs, (iii) belonging needs, (iv) esteem needs and (v) needs for self-actualisation. The lists were then presented to the Iranian construction craftsmen and operatives. who were asked to rate the importance level of each factor to them and the gratification level of each factor on their sites. The purpose was to find out firstly into which level of Maslow's hierarchy of needs fell the factors highly motivating Iranian construction operatives, and secondly, whether these factors are motivating or just hygiene factors as defined by Herzberg [10], (i.e. factors that provide necessary conditions for a satisfied workforce, but do not necessarily motivate). The questionnaire attracted 172 replies (i.e. 51 .3% response rate), which is high considering the low literacy background of some of the workers. One hundred and forty-one questionnaires (i.e. 42.1 %) were duly completed and therefore form the basis of the analysis reported in this paper.
+METHODOLOGY
+  To evaluate the factors motivating Iranian operatives the relative indices of all motivation variables were calculated through the scoring system utilised on the questionnaire. Scores of 4, 3, 2 and I were assigned to factors representing very important, important, somewhat important and not important respectively. Total aggregate scores for each factor were converted into relative indices [9] to identify the relative importance attached to each factor by the operatives, and to serve as a common numerical basis for comparison. On the gratification level, scores 3, 2 and I were assigned to responses representing high, medium and low for each factor respectively, on the sites surveyed.
+  Table I shows the rankings of importance and gratification for each motivation variable. As we shall be drawing various inferences from these scores and overall indices, it is an important statistical step to test the data for normality, the reason being that most inferential statistics are based on normal distribution characteristics.
+  The normality tests indicated that the motivational scores in each variable are not normally distributed at 95% level of significance but rather at lower levels. This is supported by the skewness of the variables ranging from a low 0.079 in "employer/operative relation" to 0.821 in "incentive and financial rewards". (See Table 2 for statistical description of each motivating variable.)
+  However, a logarithmic transformation of the data revealed that the underlying trend was normal at 95%, i.e. the data are from a normally distributed population. et 
+Based on this confirmation of normality it was possible to proceed with the analysis of the data using normal distribution statistics. To explore the strength of association between motivation index scores across variables, a correlation matrix was developed. A Spearman rank correlation test was applied to test the strength of association between the variables. The data was ordinal and hence this test was suitable for such data and particularly, for smaller sample groups such as these. Table 3 shows the 20 x 20 correlation matrix of all motivation variables. Each correlation coemcient was tested at the 95% level of significance. The significant relationships are asterisked ( * ) on the correlation matrix, and will form the basis of our discussion of the motivation variables.
+  The coemcient of variation (CV) was also calculated for each variable. This is the variation in standard deviation as a percentage of mean, and is a useful measure for dealing with properties whose standard deviation rises in proportion to the mean. For instance, in our set of data the value of CV rises from 29% in "employer/operative relationship" to 64% for the "overtime" variable. Since the scores in each variable are from individuals, it is logical to take these coeffcients as a measure of variation in personal/individual assessment of importance [1 5]. As can be seen from Table 2, variables having a CV of 40% and above, such as "recognition' "safety", 'on-time payment", 'right to choose workmate", "promotion' , "job security", ' •more responsibility", 'participation in decision making", and "overtime" are controversial f'actors. This variation in operatives' assessment may influence their performance on site.
+  On the strength of these scores, ranks and statistical analyses we may now discuss the top 10 motivators and their gratification levels on the sites surveyed.
+ANALYSIS AND DISCUSSION OF FINDINGS
+  The most important motivator in terms of relative importance indices was considered as "fairness of pay". "Incentives and financial rewards" and "on-time payment" are also very important factors in the present inflationary economic situation of the country, ranked second and third respectively. On the gratification scale they were ranked 16th, 19th and 12th respectively. This indicates that in terms of financial measures Iranian operatives are not satisfied. "The work itself", "challenging tasks". and "good relation with workmate" were found to be the three most gratified factors on those sites surveyed. Although well gratified these factors were of low motivation importance at 16th, 1 7th and 9th respectively. Such a large gap between motivation and gratification levels could explain some of the very low construction productivity on the sites. Let us now discuss the factors individually.
+Fairness of pay
+  With a high relative importance index of 0.92 the operatives ranked fairness of pay as their greatest motivator. Determination of a fair level of pay in the present inflationary situation of the country is very diffcult. Few contracts of employment have valid wage agreements after a few months due to seemingly uncontrollable inflation. Operatives are almost always unhappy about
+
+	Motivation of Iranian Construction Operatives	163
+Table 1. Ranking order of Iranian construction operatives' motivation
+
+
+Motivation variables	Importance level to operative	Gratification level on current site
+TSRIRIOTSRIRIOl. Good relation with workmate
+2. Safety and health at work
+3. The work itself
+4. Overtime
+5. Fairness of pay
+6. On-time payment
+7. Recognition on the job
+8. Accurate job description
+9. Participation in decision making
+10. Good supervision
+1 1. Promotion
+12. Job security
+13. More responsibility
+14. Challenging tasks
+15. Right to choose workmate
+16. Incentive and financial rewards
+17. Good working condition
+18. Good working facilities
+19. Company's prestige
+20. Employer/operative relation415
+466
+358
+383
+519
+490
+391
+370
+307
+382
+430
+410
+342
+345
+394
+511
+436
+477
+315
+4550.73
+0.83
+0.63
+0.68
+0.92
+0.87
+0.69
+0.66
+0.54
+0.68
+0.76
+0.73
+0.61
+0.61
+0.70
+0.91
+0.77
+0.84
+0.56
+0.819
+5
+16
+13
+3
+12
+15
+20
+14
+8
+10
+18
+17 Il
+2
+7
+4
+19
+6355
+234
+367
+238
+231
+240
+339
+290
+188
+342
+231
+225
+243
+357
+257
+191
+299
+280
+339
+3350.84
+0.55
+0.87
+0.56
+0.55
+0.57
+0.80
+0.68
+0.44
+0.81
+0.55
+0.53
+0.57
+0.84
+0.61
+0.45
+0.71
+0.66
+0.80
+0.793
+15
+1
+13
+16
+12
+5
+9
+20
+4
+16
+18
+14
+2
+Il
+19
+8
+10
+5
+7
+TS = total score; RI = relative index; RIO — rank order.
+their pay levels with managers/employers consistently complaining about operatives' low levels of productivity, and the effect upon construction costs. Despite Herzberg's [10] argument that money is not a satisfier (hence not a motivator), this survey, coupled with previous works [I l , 12, 6], supports the contention that money is the most powerful motivator of construction workers. Low pay levels are a major source of discontent to many Iranian construction operatives. The variable (as Table 3 indicates) has positive significant correlation with "ontime payment" (0.277) and "working facilities" (0.271). These two factors are simultaneously significantly correlated to many other factors, indicating the ripple effects of unfair wage levels. With inadequate working facilities one cannot expect operatives to perform a challenging task competently. Whilst adequate working facilities (Herzberg's motivation—hygiene theory) can to some extent reduce the demotivating effects of low levels of pay, delay in payment simply cannot. Most Iranian operatives are at the lower end of Maslow's [13] hierarchy of needs and this will certainly cause them dissatisfaction and hence affect their performance.
+Incentives andfinancial rewards
+  The effectiveness of financial incentive programmes for construction workers has been proven by many researchers. Laufer [2] indicated that financial incentive programmes for construction labour may materially raise productivity, lower production costs, shorten the construction time, improve quality of management and increase the earnings of workers. Price [6] suggested that introduction of financial incentives can improve site productivity threefold. Although the effectiveness of the variable on operatives' performance is of little doubt to many, it is important that it be applied properly for prevention of any probable negative consequence. This survey indicates that the variable (relative index 0.91) has the second highest importance rank to Iranian construction oper-
+atives but was poorly gratified at 19th rank on the gratification scale. Considering the laborious and highly vulnerable nature of construction in Iran (with so many working and welfare deficiencies), such a large gap between expectation and gratification leads to frustration and dissatisfaction. This subsequently affects performancp (see Table l). "Working facilities", "working condition", "on-time payment" and "employer/ operative relation", with correlation coemcients of 0.221 , 0.209, 0.207 and 0.177 respectively, show correlation with the factor (see Table 3).
+On-time payment
+  Timely payment is one of the primary principles of any working agreement. It obliges the employer to pay employees' wages and allowances for performing a task. Payments are usually delayed for various reasons. The Government is a major client of the Iranian construction industry, commissioning almost 90% of all construction projects. Contracting companies, large or small, are not strong enough to pay operatives wages if their cheque is delayed by the Government for any reason. Although clauses in contract documents exist which explicitly specify some period for checking and paying contractors, it is rare to find a contractor so lucky as to be paid on time! Delay in payments has a serious detrimental effect on contractors' productivity. With very low physiological needs Iranian operatives consider this factor the 3rd most important (see Table l). Like the first two factors it is also poorly gratified at 12th on the gratification scale. This could obviously be another major source of discontent and frustration which inevitably has its own negative impact on operatives' productivity. Table 3 indicates that the variable is correlated with "working facilities" (0.297), "fairness of pay" (0.277), "working condition" (0.274), "good safety" (0.267), "incentive and financial rewards" (0.207) and "overtime" (0.206). Operatives who are happy with working conditions, facilities,
+
+라 
+8
+00 SC 수卜0 0
+	o寸 0	•㉢	0
+0	0	0 00	卜卜0
+0 00
+0 0
+	00	筐•믈	寸 0 0
+0
+	0	00000
+뎡;84&SRz窒 言Z뙤7경4旨수됴&等• 旨寺*甚7다우岳룀Z주4%嚮寺멲「결즭尋R	8
+8경융--시 畵므豎껾르k邑트르느프呈표프目즈프을凸프
+	0	0 0 00000000
+8
+	o 丫)	4
+	0 0	82들띙훃프§흂
+	0	0	00
+8 우주魯그8鏨주旨
+卜0
+8닣尊§뮑§드일8臺喀』r"仆
+	00	00	0	: RE
+寸뢰년)寸
+窒zZ墨=8R
+0
+	0	0
+8霅:目尋들혁쓰§프프§즈딯
+	0	0	0	0	0	00
+㈆ 이 至 至卜
+	0	00 0000
+8청일5蕓g弓88주R昺a8乬
+888888888繼88讐88讐88&8
+	0	0
+8청耆를꾸§꿁鑒텽三트특프황§험§
+	00	000000	0
+	00	0`
+0 000
+	0	0	:§邕뎡戔흐§글邕±§들」쳥랑罸:」」
+	4	0
+8罸吉6및-m-찌°m-요-*髥3g•§7
+0
+0
+	0	0
+	0	0
+	능 囊 。 ; ;s 耳41!匽!碧4E 0	- 춤등징 S z된드 0쭴-盞	11형올들名 테i
+0
+묻\셩 렽 毛 믇 틺젿 돢名 言 舅 경경!좋&§戞결휸§毛&흨弓활&흪훚乬흐	33占o匹°*<夤듬戔르흨&曾툐틏돛8言3 ) 뎜 E구 °>罸 = 8 }들 。 훙	耄
+	Motivation of Iranian Construction Operatives	165
+
+incentive and financial rewards, overtime and safety, rarely jeopardise their job by simply lowering effort expenditure as a means of showing discontent with a payment delay.
+Good working facilities
+  Proper working facilities positively affect operatives' performance and satisfaction. Iranian operatives scored this variable an index of 0.84 (4th ranked) and a gratification ranking of 10th. Managers must be aware that highly motivated and skilled operatives working with poor facilities will not continue to produce quality work. Investment in working facilities such as tools and machinery will not only enhance operatives' performance, but as a motivator, can be used in Iran as a potential contributor in placating other concerns such as safety. The correlation analysis (Table l) indicates that the factor has association with highly ranked operatives' motivators such as "fairness of pay" (0.271), "on-time payment" (0.297), "good safety" (0.180), "working condition" (0.381) and "challenging task" (0.307). It seems that the poor cash flow situation of contractors caused by irregular/lack of payment, has led them to providing lower standard working facilities.
+Safety and health at work
+  The laborious and dangerous nature of most construction work renders it prone to many accidents. This survey confirmed that operatives do care about the provision of health and safety as evidenced by its relatively high rank of 5th. Contrary to expectations, the gratification level was 15th, which could be a major source of discontent and frustration to operatives. Not only does an accident cause considerable financial loss to the project, it also reduces an operative's productivity in the long run. Penalty clauses for breach of safety force employers to pay compensation not only to injured operatives, but also to the Iranian Ministry of Labour and Social Affairs. This situation should encourage sound safety programmes. The correlation matrix (Table 3) indicates this variable's association with "on-time payment" (0.267), "the work itself' (0.231), "overtime" (0.231), "working facilities" (0.180) and "recognition on the job" (0.180). The association between safety and timely payment, for example, suggests that as payments are delayed it is more likely that operatives become dissatisfied and as a result, become more careless at work. This coupled with high wastage of materials or even intentional sabotage of equipment and tools (with a subsequent increase in accident rates). Management attention to improvement in the above correlated factors may not only save many injuries, but also contribute to productivity improvement.
+Employer/operative relation
+  Shortage of a skilled labour force, and the introduction of new supportive labour laws in 1993 in Iran, has caused a drastic change in employer/labour relationships. Significantly the operatives' motivation importance at 6th compares favourably with its 7th rank on the gratification scale. Having a good relationship with the manager/employer means piece of mind to operatives and undoubtedly has a positive effect on operative performance (Table l). This variable shows correlation with most other variables (Table 3), including "recognition on the job" (0.432), "good relation with workmate" (0.318), "right to choose workmate" (0.294), "job security"
+(0.268), "promotion" (0.249),	'good supervision"
+(0.236), "participation in decision-making" (0.217), and "financial incentive and rewards" (0.177). Recognising operatives' effort on the project, or creating a good working relationship amongst operatives (by giving them the right to choose their workmates), may create better relationships between managers and employers. This will ultimately improve their performance at work.
+Good working conditions
+  Working conditions are particularly important on construction projects. Provision of good working conditions within which operatives can effectively perform their duties is a tool that management must always be alert to. Due to the geographical spread of Iran, construction workers may experience the extremes of both hot and arid conditions in the south of the country, and severe cold in the north and west. Iranian operatives value their working conditions highly as a motivator with a relative importance index of 0.77 (7th rank). This variable was also close to being gratified at 8th rank. Table 3 indicates very few variables correlated with working condition: "working facilities" (0.38157), "on-time payment" (0.274), "financial rewards" (0.209) and "good supervision" (0.201). From the correlation analysis it would seem that to improve working conditions managers might consider paying more attention to working facilities, timely payment and incentive and financial rewards.
+Promotion
+  Prospect of promotion has been recognised by operatives as a motivator with an index of 0.76 and 8th rank. Career advancement is one way that operatives expect to be rewarded for their effort and achievement. The ranking shows that managers do not recognise and appreciate operatives performing to expectation. This is rather frustrating and a major source of discontent which certainly has a negative effect on their effort. If an operative is simply promoted by management for reasons other than skill and competency at work, it may cause resentment and loss of respect from other operatives. Sometimes, operatives do not want to simply receive an increased wage; to accept responsibility and lose previous colleagues (due to a superior position and extra responsibility). The variable shows correlation with "job security" (0.452), "recognition on the job" (0.422), "more responsibility" (0.420), 'participation in decision-making" (0.358), "good relation with workmate" (0.315), to choose workmate" (0.2554) and "employer/operative relation" (0.249); see Table 3.
+Good relation with workmate
+  While operatives pay special attention to good relationships with their workmates, this variable, being ranked 9th, would not appear to be a strong motivator. On the gratification scale the response indicates the variable ranked 3rd with a relative index of 0.84. This is far better than expectations (see Table l). In a multi-cultural society such as Iran (i.e. many linguistic, religion and
+ethnic groupings), establishing good relations among workmates is advantageous, and if properly utilised (as we see through correlated factors), may have a strong positive impact on operatives' performance. From the correlation matrix (Table 3), it is evident that "good relation with workmate" correlates with "recognition on the job", "employer/operative relation", 'promotion" "participation in decision making", "the work itself', "more responsibility" and "accurate job description", giving correlation coemcients of (0.327), (0.317), (0.315), (0.212), (0.206), (0.199) and (0.183) respectively.
+Job security
+  A worker's motivation to utilise the most productive methods and technology will be increased if that worker perceives himself as having employment security [14]. Job security is only of moderate importance to Iranian operatives with a relative index of 0.73 and 10th rank. This moderate importance could be as a result of the following:
+o The boom in construction activities after eight years devastating war with neighbour Iraq (1980—88).
+e A high inflation rate and constantly increasing living costs.
+o The high proportion of casual labour employed on construction projects.
+On the gratification scale this factor ranked 17th which indicates that it is rather demotivating and frustrating. The correlation analysis confirms association with:
+et 
+"more responsibility", 'promotion", "participation in decision-making", "recognition on the job", "employer/ operative relation" and "right to choose workmate", with coemcients of (0.455), (0. 452), (0. 347), (0. 288), (0. 268) and (0.237) respectively.
+CONCLUSION
+  Motivation factors among Iranian construction operatives have been identified and ranked. The first five most important motivation factors are, in descending order: "fairness of pay", "incentive and financial rewards", "on time payment", "good working facilities" and "safety at work". Important motivation factors are poorly gratified on Iranian construction sites. Poor gratification leads to more demotivation and continued low productivity in a construction industry faced with hyper-inflation. The majority of the highest motivators are all financial related factors reflecting the physiological needs of the majority of construction workers. Management and supervisory teams must make efforts to ensure productivity improvement programmes work. This not only necessitates application of an overall proper managerial effort in planning, organising, co-ordinating and controlling of projects, but also, concentration on removal of all factors directly constraining operatives' productivity. Despite the prevailing economic crisis and high inflation rates, success in overcoming diffculties and achieving good productivity in the Iranian construction industry is possible; through increasing managerial awareness of the productivity problems and motivation factors identified in this paper.
+
+REFERENCES
+Stokes, K. H. Jr, An examination of the productivity decline in the construction industry. Construction Productivity Frontier, Construction Productivity Center, 11T Center, Chicago, IL, 1980, pp. 10—16.
+2. Laufer, A., Assessment of financial incentive programmes for the construction labor force: a Delphi analysis. Thesis presented to the University of Texas, at Austin, Texas, in partial fulfilment of the requirement for the degree of Doctor of Philosophy, 1980.
+3. Productivity on the construction site. Civil Engineering, ASCE, 1979, 47(1), 74-76.
+4. Laufer, A. and Jenkins, D. Jr, Motivating construction workers. Journal of' Construction Division, ASCE, 1982, 108(C04), 531-545.
+5. Sink, D. S. , Productivity Management. John Wiley, New York, 1985.
+6. Price, A. D. F. , Construction operatives' motivation and productivity. Building Research and Information, 1992, 20(3), 185-189.
+7. Borcherding, J. D. and Oglesby, C. H., Job dissatisfaction in construction work. Journal of Construction Division, Proceeding of ASCE, 1975, 101(C02), 415—434.
+8. Borcherding, J, D. , Sebastian, S. J. and Samelson, N. M. , Improving motivation and productivity on large projects. Journal of Construction Division. Proceeding of ASCE, 1979, 106(COl), 73—89.
+9. Holt, G. D. , Olomolaiye, P. O. and Harris, F. C. , Factors influencing U.K. contractors' clients choice of contractor. Building and Environment, 1993, 29, 241—248.
+10. Herzberg, F., One more time: how do you motivate employees? Harvard Business Review, 1968, 	l),
+l l . Mackenzie, K. I. and Harris, F. C.. Money the only Motivator? Building Technology and Management, 1 984, 25-29.
+12. Neale, R. H. , Motivation of construction workers: theory and practice. 10B Site Management Information Service, 1979, No. 78, pp. 1—7.
+13. Maslow, A. H. , A theory of human motivation. In Management and Motivation, eds V. H. Vroom and E. L. Deci. Penguin Modern Management Reading, 1970.
+14. Maloney, W. F. , Motivation in construction: a review. Journal of the Construction Division, Proceeding of ASCE, 1981, 107(C04), 641—647.
+15. Olomolaiye, P. 0., An evaluation of bricklayers' motivation and productivity. Ph.D. thesis, Department of Civil Engineering, Loughborough University of Technology, Loughborough, 1988.
+162	M. Zakeri al.
+
+
+
+
+

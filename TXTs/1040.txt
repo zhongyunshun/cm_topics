@@ -1,0 +1,263 @@
+﻿Construction Management and Economics, 1992, 10, 19—30
+Judgemental forecasting in construction proj ects
+HASHEM AL-TABTABAI I and JAMES E. DIEKMANN 2
+I Department of Civil Engineering, Kuwait University, PO Box 5969, 13060 Safat, Kuwait and 2Department of
+Civil, Environmental and Architectural Engineering, University of Colorado, Boulder, Colorado 80309, USA
+Forecasting is a very important strategic task within the project controlframework. Forecast activity seeks to answer one ofproject management's prime questions: ' When will the the project be completed and what will it cost?' Large variances in costs or schedules will impact the profitability, cashflow and, in extreme cases, the viability ofprojects. This paper discusses a new approach to forecasting within the context of project control.
+  The paper concerns itself with the situation wherein a project manager has observed a variancefrom a project goal (a wage rate, for example) and the manager must now predict (i.e. forecast) the final actual wage rate for the project. Forecasting is a difficult task because one must understand the effect of past performance and the impact offuture events.
+  A goodforecasting technique, therefore, needs to include both historical trend-based data and competent judgements based on construction experience and knowledge. This research was conducted to develop an alternative approach toforecasting which would use both historical data and human judgement in aformal forecasting model. This paper describes the adaptation of Social Judgement Theory to forecasting for construction project control.
+Keywords: project control, forecasting, Social Judgement Theory, cost control, project management
+Introduction
+Project control systems are common to most construction projects. Project control consists of a feedback cycle wherein one (a) sets a performance goal (budget or schedule), (b) measures deviations from that goal (variances), (c) takes actions to correct the variances (control) and (d) predicts the effects of the variances on the completed project (forecasting).
+  Forecasting is a very important strategic task within the project framework. Forecast activity seeks to answer one of project management's prime questions: 'When will the project be completed and what will it cost?' Large variances in costs or schedules will impact the profitability, case flow and, in extreme cases, the viability of projects. This paper discusses a new approach to forecasting within the context of project control.
+  The paper concerns itself with the situation wherein a project manager has observed a variance from a project goal (a wage rate, for example) and the manager must now predict (i.e. forecast) the final actual wage rate for the project. Forecasting is a diffcult task because one must understand the effect of past performance and the impact of future events. For example, when forecasting a future wage rate, it is important to understand the impacts of past wage levels, overtime payments and similar facts. It is equally important to understand
+0144-6193/92 $03.00+.12 c: 1992 E. & F.N. spon
+	ri ht 	. 	Rights 
+Al-Tabtabai 
+the impacts that probable future events will have on wage rates. If, for example, the union labour agreement is due for renegotiation in the next month, this will (should) impact the forecast of wage rates. The forecaster must also predict the effects of the 'control actions' taken by management to improve cost or schedule performance. For example, if a management decision has been taken to reduce the amount of overtime worked, that action must be accounted for in the forecast of future wage rates. In other words, forecasts must be based on both past performance and future events.
+  In reality, many existing project management systems incorporate purely numerical techniques for forecasting. The most commonly-used techniques are based on linear trend analysis (Slemarker, 1985), in which performance indices, such as the cost performance index (CPI) and the schedule performance index (SPI), are used to forecast future performance using a straight line trend equation. That is, the future value of some performance measure is based wholly on the historical value of the performance measure. Another common straight line forecasting equation is:
+BAC - BCWPcum
+	(1) CPI
+where EAC is the estimated cost at completion, ACWPcum is the cumulative actual cost of work performed, BCWPcum is the cumulative earned cost of work performed, BAC is the budgeted cost at completion and CPI is the cost performance index.
+  Some justification can be offered for these simple, trend-based forecasting approaches when they are used late in the project life-cycle. Late in the project, the preponderance of incurred costs (historical costs) limits the final predicted costs to a very small range. However, accurate forecasts are needed early in the project when management has viable alternatives to cancel, suspend or substantially modify problematic projects. At the other extreme from those project managers who use historically based forecasts are those project managers who rely only on their experience to predict the cost and schedule performance without the use of any mathematical forecasting technique. However, unaided subjective judgements are not always correct, their accuracy being entirely dependent upon the quality of the judgements made by the forecaster.
+  A good forecasting technique, therefore, needs to include both historical trend-based data and competent judgements based on construction experience and knowledge. This research was conducted to develop an alternative approach to forecasting which would use both historical data and human judgement in a formal forecasting model. This research starts from four premises:
+1. Good forecasting techniques will account for both past behaviour and predictable future events.
+2. Predicting future events is a judgemental activity.
+3. Some people have better judgement that others.
+4. It is useful to make 'good' judgement available to those with 'bad' judgement.
+Judgemental forecasting
+Forecasting is a common human activity and many researchers have studied forecasting in several different contexts. Forecasting models are generally classified as econometric models,
+time-series models and judgemental models. The major source of data for econometric and time-series models is the past. Therefore, in fields where there is a sense of continuity between past, present and future, time-series and econometric techniques are of major importance. On the other hand, when forecasts cannot simply be extrapolated from the past but must be developed by a process of analogy, or when there is a change in the environment or in the organization, these quantitative methods may be of limited value (Willis, 1987; Klien, 1980). Makridakis et al. (1983) concluded that judgemental forecasts are used when situations are changing so rapidly that a statistically based forecast would be of no use even as a guide. These researchers have defined a variety of theoretical approaches to modelling judgement. For a comprehensive discussion of human judgement models, see the work of Hammond et al. (198()). This research adopts the 'Social Judgement Theory' of judgemental forecasting (Hammond et al., 1975).
+Social Judgement Theory: basic concepts
+Social Judgement Theory (SJT) is intended to be a general framework for the study of human judgement and it places great emphasis on modelling the complex nature of the environment in which judgements are made. SJT is based on Brunswik's work on human judgement and is represented pictorially in terms of Brunswik's (1956) lens model in Fig. 1.
+
+Accuracy of judgennent (validity) Fig. 1. The lens model.
+  The principal concepts of SJT are best described with reference to Fig. 1. The most general proposition of SJT is that judgement is a cognitive process similar to inductive inference, in which a person draws a conclusion or makes ajudgement ( Ys) about an uncertain event (Ye), on the basis of data or cues (Xl, x2, . . . , x n) which can be seen or which represent the information available for a basis for judgement.
+The relationship between the person's judgement and the cues are represented by the lines
+	ht 	. 	Riahts 
+Al-Tabtabai 
+between the person's node and the cues. The lines are called the 'cognitive task system'; the relations between these cues and the uncertain event (often called the distal state, which refers to what the person's judgement is about) are shown on the environment side of the model and are called the 'environment task system'. Social judgement theorists are concerned with understanding the interrelationships between these two systems. Accuracy of judgement is represented by the wide range arc, labelled ra in Fig. 1, and indicates the degree to which judgement was correct. According to Brehmer (1987), social judgement theorists use the lens model to define human judgement as a 'process of integrating information from a number of uncertain cues into a judgment about some distal state of the world'.
+Application of the theory to judgemental forecasting
+Based on SJT, a complete judgement analysis of an individual involves identifying and measuring the cues and the judgements, and finding the relations among these variables. According to Hammond et al. (1975), four primary tasks are required to construct a judgement model:
+1. Identification of the judgement problem.
+2. Exercise of judgement. 3. Analysis of judgement.
+4. Display of results.
+Identification of the judgement problem
+This step consists of (1) defining the judgement to be made, (2) identifying the information (cues) on which the judgement is based, and (3) discovering the formal properties (e.g. intercorrelations, distributions and ranges) of the set of cue variables in the task. The procedures used in this step can be either a full-scale study involving extensive data gathering and multivariate analysis, or a simple guided interview designed to elicit cue variables from the individual. The validity of all remaining steps depends on the proper identification of the judgement problem.
+Exercise ofjudgement
+A number of cases representing thejudgement problem are developed. Each case consists ofa profile representing a different combination or mix of values covering the several cues. The individual indicates his judgements by rating several profiles on a numerical scale. A typical profile which was used in this study is shown later in the paper.
+Analysis of the results
+A basic premise employed in SJT is that if the judgements a person has made and the information (cues) upon which thesejudgements were based are known, then a mathematical representation can be developed which relates the judgement to the information. SJT has opted for the use of multiple-regression statistics for the representation of the person's judgement. Under such models, a person's judgement constitutes the dependent variable and the values of the cues are the independent variables. This linear relationship can be described as follows:
+		(2)
+where J is the judgement of an individual, xls are the cues used to make the judgements, Wk's are the weights for the cue variables, c is the constant term for the individual and e is an error term. Such an equation is usually call a policy in SJT.
+Display of results
+Social judgement theorists use the models of prior subjects' judgements as a form of 'cognitive feedback' for those currently making the same judgement. The purpose of the feedback is to overcome the limitations of individual judgements and to eliminate the conflicts with other individuals making the same judgement.
+  The experimental literature of SJT theory is rich with real-life applications which demonstrate that SJT is appropriate to a wide variety of judgemental problems; the applications range from determining community goals, modelling physicians' judgements and labour management negotiations. In the area of forecasting, SJT has found recent applications that include forecasting microbursts. Two very good studies include Steinmann (1973) and Stewart and Gelberd (1975).
+Application of theory in forecasting project performance
+Cost forecasting was adopted in this study as a domain in which judgemental forecasting might usefully be applied. To demonstrate the usefulness of SJT, forecasting for a specific work package (WP) on a construction project was chosen as a test case. For the purposes of this paper, a consturction work package is defined as a specific type of manual work performed on a construction project, and it has a specific organizational group responsible for its accomplishment. Generally, each WP has its own budget, which includes labour and material required to accomplish the work. For purposes of this study, labour cost components were defined as: quantity of work to be performed in the WP; labour productivity; and wage rates for the labour. Material cost components were defined as: the quantity of work; and, the unit price of material.
+Determining the forecasting policies
+The procedures of the SJT were applied to forecasting the component cost and schedule elements of a construction WP as follows.
+Ri hts 
+
+Step 1 : identifying the judgements
+The judgement being modelled was the forecast of the cost and schedule at the completion of the work package. Individual forecasts of judgements were developed for the following component variances:
+1. The expected quantity usage variance.
+2. The expected labour productivity variance.
+3. The expected labour wage rate variance.
+4. The expected material price rate variance.
+5. The expected WP schedule variance.
+The range of possible expected variances was defined on a 10-point scale from 100% improvement to 200% worsening (the entire 10-point scale is shown if Fig. 2).
+            YOUR FORECAST The final quantity variance will:
+1. Improve by 100% from the current level
+2. Improve by 75% from the current level
+3. Improve by 50% from the current level
+4. Improve by 25% from the current level
+5. No change from the current level
+6. Worsen by 25% from the current level
+7. Worsen by 50% from the current level
+8. Worsen by 100% from the current level
+9. Worsen by 150% from the current level
+10. Worsen by 200% from the current levelFig. 2. The 10-point forecasting scale.
+Step 2: identifying the general cues
+Industry experts were asked to provide a set of general cues underlying each of the forecasting components. The list of cues for each forecasting component is shown in Table 1.
+Step 3: generation of hypothetical profiles
+For each of the forecasted variances, a number of cases (profiles) were randomly generated. Each profile consisted of a different mix of values for the set of cues for each of the component variances. An example quantity forecast profile is illustrated in Fig. 3. These profiles are hypothetical and the range of values for each cue was set by one of the study experts. Each cue range was scaled from 1 to 10, as shown in Fig. 3.
+Table 1. General cues used for each forecasting component
+
+To predict future quantity variances, the cues are:
+• Present WP quantity variance
+• WP percent complete
+• Past trend of quantity variance
+• Effect of anticipated scope changes
+• Anticipated changes in the volume of rework
+• Anticipated changes in the volume of waste and scrap
+• Quality of quantity estimates
+To predict future labour productivity, the cues are:
+• Present WP labour productivity variance
+• WP percent complete
+• Past trend of labour productivity
+• Expected changes in the diffculty of work
+• Expected impacts from changes
+• Expected changes in labour skill and motivation
+• Expected changes in supervisor/management quality
+• Expected changes in field support quality
+• Expected changes in overtime
+To predict future labour wage rates, the cues are:
+• Present WP wage rate variance
+• WP percent complete
+• Past trend of wage rate variance
+• Expected changes in journeymen apprentice ratio
+• Expected changes in craft mix
+• Expected changes in planned overtime
+To predict future material price rates, the cues are: e Present material price variance e WP percent complete • Past trend of material price variance e Expected storage/warehousing expenses
+• Expected price level changes (interest/inflation)
+• Expected changes in availability and market stability
+• Expected changes caused by scope or quality changes
+• Expected changes in transportation costs
+To predict future schedule performance, the cues are:
+• Present schedule variance
+• WP percent complete
+• Past trend in schedule variance  Present WP total float
+• Influence of past scope changes
+• Anticipated labour productivity influences
+• Anticipated weather/environmental influences
+• Anticipated work diffculty
+• Anticipated impact of material deliveries
+• Anticipated impact of overtime usage
+
+ht 
+Quantity variance profile Case no. 	Status cues	Other cues
+1. Quantity usage variance
+
+  Highly favourabie
+2. Percent complete
+
+3. Past trend
+
+Improving7 8 9 10
+Highly unfavourable
+7 8 9 10
+100%
+7 8 9 10
+Worsening4. Expected impact of scope1 2 3 4 5 6 7 8 9 10
+  Highly	Highly favourable unfavourable
+5. Expected amount of rework1 2 3 4 5 6 7 8 9 10
+	Very low	Very 
+6. Expected amount of waste1 2 3 4 5 6 7 8 9 10
+  Highly	Poorly controlled	controlled
+7. Quality of quantity estimate1 2 3 4 5 6 7 8 9 10
+  Highly	Highly favourable unfavourab\eFavourable
+Unfavourable
+Percent completeYour forecast:
+The final quantity variance will:
+I. Improve by 100% from the current 
+2. Improve by 75% from the current level
+3. Improve by 50% from the current level
+4. Improve by 25% from the current level
+5. Not change from the current level
+6. Worsen by 25% from the current level
+7. Worsen by 50% from the current level
+8. Worsen by 100% from the current level
+9. Worsen by 150% from the current level
+10. Worsen by 200% from the current levelhigh
+level
+Fig. 3. A typical forecasting profile.
+Step 4: collection ofjudgements
+The profiles generated according to the model in Fig. 3 were given to a number of experts. In a first meeting, a set of 35 profiles for each forecasting component was presented to each expert, Based on the different cue combinations, the expert recorded his or her judgement as to the likely outcome of the variance as measured by the previously defined 10-point scale (see Fig. 2). In a second meeting, additional sets of 35 profiles were presented to each expert. In this second meeting, each profile set consisted of 20 new profiles and 15 profiles repeated from the first meeting's set. The 20 new profiles were included for cross-validation, so that the model derived from the first meeting could be tested on a new sample of profiles. The 15 repeated profiles were included to assess the reliability of the decision maker.
+Step 5: determining the SJT policy
+The decision maker's judgements for each area were analysed using the SJT approach and regression analysis. The regression model, introduced in equation (2), was used to quantity the expert judgements for each variance. For example, for the forecast quantity variance J:
+J = WI (current—quantity—variance)+w2 (WP_percent_complete)
++ (quantity_variance_trend)+ w4 (scope—changes)
++ (rework) + (waste) + w, (estimate—quality) + e
+The same procedure was used for each ofthe remaining component forecasts. Profiles ofeach of the remaining areas were analysed and the judgement model or policy was constructed, as shown in Table 2.
+Table 2. Descriptions ofjudgemental models
+
+Quantity forecast policy
+J = 0.22 (variance) +0.09 (complete) +0.06 (trend) +0.18 (scope)
++0.12 (rework)+0.15 (waste)+0.15 (estimate) +0.08
+Labour productivityforecast policy
+J= 0.19 (variance) +0.12 (complete) +0.02 (trend) +0.20 (scope)
++0.18 (diffculty)+0.31 (weather)+0.12 (skill)
++ 0.17 (management) +0.06 (field) + 0.10 (overtime) + 2.25
+Labour wage rate forecast policy
+J=0.11 (variance)+0.12 (complete) +0.32 (trend)+0.19 (J/A ratio)+ 0.22 (craft mix)+0.21 (overtime)— 1.28
+Material price forecast policy
+J =0.41 (variance)—0.12 (complete) —0.21 (trend) +0.28 (scope)
++0.09 (inflation)+0.13 (market)+0.15 (storage)+O.17
+(transport) + 0.29
+Schedule forecast policy
+J = 0.09 (complete)+0.03 (trend)+0.18 (float) +0.10 (scope)+O.10
+(diffculty) + 0.21 (weather) +0.10 (labour productivity) + 0.14
+(management) + 0.10 (materials) + 0.13 (overtime) — 0.58
+
+Validating the model
+Judging the performance of the forecasting model was carried out by testing the regression models on a sample of hypothetical cases. Also, regression models from different project managers were compared with one another to investigate and understand conflicting
+ri ht 
+judgements that these experts produced. These two validation approaches were conducted based on the concepts and procedures of the SJT, which describe consistency and reliability as measures of validity.
+Consistency
+The consistency of each forecasting model was examined in two ways, as shown in Table 3. R (the multiple-regression coeffcient) estimates the reliability of the judgemental model's structures. This coeffcient tests the correspondence between the statistical model and the actual forecasts. R 2 (the squared multiple correlation) indicates the proportion of variance in
+Table 3. Reliability measures of the forecasting models
+Forecast policyQuantity of work
+Labour productivity
+Labour wage rate
+Material price
+Work package schedule0.91
+0.88
+0.77
+0.72
+0.820.83
+0.78
+0.60
+0.51
+0.67forecasts that is accounted for by the judgemental model. For example, the regression model for the quantity of work forecast accounts for 83% of the variance in the forecasts. In other words, the linear model of the quantity of work forecast can reproduce the forecasts with a high degree of accuracy and can account for most of the variation in forecasts. On the other hand, the material price forecast regression model accounts for only 51% of the variance in the forecasts, which indicates that this model needs more refinement.
+Reliability
+Another measure of consistency is the reliability measure (the product—moment coeffcient). This measure tests or indicates the extent to which a person makes similar judgements when the same information is presented to him or her on different occasions. The reliability test was conducted by presenting the expert with two pairs of similar cases or profiles on two different days. The reliability measures of these models are reported in Table 4 and they indicate reliability ranges from very good (R =0.88) to just marginal (R = 0.70).
+Table 4. Reliability measures of the forecasting models
+Model nameReliabilityQuantity of work
+Labour productivity
+Labour wage rate0.88
+0.82
+0.70Discussion of findings
+The applicability of SJT as a forecasting technique was tested for both consistency and reliability. The models have a moderate to high degree of consistency and reliability. This validation test can only confirm or reject the adequacy of the forecasting models as a representation ofjudgements. It does not address the validity of the judgements themselves, which are only as good as the human judgement behind them. However, expert project managers do exist in every firm, whose judgements can be used as the basis of a forecasting model. The research did uncover some degree of disagreement among the different project managers' models. Although it is not the purpose of this paper to investigate the causes of these differences, interested readers are directed to Adelman et al. (1975), who discuss the causes of disagreements between different cognitive models at length.
+  Rather, the question one needs to consider is, whose judgement is used as a basis for forecasts and, indeed, whether judgement should be used in forecasts at all. Currently, most firms rely on the private judgement of their respective project managers (good judgement is one of the attributes of good project managers). Yet, a formal model of human judgement has at least three advantages over 'real' human judgement. First, a model of human judgement doesn't have bad days (e.g. fights with one's spouse, having the flu, etc.), so it is self-consistent day after day. Secondly, a model of human judgement is transferable to those who have not yet developed 'good' judgement. Thirdly, a model of human judgement may provide a vehicle for developing good judgement in young and inexperienced project managers by providing positive cognitive feedback. According to SJT, cognitive feedback is precisely the type of feedback that individuals try to provide for one another in their efforts to help one another to improve their judgements. These advantages (consistency, portability and use as a training aid) are sumcient justification for the further development of cognitive models in project management. As the development of decision support tools and knowledge-based systems continues, we anticipate increased interest in models of human cognition. This study has only developed the concept, but it might provide a beginning for cognitive modelling in project control. In an uncertain environment like the construction industry, judgements are becoming increasingly important as world competition becomes keener.
+Acknowledgements
+This work was accomplished in conjunction with the development of a knowledge-based system for project control. The entire scope of the work is reported in Al-Tabtabai (1989). The co-authors were unable to communicate for some months due to Iraq's invasion of Kuwait, and therefore any errors or misstatements which remain in this paper are solely the responsibility of J.D. The support of this work by Kuwait University is gratefully acknowledged. This paper was finished while J.D was on sabbatical leave at Chalmers Technical University in Göteborg, Sweden. Chalmer's support of the author is gratefully acknowledged.
+References
+Adelman, L., Stewart, T.R. and Hammond, K.R. (1975) A case history of the application of Social Judgement Theory to policy formation. Policy Sciences, 6(1), 137—59.
+i ht 
+Al-Tabtabai, H.M. (1989) PROCON: A knowledge-based approach to construction project control. Unpublished Doctoral thesis, University of Colorado, Boulder.
+Brehmer, B. (1987) Social Judgement Theory and forecasting. In Judgmental Forecasting (edited by G. Wright and P. Ayton), pp. 199—214. John Wiley, New York.
+Brunswik, E. (1956). Perception and the Representative Design ofPsychological Experiments. University of California Press, Berkeley.
+Hammond, K.R. (1975) Social Judgement Theory: its use in the study of psychoactive drugs. In Phychoactive Drugs and Social Judgment Theory and Research (edited by K.R. Hammond and C.R.B. Joyce), pp. 69—105. John Wiley, New York.
+Hammond, K.R., Stewart, T.R., Brehmer, B. and Steinmann, D.Q. (1975) Social Judgement Theory. In Human Judgement and Decision Processes (edited by M. Kaplan and S. Shwartz), pp. 217—312. Academic Press, London.
+Hammond, K. R. , McClelland, G. and Mumpower, J. (1980). Human Judgment and Decision Making . Theories, Methods and Procedures. Praeger, New York.
+Klien, H.E. and Newman, W. (1980) How to use Spire: a systematic procedure for identifying relevant environments for strategic planning. Journal of Business Strategy, 1, 36—46.
+Makridakis, S., Wheelwright, S.C. and McGhee, V.E. (1983) Forecasting: Methods and Applications, 2nd edn. John Wiley, New York.
+Slemarker, C.M. (1985) The Principles and Practices of Cost Schedule Control Systems. Petrocelli Books, Princeton, NJ.
+Stewart, T.R. and Gelberd, L. (1975) Analysis of judgemental policy; a new approach for citizen participation in planning. AIP Journal, 12(1 334.
+Steinmann, D.O., Smith, T.H., Jurdem, L.G. and Hammond, K.R. (1975) Application of Social Judgment Theory in policy formulation: an example. Journal ofApplied Behavioral Science, 13(1 ), 69-88.
+Willis, R.E. (1987) A Guide to Forecastingfor Planners and Managers. Prentice-Hall, Englewood Cliffs, N.J.
+	20	and Diekmann
+
+Judgemental forecasting in construction projects	21
+
+
+
+	0 2001 All 	Reseved.
+
+
+
+	0 2001 All 	Reseved.
+
+	24	Al- Tabtabai and Diekmann
+
+Judgemental forecasting in construction projects	21
+
+
+
+0 2001 . All Riahts Reseved.
+
+	24	Al- Tabtabai and Diekmann
+
+
+

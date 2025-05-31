@@ -1,0 +1,669 @@
+﻿Engineering, Construction and Architectural Management 1995 2 | 1, 57-76
+
+An evaluation of clients' needs and responsibilities in the construction process
+SIMON T. KOMETA, PAUL O. OLOMOLAIYE & FRANK C. HARRIS
+University of iVolverhampton, School of Construction Engineering and Technology, Wulfruna Street,
+Wolverhmnpton, West Midlands 	ISD, UK
+Paper submitted 17 November 1993; accepted for publication 13 October 1994; discussion open until September 1995
+Abstract The importance of clients' responsibilities in the construction process, as perceived by both clients and consultants, was assessed through a structured questionnaire survey. Using the relative index ranking technique, clients' fundamental needs and responsibilities in the construction process were analysed and ranked. Results indicate that the four most important needs are: functionality of the building, safety of the building. quality of the building, and completion time. The four most important clients' responsibilities identified by clients themselves are: planning/design, project finance, project implementation/management, and project definition/formutation. The four most important clients' responsibilities to project consultants are: project finance, project definition/formulation, planning/design, and project implementation/management. If both consultants and clients understand the fundamental needs of construction clients and if clients themselves are prepared to take an active role in the construction process, the chances of producing more successful projects will improve.
+Keywords buildings. client's responsibilities, client's needs, consultants, construction projects, success factors
+INTRODUCTION
+The realization of most construction projects involves the bringing together of many separate parties including the client, consultants, contractors, suppliers, and subcontractors (Bryant et al. 1969; Cherns & Bryant 1984). The client has a tremendous responsibility to ensure that his/her project is successfully realized but unfortunately, this is not usually the case. Much has been written regarding client responsibility in construction projects (NEDO, 1974; CIOB, 1980; CIRIA, 1987). The degree of responsibility that clients exercise over their projects depends primarily on their experience (Bennett & Flanagan 1983; Rowlinson & Newcombe 1984; Nahapiet & Nahapiet 1985). An experienced client as defined by Masterman (1992) and Walker (1984) is one that builds on a regular or continuous basis, i.e. more than once every 5 years, while inexperienced clients build only once or less every 5 years.
+S. T. 
+  All construction clients, whether experienced or not, should be involved in the building process in order to get what they want (Ministry of Public Building and Works 1965; Wood Report 1975; NEDO 1976a,b, 1983, 1985; CIOB 1982; CIRIA 1987). Bennett (1985) covered the wide scope of client involvement in construction projects under five main headings:
+• Project objectives
+• Outline of project organization o Selection of project team
+• Establish method of control over project team  Establish the project culture.
+  These responsibilities are far reaching. Obviously, inexperienced clients would not be able to take on these responsibilities due to their lack of knowledge of the construction industry (Higgin & Jessop 1965; NEDO 1983). This implies that the construction industry should encourage their clients to be more active in the construction process — by passing on more responsibilities to them. Where this is not the case, the client should make the effort to become more active and involved in the process. The benefits stemming from active involvement have been recognized (NEDO 1983; Bennett 1985); after all, the client needs the building and, more importantly, he/she is the one with a full knowledge of the internal workings and personalities within his/her organization.
+  The research on which this paper is based rests on the premise that some clients pose risks to project consultants by not adequately performing their responsibilities. For instance, poor project definition/formulation by the client may result in an unsuccessful project irrespective of the consultant's performance; as such, the client in question will not repeat business with the consultant or recommend him/her to other clients. Also, payment delays by clients cause cash flow problems to consulting firms which in the worse possible case may lead to bankruptcy. These risks are amplified if clients are not encouraged to take an active role in the building process from inception to completion. Active involvement of clients in projects will impact upon the performance of projects and var'ill reflect on the performance of the industry in general. The survey reported in this paper aimed to:
+1 Establish and rank the fundamental needs of clients and evaluate the relative importance ofthese needs; for a detailed definition of these needs see Appendix
+2 Establish and rank clients' responsibilities in achieving their needs using the success factors identified by Morris & Hough (1986). These success factors are:
+• Project definition/formulation
+• Planning and design
+• Politics/social factors
+• Schedule duration
+• Schedule urgency
+• Finance
+ Legal agreements
+1. 
+• Contracting
+• Project implementation/management e Human factors.
+For a detailed definition of these responsibilities see Appendix B.
+3 Compare client's responsibilities in construction projects to see if they correlate with project consultant's expectations.
+DATA COLLECTION
+The research objectives necessitated the identification of the fundamental needs of construction clients. Fundamental needs refer to the primary requirements of clients. A literature review was conducted for the purpose of identifying these needs. The review resulted in the identification of seven fundamental needs of clients which are: function, safety, quality, time, economy (cost), running/maintenance cost, and flexible to uses.
+  Morris & Hough (1986) identified 80 factors that are important for the success of major projects which can be grouped under the 10 headings listed in the previous section. These factors have been adopted as representing clients' responsibilities in the construction process and are very general and applicable to most projects. The factors represent some features inherent in projects that are controllable by clients; because of this, it may improve the performance on projects if these factors are presented as clients' responsibilities. Responsibility simply refers to the measures or actions clients have to take in order to meet their project needs.
+  The data '.vere collected primarily from senior management of client organizations. The method used for the collection of the information was a structured questionnaire patterned after the Michigan Organisational Assessment Package (1975). The questionnaire (see Appendix C) was modified after an initial pilot survey and structured interviews with clients' organizations, with factors added and removed depending on which were deemed appropriate and applicable to the UK construction industry. This was also used as a way to test the construct validity of the measures of needs and responsibilities, as some of the questions were rephrased following feedback from the pilot survey and interviews. The questionnaire sought general information of the client organization, namely type, work capacity, average contract size and further descriptive information. The questionnaire also contained specific questions about the importance level of the seven fundamental needs and the 10 success factors coined 'clients' responsibilities'. A scale of one to seven was used to measure the level of importance of the seven fundamental needs of clients and the 10 clients' responsibilities. The respondents were asked to tick a number on the scale which reflected their opinions regarding the importance of the fundamental needs and responsibilities.
+  The survey sample was randomly selected from those listed in the Business Alert section of the Contract Journal over the last 5 years. Public sector clients were contacted direct. A standard letter briefly explaining the research, along with a questionnaire, were sent to the participants. To augment the postal survey, per-
+2 | 1. 57-16
+
+sonal networks and previously established relationships with senior members of client organizations were tapped. The range of client experience varied from those who have built just once in their lifetime to those who have a continuous building programme including local authorities, churches, industries, universities, community organizations, etc. To clarify survey findings, the client types were classified under three main groups: developer, private and public clients. Developers are from both private and public sectors, and are treated separately because of their prominence and activities in the construction industry. In fact, one of the organizations that took part in the survey was a joint venture between private and public sector clients. Table I shows the proportions of survey respondents. The response rate was 22.4% which is considered appropriate because of the nature of the information required and the lukewarm response to questionnaire surveys in construction generally.
+	Table 1 Proportion of respondents	
+	Client type	Respondents
+No.
+Developer
+Private
+Public
+Total12
+1 1
+17
+4030.0
+27.5
+42.5
+I OO.O  A parallel survey wras also carried out using project consultants as the sample, to assess the same 10 success factors identified by Morris & Hough (1986). This was necessary in order to compare and contrast these factors as clients' responsibilities, i.e. to see if there is any agreement between clients and consultants with respect to clients' responsibilities in the construction process; 115 consultants responded to the survey giving a response rate of 38.3%. The consulting firms were randomly selected from three main sources: Newp Civil Engineer Consultant File 1993; Royal Institute of British Architects 1992/93 list of practices; and Association of Consulting Engineers' list (the selection here '.,vas limited to building services engineering, civil engineering, and structural engineering specialisms).
+DATA ANALYSIS AND RESULTS
+Characteristics of construction clients surveyed
+The respondents to the survey have completed between them approximately 2209 projects within the last 5 years, equating to an average of 442 projects every year over the last 5 years. Table 2 shows the break down of these 2209 projects according to client type.
+It can be seen that public sector clients (central government, local authority,
+| 1. 
+Table 2 Proportion of projects	
+	Client type	Respondents
+commissioned by clients
+No.
+Developer
+Private
+Public
+Total615
+605
+989
+220927.8
+27.4
+44.8
+IOO.O
+etc.) commissioned a higher proportion of all projects (44.8%) than developer (27.8%) or private (27.4%) clients. This is in disagreement with the HMSO (1993) statistics which show that the private sector completed more dwellings than the public sector from 1987—1992, the period covered by the survey. It should, however, be noted that the sample for this survey is comparatively small compared to HMSO (1993) but quite in line with project proportions in Austen & Neale (1984). The combined commissions of both developer and private clients of 55.2% is very significant. The number of staff per client organization varied from a minimum of two to a maximum of 2000. This gives a mean staff number of 248 per client. Table 3 shows size of organization (i.e. number of staff) with proportion of projects commissioned. Client organizations with a staff number of more than 51 commissioned about 65% of all the projects. This is made up of public clients and some big private corporations and developers.
+  Client organizations with I O staffmembers or fewer accounted for only 5% of all the projects commissioned. Client organizations who took part in this survey have been involved with the construction industry in one •way or another for years, ranging from a minimum of 4 years to a maximum of 500 years — a mean of approximately 50 years. This confirmed the earlier statement that respondents have varying degrees of experience with the construction industry. Turnover ranged from a minimum of {0.2 million to a maximum of {300 million per annum. This gives a mean turnover of approximately Æ50.5 million. Using turnover as a measure ofthe size of the organizations, this indicates that the average size of the respondents to this survey is quite substantial. The average job size the participating top client organizations commissioned, expressed in pounds sterling, is shown in Table 4. About 55.2% and 37.9% of top client organizations commission work 'With an average size between ß50 000 and #00000 and between L500 000 and CIO
+Size of organization (number of staff)No.Projects1-5
+6—10
+51 +
+Total94
+15
+410
+250
+1440
+22094.3
+0.7
+18.6
+1 1.3
+65.1
+100.0Table 3 Size of organization with proportion of projects commissioned
+2 1, 57-76
+Contract sizeRespondentsUnder €50 000 f50 000 - under €500 000
+€500 000 - under fl million
+€1 million — under f 10 million
+E 10 million — under €15 million
+Over E 15 million3.4
+55.2
+17.2
+20.7
+3.4
+0.0Table 4 Average job size
+million, respectively. Table 5 shows the mean value of turnover, number of projects commissioned and years of experience of disaggregated client category. The data obtained, especially those relevant to the evaluation ofthe seven fundamental needs and the 10 clients' responsibilities, are considered ofhigh quality because they were obtained directly from the top managers of clients' organizations.
+Table 5 Mean value of turnover, number of projects commissioned and years of experience of respondents
+Client typeMean turnover (Em)Mean no. of projects commissioned in last 5 yearsMean years of experienceDeveloper
+Private
+Public71 .7
+51 .8
+22.251
+55
+5826.2
+29.2
+84.2The fundamental needs of construction clients
+The seven point scale mentioned earlier was transformed to relative importance indices using the relative index ranking technique, to determine the ranks of the fundamental needs. The mean and standard deviation of each need are not suitable statistics to determine overall rankings because they do not reflect any relationship between them. The relative importance indices were calculated using the following formula:
+Total point score
+Relative importance index — 
+7 x sample size
+where total point score is the summation of all the ratings for a given need, and 7 is the maximum rating possible.
+  This yields an importance index which ranges from O to l. Examining the indices (Table 6), it can be seen that some needs are more important than others. For example, functionality, safety, and quality of the building are more important to clients. This contradicts the famous trio of time, cost, and quality as clients' main needs (Hewitt 1985; University of Reading 1988). The result indicates that clients place functionality of the building as most important. This is in agreement
+| 1, 
+
+Table 6 Fundamental needs of all clients
+NeedsPercentage of respondents scoring 4Relative indexRanksFunction
+Safety Quality
+Time
+Economy (cost)
+Running/maintenance cost
+Flexible to uses0.0
+2.5
+0.0
+5.0
+7.5
+10.0
+32.52.5
+5.0
+12.5
+15.0
+12.5
+17.5
+17.597.5
+92.5
+87.5
+80.0
+80.0
+72.5
+50.00.95
+0.90
+0.84
+0.81
+0.79
+0.76
+0.591
+2
+3
+4
+5
+6
+7NeedsRelative indexRanksFunction
+Quality
+Safety
+Economy (cost)
+Running/maintenance cost
+Time
+Flexible to uses0.95
+0.88
+0.83
+0.77
+0.75
+0.73
+0.571
+2
+3
+4
+5
+6
+7NeedsRelative indexRanksFunction
+Safety
+Time
+Quality
+Economy (cost)
+Running/maintenance cost
+Flexible to uses1.00
+0.92
+0.86
+0.81
+0.75
+0.651
+2
+3
+4
+5
+6
+7Table 6a Fundamental needs of developers
+Table 6b Fundamental needs Of private clients
+• Equal rotative importance indices; ranked in accordance with % of respondents scoring 5 or more (see Table 5).
+NeedsRelative indexRanksFunction
+Safety
+Quality
+Time
+Economy (cost)
+Running/maintenance cost
+Flexible to uses0.92
+0.92*
+0.80
+0.79
+0.78
+0.78'1
+2
+3
+4
+5
+6
+7Table 6c Fundamental needs of public clients
+• Equal relative importance indices; ranked jn accordance with % of respondents scoring 5 or more fiee Table 5)
+with an earlier study by NEDO (1988). Functionality, safety, and quality scored more than 0.80 on the relative index scale. Tables 6a, b and c show the ranking of the fundamental needs by developer, private and public clients, respectively.
+The responsibilities of construction clients
+The fundamental needs mentioned earlier '..vere ranked as shown in Table 6. Obviously, to realize these, clients must accept some responsibilities in the construction process. Clients were asked to rank each responsibility according to how they perceived it will help them to realize their fundamental needs identified in the previous section. The same set of success factors as clients' responsibilities were presented to project consultants for assessment. The purpose here was to test if there '„vas any agreement or otherwise on clients' responsibilities as perceived by both clients and consultants. Again the relative index ranking technique was used to evaluate these responsibilities. Respective ranking of these responsibilities are given for clients and consultants in Tables 7 and 8.
+DISCUSSION OF THE RESULTS
+Fundamental needs
+Function
+Taking the relative indices as a measure of the importance of the fundamental needs of clients, 'functionality' of the building ranked most important with an overall index of 0.95 (Table 6). The importance of this had earlier been recognized by NEDO (1988). The ranking of this should not be at all surprising because there would not be any point in undertaking a project if at the end of the
+Table 7 Rank order of clients' responsibilities by clients themselves
+ResponsibilitiesPercentage of respondents scoring
+4Relative indexRankPlanning/design
+Project finance
+Project implementation/ management
+Project definition/formulation
+Legal agreements
+Schedule urgency
+Schedule duration
+Human factors
+Political/social factors
+Contracting5.1
+7.7
+5.1
+7.7
+17.9
+10.3
+10.3
+17.9
+28.2
+43.67.7
+0.0
+5.1
+10.3
+5.1
+23.1
+17.9
+30.8
+23.1
+17.987.2
+92.3
+89.1
+82.1
+76.9
+66.7
+71 .8
+51.3
+48.7
+38.50.85
+0.84
+083
+0.80
+0.79
+0.77
+0.74
+0.69
+0.651
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Equal relative importance indices: ranked in accordance with % of respondents scoring 5 or more.
+	2	1. 
+Table 8 Rank order of clients' responsibilities by consultants
+ResponsibilitiesPercentage of respondents scoring
+4indexRankProject finance
+Project definition/formulation
+Planning/design
+Project implementation/management
+Human factors
+Schedule urgency
+Schedule duration Legal agreements
+Contracting
+Political/social factors4.3
+0.9
+9.6
+7.8
+13.9
+16.5
+16.5
+31.3
+49.6
+46.02.6
+7.8
+1 1.3
+16.5
+21.7
+27.8
+26.1
+33.0
+27.0
+30.493.0
+91.3
+79.1
+75.7
+64.3
+55.7
+57.4
+35.7
+23.4
+23.40.91
+0.87
+0.81
+0.79
+0.73
+0.70
+0.69
+0.59
+0.51
+0.501
+2
+3
+4
+5
+6
+7
+8
+9
+10day the project does not fulfil its intended function. Developers, private and public clients all ranked this first (Tables 6a, b, c). It is more important to private clients than developers and public clients, as depicted by their relative importance indices of 1.0, 0.95 and 0.92, respectively.
+Safety
+This relates to safety during construction and throughout the life time of the building. Ideally the two types of safety should have been distinguished in the survey to determine the relative importance of each; however, safety in general ranked second with a relative index of 0.90. More and more clients are taking safety seriously, probably because of the emphasis placed by the Health and Safety Executive (Health and Safety at Work Act 1974). Stringent rules on this aspect became law in 1994. The importance of safety is also reflected in the insurance policy that both clients and the construction team have to take out. Safety on construction sites has been wideiy covered by Niskanen & Lauttalammi (1989a, b). Developers ranked this third, and private and public clients both ranked it second. The superior ranking by private and public clients is probably because of the need to consider safety of individuals and the public at large.
+Quality
+With an index of 0.84, quality ranked third overall. This is probably because after securing the functionality and safety of their building, the next thing that clients most desire in their building is for it to have at least a minimum standard of quality. Because of its subjectivity, quality lies in the eye (and the pocket) of the beholder (Seymour & Low 1990). The developer, private and public clients ranked this need second, fourth, and third, respectively. The ranking by developers is obvious as they have to produce high quality buildings in order to let them, and because their business is very competitive. Public clients ranked this third because they have a duty to convince the public that they are capable of providing good services — as part of their obligation to be accountable. Private clients may have
+
+been influenced by financial constraints; they may prefer high quality building but this is costly. Indeed Bresnen et al. (1990) found that the private sector placed greater emphasis on cost than quality.
+Time
+ Respondents ranked timely completion fourth with a relative index of 0.81. Some clients get involved with construction projects only with the express agreement that certain deadlines will be met. The importance of timing had previously been recognized (CIOB 1980; NEDO 1983). However, not all clients are interested in time (Banwell 1964; NEDO 1983). These studies found that few customers were interested in speed or had explicitly considered the influence of time on the costs and returns from the project. Hence, the fourth ranking given to time in this survey is much in line with general thinking. Developers, private and public clients ranked time sixth, third, and fourth, respectively. The lower ranking by developers is surprising as most of their projects are speculative and therefore timing should be crucial.
+Economy (cost)
+This '*vas ranked fifth with an overall relative index of 0.79. Economy in this context refers to the cost of the project from inception to completion, i.e. the building should be produced economically. This ranking conflicts with previous studies which tend to rank cost amongst the three most important needs of construction clients (Lucas 1974; Harris & Pettet 1978; Baker & Orsaah 1985; Hewitt 1985; NEDO 1988). While not disputing the fact that cost is important, the building should first be functional, be safe, and achieve a minimum standard of quality within the budget. Developers ranked this need fourth while private and public clients both ranked it fifth. The superior ranking by developers could be explained by the profit motives of developers who may want maximum return from their limited investment. The poor ranking by public clients is a bit surprising because they are expected to spend money wisely — public accountability. Obviously public clients do not embark on a spending spree; the factors discussed earlier are simply intrinsically more important than cost to UK public clients.
+Running/maintenance cost
+With an index of 0.76, running/maintenance cost ranked sixth. Most often, attention is only paid to maintenance after the building has become operational. Developers ranked this need fifth while private and public clients both ranked it sixth. The higher ranking by developers could be explained by the fact that most do not sell, especially in this depressed market, but let their properties and therefore running/maintenance costs are more important to them compared to both private and public sector clients. The importance of this should not be underestimated by its lower ranking — such costs can be very substantial during the lifetime of a building.
+and Architectural Management 1995 2 | 1, 57-76
+Flexible to uses
+This achieved lowest rank with an index of 0.59. All categories of clients ranked this the least important. The low ranking of this need is very surprising indeed as it '„vas thought that clients, especially developers, would be interested in developing buildings for different uses. The ranking seems to suggest that clients more often than not have a particular use for building before embarking on any project.
+Responsibilities of clients
+As mentioned earlier, clients have to accept certain responsibilities in the construction process in order to meet the fundamental needs of their buildings. Let us now discuss some of these responsibilities.
+In-house planning and design
+Taking the relative indices as a measure of the importance of clients' responsibility in the construction process, planning/design ranked the most important with an overall index of 0.85 (Table 7). This refers to the in-house planning and design that some clients undertake before approaching a consultant or a contractor. It should be noted that not all clients undertake in-house design. This is particularly true in the case of 'inexperienced' or nex,v construction clients. However, all clients are expected to plan their project, i.e. to offer input on how their needs may be met. The ranking of this responsibility may be because decisions taken at the planning stage will later influence the success or failure of the project. As a client's responsibility, project consultants ranked this third with an overall index of 0.81 (Table 8). Obviously this is important to project consultants; they expect clients at least to give thought to how they plan to realize their needs before any professional consultation. This will facilitate mutual understanding of clients' needs.
+Project finance
+With an overall relative index of 0.84, clients ranked project finance second. The client should obviously be responsible for the funding of the project. As well as securing a stable source of funding, full financial analysis of all project risks from the client's point ofview should be undertaken. The sponsors should be interested in the success of the project per se. As a client's responsibility, project consultants ranked project finance first. This is understandable in that consultants are expected to ensure that the client is financially stable to see the project through. "Ihe importance of financial stability has long been understood (Russel & Skibniewski 1988) and highlighted recently by Holt et al. (1994).
+Project implementation/management
+Of the responsibilities identified, clients ranked this third with an overall relative index of 0.83. The ranking would seem to indicate that it is necessary for clients to select appropriate consultants and contractors, and foster good client—contractor relations, hence making sure that the project will be well implemented and
+s. T 
+managed by the experienced teams selected by them. Project consultants ranked this responsibility fourth with a relative index of 0.79. It would seem that consultants will be more encouraged if clients are aware of how their projects will be implemented and managed.
+Project definition/formulation
+This was ranked fourth with an index of 0.80. This low ranking is quite astonishing as this is often associated with the production of the brief, which is the most important document in the design process. However, it confirms an earlier study by NEDO (1988) which concluded that most design briefs do not go far enough. Vital information such as time-scale, preferred procurement objectives, etc., are often left out of most design briefs. As a client's responsibility, project consultants ranked project definition/formulation second with a relative index of 0.87. This ranking is understandable as it is crucial for them to fully comprehend what the client wants. Clearly, clients do not regard the brief as their responsibility. Perhaps they expect the professionals to do it for them while the professionals are waiting for the clients to come forth with 'the goods'. There needs to be a meeting of minds on who is responsible for project definition/formulation.
+Legal agreements
+These were ranked fifth with an overall relative index of 0.80, which is the same as that achieved by project definition/formulation discussed above. In accordance with the percentage of respondents scoring five or more (Table 7) — 82.1% in the case of project definition/formulation and 76.9% in the case of legal agreements — the two were ranked fourth and fifth, respectively. Legal agreement refers to clients seeking commitment to making the contract work rather than getting involved with litigation. Disputes often lead to litigation which is time consuming and expensive. This responsibility is so ranked because it is of interest to the client that parties to the contract are committed. Project consultants ranked this responsibility eighth with a relative index of 0.59. This is probably because consultants regard securing legal agreements as their domain and, therefore, the client should not be too involved in it. Consultants prefer clients not to be too involved with legal matters.
+Schedule urgency and schedule duration
+These two responsibilities are discussed together because they have much in common. Both were ranked sixth and seventh by clients and consultants, respectively. Schedule urgency refers to clients instilling the required degree of urgency in their personnel, i.e. avoid rushing by all means but on the other hand discouraging delays. This responsibility is so ranked because usually clients have a time limit within which to complete their projects. Schedule duration simply refers to the overall duration of the project. The overall duration of the project is important to both parties as prolongation can impact major changes in output
+2 | 1, 
+
+prices, regulation, technical development, etc. It is important for consultants to finish a job on time. This is good for their image and it may lead to repeat business.
+Human factors
+This refers to the adequacy of senior management support for the project. It is important to remember that project personnel can make mistakes and therefore efforts need to be made to minimize these. Clients ranked this responsibility eighth with a relative index of 0.74. The ranking may be explained by the fact that clients have not quite appreciated that the success of their projects also depends on their chosen project personnel. Perhaps project consultants appreciate the importance of this responsibility better, hence ranking it fifth.
+Politics/social factors
+This refers to fiscal policy, safety and employment regulations and community factors. Clients ranked this responsibility ninth with a relative index of 0.69. The impact of political and social factors on construction projects has previously been recognized (Baker 1988). The lower ranking is probably because clients feel this is beyond their control. If there is a strike due to some social issue or political instability there is very little the client can do. This responsibility is the least ranked by project consultants as constituting part of clients' responsibilities in the construction process.
+Contracting refers to the client's knov..'ledge of the available procurement routes. This is the least ranked of all responsibilities by clients with an overall relative index of 0.65 and it is indeed surprising, as project consultants have often been accused of not taking the initiative to explain to their clients the procurement and contractual routes available to them (NEDO 1988). Project consultants ranked this responsibility ninth with a relative index of 0.51. Perhaps project consultants consider the choice of a suitable contract type on a client's project as their traditional role.
+  Is there any real agreement between clients and consultants of the relative importance of clients' responsibilities in the construction process? To this question, a correlation analysis using ranks was conducted. New ranks were assigned to the relative indices, with low relative indices assigned low ranks and high indices high ranks (Table 9). The table summarizes the calculation procedure involved to determine the Spearman rank correlation coefficient. Consider legal agreements with rank order of 6.5 and 3 by clients and consultants respectively, which yields a rank difference of 3.5, the square of which is 12.25. This procedure is then repeated for the remaining clients' responsibilities. The squared differences are then summed to calculated Edi2 . Applying the formula for calculating the Spearman rank correlation coefficient denoted rs:
+Engineering, 
+a'.
+n
+6 b di 2
+i=l
+- 1- 
+      n(n2 — 1) where di = the difference between ranks, and n = number of pairs of values in the data.
+As shown in the last column of Table 9, the value of Edi2 is 35.5. Therefore, = 0.785.
+'Ihe rs value of 0.785 suggests a moderate association between the two sets of ranks. To test rs assume a significance level of 0.02; the critical values oft for n—2 degrees of freedom are +2.896 and —2.896. The decision rule is 'Reject Ho if 2.896 or ift<-2.896'.
+= 3.584.
+Since t > 2.896, we reject the Ho and conclude that there is a true association of clients' responsibilities as perceived by clients themselves and project consultants. In other words, the sample correlation of 0.785 is unlikely to have occurred by chance.
+Table 9 Association of clients' responsibilities as perceived by clients themselves and project consultants
+
+Clients' responsibilities	Rank order by	Rank order by	Difference	Squared construction	project	between ranks	differences clients	consultants
+
+Legal agreements6.533.512.25Project definition/formulation Project implementation/6.59-2.56.25management8711Project finance91011Contracting121Human factors3639Planning/design10824Schedule urgency55Schedule duration44Political/social factors211110
+Ed,2 = 35.5
+
+• Equal rank (mean value) due to the same relative indices (Table 7).
+CONCLUSION
+Construction clients have certain fundamental needs which must be satisfied in their projects. Achieving these involves accepting some responsibilities in the construction process. These responsibilities have been highlighted and clients
+2 | 
+have demonstrated their willingness to accept them for the sake of sealing the objectives of their projects.
+  Results indicate the most important needs of clients are: functionality of the building, safety of the building, quality of the building, and completion on time. All scored above 0.80 on the relative index scale. The most important clients' responsibilities as perceived by clients themselves are: planning/design, project finance, project implementation/management, and project definition/formulation. The most important clients' responsibilities by project consultants are: project finance, project definition/formulation, planning/design, and project implementation/management. It should be noted that the ranking of the first four responsibilities by both parties is similar but with different rank orders (see Tables 7 and 8). This shows some degree of agreement on clients' responsibilities as perceived by both clients and consultants. This was confirmed by a test of the correlation coefficient which confirmed that there is a strong association. It seems that the degree of responsibilities clients accept in the construction process is a function of their experience with the industry. Not all clients will be capable of active involvement in their projects, particularly the inexperienced clients. 
+References
+Austen, A.D. & Neale, R.H. (1984) Managing Construction Projects: A Guide to Process and Procedures.
+International Labour Organisation, Geneva.
+Baker, M. & Orsaah, S. (1985) How do customers choose a contractor. Building, 31st May, 30—31.
+Baker, N.B. (1988) Lessons Learned from a Variety of Failures. Proceedings of 9th World Congress. Project Management, Glasgow.
+Banwell, H. (1964) The Placing and Managenzent of Contracts for Building and Civil Engineering Work.
+Report of the Committee under the chairmanship of Sir Harold Banwell. HMSO, London.
+Bannett, J. & Flanagan, R. (1983) For the good of the client. Building, I April, 26—27.
+Bennett, J. (1985) Construction Project Afanagenzent. Butterworths, London.
+Bresnen, M.J., Haslam, C.O., Beardsworth, A.D., Bryman, A.E. & Keil, E.T. (1990) Perfonnance on site and the building client, occasional paper, CIOB, Ascot.
+Bryant, D.T., MacKenzie, N'.R. & Amos, W. (1969) The Role ofthe Client in Building. Doc. no. IOW 355/2, Tavistock Institute of Huntan Relations, Inndon.
+Cherns, A.B. & Bryant, D.T. (1984) Studying the client's role in construction management. Construction Managoncnt and Econonzics, 2, 177—184. 
+CIOB (1980) Building for Industry and Conunerce (Client's Guide), October. CIOB, Ascot.
+CIOB (1982) Project Manage,nent in Building, CIOB, Ascot.
+CIRIA (1987) Practical Advicefor the Client Intending to Build. Special publication 48, CIRIA, London.
+Harris, R.P. & Pettet, J.W. (1978) Future development —the client's dilemma, part 2. Quantity Surveyor, March, 112—121,
+Hewitt, R.A. (1985) The Procurcnwnt of Buildings. Unpublished project report submitted to College of Estate Alanagement for RICS diploma in Project Alanagement.
+Higgin, G. & Jessop, N. (1965) Connnunications in the Building Industry. Report of a pilot study. Tavistock Institute of Human Relations, London.
+HMSO (1993) Housing and Construction Statistics 1982—1992, Great Britain. A publication of the Government Statistical Service. HMSO, Lonaon.
+Holt, G., Olomolaiyc, P. & Harris, F. (1994) Factors influencing UK construction clients' choice of contractor. Building and Environment, Pergamon Press.
+Lucas, J. (1974) Time saving at a fair price. Building, 13 September, 123—125.
+Masterman, J.W.E. (1992) An Introduction of Building Procurcnzcnt Systenzs, E & FN Spon, London. Chapter 7.
+Engineering. 	2
+
+Nfichigan Organisational Assessment Package (1975) Institute for Social Research. The University of håichigan.
+Nfinistry Of Public Buildings and Works (1965) Preparing to Build. HMSO, London.
+Niorris, P.W.G. & Hough, G.H. (1986) The Pre-conditions of Success and Failure in Afajor Projects. Technical paper No. 3. Major Projects Association, Templeton College, Oxford.
+Nahapiet, H. & Nahapiet, J. (1985) A comparison of contractual arrangements for building projects. Construction Afanagonent and Econonzics, 3, '217—231.
+NEDO (1974) Before You Build. What the client needs to know about the construction industry.
+HMSO, London.
+NEDO (1976a) The Professions in the Construction Industry, HN\SO, London.
+NEDO (1976b) Engineering Construction Perfonnancc — Report of the Comparative Construction Performance Working Party, HIMSO, London.
+NEDO (1983) Faster Buildingfor Industry. HMSO, London.
+NEDO (1985) Thinking about Building — a Successful Business Customer's Guide to Using the Construction Industry. HAiSO, London.
+NEDO (1988) Faster Building for Conuncrcc. Building Econonlic Decclopnent Conunittee. London, Novenzber.
+Niskanen, T. & Lauttalammi (1989a) Accident prevention in materials handling at building construction sites. Construction Managcntent and Econo'nics, 7, 263—279.
+Niskanen, T. & Lauttalammi (1989b) Accident risks during handling of materials at building construction sites. Construction Managonent and Econonzics, 7, 283—301.
+Rowlinson, S. & Newcombe, R. (1984) Comnparison of Procurenzent Fonns for Industrial Buildings in the UK. Paper to the 4th International Symposium on the Organisation and Management of Construction, Waterloo, Canada.
+Russell, S.J. & Skibniewski (1988) Decision criteria in contractor prequalification. Journal offlfanagcnzent in Engineering (ASCE) 4 (2), 148—164.
+Seymour, D. & Sui-Pheng Low (1990) The Quality Debate. Construction Managemnent and Econonzics, 8, 13-29.
+University Of Reading (1988) Building Britain 2001. Centre for Strategic Studies in Construction, University of Reading.
+Wood Report (NEDO 1975) The Public Client and the Construction Industry. HMSO, frndon. Walker, A. (1984) Project Afanagonent in Construction. Granada Publication, Inndon.
+2 1, 
+
+DEFINITION OF CLIENT'S NEEDS
+NeedsDescriptionFunction
+Safety
+Economy
+Running/maintenance cost
+Flexible to uses
+Time
+QualityThis refers to the intended use of the project. The project must fulfil its intended function and this is one of the reasons that encourages the client to embark on projects. The function may be simple or complex, nonetheless it must be satisfied.
+This embraces two concepts: safety of the project during construction and safety during its operating life. These two aspects are important to clients.
+The project must be of least cost. Clients want to spend as little as possible to satisfy their needs.
+This refers to cost during the operating life of the project; it is related to economy above. Clients want to achieve a minimum total cost. i.e. a balance between first cost with running/maintenance costs.
+This refers to the adaptation of the building to different uses as the need may arise. Economic circumstances may force a client to change the use of the
+This refers to the time available for the completion of the project; most clients want their project completed as soon as possible.
+This refers to conformance of established requirements. A building either does or does not meet the requirements. Clients expect their building to achieve a minimum standard of quality.	Engineenng. 	2	1, 
+DEFINITION OF CLIENTS' RESPONSIBILITIES
+ResponsibilitiesDescriptionProject definition/ formulation
+Planning and design
+Politics/social factors
+Schedule urgency and schedule duration
+Finance
+Legal agreement
+Contracting
+Project implementation/ management Human factorsThis refers to dialogue between the client organization and the consulting firm in which the client makes a reasonable effort to ensure that he/she defines/ formulates the project properly.
+This refers to the in-house planning and design that some clients undertake before approaching a consultant or contractor.
+This refers to fiscal policy, safety and employment regulations and community factors. The client should be aware of these factors and take precautions to accommodate them.
+Schedule urgency refers to clients instilling the required degree of urgency in their personnel, i.e. avoid rushing by all means but on the other hand discouraging delays. Schedule duration refers to the overall time allocated by the client for the practical completion of the project.
+The client should ensure a stable source of funding of the project. Funding of the project is the responsibility of the client.
+This refers to the client's responsibility in ensuring that participants to the projects are committed to making the contract work rather than getting involved with litigations.
+This refers to the client's knowledge of the available procurement routes and contract forms which are important for project success.
+It is the client's responsibility to determine how the project should be implemented/managed. which bears on the successful execution of the project.
+This refers to the selection of the right people for the project.	Architectural Management 1995 2	1, 
+QUESTIONNAIRE
+The University of Wolverhampton, School of Construction Engineering and Technology
+Client involvement in construction projects: a survey of clients' needs and responsibilities in the construction process
+This is part of a research programme to determine the fundamental needs of construction clients and their responsibilities in achieving them. Your answers to this questionnaire will be treated in strictest confidence and used for academic purposes only. Your response to this questionnaire is highly appreciated.
+Please encircle the correct answer in each case or otherwise as stated.
+QI Please tick one box to indicate which of the following best describes your 'client type', and indicate number of staff employed*
+Number of staff1-56—101 1-3031-5051 +Developer clientPrivate clientPublic clientOthers (please specify)
+• staff to include alt those actively involved in all your projects
+02 How many years has your organization been in the construction business?	years
+Q3 How many projects has your organization completed in the past 5 years?	 projects
+04 What is the actual number of staff in your organization?  staff
+Q5 What is your turnover for the last financial year?	f .
+06 Which of the following will you say is your average contract size? (please tick a box)
+	Under f50 000	El million — under f 10 million
+	000 - under 	000	D €10 million — under El 5 million
+	- under fl million	Over E 15 million
+07 Once the decision to build has been taken, it is assumed that there are certain fundamental needs that must be satisfied by all projects. Below are some statements about some of these fundamental needs. On a scale of 1 to 7, where 1 = bottom mark (bm) and 7 = top mark (tm), what level of importance will you attach to each need. (Please encircle one number in each case)
+	bm	tm
+(a) The building should achieve some degree of ECONOMY	1 2
+(b) The building must FUNCTION as intended
+(c) The building must be SAFE throughout its construction and operating life
+(d) The building must achieve a minimum amount of QUALITY
+The building must be completed on TIME
+The building must have low RUNNING and MAINTENANCE COST
+(g) The building must be flexible to accommodate new uses at any time (h) Others (please specify)
+Enginecring. Construction and Architectural Management 1995 2 1. 57-76
+
+Q8 In order for the building to satisfy all your needs adequately, you need to assume responsibility on certain aspects of the project. On a scale of 1 to 7, where 1 = bottom mark (bm) and 7 = top mark (tm), what level of importance will you attach to each aspect of the project listed below? (Please encircle one number in each case)
+(a) You ensure that the project is well defined and properly formulated
+(b) You make sure that you have adequate finance to see your project1234567through and pay your invoices on time
+(c) You do ask your consultant to present you with the available1234567contractual routes1234567(d) You do pay enough attention to legal matters1234567		 You do instil the required level of urgency in consultants1234567		 You do pay enough attention to human factors, e.g. skill
+(g) You always make sure that the project implementation andI234567management is carried out adequately
+(h) You do your best to ensure that the project planning and design is1234567carried out correctly1234567		 You do pay enough attention to politics/social factors1234567(j) You insist on your project following the schedule duration as planned1234567
+(k) Others (please specify)
+APPENDIX D
+LIST OF RESPONDING CLIENTS
+McTaggart & Mickel Ltd
+London Underground Ltd
+William Hargreaves Ltd
+Shoprite Ltd
+Celtic Inns Ltd
+Paddington Churches Housing
+C A Holdings Ltd Redditch Borough Council
+Westminster City Council
+Arlington Securities
+PSA Services
+Dudley Health Authority
+Paul Caddick Development Ltd
+Bourne Tools Ltd
+Yorkshire Metropolitan Housing Association
+Northern Counties Housing Association
+British Rail Property Board Kwik Save Group
+Clay Colliery Company Ltd
+Birmingham City Council
+Enginccring. 
+1 234561 23456Chester-Le-Street District, County Durham Daventry District Council
+Lincoln City Council
+The Church of Jesus Christ of Later-Day Saints
+National Exhibition Centre
+McDonald's Restaurants Ltd
+Alfred McAtpine Homes Midlands Ltd
+Bovis Retirement Homes
+The District of Bolsover
+Ipswich Borough Council
+Exeter City Council
+The Royal Mail North East Division
+Clwyd County Council plc
+Cannon & Homes Development Ltd
+Smiths Industries Ltd
+Gibraltar Homes Ltd
+Collingwood Housing Group
+Colchester Borough Council
+Corby District Council
+and Architectural Management 1995 2 1, 
+
+7
+7
+	Kometa, 	et al.
+
+Clients' needs and responsibilities
+
+	Engineering, Construction and Architectural Management 1995 2 	57-76
+O Emerald Backfiles 2007
+
+Engineering, Construction and Architectural Management 1995 
+O Emerald Backfiles 2007
+
+
+
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+Clients' needs and responsibilities
+
+	Engineering, Construction and Architectural Management 1995 2 	57-76
+O Emerald Backfiles 2007
+
+Engineering, Construction and Architectural Management 1995 
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+	Engineering, Construction and Architectural Management 1995 2 	57-76
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+Clients' needs and responsibilities
+
+	Engineering, Construction and Architectural Management 1995 	57-76
+O Emerald Backfiles 2007
+
+Engineering. Construction and Architectural Management 1995 2 | 1. 57-76
+O Emerald Backfiles 2007
+
+Clients' needs and responsibilities
+
+Engineering. Construction and Architectural Management 1995 2 1. 57—76
+O Emerald Backfiles 2007
+
+	Kometa, 	et al.
+
+Clients' needs and responsibilities
+
+	Engineering, Construction and Architectural Management 1995 	57-76
+O Emerald Backfiles 2007
+
+Engineering. Construction and Architectural Management 1995 2 | 1. 57-76
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+Engineering, Construction 
+O Emerald Backfiles 2007
+
+Kometa, S.T. et 
+
+Clients' needs and responsibilities
+
+	Engineering, Construction and Architectural Management 1995 	57-76
+O Emerald Backfiles 2007
+
+	Construction and Architcctural Management 1995 	1. 57-76
+O Emerald Backfiles 2007
+
+Clients' needs and responsibilities
+
+Construction and Architectural Management 1995 2 | 1. 57-76
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+Kometa, S.T. et al.
+
+	Engineering, Construction and Architectural Management 1995 	57-76
+O Emerald Backfiles 2007
+
+	Engineering, Construction and Architectural Management 1995 	57-76
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+	Engineering, Construction and Architectural Management 1995 	57-76
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+APPENDIX B
+
+Clients' needs and responsibilities
+APPENDIX A
+
+	Engineering, Construction and 	57-76
+O Emerald Backfiles 2007
+
+O Emerald Backfiles 2007
+
+Clients' needs and responsibilities
+APPENDIX A
+
+	Construction and Architectural Management 1995 	57-76
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+Kometa, S.T. et al.
+
+	Construction 	57-76
+O Emerald Backfiles 2007
+
+	Construction 	57-76
+O Emerald Backfiles 2007
+
+Kometa, S.T. et al.
+
+	Construction 	57-76
+O Emerald Backfiles 2007
+

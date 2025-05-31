@@ -1,0 +1,324 @@
+﻿International Journal of Project Management Vol. 15, No. l, pp. 31—38, 1997
+Pergamon	Copyright C 1996 Elsevier Science Ltd and IPMA
+Printed in Great Britain. All rights reserved
+0263-7863/96 $17.00 + 0.00
+
+Risk analysis and management in construction
+Akintola S Akintoye*
+Department of Building and Surveying, Glasgow Caledonian University, Glasgow, G4 OBA, UK
+Malcolm J MacLeod
+IRISC Technical Services, International Loss Adjusters, 35 Seething Lane, London, EC3N 4AH, UK
+The paper describes, on the basis of a questionnaire survey of general contractors and project management practices, the construction industry's perception of risk associated with its activities and the extent to which the industry uses risk analysis and management techniques. It concludes that risk management is essential to construction activities in minimizing losses and enhancing profitability. Construction risk is generally perceived as events that influence project objectives of cost, time and quality. Risk analysis and management in construction depend mainly on intuition, judgement and experience. Formal risk analysis and management techniques are rarely used due to a lack of knowledge and to doubts on the suitability of these techniques for construction industry activities. Copyright 0 1996 Elsevier Science Ltd and IPMA.
+Keywords: Risk perception, risk analysis, risk management, project managers, contractors
+  
+Organizations from many industries have recognized the increasing importance of risk management, and many companies have established risk management departments to control the risks they are, or might be, exposed to. The construction industry and its clients are widely associated with a high degree of risk due to the nature of construction business activities, processes, environment and organization.
+  Risk in construction has been the object of attention because of time and cost over-runs associated with construction projects. Although, Porter), Healey2 and Perry and Hayes3 have expressed risk as an exposure to economic loss or gain arising from involvement in the construction process; Mason4 and Moavenzadeh5 have regarded this as an exposure to loss only. Bufaied6 describes risk in relation to construction as a variable in the process of a construction project whose variation results in uncertainty as to the final cost, duration and quality of the project.
+  It is generally recognized that those within the construction industry are continually faced with a variety of situations involving many unknown, unexpected, frequently undesirable and often unpredictable factor'. Ashley8 and Kangari and Riggs9 have all agreed that these situations are not limited to the construction industry; it is recognized that risk is built into any commercial organization's profit structure and is a basic feature of a free enterprise system.
+  Insofar as risk analysis and management is important to the activities of the construction industry, little is known
+
+*Author for correspondence.
+PM IS/I—Bregarding the industry response, and in particular the techniques employed for risk analysis and management. Simister 10 investigated the usage and benefit of project risk analysis and management in 1992, based on a questionnaire survey of 37 members of the UK Association of Project Managers. Simister's 10 survey was comprised of respondents classified into five work-related groups: defence industry (36%), management consultancy (36%), systemsbased information technology (12 telecommunications (12%) and engineering contracting (4%). The objective of the current study was to obtain feedback from construction contractors and construction project management practitioners on the following aspects of risk analysis and management:
+o Risk perception by the construction industry
+o Organizational risk management • Risk premium in construction projects e Management of risk • Current usage of risk management techniques.
+The research survey
+The need to manage risks in construction is relevant to all professionals and groups (client groups, design team, project management team, contractors, etc.) in the construction industry which are concerned with cost, time and quality. The current research concentrated on two categories of respondents: contractors and project management practices. The sample for the survey was a total of 100 top firms in the UK construction industry comprising 70 general contractors and 30 project management practices". The general contractors were selected randomly from a list of 100 contractors published in the 'Contractor File 1992 '12 The 30 project management practices were those advertising in Building during the period June 1994 to August 1994. Subject to limitation of the sampling, the firms surveyed represent a large proportion of the UK construction industry population. The total turnover of the firms surveyed (E7000 million) represents 2()% of UK contractors' output for 1994 and had 50,000 employees. All the project management organizations are bona fide practices providing a wide range of project management services.
+  The overall response to the survey comprised of 30 general contractors (CTR) and 13 project management practices (PM) representing a 43% response rate. The response rate resulted from an initial mailing addressed to the managing director of each firm and a reminder letter, after two weeks, to those organizations that had not responded to the original request. The response rate is typical of a construction industry questionnaire survey and cannot be regarded as biased considering Moser and Kalton's 13 assertion that the results of a postal survey could be considered as biased and of little value if the return rate was lower than 30—40%.
+  The questionnaires were completed by top management in the organizations (mainly directors and partners) and almost all of them (more than 90%) had over 10 years of construction experience. The respondents thus have requisite professional and academic qualifications. On the basis of position, work experience and educational and professional background, it can be inferred that the respondents have adequate knowledge of the activities associated with construction and associated risk.
+  Twenty-two per cent of the firms surveyed (all the 22 % are project management practices) have turnover less than E 10 million. Forty-nine per cent have turnover between E 10 million and E 100 million; 29% have turnover over E 100 million. From this distribution of the responding firms, it can be concluded that the survey covers a spectrum of small, medium and large firms in the UK construction industry.
+  Twenty per cent of the contractors, and 8% of the project management practices, have designated risk managers. This suggests that risk control is carried out as part of normal or regular activities of the firms rather than being designated, given that all respondents claimed to carry out risk analysis and management of the construction business, process and activities in their organizations. Most of the respondents (CTR = 67% and PM = 77%) did not have any formal risk management training. They claimed to be involved in risk management and the analysis of their perceptions of risks involved in construction does in fact suggest an awareness of what is involved in control of risk and its consequences.
+Risk perception
+Risk catalogue has been described as a combination of threat and vulnerability which occurs when the two conditions overlap 14 . A threat is something which has an adverse effect on the activities of an organization. A vulnerability is characterized by a physical system which, while being independent of any specific threat, allows a threat to be exploited. The impact of risk from threat catalogue and the frequency of occurrence of risk from the vulnerability catalogue determines the level of exposure to risk. William 15 on the other hand has categorized details of each risk factor into event, impact, actions and contractual; and used a process of project risk register to identify risks and to initiate the analyses for project risk management.
+  Risk perception is generally believed to be influenced by people's belief, attitudes, judgement and feelings. The report of The Royal Society] 6 claims that risk perception cannot be reduced to a single subjective correlate of a particular mathematical model, such as the product of probabilities and consequences because this imposes unduly restrictive assumptions about what is an essentially human and social phenomenon. Choffray and Johnson i7 and Ritchie and Marshall i8 have identified factors influencing the formation of risk perception including educational background, practical experience, an individual 's cognitive characteristics, the availability of information, peer group influence, etc.
+  While it is generally recognized that the foregoing factors may affect the respondents' perception of risk, they are not directly investigated in this study. However, in order to obtain the view of the industry on risk in construction, the respondents were asked to describe risk in construction projects.
+  The general contractors offered diversified opinions, quoted as follows:
+• "Factors which can adversely affect the successful completion of a project in terms of budget and schedule, which in themselves are not always identifiable" (Project Control Manager, Turnover = E 100 million, Employment = 2000).
+• "Construction is a risk business—the main contractor accepts all risks relevant to a contract in terms of cost, time and quality of performance" (Director, Turnover = E 130 million, Employment = 900).
+• "The likelihood of physical, contractual or economic conditions becoming more diffcult than those allowed for in the price" (Managing Director, Turnover = €80 million, Employment = 600).
+• "The opportunity to make a profit on a contract whilst satisfying the client quality, delivery and contract price requirements" (Deputy Managing Director, Turnover = E 100 million, Employment = 500 +
+• "Loss of money, loss of reputation, and a chance of an accident occurring to persons on property" (Director, Turnover = E25 million, Employment = 200).
+• ' 'The likelihood of unplanned events occurring" (Director of Business Development, Turnover E45 million, Employment = 68).
+• ' 'The degree of certainty that the financial objectives for each particular project will be achieved and the extent to which risk factors can be quantified at bid stage and monitored closely" (Group Director, Turnover = €250 million, Employment 2000).
+• ' 'Tender or on-site performance mistakes leading to quality under performance, cost over-run and an impact on all of these from a variety of unforeseen circumstances" (Finance Director, Turnover = €200 million, Employment 2000).
+• ' 'The probability of a construction activity costing more than allowed for in the tender" (Contract Manager, Turnover = f20 million, Employment = 60).  ' 'Cumulating liabilities that arise from a particular set of contract terms for a construction project" (Managing Director, Turnover El 70 million, Employment = 800).  "In safety terms, as any sequence of events which are likely to result in the possibility of injury" (Chief Execuüve, Turnover = E35 million, Employment = 170).  "Potential overspending against tender proposals" (Managing Director, Turnover = €50 million, Employment = 600).
+e "Evaluating the complexity associated with contracts, programming period and resource scheduling of labour and plant at tender stage" (Group Managing Director, Turnover = f80 million, Employment = 480).
+• "Financial—due to vague information, tendering procedure. Legal—due to action of others. Safety problems— due to the nature of construction business" (Group Marketing Director, Turnover = El 30 million, Employment = 600).
+  The views expressed by the contractors are generally risk elements associated with project objective'. In summary, the contractors perceived risk as the likelihood of unforeseen factors occurring, which could adversely affect the successful completion of the project in terms of cost, time and quality. One contractor, however, saw risk as an opportunity to make profit and not something that will always have an adverse effect.
+  The risk perception of construction by the project management practices were not markedly different from the general contractors. Some of their comments are quoted as follows:
+• "The activities/ocurrences which traditionally are likely (or to some degree will happen) to happen, and to have an adverse effect upon programme and/or cost' ' (Planning Manager, Turnover = E5 million, Employment = 35).  "Risk is uncertainty with regard to events and their effects which affects the project outcome in terms of cost, time, quality and any other relevant performance criteria" (Director, Turnover = E 10 million, Employment = 100).
+• "Something to be avoided or transferred" (Regional Director, Turnover = C6 million, Employment = 70).
+e "Comes in varying forms—most projects are high risk. People forget that construction is a people's business" (Commercial Director, Turnover = E3.5 million, Employment = 70).
+  The project management practices, generally , recognized that the consequences of risks directly affect the client and his objectives rather than their practices. This is not surprising as project management practices provide consultancy services on a fee basis and do not commit large volumes of resources to construction projects in the manner of contractors.
+Organizational risk management
+The respondents were asked to indicate why risk management (identification, analysis, assessment and control) is important to their organizations' activities. The following are a representation of the contractors responses:
+o To analyse and control risk as the key to profit, as construction is a risky business.
+o To ensure that we are right more often than wrong, as right management of risk in construction determines the ability to make profit.
+o To assess and ascertain project viability because construction development is a business with a high number of variables.
+and 
+o To minimize loss by risk management in an industry where even normal contracting causes diffculties.
+o To identify project risks and quantify the potential cost of each risk and plan for it; or work around it to alleviate the risk.
+o To determine if the firm is making an adequate profit on a particular project. The higher the risk the greater must be the potential reward.
+o To avoid unsatisfactory projects and to enhance margins.  To control factors which will deter completion of projects within budget and schedule.
+o To keep insurance premiums to acceptable levels, and reduce losses.
+  Project management practices and contractors have different reasons for using risk management. The former seek:
+o To limit professional indemnity claims.
+o To provide an understanding and control risks in the projects.
+o To allow appropriate measures to be taken, to control the effects of risks and provide cost contingency for clients.
+o To protect the firm's credibility and reputation—not of major importance in the past, but expected to become significant. Failure to manage risks on our clients' projects carries some commercial risk as well as loss of credibility and reputation.
+  The contractors generally agreed that the industry within which they work is associated with high risk and saw risk management as being essential to their overall construction activities in order to minimize business losses. By means of analysis and control of the risks that they are exposed to, they can maximize their business profitability. Although all respondents perceived risk in terms of project objectives of cost, time and quality, the contractors responses to the need for risk management showed most emphasis on risks associated with cost, understandably so given that this affects profitability.
+  Although the project management practices are concerned with risk management in relation to the client's objectives, the need to manage risk is important to them because of the need to limit professional indemnity costs and to protect the organization's reputation.
+Risk premium in construction
+Perry and Hayes3 and Mustafa and Al-Bahar 19 have identified some risks sources central to the construction activities. These are physical, environmental, design, logistics, financial, legal, political, construction and operation risks. As these risk sources influence projects performance in terms of time, cost and quality, it is not uncommon for these to be assessed individually and a premium placed on each of them. A risk premium strategy which is often used in construction projects is contingency allowance. Dey et al. 20 produced a catalogue of risks and contingency allowance in petrochemical construction project. The study by Dey et al. 20 described a systematic procedure for analysing project risk from the construction perspective. Ye021 and Dey et al. 20 described the contingency allowance for a high risk project as a combination of management contingency and technical contingency; both of which are required to achieve a project objective(s).
+  The premium placed on each of the sources of risk may depend on the risk exposure faced by individual firms from
+Table 1 Perceptions of premium placed on the sources of risk ( % of respondents)
+Contractors
+
+	4	3	2	1	4Project management practices	3	2	1Environmental (e.g. weather)0833332683048Political, Social & Economic (e.g. inflation)01766017104126149Contractual agreement (e.g. responsibilities)62317005531104Financial46380o165541o4Construction (productivity, injury, safety)1725428817621740Market/industry (availability of workload)31383101162174Company (corporate)83846o8182931184Development in IT08252542018392914Project (design information)34428883662470
+Extent of risk premium: 4 = high; 3 = fairly high; 2 = low; I = fairly low; 0 = indifferent.each of the sources, the likelihood of occurrence, the experience of the firm in dealing with the particular type of risk, the attitude of the firm to risk, the extent of impact posed by the sources, etc. Some of the risk sources are more important to the construction industry than the others and this is recognized by the different premium put on different risks associated with construction.
+  The respondents were asked to indicate the extent of premium their organizations applied to each risk source. The responses are summarized in Table 1. The organization risk premium index, representing the overall respondents' views of their organizations' premium on the sources of risk, is shown in Table 2.
+  The tables show that both the contractors and the project managers are quite similar in the order of importance attached to the sources of risk. The financial and contractual risks are most important. These are recognized as having most adverse consequences on the successful completion of construction project. Building contracts deal with the relationships between parties in the contract and the allocation of risks. Carr22 and Ashley23 advocate balancing of risk allocation within construction project by the two major parties to the contract (building owner and the contractor) but, building contracts and procurement methods seldom achieved this. Contractual risks are those associated with flaws in contract documents, inappropriate documents, or improper contractual relationships. The risk consequences or implications of contractual risks include claims and disputes, disruption of work, stoppages of work, lack of coordination, delays, and inflated costs6,24 Financial risk to contractors includes whether the building owner has enough money to complete the project, financial failure of the building owner or subcontractors, availability of money to the contractor in a suitable manner and time to enable the contractor to progress with the work, etc, Financial risk influences the cash flow of construction contractors; it is hardly surprising therefore that this source of risk is highly important for them.
+  Construction risks, or job site related risks such as availability and productivity of labour, soil and site conditions, material shortages and quality, site safety, etc. are important to the contractors unlike the project management practices because these risks are related to construction process on site. The attitude of project management practices to risk is expected to change in view of the current Construction (Design and Management) Regulations, 1994 (CONDAM) on health and safety, that demands that the employers' agents responsible for design and supervision should provide information on details of risks and avoid foreseeable risks to the health and safety of any person at work carrying out the construction work, etc.25
+Management of risk
+Methods of risk allocation take any one or combination of risk retention, risk transfer, risk reduction, and risk avoidance26-29
+  Risk retention, according to Williams and Heims30 becomes the only option where risk prevention or transfer is impossible, avoidance is undesirable, possible financial loss is small, probability of occurrence is negligible and transfer is uneconomic. Risk avoidance in construction is generally recognized to be impractical as it may lead to projects not going ahead or a contractor submitting an excessively high bid for a project. Risk reduction techniques as a result, in terms of potential impact or probability of occurrence, include the use of alternative contract strategies, different methods of construction, project redesign, more detailed and further in-depth site investigations, etc.31 Risk transfer is described by Perry and Hayes3 who identify four methods used in construction projects and contracts involving the relationships between client, contractor, subcontractor, design team, insurer and surety.
+  Table 3 shows the views of the respondents on how their firms tend to allocate risk involved in construction project. The standard deviations show a wide variation on the
+  
+Table 2 Index of organization risk premium
+ContractorsProject management practicesAll firmsEnvironmental (e.g. weather)
+Political, Social & Economic (e.g. inflation) Contractual arrangement (e.g. responsibilities)
+Financial
+Construction (productivity, injury, safety) Market/industry (availability of workload)
+Company (corporate)
+Development in IT
+Project (design information)2.33
+2.52
+3.40
+3.50
+2.93
+2.90
+2.50
+1.89
+2.691.69
+2.20
+3.54
+3.55
+2.50
+3.00
+2.58
+1.71
+3.082.05
+2.37
+3 .44
+3.50
+2.71
+2.95
+2.56
+1.81
+2.88Organization risk premium index (RPI) is defined as RPI —	Ei Pi , where Ei = ith extent of premium; and P. — — percentage of respondents.
+  
+Table 3 Respondents' perceptions of how construction projects' risks are allocated by their firms (as a percentage)
+Strategies for risk allocation (risk response)Contractors
+
+MeanS.D.Project management 
+
+Meanpractices
+S.D.All firmsMeanS.D.Retention
+Reduction
+Transfer
+Avoidance
+Total24
+21
+31
+24
+10023
+13
+21
+2027
+17
+39
+17
+10023
+14
+38
+2225
+19
+34
+22
+10023
+14
+26
+21  
+allocation of risks amongst the firms, suggesting that firms within the construction industry tend to treat risk allocation differently. However, the firms show more tendency to transfer risk associated with construction projects.
+  Table 4 shows the firms' strategies for transferring risks involved in construction projects. Most of the contractors (63%) use a 'back-to-back' sub-contract agreement to the main contract with specialist and domestic subcontractors, Another method popular with the contractors is insurance. The project managers choose to transfer risks using professional indemnity and through the wordings of contract conditions with client and designers. This is possible for project management practices because they provide professional services rather than site construction involving substantial direct resource commitment.
+Current usage of risk management techniques
+Techniques of risk analysis in construction projects include risk premium, risk adjusted discount rate, subjective probability, decision analysis, sensitivity analysis, Monte Carlo simulation, stochastic dominance, Caspar and intuition29-32
+  Methods of decision analysis are algorithms, mean end analysis, bayesian theory and decision trees. These provide decision-making tools in an uncertain environment. An algorithm contains a sequence of instructions for problem solving. Mean end analysis is a method of clarifying a chain of objectives to identify a series of decision points. The decision tree shows sequence of known choices (a number of alternatives) and their possible outcomes graphically in a tree form such that the decision maker can identify best alternatives that achieve the objectives of a major project. The decision tree method is useful in deciding methods of construction, choosing alternative projects, and in contractual problems such as whether to proceed with a claim and assessing the likelihood of a claim succeeding33
+  Monte Carlo analysis is a form of stochastic simulation. Using this method the probability of project outcome is obtained by carrying out a number of iterations, depending on the degree of confidence required. Caspar is a computer aided simulation for project appraisal and review. It is a project management tool designed to model the interaction of time, resources, cost and revenue throughout the entire
+Table 4 How risks are transferred by firms
+life of a project and it has capacity to evaluate the consequences of factors such as delay and inflation, and changes to the market or to production rates34 . Such computer-based methods recognize the dynamic project environment. The use of traditional methods which assess risk involved in projects in a deterministic way has been criticized for failing to take into account the sequential nature of construction management process35 . Huseby and Skogen35 are of the opinion that in a realistic risk model, project uncertainty must be modelled as a dynamic process in which the decision-maker can revise his/her plans as the project runs.
+  Subjective probability uses the experience gained from similar projects undertaken in the past by the decisionmaker, where decision-making is characterized by risk, to decide on the likelihood of risk exposure and the outcomes. Risk premiums in construction projects take the form of contingencies or added margins to an estimate to cover unforeseen eventualities. The amount of the premium varies between projects and is mostly dependent upon attendant risk and the decision-maker's risk attitude.
+  The respondents were asked to identify which of these risk analysis techniques they are familiar with, and ones that are being used by their firms for project risk analysis and management. Table 5 shows that the use of risk analysis techniques by the responding firms is generally low in construction projects with the exception of intuition/judgement/experience. This tends to support Birch and McEvoy 14 that the approach to risk analysis is largely based on the use of checklist by managers, who try to think of all possible risks and take appropriate action. Jamieson and Low36 have faulted this method of risk analysis by maintaining that, although it is possible to make a long list that is reasonably comprehensive, this approach gives little confidence that all risks have been identified. The table shows that most of the respondents are familiar only with sensitivity analysis technique (CTR = 53%, PM = 69%). This is followed by decision trees, Monte Carlo simulation and subjective probability.
+  Checklists based on intuition/judgement/experience which recorded the highest familiarity with respondents cannot be regarded as a formal technique. Although the sample from project management practices is smaller, the results tend to suggest that the project managers, compared with the
+  
+
+	Contractors	Project management practices
+No.No.To subcontracting (including specialist contractors)—on back-to-back subcontract agreement
+Contractual terms—qualification of tender, procurement route and contractual exclusions where possible
+To design teams/consultants
+To clients
+To insurance/professional indemnity
+Contractors19
+5
+6
+4
+1063
+17
+20
+13
+332
+2
+4
+315
+15
+8
+31
+23Table 5 Techniques of risk management (% of respondents)
+
+	Contractors	Project management practices
+Respondent familiar Use within organizationRespondent familiar Use within organizationRisk premium
+Risk adjusted discount rate
+Subjective probability
+Decision analysis
+Algorithms
+Mean end analysis
+Decision trees
+Bayesian theory
+Sensitivity analysis
+Monte Carlo simulation
+Stochastic dominance
+Caspar
+Intuition/judgement/experience27 17
+17
+3
+7
+27
+7
+53
+20
+0
+7733
+7
+23
+0
+13
+53
+3
+0
+7723
+8
+38
+8
+38
+69
+46
+08
+46
+23
+38
+31
+0
+0
+100  
+contractors, have more awareness of risk analysis and management techniques.
+  Almost all organizations depend on intuition/judgement/ experience to manage risks involved in construction. This is followed by sensitivity analysis (CTR = 53%, PM = 38%). The popularity of sensitivity analysis compared with any other formal techniques of project risk analysis and management is probably because it provides answers to a whole range of 'what if' questions, it is comparatively simple to use and has the ability to focus on a particular estimate28 The technique provides information on the project risk variables which are considered to be of potentially serious impact on project cost and time estimates. Other techniques such as subjective probability and Monte Carlo simulation require quantification of probability of occurrence and probability distribution of risk factors before the procedures involved in calculations can be undertaken. The computerbased techniques like stochastic dominance, Caspar, mean end analysis and algorithms are not used by the firms. With the exception of checklists and sensitivity analysis, these results generally contradict those obtained by Simister10 this could be explained by the work-related background of his respondents with some skewness towards IT-related fields.
+  The respondents were asked for the reasons why some of these techniques are not used in their firms. The responses from the contractors have been separated from the project managers.
+  The reasons provided by contractors for not using the techniques of risk analysis and management were:
+• Lack of familiarity with the techniques.  The degree of sophistication involved in the techniques is unwarranted for project performance.  Time plus lack of information and knowledge.  Doubts whether these techniques are applicable to the construction industry.
+• Most construction projects are seldom large enough to warrant the use of these techniques or research into them.  They require availability of sound data to ensure confidence.
+• The vast majority of risks are contractual or construction related and are fairly subjective, hence they are better dealt with based on experience from previous contracts undertaken by the firm.
+• It is diffcult to see the benefits.
+  The reasons provided by the project managers were particularly reflective of the services they provide to their clients:
+• Risk analysis of construction projects is seldom formally requested by clients—clients expect project management practice to set up projects risk-free.
+• Risk analysis in commercial terms is not always viable on projects.
+• Project risk management is about people not scientific models.
+• Lack of expertize in the techniques.
+  Lack of familiarity featured prominently amongst the reasons provided by the respondents for non-use of formal risk management techniques. This is followed by the claim that the amount of calculations involved using the techniques is unwarranted in order to meet that project's objectives of time, cost and quality. The comments are not particularly surprising considering the lack of formal training in risk analysis and management techniques by most of the respondents. Schon's37 assertion, supported by the respondents' comments, becomes relevant in the situation that "Managers have become acutely aware that they are often confronted with unique situations to which they must respond under conditions of stress and limited time which leave no room for extended calculation or analysis ". The evidence that the construction industry business management decisions, like most decision-making processes involving professionals (see Reflective Practitioners"), depends substantially on intuition and experience, rather than quantitative analysis irrespective of educational and professional qualification, is supported by the firms' attitudes to risk analysis and management techniques.
+Discussion and conclusion
+Risk elements associated with construction projects influence the time, cost and quality performance of the project. Risk management therefore becomes a continuing activity in project development, from inception and throughout the life of the project.
+  The responses to the strategies for dealing with risks in construction suggest that the industry is mostly risk averse. The contractors transfer risks to their domestic and specialist sub-contractors and through insurance premiums. Project managers resort to professional indemnity insurance to transfer risks associated with services provided to clients. Although, it is generally recognized that risk should be transferred to the party that is in the best position to deal with it, the process where a contractor transfers all risks involved in a project does not bode well for innovation initiative within the industry. Contractors have a tendency to contract out all the work packages involved in a project to sub-contractors and undertake 'contract management' as part of a strategy to reduce or eliminate their risk. The implication therefore is that the general contractors with the means to do so, either fail to or have no incentive to undertake research as part of the strategies to reduce the risks associated with their construction business activities. It is therefore unsurprising to hear that the construction industry ranks poorly in terms of research activities.
+  The questionnaire survey of contractors and project management practices within the UK construction industry shows that both perceive risk in construction as the likelihood of unforeseen events occurring which could adversely affect the potential completion of the project, i.e. in terms of cost, time and quality of performance. Although risk management techniques have been used in other industries for a long time, the construction industry has approached risk management in terms of individual intuition, judgement and experience gained from previous contracts. One major drawback of risk analysis techniques is that the more powerful and sophisticated the technique, the more data and time is required. Construction industry activity is constrained by time because construction production is mostly employed just-in-time for the client's production requirement. It is unsurprising that some of the respondents have identified project time constraint as one of the major reasons for not using risk analysis and management techniques.
+  The increased availability of computers, which has allowed the topic of project risk analysis to mature in other related field, does not appear to have made much impact on the tools being used for risk analysis and management in the construction process.
+  The need for the risk analysis assessment and management practitioners to develop proven techniques (such as risk simulation techniques) other than intuitive methods is endorsed by Ho and Pike38 who asserted that risk analysis should formalize managers' judgements about project uncertainty in a more precise way and should allow them to modify their judgement in the light of information available to them.
+  Most of the respondents are aware of what is involved in risk management. However, due to lack of familiarity, the industry uses few formal techniques of risk analysis and management involving calculations due to lack of familiarity. Ho and Pike38 also found that the major limitations most frequently found for application of risk analysis include managers' inadequate understanding of the risk analysis approach. These findings may have implications for the curriculum in Construction Management education. The implementation of project risk analysis and management, in view of the implications for construction business profitability, may demand education and training of the construction project managers and professionals in risk management techniques to bridge the gap between theory and practice.
+  Various options for dealing with this could be in the form of formal and/or informal education and training39 . Formal education could be postgraduate studies in risk management, which managers could undergo on a part-time basis; Glasgow Caledonian University, for example, currently run a fulltime/part-time postgraduate programme in Construction Management with an option in Risk Management. Informal education and training could be in form of CPD programmes organized by academic establishments or interest groups within professional bodies such as the Association of Project Managers. It may not be expected that this will be an immediate panacea, but it is a move in the right direction to re-engineer the industry. Ho and Pike38 , for example, are of the opinion that the increasing widespread use of microcomputers in financial modelling packages will add to the potential, ease of use and emciency of risk analysis in capital budgeting. The extent to which this can be achieved in the construction industry has det to be seen in view of low usage of IT in construction 
+  The respondents' doubts that risk analysis and management techniques are applicable to the construction industry calls for concern. Construction texts and construction research in related fields should address this issue if such techniques are to be of practical value to the construction industry.
+References
+I Porter, C E Risk Allowance in Construction Contracts M.Sc. Thesis, University of Manchester, UMIST (1981)
+2 Heale, J R 'Contingency funds evaluation' Transaction of American Association of Cost Engineers (1982) B3. I—B3.4
+3 Perry, J G and Hayes, R W 'Risk and its management in construction projects' Proceedings of Institution of Civil Engineers, Part l, June (1985) Vol. 78, 499-521
+4 Mason, G E A Quantitative Risk Management Approach to the Selection of a Construction Contract Provisions Ph.D. Thesis, Department of Civil Engineering, Stanford University (1973)
+5 Moavenzadeh, F and Rossow, J 'Risks and risk analysis in construction management' Proceeding of the CIB W65, Symposium on Organisation and Management of Construction, US National Academy of Science, Washington DC, USA, 19-20 May (1976)
+6 Bufaied, A S Risks in the Construction Industry: their Causes and their
+Effects at the Project Level Ph.D. Thesis, University of Manchester, UMIST (1987)
+7 Fong, S W 'Risk management' The Cost Engineer 25 (1987) 12—16 8 Ashley, D B Construction Project Risk Sharing Technical Report No. 220, The Construction Institute, Department of Civil Engineering, Stanford University, Stanford, CA, July (1977)
+9 Kangari, R and Riggs, L S 'Construction risk assessment by linguistics' IEEE Transaction of Engineering Management 36 (1989) 126-131
+10 Simister, S J 'Usage and benefits of project risk analysis and management' International Journal of Project Management 12 (1994) 5—8
+Il MacLeod, M J Perception and Management of Risk in the UK
+Construction Industry Unpublished M.Sc. Dissertation, Glasgow Caledonian University (1994)
+12 New Builder, Contractors File 1992, Who Does mat, a supplement to New Civil Engineer and New Builder (Edited by Winney, M) 45—49
+13 Moser, C A and Kalton, G Survey Meth(kls in Social Investigation Heinemann Educational, UK (1971)
+14 Birch, D G W and McEvoy, M A 'Risk analysis for information systems' Journal of Information Technology 7 (1992) 44—53
+15 William, T M 'Using a risk register to integrate risk management in project definition' International Journal of Project Management 12 (1994) 17-22
+16 The Royal Society 'Risk: analysis, perception and management' Report of a Royal Society Study Group, London (1992)
+17 Choffray, J M and Johnson, P E 'Measuring perceived pre-purchase risk for a new industrial product' Industrial Marketing Management 8 (1977) 333-334
+18 Ritchie, B and Marshall, D Business Risk Management Chapman and Hall, UK (1993)
+19 Mustafa, M A and Al-Bahar, J F 'Project risk assessment using the analytic Hierarchy process' IEE Transactions of Engineering Management 38 (1991) 46—52
+20 Dey, P, Tabucanon, T and Ogunlana, S O 'Planning for project control through risk analysis: a petroleum pipeline-laying project' International Journal of Project Management 12 (1994) 23—33
+21 Yeo, K T 'Risk classification of estimates and contingency' Journal of Engineering Management 6 (199()) 458—470
+22 Carr, R I 'Paying the price for construction risk' Journal of Construction Division, ASCE 103 (1977) 152-161
+23 Ashley, D B 'Construction project risks: mitigation and management' Proceedings of PMI International Symposium, Boston, USA (1981)
+24 Doherty, N A Corporate Risk Management McGraw Hill, New York, USA (1985)
+25 HMSO, Health and Safety, The Construction (Design and Management) Regulations No. 3140, HMSO (1994)
+26 Ribakoff, S 'Construction contract arrangements' Construction Risks and Liability Sharing Conference, American Society of Civil Engineers, Arizona, 24—26 January (1979)
+27 Perry, J G 'Dealing with risks in contracts' Building Technology and Management (April 1986) 23—26
+28 Flanagan, R and Norman, G Risk Management and Construction Blackwell, UK (1993)
+29 Raftery, J Risk Analysis in Project Management E & FN Spon, UK
+( 1994)
+30 Williams, C A and Heims, R M Risk Management and Insurance, McGraw Hill, New York, USA (1989)
+31 Toakley, A R and Ling, S M C 'Risk management and the building procurement process ' Innovation and Economics in Building Conference, Brisbane, Australia, (September 1991) 63—67
+32 The Association of Project Managers, 'Project risk analysis and management' in Project, The Bulletin of the Association of Project Managers (Compiled by Norris, C, Perry, J and Simon, P) 4 (April 1992)
+33 Thompson, P and Perry, J Engineering Construction Risks—A Guide
+(0 Project Risk Analysis and Risk Management Thomas Telford Services, London, UK (1979)
+34 Willmer, G Development of Risk Models for Engineering Construction Projects Ph.D. Thesis, University of Manchester, UMIST (1988)
+35 Huseby, A B and Skogen, S 'Dynamic risk analysis: the DynRisk concept' International Journal of Project Management 10 (1992) 160-164
+36 Jamieson, R and Low, G 'Local area network operations: a security control and audit perspective' Journal of Information Technology 5 (1990) 63-72
+37 Schon, D A The Reflective Practitioner: How Professionals 771ink in Action Basic Books, USA (1983)
+38 Ho, S S M and Pike, R H 'The use of risk analysis techniques in capital investment appraisal' in Risk Analysis Assessment and Management (Edited by Ansell, J and Wharton, F) John Wiley and Sons, NY
+(1992) 71-94
+39 Akintoye, A 'Construction management education in UK—A survey of the content of postgraduate taught courses' Construction Papers, The Chartered Institute of Building, No. 45 (1995)
+40 McCellar, T EDI in the UK Construction Industry Unpublished M.Sc.
+Dissertation, Glasgow Caledonian University, UK (1995)
+Dr Akintola Akintoye is senior lecturer in construction cost studies in the Department of Building and Surveying, Glasgow Caledonian University. He has presented papers at international conferences and has published widely in the subject areas of construction economics and construction management. His research interests include construction price and market modelling, construction risk management, and construction procurement.Malcolm J MacLeod holds a master degree from the Glasgow Caledonian University. His educational and professional background is in quantity surveying. He has worked with UK construction firms and quantity surveying practices on major projects. His research interest is in risk management of construction projects. He is currently working with an international firm of loss adjusters as a construction risk analyst.  
+Risk analysis and management in construction: A S Akintoye and M J MacLzod
+  
+	Risk analysis 	management in construction: A S Akintoye and M J MacLeod
+  
+32
+  
+31
+  
+
+  
+31
+  
+Risk analysis and management in construction: A S Akintoye and M J MacLzod
+  
+Risk analysis and management in construction: A S Akintoye and M J MacL.eod
+  
+32
+  
+31
+  
+Risk analysis and management in construction: A S Akintoye and M J MacL.eod
+  
+31
+  

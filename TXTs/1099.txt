@@ -1,0 +1,220 @@
+﻿Construction Management and Economics, 1990, 8, 399—414
+Methods and data used by large building contractors in preparing tenders
+MARTIN BETTS
+Construction Management and Economics Research Unit, School of Building and Estate Management, National University of Singapore, 10 Kent Ridge Crescent, Singapore 0511
+The process of submitting lump sum competitive tenders continues to be commonly practised by UK building contractors. Most tenders are based on a detailed analysis ofproject details and a detailed costing ofparts ofthe work to be done. Considerable resources are being devoted to the preparation oftenders in this way. Any means ofimproving the efficiency ofthis process would be very welcome to contractors and to the construction industry as a whole.
+  This paper presents a documentation ofmethods oftender preparation in theform ofa model ofthe tasks executed. This model is a description ofthe process in its most complex possibleform as currently executed and does not attempt to portray the tendering process as it is typically performed. Variations within the model have beenfound to occur between individual contractors andfor alternative means ofprocurement as well asfor differences in project complexity. However, the model is generally representative ofthe means by which tenders are prepared by large building contractors in the UK.
+  The model has been produced with the aim ofdocumenting items ofdata that are used. This has been done using techniques of structured systems analysis including data flow diagrams and a data dictionary. Resulting from this analysis is a definition ofdata potentially used by building contractors in tendering. This definition gives a better opportunityfor the more purposeful and complete application ofinformation systems to the tendering process as a means of improving its efficiency. The paper therefore provides a specification ofdata to be used in the development ofinformation management systems to support building contractors' tendering.
+Keywords: Tendering, building contracting, information systems, information management, structured systems analysis
+Introduction
+Contractors are continuing to obtain a significant proportion of their work through the submission of lump sum tenders under competitive conditions. This process is one that takes the contracting enterprise a considerable time and incurs considerable resources. It would appear that there is scope for the application of information systems to this area of the contractor's activity, but the majority of the proprietary systems available are estimating systems that could be judged to imitate the manual process in an ineffective manner. The use of such systems does bring some savings to contractors in the time and cost of tender preparation but more could be achieved with more comprehensive use being made of systems of information management.
+  It is held that one of the main reasons for the lack ofmore fundamental progress in this area has been the failure of those responsible for developing such applications to fully understand
+0144-6193/90 $03.00+.12 0 1990 E. & F.N. spon Ltd.
+the methods by which estimates and tenders are prepared and the data that is used in the process. To this end, a study was made of the means of preparing tenders by the larger UK building contractors. This study has been documented in the form of a model showing the interrelationships between tasks and all items of data that are used in the process.
+  Few details have previously been available of the methods by which building contractors prepare tenders and the data that are used. In addition, little has been known of how contractors' tendering procedures are changed to reflect alternative methods of procurement and other variables within projects.
+Early tendering models
+Earlier studies have examined the contractor's tendering process and models of the activities are available. The estimating practice committee of the Chartered Institute of Building (CIOB, 1983) have produced a code of practice recommending the stages of work that are required together with a description of how this should be done and example pro-forma documentation that may be used. Similarly, a study undertaken at the Building Research Establishment (BRE) (Britten, 1969) as part of the Data Co-ordination Study has resulted in a model of individual tasks of construction management and data used by each of them. This was used to derive a classification framework for construction data (Department of the Environment, 1972).
+  Some of the larger contracting organizations have themselves documented the method by which tendering should be carried out by their own staff. Those produced by Trollope and Colls, and Higgs and Hill were available during this study. Finally, a wider survey has been made of the work of the building contractor in both the tendering and post-contract phases of construction projects (Skinner, 1978). This work highlights the extent to which specific items of tender documentation prepared by consultants are referred to at each stage of these two phases of projects.
+The need for a further study to be made was based on the following factors:
+1. Not all of the above investigations sought to represent any commonality in the practice of the large building contractor sector of the industry.
+2. All were based on models of what is expected to happen or recommended to happen rather than observing actual processes.
+3. Only the BRE study modelled the tendering process from the viewpoint of the data that is passed through stages of tendering.
+4. All of the previous studies were specifically aimed at the process as executed under traditional selective tendering procedures and traditional contractual arrangements.
+5. All were carried out before the significant changes that have occurred both in the context within which tenders are prepared and the technology that is available for their preparation; changes that have occurred in the level of subcontracting are particularly relevant.
+Because of these factors, a new detailed model is required that shows all of the data used and produced by each of the tasks of tendering. The study aimed to construct such a model that was representative of the process as executed by the largest building contractors operating within the UK construction industry.
+  It was the intention that the model would represent fundamental stages in the process of tender compilation unrelated to a particular method of procurement or organizational structure to be found within a single project or enterprise. In the process of constructing the model, the previous studies referred to formed a useful foundation.
+The tendering system and data
+Before describing in detail the nature of the model itself, a discussion follows of the nature of the tendering system and the nature of the different types of data used in the system. This is done in order to clarify the scope of the study.
+  The approach to defining and describing tendering has been to analyse the constituent parts of the process. Representatives of industry have defined such parts in terms of identifiable stages of work that independently use and/or produce data. These identified parts have been termed tasks.
+  The definition of tendering scope has again been taken from representatives of industry and a consensus was established as being the range of tasks that are carried out between a decision having been taken by the contractor to submit a tender and the point at which such a tender is submitted to the employer's representative. This would equate with a systems view that sub-systems should lead to the achievement of a specific goal, in this case the submission of a tender. Estimating and tendering have been viewed using systems concepts by Green (1989).
+  The tendering system that is being studied is one that sees interaction between many different organizations and also between different parts of one organization. The system definition that has been used here is of those activities carried out by the different members of the main contractor or tenderer and any communications directly between this and other organizations.
+  The terms information and data both occur regularly in systems analyses. Information is regarded as a resource, which is combined with other resources in the design and construction of buildings. It is a fundamental resource of decision making. Information, in relation to an activity, can be defined as being composed of a combination of the 'knowledge' of those carrying out the activity, the 'experience' of the same people, and the data to which their knowledge and experience is applied. Knowledge has been defined (International Council for Building Research, 1978) as information acquired by the process of learning, and experience as information acquired by the process of applying knowledge in practice. A preliminary definition of data is therefore that part of information that is not in the form of knowledge or experience. A similar approach to defining data would be for it only to encompass that information that is recorded or committed to documentation. This assumes that all knowledge and experience is undocumented but that individuals are unable to retain an extensive memory of data.
+  The second stage of defining data for the purpose of this research is based on the dichotomy between that which is of relevance to the activity of design and construction generally as opposed to that which is specific to a particular project. Examples of the former would include building regulations, local bye-laws and product information, as opposed to project-specific data which would embrace the specification and measurement of the resources and activities required in construction. This distinction follows that adopted by McCaffer and Pasquire (1987). This paper is concerned exclusively with project-specific data.
+  The final stage of definition that has been used is based on drawing a distinction between data that is alphanumeric and that which takes a graphical form. This paper does not embrace the latter category but only that which is expressed in alphanumeric characters. Therefore, in summary and for the purpose of this paper, data is defined as that aspect of information which is documented in an alphanumeric form and which specifically relates to a single construction project.
+Structured systems analysis
+The general model produced is based on methodical observations of the tendering system using structured systems analysis. This is a series of techniques for examining currently used systems in order to trace the flow of data. Previous examples of the application of these techniques to construction have been found in the areas of a contractor's monitoring and control system (Fisher, 1984) and in a client's information control system (Carter, 1987). There have also been other studies that have looked at the use of the technique for a variety of purposes by contractors (Barton, 1985).
+  Other people have commented on data flow within contractors' organizations (Ndekugri and McCaffer, 1988; McCaffer and Pasquire, 1987), but the structured analysis techniques used here have not previously been used for the purpose of documenting observed general models of contracting practice in a refutable form.
+  The approach is to methodically and systematically study a system in order to construct data flow diagrams (DFDs) and a data dictionary. The former is a series ofcharts that schematically represent the way in which different stages of a system are related in terms of data that is passed from one to another. DFDs also show the relationship between tasks and documentation and the links between data that are external to the sub-system being studied. DFDs can exist at a number of levels within a sub-system. Those used in this study have been drawn according to the annotation used by Gane and Sarson (1980), as illustrated in Fig. 1.
+  A data dictionary is a schedule from DFDs which defines the different data entities and attributes within a model. The use of the term here differs from that use more often followed in database design where a data dictionary is a software file containing details of the location and nature of items of data within a physical system. The data dictionary contains details of data entities and data attributes where an entity has been defined as something about which information is stored in a system and an attribute as a data element which holds information about an entity. This form of analysis of data elements follows that of Howe (1983).
+  An example of the occurrence of an entity would be a 'tower crane' of the entity type 'plant item'. Attributes of a plant item would include its hire cost, its name or description, and the number of units of time it is required for a specific project. Again these are attribute types for which each individual occurrence of an entity would have a series of values. A table containing examples of entities and attributes is shown in Fig. 2.
+Developing the general model
+In the development of the model a detailed study was made of the complete process of tender preparation as executed by a sample of the UK's largest building contractors. The 20 largest contractors were all invited to participate in the study from which 12 offered to participate.
+A task or process which uses and / or produces data
+		A transfer of data entities between tasks.
+A sarce or destination of dato which is external to the defined sub - system.
+A temporary store of data usually in the form Of manual documentation.
+Fig. I. DFDs used in the present study (according to the annotation of Gane and Sarson, 1980).
+	Entity Type	Attribute Type
+PLANT ITEMCodeName
+Tower CranesHire Cost x pounds / weekTime Required
+42 weeks2ExcavatorY Dounds / week16 weeks3T ipper Lorryz pounds / week18 weeks	Entity Occurrence	Attri but' Occurence
+Fig. 2. Examples of entities and attributes.
+The identity of the 20 largest contractors was established by reference to the work of Greene & co (1984).
+  In its initial construction, the model was based on detailed and extensive discussions with a large number of head-omce and site-based staff of two organizations over a period of 4 months. The two organizations that were chosen were randomly selected from the 12 that had offered to participate. Discussions with staff were carried out in the form of structured personal interviews. The resultant model was verified with those staff consulted within these two organizations. This internal validation related to each task including its description, its method of execution and reference to the documentation used and produced.
+  The model was further verified by a personal interview-based questionnaire survey with representative staff of 9 of the 20 largest contractors. Each was asked to verify the model with regard to the content of its constituent parts or tasks, their order and sequencing, the
+description of their methods and whether the process would be followed in the same way for alternative forms of procurement. The external validity of the model was assessed by this survey.
+  This general model of tendering is therefore based on the observations of Il of the 20 largest building contractors. Two organizations formed the primary source of information from which the internal validity of the model was ensured and 9 further organizations were used to assess the model's external validity. The total of 1 1 enterprises that have participated in the study represents a significant and representative part of the large contractor population. They form between 60 and 70% of the largest 20 enterprises when measured by turnover, employed capital or number of employees and over 50% of the population of the largest 50 enterprises by the same measures. The model that has been produced can therefore be argued to be representative of typical practice by the largest building contracting enterprises in the UK.
+  The model has been completely documented as a full set of DFDs in Figs 3 to 13. The data flow diagrams are in two levels. It would be possible for DFDs to be produced at the tertiary or further levels depending upon the requirements for detail.
+  The data dictionary has been scheduled from these DFDs with entities listed together with their associated attributes. Attributes include those to be found within the manual system as observed together with extra coding attributes that would be needed to aid any information system application. This latter category consists largely of identifying codes that have been assigned to all entities to ease the use and implementation of the model. Figure 14 contains the full list of entities and attributes contained within the data dictionary.
+  The above two components of structured systems analysis therefore represent a statement of all data that passes through the tendering process. This statement of data is directly comparable with those facets of data which were shown by the Newcastle Polytechnic study (Hardcastle and Middleton, 1987) to be fundamental to the transfer of information between interfaces. All of those facets are entities here.
+  The form of this dictionary is unfamiliar to those responsible for the preparation of tenders and it has not been possible to fully validate this data dictionary with those individuals and organizations that participated. It has been possible to check all entries in the data dictionary against the contents of pro-forma documentation and this was done for the two organizations upon which the analysis was principally based.
+  This validation is not considered to be critical as all aspects of the model are intended as general statements from which all individual projects would differ. The set of tasks undertaken for a project and the range of data used in preparing any one tender would be sub-sets of the general specifications presented here. The use of these analysis techniques has resulted in a specification of data that flows through the generalized model of tendering.
+The model
+The overall model itself illustrates the complexity of operations that are involved in producing tenders but from the point of view of the application of information systems there are a number of details that are noteworthy. Figure 5 illustrates the range of activities required in sending resource enquiries, while Fig. 7 shows the significance of these enquiries, and the quotations that subsequently follow, to the process of costing resources. This reflects the increasing level of subcontracting by large building contractors and also the extent to
+
+Fig. 3. Tendering procedures: Primary level.
+
+Fig. 4. Project acquaintance: Secondary level.
+which other organizations besides the main contractor are used in the processes ofestimating and tendering. A significant risk transfer process is taking place here, but from an information systems viewpoint it is important to note how early enquiries and quotations must be initiated, as can be seen from the primary level diagram in Fig. 3. That this must be
+
+Fig. 5. Send resource enquiries: Secondary level.
+
+Fig. 6. Labour costings: Secondary level.
+
+
+Fig. 7. Resource costings: Secondary level.
+
+Fig. 8. Method formulation: Secondary level.
+	Co	Riqhts 
+Fig. 9. Optimize resource sequencing: Secondary level.
+
+Fig. 10. Optimize operation sequencing: Secondary level.
+
+Fig. l l . Produce tender programme: Secondary level.
+
+done within limited tender periods shows that a large amount of information management activity is necessary and that it must be done quickly. Any improvement in information systems would therefore offer considerable improvements in the emciency of this critical tendering activity.
+  The flow of data within the model illustrates a further information management problem. Entities and attributes of data are used and produced by different tasks, or passed between different organizations and are stored in different documents without any explicit attempt at co-ordination. Another feature of the model is that the contractor's activity embraces a large range of functions including estimating (Figs 6, 7 and 12), planning (Figs 8, 9, 10 and 11), buying (Figs 5 and 7) and adjudication (Fig. 13). Each of these activities requires information in different formats and this again creates an information management problem. Systems are required that enable documentation used by each of these functions to be made appropriate for their individual use.
+  The range of activities embraced within the model is large and this shows the complexity of the overall process. It must be completed in a limited amount of time and this in itself is a complex management problem. The model also illustrates the extent of interaction between the contractor and other organizations, which brings about a communications problem. There are different forms ofdocumentation produced but their number and extent are limited and these factors again illustrate that tendering is largely a problem of managing and coordinating information.
+  The inadequacy of current information systems can be exposed through this argument as most are individual systems that perform individual estimating, planning or buying functions, but do not provide an overall information management function.
+Rights 
+
+Fig. 13. Tender adjudication: Secondary level.
+Amendments to the model
+The model presented above is a general statement of how tendering may be carried out in its most complex form. For individual tenders on particular projects, by particular enterprises and under particular methods of procurement, the exact set of tasks and data used will be a sub-set of this generalized model. The nature of the variations to the general model can be descri bed.
+  The first difference that can be identified is between tasks and data used for different types of tenders. The nature of this difference is such that for more complex projects, although not necessarily for larger projects (Bennett and Fine, 1980), there is a tendency for the procedures to be followed more formally than on less complex projects. This refers particularly to the formality of documenting alternative construction methods, scheduling all resources and other points of detail that might be necessary for some projects, where such details are exceptions from the norm, but would otherwise not be required.
+  A second difference is between enterprises, and the differences here are of several forms. The first of these is scale, and although the model presented is based on the operations of larger contractors, in the course of the research, investigations were followed with some medium-sized and regional firms. The general principle that was again established was that processes were simplifications of the general model presented rather than significantly different in approach. Another difference with regard to enterprises is related to organization structure. In particular, differences arise when there are separate departments responsible for estimating, planning and buying activities. The major consequence of such differences is that
+
+ENTITIES
+Bulk operations
+Contractors
+Contracts
+Tenders
+Elements
+Parties
+Bulk resources
+Query
+Answer
+Increased Cost
+Categories
+Operation
+Preliminaries
+Work Package
+Sub-Contractor
+Quoting
+Organisation
+(Prelims)
+Quoting
+Organisation (Plant)
+Quoting Suppliers
+Corporate Resources
+Resource Usages
+Activities
+Resources
+Project
+Location
+Cost Centre
+Bulk resource usagesATTRIBUTES
+Code, Name, Description, Unit of Measurement. Quantity, Start Time, Finish Time, Duration, Operation, Whether sub-let.
+code, Tenders, Contracts, Name, Qualitative assessment of desire to win.
+Code, Value. Code, Value.
+Code, Name, Description, Area, Unit of Measurement.
+Code, Name, Address.
+Code, Name, Description. Unit of Measurement. Quantity.
+Code, Description. Specification of solution.
+Code, Description, Query.
+Code, Name, Forecast indices. Operation, Start index. Forecast cost increase.
+Code, Name, Units of Measurement, Quantity, Bulk Operation, Whether sub-let, Type of Costing, Resource Usages, Unit rate labour component, Unit rate Sub-contractor component, Unit rate materials component, Unit rate plant component, Unit rate preliminaries component, All-in unit rate, Start time, Finish time, Duration, Preceding operation, Increased cost category, Forecast increased cost. total cost.
+Code, Description, Related to, Amount, Unit of Measurement of amount, Whether quotes, Quoting organisation, Quote, Attendant costs, Total costs. Code, Name, Operations, Attendances, Sub-contractor, Quote, Attendant costs, Total costs.
+Code, Name, Work Package, Willingness to quote, Suitability to quote, Quote.
+Code, Name, Preliminary, Willingness to quote, Suitability to quote, Quote.
+Code, Name, Resource, Willingness to quote, Suitability to quote, Quote.
+Code, Name, Resource, Willingness to quote, Suitability to quote, Quote. Code, Name. Quantities, Start time, Finish time, Specification, Unit of Measurement.
+Code, Operation, Resource, Resource Quantity, Operation Quantity,
+Wastage factor, Type of costing, Production constants/outputs, Prices, Costs, Unit rate, Resource unit of measurement, Operation unit of measurement, Resource gangs, Start time, Finish time, Duration.
+Code, Name, Description, Units of Measurement, Operation, Start time, Finish time, Duration, Cost. Revenue, Whether subjected to detailed analysis.
+Code, Name, Specification, Units of Measurement, Quantity, Whether quote, Price, cost, Quoting supplier, Quote, Attendant cost, Quoting organisation, Quote, Start time, Finish time, Duration.
+Code, Name, Estimated cost, Tender price, Tender documents received date, Tender submission date, Completion of estimate date, Tender adjudication meeting date.
+Code, Name, Operation.
+Code. Name, Resource.
+Code, Bulk Operation, Bulk Resource.Fig. 14. Data dictionary.
+
+documents necessary for data transmission between departments are, or are not, necessary. The tasks that are carried out are largely the same, although formal reconciliation and meeting tasks brought about by departmentalization may not occur.
+  The final way in which the general model as presented above would be detracted from is related to the form of procurement used. This issue was directly addressed in the course of the work and an attempt was made to find if differences in procedure arise in tenders prepared under two-stage selective tendering based on bills of quantities — negotiated tenders with a
+	oovriaht 	Ri hts 
+single contractor based on partially completed design tenders for management contracts and tenders for design and build contracts. For negotiated tenders, the process was found to be practically identical to that under two-stage selective tendering with the few differences arising from specific references to tender documentation. For management contracts, the procedure was found to be broadly similar with major differences caused by the more formal and extensive way in which work packages were planned and decided upon and the way in which enquiries and quotations were organized. For design and build tenders, very few differences in the process were found other than that there would be additional design tasks required. The tasks in the general model presented here are practically all repeated in design and build tenders with the few exceptions being due to differences in tender documentation used. On the whole, we can conclude that the general model of tendering presented here is a good representation to which only minor modifications are made for differences in project complexity, type of enterprise and method of procurement.
+Applying the model
+Having constructed a detailed model of the way in which tenders are prepared and the data that are used in the process, it is important to understand the way in which this can be applied. Studying data flows within systems is an important exercise in itself in gaining a greater understanding of the way in which systems do or do not work. Such studies can also be used by those responsible for operating the systems to identify bottlenecks and other obstacles to a smooth flow as part of the activity of systems amendment. However, the major contribution that can be made by a data model of the type described is in the design of new information management systems.
+  The development of comprehensive information systems requires a number of different stages to be followed : analysing activities within the system; establishing data that are used in the process; analysing the inherent characteristics of this data; constructing a conceptual data model; and finally physically implementing the system. For effective information systems to be developed for tendering, we therefore need to follow each of these processes. The use of this model is therefore in documenting the first two stages of this sequence of events.
+  The subsequent activity in analysing the inherent characteristics of data flows and constructing a conceptual data model can utilize techniques of data modelling which have been well documented (Howe, 1983). These consist of analysing the characteristics of both the entities and attributes of data within the data dictionary to establish features such as: whether they are dynamic or static; when occurrences are first generated; whether they are confidential; whether superseded occurrences are to be retained; identifying keys of entities and attributes; and specifying the nature of the data items.
+  Approaches to constructing a conceptual data model can then follow a bottom-up sequence by considering relative characteristics of data attributes or a top-down sequence by considering the relationships between entities. These two approaches are known as relational normalization and entity—relationship modelling, respectively.
+  The application of the model in practice could follow one of two alternative approaches. Consulting systems developers may be able to exploit the definition of data flows and the description of the data used in recommending alternative tendering systems and in developing new information management solutions. Individual contracting enterprises may
+also be able to use the model as a starting point from which to document the data flow systems of their own organizations in deriving new procedures and in developing information systems for use in their own information management. Either way, the model would also provide practice with a description of how such systems would have to be adapted for use on different types of projects.
+Conclusions
+The work that is presented is a statement of the methods by which tenders are produced by large building contractors. A model has been produced which has been shown to represent general tendering practice for projects of differing size and nature, prepared by different enterprises and prepared under alternative means of procurement. The fact that very few differences in procedure have been found for these project variables, demonstrates that tender methodologies have more to do with the normal practices of individuals and organizations rather than the unique requirements of situations. This may be due to the fact that recommendations for tendering procedure variations for different requirements have not been specified, but may also reflect that procedures are being followed mechanistically without regard to the specific requirements of a situation.
+  This model has been derived from techniques of structured systems analysis such that a detailed statement has been prepared of all data used in tendering. The next stage in analysis of an information systems problem of this type would be to analyse the inherent qualities of the data dictionary constitutents. Techniques of data modelling exist for this purpose, such as relational normalization and entity—relationship modelling. For information systems to be more purposefully applied to systems problems requires that all data of reference are included and that the relationship between items of data in the system is based on their inherent characteristics rather than on perceptions of data relationships held by individual users or existing in current documentation. As such, a rigorous data model is required of the structure of tendering information systems. The model documented here is a necessary prerequisite to such a structure being designed. Physical implementations that may be made from time to time will depend upon the available technology in particular organizations at certain points in time. The data specification upon which implementation is based will not be influenced by such developments.
+  Further study that could usefully follow from this work would include extending the analysis to other aspects of building contractors' activities and also to the systems of other participants in construction projects. The potential benefits and scope for this are considerable. The techniques could also be applied to those types of data not included in this study.
+  The need for more advanced information systems in construction will always be present. However, the currently available technology is being held back by a lack of knowledge and understanding of where and how it can be applied. The approach followed in this paper is an example of how such knowledge and understanding can be attained.
+References
+Barton, P. (ed.) (1985) Information Systems in Construction Management. Batsford, London.
+Bennett, J. and Fine, B. (1980) Measurement of complexity in construction projects. SERC Research Project GR/A/1342.4, Final Report, University of Reading.
+	oovriaht 	Ri hts 
+Betts, M. (1987) Coordinated information retrieval for building contractors' tendering. Unpublished PhD Thesis, Polytechnic of the South Bank, London.
+Britten, J. (1969) Contractor's management and data co-ordintion. Building Research Station Current Paper CP9/69, Garston, Watford.
+Carter, D. (1987) The use of structured information systems in building contract administration. Proceedings CIB W-65: The Organisation and Management of Construction, Managing Construction Worldwide, Vol. 1. E. & F.N. Spon, London, p. 437.
+Chartered Institute of Building (1983) Code of Estimating Practice, 5th edn. CIOB, Ascot.
+Fisher, N. (1984) Towards a general model of project monitoring and control systems used by broadly similar and successful building contractors. In Proceedings of the CIB Symposium W-65, Vol. 4. Waterloo, Canada, pp. 1351—62.
+Gane, J. and Sarson, D. (1980) Structured Systems Analysis. Prentice-Hall, Englewood Cliffs, NJ.
+Green, S.D. (1989) Tendering: Optimization and rationality. Construction Management and Economics 7, 53-63.
+Greene & Co (1984) Investment in Construction — 1984. Greene & Co, London.
+Hardcastle, C. and Middleton, R. (1987) Structuring of building data for application and transfer. In Building Cost Modelling and Computers (edited by P.S. Brandon). E. & F.N. Spon, London, pp. 299-309.
+Howe, D. (1983) Data Analysis for Database Design. Arnold, London.
+International Council for Building Research (1978) The evaluation of information systems for the construction industry, Report No. 47. CIB, Rotterdam.
+McCaffer, R. and Pasquire, C. (1987) The interchange and use of data by contractor's functions. International Journal of Construction Management and Technology 2, No. 4, 48—65.
+Ndekugri, I.E. and McCaffer, R. (1988) Management information flows in construction companies. Construction Management and Economics 6, 273—94.
+Skinner, D.W.H. (1978) An analysis of the utility of bills of quantities in the process of building contracting. PhD Thesis, University of Aston, Birmingham.
+	400	Betts
+
+Preparation of tenders by large contractors	401
+
+
+
+ri ht 0 2001 . All Rights Reseved.
+
+
+
+ri ht 0 2001 . All Rights Reseved.
+
+	400	Betts
+
+Preparation of tenders by large contractors	401
+
+
+
+	ri ht 0 2001 . All 	Reseved.
+
+Preparation tenders by large contractors	407
+
+	ri ht 0 2001 . All 	Reseved.
+
+400	Betts
+
+Preparation of tenders by large contractors	401
+
+
+
+	0 2001. All 	Reseved.
+
+Preparation of tenders by large contractors	401
+
+	0 2001. All 	Reseved.
+

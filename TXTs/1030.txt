@@ -1,0 +1,1531 @@
+﻿Construction Management and Economics (1993) 11, 221—245
+Construction Management and Economics: A review of the first ten years
+MARTIN BETTS I * and PETER LANSLEY 2
+i School of Building and Estate Management, National University of Singapore, 10 Kent Ridge Crescent, Singapore
+2Department of Construction Management and Engineering, University of Reading, PO Box 219, Reading, UK
+Received 20 February 1993; revised 16 March 1993
+Construction management and construction economics are internationally recognized research fields which enjoy support from a strong and growing community of researchers, scholars and practitioners. Specialist academic and professional journals which serve the fields are relatively new. One of the prime journals, Construction Management and Economics, celebrated ten years of continuous publication in 1992.
+  In the ten years since its inception, Construction Management and Economics has grown and has become more international. Whilst it has sharpened its focus on project-level production-oriented issues it has reflected the varied activities and interests of those involved with construction management and economics research and scholarship. Analysis of the pattern of publications in the journal and of their citations suggests a strengthening of the academic base of papers although there is little evidence that this is achieved by approaches to research that are clearly driven by, or contribute to, theory. In addition, patterns of citations suggest that studies are becoming increasingly inward-looking.
+  Whilst there has been remarkable stability in the general characteristics of papers there have been significant changes in the identities of frequent authors and of key contributing institutions. A new generation of contributors has emerged.
+  The paper documents these developments in the journal. In addition, through the design of a metaclassification model, it makes tentative proposals of dimensions by which research in the discipline can be defined and described.
+Keywords : Bibliometrics, research trends, discipline review, meta-analysis.
+  
+Introduction
+Construction Management and Economics (CME) was first published in Spring 1983. 1992 marked ten years of the journal's existence. The journal has grown. In 1983 there were three issues, 14 papers and a total of 274 pages. By 1992 the journal had doubled in size. There were six issues, 28 papers and a total of 548 pages.
+  This paper considers the papers published during the first ten years of CME. It identifies frequent contributors, their employers and countries of origin. It also analyses the issues which have formed the focus for the papers and the way in which those issues have been addressed. A more extensive analysis and discussion is provided by Betts and Lansley (1993).
+The paper will contribute to the debate about the
+*Address for correspondence: Department of Surveying, Salford University, Salford M5 4WT, UK.
+0144-6193 C 1993 E. & F.N, spondevelopment and maturity of construction management and economics (referred to as construction management throughout the rest of this paper) as a distinct field of academic enquiry and as a separate discipline, it will act as a historical record of published research in CME and it will satisfy the curiosity of those involved with construction management as researchers, teachers or practitioners. It will also help to focus the debate on whether construction economics can be distinguished as a separate discipline or sub-discipline from construction management or whether the two should be considered as just different facets of a single discipline. However it should not be considered a guide to research and scholarship in the field of construction management in general, nor should it be taken to reflect an individual author's standing in the research community. There are many other journals which would have to be considered before a true reflection of the field could be provided. Each of these has a distinctive orientation in terms of the types of papers published, their authorship and readership.
+  The paper has been written against a background of increasing pressure on researchers and academics to justify their activities. The effect of such pressure has been to place greater emphasis on communication of research findings and of scholarly debate. In the academic world, communication is central to both the promotion of knowledge and the development of reputations and careers. Whilst there are many forms of communication channel, those which are the most permanent and durable are forms of published literature, especially refereed academic journals. An established refereed journal is a repository of good and novel insights gained from data-based research, scholarly enquiry, rigorous analysis of experience and careful logical debate about an issue or phenomenon.
+  However, the academic journal plays a much bigger role than just facilitating communication. Those controlling research policies at a national and institutional level and those who oversee careers look towards publication in academic journals as an indication of the quality of research.
+  Whilst the individual journal paper represents a fixed record of an individual's research contribution, the analysis of large numbers of papers can reflect important patterns and biases in a discipline. The study of patterns of publication has increased in importance (Sengupta, 1992) and is now judged vital by many of those who influence research policies at national and institutional level and by academics themselves. Indeed in some fields, such as economics, the application of these methods is well established, with citation analysis, for example, having emerged as a plausible, if not naive, means of measuring academic performance.
+  The study of patterns of publication is important to more than researchers and policy-makers. Research plays a significant role in the activities of many of those engaged in higher education, and has a major influence on the structure and content of higher education courses. In turn higher education has a significant influence on the constitution of professions (Reed and Anthony, 1992). Fundamental developments in theoretical knowledge which eventually influence the development of professions are likely to be reported in journals such as CME. In addition, because of the twoway relationship, the latest and emerging innovations in practice are likely to emerge within journals such as CME.
+  Within all fields of study there is a need for knowledge of the ways in which an academic discipline develops and for strategic overviews of main dimensions representing the subject matter and classifications of relevant research methods and tools. In many disciplines, studies that address these concerns are termed meta-analyses. Their emergence signifies that a discipline has become suffciently coherent to warrant study and academic enquiry into the field itself. When a subject begins to experience research into its research, one interpretation is that this signifies that an underlying theory about the discipline is starting to evolve. The discipline of construction management is new. One way of progressing its evolution is to reveal its structure and to develop its underlying theory. As a contribution to this process, this paper provides a meta-classification of the subject matter and research approaches within the field. The classification has emerged on the basis of both theoretical considerations and the current infrastructure of the discipline and is tested by empirical study of the journal.
+  The remainder of this paper is devoted to this exploration of CME and, as far as the journal is able to reveal, the development of construction management as a discipline. After a brief review of previous research, a number of questions are asked about the journal. These concern the nature of the authors, their employers, and, of potentially greater interest, the characteristics of the papers. Following a description of the methodology, the main body of the paper presents a series of analyses of the papers, each supported by a number of tables and figures. Where appropriate, relevant statistical tests have been used to support the findings.
+  The section following the main body of the paper discusses the possibility that a distinctive style of CME paper may be emerging. It then explores whether the characteristics of the paper reflect those of wellestablished discipline or one in the making. The concluding section suggests that despite the gathering of momentum which has been built upon the mainstream management literature and traditions of research, the discipline is becoming rather inward-looking, selfreferential and lacking in its guidance from and contribution to theory. However, this may be compensated for by the largely empirical research approach which tends to dominate the discipline. It is also concluded that the development of construction economics has lagged behind that of other parts of the construction management discipline.
+Previous work
+Construction research, including management and economics, has been subject to considerable scrutiny in recent years. For example in the UK and USA there have been many studies of both the national research systems and those of other countries, particularly Japan.
+In the main these reviews have not considered patterns of published output from academic research.
+  So far none of the papers which have appeared in CME have reviewed the state of development of construction management as a discipline. Some papers have considered sub-disciplines, such as project management (Bennett, 1983) and design-cost evaluation (Newton, 1991). These have reviewed past progress, presented new perspectives and have suggested future paths for development, but they have not considered the overall evolution of the sub-discipline. Others have considered various aspects of the process of innovation and have led to proposals for more effective research and implementation processes.
+  Despite the shortcomings inherent in the analysis of just one academic journal, such an inquiry is both timely and valuable. CME is the only independent established international journal with a mission which directly corresponds to that of the main international community of researchers in the field of construction management, represented by CIB Working Commissions W65 on Organisation and Management and W55 on Building Economics. Of course, other journals have missions which either overlap with part of CME's mission, for example in the field of project management, or are focused on a particular specialism, such as information technology.
+  This review is timely because at present, in most countries, the place of construction research within national research programmes and within the university system is being redefined. This is leading to major changes in the way in which research is funded and in the expectations of funders of research, researchers and the potential users.
+  The analysis of single mainstream journals as case studies is well established and occurs not just in the core scientific and social scientific disciplines. Examples may be found in cardiovascular medicine (McMurtrav and Ginski, 1972), learning (Summers, 1979), educational statistics (Prosser et al., 1987), urban economics (Allen and Rau, 1991), environmental management (Shogren and Durden, 1991) and real estate (Chung and Kolbe, 1992). Generally these analyses have provided a historical record, a 'parsimonious recap' of a journal's development, and an opportunity to identify 'research fronts' and 'classic' papers and to describe the information characteristics of a journal and a field or discipline. They have also provided an opportunity to assess the editorial policies and to develop recommendations for future editorial policies, publication 'gaps' to be filled and specialisms worthy of encouragement (for example, Lehnus (1972), Summers (1979), Prosser et al. (1987). This paper attempts to cover many similar issues but in particular it seeks to provide a partial map of the discipline of construction management.
+The research questions
+Clearly the key issues which the analysis could cover are constrained by the nature of CME and its editorial policies, and within these, the self-selecting nature of those who seek to publish in it and their particular interests, orientations and skills. Yet, as a case study, it does represent a good starting point for a discipline review. In making this review, some of the obvious yet important questions are:
+l . Who has published in CME?
+2. What has been published?
+3. Where was it written?
+4. What literature has been cited?
+5. Is a style of CME paper and research emerging?
+  All of these questions can be modified and then influenced by a series of further questions about whether CME differs from other journals, whether it is changing over time and about its influence and role within the development of the discipline. Space constraints prevent the exploration of all of these issues in this paper but they are addressed in the main report from which this paper is drawn (Betts and Lansley, 1993).
+The data
+The journal
+CME is an international refereed journal which was established in 1983 by Professor John Bennett of the University of Reading at the suggestion of the publishers E. & F.N. Spon. The publishers, which specialize in construction-related books and journals, were subsequently acquired by Chapman & Hall. At the beginning of the tenth year of the journal, the editorship passed jointly to Professor Ranko Bon and Dr Will Hughes of the University of Reading.
+  From the outset, the journal aimed to provide a home for reports and serious papers which recognized and reflected the fundamental changes taking place in construction, in its technology (especially information technology), markets, business environment, professional relationships and methods of organization. At the time the journal was established, university departments of construction management were young and drew on little by way of established theory or research methodology (Bennett, 1983). Thus, a principal objective was to forge links between academia and industry. This was reflected in the initial composition of the Editorial Board and the early introduction of the Practitioner's Guide.
+Table 1 The size of CME over ten yearsYear19831984 198519861987	19881989199019911992Issues
+Number of papers
+Number of pagesa3
+14
+274	3	3
+19	17
+276	2723
+16
+268 4	4 24	24
+366	3824
+26
+3724
+28
+4446
+37
+5846
+28
+548 Includes editorials, indexes, book reviews and other announcements.  Two mergers took place during the first decade of the journal. Construction Papers, which was launched by CIOB in 1982, was merged with CME in 1983, and the International Journal of Construction Management and Technology, which had strong links with ARCOM and which started in 1987, merged with CME in 1989. Both CIOB and ARCOM have representatives on the Editorial Board.
+  During the ten-year period neither the explicit objectives nor editorial policies of the journal changed significantly. Changes of emphasis as a result of the appointment of new editors and a significantly more academically-oriented Editorial Board in 1992 were not apparent in the tenth volume. However, it is reasonable to assume that in the early years the editor would have been faced with a rather different set of issues, establishing and developing the journal, than those experienced once it had become established. For this reason the analysis of the characteristics of the journal in two fiveyear periods may be particularly appropriate, the hypothesis being that one may correspond to its formative years and the second to its maturing period. Care needs to be taken not to confuse the development of the journal with the development of the discipline, although without doubt each is closely related to the other.
+  All papers in CME from 1983—1992 were included in this study but book reviews and editorials were excluded. There were ten volumes appearing in 40 issues with 233 papers involving 261 different authors from 28 different countries. An indication of the size of each volume and the growth in volume size is given by Table 1. The total number of authored pages in the papers was 3476. Of the 233 papers, 107 were authored by single authors, 104 by two authors, 15 by three authors and seven by four authors. Each paper contains a title, the names of the authors, their affliations and their address. Most papers conclude with a reference section with full bibliographic details of the literature cited in the paper.
+  The journal is abstracted by three abstracting agencies. ABI Inform has published full abstracts and applied its general management codes and descriptive terms for all papers since 1988. The RIBA Architectural Database provides abstracts of selected papers of architectural interest. The other abstracter is Cambridge Scientific Abstracts through their ISMEC services (Information Services in Mechanical Engineering). Again, this is selective. The journal is not included in the major citation indices, such as the Science Citation Index or the Social Science Citation Index, and therefore it is not possible to analyse the journal for its citation impact in other journals and disciplines. This also restricts the impact the journal might otherwise make in other disciplines.
+The method
+Developing a database
+Because of the incomplete coverage by the three abstracting agencies, it was necessary to develop completely new databases and classification frameworks. Two databases were created, one for authors papers and one for references.
+  For the second of the databases, a major problem was encountered with the volume of references. For this reason only half of the papers were considered for citation analysis, with all citations from papers in the years 1983, 1985, 1987, 1989 and 1991 being considered. For the even years, although not all citations were included, all citations of references to papers in CME were included to enable complete assessment of the level of self-citation by the journal.
+  An important methodological issue was in constructing a classification framework for the subject and style of the papers. A number of attempts were made in this area before a satisfactory solution was found. Eventually an approach based on multiple independent classifications was adopted. The resulting framework classified the subject content of each paper in six ways, four of which are described in this paper, and the style of each paper in two ways. This multi-faceted classification provides a meta-model for the characterization of the discipline of construction management. Such classifications are well established within construction-management practice as a means of structuring information, for example, CI/ SfB and within bibliographic retrieval systems, for example, ABI/Inform. The meta-models which such classifications imply are important for the analysis of a discipline, inter-relating different areas of study and CLASSIFICATION METHOD
+Category — Sub-categories
+SUBJECT
+Industrial/ business
+Industry performance
+Industry structure
+Markets and investment patterns
+Construction industry development
+Codes, compliance, standards
+Human factors
+Safety
+Productivity
+Motivation, leadership, teamwork Education, training
+Professions
+Firms, organizations in the construction industry
+Business strategy and planning
+Production planning at the firm level
+Innovation, response to change
+Organization structure, information flow and communications
+Project management
+Management — general
+Strategy
+Organization, procurement, contracts
+Planning, scheduling, systems
+MIS and IT
+Payment and incentives
+Financial management
+Evaluation of projects and products, funding
+Cost/price modelling, estimating
+Tender strategy, bidding Cash flow
+Legal
+Liabilities, claims
+Technology
+New methods/innovation Plant selection
+LEVEL OF ANALYSIS
+National/ Industry
+Professionals/ Individual
+Firm Organization/ Multi-Project Organizations Client
+Project
+Product
+Figure 1 Methods of classification of papers
+identifying emerging or neglected themes. The categories within the six dimensions discussed in this paper are given in Fig. 1 and definitions are to be found in Appendix l .
+  Their derivation is described here as a means of demonstrating the way that theory drives empirical enquiries. The rationale for the meta-model arises out of a theoretical understanding that the main determinants CLASSIFICATION METHOD
+Category — Sub-categories
+STAGE OF BUILDING LIFE CYCLE
+Environment
+Societal environment
+Industry environment
+Design
+Urban planning
+Feasibility
+Design
+Prepare Describe Contract
+Tender
+Construct
+Plan
+Construct
+Post-Construct
+Use
+Maintenance
+Refurbishment
+Demolition
+Project Cycle in general
+Not applicable or classifiable
+SECTOR
+Building
+Civil engineering
+Building and civil engineering
+Housing
+Process plant, engineering/mechanical engineering General (applies to several sectors)
+SOURCES OF INFORMATION
+Reviews
+Case studies
+Empirical data
+CONTRIBUTION OF PAPERS
+General insights and descriptions
+Model testing or fitting
+Model building
+System building
+Theory building/modifying
+of the nature of construction-management research come from the multi-disciplinary background of its knowledge bases, the many organizational levels within the industry, the multiple stages through which construction projects and products move in their life cycle, the professional differentiation that exists between parts of the sector, the geographical distinctions which can be drawn between parts of the world that are served by construction-management research and the distinctions within different types of research process. These give rise to eight dimensions that can be defined in detail.
+  The model has two groups of dimensions, one concerned with content and the second with style. It is proposed that these are the two principal means of characterizing research in the discipline. On content, the nature of construction management is such that four clearly distinguishable dimensions can be defined. The first of these is the class of subject; this is the set of terms that describe the academic discipline basis. These arise from the multi-disciplinary origins of the discipline and are similar to the breakdowns that are used at a higher level by research bodies such as CIB. This is an important means of relating a discipline to bodies of knowledge.
+  The second content dimension is level of analysis. This distinguishes the discipline in terms of the organizational level at which the research can be applied. Within construction there are organizations and activities that operate at different levels. The construction project is a dominant level for many but construction enterprises and national bodies are examples of other potential levels of application.
+  The third content dimension of the meta-model is temporal and recognizes the different phases through which construction projects move. This arises from the peculiar nature of the objectives of much of construction-management research. This is a dimension relevant to the professional disciplines within the field. Indeed these often demarcate themselves and their roles on this basis. This dimension describes the stage at which research may be applied.
+  The final major content dimension concerns the sector at which the work is addressed. This reflects also some professional demarcations within the field and the variability within the products of the construction sector. Different researchers do, or do not, see significant differences between buildings and engineering infrastructure and conduct research addressing the needs of them separately or together depending on their viewpoint.
+  The other two dimensions of the content classification have not been developed to any great extent because of their inapplicability to the contents of the journal. However, a theoretical understanding of the nature of the discipline leads to the proposal that they should be included in the tentative model of the discipline's dimensions. These relate to the development orientation of research and reflect the international nature of the field and the different economic concerns of countries. The second then attempts to classify different parts of the world into groups for whom construction-management research requirements and priorities are distinctly different.
+  The two style dimensions of the meta-model reflect a process view of research which consists of inputs, activities and outputs. The first dimension is concerned with sources of information and primarily concerns inputs. The second is related to contribution and has closer links with research activities and outputs.
+  These eight dimensions are presented as an initial model for the characterization of the discipline of construction management.
+  All papers were examined to see if they could be obviously assigned to one category within each of the classifications. This was done independently by the two authors. The initial level of agreement was high and almost all differences were reconciled. On three subject dimensions (that is, class, level and life cycle) initial agreement was 86 0 , 91 0 85 0 0 respectively and on the remaining dimensions it was absolute. For the two style dimensions the initial agreement was lower at 76 0 0 for source and 70 0 for contribution. After further consideration the level of agreement for all classifications rose to almost 100 0 . Those very few papers for which agreement could not be reached remained unclassified or unattributable on the relevant dimensions.
+Weighting of papers
+Within the bibliometrics literature a range of approaches have developed for assessing the contributions of individual authors to a journal and to jointlyauthored papers. Four measures were considered; unweighted and weighted papers and unweighted and weighted pages. An unweighted paper is assigned to an author, department or institution if their name appears as any one of the authors. A weighted paper is a fraction dependent upon the number of authors. The same principle applies to the number of pages.
+  Despite the intention of the new editors of the journal Bon and Hughes, 1992) to differentiate between papers' and 'notes', all papers have been deemed of equal importance. This is supported by a general finding that papers with a large statistical content seem to require more space than those which are more descriptive, without these papers necessarily being of greater intrinsic merit. Indeed, there is the view that a short succinct paper can provide as much valuable comment and insight as a much longer treatise. The longest papers were by Leopold and Bishop (1983a, 1983b whose paper was published in two parts and was 62 pages long for the analyses presented in this paper it has been treated as two papers), and by Bennett and Ormerod 1984), 39 pages long. The shortest were by Beeston 1986) and by Srinivasan and Harris (1991) each at five pages and both incidentally shorter than the single research note to have appeared which was seven pages in length (Quah, 1992). This large range in the length of
+1	Ofori, G.6.7511013624.752	Lansley, P.R.4.7568.58640.753	Skitmore, R.M.3.8375.171103.834	Laufer, A.3.8362.17981.51.335	Arditi, D.3.1636712.1616	Scott, D.34665217	Lowe, J.G.34141218	Cusack, M.M.3363639	Skibniewski, M.2.8331.33582.8310	Betts, M.2.7547732.7511	Bennett, J •2.562.51101.5112	Gray, C.2.544722.513	Hughes, W.P.2.539661.5114	Harris, F.C.2.530600.5215	Runeson, G.2.525290.5216	Low, S.P.2.523.5322.5172.3328.33472.33Table 2 Most frequently published authors (ranked by weighted papers)
+RankAuthor1983-921983-871988-92Weighted papersWeighted pagesUnweighted pagesWeighted papersWeighted paperspapers supports the use of weighted pages for many of the analyses.
+Analysis and results
+The reviews in this section are based principally on weighted papers as the main determinant and weighted pages as the second. In most cases, the analyses consider the pattern of publication over two five-year periods (1983—1987 and 1988—1992) as well as over the complete ten-year period. Some analyses have drawn on the results of statistical significance tests which have considered differences in the distribution of papers for a classification either over time or when cross-tabulated against a second classification. In these cases the significance levels, which are shown in the relevant tables as probability levels, have been used to establish whether the distribution of papers between the two time periods or the respective classes within cross-tabulations can be considered to be different. On occasion, some of the smaller categories in the tables have been combined into an 'others' category.
+Who has published in CME?
+This question essentially relates to the structure of that part of the research community which has published in CME: whether it is stable or changing; whether publication is based on a hard core of regular contributors or whether it is shared amongst a large and diffuse group with members who publish infrequently. The answers to these questions will reflect in part the nature of academic leadership in the discipline, an issue which although not explored in great depth in this paper will be the subject of a subsequent publication.
+  Initial analysis of the author data reveals a situation common to most journals of very few authors who have made several contributions and many authors with few Table 2). The five most frequent authors contributed 6.75, 4.75, 3.83, 3.83 and 3.16 weighted papers and were involved with 8, 6, 6, 6 and 6 papers respectively. Over the period 5 0/0 of the authors, that is 13, have accounted for 19 0/0 of the papers and 20% of the pages. However, those who enjoyed high publication rates in the first five years of CME were less prominent in the second five years. This suggests that since it was established the journal has eventually attracted a new group of major contributors and may reflect the evolution of the reputation and position of the journal over the period and the growth in its familiarity to potential authors. The changing identity of regular authors may also indicate the careful steps taken by the founding editor in ensuring contributions from a number of well-established researchers and commentators in order to develop the journal in its early years.
+  Analysis of the level of author concentration (Table 3) shows that this has been growing over time. In the first period the most productive 5% of authors produced 15 0 0 of the papers and 14% of the pages whereas in the second period the most prolific 5% of authors produced 17 0 0 of the papers and 18 0% of the pages. Whilst the
+  
+Table 3 Level of author concentration
+1983-921983-871988-92Author weightedAuthor weightedAuthor weightedNumber Papers ( 0 DPages ( 0 0)Number Papers ( ' o)Pages (Number Papers ( 0 0)Pages ( 00)Top 1 0o
+Top 5 0
+Top 10 03
+13
+266.6
+18.9
+30.86.9
+20.1
+31.41
+5
+1 14.4
+15.2
+28.24.4
+13.8
+24.72
+9
+196.0
+17.7
+30.28.0
+18.2
+30.2  
+crude number of papers per author is lower than for other journals overall, it would appear that the level of author concentration of CME is similar to that for the Journal of Urban Economics, a journal which has been chosen for comparison because of a recent detailed analysis described by Allen and Kau (1991). It is, however, generally lower than that found for real-estate journals by Chung and Kolbe (1991). These authors ascribe such a low concentration to the relative youth of their field and speculate that author concentration may become greater as a field matures.
+What has been published in CME?
+This question is concerned with the stability of the discipline, as far as it is reflected in CME; whether it is focused or diffuse; the level at which issues are analysed; the information sources used, the type of information generated and the opportunity for readers to use the papers strategically or operationally within the organizational settings in which they work. These are the dimensions of the meta-model of the discipline whose theoretical derivation was discussed earlier. Clearly these issues are fundamental to answering the question of whether a discipline exists.
+  For this second research question, the summary results for the classification of the papers and some cross-tabulations of different classifications showing trends over time are shown in Tables 4—1 1 and Figs 2—7. The latter should be interpreted with care as some apparent trends may be of little significance when limited bibliometric data is broken down into such fine time periods. However, these figures do give some indication of the development of CME over time.
+  A quarter of the papers were concerned with financial issues and a further quarter based on project-management issues (Table 4, Fig. 2). Industry-based papers (20%) and those principally concerned with human aspects (12 0 0) also form sizeable proportions of the total. Papers concerned with issues at the level of the firm or total organization account for 9 0 0 of the papers. Few relate specifically to technology (6%) or law (2 0 0).
+  Since the journal's mission does not strongly embrace technology, the low level of technology-related papers may not be surprising. In itself this does not suggest any
+Co ri ht 
+deficiency in this dimension of the meta-model. However, that so few law-related papers should have appeared is a surprise. In part this reflects the traditionally low level of academic activity in the field of construction law; a tradition which has recently been broken with the rapid development of specialist research centres and postgraduate courses in the field. This illustrates how the meta-model may be more appropriate to future research in construction management rather than to historical analyses. Also, it would be wrong to judge either technology or law as being unimportant. Those papers which have appeared have, because of their relative rarity, been particularly significant especially in the way in which they have addressed the interfaces between either technology or law on the one hand and general management issues on the other.
+  By level of analysis, more than half of all papers are project-based (53 0 ) ) with national (20 0 y) and enterprise 19 0 0) level papers accounting for most of the rest Table 5, Fig. 3). Few papers reflect a concern with client perspectives or issues (3 0 0), with the formation and development of the professions (3 0 ) ) or with construction materials and components (2 0 0). The validity of this dimension of the meta-model is challenged from this evidence. Over the 10 years, the planning and construction stages of the project life cycle have attracted the most papers (28 0 0) whilst the earlier stages emcompassing the description of the project, contractual matters and tendering have attracted 17 Table 6, Fig. 4). Contributions related to the initial stages involving urban planning, feasibility and design account for 14 0 of the papers. To these might be added 9 0 of the papers which concerned the full project life
+
+cycle, most of which have taken as their starting point the feasibility study. Papers concerned with the industrial and societal environment account for a further 1 7 1 ) . Given their importance in developed construction markets, the use, maintenance and refurbishment phases have received little attention (3 0 0).
+  Over 86 0 of the papers were concerned with the building or building and civil engineering sectors, with only 5 0 being clearly focused on civil engineering Table 7, Fig. 5). This shows evidence of a meta-model dimension whose importance, while traditionally great may be diminishing.
+  
+Table 4 Classification of papers by subject
+Subject1983-921983-871988-92PapersPercentage PapersPercentage PapersPercentage	Industry	45	19.5	17	19.1	28	19.7
+	Performance	11	4	7
+Structure	5	2	3 Markets	11	4	7
+	Development	8	3	5
+	Codes	7	3	4
+	Professions	3	1	2
+	Human	29	12.5	10	11.2	19	13.4
+	Safety	5	1	4
+	Productivity	9	3	6
+	Motivation	11	4	7
+	Education	4	2	2
+Firms	22	9.5	9	10.1	13	9.2 Strategy	5	3	2
+Production 2 1 1 Innovation 6 2 4
+	Structure	9	3	6
+	Project management	58	25.1	24	27.0	34	23.9
+	General	7	2	5
+	Strategy	7	3	4
+	Organization	13	8	5
+	Planning	21	10	11
+	MIS	5	1	4
+	Payment	5	5
+Financial	59	25.5	23	25.8	36	25.4 Evaluation	17	11	6
+	Modelling	20	8	12
+	Tender	12	2	10
+	Cash Flow	10	2	8
+Legal	5	2.2	2	2.2	3	2.1 Liabilities	5	2	3
+	Technology	13	5.6	4	4.5	9	6.3
+	New methods	6	1	5
+	Plant	7	3	4
+	Unattributable	2	1	1
+	Total	233	90	143
+  Table 8 and Fig. 6 show a fairly even spread of papers based on reviews (32 0 ), case studies (39 0/0) and empirical data (29 0 0), with the latter category becoming more important over time. Similarly, no one category in the contribution classification dominated although the insights category was the most frequent (34 0/6) (Table 9, Fig. 7). This also shows that contributions were made fairly evenly across the categories with the exception of the theory-building category (5 0 / ).
+  For four of the classifications, subject (Table 4), level of analysis (Table 5), sou.rce (Table 8), and contributionTable 10) there has been remarkable stability between the two 5-year periods. However, within the subcategories of the class dimension there would appear to be a decline in the proportion of papers dealing with project organization and financial evaluation and an increase in those relating to tendering and cash flow. On the whole this evidence suggests support for the validity of the meta-model.
+  For the other classifications there have been significant changes over time. The classification by life cycle (Table 6) shows a significant change in emphasis30Number of papers	Number of papers
+
+between the two periods. This is almost entirely because of a fall in the proportion of papers concerned with urban planning, feasibility studies and design and an increase in those concerned with the stages of describe, contract and tender. There has also been a significant change in the distribution of papers by sector (Table 7). This is a trend away from papers strongly related to building and towards construction, a term which embraces building and civil engineering.
+  Various cross-classifications of the papers reveal other significant associations. For example, papers pitched at the national level are most often based on reviews (41 0 (D rather than any other source, those at the enterprise level on empirical data (50 0 ) ) and those at the project level on case studies (48%) (Table 9). A similar but weaker picture emerges with respect to the class of paper. Case studies are most frequently used by papers concerned with project management, reviews by those concerned with industry issues and empirical data by papers concerned with human issues.
+When contribution is considered (Table I l) thesuggestion is that with the exception of the theorybuilding category for which there are few papers, papers with a level of analysis at either the project level or enterprise level contribute fairly evenly to all of the other four categories (insight, model testing, model building, system building) whilst those at national level most frequently make a contribution in the form of insights (60 0 0) and rarely contribute to system building. Similar trends are to be found with respect to the class of paper. There is a relative abundance of papers relating to financial management which have a model-building contribution. Very few papers on the management of the firm contribute in this way.
+  The relationship between the source of information and contribution is strong. Reviews tend to provide insights (58 0 D, case studies relate to all contribution categories, except theory building, but especially to system building (37 0 D. Empirical data contribute most often to model testing (41 0 0) but not to system building.
+  These cross-tabulations are very important in showing the relationships between the dimensions of theTable 5 Classification of papers by level of analysis
+Level of analysis1983-921983-871988-92No. of papersPercentage No. of papersPercentageNo. of papersPercentageNation19.71921.12718.9Professional73.033.342.8Enterprise18.91820.02618.2Client62.622.242.8Project12352.84550.07854.5Product52.122.232.1Unattributable20.911.110.7Total23390143 Test for association between level of analysis (excluding unattributable) and time, = 0.688; 6 df, or combining small categories 7.2 =0.468; 3 df.
+Copyright 
+  
+Table 6 Classification of papers by life cycle
+Life cycle1983-921983-871988-92No. of papersPercentage No. of papersPercentage No. of
+papersPercentageEnvironment
+Societal environment416.7415.617.5Industry environment351025Design
+Urban planning213.7221.19.1Feasibility1697Design1486Prepare17.27.823.1Describe1037Contract13112Tender17314Construct27.527.827.3Plan301317Construct341222Post-project3.44.42.8Use
+Maintenance
+Refurbishment
+Demolition
+Project cycle229.41011.1128.4Unattributable2812.01112.21711.9Total23390143Test of association between main groupings and time, Z2 =14.343; 6 df•,
+  
+Number ot papers
+20
+15
+10
+5
+o vol 1 & 2	vol 3 & 4	vol 5 & 6	vol 7 & 8 vol 9 & 10
+Figure 4 Papers by life cycle:	, environment; design; CJ , prepare;	, construction; 	, postproject; E: J project cycle;	, unattributable
+meta-model. These dimensions are clearly inter-related and further evidence of the nature and strength of these inter-relationships is required.
+Where was it written?
+The sources of the publications can be considered in a number of ways, for example the name of the institution, the type of institution, and the country of origin (Tables 12-17).
+  This question can provide insights into the institutional structure of the discipline, for example whether the discipline is strongly centred around a small number of key institutions in particular countries with specific academic and professional orientations. In turn this provides information about the accessibility of the
+Number of papers
+
+Figure 5 Papers by sector: , building; , building and civil engineering; , civil engineering;  , other.
+.
+Table 7 Classification of papers by industry sector
+                       1983-92 Sector
+No. of papers1983-871988-92Percentage No. of
+papersPercentage No. of
+papersPercentageBuilding8335.64752.23625.2Building and civil engineering11951.13033.38962.2Civil engineering114.744.474.9Housing73.055.62Petro-chemical52.122.232.1Materials10.4010.7All sectors41.722.221.4Unattributable31.33 2.1Total23390143	Test of association between sector and time (combining all small categories), 2 - —20.75; 3 df•, p <O.I	
+Table 8 Classification of papers by source
+
+	1983-92	1983-87	1988-92
+Source	
+	No. of	Percentage No. of	Percentage No. of	Percentage
+	papers	papers	papers
+
+Review7431.83033.34430.8Case study9139.13842.25337.1Empirical data6829.22224.44632.2Total23390143discipline, whether it is bounded by national or professional cultures, and the nature of patterns of communication within the research community.
+  Table 12 provides simple counts of weighted papers and pages by the titles of the academic departments from which each paper has originated. The area covered by the journal is clearly at the junction of the broader
+Number of papers
+35
+30
+25
+20
+15
+10
+5
+O
+Figure 6 Papers by source:  , review; Z, case study; , empirical data.
+Co ri ht 
+disciplines of civil engineering, architecture, management and the social sciences. Whilst most papers have come from departments of civil engineering there has been a movement away from 'construction' and 'management' departments towards those with a 'building' and 'engineering' background. This trend is clearly illustrated in Table 13 which groups the titles of
+Number of papers
+30
+25
+20
+15
+10
+5
+o
+Figure 7 Papers by contribution: , insights; model testing; C] , model building; system building , theory building.
+  
+Table 9 Analysis of source by level of analysis, contribution and class
+Source
+Review
+No. of papersCase studyEmpirical dataPercentageNo. of	Percentage papersNo. of	Percentage papersLevel of Analysis
+Nation (46)1941.31634.81123.9Enterprise (44)1329.5920.52250.0Project (123)
+Class3629.35948.02822.8Industry (45)1942.21226.71431.1Human (29)724.1827.61448.3Firm (23)730.4939.1730.4Project management (58)2034.52848.31017.2Financial management (59)
+Contribution rns1Éfits C7Yj1525.4
+54.42339.02135.6Model testing (53)815.11732.12852.8Model building (45)920.02248.91431.1System building (45)715.63475.648.9Theory building (11)763.6218.2218.2Overall7431.89139.16829.2
+Tests of association between:
+level of analysis and source, 72 17.011; 4 df; subject and source, X2 = 13.77; 8 df.
+contribution and source, 12 = 69.54; 8 df; p<O.1
+Table 10 Classification of papers by contribution
+1983-92
+Contribution
+No. of papers1983-871988-92PercentageNo. of papersPercentageNo. of papersPercentageInsights7933.92932.25035.0Model test5322.72022.23323.1Model building4519.32022.22517.5System building4519.31718.92819.6Theory building114.744.474.9Total23390143and time, Z =O.820; df.departments into generic headings. Even after removing the dominant influence of Reading University's Department of Construction Management and Engineering, and the recent prominence of the National University of Singapore, the trend remains. However, this table may be affected by the increasing level of internationalization of the journal and the consequent influence of the differing terminologies used to describe construction departments. It may also reflect changes in the titles of departments rather than a real underlying change in thesources of contributions. It should be noted that totals in Table 13 exceed the total number of pages in the journal because many department names contain more than one generic root.
+  Overall, there is little evidence of a discipline which can be clearly identified by a consistent organizational location or boundary within academic institutions. Indeed, the discipline is accessible to academics working in a broad range of departments many of which are not principally oriented towards construction management.	Test of association between contribution 	4 
+  
+Table 11 Analysis of contribution by level of analysis, class and source
+ContributionInsights No.Model test No.Model bid
+No.	oSystem bld
+No.	o• OThry bld
+No.Level of analysis
+Nation (46)
+Enterprise (44)
+Project (123)
+Class
+Industry (45)
+Human (29)
+Firm (23)
+Project management (58)
+Financial management (59)
+Source
+Review (74) Case study (91)
+Empirical (68)
+Overall (233)28
+13
+30
+28
+7
+ 5 22 10
+43
+16 20
+7960.9
+29.5
+24.4
+62.2
+24.1
+21.7
+37.9
+16.9
+58.1
+17.6
+29.4
+33.97
+10
+32
+6
+9
+6
+12
+18
+8
+17
+28
+5315.2
+22.7
+26.0
+13.3
+31.0
+26.1
+20.7
+30.5
+10.8
+18.7
+41.2
+22.78
+7
+27
+6
+5
+1
+9
+22
+9
+22
+14
+4517.4
+15.9
+22.0
+10.3
+17.2
+4.3
+15.5
+37.3
+12.2
+24.2
+20.6
+19.33
+9
+30
+3
+5
+8
+14
+9
+7
+34
+4
+456.5
+20.5
+24.4
+6.7
+17.2
+34.8
+24.1
+15.3
+9.5
+37.4
+5.9
+19.30 5
+4
+2
+3
+3
+1
+7
+2
+2
+11Tests of association between:
+level of analysis and contribution, 12 =29.02; 8 df; p <0.1 class and contribution, 53.63; 16 df; p<0.l (J source and contribution, 1 2 = 69.54; 8 df; p < O. | 0
+
+Table 12 Names of the most frequently published departments (ranked by weighted papers)
+Rank Department name1983-921983-87 1988-92Weighted papersWeighted pagesWeighted papersWeighted papers1	Civil Engineering49.21673.5914.7334.482	Building28.56427.99721.573	Construction Management24.33433.332.428.834	Architecture13.51954.595	Surveying7.33128.8334.336	Construction Management & Engineering6108.567	Business69468	Building & Estate Management5.563.523.59	Construction & Environmental Health573510	Architecture & Building Engineering4.569.513.511	Economics4.16642.51.6612	Construction Engineering & Management451.51313	Architecture & Building3.1657.161.661.514	Quantity Surveying359315	Architecture & Design Science235216	Social Sciences2311.50.517	Built Environment23011
+  
+It would appear, however, that all are concerned with issues of management or economics, at least in a generic sense, and most are in some way linked to construction. The number of papers from departments of economics and business also show that the discipline has become recognized and accepted as worthy of attention by those working in mainstream disciplines.
+  Evidence of the emergence of new institutions and new authors is given in Table 14. Whilst the institution with the greatest number of papers is Reading University, this position may be explained by its role in the development of the journal especially in the first five years. However, not only has Reading's position become less prominent but of the ten universities which
+Table 13 Generic names of the most frequently publishing departments (ranked by weighted papers)
+RankDepartment type1983-921983-871988-92Weighted papersWeighted pagesWeighted papersRankWeighted papersRank1
+2
+3
+4
+5 6
+7Engineering
+Construction
+Management
+Building
+Architecture
+Social Sciences
+Surveying75.55
+46.83
+45.16
+44.22
+26.32
+13
+10.831048.45
+777.33
+724.66
+648.46
+395.66
+204.83
+198.3319.23
+22
+20
+11.66
+8.83
+4.33
+63
+1
+2
+4
+5
+7
+656.32
+24.83
+25.16
+32.56
+17.49
+9.33
+4.831
+4
+3
+2
+5
+6
+7Table 14 Most frequently publishing institutions (ranked by weighted papers)
+RankInstitution1983-921983-871988-92Weighted papersWeighted pagesUnweighted pagesWeighted papersWeighted papers1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24 25
+26
+27
+28
+29
+30Reading
+National of Singapore
+Loughborough
+Technion
+Salford
+Wales
+Heriot Watt
+Bristol Polytechnic
+Melbourne
+Bath
+Illinois Institute of Technology
+University College, London
+New South Wales
+Wolverhampton Polytechnic Georgia Institute of Technology
+Purdue
+Liverpool Polytechnic
+Ulster
+Institute of Occupational Health
+Sydney
+Hong Kong
+National Bureau of Standards Tennessee
+Asian Institute of Technology
+King Fahd, Petroleum & Mineral
+Massachussetts Institute of Technology
+Obafemi Awolowo
+Colorado
+West Indies
+Benin24
+13.5
+10.5
+9.66
+7.32
+6
+5.5
+5
+4.5
+4.5
+4.16
+4
+4
+3.83
+3.5
+3.33
+3
+2.5
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2447.5
+202.5
+152
+131.34
+131.34
+83.5
+79
+73
+82.99
+66
+52
+77
+43
+42.83
+38
+39.33
+46
+30
+36 35
+34 31
+30
+27
+27
+24.50
+24
+23
+22
+21695
+293
+329
+195
+195
+114
+103
+73
+182
+103
+139
+51
+80
+55
+74
+92
+82
+72 35
+68
+46
+60
+45
+42
+38
+48 35
+2213
+2
+3.5
+5
+1.5
+2
+5
+2.5
+1
+2.16
+2
+1
+2
+1
+1
+1
+1
+1
+1
+111
+11.5
+7
+4.66
+7.32
+4.5
+3.5
+2
+3.5
+2
+2
+3
+3.83
+3.5
+3.33
+1
+1.5
+2
+2 1
+1
+1 2
+1
+2
+2
+1
+1
+2All institutions are universities unless shown otherwise.
+contributed the largest number of papers in the first 5 years, only four were amongst the top ten in the second 5 years. It is noteworthy that an institution outside the UK has become the major contributor in the second 5year period. Some of the changes in relative positions are substantial as are changes in the absolute number of contributions.
+Table 15 Concentration ratios of contributing institutions (1983—92) (ranked by weighted papers)
+
+	1983-92	1983-87	1988-92
+
+No.Weighted PapersPagesNo.Weighted PapersPagesNo.Weighted PapersPagesTop 1 0
+Top 5 0
+Top 10 0o1
+7
+1310.3()
+32.9 C)
+44.1012.90 0
+•o
+46.60O1
+3
+614.4')
+25.60
+34.6018.20
+28.70
+36.901
+5
+98.000
+29.000
+39.7 •o32.40
+42. I o  Table 15 shows the extent to which papers have been drawn from some particularly prolific or core departments. Over the period seven departments (5%) accounted for about a third of the contents of the journal. In the first five years three departments (5%) accounted for about 27% whilst in the second period five departments (5%) accounted for just over 30 0 Thus whilst more departments have been involved with the journal, contributions have become more concentrated. Table 16 shows that academic institutions are by far the greatest source of papers. Industry and commerce (signified by the term private practice), the public sector and research institutes have contributed relatively few. Indeed, the number of papers from these three sources has fallen.
+  The analysis of contributions on a country basis to the journal has produced some surprises (Table 17, Fig. 8). For a UK-based journal it is not surprising that 45 0 0 of the papers are from UK organizations or that a further 25% should come from those countries with a strong tie to the UK through their educational and professional systems. Of course the journal does not reflect all of the academic work being carried out in the discipline and it is inevitable that because of its origins it will be biased towards UK and the Commonwealth. North American authors, and others, have often viewed the journals published by ASCE as the prime outlet. Also, although not strongly represented in the journal, the northern
+European countries, with the exception of Germany and France, are widely acknowledged as having played a key role in establishing the discipline. Israel, however, a country which has one of the most active construction research programmes in the world, is well represented in CME.
+  The table shows the increasing international base of the journal. Between the two periods the contribution from the UK has risen 18 0 but on a proportionate basis it has fallen from 54 0 to 40 0 of the papers. The USA, whose contribution has risen by 104 0 0, accounted for 14%) of the papers in the first period and 17 0 0 in the
+RankInstitution type1983-921983-871988-92Weighted papersWeighted pagesWeighted papersWeighted papers1
+2
+3
+4
+5University
+Private practice
+Polytechnic
+Research institute
+Public sector183.5
+19.1
+16.5
+10.5
+1.82760
+298
+240
+139
+1562.2
+11.5 9
+6
+1.3121.3
+7.6
+7.5
+4.5
+0.5Table 16 Institution types
+second. Papers from those countries with professional systems similar to that found in the UK (that is, Commonwealth countries, South Africa and Ireland) have risen 115 (h) , a proportionate increase from 20% to 27 0  . Nevertheless there is little to suggest that CME has become attractive to authors in countries other than those which use English as a first language or as the principal business language.
+What literature is cited?
+For research question 4, a detailed study was made of references in all papers in odd years from 1983 to 1991. This amounted to a total of 1982 citations, close to half of the citations for the whole of the ten volumes of CME. For journals, some interesting changes between the fiveyear periods can be seen. The dominance of CME and the main ASCE journals is evident with them collectively forming close to a quarter of all journal references.
+  Inevitably, questions relating to citations are as controversial as the practice itself. For a new discipline they can provide insights into the level of development of research practices, the extent to which arguments are substantiated through the work of others and how a corpus of knowledge is established and refined.
+  The mean number of references for the journal as a whole is 17 (Table 18). This compares with Yitzhaki and Ben-Tamar (1991) who found the mean number of references for different disciplines in different years to range between 5 for engineering papers and 35 for those in biochemistry, but with the means for all sciences being 14.9 and for all social sciences 10.8.
+There has been an overall increase in references in
+  
+CME•.
+Table 17 Most frequently publishing countries (ranked by weighted papers)
+Rank Country1983-921983-871988-92Weighted papersWeighted pagesUnweighted pagesWeighted papersWeighted papers1	UK105.61669.17280248.557.12	USA37.0481.1685312.224.83	Australia18.5293.5436810.54	Singapore14.5216.50307212.55	Israel12.2161.842325.56.76	Canada7.511723716.57	Nigeria5.867.831285.88	Turkey4.857.51282.829	South Africa3.059118310	Hong Kong2.544.58911.511	New Zealand2.539.55220.512	Finland2.036.0722		Thailand2.027.0452Saudi Arabia2.027.0421115	West Indies2.022.02211
+  
+Number of papere
+50
+40
+30
+20
+Figure 8 Papers by country: 	 , UK;	 , USA;
+   , Australia; 	, Singapore; 	, Israel; others. (Based on unweighted papers.)
+CME with some changes from year to year. The overall rate of increase for the full ten-year period is almost 100 0 0. This is more rapid than those of other disciplines reported by Yitzhaki and Ben-Tamar (1991). However, probably CME has reached a level of stability in the mean quantity of citations for the discipline which it represents.
+Year 83848586878889909192AllMean 910181716171514212217  A summary of the type of references used by papers for the five volumes is shown in Table 19. The number of citations of journal articles, books and theses for the typical paper has increased proportionately and in
+Table 18 Mean number of references
+absolute terms, with conference papers and reports decreasing in their proportionate share of citations. However, there is no clear trend in the average number of citations of conference papers and reports. The yearly figures are very variable.
+  The rank of each of the most popularly cited journals for the five volumes are shown in Table 20. Academic construction journals have provided 25 0o of the citations, and professional construction journals 12.2 0 Management, organizational and psychology journals form 15.4 0 / of total journal citations while specific project-management journals account for 3.2 0 In total, 56 0 /0 of the journal citations can be found in 21 journals. One unexpected finding is the relative absence of statistical and OR journals given the number of papers in those areas. The small number of economics journals is also noteworthy as is their low order in the rankings.
+  Over the 10 years there has been a very significant shift in the popularity of certain journals. Management, organization and psychology journals accounted for an important proportion (20.8%) of the journal citations in the early years. In more recent years the citation level to such journals has fallen to 14.6%. However, in absolute terms the average number of citations of a typical paper to such journals (slightly below 1.0) has not reduced. This is because the growth in journal citations is due to the greater use of construction journals. In turn this may
+Table 19 Average number of references cited
+
+Number of Citations
+
+Volume
+
+13579Five volsPublication type
+Books
+Conferences
+Journal articles
+Theses
+Reports
+Newspapers/unpublished unattributable
+Average/paper
+Total/volume1.6
+1.1
+2.6
+0.3
+2.7
+0.1
+8.4
+1183.9
+1.1
+4.8
+0.5
+5.2
+1.0
+ 16.5 2825.0
+1.5
+6.2
+0.3
+4.0
+0.6
+17.6
+4194.2
+0.5
+4.9
+0.7
+3.8
+0.5
+14.6
+3794.9
+2.7
+8.6
+1.2
+3.3
+21.1
+7794.3
+1.6
+6.1
+0.7
+3.7
+0.5
+16.8
+1982Test of association between :
+main types and volumes, 	129.45; 24 df; p<().l comparing volumes l, 3, 5, with 7, 9, 12 =47.78; 6 df; p < 0.1
+Table 20 Most popularly cited journals 1983—92 (for samples years)RankJournal1983-921983-871988-92No. of citationsPercentage of journal citationsNo. of citationsNo. of citations1
+2
+3
+4
+5
+6
+7
+8
+13
+14 15
+17
+18-Construction Management and Economics Construction Engineering and Management
+Journal of the Construction Division
+Administrative Science Quarterly
+Engineering News Record
+Applied Psychology
+Academy of Management Review
+Building Technology and Management Building
+The Building Economist Chartered Quantity Surveyor
+Project Management Journal
+Harvard Business Review
+International Journal of Project Management Civil Engineering
+Org. Behaviour and Human Performance
+Operations Research
+Building and Environment
+Construction Papers
+Management Science Personnel Psychology65
+50
+49
+29
+25
+20
+17
+14 13
+13
+13 13
+12
+11
+9
+9
+8
+7
+7
+7
+79.1
+7.0
+6.9
+4.1
+3.5
+2.8
+2.4
+2.0
+1.8
+1.8
+1.8
+1.8
+1.5
+1.3
+1.3
+1.1
+1.0
+1.0
+1.0
+1.017
+31
+18
+2
+14
+3
+3
+3
+4
+6
+3
+5
+5
+4
+1
+6
+4
+648
+36
+18
+11
+23
+6
+14
+11
+10
+9
+7
+10
+7
+6
+5
+8
+2
+7
+3
+1
+7be due to the greater availability of relevant journals, such as CME.
+  The papers from within CME that were most frequently cited by other CME papers are given in Table 21. The most frequently cited paper was that by Bennett and Ormerod (1984). Table 22 indicates the number of citations to previous CME papers to be found in CME. As might be expected the newer volumes have not had an opportunity to be widely cited. However consideration of the earlier years suggests some significant variation in historical referencing patterns, with 1984 and 1985, two rather distant years, and 1988 which is more recent, attracting twice as many citations as 1983, 1986 and 1987. This evidence does not suggest a clear distinction between the characteristics and impact of papers from the two 5-year periods.
+Table 21 Most commonly cited CME papers
+
+Rank Number of citations Vol. Page No. Authors and title
+1 7	2	225
+2 5	2	57
+3 4	2	93
+3	2	177
+	3	3	121
+	3	3	145
+	3	3	59
+	3	3	91
+	3	5	141
+	3	5	211
+	3	6	133
+	3	6	171
+Bennett, J. and Ormerod, R. — Simulation applied to construction projects
+Morrison, N. — The accuracy of quantity surveyors' cost estimating
+Walker, A., and Hughes, W. — Private industrial project management: a systems based case study
+Cherns A. and Bryant, D. — Studying the clients' role in construction management Gray, C. and Little, J. — A systematic approach to the selection of an appropriate crane for a construction site
+Flanagan, R. and Norman, G. — Sealed bid auctions: an application to the building industry
+Ireland, V. — The role of managerial actions in the cost, time and quality performance of high-rise commercial building projects
+Cusack, M. — The use of integer linear programming for modelling project control information
+Lansley, P. — Corporate strategy and survival in the UK construction industry Wilson, O, Sharpe, K. and Kenley, R. — Estimates given and tenders received: a comparison
+Nam, C. and Tatum, C. — Major characteristics of constructed products and resulting limitations of construction technology
+Aniekwa, A. and Okpala, C. — The effect of systemic factors on contract services in
+Nigeria
+  
+Table 22 Number of CME papers cited by year of papers
+YearNumber of citations1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+199111
+29
+22
+12
+13
+21
+5
+3
+6  The names of the authors who were most frequently cited are shown in Table 23. To a large extent the frequency of citation reflects the frequency of publication in the journal by particular authors. However, when self-citations are excluded, the relationship is much weaker. Two of the most frequently cited authors have not contributed to the journal. Henry Mintzberg is a popular mainstream management writer based in Canada. Raymond Levitt is a well-known US construction academic. A striking feature of this analysis is just how few mainstream management writers appear in the rankings of citations for the second period compared with the first. This highlights again the declining dependence of authors on the general management and economics literature.
+  It should be noted that only authors specifically identified in the bibliographic details have been credited with a citation. Citations to reports which have not had the names of the authors declared have been excluded. Typical examples are where the publisher or commissioning body has been cited as author (for example, R ICS, Capital and Counties, CSSC). Had the names of the authors of these reports been declared then Table 23 could look quite different. It should also be clarified that Table 23 only contains analysis of citations of authored work. Where papers are authored by one person in a book or proceedings edited by a second, only the author has been credited with a citation and not the editor.
+  The final analysis is that of Table 24. This shows the countries of publication of the citations. It might be expected that, because the journal has been dominated by authors from the UK and the USA, many of the citations would emanate from these countries. Of the citations, 46% were classified to the UK and 36% to the USA. This compares with 45 0/0 of the CME papers being attributed to UK authors and 16% to authors from the USA. Clearly the US-published literature plays an important role in papers in CME and not just for authors from that country. The four next most cited countries, Australia, Singapore, Canada and Israel are also the four most frequent contributors to the journal. However, for lower-level rankings there is little relationship between country of publication of citation and the countries which contribute papers. European countries other than the UK do not figure as major contributors to the journal, yet they play an important part in the citation lists.
+  
+Table 23 Most commonly cited authors
+RankAuthorNumber of citationsExcluding self-citationsIncluding self-citations83-8788—9283-9283-8788-921
+2
+5-
+8Brandon, P.S.
+Levitt, R.E.
+Mintzberg, H.
+Hillebrandt, P.
+Bromilow, F. Flanagan, R.
+McCaffer, R.
+Borcherding, J.
+Arditi, D.
+Bennett, J •
+Morrison, N.
+Stark, R.
+Wilson, A.
+Beeston, D.
+Fischoff, B.
+Ashley, D.
+Barnes, M.
+Norman. G.
+Walker, A.
+Raftery, J •
+Chapman, C.
+Lansiey, P.
+Marshall, H.
+Sidwell, A.C.
+Simon, H.
+Trimble, G.
+Woodward, J.15
+13
+12
+12
+11 11
+11
+10
+9
+9
+9
+9
+9
+8
+8
+7
+7
+7
+7 7
+6
+6
+6
+6
+6
+6
+67
+4
+9
+5
+3
+7
+2
+1
+5
+6
+2
+4
+2
+3
+2
+4
+1 1
+2
+1
+6
+4
+4
+1
+48
+9
+3
+7
+8
+4
+9
+9
+4
+3
+7
+5
+7
+5
+8
+7
+5
+3
+6
+6
+4
+5
+2
+2
+5
+215
+13
+12
+13
+16 16
+10
+19
+11
+9
+10
+9
+10
+8 7
+7
+11
+13
+7
+6
+22
+7 6 6 7
+67
+4
+9
+6
+9
+12
+5
+1
+11
+8
+2
+4
+2
+4
+2
+9
+5
+1
+2
+13
+7
+4
+4
+2
+48
+9
+3
+7
+8
+4
+11
+9
+8
+3
+7
+6
+7
+6
+8
+7
+5
+2
+8
+6
+4
+9
+2
+2
+5  
+Discussion
+Is a style of CME paper and research emerging?
+The summary of results of the analyses of the papers and citations given in Fig. 9 suggest a high level of consistency in the characteristics of CME over time. Although some of these are changing, the major developments are a clarifying of the focus of the journal and the growth in the involvement of institutions and authors from many countries. The journal has grown in terms of the number of issues per volume and number of papers, but not to any great extent in terms of the length of papers. However, papers have become more extensively referenced, drawing increasingly on published academic work in construction-related journals. To some extent this may be due to the greater availability of construction-related journals in recent years, not least CME. This suggests a gathering of momentum of construction-management research, the development of a distinctive corpus of knowledge and the identification with an emergent discipline by authors.
+  One disturbing feature, however, is that the rate of citation to mainstream academic management and social science journals has not risen. Relatively speaking, such journals have become less important as authors have been more able to link into previous work carried out in construction. The issue here is whether some research in construction management may be becoming too dependent on references which seem contextually appropriate.
+  Another issue is the relative balance between management and economics and whether economics in the accepted sense of the word is a major theme within the journal. In reviewing the papers and the citations there is very little to suggest that mainstream economics plays a major role in the journal. With some notable exceptions the economics orientation of the journal is essentially managerial. Far fewer papers are dependent on key references from leading economics journals and books than there are papers dependent on references from leading management journals, such as the Administrative Science Quarterly, and, for example, 'classic' management texts.
+Table 24 Countries of referenced publications
+
+Number of citations
+Rank	Country	
+Whole	Volume	Whole period		period
+number13579percentage1 2
+3
+4
+5
+6
+7
+15
+16
+Unattributable
+Total UK
+USA
+Australia
+Singapore
+Canada
+Israel
+Switzerland
+Denmark
+Netherlands
+Sweden Saudi Arabia
+Turkey
+Finland
+Nigeria
+Germany
+South Africa
+Egypt
+West Indies
+Belgium
+Ghana
+Hungary
+Ireland
+Japan Tanzania
+(Attributable)758
+587 52
+50
+34 21
+14
+12
+12
+12
+10
+10
+9
+9
+8
+6
+4
+4
+2
+2
+2
+2
+2
+2
+347
+163558
+24
+2
+1
+3
+1
+3
+1
+23
+9592
+74 6
+8
+7
+3
+4
+6 1
+8
+1
+4
+3
+4
+1
+1
+56
+226139
+156
+18 1
+8
+5
+1
+1
+3
+77
+342144
+87
+5
+19
+7
+5
+1
+4
+4
+7
+10
+1
+5
+6
+3
+4
+2
+1
+1
+1
+71
+308324
+245
+23
+22
+12
+5
+8
+5
+1
+4
+2
+1
+1
+119
+66046.4
+35.9
+3.2
+3.1
+2.1
+1.3
+0.9
+0.7
+0.7
+0.7
+0.6
+0.6
+0.6
+0.6
+0.5
+0.4
+0.2
+0.2
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1
+0.1Test of association between:
+Country (UK, USA, other) and volume, -2 =56.28; 8 df•, p<O.1 0Comparing volumes I, 3, 5, with 7, 9, 12 =4.09; 2 df.
+  Just as the evolution of the shape of the papers in CME appears to be gradual and natural, so too there have been underlying developments in the focus of the journal. This has become sharper in recent years.
+  With regard to the dimensions of the meta-model, CME is predominantly concerned with the management of the project, project finances and the environment of the project. It rarely deals with technological or legal issues and only occasionally considers human aspects or issues at the level of the total enterprise. Client-end perspectives and the development of the professions are not regular themes. Whilst concerned with the early stages of the project life cycle, including environmental factors, the journal has contained little which relates to the post-construction stages. Further, the papers have been overwhelmingly set in the context of the building sector or construction (that is, building and civil engineering). Thus, despite the variety in the papers to be found in CME, it has a narrow focus which is largely concerned with project-level issues related very broadly to production aspects of construction. Over the last five years this focus has become stronger. It remains to be seen whether a narrowing will continue, or whether CME will broaden in a particular way through natural evolution or through the encouragement by the editors of a stronger emphasis on some of the fields which are not well represented in the journal, such as construction law. There are many parts of the multi-dimensional meta-model which the current construction management research fails to address extensively. At least CME fails to publish research in these areas.
+  CME reflects a tradition of research which, although sometimes guided by theory, seldom contributes to it. Seventy per cent of the papers are based on original or nearly original data gathered through case studies or as truly empirical data. Although reviews do occupy a significant part of the journal's contents, in a relatively new field where there are many ideas, concepts and
+CharacteristicTableFindingFields covered
+Type of research
+Research tradition
+Participants
+Development8
+9
+18
+19
+20
+21, 22 23
+24
+12, 13
+14
+15
+17
+2
+3Subject and level clearly oriented to production-related issues. Becoming more focused on project level issues. Clear construction orientation.
+Broadly based sources of information handled using conventional research methods in a largely non-theoretical way.
+Reliance on original data.
+Growth in references to level similar to that in other fields.
+Growth in citations from journals within the field.
+Decline in prominence of mainstream journals.
+Increasing dependence on CME as source.
+Importance of cited authors changing, decline in prominence of mainstream authors. International basis of cited literature.
+Mainly construction-related university departments, a few social science departments.
+Increasing participation and changing levels of participation by specific universities.
+Small and declining involvement of industry.
+International involvement but with exceptions of some large countries.
+Rapid growth in number of participants. Concentration of authors similar to other journals in well defined fields.
+Rapid growth in size of journal and in other aspects.Figure 9 Summary of major characteristics of CMEpieces of information to be integrated, it might be expected that they would occupy a much greater part.
+  There can be no doubt that the journal reflects the characteristics of those who seek to publish in it, predominantly academics employed in engineering, construction, building, architecture and surveying departments of universities. These are departments which have a strong interest in construction production in the broadest of senses. Authors from management and social sciences departments are important but the proportion of papers from them has fallen over the 10 years. This narrowing of the range of departments is also reflected in the decline in papers from private practices, the public sector and research institutes.
+  If any broadening is to be found it is in the international base of the journal. However, that broadening may have contributed to a narrowing in other ways by expanding the base of authors with a similar orientation. This is partly borne out by the finding that the proportion of papers from countries which have professional systems which are not based on those of the UK or USA has not grown over the decade.
+  The result is that concentration ratios have not fallen. The journal is no less dependent on a small number of prolific authors than it was in the past, although the importance of particular authors has changed markedly over the years, as has that of particular universities. However the concentration of key institutions has increased.
+  From the summaries above it is suggested that CME is a fairly narrow journal serving a typically narrow set of academic interests. Its contents reflect a combination of remarkable stability combined with evolutionary change which has led largely to a more academic, clearer and narrower definition of its position as a journal. Although it would be wrong to view the journal as necessarily a truthful reflection of the discipline, from the evidence it is diffcult to perceive construction economics as anything other than a constituent part of construction management. It is noteworthy that economics and management as distinct fields did not feature as dimensions within the theoretically derived metamodel.
+The evidence about whether construction management is a discipline is ambiguous but this is carefully addressed in the main report (Betts and Lansley, 1993). However, as the journal carries so few reports of attempts to develop the theoretical base of the discipline it can only be assumed that there is little activity in this area. Yet such developments are the hallmark of a mature and established discipline. Those activities which are reported in the journal are much more consistent with a discipline in the making, the laying down of a foundation of empirical data, the testing of general models and the building of new systems.
+  Nevertheless, there is strong evidence that a discipline does already exist. For example there is a clear set of relationships between many of the papers in CME: they are not independent, they draw on similar knowledge domains and reflect similarities in their modes of research. In turn these appear distinct from, say, the approaches revealed by journals which report mainstream management research. Standing behind CME is an academic community and various international associations, such as CIB, which provide facilities for the development of the discipline and which also provide long-term stability. If a definition of a discipline is that it should have a distinctive mode of operation then such distinctiveness can be observed in CME and in the activities of those who contribute to it.
+Conclusion
+The journal CME has undergone some change in its first 10 years. The contributors and their departments, types of institution, country and professional background have diversified to take on a greater international variation. The contributors in the second 5 years have been largely different from those in the first five. There has been a move towards authors with a background in building and engineering and away from those based in construction and management. The journal is becoming more concentrated in a small group of authors, and a smaller group of employers. It began as an international journal with a strong UK influence but although the UK and its Commonwealth and related countries are still major contributors, it has attracted a more international set of contributors over time. As a consequence of this, and other factors, the nature of the research work as reported in CME has changed. It has taken on a more academic nature reflecting its increasingly dominant home within academic institutions. The number of references in papers has increased and these are increasingly to journal articles and books rather than professional reports and conferences. The literature that is cited draws from construction publications but also from mainstream management and psychology journals. The same cannot be said of the economics literature.
+  With regard to subject matter, the research published is drawn from a range of financial, managerial, organizational, legal, technological, and behavioural subjects with the distribution appearing to be fairly stable. Work relates primarily to construction projects but with a substantial part applied to companies and countries. Papers address the complete life cycle of projects but the trend appears to be away from design and feasibility issues towards tendering and contractual issues. The work is increasingly concerned with 'construction' rather than 'building'. The research that forms the basis for the papers draws almost equally from reviews, case studies and empirical work with an equally broad range of contributions. All of the categories within the major dimensions of the meta-model proposed in the paper are addressed by papers published in the first ten years.
+  Unlike many other disciplines, construction management has not reached the stage of a narrowly defined means of undertaking research with well-defined and narrow types of contribution. Rather, there is a discipline which is in its early stages of evolution, whereby theoretical traditions of research drawn from the social sciences are becoming integrated with empirical engineering work. There is little evidence of experimental research. This lack of a clear pattern could represent a healthy diversity in the discipline but given the small community of active researchers involved with the journal in its first ten years, there is some prospect that a dominant style may emerge in time. This happening depends on two things. One is that other members of the research community should perceive some benefit in this happening and encourage and contribute to it. The second is that further studies of the nature of that described in this paper should take place. The metamodel proposed here must be developed and tested further.
+  Research into research has a role beyond selfsatisfying and incestuous justification. It is an important role in developing a clear idea of where a discipline has come from, what stage of development it has reached, and where and how fast it is developing. It is hoped that this paper, through its case study of the CME journal, makes some contribution to this important area of study.
+Acknowledgements
+The authors are grateful to Peter Ang, Josephine Lee, Anthony Lee, Ong Ming Kuan and Mohammad Khairuddin for their assistance with data entry for this work. They would also like to thank Lim Pin Pin for her guidance with the bibliometric literature and with abstracting services. The valuable comments of referees are gratefully acknowledged.
+References
+Allen, M. T. and Rau, J.B. (1991) Contributing authors to the Journal of Urban Economics : 1974—1989, journal of Urban Economics, 30, 373—84.
+Beeston, D. (1986) Combining risks in estimating, Construction Management and Economics, 4, 75—9.
+Bennett, J. (1983) Editorial, Construction Management and Economics, 1, 1—2.
+Bennett, J. and Ormerod, R. (1984) Simulation applied to construction projects, Construction Management and Economics, 2, 225—63.
+Betts, M. and Lansley, P. (1993) The Journal of Construction Management and Economics: A Review of the First Ten Years, National University of Singapore and Reading University.
+Bon, R. and Hughes, W. (1992) Editorial, Construction Management and Economics, 10, 1—3.
+Chung, K.H. and Kolbe, P. T. (1991) Empirical regularities in the market for real estate research output, The Journal of Real Estate Research, 7, 115—24.
+Lehnus, D.J. (1972) JEL, 1960—1970; an analytical study, Journal of Education and Librarianship, 12 (special edition), 71-83.
+Leopold, E. and Bishop, D. (1983a) Design philosophy and practice in speculative housebuilding: Part l, Construction Management and Economics, 1, 119—44.
+Leopold, E. and Bishop, D. (1983b) Design philosophy and practice in speculative housebuilding: Part 2, Construction Management and Economics, 1, 233—68.
+McMurtray, F. and Ginski, J.M. (1972) Citation patterns of the cardiovascular serial literature, Journal of the American Society of Information Science, 23, 172—75.
+Newton, S. (1991) An agenda for cost modelling research, Construction Management and Economics, 9, 97—112.
+Prosser, R.J., Traub, R.E. and Vegeris, s.L. (1987), The Journal of Educational Statistics : The first decade in review, Journal of Educational Statistics, 12, 317—37.
+Quah, L.K. (1992) Comparative variability in tender bids for refurbishment and new build work, Construction Management and Economics, 10, 263—69.
+Reed, M. and Anthony, P. (1992) Professionalizing management and managing professionalization: British management in the 1980s, Journal of Management Studies, 29, 591-613.
+Sengupta, I.N. (1992) Bibliometrics, infometrics, scientometrics and librametrics: an overview, LIBRI, 42, 75—98.
+Shogren, J.F. and Durden, G.C. (1991) The first 15 years: contributors and contributions to the Journal of Environmental Economics and Management 1974—1988, Journal of Environmental Economics and Management, 20, 205—9.
+Srinivasan, R. and Harris, F.C. (1991) Lane rental contracting, Construction Management and Economics, 9, 151—5.
+Summers, E.G. (1979) Information characteristics of the Journal of Reading (1957—1977), Journal of Reading, October, 39—49.
+Yitzhaki, M. and Ben-Tamar, D. (1991 ) Number of references in biochemistry and other fields: a case study of the Journal of Biological Chemistry throughout 1910—1950, Scientometrics, 21, 3—22.
+Appendix 1: Definition of classifications and categories for subject, source and contribution
+Classification method — subject
+Industrial/business environment
+Industry performance
+Reviews of performance of firms industry in domestic and international markets. Impact of economic, technological, societal and demand constraints on performance of industry.
+Industry structure
+Structure of industry or sub-sectors. Specialist contractors, employment patterns.
+Markets and investment patterns
+Patterns of investment in construction, expenditure patterns, demand and determinants of demand for construction nationally and internationally. Trends in industry and sub-sectors. Factors influencing future levels of investment.
+Construction industry development
+Construction industry development programmes initiated by government or private sector. Resource planning.
+Contribution of construction to economic growth.
+Codes/standards/performance assessment compliance Assessment of codes, costs of compliance. Standards of private sector. Impact of social and environmental policies.
+Professions
+Social standing and influence of the professions. Roles of professions.
+Human factors
+Safety
+Safety, safety management, accidents, accident prevention, fire safety.
+Productivity
+Measurement and evaluation of productivity at macro and micro levels. Factors influencing productivity. Systems for analysing and measuring human performance and productivity.
+Motivation/leadership/teamwork
+Motivation studies. Leadership studies. Leadership in project management. Interpersonal relationships and conflict.
+Education/ training
+Training needs of managers, professionals, operatives. Graduate education. Impact of recruitment strategies on training. Examples of training systems.
+Firms, organizations in the construction industry
+Business strategy, planning Business strategy and planning. Modelling and measurement of strategic factors.
+Production planning at firm level
+Production and manpower planning.
+Innovation, response to change
+Impact of IT, value engineering, network applications,
+  
+CME•. 
+marketing development, organizational change on construction firms. Factors influencing adoption of change.
+Organization structure, information flow, communications Dimensions of organizations, relationships with performance. Information flow. Integrated company level MIS. Information sources.
+Project management
+Project management — general
+Determinants of performance. Conceptual models.
+Methods of analysing project organizations.
+Project strategy
+Design impact. Capital versus cost in use. Choice of strategy. Risk assessment.
+Project organization, procurement, contracts
+Procurement systems, selection, implications and performance. Client's role. Project management organization cases.
+Project planning, scheduling systems
+Limitation of techniques. Planning and scheduling techniques. Integrating planning systems with other systems. Time, cost, duration estimation using simulation. Judgemental factors. Resource balancing. Project control.
+Project MIS and IT
+Information retrieval. Specific applications and methods.
+Payment/incentive systems
+Incentive contracting. Risks, securities.
+Financial management
+Evaluation of projects/products, funding
+Evaluation, prioritization and selection of new projects, upgrading projects and investment decisions. LCC applied to new and existing buildings. Portfolio management. Balancing cost and quality. Risk assessment. Sources of finance.
+Cost/price modelling, estimating
+Cost modelling and estimation procedures. Revised BOQ. Cost prediction. Price forecasting and its accuracy. Risk in estimating.
+Tender strategy, bidding
+Properties of bids. Bidding strategy. Bid distribution. Factors affecting mark-up. Selection/qualification of firms for bidding. Negotiations pre- and post-tender.
+Cash flow
+Cash flow models. S curves. Escalation management. Expenditure patterns. Financial models.
+Legal
+Liabilities and claims
+Liabilities, claims, disputes.
+Technology
+New methods/innovation
+New methods and components, technical innovation, con straints.
+Plant selection
+Selection of plant and equipment.
+Classification method — sources of information
+Reviews
+Review or proposals based on knowledge, data and insights drawn from academic or practitioner experience. Often the integration of well-known facts and the provision of new insights rather than tightly argued analyses.
+Case studies
+Individual or a limited number of linked case studies based on observation or detailed quantitative data, sometimes described within a well-defined framework in order to test or illustrate specific concepts or to develop new concepts (particularly the application of statistical concepts which lead to cases which take the form of worked examples), sometimes highly descriptive.
+Empirical data
+Presentation and analysis of empirical data, or empirical analysis of secondary data, usually according to some theoretical framework or analytical model.
+Classification method — contribution
+Model testing or fitting
+The testing of statistical or organizational models, usually through statistical analysis, parametric studies, sometimes through discussion.
+Model building
+Developing complex (largely static) new models, for example for forecasting and decision making (often using statistical and econometric methods).
+System building
+Developing complex (largely dynamic or interactive) systems, for example for operations management and decision making (often involves planning methods. Al, expert systems).
+Theory building/modifying
+Development or modification of theory, for example whilst application of mainstream management theory to construction would fall in model testing category, developments of that theory to fit construction would fall here.
+Insights
+The contribution lies largely in the data, insights, discussion presented — the papers do not generate new models or theories or provide a basis for testing existing models and theories. However, they provide information in a more general way.
+1 . The codes to the sub-categories are given in Fig. l.
+2 . Test of association between main categories and time: 12 =0.802, 6 df.
+---------------
+  
+------------------------------------------------------------
+  
+  ---------------
+  
+  ------------------------------------------------------------
+  
+	222	Betts and Lansley
+  
+CME: The first ten years	223
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+222	Betts and Lansley
+  
+CME: The first ten years	223
+  
+0 2001 . All Rights Reseved.
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+222	Betts and Lansley
+  
+0 2001 . All Rights Reseved.
+  
+222	Betts and Lansley
+  
+CME: The first ten years	223
+  
+0 2001 . All Rights Reseved.
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+CME: The first ten years	223
+  
+Copyright 0 2001 All Rights Reseved.
+  
+222	Betts and Lansley
+  
+CME: The first ten years	223
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+222	Betts and Lansley
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+	222	Betts and Lansley
+  
+CME: The first ten years	223
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+	The first ten years	237
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+222	Betts and Lansley
+  
+CME: The first ten years	223
+  
+Co ri ht 0 2001 . All Rights Reseved.
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+222	Betts and Lansley
+  
+Co ri ht 0 2001 . All Rights Reseved.
+  
+	The first ten years	237
+  
+	The first ten years	237
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+Copyright 0 2001 . All Rights Reseved.
+  
+	The first ten years	237
+  
+Copyright 0 2001 . All Rights Reseved.
+  

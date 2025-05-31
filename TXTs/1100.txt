@@ -1,0 +1,345 @@
+﻿Construction Management and Economics, 1990, 8, 365—383
+A survey of current production planning practices in the precast concrete industry
+NASHWAN N. DA WOOD and RICHARD H. NEALE
+Department of Civil Engineering, Loughborough University of Technology, Loughborough LEI 1 3TU, UK
+ This paper reports an initial stage ofa research project in the management ofprecast concrete production in the United Kingdom. It describes a survey of current practices in 18 precast concrete manufacturing firms, comparing their actual practices to a theoretical model derived form published literature. It concludes that the theoretical model was too complicated, and formulates a more simple and practical model. The survey also identified the need for a good computerized system which can assist middle management in forecasting and production planning.
+Keywords: Production planning, precast concrete, current practices
+Introduction
+This paper reports an initial stage ofa research project in the management ofprecast concrete production in the United Kingdom. The main objective is to devise a production planning system which will improve production effciency in the industry. The first task was to study what systems the precast industry uses at present. The purpose of the study was to examine current practices, so that ways of improving them may be formulated. The descriptive survey method (semi-structured interview) was used for this purpose. Site visits and questionnaire/ interviews were used as the technique for observation, and as the means of collecting data. The questionnaire was fairly open-ended. It was hoped that this would encourage the respondents to contribute their breadth of experience.
+  The paper describes the objectives of the survey, the methodology, and the formulation of a theoretical system from the literature. The questionnaire was based on this theoretical model, and an analysis of the responses enabled a modified, practical model to be formulated. The paper concludes with recommendations for further research.
+Objectives of the survey
+The objectives of the survey were:
+  (1) To classify the precast concrete industry in terms of its product types and production systems.
+  (2) To formulate a broad practical framework for a production planning information system for the industry.
+  (3) To investigate relationships between types of products and methods of planning and scheduling.
+0144-6193/90 0 1990 E. & F.N. spon Ltd.
+  (4) To investigate the current practices of forecasting, long-term planning, production planning and scheduling.
+  (5) To identify the variables which most often affect performance in the industry.
+  (6) To form a basis for establishing what production system is required by the industry in order that production can be made more emcient.
+  The next section describes methods of data collection and the reason for using the semistructured interview method.
+Methods of data collection
+Choice of the method of data collection was important. Methods of data collections which have been extracted from previous literature can be grouped under the following headings (see Berelsen, 1965; Welbank, 1987; Breuker and Wielinga, 1984; Shpilberg and Schatz, 1986; Frieling et al., 1985):
+(1) mail questionnaire,
+(2) interview.
+  In a study of this type, mail questionnaires are of limited use. The obvious limitation is the motivation of the respondent, which affects the response rate and the accuracy and reliability of responses. In the survey, we were seeking more reliable and deeper information that would be possible by this method. Interviews enable the questioner to assess the reliability of the information given, and to follow up useful points that arise. The methods of interview can range from the completely unstructured, to a rigid set of questions similar to a postal questionnaire. In this research, we chose a compromise: the semi-structured interview.
+The semi-structured interview
+In this method the questions to be asked are of the open-ended type, in which the wording of the question is specified but the wording of the response is left to the respondent. The interviewer can seek further elaboration of a particular area, by asking further questions. The advantages of this technique are:
+  (1) it has some of the advantages of reliability, structure and control associated with the more structured interviews, and
+  (2) it has some of the scope and flexibility response obtainable by a less structured interviewing method.
+For these reasons it was felt that this method was a good way to obtain worthwhile and detailed information from selected companies. In addition to the interview responses, examples of company procedures, systems and data were also collected, for subsequent examination and comparison.
+Design of the questionnaire
+In this research the questions have been developed from our previously proposed theoretical production information system which was developed from previous literature (see Anthony, 1965; Baker, 1984; Lucas, 1987; Proud, 1981). The system is structured as follows (see Figs IA and 1B):
+(1) Marketing information.
+(2) Long-term plans.
+(3) Intermediate plans.
+(4) Scheduling and operational control.
+  Marketing information is presented in the framework (see Fig. IA) by sales forecasting. It deals with the future, about which little firm information is available. Different techniques of forecasting have been developed for the last ten years. These techniques can range from judgemental to mathematical approaches (see Wheelwright and Makridakis, 1985). The question that must be asked by a company is not whether to forecast, but how to forecast most accurately and economically. Figure IA shows the information required by the sales forecast and the link between the long-term and intermediate-term plans and the sales forecast.
+  The long-term plan aims to provide a systematic framework for the future. It also includes the assessment of the firm's internal strengths and weaknesses. The main decisions to be taken in long-term plans are (see Fig. IA):
+(1) policy formulation and goal setting;
+(2) nature of production and their output;
+(3) selection of production method;
+(4) organization and stamng.
+  The information systems most likely to be used to develop and establish long-term plans are: forecasting information system; resources information system; facilities information system; and feedback information from production plans.
+  Once the physical facilities have been decided upon, the basic problem to be solved is the effective allocation of resources to satisfy demands and technological requirements. This comes under the intermediate plan which includes the production plan and the master schedule. The production plan is concerned with capacity analysis and capacity planning. Capacity planning establishes the mix and quantities of personnel, machines, moulds, tooling and resources that will be required to produce a particular batch of product. The master schedule represents a statement of anticipated build schedule for a firm. The schedule will be stated in a specific product configuration and will indicate the quantity to be produced for at least the next 6 months. Figure IA shows the main decisions to be taken in both these plans. The final stage in the framework is the scheduling and operational control. This covers the day-to-day operational and short-term schedules. The main operations to be performed in this phase are:
+(1) material requirement plan;
+(2) scheduling;
+(3) material purchasing;
+(4) production process;
+(5) shipping and erection process.
+Figure 1B shows the decisions to be taken in this stage.
+  It should be mentioned that the long-term plan, intermediate-term plan and operational control cannot be made in isolation because they interact strongly with each other.
+
+
+  For each of the framework categories above, a set of questions was developed. These questions were of a fairly open-ended nature; e.g. how do you predict your sales and what information is involved? , and how do you plan and what information do you use? It was hoped that this would encourage the respondents to contribute their breadth of knowledge and experience. The questionnaire is given in Appendix A.
+Testing the questions
+In order to test the validity of the questions before starting interviewing people, the Chief Technical Manager of the British Precast Concrete Federation (BPCF) and the Production Manager of one of the leading companies in the UK were invited to comment on the questions and their advice has been taken into consideration.
+  However, most of the interviewees were asked to comment on the questions during the visits. Their impressions were:
+  (l ) the questions covered a wide area in the industry, so more than one person was required to answer the questions, especially in a big company (this is consistent with the structure of the questionnaire);
+  (2) some questions were irrelevant to small companies because they did not have a wellstructured planning system.
+Selection of firms
+The first step was to visit the BPCF. Some 90% of precast concrete products manufactured in the UK are made by members of the BPCF. The Chief Technical Offcer identified the type of precast companies and the leading companies in the UK.
+  The second step was the selection of the companies to represent the precast industry in the UK. Fifty-one companies were approached to participate in this research programme through a letter of invitation to their managing director. These companies were selected to give a representative sample of the diversity of products produced by the industry, constrained by the practical limitations of geographical location. Two sources of reference have been used to identify the precast firms and their addresses, they are: Directory ofPrecast Concrete Production (1988) and The Concrete Year Book (1988).
+Responses
+A letter was despatched to the managing director of each firm inviting them to participate. Of the 51 companies to whom the invitation was sent, a total of 18 companies (36%) accepted. Two firms (4% ) did not welcome the idea and expressed their rejection to any development of computers in production systems and stock control. Four of the firms who accepted are leading groups in the UK with 7—20 subsidiaries each, so the effective response was considerably higher than 36%.
+Table 1 shows the types of products made by each firm.
+
+Table 1. Types of products for participating firms
+Company no.Types of product1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18Roofing tiles
+Retaining wall sections, paving concrete tiles, flags, safety kerbs
+Multi-storey buildings, box culverts, chimneys
+Broadspan buildings, offces
+Walling blocks
+Hollow core flooring and roofing slabs, staircases
+Paving slabs, wall sections, safety kerbs
+Beams, blocks
+Cladding, lintels, terrazzo slabs
+Structural or non-structural cladding, exposed aggregate
+Flooring units, staircases, beams, columns
+Hollow core flooring units, staircases
+Kerbs, paving, walling blocks, paving
+Cladding, structural frames
+Roof tiles, walling blocks, dense paving
+Roof tiles
+Walling blocks
+Flags, kerbs, pipes, blocks  As indicated earlier in this section, a number offirms did not respond to the invitation. The main reasons given were:
+  (1) lack of managerial time and work pressure;
+  (2) involved at present in developing and expanding, so too busy;
+  (3) the industry is very competitive and managers are cautious about giving any information about their companies;
+  (4) pressure at the beginning of the production year (preparation of budgets).
+Administration of the survey
+Generally, the questions were sent to the respondent a few days before the interview with a summary of the research programme and objectives of the survey, so that they would have time to prepare their responses. No time limit was set, and the interview duration ranged from 1—4 hours, depending on its relevance to the respondent and also the time the respondent could spare.
+Analysis of the questionnaire responses
+The analysis of the main findings of the survey is given in the following sections.
+Classification of the industry
+Broadly, the precast concrete industry can be classified in terms of the types of products and production system involved. Three categories have been found:
+Ri hts 
+  (1 ) moulds construction method: make a special product to order (outline design supplied by the buyer/client),
+  (2) bed or standing moulds method: manufacturing to order from existing moulds (bed, tables, batteries),
+  (3) products method: make to stock products (commodity products).
+  Cladding, frames and special precast units are examples of the moulds construction category. Hollow core flooring units, structural frames, pipes, wall units and box culverts are examples of the bed method. Finally, roofing tiles, flags, kerbs, blocks and street furniture are examples of the commodity products type.
+  The methods of planning and scheduling for these categories differ in many aspects and will be discussed in the following sections.
+Formulation of a practical framework for a production planning system in the industry
+One of the main objectives of the survey was to gain an understanding of current production planning practices. In this section a practical framework of production planning has been developed in the light of the investigation and comments of the firms which have been visited. In contrast to the complex, theoretical framework given in Figs IA and 1B, the planning framework in practice has only two stages:
+(l) long-term planning stage,
+(2) production planning and scheduling stage.
+  Long-term planning is concerned mainly with establishing managerial policies and with the development of the necessary resources the enterprise needs to satisfy its external requirements. All the managers have agreed that the purposes of long-term planning are to formulate long-term investment and profitability and to quantify the risk the company is taking on its investment. Figure 2 shows a general model of the major decisions which should be taken in the long-term plans and the information required from different sources. Feedback information is mainly provided from the production planning and scheduling stage.
+  It should be noted from Fig. 2 that the long-term plan is quite similar to the theoretical framework which has been introduced in Figs IA and 1B. However, some differences can be detected, these are:
+  (1) the forecasting is done within the long-term planning;
+  (2) the methods of planning are highly dependent on experience, which is not the case in the theory.
+  Production planning and scheduling is the next part of the framework. This part is concerned with the determination of production, inventory and workforce to meet fluctuating demand requirements. Normally the physical resources of the firm are assumed to be fixed during the planning horizon of interest and the planning effort is oriented towards the best utilization of those resources, given the external demand requirement. A problem usually arises in the industry because the items and quantities imposed by demand seldom coincide with the time and quantities which use the firm's resources emciently. Further information about the current practices of production planning and scheduling are presented in Fig. 2.
+
+Copvriqht 
+  It should be noted that the differences between the theoretical framework of production planning (Figs IA and 1B) and the practical one (Fig. 2) are:
+  (1) in the theoretical framework the production planning is presented by two distinct stages: intermediate- and short-term planning,
+  (2) the material requirement plan represents the focal point in the theoretical framework but is not generally very significant in practice.
+  The framework which is presented in Fig. 2 gives an idea of the current production planning practice. However, not every company uses all the processes presented in Fig. 2. This is mainly because of the effect of product types on the planning process which is introduced in the next section.
+The relation between types of products and methods of production planning and scheduling
+From the survey, it can be concluded that the types of products can influence the methods of production planning and scheduling. In the case of mould construction method ('make a special product'), the effort of production planning is directed towards transferring information from the drawing offce into a workload programme expressed in terms of manhours (or any measuring units of the capacity) and material requirement plan for each job in the firm. This workload programme can be projected as far as there are jobs under production, and represents the aggregation of the information being processed. This aggregation can take place by consolidating similar items into product groups and different labour skills into labour centres. The information required to build such a workload programme is:
+(1) contract construction programme,
+(2) the current situation of the production, and
+(3) the current situation at the construction sites and committed erection programme.
+  The scheduling process is achieved, then, by establishing a moulds preparation schedule, steel reinforcement and casting schedules. The moulds preparation schedule is the focal point of the scheduling process. The criteria used in establishing schedules are:
+  (1 ) continuity of production ofelements of the same type on a mould should be maintained whenever possible,
+  (2) elements should be produced on moulds with minimum adjustment cost,
+  (3) priority in production on a free mould should be given to elements with earliest delivery date.
+  None of the firms which have been visited use formal mathematical techniques in establishing production plans and production schedules. Moreover, the use of computers is very restricted and not used in generating plans of schedules.
+  In the case of the bed method ('manufacturing to order from existing moulds or beds'), the production planning is similar to the moulds construction method. However, the scheduling process is directed towards generating the bed casting schedules. The principle of this operation is that different jobs are scanned to locate units which have identical cross-section and similar due dates. These units are then grouped so that, as nearly as possible, the complete length of a capacity bed can be filled.
+Finally, in the case of make to stock products, the production planning is concentrated on
+establishing the 'safety stock level'; that is, minimizing the risk of running out of stock. The market for these products is so competitive that customers will purchase material from competitors rather than wait for stock to be replenished. The main objective of management in this type of business is to deliver products to customers within a very short span of time from placing the order (2—3 days). This requires accurate planning for production and stock levels.
+The information required to achieve the production planning is:
+(1) forecasting of the market,
+(2) long-term plans,
+(3) outstanding orders.
+  The scheduling process is the preparation of a list of items to be produced for a given period.
+  It is concluded that the emphasis of management in the make-to-order environment is on the short-term plans to meet the contractual programme. In the case of the make-to-stock environment, the emphasis of management is on the availability of finished products in the stock, movement of the market and six-months to one-year production plans.
+The current practices offorecasting, long-term planning, production planning and scheduling
+In this section, the current practices offorecasting, long-term planning, production planning and scheduling in the industry are introduced and discussed. Recommendations for further improvement of current practices are given. Some of these recommendations will be used for the next stage of the research project.
+Current practices offorecasting and long-term planning
+From the survey it can be concluded that the sales forecasting process is done within the process of long-term planning. The information and processes used to determine the demand forecast in all the firms are not well structured. The process of forecasting is still simple and depends very much on experience. Five firms have agreed that their forecasting process is not very accurate, and has a 20-80% error compared to the actual demand. Detailed historical data about actual and forecast demand has been obtained from two firms. These data have been analysed in terms of the variance between actual and forecast demand. An example of three products is presented in Figs 3A, 3B and 3C. These show that the variance for three different products fluctuated between —60% and +80%.
+  After further contact with these firms, the main reasons behind such inaccuracy have been established. These reasons were:
+  (1) the demand is highly dependent on the general economy, which is very diffcult to forecast,
+  (2) historical data are hardly incorporated in the forecasting process,
+  (3) seasonal factors are not taken into consideration very well.
+  An organized procedure, therefore, is required, based on the introduction of mathematical methods that can forecast the demand using past data and the following factors:
+(1) market condition and the current situation of the economy, 
+ri ht 
+
+Mme (mmth)
+Fig. 3A. Accuracy of forecasting data: analysis of product 1.
+
+øme (month)
+Fig. 3B. Accuracy of forecasting data: analysis of product 2.
+
+ume (month)
+Fig. 3C. Accuracy of forecasting data: analysis of product 3.
+(2) outstanding orders,
+(3) seasonal factors.
+  Obviously, the final forecasting figures should be compared with the ability of the firm to achieve it. If the forecasting figures are above the capacity of the firm, then decisions should be taken to increase the capacity by employing new workers and more machines. On the other hand, if the forecasting figures are below the capacity, then more effort should be directed toward establishing new markets or other options. The areas of company operations in which demand forecasts aided long-term planning are:
+  (1) estimating the long-term trend in unit sales indicating the magnitude and timing of capital expenditure required for new facilities;
+  (2) indicating the company's long-term personnel needs;
+  (3) indicating the future requirement for raw materials and the need for providing sources of them;
+  (4) production planning.
+Current practices of production planning and scheduling
+From the survey it can be concluded that the use of production planning and scheduling systems are still under development.
+  In general the scheduling process in the industry is better established than production plans. Of the 18 firms a total of 7 use a computerized information system to handle the scheduling process. On the other hand, the production planning systems (intermediate
+ht 
+plans) are still dependent on a very rough evaluation of the existing facilities and the current situation of the market. A well-defined production planning system is required which can assist middle management in process forecasting and planning. This is the next stage in the research project.
+  In the make-to-stock environment, of the eight firms a total of four use computerized information systems in production planning and scheduling. The main features of the system are (see Fig. 4):
+(1) storing and updating the current stock level for each type of item,
+(2) producing loading tickets,
+(3) storing information of individuals' orders for future analysis.
+  The system acts as. a database system which provides the scheduler with information required to achieve the scheduling process.
+
+Fig. 4. Scheduling and order processing.
+  In the make-to-order environment (bed casting method), of the five firms a total of three use computerized information systems in production scheduling. This was mainly in companies producing roofing and flooring units. The main features of the system are:
+  (1) the system holds all dimensions, details, numbers required and delivery schedule for each unit in each order in the firm. This information is the main input to the system,
+  (2) the system holds the number of casting beds,
+  (3) the system produces a workload schedule for a given period (1 week or 1 month) with respect to the delivery schedule and the availability of the casting beds,
+  (4) it allows feedback about the current situation of the production for each job,
+  (5) it stores and updates information about each job in the firm.
+  It can be seen that the system has many advantages which can aid the manager in running the shop. The system can be seen as a database with a searching sub-routine for the allocation of units to the available casting beds.
+  In order to develop this system and make the process of scheduling more automated, the following should be considered:
+  (1) Allow the interchange of data between the CAD system and the main system, so that the number, code and other information about units in each job can be fed directly to the system.
+  (2) The system can be developed to simulate the process of production so that practical due dates for each unit in each job can be established. This leads to the development of a master schedule which can show when each unit should be processed and with what facilities under different shop conditions (the uncertainty of resource availability can be considered). Information about customers' interests can be considered in the building of the master schedule.
+  (3) Storage information about the current situation of the storage yard and location of each job in the yard.
+If these requirements can be met, the following advantages might be achieved:
+  (1) decreases in order 'lead time',
+  (2) minimization of the number of orders finished late through assignment of reasonable due dates,
+  (3) the system can act as an information system and simulation model.
+  In the make-to-order (moulds construction), none of the firms which have been visited use formal techniques in establishing production plans. Moreover, the use of computerized information systems is very limited and not used in generating schedules. The main reasons for this can be grouped under the following:
+  (1) the production process is labour-oriented work,
+  (2) the work patterns in the production shop are not identical, i.e. the sequence and amount of work in each order is different,
+  (3) the scheduling process is highly dependent on an experience-based judgemental approach and each job might require different rules to be scheduled.
+Identification of variables which most often affect the performance of the precast industry
+The identification of the variables that affect the long- and short-term performance of the precast industry was one of the objectives of the survey. In long-term performance, the variables that can affect the precasting performance are:
+  (1) the growth in the construction industry: as the precast industry depends on the construction industry, any growth can affect the performance of the precast industry,
+  (2) accurate sales forecasting and production plans: this can play a major role in the longterm performance of the precast industry,
+i ht 
+  (3) accurate and fast circulation of information about production and orders in the system,
+  (4) government spending: government does use the construction industry as a economic regulator by increasing or decreasing capital expenditure,
+  (5) non-availability of skilled site labour increases the requirement for off-site fabrication.
+  On the other hand, the variables that affect the short-term performance of the industry are:
+(l ) weather: this factor can affect the performance of erection sites,
+  (2) raw materials: poor quality of raw materials can affect the daily performance of production,
+  (3) machine breakdown: in a poorly maintained factory, machine breakdown can lead to decreased capacity of the shop,
+  (4) accurate scheduling and feedback information from production and erection site,
+  (5) accurate due-date assignment systems.
+Formulation of a basis for a production system in the industry
+From the survey, it can be concluded that the industry needs some form of computerized production planning system that can assist middle management in handling the process of forecasting and planning. The degree of computerization depends on the type of product. Such a system can provide the following facilities:
+(l ) forecasting and evaluating demand patterns using different forecasting techniques,
+  (2) producing production plans based on the forecasting figures and the availability of production facilities,
+  (3) aiding middle management in identifying weaknesses and opportunities for improving the process followed in production planning,
+  (4) aiding managers in identifying the cause-and-effect relationship involving majol factors in the production.
+Summary and conclusion
+This paper reports on two main issues: what is the current production practices and what if needed to improve the production planning activities and make it more emcient?
+  The semi-structured interview has been used as a means of investigation and data collection. Managers in 18 different firms were interviewed and the information obtained was analysed and presented in this paper. It is concluded that the industry needs some form 01 computerized system which can assist middle management in forecasting and production planning. The development of such a system and the techniques to be used in planning and scheduling are the next stage of the research project.
+References
+Anthony, R. (1965) Planning and control systems: A framework for analysis, Division of Research, Graduate School of Business Administration, Harvard University: Boston.
+Baker, K.R. (1984) Introduction to sequencing and scheduling, John Wiley and Sons: New York.
+Berelsen, G. and Steiner, G. (1964) Human behaviour: An inventory of scientific findings, Harcourt, Brace and World Inc.: San Diego.
+Breuker, J. A. and Wielinga, B.J. (1984) Techniquesfor knowledge acquisition and analysis. Report 1.5 ESPRIT project 12, memorandum 2.8 of the research project 'the acquisition of expertise'.
+Directory of the British Precast Concrete Federation: Aims and Activities (1987). London.
+Frieling, M., Alexander, J. , Messick, S., Rehfuss, S., and Shulman, S. (1985) Starting a knowledge engineering project: A step-by-step approach, The Al magazine, pp. 15()—64.
+Lucas, H.C. (1987) Information systems concept for management, McGraw-Hill: New York.
+Shpilberg, D.J. and Schatz, H. (1986) An expert system for corporate tax planning. Proc. 2nd International ES conference, London, 30 Sept. to 2 Oct., pp. 99—123.
+Proud, J.F. (1981) Controlling the master schedule. Production and Inventory Management, 2nd quarter, pp. 78—90.
+Wheelwright, C. and Makridakis, S. (1985) Forecasting methods for management, 4th edn, John Wiley and Sons: New York.
+Welbank, M. (1987) Perspective on knowledge acquisition, Proceedings of SERC Workshop on Knowledge Acquisition for Engineering Application.
+Appendix A: The questionnaire
+1 MARKETING INFORMA TION
+1.1. Please describe your principal products.
+1.2. Does your company have a design capability? If so, please describe its work.
+1.3. What is the value of orders that your firm produces per year.
+1.4. How do you predict your demand? Please describe the techniques you use in sales forecasting and source of information.
+1.5. Which people are involved in the marketing policy?
+1.6. What is your forecasting period? How is this established?
+1.7. How do you present your marketing strategy?
+1.8. What feedback information do you get and how do you incorporate this?
+1.9. What techniques are used in establishing a new sales contract?
+1.10. Do you use computers in determining market policy? If so, what software are you using?
+1.11. What is the maximum time which is given to the customer in order to replace a quotation order by a firm order?
+1.12. Generally, what is the percentage of finishing orders within the contract time and cost? Do you keep data on this?
+1.13. What is the information to be considered in assigning due dates?
+2 LONG-TERM PLANS
+2.1. Please describe your production system.
+2.2. Do you serve customers from stock or from production lines?
+2.3. In your opinion, what is the purpose of long-term plans?
+2.4. How do you plan? Please describe the techniques, information and data used in preparing and monitoring plans.
+2.5. Which people are involved in the long-term planning process?
+Co ri ht 
+2.6. What is the planning period?
+2.7. How long does it take to produce plans?
+2.8. How do you present plans?
+2.9. What feedback do you get and how do you incorporate it?
+2.10. How do you evaluate plans? What information is involved?
+2.11. How often do you revise plans?
+2.12. Do you use computers? If so, can you describe your software.
+2.13. What are the factors which affect the selection of production method?
+2.14. What are the factors which affect the selection of equipment and design of layout facilities?
+3 PRODUCTION PLANS AND MASTER SCHEDULE
+3.1. In your opinion, what is the purpose of production plans?
+3.2. How do you produce production plans? Please describe the techniques and information and data used in preparing a plan?
+3.3. What people are involved in the preparation of plans?
+3.4. What is the planning period?
+3.5. How long does if take to produce plans?
+3.6. How do you present plans?
+3.7. What feedback do you get and how do you incorporate it?
+3.8. How do you evaluate plans, and what information is involved?
+3.9. How often do you revise plans?
+3.10. Do you use master schedules? If so, can you describe the techniques and information used to establish them?
+3.11. Do you use computers? If so, can you specify your software?
+3.12. What is the information most often considered in setting the shop capacity?
+3.13. For how long do you fix your capacity?
+3.14. How do you incorporate feedback information from the construction site when you are revising your production plans?
+4 SCHEDULING AND OPERATIONAL CONTROL
+4.1. What are the types of schedules you produce?
+4.2. What is the purpose of these schedules? 4.3. How do you produce schedules? Please describe the techniques and information used in preparing and monitoring schedules?
+4.4. Which people are involved in the preparation of schedules?
+4.5. What is the scheduling period?
+4.6. How long does it take to produce schedules?
+4.7. How do you present schedules?
+4.8. What feedback do you get and how do you incorporate it?
+4.9. How do you evaluate plans?
+4.10. How often do you revise schedules?
+4.11. Do you use computers? If so, can you specify your software?
+4.12. How do you incorporate feedback information from the construction site and production shop when revising schedules?
+
+4.13. How do you measure the performance of the shop?
+4.14. How do you control your shop? Please describe your technique?
+4.15. How often are orders late?
+4.16. In your opinion, what are the factors which affect the delay of orders?
+4.17. Can you specify the role of supervision in establishing schedules?
+ri ht 
+	366	Dawood and Neale
+
+A survey of current production planning practices in the precast concrete industry	367
+
+
+
+ri ht 0 2001 . All Rights Reseved.
+
+
+
+ri ht 0 2001 . All Rights Reseved.
+
+	366	Dawood and Neale
+
+A survey of current production planning practices in the precast concrete industry	367
+
+
+
+0 2001 . All Rights Reseved.
+
+A survey of current production planning practices in the precast concrete industry	367
+
+	0 2001. All 	Reseved.
+
+A survey ofcurrent production planning practices in the precast concrete industry	383
+
+A survey ofcurrent production planning practices in the precast concrete industry	383
+
+0 2001 . All Rights Reseved.
+
+0 2001 . All Rights Reseved.
+
+A survey ofcurrent production planning practices in the precast concrete industry	383
+
+0 2001 . All Rights Reseved.
+

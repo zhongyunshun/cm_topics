@@ -1,0 +1,479 @@
+﻿Construction Management and Economics (1993) 11, 18—29
+Forecasting methodology of national demand for construction labour
+Y. ROSENFELD and A. WARSZAWSKI2
+IDepartment of Civil Engineering, M.I. T. , 77 Massachusetts Ave, Cambridge, MA 92139, USA and 2 Technion—lsrael Institute of Technology, Haifa, 32000, Israel
+Received 7 December 1991 ; accepted 27 March 1992
+The paper presents a systematic methodology for forecasting the demand for construction labour in various skills, within a national economy. Major factors, which determine the future needs for dwelling units and for other types of construction, are discussed in detail, while the strengths and weaknesses of different forecasting approaches are highlighted. Possible sources, available in most countries, for statistical information, as well as the International Classification of Occupations and Economic Branches, are identified and evaluated. The methodology is general and may be applicable to any country. It is illustrated by an example of such a forecast for the next decade, performed by the authors in Israel, in the years 1988 and 1989. The various demand and supply parameters, which formed a basis for this forecast, significantly changed with the unexpected surge of immigration from the Soviet Union in 1990. The effects of this change are discussed separately in the
+
+paper.
+Keywords: Building economics, forecasting, label statistics.
+Introduction
+Most construction industries around the world are characterized by unstable levels of activity. This inherent nature of the industry is usually held responsible for many problematic features pointed out in The Business Roundtable (1983). It causes, inter alia, severe fluctuations in manpower demands, which alternate between periods of severe shortage in construction workers and periods of unemployment.
+　This paper is the result of a study made by the authors for the Israeli Federation of Contractors and Builders, which sought a forecast of construction labour requirements during the decade, 1991—2000, as a basis for planning decisions involving recruitment of new workers, initiation of training programmes and investment in labour-saving technologies.
+The study had three major objectives:
+1. To estimate the demand for workers in major construction skills during the decade 1991—2000. 2. To assess the existing supply of such workers.
+3. To compare demand and supply for each skill, derive conclusions and offer recommendations.
+　This paper focuses on the methodology adopted for the preparation of the labour demand forecast which is
+0144-6193 c 1993 E. & F.N. spon
+felt to be of greater interest to most readers than the specific Israeli case; however, some actual figures are included for illustration purposes. Those figures pertain to trends and estimates which prevailed prior to the significant political changes in the year 1990, which resulted in a tremendous surge of immigration to Israel. The effects of these changes are discussed separately.
+General methodology
+A conceptual model
+Figure I presents the ingredients of the methodology applied to the attainment of the objectives mentioned above.
+　In order to operate this general model, it is necessary to establish, in advance, three bodies of data, each of which may be considered as an independent subproject:
+Database #1 : Expected physical quantities of yearly demand for each type of construction (e.g. square metres of residential buildings, public buildings, etc., kilometres of roads or cubic metres of concrete in heavy civil engineering projects).
+Database : Typical labour-inputs per unit, for each
+Figure 1 General methodology of the study
+type of construction (e.g. manhours of different skills — carpenters, bricklayers, tile-setters, plumbers, painters, etc. — required for every square metre of residential buildings, public buildings, etc.).
+Database #3: Supply of existing workers in each construction skill.
+Mathematical formulation
+Database #1 may be presented by a vector, Q, of physical yearly quantities (Q) of m types of construction, listed at a predetermined order. Database #2 may take the form of a matrix ((s)) which associates each entry (Q) in vector #1 with a list of n different construction skills, and provides specific values (Sij) of required manhours of skill j per unit of construction type i. Once established, the cross multiplication of these two databases results in another vector, L, which presents total labour manhours required in each skill (L.). Thus:
+		(1)
+where :
+i = Index label for type of construction (total of m types).
+j = Index label for type of skill (total of n types).
+L} = Required labour manhours of each skill j.
+Q = Physical yearly quantity of construction type i.
+Sij = Average or typical manhours of skill j, required to produce one unit (e.g. square metre) of construction type i.
+
+
+DATABASE # 3
+EXISTING NUMBER
+oy WORKERS
+IN EACH SKILLCONCLUSIONS
+AND
+RECOMMENDATIONS
+The relationship among these variables are illustrated in Fig. 2.
+Practical limitations
+If all data exist, then the estimation of the demand for workers can be completed by 'translating' the required yearly manhours to required number of workers in each skill. Unfortunately, some parts of this model are merely theoretical, due to diffculties in obtaining information to create these two databases.
+　The composition of database #3, which seems to be a plain data collection gleaned from published labour statistics, also turned out to be quite complicated. Although such publications, in most countries, usually follow the International Labour Organization (ILO) recommendations, they still suffer from inaccuracy, ambiguity, and/or too generalized definitions of construction skills. Nevertheless, it is possible to overcome or bypass numerous obstacles and data gaps by reasoning and making logical assumptions, in order to arrive at a fairly realistic estimation of both demand and supply.
+　Most of the techniques applied in this study are explained in the following sections, starting with Table 1, which is an itemized list of major types of construction.
+　The feature common to the first two groups of data in Table l, is that in most countries they are routinely measured and recorded — in physical units, such as square metres of floor area — by various agencies, since they usually require building permits from several authorities. These data, in turn, are reflected in detail in the national building statistics. Furthermore, the large
+   m types	n types of construction	of skills
+(21(22spSinst	X	
+PHYSICALREQUIRED MANHOURS"IOTAL MANHOURSQUANTITIESPER PHYSICAL UNITIN EACH SKILLFigure 2 Schematic representation of demand estimate
+Table 1 Major types of construction
+
+
+l. Residential buildings2. Non-residential buildings1.1. New construction2.1. Hotels, commercial and offce1.1. l. Conventional methods2.2. Industry (heavy, light)1.1.2. Prefabricated2.3. Public buildings (incl. educational, health1.1.3. Industrialized on site2.4. Farm buildings1.2. Additions to existing buildings2.5. Others3. Construction for other purposes4. Maintenance of existing buildings3.1. Non-building structures (bridges,4.1. Routine maintenancewater facilities, power stations, etc.)
+3.2. Military construction4.2. Renovation and remodellingamounts built of each type in these two groups, as well as their relative uniformity, make it easier and more reliable to establish and use 'typical' values of manhours per unit (e.g. The Building Centre of Israel, 1979).
+　As we continue to study Table l, the availability of data and their reliability decrease substantially. Various projects of non-building structures, i.e. heavy construction or civil engineering works, have very little in common in terms of representative physical units for statistical processing; their most convenient common denominator is their money value, which may only indirectly hint about their labour requirements.
+Demand for residential buildings
+Major sources of demand
+In most countries, residential buildings constitute the
+largest and the most uniform sector of building activities. New residential construction primarily serves directly or indirectly — the following purposes:
+(a) To provide dwellings for newly created households.
+(b) To provide shelter for homeless people.
+(c) To reduce dwelling density in existing housing facilities.
+(d) To replace withdrawals from the existing stock of buildings.
+　The estimate of demand in this work was based on the following assumptions:
+• The identified needs of one dwelling for each new household will be satisfied over the planning horizon (the years 1991—2000).
+ The number of entirely homeless people (in Israel) is negligible. However, substandard conditions and irrepairable buildings will be taken account of, together with other withdrawals from the existing stock of buildings due to physical deterioration, urban development, population migration or natural disasters.
+• The reduction of dwelling density will be gradually attained in the future, as it has been attained in the
+past, through a continuous increase in the average floor area of dwelling units (as explained later), through additions to existing residential buildings and, indirectly, through a declining number of persons per household, All these factors will be taken account of in the estimate.
+— There is a 'structural ratio' of vacancies created by ownership of a second dwelling, ownership of dwellings by non-residents, refurbishments, transfer of ownership, etc. It is assumed to remain around the present level of 5 0/0 . See Jones (1978), Struyk and Walker (1988) for other estimates.
+Methods for projecting the number of new households
+The most important component of residential-building demand — the number of newly created households — can be assessed by several methods, which differ from each other by their comprehensiveness, the number of factors taken into account and the relationships among these factors. Three of these methods are as follows:
+l. Estimating the relationship between the number of households and several major demographic, sociological and economic parameters, which can be either determined or projected into the future. This type of aggregate approach (in terms of consumers) does not vary from the classical forecasting methods for any type of commodity as presented, for example, in Makridakis and Wheelwright (1978), United Nations (1967), and other sources.
+2. Dividing the total population into pertinent states of potential heads of households, e.g. single, married, divorced, widowed, etc.; establishing for each state a consumption rate or 'Headship rate', i.e. the number of households per number of population. Given such a distribution at present and at future target dates, and assuming an unchanged or some projected headship rate, the number of dwellings necessary to satisfy future needs can be derived. The marital states can subsequently be subdivided into sex, age, or income subgroups and the differences in their headship rates noted. This approach requires information about the present and future division of the population into households or potential household heads, according to the pertinent status growth. It was adopted by Jones (1978), Pitkin and Masnick (1986), and others.
+3. Dividing the population, as above, into the different marital states, and analysing the dynamics of their changes over the planning horizon, which for this purpose is divided into control periods of one or more years. The changes are affected by transitions from one state to another, e.g. single to married, married to divorced, etc., with a consequent creation or deletion of households. The analysis requires information on the present distribution of the population into marital-state groups, and on the probability of an individual's transition in a group from one state to another. That probability would obviously be affected by the age of the person — for example, the probability of divorce in the 29—34 age group is different from the 65 + age group. The method is described in The Government of Israel, Ministry of Construction and Housing (1985) and other sources.
+　The selection of the most appropriate method, from those listed above, depends on the availability and reliability of the relevant information, and the desired degree of accuracy of the study itself. In the present study, the first two methods were preferred, while the reasons for the third method not being employed were a lack of reliable data and a reluctance to engage in farreaching assumptions.
+Estimate of the aggregate demand for new dwellings
+The aggregate demand for new dwellings, under thefirst approach as explained above, was derived from the combination of two major parameters, the population of Israel in the planning horizon and the average household size.
+　The first parameter — the population — was adopted from the forecast of the Israeli Central Bureau of Statistics. That forecast takes account of several possibilities of fertility and migration, and consequently offers three population forecasts — Low, Medium and High. Our estimate of demand for dwellings was based on the Medium proj ection of population, and its sensitivity was examined with respect to the Low and the High alternatives. None of these forecasts took into account the present rate of immigration, of course.
+　The second parameter is the average size of a household, which was projected into the future based on its very stable past trend. The results and projections are presented in Table 2. The figures in this table do not account for the needs of the new immigration wave in the 1990s. Its impact will be discussed separately.
+Estimate of the demand for dwellings by various 'status groups'
+In the slightly modified second approach of 'status groups' , data were collected from The Central Bureau of Statistics (1989, 1985) and the attention was focused on the expected average annual changes within the following groups: marriages, divorces, deaths, non-family households, net withdrawals from stock, and
+
+Table 2 Aggregate estimation of the demand for dwellings
+YearExpected population (thousands)Average
+persons per householdYearly increase in number of householdsPeriod1990
+1995
+20004608
+4974
+53703.61
+3.58
+3.5622 200
+24 0001991 to 1995
+1996 to
+2000
+migration balance. Some crucial remarks about each 'status group' are appropriate here:
+Marriages
+A marriage usually creates a new household, unless — one or both partners had already been heads of households before. In the latter case, a marriage can actually reduce the number of households. This will happen when the marriage takes place between divorced, widowed or single people, who had previously been heads of separate households. Since marriages constitute the largest single source of new households, a careful analysis of this factor is necessary to obtain accurate results.
+　In the absence of more detailed information, a rough estimate for new households could be derived from the number of first marriages, which was readily available from statistical sources.
+Divorces
+A divorce usually breaks one household into two separate ones (unless one of the partners moves in to live with parents or friends), and it thus usually creates a demand for one extra dwelling unit.
+Deaths
+Deaths are apt to eliminate existing households and to offer empty dwelling units for recycling, at a rough rate of one unit per two deaths. A closer look at the marital status, age and type of accommodation of each deceased person prior to his or her death can somewhat refine this rough rate of 50 0 but evidently will not drastically change it. In our specific case, the more thorough analysis led to a figure of 45 0 instead of 50 0
+Non-family households
+These are composed of unmarried couples, students, friends, room-mates, etc., who share apartments, mostly on a temporary basis. A need for additional dwellings results from an annual growth of this group of tempor-
+Co ri ht 
+ary households. Yet it is likely to be mitigated in the future together with other demographic trends.
+Net withdrawals from stock
+This item will be discussed later, since it is common to both this and the former method of estimation.
+Migration balance
+This refers to the net number of households added to, or subtracted from, the country in any particular year due to migration. This factor is pertinent only in countries with significant population changes due to immigration or emigration.
+　The information about marriages, divorces, deaths and migration is readily available in most countries on a periodical basis from statistical sources, and can be extrapolated into the planning horizon. The information about non-family households is obtained from census data and occasional sample surveys. Careful attention to these data should be given, if they are only collected at long intervals.
+　The limitation of this second method is its dependence on assumptions about the creation of dwelling needs by different causes, as explained before. For this reason it is usually less reliable than the first method. However, it also has several advantages: it highlights the magnitude and relative importance of each demand source, it can easily indicate the impact of possible effects of changes in demographic trends (e.g. immigration to Israel which was dealt with separately) on the estimate and it may also permit a periodical updating of the overall forecast due to such changes.
+　The breakdown of demand for new dwellings, obtained with this second method, is shown in Table 3.
+　The net withdrawals from the stock of residential buildings are caused by physical deterioration, substandard conditions, natural disasters, urban development roads, parks), and change of use e.g. dwellings to offces). The data about withdrawals are obtainable from statistical sources. In Israel, they constitute about 3 O of the housing stock, annually.
+Demand for non-residential buildings
+Among the four major groups in Table l, residential construction traditionally enjoys, in most countries, the best statistical attention and detailed treatment. Estimation of the future demand for this group of buildings is easiest, too, as it is based on the analysis of direct needs and past performance.
+　Detailed information about the construction of the second group (non-residential buildings), is also usually readily available. It is, however, more diffcult to estimate the future demand for it than that for residential buildings.
+　The forecast of needs for non-residential buildings, in terms of their floor area, can be obtained through two approaches: from the extrapolation of past data for each type of buildings, or, for some types of buildings, from accepted norms as in the case of schools, hospitals, and others. A different approach, which was the one used in this study, draws on the fact that most of the services (education, health, etc.) and commercial activities (offces, stores, etc.) carried on in non-residential facilities, are generated by dwellers of residential buildings. Consequently, it can be expected that there would be a more or less steady relationship (over time) between the volumes of residential and of non-residential buildings, allowing of course for some prominent technological/occupational trends or changes in norms. In the particular case of Israel, the relationship between the floor areas of newly-built residential and nonresidential buildings proved to be stable and fluctuated within a very narrow range around the ratio of 28 m2 of non-residential buildings for every 72 m2 floor area of residential buildings). It is conceivable that a ratio of this kind, although dependent on local norms and standards, can be found also in other countries.
+　The remaining groups of non-residential buildings in Table 1 could not be so readily measured in physical units, and were separately estimated through different approaches, which will be described later.
+Table 3 Demand sources for dwellings
+
+Average for year
+(dwellings)
+Demand sources1991-19951996-2000Marriages
+Divorces
+Deaths
+Non-family households
+Net withdrawals from stock23 950
+6700
+14 050)
+2600
+270023 800
+7700
+( 14 950)
+3000
+3500Total (with zero migration balance)21 90023 050Summary of building construction needs
+The total projected building construction — for both residential and non-residential purposes — is presented in Table 4, with the following clarifications:
+1. The total floor area of residential buildings was obtained by multiplying the number of new dwelling units, as calculated in Table 2, by the expected average floor area per dwelling (including footprints of walls, balconies, staircases, etc.).
+2. While the average floor area per dwelling of the approximately 1.2 million dwellings now existing in Israel is about 85 m2 , the average floor area of new dwellings is substantially larger (around 130 m2 ), thus it increases the average dwelling size by approximately one square metre annually. This improvement is obtained, as noted before, by a continuous 'upward' movement of the population from smaller to larger dwelling units.
+3. The total floor area of non-residential buildings was estimated according to the aforementioned ratio of 28:72.
+4. Based on statistical sources, the annual addition of floor space to existing buildings was estimated as being equal to 6 0 0 of the new residential buildings.
+Translating physical quantities of new buildings into labour requirements
+Three major technologies are employed in building construction in Israel. The first, referred to here as conventional, uses in situ cast-reinforced concrete slabs and columns, and masonry of concrete blocks for exterior walls and partitions. The second method — prefabricated — uses precast concrete components for floor slabs and exterior and interior walls, while the third — industrialized on site — uses concrete slabs and walls cast on site in room-size moulds, and prefabricated exterior facades.
+　As explained earlier, it was necessary to establish a whole database of manhour inputs for each skill per square metre of each type of construction. For residential housing this had been done in great detail in Warszawski and Segal (1976) and was especially updated for this study. For non-residential buildings, however, some simplified assumptions had to be made, due to the scarcity of data, which was also justified by the insignificant sensitivity of the total results to these assumptions. Table 5 presents typical manhour inputs, on site, of major construction skills, per square metre of
+
+residential dwellings.
+Table 4 Projected new building construction for all purposes
+Yearly averages for the period (units)1991-19951996-2000Increase in number of households (dwellings) Replacing withdrawals from stock (dwellings)
+Demand for residential dwellings (dwellings)
+Average size of new dwellings (m2)
+Total floor area of new dwellings (103 m2)
+Total non-residential floor area (103 m2) Total floor area of new buildings (103 m2)
+Additions to existing buildings (103 m2)22 200
+2750
+24 950
+136
+3390 1320
+4710
+28024 000
+3500
+27 500
+ 143 3930 1530
+5460
+330Total construction of buildings (10 3 m2)49905790Table 5 Typical labour inputs in residential construction in three major methods (manhours per sq. metre)
+
+
+Major skills Conventional Prefabricated/ Industrialized traditional precast on site
+
+Foremen
+Formwork carpentry Steel reinforcement
+Concrete casting
+Skeleton erection
+Masonry
+Plastering Tile-setting
+Painting
+Plumbing
+Electricity
+Other trades and unskilled labour2.39
+3.60
+1.00
+1.80
+1.50
+3.20
+1.40
+1.20
+1.55
+0.85
+5.411.38
+0.90
+0.40
+0.45
+0.85
+1.05
+1 .10
+0.99
+0.73
+0.52
+5.431.64
+0.90
+0.40
+0.45
+1.83
+0.05
+1.27
+1.10
+I .39
+0.63
+0.62
+6.04Total23.9013.8016.40
+　Although prefabricated and industrialized construction require, respectively, about two and one additional off-site manhours per square metre they are still quite attractive from their labour input aspect. Moreover, they mostly save manhours in those labour-intensive skills of which there is a very severe shortage in many developed countries.
+　Databases in the format of Table 5 can be established for each country regarding major construction methods of various types of buildings. In order to fit into the general model presented in Figs. I and 2, they must finally result in weighted averages of labour inputs of different skills per physical unit of each type (or aggregated types) of construction.
+　Obviously, there are trade-offs between the amount of effort required to establish such databases and their accuracy. It appears that some compromises, aggregation of categories and approximations are unavoidable. Large categories, of course, should get more detailed attention than small categories.
+Copyright 
+Other construction works
+Non-building construction projects mainly include roads, highways, other transportation works, waterways, water-supply works, harbours, airports, power stations and utilities. Unlike in buildings, it is almost impossible to evaluate these works especially those projects which employ building construction labour) in other than monetary terms. In other similar studies (Warszawski and Segal, 1976), an attempt was made to derive resource requirements from money allocations through an analysis of representative projects in each group. In this study, however, it was revealed that in past labour surveys the number of building construction workers employed in non-building projects was relatively constant and small about 5 0 0) relative to workers employed in building construction. It was therefore assumed that both the number and the composition of these workers will not change substantially — within an acceptable margin of error — during the planning horizon.
+　Military projects were another type of construction studied in this context. Most of these included conventional buildings — barracks, warehouses, offces and various civil engineering works. Although they are not included in regular statistical reports, data about them were procured, analysed and included in the study.
+Maintenance work
+With the ageing of the building stock, an increasing share of the resources devoted to building, in Israel as in other countries, is spent on maintenance and renovation.
+　A large share of such maintenance work is done by small unorganized contractors, whose activities are not clearly reflected in the regular statistic data. Consequently, labour-input requirements for maintenance work must be assessed indirectly.
+　Three major sources of information were available for this assessment, the parallels of which may be found in other countries as well:
+1. Data on typical maintenance expenses of two major public housing agencies which administer much of the rental housing stock in Israel.
+2. Extensive Life Cycle Cost studies Alweyl (1987), which defined 'normative' maintenance expenses for different types of buildings and building
+components.
+3. Breakdown of maintenance expenses taken from Family Expenditure Surveys conducted periodically by the Central Bureau of Statistics.
+　Combination of data from these three sources led to an estimate of the total expense on the maintenance of buildings and the breakdown of this expense into major categories, as shown in Table 6. Finally it led to the assessment of the number of workers required in each skill, as shown in Table 7. Some assumptions about maintenance work done by tenants themselves, and by construction workers in their overtime (based on observed patterns) were also included in the estimate.
+Table 6 Distribution of maintenance cost of residential buildings
+Type of workof costPainting
+Plumbing
+Electricity
+Plastering
+Tile-setting
+Carpentry and aluminium
+Roofing and insulation
+Other works38
+15
+7
+10
+7
+6
+9
+8Total100　Table 7 summarizes the combined expected demand for construction labour in the major skills, during the first and the second halves of the coming decade. Construction of new buildings will still be the major activity in that period, but the relative share of maintenance work will gradually increase.
+Labour supply in the construction sector
+Periodical labour surveys are routinely performed in most countries. The types of these surveys differ with respect to their frequency (and therefore relevance of their information) and the size of the sample upon which they rely (and therefore their statistical reliability). Two types of such surveys are conducted in Israel: one conducted quarterly, the other conducted every 10 years. The former includes 1 of the total labour force and gives an up-to-date approximation of the total labour force, but its breakdown into categories is not reliable due to the small sample size. The 10-year survey is conducted within the framework of the total population census. Although the most recent census was in 1983, the authors decided to use its findings for the breakdown into work categories, as a guideline for the present composition of the construction labour force The Central Bureau of Statistics (1987).
+　The data for both types of survey are collected, analysed and published in accordance with the International Labour Organization (ILO) classification into occupations (ILO, 1969), and the United Nations (UN) classification into economic branches (UN, 1967). Tables 8 and 9 are authentic reproductions of both relevant classifications, taken from The Central Bureau of Statistics (1987).
+These classifications suffer from several limitations:
+(a) Only eight specific categories of building occupations are explicitly enumerated. Such important trades as formwork carpenters, building painters, building electricians and others are not included in group '85' of 'builders' but 'hidden' among other occupations (carpenters, electricians, painters), while their natural place would be among the building trades.
+(b) There is no clear distinction between occupation
+
+and economic branch. While 'occupation' only refers to the type of work the person performs regardless for whom, 'economic branch' refers to the kind of organization that he or she works for, no matter in which occupation. For example, an economic sub-division entitled 'tile-laying' may naturally imply tile-laying occupation, while in fact it includes also the clerks, accountants,
+Table 7 Summary of demand for construction workers in Israel
+Workers' skillFor the period 
+
+New buildings1991—1995
+
+Maintenance Other purposes
+TotalFor the period 1996—2000New buildingsMaintenanceOther purposesTotalFormwork carpenters
+Steel reinforcement
+Masons
+Tile-setters
+Plasterers
+Plumbers
+Electricians
+Carpentry fitters
+Painters
+Foremen
+Other workers11 100
+3100
+4400
+4600
+10 000
+3800
+2800 1900 4100
+7500
+22 0002100 3100 1500 1300
+7900
+2300
+36001500 400 500 300
+600 300 200
+200
+ 600 1100
+530012 600 3500
+4900
+6400
+12 700 7200
+4500
+ 3400 12 600 10 900
+30 90013 100
+3700 5200
+5400
+11 600
+4300 3300 2200 4800
+8800
+25 0001700
+2400 3700 1700 1500 9300
+2700
+41001500 400 500
+300 600
+300
+200
+200
+600
+1100
+530014 600 4100 5700
+7400
+14 600 8300
+5200
+3900
+14 700
+12 600
+34 500Total75 30023 20011 000109 60087 40027 10011 000125 600Table 8 Standard classification ofTable 9 Standard classification of economicconstruction related occupationsbranches
+85 Builders	4 Construction 850 Foremen	40 General contractors 851 Builders	400 General contractors
+852 Tile-setters	40 +	Building NS
+853 Plasterers
+	41	Special contractors
+854 Insulators
+410 Special contractors
+855 Glaziers
+411 Building skeleton
+856 Iron workers
+412 Coating
+857 Concrete pourers
+413 Tile-laying
+858 Prefabricated structures
+414 Plumbing
+859 Builders NEC
+415 Electrical work 
+85 +	Builders NS	in building
+		Building carpentry
+86 Construction machine operators	417	Painting
+860 Foremen	418	Special contractors NEC
+861 Wiremen and cablemen	41 +	Special contractors NS
+862 Crane operators
+	42	Public works and civil engineering
+863 Excavating machine operators
+	420	Public works mixed
+	868	Building machine operators NEC
+	421	Site works
+	86 +	Constr. machine operators NS
+                                                   422 Road construction
+
+                                                   423 Heavy engineering
+　　　　　　　　　　　　　　　　　　　　　　　424 Water, sanitation construction drivers, production workers and other functio- 42 Public works NS
+
+naries employed in the business of tile laying.
+(c) There is no indication of the skill level of the workers. For example, unskilled labour employed temporarily as helpers (in masonry) can, and probably will, define themselves as masons, which may lead to incorrect conclusions with respect to the existing potential in this occupation.
+　Despite these and other limitations, a fairly accurate estimate of the supply of workers was finally derived from an in-depth analysis of the raw data of the census. The details of this analysis are, however, beyond the scope of this paper.　The results of the expected demand, and the existing supply, with respect to the main building occupations, are presented in Table 10. The estimate of the existing supply of labour is mostly based on the results of the 1983 census, which was found to be more reliable than subsequent surveys. The relatively young age of workers, as reported in the survey, assumed a considerable stability of occupational potential in the forecast time range, which could be activated, if needed, by appropriate incentives.
+　The supply figures did not include 'guest labour', or foreign workers, who constituted about 40') of con-Co ri ht 
+Table 10 Supply versus demand of major construction skills
+Workers' skillPresent supplyDemand
+1991-1995Demand
+1996-2000Formwork carpenters
+Steel reinforcement
+Masons
+Tile-setters
+Plasterers Plumbers
+Electricians
+Carpentry fitters
+Painters
+Foremen
+Other workers5200
+1100
+3800
+3600
+3200
+6400
+5100
+2800
+5200
+10 100
+17 10012 600
+3500
+4900
+6400
+12 700
+7200
+4500
+3400
+12 600
+10 900
+30 90014 600
+4100
+5700
+7400
+14 600
+8300
+5200
+3900
+14 700
+12 600
+34 500Total68 600109 600125 600struction labour in Israel and bridged the existing gap between demand and supply. The information created by this study was to form the basis for decisions about dealing with this gap in the future.
+　As noted before, the findings of the study implied that the supply of local construction workers will remain relatively stable in the next decade. The recommendations indicated that the expected shortage of local labour for new construction can be largely satisfied by increasing the share of labour-saving industrialized methods. As far as maintenance works are concerned, the growing need of workers in this category is to be met by initiating training programmes specifically oriented towards this type of work.
+Conclusions
+The paper dealt with forecasting of needs for building resources as a basis for long-range planning. It presented a forecasting methodology and illustrated it by the special case of the Israeli building market.
+　Here are some conclusions of a general nature which may be of assistance in similar studies in other countries.
+1. The demand for construction resources involves both building and non-building construction. The first is measurable in physical units of floor area and can be readily converted into resources needed for its execution. The other is less amenable to physical measurement, and the resources necessary for its realization must be indirectly inferred from its monetary value.
+2. A major component of building construction is residential buildings. The demand for new residential buildings depends on the growth in the number of households, the average floor area of new dwellings, and the replacements needed forwithdrawals from the existing building stock. This information can usually be derived from the available statistical data.
+3. Demand for many non-residential buildings, such as schools, hospitals, shopping centres, public administration, etc., is directly related to the demand for residential buildings. Future demand can therefore be inferred from the forecast demand for residential buildings.
+4. A growing share of the total building labour is needed for maintenance and renovation work of the existing building stock. Information about maintenance expenses is available from the records of rental agencies and owners of commercial buildings, from life-cycle costing data, and from statistical surveys of maintenance expenses. These data must be then converted into labour needs.
+5. The demand for construction labour in various non-building civil engineering works can be derived from the analysis of representative projects in the more prominent categories or inferred from available data about labour employed at present in similar types of work.
+6. A well-structured and reliable survey of existing construction labour is a prerequisite for a realistic estimate of future labour supply. The present ILO classification of building occupations cannot effciently serve as a basis for a reliable survey of that type. A more exhaustive and distinctive classification must be employed for this purpose.
+7. An expected shortage of construction labour can be mitigated by the employment of labour-saving industrialized methods, and by the introduction of training programmes and incentive schemes.
+8. A long-range forecast should not be entirely dependent on existing trends, but take into account any available information which may conceivably affect the demand or supply
+factors — even if this information is not certain and ill-structured. The impact of significant anticipated changes cannot be dealt with only by sensitivity analysis. The forecast should be frequently updated, and the ensuing grading should be flexible enough to accommodate the changes in demand and supply.
+Impact of the immigration surge
+The original forecast described in this study was completed in 1989, based on the outlook in the years 1975—88 — when the demand for buildings was generated by internal demographic factors, rising standards, and insignificant migration balance. A radical change occurred in 1990 and 1991, when a new political reality (in the former Soviet Union) prompted a tremendous immigration wave which could conceivably increase the population of Israel by 20—40 0 over the years 1991—95. The immediate enormous impact of this change on the demand for buildings is quite obvious. The government has had to cope with the sudden increase in the demand by encouraging import of rapid (mostly lightweight) construction methods, providing incentives to local contractors to increase their construction output, permitting import of foreign (guest) workers, and increasing its involvement in the mortgage and rental markets. The long-range effects of the present immigration wave on demand and supply of resources is much more diffcult to assess for the following reasons:
+On the demand side
+(a) The level and stability of the immigration influx over time. The estimates at present vary over a very wide range.
+(b) The demographic composition ofthe immigrants, and its effect on new households creation.
+(c) The government policy with respect to housing assistance — an essential factor in view of the very meagre economic means of the immigrants, and
+On the supply side
+(a) The long-range economic viability of various rapid (mainly lightweight) construction systems, which were imported in order to satisfy the immediate demand for buildings.
+(b) The long-range government policy with respect to importing of guest construction workers — permitted for the first time during the
+present construction boom.
+(c) The prospects of luring into the construction trades new immigrants who were formerly employed in other professions — some promising trends in this respect have been discovered.
+　The methodological treatment of each one of these factors, under the existing uncertainty, is by itself a very challenging subject. The professional interest in its detailed discussion seems to be limited, however, to countries in which such exceptional conditions do, or might occur, and those are very few. Moreover, it is expected that the high uncertainty with regard to the immigration volume, and the application of short-range solutions, which exists now, will not continue for more than 3 to 5 years. Afterwards, the situation will stabilize, and resources planning can be performed with the methods presented here, albeit with a somewhat different database.
+　For all those reasons, it was decided to omit from this paper any quantitative treatment of the present immigration effects and to illustrate the methodological approach presented here by data pertinent to the previous demographical situation.
+　An important lesson can be drawn, however, from this particular case. First, a long-range forecast cannot be entirely dependent on existing trends. The planners must take into account any available information about possible demographic, economic or political changes which may affect the forecast, even if such information is unstructured and uncertain. Second, if changes are anticipated, and they may be very significant, their impact on decisions cannot be assessed merely by sensitivity analysis which implicitly assumes moderate deviations from a central trend. The correct approach would be rather to frequently update the forecasts in view of newly obtained information, and make the forecast-dependent plans flexible enough so that they could be modified as needed.
+Acknowledgement
+The authors gratefully acknowledge the contribution of Mr Dan Segal, MSc, to this study.
+References
+Alweyl, A. (1987) Life Cycle Costs as a Factor in Design of Buildings, Technion, The Building Research Station, Haifa.
+International Labour Organization (1969) International Standard Classification of Occupations IISCO , ILO, Geneva.
+Jones, P. (1978) Projections of Housing Demand to the Year 2000 Using Two Population Projections, Indiana University. Makridakis, S. and Wheelwright, S.C. (1978) Forecasting Methods and Applications, J. Wiley & Sons, New York.
+Pitkin, J.R. and Masnick, G.S. (1986) Households and Housing
+Consumption in the United States, 1985 to 2000; Projections
+by a Cohort Method, Joing Center for Housing Studies of Harvard University, Cambridge, MA.
+Struyk, R.J. and Walker, C. (1988) America's Housing Needs to the 21st Century, The Urban Institute, Washington.
+The Building Centre of Israel (1979) Typical Input Values in Construction Works, The Building Centre of Israel, Tel-
+Aviv.
+The Business Roundtable (1983) More Construction For The Money; Summary Report of The Construction Industry Cost Effectiveness Project, The Business Roundtable, New York, NY.
+The Central Bureau of Statistics (1989) Statistical Abstract of Israel 1988 Vol. 39, The Central Bureau of Statistics, Jerusalem.
+The Central Bureau of Statistics (1987) Labor Force, Main
+Characteristics, Economic Branch and Occupation (1983 Census of Population and Housing Publication No. 13), The Central Bureau of Statistics, Jerusalem.
+The Central Bureau of Statistics (1985) Census of Population and Housing 1983, Nos. 7, 8, The Central Bureau of Statistics, Jerusalem.
+The Government of Israel, Ministry of Construction and Housing (1985) Demand Forecast for Buildings in the Years 1985—1990, Jerusalem.
+United Nations (1967) Methods of Estimating Housing Needs, Department of Economic and Social Affairs, New York.
+United Nations (1968) International Standard Industrial Classification of All Economic Activities, M4, Rev 2, New
+York.
+Warszawski, A. and Segal, D. (1976) Examination of Manpower Requirement in Israeli Construction, Technion, The Building Research Station, Haifa.
+20	Rosenfeld and Warszawski
+
+Forecasting methodology of national demand for construction labour	19
+
+Copyright 0 2001 . All Rights Reseved.
+
+Copyright 0 2001 . All Rights Reseved.
+
+
+
+Copyright 0 2001 . All Rights Reseved.
+
+20	Rosenfeld and Warszawski
+
+Forecasting methodology of national demand for construction labour	19
+
+0 2001 . All Rights Reseved.
+
+Copyright 0 2001 . All Rights Reseved.
+
+20	Rosenfeld and Warszawski
+
+0 2001 . All Rights Reseved.
+
+20	Rosenfeld and Warszawski
+
+Forecasting methodology of national demand for construction labour	19
+
+Copyright 0 2001 . All Rights Reseved.
+
+Copyright 0 2001 . All Rights Reseved.
+
+20	Rosenfeld and Warszawski
+
+Copyright 0 2001 . All Rights Reseved.
+

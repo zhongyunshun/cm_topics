@@ -1,0 +1,427 @@
+﻿Bond University
+Research Repository
+The application of case-based reasoning in construction management research: An overview
+Hu, Xin; Xia, Bo; Skitmore, Martin; Chen, Qing
+Published in:
+Automation in Construction
+DOI:
+10.1016/j.autcon.2016.08.023
+Licence:
+CC BY-NC-ND
+Link to output in Bond University research repository.
+Recommended citation(APA):
+Hu, X., Xia, B., Skitmore, M., & Chen, Q. (2016). The application of case-based reasoning in construction management research: An overview. Automation in Construction, 72(Part 2), 65-74. https://doi.org/10.1016/j.autcon.2016.08.023
+General rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+For more information, or if you believe that this document breaches copyright, please contact the Bond University research repository coordinator.
+Download date: 29 Apr 2025
+
+The application of case-based reasoning in construction management research: an overview 
+ 
+ 
+Xin Hu1, Bo Xia2, Martin Skitmore3, Chen Qing4 
+ 
+1PhD Candidate, School of Civil Engineering and Built Environment, Queensland University of 
+Technology, Garden Point Campus, 2 George Street, Brisbane QLD 4001, Australia.  
+       Email: huxincqu@gmail.com 
+2Senior lecturer, School of Civil Engineering and Built Environment, Queensland University of 
+Technology, Garden Point Campus, 2 George Street, Brisbane QLD 4001, Australia.  
+       Email:  paul.xia@qut.edu.au 
+3Professor, School of Civil Engineering and Built Environment, Queensland University of 
+Technology, Garden Point Campus, 2 George Street, Brisbane QLD 4001, Australia.  
+       Email: rm.skitmore@qut.edu.au 
+4Researcher, Statistical Society for Foreign Economic Relations and Trade of Shenzhen, 6013 
+    Yitianzhong Road, Futian District, Shenzhen 518035, China.         E-mail: richard.q.ch@gmail.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Abstract: Case-based reasoning (CBR) has been widely adopted in construction management (CM) research due to the similar mind-sets of CBR and CM problem solving. However, to date, there has been no systematic review of CBR applications in previous CM studies, raising the question of What is the current status quo of CBR applications in CM research? By using the method of content analysis, this study provides a comprehensive literature review of CM CBR articles published between 1996 and January 2015. It is found that the popularity of CBR applications in CM research is increasing, especially after 2006, with a majority emanating from South Korea. In addition, 17 CBR application fields are identified, with the primary research interests focusing on construction cost estimation, construction tendering, bidding and procurement, and environment and sustainability management. Issues in previous CBR model developments are also identified, mainly related to model hypothesis-testing, reuse of case outcomes, selection of model development methods, use of derivational analogy and automated implementation, together with future research suggestions and directions. This study helps provide CM academics and practitioners with a more comprehensive understanding of the development of CBR applications and implications for future studies. 
+ 
+Keywords: Case-based reasoning, overview, construction management 
+ 
+
+1. Introduction 
+ 
+Soft computing techniques have been widely adopted to solve engineering issues, mainly because they can address problems intelligently through mimicking the human mind [1-6]. In the specific construction management (CM) domain, frequently used techniques comprise the genetic algorithm (GA), fuzzy techniques, artificial neural networks (ANN), case-based reasoning (CBR) and their various combinations [7-10]. Of these, CBR provides decision-makers with a framework for solving current problems through recalling and reusing knowledge and experience stored in prior occurring similar situations [11]. CBR has various advantages over other techniques. In particular, it is easier for to employ CBR to address unstructured issues (e.g., CM) by using historical cases instead of predefined rules, as defining such rules are hard and time-consuming [12]. Another advantage is that CBR can be used even if certain fields are not completely understood by users [13]. This makes CBR particularly suitable for CM novices. 
+ 
+CBR is a suitable technique for dealing with CM issues given the similar mind-sets of CBR and CM problem-solving. CM problem-solving is experience-oriented, and practitioners address CM issues by using their accumulated professional experience and knowledge [14]. Similarly, CBR mines established experience and knowledge to provide solutions to new situations [11]. Moreover, despite the unique features of each construction project, their used methods and procedures are similar [9], which suggests that successful CM practices adopted in prior projects can be applied in new projects, providing important opportunities for the application of CBR. As a result, CBR has attracted various research interests in CM applications such as construction cost estimation [15]. 
+ 
+Despite the suitability of CBR in solving CM issues, its applications in the CM domain are still not clear. For example, its application trends, model development activities, application fields and problems are still largely unknown. Understanding these issues provides useful insights into the implications for future CM-CBR applications. However, no work to date has attempted to address this research gap. Therefore, this paper aims to bridge this gap by providing a comprehensive review of CM-CBR applications based on a robust content analysis of prior published studies. It should be noted that these studies were retrieved from peer-reviewed journals, and unpublished studies conducted in laboratory conditions are not included. First, the CBR mechanism is introduced followed by the content analysis research method. Based on the identified articles, CBR application trends and activities in model development are next described, and the identification and use of CMCBR application fields expounded in detail. Finally, application issues are identified, together with suggestions for future research directions. This review provides CM stakeholders with valuable information on the CBR approach and its applications in the CM domain. 
+  
+2. Case-based reasoning 
+ 
+CBR solves a new problem by remembering a prior similar situation and by reusing information and knowledge of that situation [16]. The term ‘case’ means a prior concrete situation, and accumulated cases combining with an appropriate organization structure constitute a case-base [11]. As shown in Fig. 1, the use of CBR refers to a set of activities, mainly including case representation, indexing, case storage and a CBR cycle. Case representation refers to the information to be included about cases and identifying an appropriate structure to describe cases. Indexing assigns indices to cases to facilitate case retrieval. Case storage refers to organizing an appropriate case-base structure for the collected cases to enable their effective retrieval.  
+ 
+ 
+Fig. 1. Case-based reasoning process. 
+Source: Adapted from Aamodt and Plaza [16] and Watson and Marir [11] 
+ 
+The CBR cycle comprises four sub-phases of retrieval, reuse, revision and retention [16]. It begins with the emergence of a new case/problem followed by case retrieval which involves measuring similarities between the new case and historical cases. This is the core stage of the CBR cycle, and its accuracy is heavily impacted by predetermined similarity assessment criteria [17]. Case retrieval results in the identification of similar cases. If the current case and retrieved cases are sufficiently similar, solutions of retrieved cases can be reused directly without any modification. Otherwise, the solutions should be revised by taking differences between the new case and retrieved cases into consideration. Finally, the new case and its solutions can be retained in the case-base for future reuse. 
+In this sense, CBR is a self-learning system.  
+ 
+The first CBR system, CYRUS, was developed by Janet Kolodner, a question-answering system with rich knowledge of travelling and meetings [18,19]. Since the introduction of this system, various CBR-based systems have emerged, including those aimed at addressing CM issues such as EQUAL for contractor prequalification [20] and CONPLA-CBR for construction planning and scheduling [21]. 
+ 
+3. Research method 
+ 
+Although different methods/techniques are available for reviewing literature, content analysis is used because of its fit for the research purpose. Content analysis can be used to systematically and objectively to make valid inferences based on collected data so as to describe and quantify specific phenomena [22], which helps disclose central and natural aspects of prior CM-CBR papers to depict the whole picture of CM-CBR applications. Its robustness in CM literature review has already been confirmed [8]. Compared with other methods, one of its advantages is that it allows for both qualitative and quantitative operations [8]. When content analysis is used qualitatively, it can be used to record and categorize specific phenomena in a systematic way to reflect the main features of the prior literature [22]. In addition, it can also be used to provide a quantitative analysis of qualitative data. This involves transforming features identified by qualitative content analysis into a quantitative format that helps disclose the latent contents of prior literature by presenting an objective account of events that are not immediately apparent [22]. Thus, content analysis can provide the comprehensive disclosure of CM-CBR applications and ensure results of this study are reliable and valid. Collection of samples and determination of content analysis forms are important tasks in undertaking content analysis. Fig. 2 shows the content analysis procedure of present study. 
+ 
+ 
+Fig. 2. Content analysis procedure. 
+ 
+The collection of samples is to identify materials that will be analyzed. In this study, it refers to the search and selection of peer-review journal articles. An appropriate way of doing this is by collecting articles based on popular academic databases [23]. The article search and selection process of the current study comprised the following four steps, 
+ 
+• Step 1: Determining the academic databases used for article search and selection. The main academic databases, including the Web of Science, Scopus, Engineering Village, Science Direct, ASCE Library, Emerald, Wiley Online Library and Taylor & Francis Online, were used. These databases not only cover mainstream CM journals but also mainstream artificial intelligence (AI) journals such as Expert Systems in Application.  
+• Step 2: Determining the academic journals used for article search. The identified academic databases were searched by adopting the searching strategy: “case-based reasoning” AND 
+(“construction industry” OR “construction management” OR “construction project” OR “construction project management” OR “project management” OR “civil engineering management” OR “civil engineering project management” OR “construction and project management”). This led to the identification of 319 academic journals with the potential of publishing CM-CBR application articles.  
+• Step 3: Obtaining preliminary search results. The individual websites of the 319 journals were searched using “case-based reasoning” during Dec 2014 to Jan 2015. A total of 5,963 candidate academic articles were identified. 
+• Step 4: Formulating article selection criteria and identifying used articles. The criteria include (1) CBR is the main research method AND (2) the application is CM related. In accordance with these criteria, a two-round article selection strategy was used following Yang, et al. [23]. The first round selection checked the articles’ Title, Abstract and Keywords information to determine if they met the criteria. This was followed by a second round selection conducted by reading and analyzing the whole article to double check articles. The first round of selection helps in the speedy exclusion of un-related articles. In addition, based on the second round assessment, it can ensure all selected papers are closely related to the research objective. Moreover, it also helps in understanding the research topics and findings of prior studies, which facilitates the following analysis such as the identification of CM-CBR application fields. Finally, 91 articles from 33 journals were selected and used in this study. 
+ 
+Both qualitative and quantitative analyses were conducted. The qualitative content analysis was used to identify publications in journals, years and geographical areas, identify CM-CBR application fields, and deeply analyze these fields. The quantitative content analysis was employed to determine the number of publications in journals, years and geographical areas, the percentage of activities described in model development, and the frequency of CM-CBR application fields. These allow CBR application issues to be identified, and future research suggestions and directions to be proposed. 
+ 
+4. Overview of CM-CBR research 
+ 
+4.1 Trends 
+ 
+4.1.1 Distribution of Articles  
+ 
+Table 1 shows the distribution of the 91 articles on journals, with the majority of these journals being from the engineering domain. Nearly half of identified articles are contained in four journals, namely Automation in Construction (AIC, 12), Journal of Computing in Civil Engineering (JCCE, 11), Journal of Construction Engineering and Management (JCEM, 11) and Expert Systems with Applications (ESA, 8). Of these four top targeted journals, AIC, JCCE and JCEM are viewed as prominent and influential within the area of construction engineering and information technology by the research community [24]. In addition, articles were also popularly published in ESA, partly as ESA is one of the most influential AI journals. 
+ 
+Table 1  
+Distribution of the articles 
+Code Journal title Number of articles 1 Automation in Construction 12 2 Journal of Computing in Civil Engineering 11 3 Journal of Construction Engineering and Management 11 4 Expert Systems with Applications 8 5 Construction Management and Economics 3 6 Advanced Engineering Informatics 3 7 Computer Aided Civil and Infrastructure Engineering 3 8 KSCE Journal of Civil Engineering 3 9 Canadian Journal of Civil Engineering 3 10 Building and Environment 3 11 Advances in Engineering Software 2 12 Journal of Management in Engineering 2 13 Journal of Asian Architecture and Building Engineering 2 14 Applied Energy 2 15 Energy Policy 2 16 Journal of Environmental Management 2 17 Australasian Journal of Construction Economics and Building 2 18 International Journal of Construction Information Technology 2 19 Tsinghua Science and Technology 1 20 Engineering Construction and Architectural Management 1 21 Civil Engineering and Environmental Systems 1 22 Iranian Journal of Science and Technology Transactions of 
+Civil Engineering 1 23 International Journal of Strategic Property Management 1 
+24 Journal of Civil Engineering and Management 	1 
+25 Information and Management 	1 
+26 Safety Science 	1 
+27 Energy and Buildings 	1 
+28 Journal of Infrastructure Systems 	1 
+29 Journal of Advanced Research 	1 
+30 Journal of Cleaner Production 	1 
+31 Logistics Information Management 	1 
+32 Journal of the Chinese Institute of Engineers 	1 
+33 Facilities 	1 
+	Total 	91 
+
+ 
+4.1.2 Publications in Years 
+ 
+Fig. 3 depicts the trend in CM-CBR publications over time. The average number of publication during 1996-2014 is around 4.74, and the largest publication number reached 11 in 2014. 
+ 
+It is clearly shown that the average annual number before 2006 was less than 4 and has increased since 2006. An independent-samples t-test was conducted to further examine whether there has been a significant increase in the number of CM-CRB publications each year since 2006, As only the January data could be obtained in 2015, the analysis interval of the t-test is 1996-2014. The result of is highly significant (t = -5.963, Sig. = 0.000), indicating that the number of CM-CBR publications during 1996-2014 has increased significantly since 2006. This is taken to imply an increasing interest in using CBR to address CM issues since 2006. 
+ 
+ 
+Fig. 3. Publication trend in years. 
+ 
+4.1.3 Applications in Geographical Areas 
+ 
+Table 2 shows the distribution of CM-CBR publications by countries/regions. The classification is based on the geographical locations of the research data for each study. As many studies involve coauthors from different countries/regions, this classification can better reflect the distribution of CMCBR applications in geographical areas than simply analyzing the locations of the authors themselves. The research findings show that 34 articles are conducted in the South Korean context, accounting for 37.4% of all articles, followed by Taiwan (7), Australia (6), Canada (6), and United Kingdom (6). In addition, 3.3% of articles are multi-country based, and 9 publications do not clearly indicate their research context.  
+ 
+Table 2  
+Distribution by countries or regions 
+Code Country Or Region Number of publications Percentage of publications (%) 1 South Korea 34 37.4 2 Taiwan 7 7.7 3 Australia 6 6.6 4 Canada 6 6.6 5 United Kingdom 6 6.6 6 United States 4 4.4 
+7 Singapore 	4 	4.4 
+8 Turkey 	4 	4.4 
+9 Hong Kong 	2 	2.2 
+10 China 	1 	1.1 
+11 Egypt 	1 	1.1 
+12 Greek 	1 	1.1 
+13 Iran 	1 	1.1 
+14 Portugal 	1 	1.1 
+15 Switzerland 	1 	1.1 
+16 Multi-country 	3 	3.3 
+17 Unspecified 	9 	9.9 
+Total 	91 	100 
+
+ 
+ 
+4.2 Development Activities 
+ 
+CBR model development involves different activities. These are summarized in Table 3 in order of their frequencies of occurrence in the articles. As is indicated, most research clearly describes the case retrieval method used, the information included in historical cases and indexing method, while relatively less attention is paid to the methods used in case retention (4.4%), case storage (20.9%), and case representation (37.4%). The ranking of these activities clearly reflects their importance, with case retrieval methods, information included in historical cases, indexing methods and case reuse and revision methods being indispensable in CBR. 
+ 
+Table 3  
+Activities described in the development of CM-CBR models 
+Code Activities  Percentage 1 Case retrieval 90.1 2 Case representation (determination of case information) 82.4 3 Indexing 76.9 4 Case reuse and revision 62.6 5 Case representation (method determination) 37.4 6 Case storage 20.9 
+ 
+4.3 Applications 
+ 
+17 CM application fields are identified (Table 4), showing CBR to be most popularly used in Construction Cost Estimation (28), followed by Construction Tendering, Bidding and Procurement (12), and Environment and Sustainability Management (11). These are described in detail in the following subsections. 
+ 
+Table 4  
+CM-CBR Applications fields  
+Code Application Fields No. of Publications References 1 Construction Cost 
+Estimation 28 Yau and Yang [9]; Kim, et al. [25]; Kim, et al. [26]; Doğan, et al. [27]; An, et al. [15]; Raphael, et al. [28]; Doğan, et al. [29]; Koo, et al. [30]; Koo, et al. [31]; Kim and Kim [32]; Ji, et al. [33]; Ji, et al. [34]; Hong, et al. [35]; Koo, et al. [36]; Ji, et al. [37]; Kim [38]; Marzouk and Ahmed [39]; Jin, et al. [40]; Kim, et al. [41]; Kim, et al. [42]; Kim and Hong [43]; Kim [44]; Ji, et al. [45]; Lee, et al. 
+[46]; Kim [47]; Jin, et al. [48]; Choi, et al. [49]; 
+Kim and Shim [50];  2 Construction 
+Tendering, Bidding and 
+Procurement 12 Ng, et al. [51]; Ng and Smith [52]; Chua, et al. [53]; Ng [20]; Luu, et al. [54]; Luu, et al. [55]; Ng, et al. [56]; Luu, et al. [57]; Luu and Sher [58]; Dikmen, et al. [59]; Ng and Luu [60]; Juan [61];  3 Environment and 
+Sustainability 
+Management 11 Hong, et al. [62]; Hong, et al. [63]; Hong, et al. [64]; Shen, et al. [65]; Moon, et al. [66]; Hong, et al. [67]; Hong, et al. [68]; Koo, et al. [69]; Ji, et al. 
+[70]; Jeong, et al. [71]; Monfet, et al. [72]; 4 Construction Planning and Scheduling 9 Dzeng and Tommelein [73]; Tah, et al. [74]; Tah, et al. [75]; Yang and Yau [76]; Ng, et al. [77]; 
+Management Rankin and Froese [78]; Dzeng and Tommelein 
+[79]; Ryu, et al. [21]; Chao and Chien [80]; 5 Construction Contract 
+Management 7 Li [81]; Arditi and Tokdemir [82]; Arditi and 
+Tokdemir [83]; Chua and Loh [84]; Chen and Hsu 
+[85]; Cheng, et al. [86]; Chen, et al. [87];  6 Construction 
+Infrastructure 
+Maintenance 6 Morcous, et al. [88]; Morcous, et al. [89]; Morcous and Rivard [90]; Chou [91]; Chou [92]; Motawa and Almarshad [93]; 7 Construction Risk 
+Management 6 Forbes, et al. [94]; Goh and Chua [95]; Goh and Chua [96]; Forbes, et al. [97]; Lu, et al. [98]; Fan, et al. [99]; 8 Value Engineering 2 Naderpajouh and Afshar [100]; Lee, et al. [101]; 9 Facilities management 2 Shohet and Lavy [102]; Lavy and Shohet [103]; 10 Briefing of 
+Construction Projects 1 Luo, et al. [104]; 11 Construction 
+Information 
+Management 1 Yu and Liu [105]; 12 Onsite Supervisory 
+Manpower 
+Management 1 Chen, et al. [106]; 13 Construction Quantity 
+Estimating 1 Du and Bormann [107]; 14 International 
+Construction Market 
+Selection 1 Ozorhon, et al. [108]; 15 Construction Delivery 
+System Selection 1 Ribeiro [109]; 16 Productivity Estimation of Cyclic Construction 
+Operations 1 Graham and Smith [110]; 17 Project Portfolio 
+Selection 1 Abbasianjahromi and Rajaie [111];  
+4.3.1 Construction Cost Estimation 
+ 
+CBR is a representative method for early construction cost estimation through retrieving and reusing either historical cost values (e.g., Doğan, et al. [27]) or historical data used for cost estimation such as quantities of representative items (e.g., Hong, et al. [35]). Yau and Yang [9] investigated the suitability of CBR for cost prediction, finding it to be particularly beneficial at the preliminary design stage, where the lack of detailed information forces estimators to use cost models based on previous similar projects. CBR cost estimation model has been developed for various types of projects, such as high-rise buildings, apartment buildings, river facilities, multi-family housing, pump stations and railroad bridges [34,35,39,42,43,46,50]. 
+ 
+As diverse methods are available for cost estimators such as ANN and multiple regression analysis 
+(MRA), comparing the performance of a CBR model with other methods is meaningful [25]. Nevertheless, inconsistent results have been obtained to date. Kim, et al. [25], for example, indicated that CBR does not perform as good as ANN, but outperforms MRA; while Kim, et al. [26] found that CBR can produce a slightly more accurate result than ANN. The different CBR model design may be a reason to the inconsistent, such as different methods used in indexing and weight determination, and used different data sets.  
+ 
+To improve the performance of a CBR cost estimation model, optimization strategies used in both case retrieval and revision stages were suggested. Nevertheless, no studies explored the optimization of which stage is more effective. Strategies of retrieval optimization focus on the selection of a suitable method to determine indices and their weight. First, both subjective and objective methods are used to select indices, such as interview [15], statistical analysis [40], and their combinations [32]. However, no comparisons of their performance can be found, with the method used often being simply stated without any explanations. Despite this, AI experts believe that people tend to be better than algorithms in choosing indices and therefore a manual  approach is preferred [11]. In terms of optimization the index weights, automated algorithms such as GA, the gradient descent method (GDM), feature counting (FC), regression analysis, ANN and decision trees have been suggested [27,29,30,32,33]. Comparisons of their performance have been made, with both Koo, et al. [31] and Kim and Shim [50], for instance, indicating that a GA-based CBR model performs better than a FCbased model; and Ji, et al. [34] suggesting that GA also outperforms regression analysis which, in turn, performs better than FC. The regression analysis based model developed by Kim, et al. [26] was also found to perform better than a GDM based model; while Koo, et al. [30] indicate that a ANN-based model can produce a more accurate result than both MRA and FC based models. However, it should be noted their performance is sensitive to the model design. For instance, Ji, et al. [33] indicate that the performance of different algorithms can vary greatly when using different combinations of indices. One obvious issue of automated algorithms is their poor explanatory capability [15]. Therefore, methods that can elicit domain knowledge from experts, such as the Analytical Hierarchy Process (AHP), were also recommended [15,47]. An, et al. [15] indicated that the AHP-based CBR model outperforms automated algorithms based models of GDM and FC. Nevertheless, there is no general preference for weight determination by either expert knowledge or automated algorithms.  
+ 
+Strategies were also proposed for the optimization of case revision, such as the two-step CBR adaption model to decrease the need of adaption and increase the capability of adaption [45], and using MRA to compensate the derivation of nominal features [33,40] or both nominal and categorical features [43,48]. Marzouk and Ahmed [39] compared four case revision methods (null adaptation, weighted adaptation, neuro-adaptation and fuzzy adaptation), and found that the fuzzy adaption method outperforms others. However, optimization at the revision stage is generally not as well-focused as that at the case retrieval stage [43]. One possible reason is that the hypothesis of 
+CBR that “similar cases have similar solutions” makes researchers focus more on the performance of case retrieval algorithms. 
+ 
+4.3.2 Construction Tendering, Bidding and Procurement 
+ 
+CBR applications in construction tendering, bidding and procurement include markup estimation, contractor assessment and construction procurement selection (CPS). Given that the markup decision is too complicated and un-structured to model by a rigid rule-based process, the markup value can be derived based on the analogy with historical cases [112]. Instead of estimating a markup value directly, CBR is used to identify a new project’s competition, risk and opportunity levels to help in the markup decision by using either the probability distribution of the low bid or linear utility functions [53,59]. 
+ 
+CBR is also used to assess contractors for purposes of contractor prequalification, establishment of a construction subcontractor registration scheme and selection of contractor/subcontractors. The contractor prequalification relies on expert judgements and CBR is suggested in this process as it can solve un-structured issues by mimicking experts’ problem solving process [20]. Prior studies showed that CBR can generate practicable and robust prequalification recommendations to users [20,51,52]. In terms of the establishment of a construction subcontractor registration scheme, CBR is adopted to formulate contractor assessment criteria and assess applicants by comparing applicants with previous similar registers [60]. Researchers also developed CBR prototypes to formulate generalized selection rules utilized in contractor/subcontractor selection (e.g. Luu and Sher [58] and Juan [61]). 
+ 
+In terms of adopting CBR to address construction procurement issues, Luu, et al. [54] developed a Case-based Procurement Advisory System (CPAS) to help decision-makers in procurement selection. Luu, et al. [55] adopted CBR to develop a procurement selection criteria formulation model, named CaPS, so as to reduce the subjectivity of CPS criteria formulation and support CPAS implementation by considering clients’ needs, project requirements and characteristics of the external environment. Similarly, Ng, et al. [56] used CBR in a two stage of CPS strategy formulation in which CBR is used to formulate procurement selection parameters and select a suitable construction procurement system.  
+ 
+4.3.3 Environment and Sustainability Management 
+ 
+CBR applications in environment and sustainability management include the mining and reusing of sustainable practices and environmental evaluation. With the wide acceptance of sustainable urbanization, prior sustainable practices can be reused to support a current decision-making. Shen, et al. [65] developed a CBR-based Experience Mining System, ExMS, to capture and reuse previous sustainable urbanization practices to promote the implementation of sustainable urbanization.  
+ 
+In terms of environmental evaluation, CBR is used to estimate energy demands [72], predict material quantities to estimate greenhouse gas emissions [66] and establish benchmarks for the free allocation of carbon credits [68]. In addition, CBR has also been adopted to estimate and compare energy consumption so as to select projects with the potential for improved energy saving [62-64], establish incentive and penalty programs for energy saving [69], establish the optimal energy retrofit strategies [67], and predict both material quantities and energy consumption to assess the environmental impact and benefits of existing buildings [70,71].  
+ 
+4.3.4 Construction Planning and Scheduling Management 
+ 
+Construction planners and schedulers normally re-use knowledge and experience gained from historical plans to make decisions in practice [74]. As conventional models, such as rule-based expert systems, fail to meet CM managers’ requirements in dealing with the complexity of construction information [74], CBR has emerged as an alternative method. For instance, a CBR based planning model, CBRidge, was developed to enable clients to capture and reuse prior planning experience and knowledge for highway bridge projects [74,75]. Another CBR model, CasePlan, was also constructed to automate the planning and scheduling process of the erection of power plant boilers [73,79]. Nevertheless, these two models are restricted to either highway bridge or boiler manufacture projects. Ryu, et al. [21] therefore developed a general CBR-based planning tool, CONPLA-CBR, which can be utilized for different project types through integrating the dynamic case approach and construction schedule data. In addition, Rankin and Froese [78] proposed an advanced construction planning tool, CACP, which uses CBR to provide the planning information in support of integrated systems. 
+ 
+CBR has also been used to estimate construction duration, model construction delay mitigation and update construction S-curves. Yang and Yau [76] suggested an integrated CBR and Expert System model for the duration estimation of a slurry wall project at the project planning stage, which  outperforms the performance of CBR and Expert System individually. Ng, et al. [77] suggested a conceptual CBR based framework for construction delay mitigation, in which CBR was employed to scrutinize crashing activities and provide actual time-cost information to support the delay mitigation process. Chao and Chien [80] proposed a project S-curve updating model by integrating ANN and CBR. In this model, based on prior similar cases retrieved by using an innovative progress-matching method, CBR is used to update S-curves during construction.  
+ 
+4.3.5 Construction Contract Management 
+ 
+CBR has been used in construction contract management field to formulate contract strategies, solve disputes and predict litigation results. Traditional methods used to formulate contract strategies are ill-structured, overlook significant factors and rely excessively on practitioners’ experience [84]. To rectify this, Chua and Loh [84] designed a CBR-based CB-Contract prototype which provides a human-machine decision-making system to suggest contact sub-strategies of work packaging, functional grouping, contract type, and award method.  
+ 
+Construction disputes are normally settled by expensive and bias-prone expert-based negotiation and litigation [113], and Li [81] suggested a CBR based MEDIATOR intelligent support model to provide negotiators with neutral suggestions based on prior similar situations. Chen and Hsu [85] proposed an ANN-CBR based early warning system HACM to warn and solve lawsuit issues resulting from change orders. In the HACM model, ANN is utilized to predict the likelihood of litigation, and CBR is employed to yield warnings and suggest procedures for settling disputes when litigation likelihood is relatively high.  
+ 
+When a litigation occurs, it is difficult to predict its outcome due to reasons such as different contract interpretation between parties [1]. CBR provides a potential method to address this issue, and its suitability has been validated by Arditi and Tokdemir [82] who developed a CBR based construction litigation prediction model with a high prediction rate (83%). This is compared with ANN which can only obtain a rate of prediction of 67% [114]. In light of these two studies, Arditi and Tokdemir [83] compared the application of CBR and ANN in the prediction of litigation outcomes, and found that CBR has more advantages than ANN in model flexibility, model explanation ability, missing values and a large number of features handling.  
+ 
+In addition to the above applications, Chen, et al. [87] used CBR to develop an adjudication system to effectively reuse historical experience in adjudicating occupational construction accidents. In addition, it should be noted that the effective use of CBR dispute-addressing models relies heavily on a well-developed case retrieval strategy. Cheng, et al. [86], therefore, proposed an improved case retrieval algorithm by fusing the Euclidean distance and cosine angle distance to help CM managers to obtain information quickly and efficiently. 
+ 
+4.3.6 Construction Infrastructure Maintenance  
+ 
+CBR applications in construction infrastructure maintenance include modelling infrastructure deterioration, capturing and sharing infrastructure maintenance knowledge, and estimating infrastructure maintenance cost. Given the importance of infrastructure maintenance and limitations of existing deterioration models (such as failing to consider the effects of previous conditions and maintenance treatments), Morcous, et al. [88] proposed a CBR-based system, CBRMID, to predict the future condition of infrastructure facilities and optimize maintenance decisions. Morcous, et al. [89] used the CBRMID to model the deterioration of concrete bridge decks in order to predict future conditions, with acceptable results. In addition to CBRMID, Morcous and Rivard [90] proposed a new low-slope roof maintenance management system, CBROOF, by utilizing a combined objectoriented model of roof data representation and a CBR model of service life estimation to overcome limitations of existing models such as non-decomposition in roof data representation and the neglect of uncertainty in the prediction of future conditions. Results indicated that, compared with CBRMID, CBROOF can outperform the conventional Markov-chain model, support the use of a computerized maintenance management system, and provide a simpler and more efficient means of case retrieval.  
+ 
+Motawa and Almarshad [93] adopted CBR to capture and share maintenance knowledge to solve problems of existing models on the ignorance of capture and sharing of maintenance knowledge. In this study, a building maintenance system which combines Building Information Model and CBR was integrated via a web-based application to understand the building deterioration process and help proactive maintenance decision-making for public organizations. Moreover, researchers also used CBR to estimate the cost of infrastructure maintenance in order to solve difficulties in effectively managing numerous projects within a limited budget, and more importantly, help decision-makers in project screening and budget allocation during the preliminary project stages [91,92]. 
+ 
+4.3.7 Construction Risk Management 
+ 
+CBR has been adopted in the main construction risk management tasks, including risk identification, formulation of risk management strategies, risk analysis and selection of risk management techniques. The lack of structured feedback has hindered the effective use of prior safety experience in the construction sector [95]. Therefore, Goh and Chua [95] and Goh and Chua [96] developed a CBR based safety knowledge management system to identify risks by retrieving and reusing safety knowledge retained in hazard identification trees and prior construction incidents. The conventional methods used for the formulation of risk management strategies have limitations, such as difficulties in describing quantity features and determining a work breakdown structure [99]. To solve these issues, CBR was used by Fan, et al. [99] to develop a risk response strategies generation system for subway projects. Although these two CBR-based risk management models are successful, they can only be adopted for the single purpose of either risk identification or the formulation of risk response strategies. Lu, et al. [98] proposed a CBR based subway operation risk analysis model that can be utilized for both risk identification and risk response strategies formulation based on pre-defined concepts of “precursors”, “safety risk” and “safety measures” and their semantic relationships. 
+ 
+Selecting appropriate construction risk management techniques is a crucial task. Although a variety of construction risk management techniques are available, only a few are adopted in practice [115]. One reason is that practitioners do not have sufficient knowledge of the circumstances in which risk management techniques can be used. Forbes, et al. [94] and Forbes, et al. [97] suggested CBR as a promising approach to recommend risk management techniques that can be used in a given situation. A detailed CBR risk management technique selection model was depicted in Forbes, et al. [97], in which a standard problem characterization framework combining the problem nature and the nature of the data is devised to facilitate the CBR application. 
+ 
+4.3.8 Others 
+ 
+As a promising approach for capturing and reusing an organization’s memory, CBR had also been used in other CM fields, including value engineering (reusing previous value engineering ideas and developing practically suitable value engineering expert models) [100,101], life-cycle healthcare facility management (e.g., the prediction of facility maintenance costs) [102,103], building project briefing (suggesting recommendations for Functional Performance Specifications) [104], construction information management (sparse construction databases mining) [105], selection of international construction markets (predicting the potential profitability of an international project and company competitiveness levels) [108], construction quantity estimation [107], construction onsite supervisory manpower management [106], selection of construction project delivery system [109], estimation of the productivity of cyclic construction operations [110] and project portfolio selection [111]. These have enriched the CM-CBR applications. 
+ 
+5. Issues with CM-CBR applications 
+ 
+The increasing popularity of CM-CBR applications is, however, accompanied by several issues. 
+These comprise: 
+ 
+• Ignoring hypothesis testing. The majority of studies use CBR based on the hypothesis that similar problems have similar solutions [12]. CM researchers usually take this hypothesis for granted, and transform this into looking for similar cases in the problem space. Unfortunately, the hypothesis is not always correct [116]. It is reliable when the relationship between the problem space and the solution space is simple and straightforward [107]. However, this is difficult for the majority of CM issues as they are usually un-structured and influenced by various interrelated factors [117]. Empirical work by Koo, et al. [36], for instance, indicates that linear relationships between case similarity and case solution do not exist all the time in cost estimation models. Instead, as stressed by Du and Bormann [107], nonlinear relationships are actually present in most CM situations. 
+• Ignoring the re-use of case outcome. The case outcome provides implications of the performance and/or feedback of a solution or situation, which serves as an important references for decisionmaking [13]. However, most prior studies focus on re-using case solutions, with only 14.3% including the case outcome. This ignorance hinders the understanding of the retrieved solutions or situations, and can result in inaccurate suggestions for a new situation. In addition, it also hinders the expansion of CBR-CM applications in potential fields such as the assessment of a new CM situation. 
+• Lacking guidance on the selection of model development methods. CBR users are advised to choose appropriate methods for model development activities such as case retrieval and revision. However, there are no guides available to date. The methods of most studies are determined based on subjective judgements although some, such as An, et al. [15], do consider the performance of methods available. Nevertheless, these comparisons mainly focus on the weight determination methods for case retrieval.  
+• Ignoring the application of derivational analogy. There are two ways of reusing a prior situation: the transformation analogy and the derivational analogy [118]. Rather than reusing a solution itself (the transformation analogy), the derivational analogy suggests reusing the trace of how a solution was generated. However, the majority of CM studies adopt the transformation analogy, with only few studies, such as Li [81], using the derivational analogy. This hinders the expansion of CBR-CM applications such as the re-use of CM techniques/procedures.  
+• Lacking automated implementations. CBR has the advantage of mimicking the human problemsolving process in automated ways [13]. Nevertheless, around only half (52.7%) of CBR-CM models develop Graphical User Interfaces (GUIs) to automate and visualize their implementation. The lack of GUIs leads to difficulties in using the models in practice because CM managers seldom have sufficient knowledge of the CBR approach.  
+ 
+6. Future research suggestions and directions 
+ 
+The following future research directions are suggested to address the application issues identified above: 
+ 
+• Conducting the alignment measure before model development. The alignment measure is used to test the reliability of the CBR hypothesis by exploring the extent to which similar problems have similar solutions in certain fields [119]. Both qualitative description and quantitative formulation are available, such as those used in textual CBR [119]. Future CM-CBR studies would benefit from using either developed methods (e.g., Raghunandan, et al. [120]) or new proposed methods by themselves to conduct the hypothesis test to ensure the quality of developed models. 
+• Re-using case outcomes. Case outcomes can be combined with other case components to carry out different tasks [13]. Historical CM cases containing case descriptions and outcomes can be used to assess new CM situations. For instance, based on the performance of construction quality management techniques, CBR-based quality management technique assessment tools can be developed to assess the performance of some techniques in a new situation. In addition, when the case description, solutions and outcomes are contained in historical CM cases, they can be used to assess CM solutions and predict potential problems. With quality management, for example, CBR can be used to suggest quality management strategies, assesse their performance and predict the potential problems of using these strategies to avoid loss in a new situation. 
+• Using failure-driven learning to developing CM early-warning systems. This can be viewed as a special situation of reusing case outcomes when all case outcomes are labelled as “failed”. A number of failed historical CM cases are available (such as delays and quality deviations [121,122]) and reusing these cases provides a warning of the likely occurrence of potential problems to avoid similar mistakes. For instance, based on historical construction rework cases, CBR can be modeled as a rework early-warning system to warn of the possibility of rework at an early stage. 
+• Developing guides for method selection. Guides for the selection of methods for different activities in CBR model development need to be developed. This can be viewed as a model optimization issue by choosing and combining different methods for different activities. Nevertheless, this is difficult as each CM situation is unique and the performance of one method varies significantly if some parameters change during the model development [36]. It is suggested that a critical review of the methods used in prior studies be undertaken to develop guides on method selection. 
+• Re-using CM tools, methods, techniques and procedures (CM-TMTPs). CBR can be modelled to suggest CM-TMTPs by using the derivational analogy. This is facilitated by the availability of various CM-TMTPs during the project life cycle. For instance, as a number of planning and controlling TMTPs are available [123], CBR can be used to model the selection of an appropriate construction planning and controlling TMTP for a new project. 
+• Developing automated and visual programs. The development of automated and visual programs would facilitate the adoption of CBR models by CM managers. This can be achieved by cooperating with AI experts for example, which is an effective way of transforming CBR-CM theoretical models into practice and connecting industry with research.  
+ 
+In addition, a CM data repository needs to be established to collect data throughout project life cycles in order to facilitate CBR model development. As CBR relies heavily on historical cases, storing completed case information and providing timely access can be a difficult task in the CM domain due to the inherent nature of construction projects [105]. One possible way of achieving this is through the use of information management systems, which helps in the storage, organization and dissemination of project information [124].  
+ 
+7. Conclusions 
+ 
+CBR offers a suitable approach of addressing CM problems due to its capabilities of recalling and reusing accumulated historical experience and knowledge. This paper provides a comprehensive overview of CBR applications in the CM domain, focusing on application trends, activities involved in model development, application fields, application issues and future research suggestions and directions. 
+  
+The findings indicate the popularity of CM-CBR applications is increasing, especially after 2006, with most studies in the South Korean context. Most prior studies clearly describe their case retrieval methods, the information included in historical cases, indexing methods, and case reuse and revision methods. Methods of case retention, storage and representation are less mentioned. In addition, 17 CM application fields are identified, with Construction Cost Estimation, Construction Tendering, Bidding and Procurement, and Environment and Sustainability Management being the most popular ones. How the CBR was used in these 17 fields is analyzed in detail. Moreover, issues emerged in previous applications are also identified, including ignoring hypothesis testing, ignoring the re-use of case outcome, lacking guides on method selection, ignoring the application of the derivational analogy and lacking automated implementations. To address these issues, future research suggestions and directions are suggested including conducting the alignment measure, re-using case outcome, developing CM early-warning systems, developing guides on method selection, re-using CM-TMTPs, and developing automated and visual programs. 
+ 
+Despite the comprehensive overview of CM-CBR applications, the study still has some limitations. First, it focuses only on previous studies published in mainstream academic journals, and unpublished creative work conducted in laboratory conditions is not included. In addition, the study does not cover the analysis of other important issues in CM-CBR model design such as the methods used in different activities and their performance. These need to be addressed in future. Meanwhile, the present study will help CM stakeholders to better understand prior CM-CBR applications and assist future work in applying CBR to address CM problems. 
+ 
+References 
+ 
+[1] K.W. Chau, Prediction of Construction Litigation Outcome – A Case-Based Reasoning Approach, in: M. Ali, R. Dapoigny (Eds.), Advances in Applied Artificial Intelligence: 19th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems, IEA/AIE 2006, Annecy, France, June 27-30, 2006. Proceedings, Springer Berlin Heidelberg, Berlin, Heidelberg, 2006, pp. 548-553. 
+[2] R. Taormina, K.-W. Chau, Data-driven input variable selection for rainfall–runoff modeling using binary-coded particle swarm optimization and Extreme Learning Machines, Journal of Hydrology 529, Part 3 (2015) 1617-1632. 
+[3] J. Zhang, K.-W. Chau, Multilayer Ensemble Pruning via Novel Multi-sub-swarm Particle Swarm Optimization, Journal of Universial Computer Science 15 (4) (2009) 840-858. 
+[4] S. Zhang, K.-W. Chau, Dimension Reduction Using Semi-Supervised Locally Linear Embedding for Plant Leaf Classification, in: D.-S. Huang, K.-H. Jo, H.-H. Lee, H.-J. Kang, V. 
+Bevilacqua (Eds.), Emerging Intelligent Computing Technology and Applications: 5th International Conference on Intelligent Computing, ICIC 2009, Ulsan, South Korea, September 16-19, 2009. Proceedings, Springer Berlin Heidelberg, Berlin, Heidelberg, 2009, pp. 948-955. 
+[5] W.-C. Wang, K.-W. Chau, D.-M. Xu, X.-Y. Chen, Improving Forecasting Accuracy of Annual Runoff Time Series Using ARIMA Based on EEMD Decomposition, Water Resources Management 29 (8) (2015) 2655-2675. 
+[6] C.L. Wu, K.W. Chau, Y.S. Li, Methods to improve neural network performance in daily flows prediction, Journal of Hydrology 372 (1–4) (2009) 80-93. 
+[7] A.H. Boussabaine, The use of artificial neural networks in construction management: a review, Construction Management and Economics 14 (5) (1996) 427-436. 
+[8] A.P.C. Chan, D.W.M. Chan, J.F.Y. Yeung, Overview of the Application of “Fuzzy 
+Techniques” in Construction Management Research, Journal of Construction Engineering and Management 135 (11) (2009) 1241-1252. 
+[9] N.-J. Yau, J.-B. Yang, Case-Based Reasoning in Construction Management, Computer-Aided Civil and Infrastructure Engineering 13 (2) (1998) 143-150. 
+[10] D. Zheng, S. Ng, M. Kumaraswamy, Applying a Genetic Algorithm-Based Multiobjective Approach for Time-Cost Optimization, Journal of Construction Engineering and Management 130 (2) (2004) 168-176. 
+[11] I. Watson, F. Marir, Case-based reasoning: A review, The Knowledge Engineering Review 9 (04) (1994) 327-354. 
+[12] D.B. Leake, CBR in context: The present and future, in: D.B. Leake (Ed.), Case-Based Reasoning, Experiences, Lessons & Future Directions, AAAI Press/MIT Press, Menlo Park, 1996, pp. 1-35. 
+[13] J.L. Kolodneer, Case-based reasoning, Morgan Kaufmann, 1993. 
+[14] P. Carrillo, P. Chinowsky, Exploiting Knowledge Management: The Engineering and Construction Perspective, Journal of Management in Engineering 22 (1) (2006) 2-10. 
+[15] S.-H. An, G.-H. Kim, K.-I. Kang, A case-based reasoning cost estimating model using experience by analytic hierarchy process, Building and Environment 42 (7) (2007) 2573-2579. 
+[16] A. Aamodt, E. Plaza, Case-based reasoning: Foundational issues, methodological variations, and system approaches, AI communications 7 (1) (1994) 39-59. 
+[17] T.W. Liao, Z. Zhang, C.R. Mount, Similarity measures for retrieval in case-based reasoning systems, Applied Artificial Intelligence 12 (4) (1998) 267-288. 
+[18] J.L. Kolodner, Maintaining Organization in a Dynamic Long-Term Memory*, Cognitive Science 7 (4) (1983) 243-280. 
+[19] J.L. Kolodner, Reconstructive Memory: A Computer Model*, Cognitive Science 7 (4) (1983) 281-328. 
+[20] S.T. Ng, EQUAL: a case-based contractor prequalifier, Automation in Construction 10 (4) (2001) 443-457. 
+[21] H. Ryu, H. Lee, M. Park, Construction Planning Method Using Case-Based Reasoning (CONPLA-CBR), Journal of Computing in Civil Engineering 21 (6) (2007) 410-422. 
+[22] K. Krippendorff, Content analysis: An introduction to its methodology, Sage, 2012. 
+[23] J. Yang, G.Q. Shen, M. Ho, D.S. Drew, X. Xue, Stakeholder management in construction: An empirical study to address research gaps in previous studies, International Journal of Project Management 29 (7) (2011) 900-910. 
+[24] H. Li, G. Chan, J.K.W. Wong, M. Skitmore, Real-time locating systems applications in construction, Automation in Construction 63 (2016) 37-47. 
+[25] G.-H. Kim, S.-H. An, K.-I. Kang, Comparison of construction cost estimating models based on regression analysis, neural networks, and case-based reasoning, Building and Environment 39 (10) (2004) 1235-1242. 
+[26] S.-Y. Kim, J.-W. Choi, G.-H. Kim, K.-I. Kang, Comparing Cost Prediction Methods for Apartment Housing Projects: CBR versus ANN, Journal of Asian Architecture and Building Engineering 4 (1) (2005) 113-120. 
+[27] S. Doğan, D. Arditi, H. Günaydın, Determining Attribute Weights in a CBR Model for Early 
+Cost Prediction of Structural Systems, Journal of Construction Engineering and Management 132 (10) (2006) 1092-1098. 
+[28] B. Raphael, B. Domer, S. Saitta, I.F.C. Smith, Incremental development of CBR strategies for computing project cost probabilities, Advanced Engineering Informatics 21 (3) (2007) 311-321. 
+[29] S. Doğan, D. Arditi, H. Murat Günaydin, Using Decision Trees for Determining Attribute Weights in a Case-Based Model of Early Cost Prediction, Journal of Construction Engineering and Management 134 (2) (2008) 146-152. 
+[30] C. Koo, T. Hong, C. Hyun, K. Koo, A CBR-based hybrid model for predicting a construction duration and cost based on project characteristics in multi-family housing projects, Canadian Journal of Civil Engineering 37 (5) (2010) 739-752. 
+[31] C.W. Koo, T. Hong, C.T. Hyun, S.H. Park, J.o. Seo, A study on the development of a cost model based on the owner's decision making at the early stages of a construction project, International Journal of Strategic Property Management 14 (2) (2010) 121-137. 
+[32] K. Kim, K. Kim, Preliminary Cost Estimation Model Using Case-Based Reasoning and Genetic Algorithms, Journal of Computing in Civil Engineering 24 (6) (2010) 499-505. 
+[33] C. Ji, T. Hong, C. Hyun, CBR Revision Model for Improving Cost Prediction Accuracy in Multifamily Housing Projects, Journal of Management in Engineering 26 (4) (2010) 229-236. 
+[34] S.-H. Ji, M. Park, H.-S. Lee, Cost estimation model for building projects using case-based reasoning, Canadian Journal of Civil Engineering 38 (5) (2011) 570-581. 
+[35] T. Hong, C. Hyun, H. Moon, CBR-based cost prediction model-II of the design phase for multi-family housing projects, Expert Systems with Applications 38 (3) (2011) 2797-2808. 
+[36] C. Koo, T. Hong, C. Hyun, The development of a construction cost prediction model with improved prediction capacity using the advanced CBR approach, Expert Systems with Applications 38 (7) (2011) 8597-8606. 
+[37] S. Ji, M. Park, H. Lee, J. Ahn, N. Kim, B. Son, Military Facility Cost Estimation System Using Case-Based Reasoning in Korea, Journal of Computing in Civil Engineering 25 (3) (2011) 218-231. 
+[38] B. Kim, The approximate cost estimating model for railway bridge project in the planning phase using CBR method, KSCE J Civ Eng 15 (7) (2011) 1149-1159. 
+[39] M.M. Marzouk, R.M. Ahmed, A case-based reasoning approach for estimating the costs of pump station projects, Journal of Advanced Research 2 (4) (2011) 289-295. 
+[40] R. Jin, K. Cho, C. Hyun, M. Son, MRA-based revised CBR model for cost prediction in the early stage of construction projects, Expert Systems with Applications 39 (5) (2012) 52145222. 
+[41] H.-J. Kim, Y.-C. Seo, C.-T. Hyun, A hybrid conceptual cost estimating model for large building projects, Automation in Construction 25 (0) (2012) 72-81. 
+[42] M. Kim, S. Lee, S. Woo, D. Shin, Approximate cost estimating model for river facility construction based on case-based reasoning with genetic algorithms, KSCE J Civ Eng 16 (3) (2012) 283-292. 
+[43] B. Kim, T. Hong, Revised Case-Based Reasoning Model Development Based on Multiple Regression Analysis for Railroad Bridge Construction, Journal of Construction Engineering and Management 138 (1) (2012) 154-162. 
+[44] S. Kim, Interval Estimation of Construction Cost<br>Using Case-Based Reasoning and Genetic Algorithms, Journal of Asian Architecture and Building Engineering 11 (2) (2012) 327-334. 
+[45] S. Ji, M. Park, H. Lee, Case Adaptation Method of Case-Based Reasoning for Construction Cost Estimation in Korea, Journal of Construction Engineering and Management 138 (1) (2012) 43-52. 
+[46] S. Lee, Y. Jin, S. Woo, D. Shin, Approximate cost estimating model of eco-type trade for river facility construction using case-based reasoning and genetic algorithms, KSCE J Civ Eng 17 (2) (2013) 292-300. 
+[47] S. Kim, Hybrid forecasting system based on case-based reasoning and analytic hierarchy process for cost estimation, Journal of Civil Engineering and Management 19 (1) (2013) 8696. 
+[48] R. Jin, S. Han, C. Hyun, J. Kim, Improving Accuracy of Early Stage Cost Estimation by Revising Categorical Variables in a Case-Based Reasoning Model, Journal of Construction Engineering and Management 140 (7) (2014) 04014025. 
+[49] S. Choi, D. Kim, S. Han, Y. Kwak, Conceptual Cost-Prediction Model for Public Road Planning via Rough Set Theory and Case-Based Reasoning, Journal of Construction Engineering and Management 140 (1) (2014) 04013026. 
+[50] S. Kim, J.H. Shim, Combining case-based reasoning with genetic algorithm optimization for preliminary cost estimation in construction industry, Canadian Journal of Civil Engineering 41 (1) (2014) 65-73. 
+[51] S.T. Ng, N.J. Smith, M. Skitmore, A case based reasoning model for contractor prequalification, International Journal of Construction Information Technology 6 (1) (1998) 47-61. 
+[52] S. Ng, N. Smith, Verification and Validation of Case-Based Prequalification System, Journal of Computing in Civil Engineering 12 (4) (1998) 215-226. 
+[53] D. Chua, D. Li, W. Chan, Case-Based Reasoning Approach in Bid Decision Making, Journal of Construction Engineering and Management 127 (1) (2001) 35-45. 
+[54] D.T. Luu, S. Thomas Ng, S.E. Chen, A case-based procurement advisory system for construction, Advances in Engineering Software 34 (7) (2003) 429-438. 
+[55] D. Luu, S. Ng, S. Chen, Formulating Procurement Selection Criteria through Case-Based Reasoning Approach, Journal of Computing in Civil Engineering 19 (3) (2005) 269-276. 
+[56] T. Ng, C. Luu, M. Skitmore, Capitalising Experiential Knowledge for Guiding Construction Procurement Selection, 2012 5 (1) (2005) 9. 
+[57] D.T. Luu, S.T. Ng, S.E. Chen, M. Jefferies, A strategy for evaluating a fuzzy case-based construction procurement selection system, Advances in Engineering Software 37 (3) (2006) 159-171. 
+[58] D. Luu, W. Sher, Construction tender subcontract selection using case-based reasoning, Australasian Journal of Construction Economics and Building 6 (2) (2006) 32-43. 
+[59] I. Dikmen, M.T. Birgonul, A.K. Gur, A case-based decision support tool for bid mark-up estimation of international construction projects, Automation in Construction 17 (1) (2007) 30-44. 
+[60] S.-T.T. Ng, C.D.T. Luu, Modeling subcontractor registration decisions through case-based reasoning approach, Automation in Construction 17 (7) (2008) 873-881. 
+[61] Y.-K. Juan, A hybrid approach using data envelopment analysis and case-based reasoning for housing refurbishment contractors selection and performance improvement, Expert Systems with Applications 36 (3, Part 1) (2009) 5702-5710. 
+[62] T. Hong, C. Koo, K. Jeong, A decision support model for reducing electric energy consumption in elementary school facilities, Applied Energy 95 (0) (2012) 253-266. 
+[63] T. Hong, C. Koo, H. Kim, A decision support model for improving a multi-family housing complex based on CO2 emission from electricity consumption, Journal of Environmental Management 112 (0) (2012) 67-78. 
+[64] T. Hong, C. Koo, S. Park, A decision support model for improving a multi-family housing complex based on CO2 emission from gas energy consumption, Building and Environment 52 (0) (2012) 142-151. 
+[65] L.Y. Shen, J.J. Ochoa, X. Zhang, P. Yi, Experience mining for decision making on implementing sustainable urbanization — An innovative approach, Automation in Construction 29 (0) (2013) 40-49. 
+[66] H. Moon, C. Hyun, T. Hong, Prediction Model of CO2 Emission for Residential Buildings in South Korea, Journal of Management in Engineering 30 (3) (2014) 04014001. 
+[67] T. Hong, C. Koo, H. Kim, H. Seon Park, Decision support model for establishing the optimal energy retrofit strategy for existing multi-family housing complexes, Energy Policy 66 (0) (2014) 157-169. 
+[68] T. Hong, C. Koo, S. Lee, Benchmarks as a tool for free allocation through comparison with similar projects: Focused on multi-family housing complex, Applied Energy 114 (0) (2014) 663-675. 
+[69] C. Koo, T. Hong, M. Lee, H. Seon Park, Development of a new energy efficiency rating system for existing residential buildings, Energy Policy 68 (0) (2014) 218-231. 
+[70] C. Ji, T. Hong, K. Jeong, S.-B. Leigh, A model for evaluating the environmental benefits of elementary school facilities, Journal of Environmental Management 132 (0) (2014) 220-229. 
+[71] K. Jeong, C. Ji, C. Koo, T. Hong, H.S. Park, A model for predicting the environmental impacts of educational facilities in the project planning phase, Journal of Cleaner Production (0) (2014). 
+[72] D. Monfet, M. Corsi, D. Choinière, E. Arkhipova, Development of an energy prediction tool for commercial buildings using case-based reasoning, Energy and Buildings 81 (0) (2014) 152-160. 
+[73] R. Dzeng, I. Tommelein, Boiler Erection Scheduling Using Product Models and Case-Based Reasoning, Journal of Construction Engineering and Management 123 (3) (1997) 338-347. 
+[74] J.H.M. Tah, V. Carr, R. Howes, An application of case-based reasoning to the planning of highway bridge construction, Engineering Construction and Architectural Management 5 (4) (1998) 327-338. 
+[75] J.H.M. Tah, V. Carr, R. Howes, Information modelling for case-based construction planning of highway bridge projects, Advances in Engineering Software 30 (7) (1999) 495-509. 
+[76] J.B. Yang, N.J. Yau, Integrating case‐based reasoning and expert system techniques for solving experience‐oriented problems, Journal of the Chinese Institute of Engineers 23 (1) (2000) 83-95. 
+[77] S.T. Ng, M.Z. Deng, M. Skitmore, K.C. Lam, A conceptual case-based decision model for mitigating construction delays, International Journal of Construction Information Technology 8 (2) (2000) 1-20. 
+[78] J.H. Rankin, T.M. Froese, Information Population of an Integrated Construction Management System, Computer-Aided Civil and Infrastructure Engineering 17 (4) (2002) 256-268. 
+[79] R.-J. Dzeng, I.D. Tommelein, Product modeling to support case-based construction planning and scheduling, Automation in Construction 13 (3) (2004) 341-360. 
+[80] L.-C. Chao, C.-F. Chien, A Model for Updating Project S-curve by Using Neural Networks and Matching Progress, Automation in Construction 19 (1) (2010) 84-91. 
+[81] H. Li, Case-based reasoning for intelligent support of construction negotiation, Information & Management 30 (5) (1996) 231-238. 
+[82] D. Arditi, O.B. Tokdemir, Using Case-Based Reasoning to Predict the Outcome of Construction Litigation, Computer-Aided Civil and Infrastructure Engineering 14 (6) (1999) 385-393. 
+[83] D. Arditi, O. Tokdemir, Comparison of Case-Based Reasoning and Artificial Neural Networks, Journal of Computing in Civil Engineering 13 (3) (1999) 162-169. 
+[84] D. Chua, P. Loh, CB-Contract: Case-Based Reasoning Approach to Construction Contract Strategy Formulation, Journal of Computing in Civil Engineering 20 (5) (2006) 339-350. 
+[85] J.-H. Chen, S.C. Hsu, Hybrid ANN-CBR model for disputed change orders in construction projects, Automation in Construction 17 (1) (2007) 56-64. 
+[86] M.-Y. Cheng, H.-C. Tsai, Y.-H. Chiu, Fuzzy case-based reasoning for coping with construction disputes, Expert Systems with Applications 36 (2, Part 2) (2009) 4106-4113. 
+[87] W.T. Chen, P.-Y. Chang, K. Chou, L.E. Mortis, Developing a CBR-based adjudication system for fatal construction industry occupational accidents. Part I: Building the system framework, Expert Systems with Applications 37 (7) (2010) 4867-4880. 
+[88] G. Morcous, H. Rivard, A. Hanna, Case-Based Reasoning System for Modeling Infrastructure Deterioration, Journal of Computing in Civil Engineering 16 (2) (2002) 104114. 
+[89] G. Morcous, H. Rivard, A. Hanna, Modeling Bridge Deterioration Using Case-based Reasoning, Journal of Infrastructure Systems 8 (3) (2002) 86-95. 
+[90] G. Morcous, H. Rivard, Computer Assistance in Managing the Maintenance of Low-Slope Roofs, Journal of Computing in Civil Engineering 17 (4) (2003) 230-242. 
+[91] J.-S. Chou, Applying AHP-Based CBR to Estimate Pavement Maintenance Cost, Tsinghua Science & Technology 13, Supplement 1 (0) (2008) 114-120. 
+[92] J.-S. Chou, Web-based CBR system applied to early cost budgeting for pavement maintenance project, Expert Systems with Applications 36 (2, Part 2) (2009) 2947-2960. 
+[93] I. Motawa, A. Almarshad, A knowledge-based BIM system for building maintenance, Automation in Construction 29 (0) (2013) 173-182. 
+[94] D. Forbes, S. Smith, M. Horner, Tools for selecting appropriate risk management techniques in the built environment, Construction Management and Economics 26 (11) (2008) 12411250. 
+[95] Y. Goh, D. Chua, Case-Based Reasoning for Construction Hazard Identification: Case Representation and Retrieval, Journal of Construction Engineering and Management 135 (11) (2009) 1181-1189. 
+[96] Y. Goh, D. Chua, Case-Based Reasoning Approach to Construction Safety Hazard Identification: Adaptation and Utilization, Journal of Construction Engineering and Management 136 (2) (2010) 170-178. 
+[97] D.R. Forbes, S.D. Smith, R.M.W. Horner, The selection of risk management techniques using case-based reasoning, Civil Engineering and Environmental Systems 27 (2) (2010) 107-121. 
+[98] Y. Lu, Q. Li, W. Xiao, Case-based reasoning for automated safety risk analysis on subway operation: Case representation and retrieval, Safety Science 57 (0) (2013) 75-81. 
+[99] Z.-P. Fan, Y.-H. Li, Y. Zhang, Generating project risk response strategies based on CBR: A case study, Expert Systems with Applications 42 (6) (2015) 2870-2883. 
+[100] N. Naderpajouh, A. Afshar, A case‐based reasoning approach to application of value engineering methodology in the construction industry, Construction Management and Economics 26 (4) (2008) 363-372. 
+[101] S. Lee, C. Hyun, T. Hong, RETRIEVE: REmembering Tool for Reusing the Ideas Evolved in Value Engineering, Automation in Construction 18 (8) (2009) 1123-1134. 
+[102] I. Shohet, M. , S. Lavy, Development of an integrated healthcare facilities management model, Facilities 22 (5/6) (2004) 129-140. 
+[103] S. Lavy, I. Shohet, Computer-Aided Healthcare Facility Management, Journal of Computing in Civil Engineering 21 (5) (2007) 363-372. 
+[104] X. Luo, G.Q. Shen, S. Fan, A case-based reasoning system for using functional performance specification in the briefing of building projects, Automation in Construction 19 (6) (2010) 725-733. 
+[105] W.-d. Yu, Y.-c. Liu, Hybridization of CBR and numeric soft computing techniques for mining of scarce construction databases, Automation in Construction 15 (1) (2006) 33-46. 
+[106] J.H. Chen, L.R. Yang, W.H. Chen, C.K. Chang, Case‐based allocation of onsite supervisory manpower for construction projects, Construction Management and Economics 26 (8) (2008) 805-814. 
+[107] J. Du, J. Bormann, Improved Similarity Measure in Case-Based Reasoning with Global Sensitivity Analysis: An Example of Construction Quantity Estimating, Journal of Computing in Civil Engineering 28 (6) (2014) 04014020. 
+[108] B. Ozorhon, I. Dikmen, M. Birgonul, Case-Based Reasoning Model for International Market Selection, Journal of Construction Engineering and Management 132 (9) (2006) 940-948. 
+[109] F.L. Ribeiro, Project delivery system selection: a case ‐ based reasoning framework, Logistics Information Management 14 (5/6) (2001) 367-376. 
+[110] D. Graham, S.D. Smith, Estimating the productivity of cyclic construction operations using case-based reasoning, Advanced Engineering Informatics 18 (1) (2004) 17-28. 
+[111] H. Abbasianjahromi, H. Rajaie, Application of fuzzy CBR and MODM approaches in the project portfolio selection in construction companies, IJST, Transaction of Civil Engineering 37 (C1) (2013) 143-155. 
+[112] T. Hegazy, O. Moselhi, Analogy‐Based Solution to Markup Estimation Problem, Journal of Computing in Civil Engineering 8 (1) (1994) 72-87. 
+[113] K. Harmon, Resolution of Construction Disputes: A Review of Current Methodologies, Leadership and Management in Engineering 3 (4) (2003) 187-201. 
+[114] D. Arditi, F.E. Oksay, O.B. Tokdemir, Predicting the Outcome of Construction Litigation Using Neural Networks, Computer-Aided Civil and Infrastructure Engineering 13 (2) (1998) 75-81. 
+[115] A.S. Akintoye, M.J. MacLeod, Risk analysis and management in construction, International Journal of Project Management 15 (1) (1997) 31-38. 
+[116] D.B. Leake, D.C. Wilson, When Experience is Wrong: Examining CBR for Changing Tasks and Environments, in: K.-D. Althoff, R. Bergmann, L.K. Branting (Eds.), Case-Based Reasoning Research and Development: Third International Conference on Case-Based Reasoning, ICCBR-99 Seeon Monastery, Germany, July 27-30, 1999 Proceedings, Springer Berlin Heidelberg, Berlin, Heidelberg, 1999, pp. 218-232. 
+[117] A. Walker, Project management in construction, John Wiley & Sons, 2015. 
+[118] J.G. Carbonell, Derivational analogy: A theory of reconstructive problem solving and expertise acquisition, DTIC Document, 1985. 
+[119] X.-f. Zhou, Z.-l. Shi, H.-c. Zhao, Reexamination of CBR Hypothesis, in: I. Bichindaritz, S. Montani (Eds.), Case-Based Reasoning. Research and Development: 18th International Conference on Case-Based Reasoning, ICCBR 2010, Alessandria, Italy, July 19-22, 2010. Proceedings, Springer Berlin Heidelberg, Berlin, Heidelberg, 2010, pp. 332-345. 
+[120] M.A. Raghunandan, N. Wiratunga, S. Chakraborti, S. Massie, D. Khemani, Evaluation Measures for TCBR Systems, in: K.-D. Althoff, R. Bergmann, M. Minor, A. Hanft (Eds.), Advances in Case-Based Reasoning: 9th European Conference, ECCBR 2008, Trier, Germany, September 1-4, 2008. Proceedings, Springer Berlin Heidelberg, Berlin, Heidelberg, 2008, pp. 444-458. 
+[121] J. Burati, J. Farrington, W. Ledbetter, Causes of Quality Deviations in Design and Construction, Journal of Construction Engineering and Management 118 (1) (1992) 34-49. 
+[122] M. Sambasivan, Y.W. Soon, Causes and effects of delays in Malaysian construction industry, International Journal of Project Management 25 (5) (2007) 517-526. 
+[123] H.N. Ahuja, S. Dozzi, S. Abourizk, Project management: techniques in planning and controlling construction projects, John Wiley & Sons, 1994. 
+[124] N. Craig, J. Sommerville, Information management systems on construction projects: case reviews, Records Management Journal 16 (3) (2006) 131-148. 
+ 
+ 
+
+
+
+
+
+
+1 
+ 
+
+1 
+ 
+
+1 
+ 
+

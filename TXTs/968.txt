@@ -1,0 +1,565 @@
+﻿Construction Management and Economics (1995) 13, 319—333
+A study of the factors affecting construction durations in Hong Kong
+DANIEL W.M. CHAN and MOHAN M. KUMARASWAMY
+Department of Civil and Structural Engineering, The University of Hong Kong, Pokfulam Road, Hong Kong
+Received 18 October 1994; revised 3 January 1995
+This is the second phase of an investigation into the significant factors influencing construction duration of projects in Hong Kong. The results of the first phase led to the conclusion that larger samples were justified to investigate further the discerned relationships. Expanded samples were obtained in this second phase by adding some reported data from Hong Kong projects to the original surveyed sample. The second phase ofthis study also further investigates the relationships between different project characteristic variables such as the construction duration, construction cost, total gross floor area and the number of storeys in the case of buildings. Moreover, a case study on plant utilization level and site labour productivity was carried out on a building site to explore the 'micro-factors' that affect construction durations. The findings are of importance to all construction industry participants as the derived models help to estimate the construction duration of a project on the basis of significant macro project parameters. Additionally, the results of the case study indicate the contribution of significantly variable site productivity levels to overall construction duration and suggest an agenda for future investigations. A third phase of this study is planned incorporating more detailed data collection and analysis of significant factors, as well as international comparisons where possible.
+Keywords: Construction duration, time-related models, productivity case study, Hong Kong.
+
+Introduction
+Hong Kong is famous as a prosperous city, with a very dynamic construction industry (Rowlinson et al., 1993). The city has also developed a reputation for completing major construction projects satisfactorily in incredibly short times. It arouses public interest as to the remarkable speed of construction and some even claim it can only be achieved in Hong Kong. From the point of view of the project participants, an accurate completion time forecast is vital to the success of the construction project. However, there has been very little empirical work done on this subject in Hong Kong's construction industry. Despite the use of planning and programming methodologies in the feasibility study phase, a reliable estimate of the duration of a construction project is rarely easily formulated at the outset. A specific sample survey conducted in early 1994 in Hong Kong identified this common weakness in the construction industry. However, the results indicated that some kinds of in-house standard time norms and related guidelines were often adopted in setting time targets or in making project completion time forecasts, especially in standardized
+0144-6193 0 1995 E. & F.N. spon
+public housing in Hong Kong and buildings in the People's Republic of China (PRC). Past experience together with planning and programming techniques are still two essential tools used for forecasting the duration of a construction project as revealed in the surveyed sample.
+  In practice, the ability to estimate the completion time is often considered a matter of individual intuition, and its reliability really depends on the skill and experience of the planning engineer. With a view to minimizing this kind of subjective effect on project completion estimates, it was proposed to formulate and test some empirical time—cost models, time—floor area models and time— number of storeys models based on different project categories. The duration of a construction project could then be predicted by inputting its significant characteristic variables into the models.
+  Pre-contract determination of the construction duration is essential for proper cash flow forecasting by both the contractor and the client. From the contractor's point of view, it facilitates optimal resource allocation, financial planning, profitability and effciency of capital flow within a predetermined time limit. An enhanced certainty of the timeframe also assists the client's own financial planning and contractor selection. The aforementioned survey was aimed at developing such predictive construction duration models. Interesting interim conclusions were reached and the results will be compared with similar scenarios in other countries, in collaboration with other researchers.
+  Apart from its relationships with the macro project parameters, productivity is also believed to be a significant intrinsic factor affecting the overall project duration and hence a case study on plant utilization and site labour productivity was launched following the sample survey.
+Factors influencing construction durations
+A range of significant factors influencing the duration of a construction project are postulated hierarchically as illustrated in Figure l, based on the general international literature, observed common construction practice and the survey results. These factors include both qualitative and quantitative contributors. The construction duration can be regarded as a function of all these hierarchical factors, that is, construction time = f (all the factors in hierarchy of Figure l). This research is limited to the 'construction' stage and is therefore concerned with the relevant factors.
+Background of the pilot survey in Hong Kong
+The survey had two main objectives. One was to explore and compare the empirical relationships between duration and cost; duration and total gross floor area; duration and total number of storeys; and any other significantly related variables in representative samples within different categories of projects completed during 1990—1993 in Hong Kong. The second was to determine the main causes of delays, if any, in these projects.
+  Two survey questionnaires, one for 'Building Works' and the other for 'Civil Engineering Works', were designed and issued to some target architectural, quantity surveying and consulting engineering practices, construction companies, estates offices of tertiary educational institutions and relevant government departments, in early 1994. Apart from the questionnaire responses, follow-up interviews were scheduled to clarify any vague responses to questions in the survey forms and to obtain a realistic picture of the operations on-site. From approximately 400 questionnaires delivered, 1 1 1 respondents were persuaded to share their project information by returning their forms, leading to an overall response rate of about 28%. Hence it should be noted that this is regarded as a pilot survey only because of the
+CONSTRUCTION PROJECT DURATION
+Construction	LOCATON	TOTAL FACTOR
+/ VALUE'	PRODUCTIVITY
+Client's
+TYPE of and other
+Construction imperatives/ prioritiesOthersCONTRACTUALTechnical Para-
+                     Complexity meters eg: Height;	(on scale
+Floor area; spans	from I to 10)
+Quality
+Earth Dam, framed-
+C)' Constucbm requiredRisk
+Allocation eg: inflation; technical
+Tenderer method (Open, qualification.Selection Management Structure eg: Traditional; Design & Build
+    Payment Modalities eg: Fixed Price; Cost plus; BOT selection
+Preetc.)ManagerialOrganisationacLabourTechnologyVariation OrdersPOST-
+Product
+Steel 
+Building
+ConflictsStructureInformation       Systems stylelevelMotivationSkille
+WorkCOST 
+eg: 
+	Abilitiee	Systems	Motivation
+Note: unlabelled arrows indicate that other factors also contribute
+ Cost / Value IS jn turn affected by all other tactors listed; whereas some other factors also interact to varying degrees
+Figure I Some factors affecting construction project duration
+relatively small sample size of each category within the survey. The I l l projects were classified into three different categories: government buildings, private buildings and civil engineering works, as indicated in Table AT-I in the Appendix.
+Results of the pilot survey in Hong Kong
+Time-cost relationships
+A literature review revealed that the first significant recorded assessment of construction time performance of building projects was initiated in Australia in the late 1960s. After an in-depth exploration on the performance of 329 Australian building projects in 1967, Bromilow et al. (1980) proposed the relationship between construction duration and the construction cost of the building projects to be of the form
+T = K C B
+where T is the duration of the construction period from possession of site to practical completion, measured in working days; C is the final project cost in A$ million, adjusted to a price index; K is a constant describing the general level of time performance is for an A$ 1 million project; and B is a constant describing how time performance is affected by project size as measured by
+cost.
+  After Bromilow, Kaka and Price (1991) conducted a similar survey not only on buildings but also on roadwork projects that commenced within the period 1984— 1989 in the UK, a similar empirical relationship was deduced. The existence of this postulated relationship was considered worth testing for significance within the small samples in each type of construction project in Hong Kong. Tables l, 2 and 3 summarize the corresponding values of K and B derived from each category
+Table 1 Time—cost performance for government building projects in the Hong Kong pilot survey sample
+Type of buildingEstimatedActualK	B	RKBRTotal public buildings
+Public housing
+Other public buildings182.3 0.277 0.81
+188.8 0.262 0.77
+166.4 0.294 0.78216.3
+178.8
+207.10.253
+0.279
+0.2660.79
+0.70
+0.76Table 2 Time—cost performance for private building projects in the Hong Kong pilot survey sample
+Type of buildingEstimatedActualK	B	R	KB	RTotal private buildings
+Private commercial
+Private housing202.6 0.233 0.69 250.9
+232.7 0.187 0.71 245.0
+160.2 0.306 0.69 315.50.215 0.65
+0.202 0.68
+0.197 0.59Table 3 Time—cost performance for civil projects in the Hong Kong pilot survey sampleengineeringType of civil worksEstimatedActualK	B	R	KB	RTotal civil projects
+Roadworks
+Other civil projects252.5 0.213 0.80 291.4
+233.1 0.248 0.89 301.4
+270.6 0.190 0.71 272.30.205 0.78
+0.215 0.80
+0.211 0.77of government building projects, private sector building projects and civil engineering projects. The R value indicates the coefficient of correlation, which is used as an indicator of the variability of points within each category and for comparison between categories. The first set of K, B and R values is based on the initial estimates of cost and duration to indicate what was planned; whereas the second set of K, B and R values is based on what was actually achieved (Chan and Kumaraswamy, 1994). Both sets are tabulated here to indicate the variance between the estimates and actual performance. Similarly, Figure 2 pictures the scatter patterns of points in total government building projects; total private building projects; and total civil engineering projects.
+  The data analysis in general, and the corresponding K and B values in particular, revealed that the three categories of construction projects behaved differently. With special reference to the regression coeffcient of R, the government buildings and the civil engineering works appeared to fit into a pattern more reliably than the private sector premises which varied considerably. One of the possible reasons is that there are more rigorous controls on government financing of metropolitan development projects. Secondly, extensive standardization and the use of large prefabricated assemblies for public housing estates can effectively reduce the design deviations and the time variations to a minimum.
+  The values of K and B for government and private building contracts in the three previous surveys launched by Bromilow et al. in Australia (1969, 1980 and 1988) were found to be reasonably comparable with those of the pilot survey in Hong Kong. However, in applying Bromilow's model, it must be cautioned that direct
+Estirnated time-cost paformance
+T- 182.3 • 	0.81A«ual time-coÄ
+T-216.3 	, R*O.79
+Cost / (I-KS mi.lli<N)
+	I 	"illims)Figure 2(a) Total Governmen building projeas
+10000
+1000
+100Estimated time-cost performance T = 202.6 • 0.233 , R =0.69time-cost pafonunce
+T = 250.9
+/ (TO(S
+/ a-KSFigure 2(b) Total private building projects
+5
+10000100
+Estimated time-cost performance . R -0 8010000
+1000
+100
+Actual time-c(M performance
+T = 291.4 * 	, R = 0.78
+l' CNS millims)
+OKS mlliims)Figure 2(c) : Total civil enøneering projects
+Figure 2 Time—cost relationships in Hong Kong construction projects (from pilot survey)
+comparison of K values is not realistic due to differences in currencies and construction cost levels between different countries. Approximate weightings can probably be incorporated by using conversion rates and relevant indices so as to adjust for the effect of these two factors, although this has not been attempted by the authors.
+Time—floor area relationships
+Based on the hierarchy shown in Figure l, the construction duration also depends on technical parameters such as the total gross floor area and the number ofstoreys in a building. This suggested further investigation of the relationship between time and floor area of a building, the latter being a basic indicator of the size of the building. Cost itself, while dependent on floor area, also depends on other variables such as design efficiency and quality levels, thereby indicating another reason to investigate the more basic variable of gross floor area.
+  A similar model to the time—cost relationship, of the form
+T = LAM
+was assumed, where A is the total gross floor area in m 2, and L and M correspond to the constants K and B in the time—cost empirical model. The proposed time—floor area model was evaluated and confirmed significant within each category of government buildings as well as private sector buildings. This indicated that the total gross floor area of a building is also a significant quantitative factor affecting its construction duration.
+  The corresponding L and M values as derived from the pilot survey in Hong Kong, accompanied by the coefficients of correlation (R) are tabulated in Tables 4 and 5. Similarly, Figure 3 indicates the time—floor area relationships obtained from the pilot survey.
+Table 4 Time—floor area performance for government building projects in the Hong Kong pilot survey sample
+
+Total public buildings	89.8	0.203	0.77
+Public housing	74.8	0.214	0.72
+Other public buildings	51.6	0.268	0.79
+
+Table 5 Time—floor area performance for private building projects in the Hong Kong pilot survey sample
+Type of buildingTotal private buildings
+Private commercial
+Private housing0.150
+0.125
+0.1780.69
+0.65
+0.68
+Figure 3 Time—floor area relationships in Hong Kong building projects (from pilot survey)
+Time—number of storeys relationship
+Besides the total gross floor area, the number of storeys of a building is another technical parameter worth investigating because of the criticality of the 'floor cycle time' restrictions. A similar model, of the form
+
+was postulated, where S is the number of storeys of a building with one single block only. Those projects consisting of more than one block, for example the public housing estates and some of the private housing projects, were not included in the derivation of this model relationship. F and G correspond to the constants K and B in the time—cost model.
+  Tables 6 and 7 show the values of the constants and the regression coefficients as calculated within each category of government buildings and private sector buildings. Figures 4 and 5 indicate the scatter of sample data as provided by the survey respondents in each type of the two different sectors of buildings. The results obtained implied that the duration of building construction has a reasonable direct relationship with the number of storeys of a building project. This does not exclude other parallel relationships with other factors. The correlation coefficients derived here do not indicate as strong a relationship as with the cost or floor area, as seen previously.
+Table 6 Time—number of storeys performance for government building projects in the Hong Kong pilot survey sample
+Type of buildingTotal public buildings
+Public housing
+Other public buildings405.8
+405.80.222
+0.2220.60
+0.60Table 7 Time—number of storeys performance for private building projects in the Hong Kong pilot survey sample
+Type of buildingTotal private buildings
+Private commercial
+Private housing318.5
+232.3
+395.00.243
+0.323
+0.2240.63
+0.67
+0.78Multiple regression on time-related variables
+During the formulation of the three previously proposed empirical models, only one time-related variable was considered at a time. Next, two of the three time-related variables are considered simultaneously to develop an equation relating the construction cost and the total gross floor area of a building with its construction duration by means of a multiple regression method. The number of storeys variable was not incorporated at this stage in view of the small sample size and the hypothesis, as confirmed by the direct pilot sample regressions, that it was not as significant to the overall duration as the other two variables.
+The model was therefore assumed to be of the form
+T = K C B A M
+The corresponding correlation coefficients are different in respect of each category of public and private sector
+
+Figure 4 Time—number of storeys relationships in Hong
+Kong Government building projects (from pilot survey)
+
+
+
+Figure S Time—number of storeys relationships in Hong Kong private building projects (from pilot survey)
+building projects. The model was tested and confirmed to be significant within the small samples in each category of Hong Kong building projects. Tables 8 and 9 give the results of the multiple regression test on the construction time performance with respect to cost and floor area in the small sample of project surveyed in Hong Kong.
+Table 8 Time—cost—floor area performance for government buildings in the Hong Kong pilot survey sample
+Type of buildingMRTotal public buildings
+Public housing
+Other public buildings155.1
+142.3
+76.80.1779
+0.2771
+0.10130.0675
+0.0244
+0.18030.80
+0.72
+0.80Table 9 Time cost—floor area performance for private buildings in the Hong Kong pilot survey sample
+Type of buildingBMRTotal private buildings
+Private commercial
+Private housing238.1
+184.2
+306.70.2018
+0.2440
+0.15100.0116
+0.0202
+0.02450.65
+0.68
+0.74  While it appears possible to adopt any one of the three previous time-related empirical models if the corresponding macro project parameter is given at the planning stage, it also appears better to use the foregoing combined model incorporating both the construction cost and the floor area as derived above when the two project macro variables are known.
+More sample data from the literature and a private property developer in Hong Kong
+The database of questionnaire responses was expanded
+Time--cost relationships
+by adding some reported data from Hong Kong projects to the original surveyed sample. The two sources of information were
+l. A local journal entitled Construction and Contract News (1991, 1992 and 1993 publications).
+2. A local private property developer.
+Altogether 393 construction projects were contained in the expanded sample. Tables 10 to 14 summarize the corresponding constants in the three investigated timerelated models across different categories of construction projects.
+  Figures 6 to 10 project the scatter patterns observed in each category of government buildings, private sector buildings and civil engineering projects from the expanded sample under the foregoing three investigated relationships. The overall results derived from this expanded sample were similar to those obtained from the pilot survey during early 1994, despite some variations in the values of the corresponding constants of the models in each category of public and private sector building projects.
+
+Table 10 Time—cost performance for government building projects in the Hong Kong expanded sample
+Type of buildingKBRSurveyed projectsReported projectsTotal projectsTotal public buildings
+Public housing
+Other public buildings188.7
+285.1 207.30.259
+0.192
+0.2230.81
+0.78
+0.7137
+16
+2195
+60
+35132
+76
+56Table 11 Time—cost performance for private building projects in the Hong Kong expanded sample
+Type of buildingKBRSurveyed projectsReported projectsTotal projectsTotal private buildings
+Private commercial
+Private housing206.5
+212.8
+213.40.200
+0.181
+0.2090.71
+0.71
+0.7236
+23
+1377
+42
+35113
+65
+48Table 12 Time-cost performance for civil engineering projects in the Hong Kong expanded sample
+Type of civil worksKBRSurveyed projectsReported projectsTotal projectsTotal civil works
+Roadworks
+Other civil works250.5 251.2 262.50.206
+0.225
+0.1850.79
+0.87
+0.6938
+15
+23110
+42
+68148
+57
+91Time—floor area relationships
+Table 13 Time—floor area performance for private building projects in the Hong Kong expanded sample
+Type of buildingLMRSurveyed projectsReported projectsTotal projectsTotal private buildings
+Private commercial
+Private housing112.7
+146.4
+126.10.172
+0.134
+0.1700.72
+0.66
+0.6536
+23
+1327
+9
+1863
+32
+31Note: There was no information available as to the gross floor area of the public buildings reported.
+
+Case study on plant utilization levels and site labour productivity
+Introduction
+In addition to the three project characteristic variables considered (construction cost, gross floor area and the number of storeys) productivity is hypothesized to be another essential intrinsic parameter affecting not only the estimated, but also the actual construction project durations. Among the many types of productivity measures, only the plant utilization levels and the efficiency of site labourers are investigated here.
+  Work study techniques were used to analyse plant utilization levels and site labour productivity. Two common work measurement techniques, activity sampling (work sampling) and continuous time study (Salim and Bernold, 1994) were adopted for this case study. Activity sampling involves a large number of instantaneous observations made at fixed predetermined intervals. In this study, observations were made at 30 second intervals, on both the construction plant and the site labourers (Heap, 1987). Standard data sheets were prepared and used to obtain the productivity data. A sample of the type of basic data sheet used is given in Table AT-2 of the Appendix. The technique of activity sampling needs adequate observations to fulfil the degree of accuracy for a given confidence level.
+  In sampling of construction operations, a confidence level of 95% and an absolute limit of error of plus or minus 5% are usually postulated. A basic productivity level of 50% is also assumed in the first instance. The required number of field observations for each operation was then computed to be 400.
+  On the other hand, continuous time study is more appropriate for operations of a cyclic nature with few resources involved. A construction operation usually consists of several events or elements and the study involves the measurement ofthe total actual time elapsed to implement a specific job which comprises a number of events (Salim and Bernold, 1994). Most often, a manual approach allows the stopwatch to run continually. The time for each observation is recorded and then the incremental times are obtained from consecutive readings.
+General project information
+Table 15 gives basic information on the new building construction which was the subject of this case study.
+Plant utilization levels
+Tower cranes
+Time—number of storeys relationships
+Table 14 Time—number of storeys performance for private building projects in the Hong Kong expanded sample
+Type of buildingGRSurveyed projectsReported projectsTotal projectsTotal private buildings
+Private commercial
+Private housing308.4
+239.6
+394.00.205
+0.275
+0.1610.60
+0.53
+0.6432
+23
+916
+9
+748
+32
+16Note: There was no information available as to the number of storeys of the public buildings reported.Among the most important items of plant on many construction sites, tower cranes are the most common lifting equipment for combined horizontal and vertical transportation of site materials. They have been widely used in Hong Kong, not exclusively for high-rise building construction but also for material handling, as in steel mill yards, and other construction activities such as foundation caisson works and prestressed concrete component assembly operations in highway projects (Lee and Poon, 1989). Proper planning of their use on-site
+
+
+Figure 6 Time cost relationships in Hong Kong government building projects (from expanded sample)
+should enable all site trades to share the lifting equipment without any need for costly queueing or frequent idling. A tower crane must be assured of continuity of lifting work. The entire construction process for the superstructure of a high-rise building depends, to a large extent, on the capacity of the crane(s) to move and position formwork, hoist and place reinforcement, and transport and place concrete (Coffey and Skinn, 1990). Apart from these activities, other demands upon the crane include such operations as offloading lorries, moving materials and equipment around the site and so on. The primary objective of this study is to estimate the frequency of handling of different types of site materials by the crane and its utilization level on a typical building site during normal working hours. Table 16 illustrates the overall results of the field observations by classifying the data with respect to the types of operations. Crane utilization levels have been defined by Emsley and Harris (1993) as
+ Time spent by the crane working  x 100% Time the crane is available for work
+  Ready mixed concrete is always delivered to building sites by truckrnixers from offsite batching plants. In Hong Kong, two commonly used concrete placing methods are by pump and by crane and skip bucket (Anson and Wang, 1994). Placing by pump is common in Hong Kong, particularly for big pours in beams and slabs. Crane and skip placing also allows a single process to integrate the horizontal and vertical transportation, usually used in columns and walls where both the concreting pour size and the rate of pouring is less.
+Prior to the site study, the average utilization of the
+
+Estimated time-cost performance T=212.8
+Cost / a-KS millions)Figure 7(b) : Private commercial buildings (sample size = 65)
+Figure 7 Time—cost relationships in Hong Kong private building projects (from expanded sample)
+
+Figure 8 Time—cost relationships in Hong Kong civil engineering projects (from expanded sample)
+tower crane as estimated by the site personnel was said to be 70%, which is higher than (but close to) the observed value of 62.3%. It can be concluded that the site agent somewhat overestimated the performance of his crane in this case. Note that it was assumed that returning or 'moving empty' was also taken as non-productive time for the purpose of the broad classification in this case. Non-productive time is 37.7%, of which 20.6% of the total time is 'idling', mainly due to the delivery delay of concrete by truckmixers to site. No breakdowns of cranes were observed in this study and once concrete placing had been carried out by the crane and skip bucket method, the crane was seldom diverted to other operations so as not to interrupt the concrete supply.
+Truckmixer activities on-site
+Truckmixers, as essential items of concrete placing plant for delivery, need to be fully utilized. Table 17 shows the overall activity profile of truckmixers while on site. Despite more than 60% of the time on site discharging concrete, the truckmixers spent 11.3% of their time queueing while they were on site.
+  But site congestion and access problems can hinder a smooth supply of concrete in a general situation. A good match of uninterrupted supply of ready mixed concrete to the demands for it is critical.
+Truckmixer time on site
+Table 18 classifies the time spent by truckmixers on site and illustrates the average times for discharging concrete for both pumped and skipped pours. The sample size
+
+Actual time-floor area performance T = 146.4 * 0.134 , R = 0.6610000
+Total goss floor area / (sq.rn.)Figure 9(b) • Private commercial buildings (sample size = 32)
+Figure 9 Time—floor area relationships in Hong Kong private building projects (from expanded sample)
+
+Actual time-number of storeys paformance T = 239.6 * 0.275100
+	1	10	100
+Nurnber of storeysFigure I O(b) : Private commercial buildings (sample size = 32)
+Figure 10 Time—number of storeys relationships in Hong Kong private building projects (from expanded sample)
+recorded was 10 for each placing method. In spite of the vast differences between the actual times for unloading, the average percentage times for discharging based on total site time, are very comparable for the two placing methods of concrete. They were also similar to the percentage derived from the technique of activity sampling, as in Table 17. As for the overall timing, the skipped method needs considerably more time on site for unloading than the pumped one. Apart from the faster placing rates achievable with pumps, there is more waiting time for the crane to transport the concrete to the placing location required and then swing back to the discharging point of the truckmixer for the next pour.
+Derivation of standard operation time for one cycle of craned concrete pour
+For a concreting gang size of two persons; on the fourth floor level; a horizontal distance from tower crane to closest point accessible by truckmixer of 40 m; when the structural element to be poured is column and wall; and the sample size for the concrete pour cycle is 52, Table 19 shows the average, shortest and longest time for elemental operations for one cycle of craned concrete
+pour.
+  It will be noted that timing alone cannot yield a fair evaluation of the working ability or efficiency of a construction worker. Moreover, the majority of the labouring activities on construction sites are performed not only by men in their prime but also by older men, women and youngsters, who may not be equally fit. A series of performance ratings (ranging from, say, 50 to 150) on site labourers can be assigned and hence not only the timing but also the corresponding observed rated performance of the worker can be recorded. The basic time for each elemental operation can be obtained from the observed time and the assessed rating (Heap, 1987). Then the standard time for the whole operation, say for concreting, can be derived from the sum of the basic elemental times, to which the appropriate relaxation allowances have been added, together with any other allowances for contingencies, interferences, and so on. The standard time so derived can be used for programme planning, estimating and control of site tasks, for example, to estimate what volume of concrete can be placed by the crane within the time available in a typical working day. Such production norms will directly affect the construction duration of a building project. The standard time was not estimated in this case, since it
+Table 15 General building project data
+
+Foundations
+
+Type	Caisson
+Estimated start date	23rd November, 1992
+Estimated completion date 20th July, 1993
+Contract period	8 months
+Contract sum	HK$ 7.1 million
+SuperstructureType
+Estimated start date Anticipated practical completion date Contract period
+Contract sum
+Total gross floor area Number of storeys
+Type of contractReinforced in-situ concrete frame
+1st December, 1993
+30th April, 1995
+17 months
+About HK$ 90 million
+13 571 m2
+13 (including 4 levels of basement)
+Lump sum with quantitiesTable 16 Results of the site observations (observed frequencies) for the crane activities (over 3 days)
+
+	Lifting of	Non-productive
+
+Formwork Reinforcement Concrete Others Moving empty Idling
+
+63	73	35	83	70	84
+	Total 254	Total = 154
+	62.3%	17.1%	20.6%
+
+was the first case study done and more observations were considered necessary before assigning performance ratings and allowances. This is envisaged in the third phase of this study.
+Site productivity
+Productivity is broadly defined as a ratio of output to input, viz the arithmetical ratio between the amount produced (output) and the amount of any resources used during the process of production (input). The resources may be land, materials, machinery, labour, capital, energy or, in the general case, a combination of all of them (Heap, 1987).
+  The work investigated below is based on 20 concrete pours, including 10 pumped pours and 10 skipped pours, each observed from start to finish on the superstructure of a new building. Productivity indicators such as m3/hour, m3/man hour, m 3/hour for each unit of plant (m3/plant hour) and the number of truckmixer hours spent on site relative to the size of concrete pour (m3/truckmixer hour) are compared for the two different concrete placing methods, that is, pumping and crane and skip. With a view to estimating the production rates on site, the duration of pour is taken as the time between the start of the discharging of the first truckmixer and the finish of the discharging of the last for each working day. The pour duration excludes scheduled lunch breaks.
+  The investigation involved measurement from the beginning of the concrete pour to its completion, and encompassed observations of the concreting gang, the plant and the movements of truckmixers around the site. Table 20 summarizes the average volume for each type of pour, the average measured performance on site and the average uninterrupted performance, which is the estimated productivity assuming no interruption to concrete supply during the concrete placing. The average dur-
+Table 17 Truckmixer activities observed on the new building site in this case study
+Unloading Idling
+Queueing Washing (unloaded)Skipped C + W 62.5%20.4%Note: C + W column and wall; truckrnixer travelling and positioning time was considered negligible on this site.
+Table 18 Truckmixer time on site for the two different concreting placing methods
+Pumped B + S Skipped C + WAverage time on-site (min.)
+Average time unloading (min.) Average % time unloading24.5
+15.0
+61.2%42.9
+25.9
+60.4%Note: B + S = beam and slab; C + W = column and wall; maximum pump capacity = 40 m3/hour; skip bucket capacity =
+0.8 rn3
+ation of all pumped pours was 7.16 hours and of craned pours 4.31 hours.
+  From Table 20, it is deduced that the output placing rates by pump are significantly higher on average than those for crane and skip placement for the superstructure. If there is a good matching supply of concrete, the placing by pump method gives a continuous flow of ready mixed concrete through the pump and delivery pipe system. Another significant point to be noted is the much higher productivity of a concreting gang achieved by the pumping of superstructure pours. The figure of 2.2 m 3/man hour is nearly double that for skipped pours. The overall results derived from this case study are very comparable with, though somewhat lower than, those of Anson and Wang (1994).
+Results of activity sampling for different labour categories
+For activity sampling, three main categories of crew activities were established:
+1. Direct work — includes the activities of the crew that are directly involved in the actual process of assembling or adding to a unit being constructed (Oglesby et al., 1989).
+2. Essential contributory work — involves all elements which are important to completing a work unit, though not adding directly to the unit being constructed.
+3. Ineffective activity — includes doing nothing or doing something that is not important to finish the end product.
+  Table 21 summarizes the overall results of the field observations for four types of construction workers on the new building site formwork riggers, steel bar benders, steel-fixers, concretors. The activity sampling data provided a more comprehensive information on the different categories of work performed by each type of site labourer.
+  When glancing through the first two of (direct work), the steel-fixing gang spent most of their time (40.6%) on direct work whereas the bar-bending gang spent the least (11.1 %). The direct work carried out by the steel-fixing gang includes placing rebar in the form, placing bar supports, aligning and spacing of rebar, tying of rebar,
+Table 19 Average observed time of elemental operations for one cycle of craned concrete pour
+
+Observed time (min, sec)
+Elemental operationsShortestAverageLongestI Discharge concrete from truckmixer into skip bucket
+2. Lift and swing bucket to placing location
+3. Position skip bucket to discharge concrete
+4. Open bucket and pour concrete
+5. Lift and swing back empty
+6. Position skip bucket
+Average observed time for whole operation0' 30
+0' 50
+0' 25
+0' 35
+0' 50
+O' 20"
+3' 30"1 10"
+1 05"
+1 10"
+O' 50" 1 00"
+O' 25"
+5' 501 40"
+1 30"
+1 25"
+1' 35"
+1 10"
+0' 35
+7' 55Table 20 Comparison of average performances of two different concrete placing methods
+Placing methodAverage pour sizeAverage measured	Average uninterrupted performance	performanceOverall
+(m3/h)Gang
+(m3/mh)Plant
+(m 3/ph)Truckmixer Overall
+(m 3 /tmh)Gang	Plant
+(m3/mh)	(m3/ph)Pumped B + S
+Skipped C + W157.2
+48.622.0
+11.32.2
+1.220.7
+10.812.8	29.7
+9.7	16.03.3	29.7
+1.6	16.0Note: B + S = beam and slab; C + W = column and wall; h = hour; mh — man-hour; ph = plant-hour (either truckmixer-hour on site.
+Table 21 Overall results of field observations for four types of construction workers on sitepump or crane); tmhActivity categoryFormwork riggers (0/0)Bar-bending gang ( % )Steel-fixing gang (%)Concreting gang (%)(a) Direct work
+(b) Carrying tools and materials within working area
+(c) Work-related communications
+(d) Rehandling with crane
+(e) Measuring and other minor contributory work
+(f) Walking empty handed
+Searching for tools and materials
+(h) Obtaining tools and materials outside working area (i) Waiting for tools, materials, etc.
+(j) Correcting finished work
+(k) Idle (unexplained)
+(l) Non-work related communications
+(m) Not observable
+Total30.4
+15.7
+1.9
+0.1
+17.9
+10.7
+5.4
+5.2
+0.1
+0.2
+10.1
+0.1
+2.3
+100.01 1.1
+28.2
+6.2
+3.8
+12.0
+1 1.8
+4.9
+0.4
+4.2
+0.4
+16.0
+0.3
+0.8
+100.040.6
+15.7
+3.7
+0.1
+2.4
+10.2
+2.5
+3.3
+2.5
+0.4
+0.4
+1.6
+100.016.0
+35.3
+0.2
+2.5
+2.0
+0.2
+0.9
+29.5
+0.1
+9.9
+0.2
+0.9
+100.0Table 22 Activity analysis profiles of different site worker categories
+Worker categoryDirect workContributory work Ineffective activityFormwork riggers Bar-bending gang
+Steel-fixing gang Concreting gang376
+85
+375
+19930.4%
+11.1%
+40.6%
+16.0%438 386	50.2%
+201
+504421
+298
+347
+54234.1%
+38.7%
+37.6%
+43.5%and placing bar separators. But for the bar-bending gang, only the actual bar cutting and bending operations are considered in the category of 'direct work'. Almost 18% of the time of formwork riggers was spent for measuring the size of plywood and other contributory work such as marking the cut positions of timber, cutting
+with an electrical saw, etc (e). This is, in fact, a very common operation for a formwork rigger on site. The performance of a concreting gang is based on teamwork. Its productivity is highly attributed to the coordination of truckmixer, crane and concreting gang, the cooperation among gang members and the effective leadership of the
+Table 23 Speed indicator of construction in the Hong Kong pilot survey sample
+Type of buildingAverage values of speed indicator (m2/week)Total government buildings
+Public housing
+Other public buildings
+Total private buildings
+Private commercial
+Private housing256
+277
+206
+156
+160
+152gang foreman in allocating tasks to the relevant individuals (Anson and Wang, 1994). Considerable time (29.5%) is spent for item (i) in waiting for tools, materials etc. as in Table 21. Furthermore, the overall ineffective time of the concreting gang for crane and skip placing method was 43.5% as in Table 22. I Table 22 compares summaries of the categories of direct work; essential contributory work (items (b) to (e) in Table 21); and ineffective activity (items (f) to (m) in Table 21) across the different categories of workers. Despite large variations between direct work and contributory work within each worker category, their overall working efficiencies (direct work + contributory work) appear quite similar. But it is worth finding ways of increasing the proportion of direct work of each type of worker in order to achieve a higher overall productivity, especially for the bar-bending gang and the concreting gang, which are lower in this respect, as revealed by this case study. Another aspect to be improved is to reduce the proportion of ineffective activity to a minimum.
+Macro-speed indicator of construction in the Hong Kong pilot survey sample
+Gale and Fellows (1990) adopted a speed indicator ofm2 ofbuilt-up area per week (m2/week) to evaluate the speed of construction, mentioning that the average speed had increased in the UK from 157 m2/week to about 169 m2/ week during the 10 years up to 1990. This may be called the 'macro' speed indicator of construction compared to 'micro-indicators' such as the productivity norms considered previously or 'meso-indicators' such as average floor cycle times. Table 23 indicates the values of the speed indicator within each category of public and private sector building projects surveyed during early 1994 in Hong Kong. An interesting conclusion is that public housing projects appear to have a larger floor area completed per week. One of the principal contributing factors is the extensive standardization of designs and procedures, together with the wide use of large prefabricated assemblies and special formwork systems for public housing estates in Hong Kong.
+Comments on the case study
+The foregoing case study on a new building site illustrates the wide variability in plant utilization and direct working time of construction labour. The choice of construction technology and associated site methodologies, and the motivation of workers can well be significant in influencing these factors. It can be concluded that both plant utilization levels and site labour productivity are significant intrinsic factors affecting the overall construction duration of a project and therefore merit special attention and control.
+  Taking concreting as an example, the time for one cycle of pumped or craned concrete pour will determine how much concrete can usually be placed in a typical working day and hence affects the floor cycle time required. The floor cycle time in turn determines the overall project completion time. With a view to completing a construction project in the shortest reasonable time, an optimization is necessary not only on plant utilization but also on the productivity of the construction workers.
+Conclusions
+The second phase of this study into construction durations identified and studied some significant factors affecting construction durations. Relationships were tested between construction duration and different project characteristic macro-variables such as construction cost, gross floor area and the number of storeys of the building, based on data from a pilot survey conducted during early 1994 as well as from some reported projects in Hong Kong. The empirical model relationships that were derived displayed significant correlations and the time—cost relationships were comparable with previous studies in Australia. The government building projects, private sector building projects and civil engineering projects behaved differently. Public sector buildings and civil engineering works were seen to be more consistent but private sector buildings differed considerably. These preliminary models can be used to forecast the first-order project durations on the basis of significant quantitative parameters as cited above within given categories of projects.
+  The investigation of the influence of productivity on construction durations through a case study on a new building construction site demonstrated its significance as an essential intrinsic parameter also influencing the construction duration. The case study included field investigations into
+l. Plant utilization levels such as tower cranes and truckmixers;
+2. A comparison of the average productivity of different concrete placing methods such as pump and crane and skip;
+3. The activity analysis profiles of construction workers such as formwork riggers, steel bar benders, steel-fixers and concretors on site.
+This field study revealed that such 'micro-factors' embodying site organizational variables must necessarily affect construction durations, and merit further investigation in the third phase of this study.
+  Besides the project characteristic macro variables (for example construction cost, gross floor area and number of storeys) and the micro factors that affect productivity, it is noted that other significant factors also influence construction durations. Those not taken into account so far entail project complexity, quality level required, management style, overall organizational structure of project team, communications between parties, type of contract, and so on. Further statistical analysis and case studies will be carried out, so as to test the validity of the proposed model relationships as well as to identify other significant variables. Apart from these, it is intended to compare the results of this study in Hong Kong with that of other researchers in Hong Kong and other countries, who are investigating construction project durations and related factors including productivity.
+Acknowledgements
+The authors are grateful to the many private sector architects, quantity surveyors, engineers, contractors and developers as well as many officers of government departments, viz: Architectural Services Department, Housing Authority, Highways Department, Civil Engineering Department, Water Supplies Department and Drainage Services Department in Hong Kong, for their helpful collaboration in this survey.
+References
+Anson, M. and Wang, S.Q. (1994) Hong Kong performance yardsticks for concrete placing during building construction, The Hong Kong Institution of Engineers Transactions, 1(1), August 1994, 1—18.
+Bromilow, F.J. (1969) Contract time perforrnance expectation and the reality, Building Forum, 1 (3), 70—80.
+Bromilow, F.J., Hinds, M.F. and Moody, N.F. (1980) AIQS survey of building contract time performance, The Building Economist, 19 (September), 79—82.
+Bromilow, F.J., Hinds, M.F. and Moody, N.F. (1988) The time and cost performance ofbuilding contracts 1976—1986, The Building Economist, 27 (September), 4.
+Chan, D.W.M. and Kumaraswamy, M.M. (1994) A survey of time—cost relationships in Hong Kong construction projects, Building Technology and Management Journal, Building Technology Society, School of Technology, Tunku Abdul Rahman College, Kuala Lumpur, Malaysia, 20, 54—72.
+Coffey, M. W. and Skinn, A.G. (1990) Construction simulation of the Hannony Type 1 design for the Hong Kong Housing Authority, Hong Kong Housing Authority, Hong Kong.
+Emsley, M.W. and Harris, F.C. (1993) Methods and rates for precast concrete erection, Construction Papers, The Chartered Institute of Building, 23, 2—7.
+Gale, A.W. and Fellows, R.F. (1990) Change and innovation: the challenge to the construction industry, Construction Management and Economics, 8, 431—6.
+Heap, A. (1987) Improving site productivity in the construction industry. International Labour Office, Geneva, Switzerland.
+Kaka, A. and Price, A.D.F. (1991) Relationship between value and duration of construction projects, Construction Management and Economics, 9(4), 383—400.
+Lee, H.K. and Poon, S.W. (1989) Installation and safety aspects of tower cranes in Hong Kong, Hong Kong Contractor, May—June, 13—16.
+Oglesby, c.H., Parker, H.W. and Howell, G.A. (1989) Productivity improvement in construction. McGraw Hill, New York.
+Rowlinson, S. , Ho, T.K.K. and Yuen, P.H. (1993) Leadership style of construction managers in Hong Kong, Construction Management and Economics, 11, 455—65.
+Salim, M. and Bernold, L.E. (1994) Effects of designintegrated process planning on productivity in rebar placement. Journal of Construction Engineering and Management 120(4), 720-38.
+Appendix
+Table AT-I Structured classification by type of client and project in the Hong Kong pilot survey sample
+Type of projectsNumber of projectsTotal estimated cost (HK$ M)Public housing Other public buildings
+Private commercial Private housing
+Roadworks
+Other civil works16
+21
+23
+13
+15
+2343%
+57%
+64 0/0
+36%
+39%4955.19
+2628.95
+4208.21
+2305.54
+1790.60
+4966.81	73%A Study of the Perfomtance of a Concreting Gang on Local Building Sites
+Activity Sampling Data SheetShea No.Pmject :
+Notes :Date :
+Time started :
+Time finished :
+Time elapsed :TimeConcretor 1Concretor 2Concretor 3123123123Totals1 = Direct work
+2 = Essential contributory work categories
+3 = Ineffective activity categories
+Table AT-2 Activity sampling data sheet for concreting gang on a site under study
+	320	Chan and Kumaraszvamy
+
+Construction durations in Hong Kong	321
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+
+
+Coovriaht 0 2001 . All Riahts Reseved.
+

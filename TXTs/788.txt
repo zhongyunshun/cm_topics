@@ -1,0 +1,940 @@
+﻿Hindawi
+Advances in Civil Engineering
+Volume 2023, Article ID 7228896, 20 pages https://doi.org/10.1155/2023/7228896
+Research Article
+Optimization in Construction Management Using Adaptive
+Opposition Slime Mould Algorithm
+Pham Vu Hong Son and Luu Ngoc Quynh Khoi
+Construction Engineering & Management Department, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University, Ho Chi Minh, Vietnam
+Correspondence should be addressed to Luu Ngoc Quynh Khoi; lnqkhoi.sdh21@hcmut.edu.vn
+Received 20 September 2022; Revised 9 November 2022; Accepted 6 April 2023; Published 22 April 2023
+Academic Editor: Tayfun Dede
+Copyright © 2023 Pham Vu Hong Son and Luu Ngoc Quynh Khoi. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+The purpose of this research study is to solve a four-objective optimization problem in the construction industry using a hybrid model that combines the slime mould algorithm (SMA) with opposition-based learning. This hybrid model is known as the adaptive opposition slime mould algorithm (AOSMA). Two typical construction projects have introduced time, cost, quality, and safety trade-off (TCQS), which are the factors that have the greatest influence on the completion of a construction project and are represented by optimal results and obtained at Pareto, in order to better illustrate the potential of the proposed model. In order to compare AOSMA with a nondominated sorting genetic algorithm III (NSGA III), multiobjective particle swarm optimization (MOPSO), LHS-based NSGA III, and a hybrid model of MAWA (MAWA-TLBO, MAWA-GA, MAWA-AS, and MAWA-ACSSGPU) and to assess the model’s potential and viability, performance evaluation indexes are applied. To assist project managers in planning time, cost, quality, and safety for construction investment projects, this study creates a hybrid model.
+
+1. Introduction
+Investment in construction has been severely affected by the COVID-19 pandemic. Consequently, project efficiency has decreased, investment costs have increased, project implementation times have increased, and construction safety has become less stable. The construction industry in Vietnam faces particular challenges. Cost and time management, quality improvement, and safety risk reduction must be a top priority; and a combination of these aims is needed to achieve project efficiency, and the impact of safety on project costs is also essential [1].
+   The field of objective optimization has flourished due to the introduction of a variety of complex algorithms. The topic of time and cost trade-offs among those in this industry has been covered [2, 3]. Replaced with the problem of the time-cost-qualitytrade-off [4, 5] and time-cost-safetytradeoff [1], numerous writers have successfully used algorithms to resolve optimization issues with three trade-offs. Time, cost, resources, and cash flow [6]; time, cost, resources, and environmental effect [7]; and time-cost-quality-safety in construction projects [8] are the three examples of tradeoffs. Due to the complexity rising as the number of competing objectives rises, this trade-off optimization problem is difficult [9].
+   The performance of the slime mould algorithm (SMA) in optimization technique was the primary aspect that influenced this research study [10]. By mimicking the foraging and movement patterns of the slime mould, SMA resolves the optimization problem. It can successfully find a hopeful and a global optimal solution. In contrast, SMA chooses two randomly chosen search agents from the entire population to determine future removals and rotations based on the best search agents, and SMA’s ability to be exploited and explored is constrained by this characteristic. This study improves the exploration phase of optimization algorithms by using the opposition-based learning (OBL) technique [11]. The benefits of using the OBL idea have been examined for defining the transfer function and weights of the neural networks, developing potential solutions for evolutionary algorithms, and defining the reinforcement agent action policy.
+   AOSMA solely refers to merging techniques that address the same issue but vary in other respects, most notably performance. Many algorithms can be conceived of as assemblages of more basic components. Systemic issues are addressed using the AOSMA technique. The AOSMA has a great deal of possibilities for processing data in different forms rather than at random since algorithms address issues by form more than once rather than just once. It is demonstrated that AOSMA’s capacity for exploration and exploitation is incredibly successful when compared to previous algorithms. Local optimization, however, was also applied in this work to efficiently highlight the shortcomings of AOSMA while concurrently optimizing a number of objectives. To effectively boost, the authors advise combining the SMA with more well-known methods.
+   The content of this article is divided into the following sections. In Section 2, a review of the literature is provided. Section 3 describes the challenges in calculating the TCQC components and the AOSMA. In Section 4, case studies and outcomes are displayed. The authors complete their research study in Section 5.
+2. Literature Review
+2.1. Slime Mould Algorithm. The slime mould algorithm is a fresh algorithm model that was presented in [10]. ANN and SMA are used to address the urban water demand [12]. X-ray chest image segmentation problems were solved using the SMA model with Whale optimization [13]. A hybrid SMA with a differential evolution strategy was presented in [14] to address the challenging optimization challenge. The SMA approach was used to determine the photovoltaic models’ parameters [15]. As a result, the SMA approach is frequently used in a variety of industries. To make it simpler to comprehend the issue with the model, many authors from around the world have tried this algorithm. To help the project managers choose the best building projects, the SMA algorithm has not yet been used to optimize significant construction goals.
+2.2. Trade-Off Optimization. Several approaches have been put forth to address the optimization issues. Many authors have used two-factor optimization simultaneously for the comprehensive and ideal research of many objectives starting with this problem [2, 3]. It is critical to strike a balance between time, money, and quality while implementing initiatives. Babu’s method was employed during the construction of a cement factory, and it was shown to be effective [16]. The GA model was used to tackle the timecost-quality problem [17], and applying optimization approaches to four concurrent goals, such as time-cost-qualitysafety [8], time-cost-resources-flow, cost [6], and time-costresources-environment [7], is now a standard practice. So, it is getting more and more important to simultaneously optimize the four objectives, which shows the growing need for users and will help the project succeed overall. This shift from two-objective optimization to three-objective optimization lays the groundwork for future development, fresh avenues for investigation, and solutions to optimizationrelated issues.
+   The discrete time-cost trade-off problem is another important aspect of the building optimization problem (DTCTP). The DTCTP developments highlight the scheduled cost of the project by solving difficult and competitive issues [18]. The time-cost trade-off problem has drawn the interest of many academics over the past 40 years [19]. Many studies have been conducted on the time-cost trade-off in project networks [20]. The development of an association strategy for the DTCTP involved the use of genetic algorithms (GA), simulated annealing (SA), and quantum simulated annealing (QSA) techniques [21] and the budgeting and scheduling of large-scale projects using discrete swarm optimization [22]. Certain procedures are carried out more quickly when a project’s time-cost proportion is favorable [23]. There is a brand-new discrete symbiotic search methodology introduced for large-scale DCOPs [24]. The main topics covered by the DTCTP are precision processes and benchmarking databases of construction industry factors.
+2.3. Research Experience. In the area of construction management, the author has also conducted a considerable study on a wide range of problems connected to artificial intelligence. A metamodel optimization approach in conjunction with computer models was specially provided to address the energy consumption of buildings [25]. To lower the cost of establishing water distribution networks, the GWO-HHO is being researched [26]. Construction material cost optimization using the dragonfly-particle swarm optimization method [27, 28] has developed a game model for compensation in the contractor selection process. The author has published a large number of works on artificial intelligence studies in the area of construction management.
+3. Methodology
+The development based on this model is newly proposed in Figure 1 and Algorithm 1.
+3.1. Declaration of Parameters and Generation of Population. In this study, a construction project’s four concurrent optimization criteria, time, cost, quality, and safety, were applied. The necessary model’s input parameters included project-specific data on labor relations, construction time, required cost, and assessments of the quality and safety standards for each individual task. Also established was the number of populations (N  100), the maximum number of iterations (T_max  200), the value of lower and upper boundaries (LB  − 100, UB  100), and the number of decision variables (D  25) and δ  0.03. The optimization algorithm carried out automatic calculations using the aforementioned parameters to determine the scenario of the best possible outcome for all the four concurrent factors. For
+
+
+Figure 1: Flowchart of AOSMA.
+Step 1: begin
+Step 2: initialize all parameters needed N, d, T_Max, t, δ, LB, UB, and XGB; fGB
+Step 3:t ≤ T Max
+Calculate f(X)  [f(X1), f(X2), ... , f(XN)] Sort [Sortf, SortIndf]  sort(f)
+Update fLB  f(Sortf(1)) and XLB X(SortIndf(1))
+Update fLW  f(Sortf(N))
+Update fGB  f(XGB)
+	1 + rand	log(fLB − f(Xi)/fLB − fLW + 1), 1 ≤ i ≤ N/2
+Update W(SortIndf(i))  􏼨 1 − rand	log(fLB − f(Xi)/fLB − fLW + 1), N/2 < i ≤ N
+Update b  arctan h(− (t/T) + 1) and c  1 − t/T Step 4: i 1 : N
+Create r1 and r2: random the range of [0, 1].
+Create pi  tan h|f(Xi) − fGB|, ∀i ∈ [1, N]
+Evaluate new slime Xni(t)  XLB(t) + Vb(W.XLB(t) − XB(t)) if r1 ≥ δ and r2 < pi, Xni(t)  Vc.Xi(t) if r1 ≥ δ and r2 ≥ pi, Xni(t)  rand(UB − LB) + LB if r1 < δ
+Step 5: iff(Xni)> f(Xi)
+Estimate Xoji (t)  min(Xni(t)) + max(Xni(t)) − Xnji (t)
+Select Xsi(t)  􏼨 XnXoii((tt)),, ifif ff((XoXoii((tt))))<≥ff((XnXnii((tt))))
+Step 6: update Xi(t + 1)  􏼨 XnXsii((tt)),, ififff((XnXnii((tt))))>≤ff((XXii((tt)))) , ∀i ∈ [1, N]
+Step 7: stopping conditions, the best value of XGB given
+ALGORITHM 1: Pseudocode of AOSMA.
+
+any evolutionary algorithm, creating the starting population is crucial.
+3.2. Decision Variable
+	Minimum amount of time  PCT 	􏽘 ACTA,	(1)
+A∈CP
+
+Minimum amount of cost  PCC  􏽘 D.C + I.C per day × PCT in days,
+A(2)
+where PCC is the total individual activity completion cost, 􏽐AD.C is the total direct cost, and I.C is the indirect cost.
+
+	n	K
+Maximum amout of quality  PQI  􏽘 wtA 􏽘 wtA,kxQmA,k,
+	A1	k1(3)where PCT is the total time and ACTA is the key path activity’s estimated time of completion (A).
+
+where QmA,k is the performance according to the quality index (k) for the activity (i), wtA,k is the activity’s other indicators and the quality indicator’s (k) weight (i), and wtA is the relative relevance of the activity to other project activities.
+n
+	Minimum amout of safety  PSR  􏽘 ASRA,	(4)
+A1
+⎪⎧⎪⎨ XLB(t) + Vb W.XA(t) − XB(t)􏼁,
+Xi(t + 1) ⎪⎪⎩ Vc.Xi(t), rand(UB − LB) + LB,r1 ≥δ and r2 < pi, r1 ≥δ and r2 ≥ p, ∀i ∈ [1, N], r1 <δ,(6)where PSR is each activity’s overall safety risk, i.e., activity safety risk (ASR) and ASRA is the total of the three safety hazards (RL + RS + SR) (more explanation is in Supplementary Material (available here)).
+3.3. Function of SMA. At this moment (current iteration), t, slime mould N’s position and fitness are stated as follows:
+⎢⎢⎢⎣⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢ xx1121 ⋮⋮⋮⋮xx2122	......	xxd12d ⎥⎥⎥⎥⎥⎥⎥⎦⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎤⎥⎥⎥ ⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎢⎡⎣ XX⋮12 ⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎤⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎥⎦.	(5) ⎢⎡⎢⎢⎢
+X(t) 
+	x1N	x2N	...	xdN	XN
+   For updating the new location of the algorithm for t  t + 1, we have
+
+where
+(i) XLB stands for the current iteration and represents the local best
+(ii) XA and XB represent the slime mould from present populations collected at random
+(iii) W is the weight factor
+(iv) Vb and Vc stand for the random velocity
+t
+b  arctan h􏼒− 􏼒 􏼓 + 1􏼓,
+T
+(7)
+      t c  1 −.
+T
+(i) r1 and r2 stand for random [0; 1]
+(ii) δ is the slime mold’s fixed 0.03 initialization probability at a random search site
+
+⎪⎧⎪⎪⎪⎪⎪⎪⎨ 1 + rand log􏼠ffLBLB−− f Xf􏼁LWi + 1􏼡, 1 ≤ i ≤ N2 ,
+W􏼐SortIndf(i)􏼑 ⎪⎪⎪⎪⎪⎪⎪	fLB − f X􏼁i	N(8)⎩ 1 − rand log􏼠 fLB − fLW + 1􏼡, 2 < i ≤ N,The weight W in iteration t is determined as follows: where
+(i) Rand means random [0; 1]
+(ii) fLB means the local best fitness value
+(iii) fLW means the local worst fitness value
+   The function optimization and engineering design difficulty as indicated in [10] has been successfully explored and exploited by the SMA. The three cases based on updating rules are as follows:
+(i) Case 1.r1 ≥δ and r2 < pi:
+Xni(t)  XLB(t) + Vb
+	·	W.XLB(t) − XB(t)􏼁,	if r1 ≥δ and r2 < pi.
+(9)
+(ii) Case 2.r1 ≥δ and r2 ≥ pi:	Xni(t)  Vc.Xi(t),	if r1 ≥δ and r2 ≥ pi.
+(iii) Case 3.r1 <δ:(10)Xni(t)  rand(UB − LB) + LB, if r1 <δ.(11)3.4. Opposition-Based Learning. In order to explore the search space and widen the search region after creating the initial population, the AOSMA applied the opposite to the process position at each iteration. The opposition-based learning vector for each vector is determined through equations (13)–(15).
+	Xoji (t)  min􏼁Xni(t) + max􏼁Xni(t) − Xnji (t),	(12)
+	Xoi(t),	if f Xo􏼁i(t) < f Xn􏼁i(t) ,
+	Xsi(t) 􏼨	(13)
+	Xni(t),	if f Xo􏼁i(t) ≥ f Xn􏼁i(t) ,
+	Xni(t),	if f Xn􏼁i(t) ≤ f X􏼁i(t)
+Xi(t + 1) 􏼨	, ∀i ∈ [1, N].
+	Xsi(t),	if f Xn􏼁i(t) > f X􏼁i(t)
+(14)
+   Using the opposition-based learning, which compares the present population and the opposing population simultaneously, speeds up the convergence.
+3.5. Adaptive Decision Strategy. A proposed model is made based on the recent f(Xni(t)) and the previous f(Xi(t)) when the slime mould is pursuing a decedent nutrition path. When necessary, the adaptive choice uses OBL to supplement additional exploration. Oddly, the suggested AOSMA improves the effectiveness of SMA by using an adaptive judgment technique to determine whether OBL is required along the search trajectory.
+3.6. Stopping Condition. When the halting condition is met, the optimization process is complete. Two often used stopping conditions are the number of objective function evaluations or the maximum number of repetitions. The proposed model made use of as many iterations as possible. When the algorithm’s halting condition is met, the best solutions are shown.
+4. Case Study and Results
+To show how the proposed AOSMA outperforms previous algorithms in solving the issue of time-cost-quality-safety risk, the case study was undertaken [8, 29]. The LHSNSGA-III procedure starts by creating an initial population based on an N-dimensional LHS and a collection of widely spaced-out M-dimensional reference points on a normalized hyperplane. A swarm intelligence program called MOPSO competes for solutions to issues involving objective optimization. It works particularly well in the project management sector [6, 30]. The reference point selection approach from the NSGA-II substitutes the idea of crowded distance in the NSGA III [31]. The first case study involved a building construction project in Gwalior, India, which included a total of 13 actions. There is a specific building scenario associated with each of these jobs. The second case study had 18 actions that were carried out in two to five different methods for each other, and it was drawn from multiple studies. One choice that has a high cost is one that minimizes time. To find the best balance between time, cost, safety, and quality, the Gantt path must be defined. To demonstrate the usefulness and prospective uses of this SMA, this project acted as a case study.
+   Tables 1 and 2 and Figure 2 provide the relevant information on TCQS for case 1 while Tables 3 and 4 and Figure 3 give the input parameter factors for case 2. Combining these two difficulties, the author uses the MATLAB’s AOSMA method to identify examples at random that strike the ideal balance between the project’s duration, cost, safety, and quality. The AOSMA-derived ideal findings are shown in this section.
+4.1. Input Parameters
+4.2. Optimisation Results Obtained Using the AOSMA
+4.2.1. AOSMA Results for Case 1. Table 5 shows the AOSMA’s convergence findings for TCQS in the Indian project, along with the optimum way to combine all four aspects at once to produce the greatest outcomes. To achieve successful project delivery, a talented project manager must recognize the ideal possibilities, such as finding the spots when multiple factors are balanced. The suggested approach generates 50 distinct optimal combinations in total to fulfil the specified project objectives. All of the numbers, including PCT from 160 to 226 days, PCC from 487310.30 to 795589.00 dollars, PQI from 0.819 to 0.917, and PSR from 182 to 207.23, are reflected in the results. The Gantt output are [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12] and [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 10]. In addition, there are cases where there are 02 to 03 results with the same PCT, but the values of the remaining 03 factors have differences and are uniformly different; for example, case PCT = 187 but (1) PCC = 492801.80, PQI = 0.819, PSR = 207.23 (2) PCC = 493690.97, PQI = 0.885,
+Table 1: Specific activities method of case 1.
+IDActivitiesSuccessors1Site clearance22Excavation33Footing44Formwork55Retaining wall66Basement77Slab88Exterior wall99Interior wall1310Flooring—11Exterior finish—12Interior finish—13Roof10, 11, 12Table 2: Data resources for case 1.IDCaseTimeCostSI K  1SI K  2SI K  3Act.
+WeightQl k  1Ql k 2Ql k  3(i)(n)Days$ RL LkmA RS SkmA RL LkmA RS SkmA RL LkmA RS SkmA(%)
+(wtA)IW
+wtA,kQP
+QmA,kIW
+wtA,kQP
+QmA,kIW
+wtA,kQP
+QmA,k11
+28
+810039.42 9849.861
+11 21
+11
+21
+11
+20.160.4597
+700.399
+730.2593 7121
+26
+61082.13 891.053
+33
+41
+21
+13
+42
+30.1640.294
+830.3591
+880.4589
+8431
+212
+1015545.67
+17039.343
+22
+24
+32
+33 32
+20.190.395
+850.4594
+870.2595
+8941
+25
+4562.13
+590.323
+25 42
+31
+22
+32
+40.1330.3589
+830.3592
+830.394
+8751
+226
+16158,34.49 17274.943
+23
+42
+32
+31 12
+10.070.385
+780.3592
+950.3595
+8961
+232
+2974124.65
+76345.782
+33
+44
+45
+63 43
+40.0570.499
+900.378
+850.394
+8832384312.3445563385908671
+222
+1132646.05
+29759.594
+45
+63
+43
+43 44
+40.0590.594
+800.493
+850.187
+9681
+218
+2965959.52
+105296.942
+23 22 34
+32 13
+20.0430.490
+850.578
+900.173
+94311157433.4222322390959591
+2
+337
+21
+3258570.35
+59999.39
+57668.292
+2
+23 2
+22 3
+34
+3
+22 1
+21
+2
+20.0250.497
+89
+810.598
+96
+850.197
+67
+6341763321.11223323958490101
+234
+1738411.50
+65326.482
+23
+22
+34
+32
+11
+20.020.4585
+880.4590
+920.178
+9031250214.22223223788493111
+29
+1212216.23 3846.232
+35 62 32
+32
+33
+30.0240.470
+950.585
+880.190
+85121
+241
+3190219.78
+233034.501
+22
+32
+33
+31
+23
+30.0220.470
+950.585
+880.190
+85131
+223
+24127641.84 81323.172
+33 43 44
+52 34
+50.0250.398
+870.495
+860.399
+83and PSR = 200.98. This gives a project manager many options, which is needed for improving the project and for bringing impact and feasibility to the optimal solution.
+   Figures 4–9 show the 2D plots of the balance between PCT and PCC, PCT and PQI, PCT and PSR, PCC and PQI, PCC and PSR, and PQI and PSR. Figures 10–13 show the 3D plots of TCQ trade-off, TCS trade-off, CQS trade-off, and QST trade-off.
+   For each of the 50 Pareto-optimal options, a value route map is shown in Figure 14. In the figure, the PCT, PCC, PQI,
+
+
+Figure 2: Case 1 network. Table 3: Specific activities method of case 2.
+ActSuccessors15, 621031341457, 1268, 9, 107118119121012, 141117121513161416, 1715171618171818—Table 4: Data resources for case 2.ActEMD (days)C ($)WtQuality performance (Qp) and quality indicator (K)
+K1	K2	K3SrKwtQpKwtQpKwtQp11
+2
+314
+15
+162400
+2150
+19000.03 0.03
+0.0350.00 50.00
+50.00100.00
+90.00
+86.0030.00 30.00
+30.0096.00 89.00
+77.0020.00 20.00
+20.0098.00 89.00
+84.0012
+9
+1242115000.0350.0075.0030.0072.0020.0073.00852412000.0350.0063.0030.0060.0020.0065.00521
+2
+315
+18
+203000
+2400
+18000.05 0.05
+0.0540.00 40.00
+40.0098.00 87.00
+81.0040.00 40.00
+40.0094.00 94.00
+92.0020.00 20.00
+20.0099.00 95.00
+85.0030
+24
+2042315000.0540.0077.0040.0072.0020.0070.002052510000.0540.0060.0040.0066.0020.0059.001831
+215
+224500
+40000.08
+0.0870.00
+70.00100.00
+80.0015.00
+15.0097.00
+82.0015.00
+15.0098.00
+81.0020
+2433332000.0870.0062.0015.0060.0015.0063.001441
+212
+1645000
+350000.11
+0.1150.00
+50.0099.00
+74.0035.00
+35.0095.00
+71.0015.00
+15.0094.00
+76.005
+5320300000.1150.0059.0035.0063.0015.0064.00451
+2
+322
+24
+2820000
+17500
+150000.1 0.1
+0.160.00 60.00
+60.00100.00
+93.00
+77.0020.00 20.00
+20.0097.00
+89.00
+71.0020.00 20.00
+20.0099.00 89.00
+72.0012
+8
+5430100000.160.0061.0020.0064.0020.0061.00961
+214
+1840000
+320000.11
+0.1150.00
+50.0095.00
+76.0025.00
+25.0095.00
+74.0025.00
+25.00100.00
+79.0012
+5324180000.1150.0059.0025.0062.0025.0068.009Table 4: Continued.
+ActEMD (days)C ($)WtQuality performance (Qp) and quality indicator (K)
+	K1	K2	K3SrKwtQpKwtQpKwtQp71
+29
+1530000
+240000.1
+0.130.00
+30.0097.00
+70.0030.00
+30.0099.00
+73.0040.00
+40.0093.00
+71.0024
+20318220000.130.0061.0030.0062.0040.0067.001281
+2
+314
+15
+16220
+215
+2000.01 0.01
+0.01100.00
+100.00
+100.0095.00 83.00
+75.000.00 0.00
+0.000.00 0.00
+0.000.00 0.00
+0.000.00 0.00
+0.000
+0
+04212080.01100.0068.000.000.000.000.0005241200.01100.0061.000.000.000.000.00091
+2
+315
+18
+20300
+240
+1800.01 0.01
+0.0150.00 50.00
+50.00100.00
+97.00
+81.0050.00 50.00
+50.0099.00 92.00
+88.000.00 0.00
+0.000.00 0.00
+0.006
+4
+84231500.0150.0071.0050.0075.000.000.0035251000.0150.0063.0050.0064.000.000.004101
+215
+22450
+4000.01
+0.0160.00
+60.0094.00
+79.0040.00
+40.0097.00
+83.000.00
+0.000.00
+0.009
+123333200.0160.0063.0040.0069.000.000.008111
+212
+16450
+3500.01
+0.0170.00
+70.0096.00
+72.0030.00
+30.0095.00
+75.000.00
+0.000.00
+0.003
+53203000.0170.0061.0030.0066.000.000.004121
+2
+322
+24
+282000
+1750
+15000.02 0.02
+0.0250.00 50.00
+50.0099.00 89.00
+70.0035.00 35.00
+35.0098.00
+85.00
+71.0015.00 15.00
+15.0095.00 87.00
+79.0030
+36
+2443010000.0250.0062.0035.0061.0015.0063.0020131
+214
+184000
+32000.03
+0.0340.00
+40.0099.00
+73.0040.00
+40.0096.00
+71.0020.00
+20.0097.00
+76.0015
+1832418000.0340.0060.0040.0062.0020.0063.0024141
+29
+153000
+24000.01
+0.0180.00
+80.00100.00
+79.0010.00
+10.0095.00
+82.0010.00
+10.0098.00
+81.0016
+1531822000.0180.0063.0010.0067.0020.0066.0016151
+216
+123500
+45000.07
+0.0770.00
+70.00100.00
+100.0030.00
+30.0098.00
+98.000.00
+0.000.00
+0.0030
+25161
+2
+320
+22
+243000
+2000
+17500.03 0.03
+0.0330.00 30.00
+30.0097.00
+89.00
+81.0030.00 30.00
+30.0096.00 85.00
+79.0040.00 40.00
+40.0098.00 87.00
+78.0010
+3
+642815000.0330.0072.0030.0073.0040.0074.00853010000.0330.0067.0030.0060.0040.0062.006171
+214
+184000
+32000.06
+0.0670.00
+70.0098.00
+73.0020.00
+20.0097.00
+75.0010.00
+10.0099.00
+72.0036
+3632418000.0670.0062.0020.0065.0010.0061.0020181
+29
+153000
+24000.05
+0.0530.00
+30.0098.00
+75.0045.00
+45.0099.00
+77.0025.00
+25.0094.00
+71.0020
+1831822000.0530.0063.0045.0066.0025.0067.0012
+and PSR values are displayed together with a straight line connecting the values on the horizontal axis and values between [0, 1] on the vertical axis. This value represents the impact on all activities from attempts at building construction.
+4.2.2. AOSMA Results for Case 2. The convergence results for the other project’s of AOSMA for TCQS, which generated the best optimal solutions, are shown in Table 6. It is crucial for a project manager to understand the best-case scenario in order to calculate the trade-off between objectives and prevent negative consequences on their project. The project must be finished in 100 days, at a minimum cost of $101865, with an average quality rating of 84.78 and a safety rating of 195. These are the best values that the model’s search skills can find.
+   Figures 15–20 show the 2D plots of the balance between PCT and PCC, PCT and PQI, PCT and PSR, PCC and PQI, PCC and PSR, and PQI and PSR. Figures 21–24 show the 3D plots of TCQ trade-off, TCS trade-off, CQS trade-off, and QST trade-off. The value path plot for the 20 Pareto-optimal solutions is shown in Figure 25.
+
+
+Figure 3: Case 2 network. Table 5: Result Pareto-optimal solutions for case 1.
+No.Pareto-optimal of projectsPCTPCCPQIPSRGant1[1, 1, 2, 2, 2, 3, 2, 3, 4, 3, 2, 2, 1]160795589.000.869200.76[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]2[1, 1, 2, 2, 2, 3, 2, 3, 4, 3, 1, 2, 2]161757640.730.864202.99[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]3[1, 1, 2, 1, 2, 3, 2, 3, 4, 3, 2, 2, 2]162749242.540.876202.51[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]4[1, 1, 1, 2, 2, 3, 2, 3, 4, 2, 1, 2, 2]163771259.320.880200.14[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]5[1, 1, 1, 2, 2, 3, 2, 3, 4, 3, 1, 2, 2]163756147.060.878200.74[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]6[1, 1, 2, 1, 2, 3, 2, 3, 4, 1, 2, 2, 1]164783758.490.880197.87[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 10]7[1, 1, 1, 1, 2, 3, 2, 3, 4, 2, 1, 2, 2]164771231.130.890198.38[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]8[1, 1, 1, 1, 2, 3, 2, 3, 4, 3, 1, 2, 2]164756118.870.888198.38[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]9[1, 1, 1, 2, 2, 3, 2, 3, 4, 1, 1, 2, 1]165790663.010.882196.10[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 10]10[1, 1, 1, 2, 2, 3, 2, 3, 2, 3, 2, 2, 1]166790774.010.884197.23[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]11[1, 1, 2, 2, 2, 3, 2, 1, 4, 3, 1, 2, 1]167712485.500.862198.46[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]12[1, 1, 2, 1, 2, 3, 2, 1, 4, 3, 2, 2, 1]168704087.310.874200.98[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]13[1, 1, 2, 1, 2, 3, 2, 1, 4, 2, 1, 2, 2]169681250.900.870203.67[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]14[1, 1, 2, 2, 2, 3, 2, 3, 4, 1, 1, 1, 1]170649341.960.865196.70[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]15[1, 1, 2, 1, 2, 3, 2, 3, 4, 1, 2, 1, 1]171640943.400.877196.47[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]16[1, 1, 2, 1, 2, 3, 2, 3, 4, 1, 2, 1, 2]172594625.100.875200.79[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]17[1, 1, 1, 2, 2, 3, 2, 3, 4, 1, 2, 1, 2]173593159.620.879198.91[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]18[1, 1, 1, 1, 2, 3, 2, 3, 4, 1, 2, 1, 2]174593131.430.889198.55[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]19[1, 1, 2, 2, 2, 3, 2, 3, 2, 1, 2, 1, 2]175591331.570.865198.33[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]20[1, 1, 2, 1, 2, 3, 2, 3, 2, 1, 2, 1, 2]176591303.380.875199.96[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]21[1, 1, 1, 1, 2, 3, 2, 3, 2, 1, 1, 1, 1]177644498.380.910191.27[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]22[1, 1, 2, 1, 2, 3, 2, 1, 4, 1, 2, 1, 1]178549469.500.869199.24[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]23[1, 1, 1, 1, 2, 1, 2, 3, 2, 1, 2, 2, 1]179768755.000.917191.89[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 10]24[1, 1, 1, 1, 2, 3, 2, 1, 4, 1, 2, 1, 1]180547975.800.900197.14[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]25[1, 1, 1, 1, 2, 3, 2, 1, 4, 1, 2, 1, 2]181501657.200.900203.36[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]26[1, 1, 1, 1, 2, 1, 2, 3, 4, 1, 2, 1, 1]182629262.000.909190.17[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]27[1, 1, 1, 2, 2, 3, 1, 3, 4, 1, 1, 1, 1]183650734.750.885189.05[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]28[1, 1, 1, 1, 2, 3, 1, 3, 4, 1, 2, 1, 1]184642336.560.897188.57[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]29[1, 1, 1, 1, 2, 3, 1, 3, 4, 1, 2, 1, 2]185596017.890.895193.14[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]30[1, 1, 1, 1, 2, 1, 2, 3, 2, 1, 2, 1, 1]186625940.690.895190.28[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]31[1, 2, 2, 2, 2, 1, 2, 1, 4, 1, 2, 1, 2]187492801.800.819207.23[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]32[1, 1, 1, 1, 2, 2, 2, 1, 4, 1, 2, 1, 2]187493690.970.885200.98[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]33[1, 1, 2, 1, 2, 1, 2, 1, 4, 1, 2, 1, 2]188492963.510.872200.96[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]34[1, 1, 1, 2, 2, 1, 2, 1, 4, 1, 2, 1, 2]189491498.030.877199.08[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]35[1, 1, 1, 1, 2, 1, 2, 1, 4, 1, 1, 1, 2]190499839.840.884196.83[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]36[1, 1, 1, 2, 2, 1, 1, 3, 4, 3, 2, 1, 1]192643979.400.909188.67[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]37[1, 1, 1, 1, 2, 1, 1, 3, 4, 1, 1, 1, 1]193640518.870.913183.81[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]38[1, 1, 1, 1, 2, 3, 1, 1, 2, 1, 1, 1, 1]195555910.940.907188.90[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]Table 5: Continued.
+No.Pareto-optimal of projectsPCTPCCPQIPSRGant39[1, 1, 1, 1, 2, 2, 1, 1, 4, 1, 1, 1, 1]197551266.100.907189.11[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]40[1, 1, 1, 1, 2, 2, 1, 1, 2, 1, 1, 1, 1]201547944.380.907188.29[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]41[1, 1, 2, 1, 2, 1, 1, 1, 2, 1, 1, 1, 1]202547216.920.895188.27[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]42[1, 1, 2, 1, 2, 1, 2, 1, 3, 1, 2, 1, 2]203487310.300.869198.11[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]43[1, 1, 1, 2, 2, 1, 1, 1, 2, 1, 2, 1, 2]204491062.770.899193.85[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]44[1, 1, 1, 2, 2, 1, 1, 3, 3, 1, 1, 1, 1]207634894.240.902182.00[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]45[1, 1, 1, 2, 2, 1, 1, 1, 3, 1, 2, 1, 1]214535050.340.900186.93[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]46[1, 1, 1, 2, 2, 1, 1, 1, 3, 1, 1, 1, 2]215497101.670.894189.61[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]47[1, 1, 1, 1, 2, 1, 1, 2, 3, 1, 1, 1, 1]226582729.570.909182.40[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]48[1, 1, 1, 1, 2, 1, 1, 2, 3, 3, 2, 1, 1]226586161.900.909184.85[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12]
+
+4.5	5	5.5	6	6.5	7	7.5	8 Cost	×105
+Figure 4: Time-cost trade-off.
+
+0.865 0.87 0.875 0.88 0.885 0.89 0.895	0.9	0.905 0.91 0.915
+Quality
+Figure 5: Time-quality trade-off.
+
+160	170	180	190	200	210	220	230
+Time
+Figure 6: Time-safety trade-off.
+
+	8	7.5	7	6.5	6	5.5	5	4.5
+	×105	Cost
+Figure 7: Cost-quality trade-off.
+
+4.3. Comparison Results Obtained between the AOSMA and LHS-Based NSGA III. The same dataset, N  100 and T Max  200, is used by both the AOSMA and LHS-based NSGA III in order to compare the performance and to obtain the output from the model. As a result, in Tables 7 and 8, the AOSMA model’s solution produces quicker and more accurate results than the LHS-based NSGA III solution. To get these outcomes, the authors suggested combining the OBL method with the SMA to boost the hybrid model’s performance by extensively disseminating and updating new locations to enhance the data mining ability. The AOSMA model has demonstrated the comprehensiveness of the methodology, and the project managers want to discover solutions in a short time, with low costs and reduced accident risk while still achieving quality.
+4.5	5	5.5	6	6.5	7	7.5	8
+	×105	Cost
+Figure 8: Cost-safety trade-off.
+180	185	190	195	200	205	210
+Safety
+Figure 9: Quality-safety trade-off.
+Time-Cost-Quality
+Time180	220 5	5.5	6.5Cost	85 6	×10
+Figure 10: Time-cost-quality trade-off.
+Time-Cost-Safety
+160
+200
+	Cost	8	240	Time
+Figure 11: Time-cost-safety trade-off.
+Cost-Quality-Safety
+×105	Cost	7	80.86	0.88 Quality0.9	0.92
+Figure 12: Cost-quality-safety trade-off.
+Quality-Safety-Time
+180	185	190
+                            Safety Figure 13: Quality-safety-time trade-off.
+
+Vlue path plot
+1
+0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2
+0.1
+0
+	Time	Cost	Quality	Safety
+Figure 14: Value path plot of AOSMA for case 1.
+Table 6: Result Pareto-optimal solutions for case 2.
+No.Pareto-optimal of projectsPCTPCCPQIPSRBest time
+1[1, 4, 2, 3, 1, 1, 2, 2, 1, 1, 3, 1, 2, 3, 2, 5, 1, 1]
+[1, 2, 3, 1, 1, 1, 2, 3, 1, 1, 2, 1, 3, 2, 2, 1, 1, 1]100
+100143065
+15900075.27
+79.48274
+279Best cost
+2[4, 5, 3, 3, 4, 3, 3, 2, 1, 1, 3, 4, 3, 2, 2, 5, 3, 2]
+[5, 4, 3, 3, 4, 3, 3, 3, 3, 1, 2, 4, 3, 3, 1, 5, 2, 3]141
+150101865
+10198060.04
+60.15221
+239Best quality
+3[2, 1, 1, 1, 2, 1, 1, 5, 1, 1, 1, 1, 3, 1, 2, 1, 1, 1] 3, 1, 1, 1, 2, 1, 1, 1, 3, 1, 1, 1, 1, 2, 1, 3, 1, 1]101
+111164770
+16385084.46
+84.78287
+283Best safety
+4[5, 5, 3, 1, 3, 2, 3, 2, 2, 1, 1, 4, 1, 2, 1, 2, 3, 3]
+[4, 5, 3, 1, 3, 2, 3, 3, 2, 3, 1, 4, 1, 3, 2, 5, 3, 3]148
+156137655 13761068.13
+67.19195
+196	×105	Time-Cost-Quality
+
+	170	160	150	140	130	120	110	100
+               Time Figure 15: Time-cost trade-off.
+Time-Cost-Quality
+
+	170	160	150	140	130	120	110	100
+Time
+Figure 16: Time-quality trade-off.
+Time-Cost-Safety
+
+	100	110	120	130	140	150	160	170
+Time
+Figure 17: Time-safety trade-off.
+	×105	Cost-Quality-Safety
+1.7
+	60	65	70	75	80	85
+               Quality Figure 18: Cost-quality trade-off.
+Cost-Quality-Safety
+
+	1	1.1	1.2	1.3	1.4	1.5	1.6	1.7
+	Cost	×105
+Figure 19: Cost-safety trade-off.
+Quality-Safety-Time
+
+	290	280	270	260	250	240	230	220
+Safety
+Figure 20: Quality-safety trade-off.
+Time-Cost-Quality
+	1 100	110	Time
+Figure 21: Time-cost-quality trade-off.
+Time-Cost-Safety
+160
+	1	100	Time
+Figure 22: Time-cost-safety trade-off.
+Cost-Quality-Safety
+1.8
+5
+	65	1	Cost
+Figure 23: Cost-quality-safety trade-off.
+Quality-Safety-Time
+85
+	200 65	Quality
+Figure 24: Quality-safety-time trade-off.
+Vlue path plot
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+	Time	Cost	Quality	Safety
+Figure 25: Value path plot of AOSMA for case 2.
+Table 7: LHS-based NSGA III and AOSMA result comparison for case 1.
+IDPCTLHS-based NSGA III
+	PCC	PQIPSRAdaptive opposition slime mould algorithm
+PCT	PCC	PQI	PSR1160795589.000.869200.76160795589.000.869200.762————161757640.730.864202.993————162749242.540.876202.514163
+—783786.30
+—0.869
+—200.96
+——
+163—
+771259.32—
+0.880—
+200.14————163756147.060.878200.745164
+—
+—792267.30
+—
+—0.869
+—
+—199.64
+—
+——
+164
+164—
+783758.49
+771231.13—
+0.880
+0.890—
+197.87
+198.38————164756118.870.888198.386165
+—792239.10
+—0.877
+—197.99
+——
+165—
+790663.01—
+0.882—
+196.107166
+—787622.50
+—0.869
+—199.19
+——
+166—
+790774.01—
+0.884—
+197.238————167712485.500.862198.469168
+—780246.80
+—0.840
+—202.51
+——
+168—
+704087.31—
+0.874—
+200.9810————169681250.900.870203.6711————170649341.960.865196.7012171640943.400.877196.47171640943.400.877196.4713—
+173—
+639260.20—
+0.869—
+198.69172
+—594625.10
+—0.875
+—200.79
+—14—
+174—
+604.724.70—
+0.892—
+202.55173
+—593159.62
+—0.879
+—198.91
+—15—
+175—
+637432.10—
+0.833—
+199.67174
+—593131.43
+—0.889
+—198.55
+—16————175591331.570.865198.3317————176591303.380.875199.9618177
+—636128.00
+—0.909
+—193.25
+——
+177—
+644498.38—
+0.910—
+191.2719178549469.500.869199.24178549469.500.869199.2420179768755.000.917191.89179768755.000.917191.8921180547975.800.900197.14180547975.800.900197.1422181501657.200.900203.36181501657.200.900203.3623182629262.000.909190.17182629262.000.909190.1724————183650734.750.885189.05Table 7: Continued.
+IDPCTLHS-based NSGA III
+	PCC	PQI	PSR	PCTAdaptive opposition slime mould algorithm
+	PCC	PQI	PSR25184
+—627434.00
+—0.877
+—191.15
+——
+184—
+642336.56—
+0.897—
+188.5726————185596017.890.895193.1427————186625940.690.895190.2828187
+—492801.80
+—0.819
+—207.23
+—187
+187492801.80
+493690.970.819
+0.885207.23
+200.9829188
+—537991.70
+—0.833
+—200.87
+——
+188—
+492963.51—
+0.872—
+200.9630189
+—536526.20
+—0.854
+—200.42
+——
+189—
+491498.03—
+0.877—
+199.0831190
+—536306.90
+—0.854
+—200.93
+——
+190—
+499839.84—
+0.884—
+196.8332192643979.400.909188.67192643979.400.909188.6733193
+—625858.50
+—0.900
+—191.30
+——
+193—
+640518.87—
+0.913—
+183.8134195
+—624911.80
+—0.869
+—191.28
+——
+195—
+555910.94—
+0.907—
+188.9035197
+—578181.60
+—0.909
+—194.99
+——
+197—
+551266.10—
+0.907—
+189.1136201
+—534166.90
+—0.862
+—196.74
+——
+201—
+547944.38—
+0.907—
+188.2937202
+—533629.00
+—0.869
+—191.89
+——
+202—
+547216.92—
+0.895—
+188.2738203487310.300.869198.11203487310.300.869198.1139204
+—531945.80
+—0.862
+—194.11
+——
+204—
+491062.77—
+0.899—
+193.8540207
+—638326.60
+—0.900
+—185.52
+——
+207—
+634894.24—
+0.902—
+182.0041214
+—546852.70
+—0.900
+—188.29
+——
+214—
+535050.34—
+0.900—
+186.9342215
+—500534.00
+—0.892
+—194.51
+——
+215—
+497101.67—
+0.894—
+189.6143226
+—586161.90
+—0.909
+—184.85
+—226
+226586161.90
+582729.570.909
+0.909184.85
+182.40Table 8: LHS-based NSGA III and AOSMA result comparison for case 2.Optimisation algorithm objectives solutionsNSGA IIIProposed modelAOSMAPCTPCCPQIPSRPCTPCCPQIPSR110016982097.6328510014306575.27274214510086567.6322614110186560.04221310416882097.6329010116477084.46287414413865577.4919014813765568.13195Table9: Comparisonof AOSMA with other algorithms.AlgorithmsSMSpDMHVCTMOPSO0.450.5770.740.75158NSGA III0.440.5390.790.77162LHS-based NSGA III0.360.5320.810.84169AOSMA0.360.5190.860.88153The meaning of the bold values represent the AOSMA model’s greatest evaluation.
+Table 10: Comparison of different algorithms and AOSMA.
+
+	MAWA-TLBO	MAWA-GA	MAWA-AS	MAWA-ACS-SGPU	AOSMA
+No. of runs	Time	Time	Time	Time	Time
+	Cost ($)	Cost ($)	Cost ($)	Cost ($)	Cost ($)
+
+2101	281200101	284020101	284300101	282508101	2916153104	277170104	280020104	277265104	277200104	2804084110	273470110	273720110	272265110	273165110	280320Populations4050501050Number of iterations70500400200100Number of5,64025,00020,0002,0005,000evaluation
+
+The meaning of the bold values represent the AOSMA model’s greatest evaluation.
+4.4.ComparingtheEvaluationbetweenAOSMAandMOPSO,	SM	􏽐ni−11􏼌􏼌􏼌􏼌di − d􏼌􏼌􏼌􏼌 .	(15)
+	NSGA III, and LHS-Based NSGA III	
+4.4.1. Comparing the AOSMA with Those of Other Algorithms for Case 1. The performance of AOSMA was assessed by using the quality indicators, which evaluated the diversity of solutions along the Pareto front and convergence to Paretooptimality using [7, 32]. The performance of the suggested AOSMA can be measured using the following parameters listed, which were found to be satisfactory:
+(i) Spacing metric (SM)(n − 1)d
+(ii) Spread (Sp)
+−
+k
+	􏽐	d E􏼁,
+	SP 	i1	1 Ω + 􏽐x∈Ω|d(X, Ω−) − d| .
+􏽐ki1d E􏼁1, Ω +(|Ω| − k)d
+(iii) Diversification metric (DM)(16)
+􏽶 􏽴
+DM 	􏼠max􏼁fnadir1i −− minfbest1 􏼁f1i 􏼡2 +􏼠maxf􏼁f2 2i − min􏼁f2i	2	max􏼁f3i − min􏼁f3i	2	(17) f1
+
+(iv) Hypervolume (HV):
+|Ω|
+	HV  ∪ vi.	(18)
+i1
+(v) Computational time (CT): measures the time to generate a Pareto-optimal front.
+   As a comparison to the LHS-based NSGA III, MOPSO, and NSGA III, the AOSMA performed better on a number of parameters (SM, Sp, DM, HV, and CT and Table 9). As a result, the suggested model performs well across a wide range of performance evaluation metrics; specifically, AOSMA achieved the best results for the CT indicator.
+4.4.2. Comparing the AOSMA with Those of Other Algorithms for Case 2. Table 10 for case 2 compares AOSMA, MAWATLBO, MAWA-GA, MAWA-AS, and MAWA-ACS-SGPU [33]. The AOSMA model used a population of 50, a maximum of 100 iterations, and a total of 5,000 assessments. The optimal outcomes provided by AOSMA outperform those of the previous algorithms despite the population size and loop being average compared to other models. In addition to offering solutions that are less expensive than MAWATLBO, MAWA-GA, and MAWA-AS, the emerging model also addresses the complicated problems. However, it still has limitations when compared to the MAWA-ACS-SGPU model. Sensitivity analysis is used to look at the effects of various inputs on the output parameters.
+5. Conclusion
+The authors suggested changing the original SMA algorithm to AOSMA in order to better prepare for project completion problems and take into account characteristics specific to the construction sector. Finding the optimal Pareto solutions will be made easier by combining the proposed model with the OBL approach. The AOSMA is used in this combination to balance and improve the convergence of the algorithm by proposing to apply it to two construction projects in the research study to demonstrate its superiority and efficiency and the model’s potential in finding optimal solutions, including minimizing time, cost, and safety while maximizing the project quality in construction projects.
+   The aforementioned findings demonstrate that the AOSMA model successfully resolves the issue of simultaneously optimizing the four objectives and identifies the Pareto-optimal solutions in the test runs. The initiative delivered noticeably positive results and had no impact on the objectives specified. In this way, the proposed model is also put to the test by looking at the performance of the proposed project as it is widely derived from the AOSMA findings and contrasting it with the outcomes of the comparative algorithm models to be analogous to MAWA’s hybrid models, NSGA III, LHSbased NSGA III, and MOPSO’s. In contrast to the previous algorithms, the AOSMA model exhibits diversity, uniform distribution, and a higher level of result satisfaction.
+6. Directions for Future Research
+The AOSMA model’s development demonstrates improved exploration and exploitation since it achieves a better convergence than other contemporary techniques. For its superiority and viability, it is advised to continue combining the SMA model with various techniques so that it can be contrasted with other beneficial and competitive development models to address the optimization problems. Furthermore, the implementation of 04-factor optimization in the construction sector is still relatively new, particularly the implementation of new goals to address issues in the building. Therefore, subsequent research studies should keep applying optimization of newer elements to diversify in the construction area or enhance by optimizing 05 targets at once to increase the optimization problem’s quality in the 4.0 era. Every topic has a positive and a negative side; thus, in the studies that follow, the author will continue to research and try numerous approaches in an effort to provide readers with a useful example.
+Data Availability
+The data used to support the findings of the study can be obtained from the corresponding author upon request.
+Conflicts of Interest
+The authors declare that they have no conflicts of interest.
+Acknowledgments
+The authors gratefully recognize the time and facilities provided by Ho Chi Minh City University of Technology (HCMUT), VNU-HCM.
+Supplementary Materials
+The authors provide the supplementary material to show more details of how to calculate fuzzy of safety elements. (Supplementary Materials)
+References
+[1] A. Afshar and H. R. Z. Dolabi, “Multi-objective optimisation of time–cost–safety using genetic algorithm,” Iran University of Science & Technology, vol. 4, no. 4, pp. 433–450, 2014.
+[2] C.-W. Feng, L. Liu, and S. A. Burns, “Using genetic algorithms to solve construction time–cost trade-off problems,” Journal of Computing in Civil Engineering, vol. 11, no. 3, pp. 184–189, 1997.
+[3] S. Tiwari and S. Johari, “Project scheduling by integration of time cost tradeoff and constrained resource scheduling,” Journal of The Institution of Engineers (India): Series A, vol. 96, no. 1, pp. 37–46, 2015.
+[4] K. El-Rayes and A. Kandil, “Time–cost–quality trade-off analysis for highway construction,” Journal of Construction Engineering and Management, vol. 131, no. 4, pp. 477–486, 2005.
+[5] D.-L. Luong, D.-H. Tran, and P. T. Nguyen, “Optimising multi-mode time– cost–quality trade-off of construction project using opposition multiple objective difference evolution,” International Journal of Construction Management, vol. 0, no. 0, pp. 1–13, 2018.
+[6] E. Elbeltagi, M. Ammar, H. Sanad, and M. Kassab, “Overall multiobjective optimization of construction projects scheduling using particle swarm,” Engineering Construction and Architectural Management, vol. 23, no. 3, pp. 265–282, 2016.
+[7] A. Panwar and K. N. Jha, “A many-objective optimization model for construction scheduling,” Construction Management & Economics, vol. 37, no. 12, pp. 727–739, 2019.
+[8] K. Sharma and M. K. Trivedi, “Latin hypercube samplingbased NSGA-III optimization model for multimode resource constrained time–cost–quality–safety trade-off in construction projects,” International Journal of Construction Management, vol. 22, no. 16, pp. 3158–3168, 2020.
+[9] K. Khalili-Damghani, M. Tavana, A.-R. Abtahi, and F. J. Santos Arteaga, “Solving multi-mode time–cost quality trade-off problems under generalized precedence relations,” Optimization Methods and Software, vol. 30, no. 5, pp. 965– 1001, 2015.
+[10] S. Li, H. Chen, M. Wang, A. A. Heidari, and S. Mirjalili, “Slime mould algorithm: a new method for stochastic optimization,” Future Generation Computer Systems, vol. 111, pp. 300–323, 2020.
+[11] H. R. Tizhoosh, “Opposition-based learning: a new scheme for machine intelligence,” in Proceedings of the International Conference on Computational Intelligence for Modelling, Control and Automation and International Conference on Intelligent Agents, Web Technologies and Internet Commerce, pp. 695–701, Vienna, Austria, November, 2005.
+[12] S. L. Zubaidi, I. H. Abdulkareem, K. S. Hashim et al., “Hybridised artificial neural network model with slime mould algorithm: a novel methodology for prediction of urban stochastic water demand,” Water, vol. 12, no. 10, p. 2692, 2020.
+[13] M. Abdel-Basset, V. Chang, and R. Mohamed, “HSMA_ WOA: a hybrid novel Slime mould algorithm with whale optimization algorithm for tackling the image segmentation problem of chest X-ray images,” Applied Soft Computing, vol. 95, Article ID 106642, 2020.
+[14] E. H. Houssein, M. A. Mahdy, M. J. Blondin, D. Shebl, and W. M. Mohamed, “Hybrid slime mould algorithm with adaptive guided differential evolution algorithm for combinatorial and global optimization problems,” Expert Systems with Applications, vol. 174, Article ID 114689, 2021.
+[15] Y. Liu, A. A. Heidari, X. Ye, G. Liang, H. Chen, and C. He, “Boosting slime mould algorithm for parameter identification of photovoltaic models,” Energy, vol. 234, no. 1, Article ID 121164, 2021.
+[16] D. B. Khang and Y. M. Myint, “Time, cost and quality tradeoff in project management: a case study,” International Journal of Project Management, vol. 17, no. 4, pp. 249–256, 1999.
+[17] Y. Gloria, Optimising the Time-Cost-Quality (TCQ) Trade-Off in Offshore Wind Farm Project Management with a Genetic Algorithm (GA), The Hong Kong Institution of Engineers, Hong Kong, China, 2020.
+[18] P. De, E. James Dunne, J. B. Ghosh, and C. E. Wells, “The discrete time-cost tradeoff problem revisited,” European Journal of Operational Research, vol. 81, no. 2, pp. 225–238, 1995.
+[19] M. Skutella, “Approximation algorithms for the discrete timecost tradeoff problem,” Mathematics of Operations Research, vol. 23, no. 4, pp. 909–929, 1998.
+[20] M. Vanhoucke and D. Debels, “The discrete time/cost tradeoff problem: extensions and heuristic procedures,” Journal of Scheduling, vol. 10, no. 4-5, pp. 311–326, 2007.
+[21] R. Sonmez and OH. Bettemir, “A hybrid genetic algorithm for¨ the discrete time–cost trade-off problem,” Expert Systems with Applications, vol. 39, no. 13, pp. 11428–11434, 2012.
+[22] S. Aminbakhsh and R. Sonmez, “Discrete particle swarm optimization method for the large-scale discrete time–cost trade-off problem,” Expert Systems with Applications, vol. 51, pp. 177–185, 2016.
+[23] H. Li, Z. Xu, and W. Wei, “Bi-objective scheduling optimization for discrete time/cost trade-off in projects,” Sustainability, vol. 10, no. 8, p. 2802, 2018.
+[24] D. Liu, H. Li, H. Wang, C. Qi, and T. Rose, “Discrete symbiotic organisms search method for solving large-scale time-cost trade-off problem in construction scheduling,” Expert Systems with Applications, vol. 148, Article ID 113230, 2020.
+[25] N. T. Ngo, T. T. H. Truong, N. S. Truong et al., “Proposing a hybrid metaheuristic optimization algorithm and machine learning model for energy use forecast in non-residential buildings,” Scientific Reports, vol. 12, no. 1, 2022.
+[26] T. Nguyen, “Development of gray wolf (GWO),” Harris hawks (HHO) hybrid algorithm to optimize the construction cost of water distribution system, 2022.
+[27] P. V. H. Son, N. H. C. Duy, and P. T. Dat, “Optimization of construction material cost through logistics planning model of dragonfly algorithm — particle swarm optimization,” KSCE Journal of Civil Engineering, vol. 25, no. 7, pp. 2350–2359, 2021.
+[28] K. Phan, “Applying the noncooperative game model for compensation concept in contractor selection process for large-scale projects,” Journal of Science and Technology in Civil Engineering (STCE)-HUCE, vol. 15, 2021.
+[29] A. Panwar and K. N. Jha, “Integrating quality and safety in construction scheduling time-cost trade-off model,” Journal of Construction Engineering and Management, vol.147, no. 2, 2021.
+[30] S. Aminbakhsh and R. Sonmez, “Pareto front particle swarm optimizer for discrete time-cost trade-off problem,” Journal of Computing in Civil Engineering, vol. 31, no. 1, Article ID 04016040, 2017.
+[31] K. Deb and H. Jain, “An evolutionary many-objective optimization algorithm using reference-point-based nondominated sorting approach, Part I: solving problems with box constraints,” IEEE Transactions on Evolutionary Computation, vol. 18, no. 4, pp. 577–601, 2014.
+[32] F. Habibi, F. Barzinpour, and S. J. Sadjadi, “A multi objective optimisation model for project scheduling with time-varying resource requirements and capacities,” J Indus Syst Eng, vol. 10, 2017.
+[33] V. Togan and M. A. Eirgash, “Time-cost trade-off optimi-˘ zation of construction projects using teaching learning based optimization,” KSCE Journal of Civil Engineering, vol. 23, no. 1, pp. 10–20, 2019.
+2	Advances in Civil Engineering
+
+Advances in Civil Engineering	3
+
+
+

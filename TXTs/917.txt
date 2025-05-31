@@ -1,0 +1,105 @@
+﻿Park, J. a d Cho, Y., a d Ki , K. 6 . Field Co stru tio Ma age e t Appli atio through Mo ile BIM a d Lo atio Tra ki g Te h ology. I ter atio al “y posiu o Auto atio a d Ro oti s i Co stru tio 
+(ISARC), Auburn, AL, July 18-21, 2016. 
+ 
+    Field Construction Management Application through Mobile BIM and Location Tracking Technology 
+J. Parka, Y.K. Chob, and K. Kimc  
+a School of Civil and Environmental Engineering, Georgia Institute of Technology, USA  b School of Civil and Environmental Engineering, Georgia Institute of Technology, USA c 
+School of Civil and Environmental Engineering, Georgia Institute of Technology, USA  
+E-mail: jpark463@gatech.edu, yong.cho@ce.gatech.edu, kkim369@gatech.edu  
+  
+Abstract  
+   While Building Information Modeling (BIM) has been increasingly accepted in the construction industry, the rich project information in BIM is still not well utilized to support the field construction management. Project managers need to spend significant time and effort to find out useful project information (such as plans and specifications) for field management, and communicate with construction participants in the site and offices. To avoid such inefficiency caused by separation between digital project information and field management, this study proposes an innovation that integrates BIM and location tracking technology for construction field management. We created a new management tool by integrating a Bluetooth Low Energy (BLE) location tracking system and a BIM environment. In addition to the visualization of a mobile BIM in hand, the developed system provides the users with real-time access to more contextual information based on locations of construction resources. The system has been demonstrated with a  field trial at an indoor construction site. The result indicated that the integration of a tracking system in BIM 1) enabled timely visualization of a BIM model in hand, 2) provided immediate access to BIM data on site, and 3) showed the capability to interact with the model in real-time based on location information. Overall, the developed system showed the potential to improve the construction field management by bridging the BIM to the field through the BLE tracking system. Further, the real-time coordination of tracked resources and seamless communication of project information in BIM can significantly reduce the manual efforts made by the site managers and improve the project delivery efficacy.  
+  
+1 Introduction  
+   Building Information Modeling (BIM) is changing the way construction management is conducted [1]. Based on accurate digital modeling of BIM, construction plans can be created virtually and realistically evaluated. However, even with the increasing use of BIM, utilization of rich project information in BIM is still limited in terms of construction field management. Current construction field management practices are ineffective in several aspects. For example, many methods for construction progress monitoring, safety field safety monitoring, resource tracking, and management, and inspection are still manual and paper-based, which are  considered unreliable, labor intensive, and costly [2]. Significant amount of effort is also needed to find proper information from BIM while conducting these field management tasks. Field managers need to find information, such as plans and specifications, take notes while in the field and later log in such information in the office. Furthermore, additional problems are associated with this manual process. They include time and space discrepancies between a construction site and an office, insufficient number of on-site managers, and inefficient communication among project stakeholders [3; 4]. The paper or tablet-based walk-through monitoring and data collection without locational information attached to data would require extra efforts to link the data into the monitored components. This labor-intensive, manual process and separation between the office and construction site can affect the quality of the work, and thus may decrease the productivity. In addition, monitoring and controlling personnel and keeping track of their log-in information is time-consuming and tedious and  requires extra human resources [5].   
+   Over the last decade, the development of 3-D digital modeling of construction projects has been of great interest. Modeling technologies including BIM have rapidly grown, and made a big shift from the conventional construction method. 
+Te h ology. I ter atio al “y	atio a d Ro oti s i Co stru tio I“ARC , Au ur , AL, July 8-21, 2016. 
+ 
+As one of the most critical tools, BIM helps to facilitate various construction related works, including planning, design, construction, and operation and maintenance stages. Advancement in the mobile technology triggered the research and development of mobile BIM technology [6; 7]. Although mobile BIM for collaborative construction planning and management, such as BIM 360, has started to gain in popularity, construction field managers are still required to be fully aware of the important information in BIM, manually localize their positions, and control the user interface to navigate through the model. In order words, the current mobile BIM technology lacks automated location awareness; thus it is incapable to find the user’s location, visualize and share nearby contextual information in real-time.  This is a major bottleneck to effectively utilize the mobile BIM and improve efficiency in the construction field management.  
+2 Related Work  
+   With the development of BIM over the last decade, many researchers have studied its potential in various aspects: safety planning for temporary structures [8] and safety rule checking for fall related hazard were investigated, a prototype study for a large scale BIM model visualization was conducted [9], construction schedule optimization [10], and productivity study [11] were conducted. In addition, BIM has also been explored together with other resources to improve other aspects of construction. For instance, 3D laser scanning technology was used together with as-built BIM from a set of point clouds [12; 13; 14].  
+   Availability of location awareness has also been recognized to offer a number of potential improvements to construction.  They include decision making [15; 16], saving cost and time, thus increasing productivity [2; 15; 17; 18], enhancing safety and security level [19; 20].  Although such potential has been conceived by the construction industry, limited research efforts have been made to investigate their usages and the potential effects in construction.    
+   Recent research [21] developed a RFID based tracking system and BIM visualization of the target.  This research, however, performed course tracking based on proximity sensing, and BIM was used only for visualization purpose without making contextual interaction. A similar work was found in [22] but with a limited verification of the system; their testbed was a very short straight path, which is insufficient to present a real-world situation.   
+   A BIM model contains an abundance of project information from individual components to aggregated details and summaries. If a tracking system utilized such information to communicate with stakeholders in realtime, it would improve work efficiency and add new capabilities to not only construction sites but also indoor offices. This paper presents our research work that integrated a Bluetooth Low Energy (BLE) based in door tracking system with the mobile BIM that we created. This system uses extracted BIM information to enable communication within a 3D BIM environment.   
+3 Objective and Scope  
+   The objective of this study was to add locationawareness to BIM in order to assist in field construction  management. We developed a system that integrates a BLE-based tracking system within a BIM environment.  This integration should provide 1) visualization of the target within a BIM model, 2) nearby context aware information that are extracted from the BIM model, and 3) a communication tool for more efficient project management. The developed system extracts project specific information from a BIM model and integrates it into a BLE tracking system.  The BLE tracking system used in this integration was developed in this research. Details of implementation of the BLE tracking system is discussed and can be found in [23]. A field trial was conducted in an indoor construction site to test the system.    
+4 Approach  
+4.1 System Overview  
+   The developed BIM-integrated tracking system is composed of three components: 1) BLE tracking, 2) a BIM model, and 3) a cloud server. Figure 1 depicts the overall system architecture. The purpose of the BLE tracking component is to obtain location information of the target. A BIM model is used to extract project specific contextual information, including building geometry and object information for building components. By utilizing an as-built BIM model, the up-to-date state of the site condition can be collected and serve as important information, such as map knowledge for the tracking system and project detail data for quality inspection.  This information is exported into a XML formatted file directly from a BIM model and then imported into the mobile system. With the conversion of a BIM model to a mobile device compatible BIM 
+Te h ology. I ter atio al “y	atio a d Ro oti s i Co stru tio I“ARC , Auburn, AL, July 18-21, 2016. 
+ 
+format, the extracted BIM information can be combined with the tracking system. This enables us to realize a mobile BIM platform to visualize, explore, and interact with a BIM model in the field.   
+This 
+ 
+Figure 1. System architecture 
+capability becomes more useful when it enables real-time communication of the valuable data collected at the site. This last component can bridge the onsite personnel with the remote stakeholders and thereby close the gap between them.  For this purpose, a cloud server is configured to provide a safe storage for sharing and processing information collected by various stakeholders; for example, an inspection document that  is digitally recorded and stored though the mobile system can be immediately transmitted to the server and become ready to be shared with the relevant stakeholders.  
+5 Validation  
+To test the developed BIM-integrated BLE tracking system, an indoor construction site was selected. The test area was located on the second floor of a concreteframe building located in Atlanta, GA. Figure 2 (a) shows an extracted as-built floor view of the testbed. An as-built model was used to reflect the current stage of construction in the visualization and interaction with the model. Figures 2 (b) and (c) show the actual site condition of the site on the test day and the test subject, respectively. A test scenario was designed to evaluate the capability of the system to provide an accurate visualization of the BIM view and contextual information of the nearby objects on the site. In addition, the real-time information recording, processing, and sharing capability of the system is checked within the pre-configured cloud server. Figure 3 presents the designed path of the test; this path was particularly designed for the test subject to travel a long, complicated path with a number of turns. By testing a complex scenario, rather than a simple one, we validated the reliability of the system to provide proper visualization and nearby object information in a more realistic situation.   
+  
+Te h ology. I ter atio al “y	atio a d Ro oti s i Co stru tio I“ARC , Au ur , AL, July 8-21, 2016. 
+ 
+  
+  
+The three locations shown in Figure 3 correspond to  
+
+Tra ki g Te h ology. I ter atio al “y
+21, 2016. 
+ atio a d Ro oti s i Co stru tio I“ARC , Auburn, AL, July 18-  
+Figure 5. Incident reporting interface  
+  
+   As an example of such communication, Figure 6 shows a temporary storage area that was not found in the asbuilt model.  Figure 6 displays the logged documentation as well as a picture of the scene, which all was transmitted to the cloud.  This automation showed that the data collected at the site by quality inspection and / or safety inspection can be directly registered in the system and shared with the relevant stakeholder.    
+  
+ 
+Figure 6. Cloud server data storage  
+6 Conclusion and Discussion  
+   This study demonstrated the integration between BIM and location tracking to assist in field construction management. Beyond realization of the visualization of a mobile BIM in hand, the developed system provides the user access to location-aware and further contextaware information of BIM data as well as a communication tool that can be used in real-time. The system has been demonstrated with a field trial at an indoor construction site. The result indicated that the integration of a tracking system in BIM 1) enabled visualization of a BIM model in hand, 2) provided immediate access to BIM data on site, 3) showed the ability to interact with the model in real-time, and 4) 
+Tracking Te h ology. I ter atio al “y	atio a d Ro oti s i Co stru tio I“ARC , Au ur , AL, July 8-
+21, 2016. 
+ 
+report and share the results of the site investigation. This capability shows the potential to 1) improve effective coordination of resources, 2) provide a seamless communication tool among stakeholders, and 3) allow an instant share of information and documentation, thus overall reducing the amount of manual efforts made by the site managers and improving the quality of project delivery.  
+References  
+[1] Eastman, C., Teicholz, P., Sacks, R., and Liston, K. BIM Handbook: A Guide to Building Information Modeling for Owners, Managers, Designers, Engineers and Contractors. Building (Vol. 2). doi:10.1002/9780470261309, 2011.  
+[2] Wang, L. C. Enhancing construction quality inspection and management using RFID technology. Automation in Construction, 17(4), 467–479. doi:10.1016/j.autcon.2007.08.005, 2008.  
+[3] Kimoto, K., Endo, K., Iwashita, S., and Fujiwara, M. The application of PDA as mobile computing system on construction management. Automation in Construction, 14(4), 500–511. doi:10.1016/j.autcon.2004.09.003, 2005.  
+[4] Kim, Y. S., Oh, S. W., Cho, Y. K., and Seo, J. W. A PDA and wireless web-integrated system for quality inspection and defect management of apartment housing projects. Automation in Construction, 17(2), 163–179. 
+doi:10.1016/j.autcon.2007.03.006, 2008.  
+[5] Fiatech. RFID for Access Control in Construction Sites. doi:10.1016/S0022-3913(12)00047-9  
+[6] Shen, Z. Z., and Jiang, L. An Augmented 3D iPad Mobile Application for Communication, Collaboration, and Learning (CCL) of Building MEP Systems. In Computing in Civil Engineering (pp. 204–212)., 2012.  
+[7] Larsen, B. Accessing large 3D BIMs from mobile devices. eWork and eBusiness in Architecture, Engineering and Construction, 505–508. doi:doi:10.1201/b12516-80, 2012.  
+[8] Kim, K., and Cho, Y. K. Automated Safety Planning of Scaffolding-Related Hazards in Building Information Modeling (BIM). In Proceedings of The 6th International Conference on Construction Engineering and Project Management. Pusan., 2015.  
+[9] Johansson, M., Roupé, M., and Bosch-Sijtsema, P. Real-time visualization of building information models (BIM). Automation in Construction, 54, 69–82. doi:10.1016/j.autcon.2015.03.018, 2015.  
+[10] Kim, K., Walewski, J., and Cho, Y. K. Multiobjective Construction Schedule Optimization Using Modified Niched Pareto Genetic Algorithm. Journal of Management in  
+ 	Engineering,  	04015038.  doi:10.1061/(ASCE)ME.1943-5479.0000374, 2015.  
+[11] Kim, S. A., Chin, S., Yoon, S. W., Shin, T. H., Kim, Y. S., and Choi, C. Automated building information modeling system for building interior to improve productivity of bim-based quantity take-off. 2009 26th International Symposium on Automation and Robotics in Construction, ISARC 2009, 492–496., 2009.  
+[12] Hajian, H., and Becerik-Gerber, B. Scan to BIM: factors affecting operational and computational errors and productivity loss. 27th International Symposium on Automation and Robotics in  Construction, (Isarc), 265–272., 2010.  
+[13] Wang, C., and Cho, Y. Automated As-is BIM Extraction for Sustainable Simulation of Built Environments. In The Fifth International Conference on Construction Engineering and Project Management (ICCEPM-2013). Anaheim, CA., 2013.  
+[14] Wang, C., Cho, Y., and Kim, C. Automatic BIM Component Extraction from Point Clouds of Existing Buildings for Sustainability Applications. Automation in Construction, 56, 1–13. doi:10.1016/j.autcon.2015.04.001, 2015.  
+[15] Khoury, H. M., and Kamat, V. R. Evaluation of position tracking technologies for user localization in indoor construction environments. Automation in Construction, 18(4), 444–457. doi:10.1016/j.autcon.2008.10.011, 2009.  
+[16] Torrent, D. G., and Caldas, C. H. Methodology for Automating the Identification and Localization of Construction Components on Industrial Projects. Journal of Computing in Civil Engineering, 23(1),  
+ 	3–13.  	doi:10.1061/(ASCE)0887- 
+3801(2009)23:1(3), 2009.  
+[17] Grau, D., Caldas, C. H., Haas, C. T., Goodrum, P.  
+Tra ki g Te h ology. I ter atio al “y	atio a d Ro oti s i Co stru tio I“ARC , Auburn, AL, July 18-
+21, 2016. 
+ 
+M., and Gong, J. Assessing the impact of materials tracking technologies on construction craft productivity. Automation in Construction, 18(7), 903–911. doi:10.1016/j.autcon.2009.04.001, 2009.  
+[18] Cho, Y. K., Youn, J. H., and Martinez, D. Error modeling for an untethered ultra-wideband system for construction indoor asset tracking. Automation in Construction, 19(1), 43–54. doi:10.1016/j.autcon.2009.08.001, 2010.  
+[19] Park, J., Marks, E., Cho, Y., and Suryanto, W. Mobile Proximity Sensing Technologies for Personnel and Equipment Safety in Work Zones. In Computing in Civil Engineering (pp. pp. 41–48), 2015.  
+[20] Cho, Y. K., and Youn, J.-H. Wireless sensordriven intelligent navigation robots for indoor construction site security and safety. In 23rd International Symposium on Automation and Robotics in Construction (ISARC), 2006.  
+[21] Fang, Y., Cho, Y. K., Zhang, S., and Perez, E. Case Study of BIM and Cloud–Enabled Real-Time RFID Indoor Localization for Construction Management Applications. Journal of  
+Construction Engineering and Management., 2016.  
+[22] Costin, A., Pradhananga, N., and Teizer, J. Passive RFID and BIM for Real-Time Visualization and Location Tracking. In Construction Research Congress (pp. 169–178). Proceedings of the Construction Research Congress., 2014.  
+[23] Park, J., Cho, Y. K., and Ahn, C. Wireless Tracking System Integrated with BIM for Indoor Construction Applications. In Proceedings of The 2016 Construction Research Congress (CRC). San Juan, Puerto Rico., 2016.  
+  
+Park, J. a d Cho, Y., a d Ki , K. 6 . Field Co stru tio Ma age e t Appli atio through Mo ile BIM a d Lo atio Tra ki g posiu o Auto
+
+Park, J. a d Cho, Y., a d Ki , K. 6 . Field Co stru tio Ma age e t Appli atio through Mo ile BIM a d Lo atio Tra ki g posiu o Auto
+
+
+
+Park, J. a d Cho, Y., a d Ki , K. 6 . Field Co stru tio Ma age e t Appli atio through Mo ile BIM a d Lo atio posiu o Auto
+
+Park, J. a d Cho, Y., a d Ki , K. 6 . Field Co stru tio Ma age e t Appli atio through Mo ile BIM a d Lo atio posiu o Auto
+
+Park, J. a d Cho, Y., a d Ki , K. 6 . Field Co stru tio Ma age e t Appli atio through Mo ile BIM a d Lo atio posiu o Auto
+

@@ -1,0 +1,311 @@
+﻿Creative Education, 2016, 7, 254-268 
+Published Online February 2016 in SciRes. http://www.scirp.org/journal/ce http://dx.doi.org/10.4236/ce.2016.72024   
+ 
+ 
+Determining Construction Management 
+Education Qualifications and the Effects of 
+Construction Management Education  Deficiencies on Turkish Construction 
+Gülden Gümüşburun Ayalp1*, Mehmet Emin Öcal2 
+1
+Architecture Department, Architecture and Design Faculty, Zirve University, Gaziantep, Turkey  
+2
+Civil Engineering Department, Engineering and Architectural Faculty, Korkut Ata University, Osmaniye, Turkey 
+     
+ 
+Received 5 January 2016; accepted 18 February 2016; published 24 February 2016 
+ 
+Copyright © 2016 by authors and Scientific Research Publishing Inc. 
+This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/ 
+ 
+ 
+        
+Abstract 
+Being uninformed about construction management as a result of deficiencies in civil engineering and architecture educational programs has negative effects on the quality and cost of construction projects. Therefore, this study attempts to determine the failures of civil engineers and architects as they relate to the sources of their insufficient management knowledge in construction management. A questionnaire survey method was used to collect data. Data representing civil engineers and architects in Turkey were collected from 1555 architects and civil engineers mainly employed in construction-related activities. The study found that, according to the surveyed engineers and architects, construction management courses were rarely included in undergraduate civil engineering and architecture programs in Turkey. A large number of participants stated that construction management course offerings were not sufficient during their education. A lack of construction management knowledge creates serious problems that affect the success of construction-related activities during these architects’ and civil engineers’ careers. Most civil engineers and architects wish they had taken courses on cost and time management, contract management, health and safety and quality management. 
+ 
+Keywords 
+Architectural Education, Civil Engineering Education, Construction Management 
+ 
+	*Corresponding author. 	 
+How to cite this paper: Ayalp, G. G., & Öcal, M. E. (2016). Determining Construction Management Education Qualifications and the Effects of Construction Management Education Deficiencies on Turkish Construction. Creative Education, 7, 254- 268. http://dx.doi.org/10.4236/ce.2016.72024  
+1. Introduction 
+The preparation and management of contracts, the preparation and monitoring of work schedules, source planning and maintenance of interdisciplinary collaborations are activities performed by engineers and architects. The level of knowledge that these professionals have in these areas undoubtedly directly affects the quality and costs of construction activities. In this context, civil engineers and architects participating in construction pro- jects must have sufficient knowledge of management and the sub-units of management, namely, planning, organization, coordination, direction and controlling. Therefore, in addition to occupational courses, universities’ civil engineering and architecture departments should provide courses on construction management. However, most universities that provide education in the construction field (e.g., architecture and civil engineering) focus on traditional technology subjects and ignore management subjects (Long, 1997; Galloway, 2007; Arditi & Polat, 2010).  
+  Atalah and Muchemedzi (2006) have stated that “for many years, construction managers were either craft persons without college education or graduates of an engineering program who were trained on the job”. The management of construction companies began to change significantly 20 years ago (Atalah & Muchemedzi, 2006). Therefore, there is currently increasing demand for well-educated construction managers with a substantial amount of project and construction management knowledge to address the complexities found in construction projects. This increased need for a focus on project management during the education of both undergraduate and graduate students began in civil engineering programs in the late 1950s and in architecture programs in the 1930s in the United States (Oglesby, 1990; Willenbrock & Thomas Jr., 2007; Tucker, 2007, Levitt, 2007; Rinker, 2014). To produce construction managers who were prepared to enter the construction industry, construction management (CM) programs were initiated, and CM courses based on various methods were added to university civil engineering and architecture curricula. Certain universities responded to this demand by providing master’s programs in construction management and construction engineering. The M. E. Rinker Sr. School of Building Construction at the University of Florida, which began as a program under the Department of Architecture, is both the oldest continuously running construction program in the United States (dating back to 1935) and the first to offer a master’s program (established in 1948) (Rinker, 2014). A continuous increase in the number of graduate construction management programs was observed between the 1960s and 1970s (Atalah & Muchemedzi, 2006). Most of these programs stemmed from civil/architectural engineering master’s programs (Oglesby, 1982). 
+  Educational methods for construction management have been discussed in numerous studies published in the last 2 decades, including studies on augmenting current programs. Several studies related to augmenting current programs for both graduate education (e.g., Atalah & Muchemedzi, 2006; Arditi & Polat, 2010; Jimenez et al., 2011) and undergraduate education (Russel & Yao, 1996; Abudayyeh et al., 2000; Meyer & Jacobs, 2000; Chinowsky & Diekmann, 2004) have been published.  
+  Construction management education has clearly been attracting increasing attention both in universities and among professionals. According to Warszawski (1984), “The sad truth that a graduate of a civil engineering school is usually less prepared to deal with typical construction tasks than with almost any type of design chores may be disappointing and even frustrating to those who choose this career, as well as to their employers”.  
+  The traditional objective of construction management education can be summarized as follows: providing analysis and design information that is necessary for civil engineering and architecture education, educating students about construction process management and construction firm management, and extending students’ engineering perspectives by examining the economic, legal, social and environmental effects of construction projects. Having examined the expectations of the construction sector, an area where intense international and national competition has developed and where demands and structure constantly change, the addition of construction management courses to architectural and civil engineering educational programs has the potential to substantially influence the individuals who graduate from these fields (Birgönül et al., 2007). 
+  Construction firms expect newly graduated engineers and architects to have academic knowledge in addition to certain personal and managerial skills. Therefore, engineers and architects who are well educated in construction management can gain a competitive advantage in the construction sector. For these reasons, when designing the curricula for architecture and engineering programs, it is important to include courses that will provide students with managerial skills so that they can meet the needs of the marketplace. 
+2. Nature of Construction Management 
+The nature of management can be best explained through its major tasks (Koontz & O’Donnell, 1977; Newman & Warren, 1981). 
+• Planning: setting goals and standards, scheduling, budgeting, and programming. 
+• Controlling: evaluation of performance in view of the plan and in terms of progress, resources and quality. 
+• Organizing: division of tasks, departmentalization, and establishment of communication procedures. 
+• Coordinating: coordination with designers, suppliers, authorities, and subcontractors. 
+• Directing: guiding, instructing, motivating, and training. 
+  The aforementioned tasks are universal in terms of the spirit of management in all industries. However, construction management tasks differ from tasks in other fields because of the requirements for both complex technology and advanced management techniques. Warszawski (1984) explained these distinctions as follows: 
+• “Every construction project has a permanent influence on its neighborhood and totally affects the safety and well-being of its users. 
+• Unlike a standard production order in most industries, every construction project has distinctive characteristics with respect to its purpose, design, surroundings and resources employed for its realization. 
+• The production process is not centralized as in other industries—every project is executed in a different location with a different labor force. 
+• There is no unified authority for all phases of design and production; the authority is divided between the sponsor (or his agent), the designer, the contractor and the local municipality in which the project is erected. 
+• The production process employs a large number of highly qualified and independent skills with separate and possibly different employment agreements between them and the owner or the general contractor.” 
+  Construction processes are strongly affected by the abovementioned features as well as managerial, economic, and legal aspects; therefore, construction management should be viewed differently than management in other sectors due to its unique features. Because all labor is related to contracts, programming, preliminary designs, budgeting, design, tendering, construction and operation as well as maintenance planning, extensive management knowledge is required in construction projects. Furthermore, modern factors, such as projects are becoming more complicated and an increase in knowledge sharing, have resulted in the development of several software packages for use in construction management. It has become necessary for construction managers to be knowledgeable about these programs. This situation emphasizes the importance of incorporating construction management topics and adding main construction management courses into civil engineering and architecture undergraduate programs. 
+  A construction manager realizes his/her tasks as a project manager (on behalf of the owner), an operator in a contractor organization and a construction manager of a construction company or regional/national building agency. 
+3. Expectations from Civil Engineering and Architectural Education with Respect  to Construction Management  
+Providing formal engineering education and training to undergraduate students interested in careers in the construction industry has become necessary to address and overcome the numerous challenges facing the industry today (Tener, 1996; Sheehan, 1991). In this respect, Tener states, “The practice of construction engineering and management in the United States increasingly demands professional engineers who are capable of solving technical, management, social, political, and leadership problems as tough as those faced in any other engineering discipline.” Therefore, many owners are beginning to demand registered engineering status to address many issues at construction job sites, such as the safety of the construction operation and the design and engineering of construction systems. Increasingly, project specifications, standard specifications, local regulations, and Occupational Safety and Health Administration regulations require that a registered professional engineer must design selected aspects of the construction process (Abudayyeh et al., 2000). Because of the increased development of the construction sector, architects and engineers expect that they will receive positions in the management of a construction company. According to Russell and Yao’s observation (1996), “an engineer is hired for his or her technical skills, fired for poor people skills, and promoted for leadership and management skills”. In contrast to other sectors, the construction sector operates on a project basis; therefore, those employed in this sector require different abilities and qualities (Warszawski, 1984).  
+  Regarding the construction project application process and its management, it is generally perceived that civil engineers participate in each stage of construction. However, architects, who can also participate in each stage, play an active role from the beginning of the design process to the conclusion of the projects. For example, the basic necessary conditions are determined in the Commission of the European Communities Directive No. 85/384/EEC (2005), and the skills necessary to become an architect that relate especially to construction management are as follows:  
+• Having the necessary design skills to fulfill the demands of the people who are going to use the structures within the limits imposed by cost elements and construction plans; 
+• Having sufficient knowledge about production, organization, legal regulations and processes necessary for converting design ideas into structures and combining the plans with general planning decisions; 
+• Having sufficient information about project financing, project management and cost control. 
+  Construction covers a wide range of technical and theoretical subjects, and students are required to acquire not only basic knowledge (for example, about law and management) but also the necessary practical skills (Betts et al., 1993). Construction education encompasses a wealth of knowledge in various applied areas, including civil engineering (Popescu, 1987; Jester, 1989), construction methods and techniques (Laufer, 1987), construction management (Arditi, 1984; Faulkner et al., 1989; Egbu, 1999; Fraser, 2000), professional skills and ethnics (Karbhari, 1989; Betts et al., 1993), and occupational health and safety (Laukkanen, 1999). Popescu (1987) and Faulkner et al. (1989) noted that the curricula should reflect the dynamic needs of society, including those of employers and students, and wider economic and political demands (Ditcher, 2001). In today’s construction education environment, technological advancements undoubtedly require graduates to equip themselves with not only the ability to think creatively but also state-of-the-art knowledge (Sparkes, 1993). Therefore, architecture and civil engineering students are obligated to develop basic skills in such areas as law, management science, planning and coordinating, planning techniques, and teamwork, all of which are within the scope of construction management (Sears & Clough, 1991; Gürer & Koç, 1996). The success of the sector is closely related its employees’ quality of education. Similarly, employees’ level of education determines in part the level of success that they will experience in their careers (Sertyeşilışık et al., 2012). 
+  Analyzing the literature, many studies from the 1980s to the present have highlighted the need for education programs that develop skills related to construction management in the construction sector (e.g., Popescu, 1987; Tatum, 1987; Riggs, 1988; Harrington et al., 1998; Egbu, 1999; O’Brien et al., 2003; Christodoulou, 2004). Although these studies differ in terms of content and purpose, overall conclusions have many commonalities, such the importance of individual and managerial skills, programming, construction procedures and their environment, cost control, contract management, information technology skills and adaptability to teamwork in construction management. However, these skills are usually ignored in construction management education (Warszawski, 1984; Çıracı et al., 1999; Liu & Fang, 2002; Arditi & Polat, 2010).  
+Overview of Current Construction Management Curriculums at Architecture and Civil  Engineering Programs at Turkey 
+There are 179 universities distributed throughout the 81 cities in Turkey, with each city having at least one university. The majority of these universities (108) are state universities, and the remainders are foundation universities. The architecture and civil engineering syllabi of technical and deep-rooted (well-established) universities were examined to provide a realistic overview of the situation in Turkey.  
+  There is no specific undergraduate program for construction management education focused on producing construction managers in Turkey. Construction management skills and abilities are developed in construction- management-related courses that are offered at architectural and civil engineering programs instead of in a specific construction management undergraduate program. 
+The American Council for Construction Education classified construction management courses into 3 groups:  
+• Courses directly related to construction management (compulsory construction management courses). 
+• Courses focused on closely related academic disciplines, e.g., economy, law, and management (compulsory close academic discipline courses). 
+• Elective course related to both of the abovementioned groups.  
+The method of participating in these courses and their syllabi are shown in Table 1. 
+Table 1 compares the current course offerings and the course offerings in 1993, the latter of which were  
+Table 1. Overview of current construction management curriculum at some architecture and civil engineering programs at Turkey.     
+Universities 	 Courses Related with Construction Management  	Courses Related with Construction Management  at Architecture Department 	at Civil Engineering department Construction Compulsory CompulsoryCourses (Academic Close  )  Elective Courses EducationDuring Hours Total  CompulsoryCourses (Ratio of **)  Management Construction Compulsory Courses 	CompulsoryCourses (Discipline Academic Close  *)  Elective Courses EducationDuring Hours Total  CompulsoryCourses (Ratio of **) 
+Management Courses 	Discipline *Istanbul 
+Technical 
+University 
+(ITU) 2015 
+1993 1 
+6 - 
+2 2 
+8 198 
+222 2.52% 
+2.70% 1 
+3 4 
+4  1 15 180 
+201 1.66% 
+1.49% Karadeniz 
+Technical 
+University 
+(KTU) 2015 
+1993 0 
+2 3 
+0 0 
+2 252 
+182 0.00% 
+1.10% 3 
+3 0 
+4 4 
+0 174 
+213 4.02% 
+1.41% Middle East 
+Technical 
+University 
+(METU) 2015 
+1993 0 
+0 0 
+0 0 
+0 166 
+*** - 
+- 1 
+4 1 
+3 2 
+6 187 
+*** 1.60% 
+? Yıldız  
+Technical 
+University 
+(YTU) 2015 
+1993 1 
+4 0 
+2 3 
+0 205 
+224 0.97% 
+1.79% 1 
+4 0 
+2 4 
+0 190 
+201 2.10% 
+1.99%   Gazi  University 2015 
+1993 1 
+4 0 
+0 0 
+0 204 
+208 1.47% 
+1.92% 1 
+3 0 
+2 2 
+3 177 
+243 1.69% 
+1.23% 9 Eylül 
+University 2015 
+1993 0 
+4 1 
+2 2 
+0 191 
+223 0.00% 
+1.79% 1 
+7 2 
+4 6 
+4 190 
+216 1.57% 
+3.24% 
+(*) This section is consist of close academic discipline courses e.g. Economy, Law, Labor Law. (**) The ratio of all construction management courses to total undergraduate courses hours. (***) Total course hours could not be calculated. 
+ 
+arranged by Berköz and Kanoğlu (1993). In this study, using the same categories, the 1993 and 2015 undergraduate programs in architecture and civil engineering were compared. The universities presented in Table 1 are well-established technical universities and the oldest universities in Turkey, having been established in the 1930s. Therefore, the highest number of construction management courses is offered at these universities. In other words, Table 1 represents the best offerings of construction management courses in Turkey.  
+  Comparing the 1993 and 2015 curricula of architecture and civil engineering undergraduate programs, it is clear that both of these architecture and civil engineering programs changed during this 22-year period (1993-2015) (Table 1). The ratio of compulsory courses in architecture programs decreased significantly during this period. In contrast, there was a small increase in the number and ratio of compulsory courses in civil engineering programs.  
+  Examining the current curricula in Table 1, it is found that compulsory construction management courses constitute 3 - 4 hours per week in both architecture and civil engineering programs. There are only two exceptions for each department type: the Istanbul Technical University Architecture program includes 5 hours/week of compulsory construction management courses, and the Karadeniz Technical University Civil engineering program includes 7 hours/week of compulsory construction management courses. Thus, construction management courses constitute only 2.52% of the offerings at architectural programs and 2.10% of those at civil engineering programs. However, the number of construction-management-related courses is substantially higher in civil engineering programs than in architecture programs. If we look closely, it is clearly seen that this is because there are so many more courses in civil engineering programs. 
+The analysis of construction management courses, compulsory close discipline courses and elective courses 
+offered by the architectural programs of various technical universities are presented in Figure 1. 
+  The construction management courses, compulsory close discipline courses and elective courses of various technical universities for civil engineering programs are analyzed in Figure 2. 
+  Table 1, Figure 1 and Figure 2 reveal the insufficiency of construction management course offerings. However, architects and civil engineers should learn about a wide variety of topics and subjects. Advanced cost estimation, contract administration (contracts and disputes), project management, scheduling, avoidance and resolution leadership, advanced construction techniques, accounting and cost control, strategic management, risk management, site development, and entrepreneurship are some of the subjects that should be taught to architects and civil engineers during their undergraduate education. Construction management courses are very important for both professional architects and civil engineers. Contract administration is essential because civil engineers and architects need to develop a good understanding of the rights and responsibilities of the many parties (owners, designers, contractors, suppliers, sureties, etc.) traditionally involved in construction projects. Project management is also essential because, unlike most manufacturing industries, the construction business is project- based. Scheduling is the most important part of project management because time management typically constitutes a critical item in the construction contract. Managing construction equipment and understanding traditional  
+ 
+Compulsory CM courses
+Compulsory Close Academic Discipline Courses
+Elective Course 1
+Elective Course 2
+	Elective Course 3	 
+Figure 1. Analysis of all type of construction management courses in architecture programs.                            
+  
+ 
+	0	5	10	15	20	25	 
+  
+Figure 2. Analysis of all type of construction management courses in civil engineering programs.                        
+and novel technologies are also part of the “big picture” (Arditi & Polat, 2010). As is the case for the abovementioned topics, other construction management subjects are commonly neglected in undergraduate curricula in civil engineering and architecture. The main reason for this neglect lies in the belief that there is a desire to keep the number of credits down.  
+4. Construction Management in the Turkish Construction Sector  
+The construction industry is an industry that is labor intensive and strongly affects the level of socio-economic welfare in the overall economic structure. Many resources are assigned to the construction industry in Turkey and worldwide. In addition, with Turkey being a developing country with intensive migration from rural areas to cities, investments in infrastructure for industry as well as superstructure continue to increase. 
+  In Turkey, construction is a 32 billion dollar per year enterprise, accounting for 4.5% of gross domestic product (GPD) and employing 1.6 million people (TÜİK, 2013).  
+  Significant indicators of the boom of the construction sector in Turkey are the number of buildings being awarded building licenses and their floor area measurements (Table 2). 
+  As shown in Table 2, there have been increases in both the number of buildings and building sites across time.  
+  Turkey is located in an earthquake zone and has experienced many earthquakes over its history (Işık, 2000). These earthquakes have caused large-scale losses of life and property. It has been estimated that approximately 6.5 million buildings in Turkey are potential sources of danger and may cause large-scale loss of life in the event of an earthquake (Ercan, 2013). Today, these potential danger buildings are being rebuilt after being demolished. According to Code 6306 (2012), the estimated cost of this work, which is called “Urban Transformation” by official institutions and expected to continue for many years, is 400 billion dollars. 
+  Unfortunately, this troubling situation is an indication that the construction sector in Turkey faces serious problems. Many factors contribute to these problems. However, one of the basic causes of this widespread inadequacy is the non-prognosticative management of buildings. For this reason, it is very important to teach architects and civil engineers construction management skills during their education process to both increase the quality of buildings and minimize current problems.  
+  However, adequate courses on construction management issues are not provided by the architectural and civil engineering departments of Turkish universities or included in the curricula of many departments. As a result, architects and engineers have encountered various problems and failures, which in turn reduce the quality and increase the cost of their construction projects 
+  This study attempts to determine management knowledge deficiencies that represent significant sources of the aforementioned failures of architects and civil engineers in Turkey. 
+5. Research Method 
+5.1. Sample Selection 
+Architects and civil engineers currently employed in the construction sector were consulted to determine to the extent to which issues related to construction management are discussed in undergraduate architectural and civil engineering education in Turkey and the undesirable effects of these deficiencies on construction-related activities. The participants were randomly selected from the database of the Turkish Building-Construction Centre. The Turkish Building-Construction Centre is an organization that maintains the contact information of most architects and civil engineers in the country. In this study, the only inclusion criterion was employment in the construction sector. Therefore, a questionnaire was adopted as a survey method to gather information. 
+ 
+Table 2. Distribution of buildings given building licenses in turkey in line with years (adopted from TUIK, 2015).                      
+Information of the  buildings given licenses Year 2013 2014 2015 Number of buildings 24,390 45,803 24,045 Floor area (m²) 33,297,327 66,806,683 37,050,295 5.2. Questionnaire Design 
+A questionnaire was designed to collect information from professional architects and civil engineers to determine the deficiencies in construction management and negative effects on construction projects. The questionnaire consisted of five categories: introduction, level of construction management instruction during education, the effects of insufficient CM knowledge in the construction industry, the CM courses included in syllabi, and courses that the respondent feels should be added to syllabi. These questions were grouped according to the clear divisions shown in the final questionnaire. The respondents were asked to answer certain questions and offer their expectations about construction management.  
+The contents of each category of questions are described below. 
+1) The introductory section consisted of nine questions that were designed to determine the architects’ and civil engineers’ background in terms of age, occupation, professional field, academic background and years of experience. 
+2) The second section is one of the main components of the questionnaire: the questions were intended to measure the level of construction management knowledge received by the architects and civil engineers during their education using a three-point Likert scale.  
+3) Next, seven questions were administered to investigate the negative effects of insufficient construction management knowledge. For these questions, a five-point Likert scale was used to quantify the participants’ responses, with five possible choices: always, frequently, sometimes, rarely and never.  
+4) Participants were asked about the construction management courses that they took at architectural and civil engineering programs using multiple-choice questions. 
+5) Finally, a series of multiple-choice questions was used to identify the construction management courses that the respondents most desired and those that they considered most necessary.  
+5.3. Data Collection 
+The prepared questionnaire was made available online, and 2247 civil engineers and architects were invited by e-mail to respond to the questionnaire. A total of 1650 of the participants responded to the survey; however, 95 were excluded because of missing data. Ultimately, 723 surveys were collected from the architects, and 832 surveys were collected from civil engineers (1555 surveys in total). The overall response rate was 73.4%, and the response rate for the analyzed responses was 69.2%, which is a high rate for an online survey.  
+  Using the SPSS 18 software, the reliability of the obtained data was analyzed, and percentage and frequency distributions were examined. 
+5.4. Participants 
+The sample is comprised of civil engineers and architects who are currently employed in the construction sector. Therefore, the participants’ experience (in years) is important for evaluating the significance of educational matters. In Table 3, the distribution of the respondents’ experience (in years) is presented. 
+  According to Table 3, the majority (75% - 85%) of participants graduated more than five years ago. Moreover, approximately 64% of the civil engineers and 67% of the architects graduated more than ten years ago. This finding allows us to draw two conclusions. First, the respondents have sufficient experience in the construction sector. In the Turkish construction sector, 5 - 7 years of experience is required for civil engineers and architects to join certain tenders, and administrative contracts often stipulate that civil engineers and architects must have sufficient experience (minimum five years) to be hired for a job. Therefore, the results indicate that the respondents have sufficient experience to evaluate the importance of educational matters. Second, because many participants graduated more than ten years ago, their responses are based on educational programs from ten or more years ago. At first glance, it might seem that the results may not represent the curricula of current architecture and civil engineering programs. For this reason, we examined all curricula of Turkish architecture and civil engineering programs and determined whether these programs have added construction-management-related courses. We found that the current curricula are very similar to those from ten or more years ago, as shown in Table 3.  
+In Table 4, the participants’ work activities are shown. 
+According to Table 4, it can be clearly observed that most of the architects and civil engineers are engaged in  
+Table 3. The years of experience of participants.                                                                          
+The Year of Experience Architect (%) Civil Engineer (%) 0 - 5 years 25.3 14.2 6 - 10 years 18.0 22.5 11 - 15 years 14.1 17.8 16 - 20 years 10.1 10.5 More than 20 years 32.5 35.0 Total 100.0 100.0  
+Table 4. The work activities of respondents.                                                                              
+Work Activities Architect (%) Civil Engineer (%) Designer 33.4 14.1 Site manager 6.9 21.5 Project manager 45.4 21.0 Constructor 14.3 43.4 Total 100.0 100.0  
+construction-related activities, including site and project management.  
+6. Findings 
+Reliability analysis was applied to the survey administered to architects and civil engineers using SPSS 18 software. The total reliability score of the survey was found to be 0.762, indicating that the questionnaire is acceptably reliable for our purposes. 
+  Analyzing the obtained data in terms of the cities in which the participants worked, it was determined that questionnaires were collected from civil engineers employed in 60 different cities and architects employed in 50 different cities. In addition, graduates of 29 different architecture departments and 36 different civil engineering departments responded to the questionnaire. Considering that Turkey is host to 81 cities, 61 architecture departments and 83 civil engineering departments in total, the survey results can be said to be well representative of Turkey. 
+  Table 5 and Table 6 present the distributions of the numerous titles held by the architects and civil engineers participating in the survey, respectively. To clarify the types of tasks related to these titles, we provide the following classification. Titles that address project preparation are “contractor company owner/partner architect or civil engineer”, “office architect/civil engineering”, and “project director architect/civil engineering”. “Construction company owner/partner civil engineering and architect” and “worksite chief architect and civil engineering” concern construction-related activities. 
+  From Table 5 and Table 6, we find that architects and civil engineers actively engage in both project preparation and the application process; however, they are more active in construction-related activities. 
+  Table 7 shows the participants’ perception of the extent to which they learned about construction management issues during their education. 
+  Table 7 shows that architects and civil engineers receive either a nonexistent or superficial education in topics related to construction management. Note that significant numbers of both groups of participants (>50%) never learned about the preparation of contracts and technical specifications, the tender process, progress payment, quality management, the concept of concurrent engineering, feasibility planning and contractor organization during their education. 
+  Table 8 presents the average ratings (on a scale of one to five) of architects and civil engineer respondents’ support for the seven statements derived from their not being adequately informed about construction management issues during their education. The scale of this question is Likert’s scale. The level of agreement is stated between 1 - 5. “5: Definitely Agree”, “4: Agree”, “3: Neutral”, “2: Disagree”, “1: Definitely Disagree”. 
+Table 5. Title distributions of architects participating to the survey.                                                          
+Position/Title Frequency % Contractor company owner/partner architect 221 30.6 Construction company owner/partner architect 85 11.8 Project director architect 181 25.0 Worksite chief architect 46 6.4 Office architect 180 24.9 Other (head of department, manager) 10 1.3 Total 723 100.0  
+Table 6. Title distributions of civil engineers participating to the survey.                                                       
+Position/Title Frequency % Contractor company owner/partner civil engineer 104 12.5 Construction company owner/partner civil engineer 292 35.1 Project director civil engineer 155 18.6 Worksite chief civil engineer 142 17.1 Office civil engineer 123 14.8 Other (Manager, owner of construction audit firm, head of department) 16 1.9 Total 832 100.0  
+  For evaluating the mean of each statement, scale range is determined by using Gökdaş’s (1996) and Tekin’s (1996) method, formulated at Equation (1): 
+Range Amplitude = Row Amplitude Group Number                     (1) 
+  According to this formula, row amplitude means the subtraction minimum score from maximum score at Likert Scale (5 - 1 = 4). Group number means number of scale. It is five for this study.  
+  Range amplitude is determined as 4/5 = 0.80 by using this formula and the level-of-agreement scale used in this paper is shown in Table 9. 
+  According to Table 8, architects and civil engineers face widespread and serious problems due to from their lack of knowledge in such areas as the preparation stage of tenders, worksite management, preparation and monitoring of schedules, preparation of contracts and technical specifications, occupational health and safety, control of construction process and related regulation and concurrent engineering. Note that problems reported by architects were parallel to those reported by civil engineers. 
+  This study examined which subjects relating to construction management are included in architectural and civil engineering education programs. The participants’ answers to the questions related to the subjects are given in Table 10. 
+  Examining Table 10, we find that few architects (33.1%) and almost half of the civil engineers (58.7%) took courses on construction management during their formal education. Construction management courses were taken by more respondents often than almost any of the other courses discussed. However, other construction- management-related courses are marginally involved in undergraduate curricula. According to the Republic of Turkey Social Security Institution’s Employment injury and occupational diseases statistics (2012), “Turkey is ranked first among European countries and third globally in terms of fatal work accidents (SGK, 2012)”. It is noteworthy that health and safety courses are found in only 10.3% of architectural education programs and 24.5% of engineering education programs.  
+  The participants’ responses to the questions seeking to identify the construction management topics that should be, but are currently not, taught in architectural and civil engineering education programs are given in Table 11. 
+Table 7. Their level of being informed about construction management issues in the process of undergraduate education of architects and civil engineers participated in the questionnaire.                                                          Topics Related to Construction  
+Management in Education Programs of Architects and Civil Engineers Sufficiently Informed (%)   Slightly Informed (%) Not Informed at All (%) Architect   Civil  Engineer Architect   Civil  Engineer Architect   Civil  Engineer Bill of quantities and estimating 19.8 20.8 54.9 58.1 25.3 21.1 Preparation of contracts and technical specifications 7.1 7.2 36.2 36.1 56.7 56.7 Tender process 5.4 7.0 33.4 28.0 61.2 65.0 Site organization and management 16.5 19.7 50.9 58.2 32.6 22.1 Preparation of work schedules 17.1 21.1 45.4 54.6 37.5 24.3 Progress payment 7.6 10.6 32.8 43.9 59.6 45.5 Control of construction process 11.1 12.2 45.8 50.6 43.1 37.2 Physical development planning law 22.9 6.8 47.1 25.8 30.0 67.4 Health and safety 9.1 14.3 35.5 43.9 55.4 41.8 Quality management 7.7 8.6 30.1 29.3 62.2 62.1 Concurrent engineering concept 8.0 7.7 25.9 23.2 66.1 69.1 Feasibility planning 9.7 8.6 31.3 37.0 59.0 54.4 Contractor organization 6.3 6.6 28.7 28.8 65.0 64.6  
+Table 8. Average rating (on a scale of 1 - 5) of respondents’ support for the seven statements.                                      
+Statement Number     Problems Due to Lack of Information about Construction  Management During Architectural and Civil Engineering Education Architects’ Mean Civil Engineers’ Mean Total Mean 1 We faced serious problems both in preparation  stage of tenders and during tenders 3.31 3.21 3.26 2 We faced problems about site establishment,  organization and management 3.09 2.99 3.03 3 We faced problems both regarding work  schedule preparation and monitoring 3.03 3.06 3.05 4       We feel that our lack of information regarding  concurrent engineering concept causes many negative results 3.18 3.28 3.24 5 We faced problems related with both contracts and  technical specifications preparations deficiencies 3.23 3.33 3.28 6 We faced problems both due to lack of information  about health and safety precautions and regulations 3.06 3.29 3.18 7 We faced problems due to both lack of information about control of construction process and related regulation 3.12 3.16 3.14  
+Table 9. Adopted agreement level using the 1 - 5 rating.                                                                    
+Level of Agreement Scale Definitely agree 4.20 - 5.00 Agree 3.40 - 4.19 Neutral 2.60 - 3.39 Disagree 1.80 - 2.59 Definitely disagree 1.00 - 1.79 Table 10. Distributions of courses in the education programs of the architects and civil engineers participating to the survey.              
+Courses Related with Construction Management in Civil  Engineering Architectural Education Programs Architect (%) Civil Engineer (%) Health and safety 10.3 24.5 Bill of quantities and estimating 31.8 25.6 Site management 24.3 38.7 Construction law 39.0 14.1 Labor law 22.2 50.2 Preparation of computer aided scheduling 13.8 18.0 Construction management 33.1 58.7 Engineering economy 8.1 46.0 Note: As participants selected one or more than one answer the frequency and percentage value totals could not be given. 
+ 
+Table 11. Distributions of courses which are desired to take place in the education programs of the architects and civil engi-neers participating to the survey.                                                                                      Desired Courses Related with Construction Management in Architectural and Civil  
+Engineering Education Programs Architect (%) Civil Engineer (%) Health and safety 51.1 64.7 Bill of quantities and estimating 64.4 69.7 Site management 66.5 65.5 Construction law 52.4 57.0 Labor law 43.5 42.3 Preparation of computer aided scheduling 627 68.8 Construction management 60.0 57.6 Engineering economy 37.3 50.2 Quality management 56.1 58.2 Primevera software program 28.6 51.4 MS Project software program 35.5 46.9 Construction machines 26.0 35.2 Cost estimation and control 72.4 72.1 Other (Contract management, human resource management, payment regulations and process, 
+Physical Development Planning Law) 11.2 12.7 Note: As participants selected one or more than one answer the frequency and percentage value totals could not be given. 
+ 
+  The data in Table 11 support the data in Table 10. Table 11 shows that architects and civil engineers strongly believe that the subjects of health and safety, bill of quantities and estimating, site management, construction law, labor law, computer-aided scheduling, construction management, quality management, cost estimation and control subjects should be incorporated into architectural education programs. The responses of civil engineers and architects regarding the aforementioned issues are similar.  
+7. Discussion 
+The Turkish construction sector must address various problems originating from quality, cost, and contracts. It is thought that a lack of knowledge concerning construction management among architects and civil engineers, who play a role in every stage of construction, from project design to the application, may be a major contributor to these problems.  
+  This study attempted to determine the sources of management knowledge deficiencies, which underlie the aforementioned failures of architects and civil engineers seeking careers in construction-related activities. As a result of the analysis, as it applies to the Turkish construction sector, we found the following results: 
+• Approximately 80% of architects and 75% of civil engineers felt that coursework related to construction management during their education was not sufficient.  
+• According to the views of the survey respondents, architects’ and engineers’ aforementioned lack of knowledge causes them to encounter serious problems, which affect their success. These problems are reflected in the quality of finished buildings, delays in the construction schedules and increased costs during the construction process.  
+• For the aforementioned reasons, the participants of the survey believe that courses related to cost and time management, contract management and administration, health and safety, preparing bills of quantities, performing computer-supported scheduling, quality management and legislation should be provided in educational programs. 
+• The most unsettling finding of this study is that the necessary priority is not given to the subject of health safety in the education of architects and civil engineers despite the fact that the construction sector experiences the largest number of fatal work accidents.  
+  Based on these results the problems faced by construction-related architects and civil engineers regarding knowledge deficiencies in these subjects can be considered prevalent and serious.  
+8. Conclusions 
+The present study examined the failures of architects and civil engineers as they relate to the sources of their insufficient management knowledge in construction management. For this purpose, data are collected from architects and civil engineers who are currently employed in the construction sector and are primarily engaged in construction-related activities via a questionnaire method. The statistical analyses indicated that most of architects and civil engineers suffered from construction management knowledge deficiencies at their profession.  
+  Civil engineers and architects encounter serious problems as delay in the construction schedules and increased costs during the construction process. To prevent encountering these kinds of problems architects and civil engineers want different types of construction management courses which are added to the curriculum of civil engineering and architectural programs. 
+References 
+Abudayyeh, O., Russell, J., Johnston, D., & Rowings, J. (2000). Construction Engineering and Management Undergraduate Education. Journal of Construction Engineering and Management, 126, 169-175. http://dx.doi.org/10.1061/(ASCE)0733-9364(2000)126:3(169) 
+Arditi, D. (1984). Graduate Education in Construction Management. Construction Management and Economics, 2, 193-199. http://dx.doi.org/10.1080/01446198400000018 
+Arditi, D., & Polat, G. (2010). Graduate Education in Construction Management. Journal of Professional Issues in Engineering Education and Practice, ASCE, 136, 175-179. http://dx.doi.org/10.1061/(ASCE)EI.1943-5541.0000014 
+Atalah, A., & Muchemedzi, R. (2006). Improving Enrollment in the Master of Construction Management Program at Bowling Green State University. Journal of Professional Issues in Engineering Education and Practice, ASCE, 132, 312-321. http://dx.doi.org/10.1061/(ASCE)1052-3928(2006)132:4(312) 
+Directive 2005/36/ECC of the European Parliament and the Council (2005). Official Journal of the European Union.  http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32005L0036&from=EN  
+Berköz, S., & Kanoğlu, A. (1993). Türkiye’de Yapım Yönetimi Eğitimi. In Proceedings of the 12th Turkish Technical Congress in Civil Engineering: Construction Management Education in Turkey, Ankara, 10-13 May 1993, 313. 
+Betts, M., Rickard Liow, S. J., & Pollock, R. W. (1993). Different Perceptions of the Importance of Educational Objectives. Journal of Professional Issues in Engineering Education and Practice, 119, 317-327.  http://dx.doi.org/10.1061/(ASCE)1052-3928(1993)119:3(317) 
+Birgönül, M. T., Dikmen, İ., Özorhan, B., & Işık, Z. (2007). İnşaat Sektörünün Yapım Yönetimi Eğitiminden Beklentileri. In Proceedings of the 4th Construction Management Congress, İstanbul, 30-31 October 2007, 169. 
+Chinowsky, P. S., & Diekmann, J. E. (2004). Construction Engineering Management Educators: History and Deteriorating Community. Journal of Construction Engineering and Management, 130, 751-758. 
+http://dx.doi.org/10.1061/(ASCE)0733-9364(2004)130:5(751) 
+Christodoulou, S. (2004). Educating Civil Engineering Professionals of Tomorrow. Journal of Professional Issues in Engineering Education and Practice, ASCE, 130, 90-94. http://dx.doi.org/10.1061/(ASCE)1052-3928(2004)130:2(90) 
+Çıracı, M., Giritli, H., Civan, I., & Aydemir, D. (1999). Educational Needs of Construction Management Personnel. In Proceedings of Engineering Education in the 3rd Millenium, 28th Engineering Education Symposium, Istanbul, 6-8 August 1999, 222-227. 
+Ditcher, A. K. (2001). Effective Teaching and Learning in Higher Education, with Particular Reference to the Undergraduate Education of Professional Engineers. International Journal of Engineering Education, 17, 24-29. 
+Egbu, C. O. (1999). Skills, Knowledge and Competencies for Managing Construction Refurbishment Works. Construction Management and Economics, 17, 29-43. http://dx.doi.org/10.1080/014461999371808 
+Ercan, Ö.A. (2013). Adalar’da Deprem Olursa Ne Olur. In Proceedings of the 1st Symposium on the Istanbul Islands, İstanbul, 4-6 October 2013, 65.. 
+Faulkner, A. C., Sargent, J. H., & Wearne, S. H. (1989). Civil Engineers’ Managerial Roles and Needs: Report and Survey. Construction Management and Economics, 7, 155-174. http://dx.doi.org/10.1080/01446198900000019 
+Fraser, C. (2000). The Influence of Personal Characteristics on the Effectiveness of Construction Site Managers. Construction Management and Economics, 18, 29-36. http://dx.doi.org/10.1080/014461900370924 
+Galloway, P. D. (2007). The 21st-Century Engineer: A Proposal for Engineering Education Reform. Reston, VA: American Society of Civil Engineers Publications. http://dx.doi.org/10.1061/9780784409367 
+Gürer, İ. & Koç, M. L. (1996). Türkiye’de İnşaat Mühendisliği Eğitimi. In Proceedings of 9th Engineering Syposium, Isparta, 10-12 October 1996, 1-6. 
+Harrington, H., Hoffherr, G., & Reid Jr., R. (1998). The Creativity Toolkit. New York: McGraw-Hill.  
+Işık, B. C. (2000). Depremler ve Türkiye. http://www.hkmo.org.tr/resimler/ekler/TD92_54dda4b1ba34c6f_ek.pdf  
+Jester, G. E. (1989). Curriculum for Future Civil Engineers: Practitioner’s Viewpoint. Journal of Professional Issues in Engineering, 115, 357-362. http://dx.doi.org/10.1061/(ASCE)1052-3928(1989)115:4(357) 
+Jimenez, J., Pellicer, E., & Yepes, V. (2011). Teaching and Learning Using a Case Study: An Application to a Master Degree in Construction Management. Procedia Social and Behavioral Sciences, 15, 696-702.  http://dx.doi.org/10.1016/j.sbspro.2011.03.167 
+Karbhari, V. M. (1989). Quality Undergraduate Engineering Education: A Critical Perspective. Journal of Professional Issues in Engineering, 115, 241-251. http://dx.doi.org/10.1061/(ASCE)1052-3928(1989)115:3(241) Koontz, H., & O’Donnell, C. (1977). Essentials of Management. New York: McGraw-Hill. 
+Laufer, A. (1987). Educating Civil Engineers in Construction Methods. Journal of Professional Issues in Engineering, 113, 32-45. http://dx.doi.org/10.1061/(ASCE)1052-3928(1987)113:1(32) 
+Laukkanen, T. (1999). Construction Work and Education: Occupational Health and Safety Reviewed. Construction Management and Economics, 17, 53-62. http://dx.doi.org/10.1080/014461999371826 
+Levitt, R. E. (2007). CEM Research for the Next 50 Years: Maximizing Economic, Environmental and Societal Value of Built Environment. Journal of Construction Engineering and Management, 133, 619-628.  http://dx.doi.org/10.1061/(ASCE)0733-9364(2007)133:9(619) 
+Liu, X., & Fang, D. (2002). Predicamants and Expactations of Civil Engineering Education in China. European Journal of Engineering Education, 27, 219-224. http://dx.doi.org/10.1080/03034790210129568 
+Long, R. P. (1997). Preparing Engineers for Management. Journal of Management in Engineering, 13, 50-54.  http://dx.doi.org/10.1061/(asce)0742-597x(1997)13:6(50) 
+Meyer, M. D., & Jacobs, L. J. (2000). A Civil Engineering Curriculum for the Future: The Georgia Tech Case. Journal of Professional Issues in Engineering Education and Practice, 126, 74-78.  http://dx.doi.org/10.1061/(ASCE)1052-3928(2000)126:2(74) 
+Newman, W., & Warren, E. K. (1981). The Process of Management. New York: Prentice Hall. 
+O’Brien, W., Soibelman, L., & Elvin, G. (2003). Collaborative Design Processes: An Active and Reflective Learning Course in Multidisciplinary Collaboration. Journal of Construction Education, 8, 78-93.  
+Oglesby, C. H. (1982). Construction Education: Past, Present and Future. Journal of the Construction Division, 108, 605-616. 
+Oglesby, C. H. (1990). Dilemmas Facing Construction Education and Research in 1990s. Journal of Construction Engineering and Management, 116, 4-17. http://dx.doi.org/10.1061/(ASCE)0733-9364(1990)116:1(4) 
+Popescu, C. (1987). Construction Engineering Graduate Education Survey. Journal of Construction Engineering and Management, 113, 664-668. http://dx.doi.org/10.1061/(ASCE)0733-9364(1987)113:4(664) 
+Riggs, L. S. (1988). Educating Construction Managers. Journal of Management in Engineering, 114, 279-285.  http://dx.doi.org/10.1061/(asce)0733-9364(1988)114:2(279) Rinker, M. E. (2014). Sr. School of Construction.  http://www.bcn.ufl.edu/about/acce-2/cm-quality-improvement-plan/academic-quality-plan/   
+Russell, J., & Yao, J. T. P. (1996). Consensus! Students Need More Management Education. Journal of Management in Engineering, 12, 17-29. http://dx.doi.org/10.1061/(ASCE)0742-597X(1996)12:6(17) 
+Sears, R. H., & Clough, G. A. (1991). Construction Project Management (3rd ed.). Chichester: John Wiley and Sons. 
+Sertyeşilışık, B., Dikbaş, A., & Giritli, H. (2012). İnşaat Proje Yönetim Programları Üzerine Bir Inceleme, İzmir. In Proceedings of 2nd Construction Management Congress, 13-16 September 2012, 1286-1296. 
+Sheehan, J. M. (1991). Discussion of Dilemmas Facing Construction Education and Research in 1990s, by Clarkson H. Oglesby. Journal of Construction Engineering and Management, 117, 795-796.  http://dx.doi.org/10.1061/(ASCE)0733-9364(1991)117:4(795.2) 
+Social Security Institution (SGK) (2012). Employment Injury and Occupational Diseases Statistics.  http://www.sgk.gov.tr/wps/portal/tr/kurumsal/istatistikler/sgk_istatistik_yilliklari  
+Sparkes, J. J. (1993). Quality in Engineering Education. Engineering Professors’ Conf. Occasional Paper No. 1. 
+Tatum, C. (1987). Balancing Engineering and Management in Construction Education. Journal of Construction Engineering and Management, 113, 264-272. http://dx.doi.org/10.1061/(ASCE)0733-9364(1987)113:2(264) 
+Tener, R. K. (1996). Industry-University Partnership for Construction Engineering Education. Journal of Professional Issues in Engineering Education and Practice, 122, 156-162. http://dx.doi.org/10.1061/(ASCE)1052-3928(1996)122:4(156) The Code Number 6306 Urban Transformation Law. (2012).  http://www.csb.gov.tr/gm/altyapi/index.php?Sayfa=sayfa&Tur=banner&Id=114  
+Tucker, R. L. (2007) Construction Industry Institute. Journal of Construction Engineering and Management, 133, 640-643.  http://dx.doi.org/10.1061/(ASCE)0733-9364(2007)133:9(640) 
+Turkish Statistical Institute (TUIK) (2015). “Yapı İzin İstatistikleri, 1. Dönem”. Sayı: 18613.  www.tuik.gov.tr/PdfGetir.do?id=18613  
+Warszawski, A. (1984). Construction Management Program. Journal of Construction Engineering and Management, 110, 297-310. http://dx.doi.org/10.1061/(ASCE)0733-9364(1984)110:3(297) 
+Willenbrock, J. H., & Thomas Jr., H. R. (2007). History of Construction Engineering and Management in the Department of Civil and Environmental Engineering at Penn State. Journal of Construction Engineering and Management, 133, 644-651.  http://dx.doi.org/10.1061/(ASCE)0733-9364(2007)133:9(644) 
+G. G. Ayalp, M. E. Öcal  
+  
+G. G. Ayalp, M. E. Öcal  
+  
+ 	
+  
+ 	
+  
+
+  
+
+  

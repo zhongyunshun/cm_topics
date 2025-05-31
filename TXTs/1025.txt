@@ -1,0 +1,242 @@
+﻿Construction Management and Economics (1995) 13, 43—51
+Innovation in the construction industry: the dominant role of the environment
+FRENS PRIES* and FELIX JANSZEN
+Rotterdam School of Management, Erasmus University, PO Box 1738, 3000 DR, Rotterdam, The Netherlands
+Received 16 February 1994; revised 7 July 1994
+In this research paper the innovative and strategic behaviour of the construction industry and the companies within that sector are analysed. In other sectors, but in particular for builders, a clear relationship with their environment is shown. When these external circumstances are positive the industry is apparently very capable of innovation. Recently we have noticed increasing environmental turbulence, which will have an enormous impact on management. Companies in the construction industry will have to compete in a more extrovert and marketdriven way and they will have to reconsider their capabilities. Specialization and diversification on various subjects are probably the most important strategic choices. Innovation creates possibilities of achieving competitive advantage, but only when managed properly. The existing 'engineers paradigm' in the construction industry will be an important obstacle, but at the end of this process companies will increasingly have the character of what Chandler refers to as 'modern industrial enterprises' . 1
+
+Keywords : Innovation, construction industry.
+Introduction
+The construction industry2 has remained a staid, tradition-bound sector due to its relatively stable environment. Innovation and management literature have paid little attention to this sector. Attention is focused on glamorous sectors, such as the chemical, electronic and automobile industries. Is this lack of attention justified? The construction industry is Europe's most important sector in sales and number of employees (Eurostat, 1991) and it is likely to face substantial changes in the near future. However, most construction firms are currently still managed and
+
+    I Chandler (1990, p. 605): the organizational capabilities — the facilities and skills — that provide the core dynamic for continuing evolution.
+  2 In this article no attention is paid to definitions. We can refer to the definitions used by Eurostat (1991). In the study the Dutch situation (building industry, thus excluding civil engineering) is analysed; when possible, on a basis of international literature, a verification of the international situation is given.
+  3 Innovation can be defined as the application of new (or renewed) products, processes or services.
+  * Now at NBM-Amsterlland, PO Box 632, 6800 AP, Arnhem, The Netherlands.
+0144-6193 	1995 E. & F.N. sponorganized in a traditional way. They do not match the criteria of what Chandler (1990) refers to as 'modern industrial enterprises'.
+  Why is this? How can we understand the innovative behaviour of the sector? Is the construction industry innovative? What will the future look like? These questions are the main items in this article. First, a global characterization of the construction industry will be given, followed by results and some conclusions of an inquiry into the innovative behaviour of construction organizations. The article will conclude with a discussion concerning the future of the construction sector and its companies.
+Construction industry: the process
+In Europe the construction industry is known as a mature traditional industry. Building processes in most European countries look much alike (Cheetham and Jaggar, 1990). Although various different construction processes are distinguished, the traditional organization of the building process is a core item in most studies (e.g. Bakens, 1992; Hawk, 1992; Louwe and van Eck, 1992); 'In all Western industrialized countries people recognize or are starting to recognize the traditional seg-
+44
+mented organization of the building process as a major problem in general and as a major hindrance for innovation in particular'. This traditional building process has several characteristics. Design and production are executed by various parties and are thus separated. Traditionally an architect, assisted by one or more consultants, produces a design (for a customer). In this plan a thorough description of materials and products and a detailed prescription for the execution is stated. The contractor then executes the design, assisted by suppliers and subcontractors. Because every project is unique (few possibilities for repetition) there is little reason for a contractor to invest in innovation, other than the optimization of their own process. There are neither economies of scale nor learning effects.
+  The products (buildings, bridges, roads, etc.) can be clearly distinguished. They are location bounded, have a very long life span, high costs and a great influence on the quality of life. In particular, the long life span (on average 100 years for a building) compels customers to stick to proven methods (and avoid radical changes); they have to live with it for many years, thus triability (as introduced by Rogers (1982); a buyer can try a product and easily replace it if it is unsatisfactory) is low. Furthermore the construction sector can be characterized by the great number of small enterprises and varying collaborations; co-makership (or other strategic alliances) hardly exists. The emphasis lies on operational (project) management. Strategic management does not exist (Bakens, 1988); 'commonly the horizon of contractors is not beyond the moment of completion of a project'. Because projects are the result of varying collaborations between various parties good communication is essential. It is known that approximately 40 0 of the costs of building are somehow related to the transfer of information and the control of this communication process (Rilling, 1990). At this moment the use of the modern tools of information processing and telecommunication is almost totally absent, even though a lot of money and effort has been invested in the last few years. Finally, the weak patent possibilities, the low barriers of entry and the poor image of the construction industry can be mentioned. In combination these characteristics have a great effect on the innovative behaviour of the sector.
+And management?
+Management in enterprises can be characterized by the lack of orientation on the future. This phenomenon can be partly explained from the specific characteristics of building. The building market is cyclical. As a reaction to this, companies choose a strategy of diversification; they can react to market developments in a flexible way. Companies do not make strategic choices (e.g. various kinds of specialization), they react on short time market developments.
+  People are promoted from the (project) practice to the echelons that determine the policy of a firm. In construction it is good to 'have mud on your feet'. In The Netherlands approximately 51 0 of the top management are engineers (BSc and MSc), 2 0 have a law degree, have a degree in economics or management and 43 0 ) do not have a qualification. It may be expected that most of the people without a degree are promoted from the building practice and that they slowly moved towards more managerial tasks. Managers without qualifications together with the 'engineers' form approximately 95 0 0 of the executives in construction. These facts are based on the 100 largest Dutch companies; since in smaller enterprises a functional split up to management is more diffcult, in reality this surplus of engineers/technicians is likely even more pronounced. If management is originating from practice, with emphasis on short-term (project) management and a technical background, this can be defined as an 'engineers paradigm' (a strictly technical focus on product and process). Evidently this has a major effect on the policy of enterprises.
+The environment: governmental regulations
+The construction industry is dominated by very severe price competition. However, this market is somewhat peculiar because it faces certain aspects of regulation. The government has an especially dominant influence on this market (see Figure 1). Due to technical regulations the quality for a major part of the production is strictly determined. In particular in social housing,
+emtronrrznta
+	regulated market uniform demand market filter
+  Ott*r reqtJiatjm arri i Muerce
+governrræm domnant
+custorr*r
+Figure 1 The dominant influence of the government on the construction market
+the 
+but also in civil engineering, these technical regulations and licences (national and local) have a dominant influence. Environmental regulations are of growing importance. Together this leads to limited opportunities for product variation. Regional planning in the crowded Netherlands limits the extent of construction through the use of building quotas. The government and its financial regulations (building grants and subsidies, loans, guarantees, fiscal aspects of housing, regulation of housing rent developments, etc.) lead to a strict financial range for the products of the building industry. The price that a customer pays is partly determined by these financial and fiscal regulations. A filter exists between the firms and their ultimate clients. To exaggerate: enterprises do not produce for the client, they produce to meet the governmental regulations. This, however, is a general view; in some segments we can see a marketconforming operation of companies. Besides financial and technical regulations the government influences competition, business licensing conditions, procurement and working conditions. In civil engineering, but also in non-residential building (hospitals, schools, offce buildings) the government is a very dominant client. This, combined with the technical regulations mentioned before leads to a minimal variation in the quality of production. Because of this, very uniform demand arises, forcing enterprises to seek their competitive advantage in cost leadership (e.g. Jacobs et al., 1992; ARTB, 1993). In the past some governments tried to regulate spending in order to break through the cyclic character of the construction industry. On the basis of this limited enumeration we can conclude that the construction market has some 'regulated' aspects. The size of the production is managed, the financial framework is stated, there is a centrally regulated quality level, prices that clients can or may pay are regulated, etc. This has a major influence on the enterprises that operate in this market.
+  As we have seen before competition is mainly price based. Because of this it is diffcult for companies to follow a differentiation (Porter, 1980) strategy (because of uniform demand). What remains is a very severe price competition. Subsequently, a filter between clients and enterprises exists because of governmental interference. Contractors build to meet the governmental requirements. 1 These regulations do not vary much over time. Marketing, strategy or service are not needed and the industry can fully focus on the technology of production and organization of building processes. This explains the engineers paradigm; construction had little need for marketeers or strategic managers, they only had need for engineers. Because there is little attention to the customers the construction industry is unaware of the innovative potential of the customer/user. That these so-called user-dominated innovations (von Hippel, 1988) can be very important is shown in a recent article by Slaughter (1993). She found in a field based study of the residential construction industry (stressed skin panels) that user—builders (owners who, at least partly, build their own house) rather than manufacturers can be important developers of innovations. In general the construction industry has little contact with its customers so significant potential for innovation is not addressed.
+Construction industry, an innovative sector?
+The main question in this study was to investigate the level of innovation in the construction industry. The main questions were what type of innovations dominated the last 50 years, who were the innovators, what was the rate of adoption and how did the innovative behaviour vary in time.
+Methods
+Renewal in the construction (housing) industry is fairly well documented up until the Second World War. Innovation after this period is in this investigation documented differently. An innovation was defined as the application of a new process or product technology (new for the Dutch building industry). It was chosen to restrict this analysis to a part of the construction industry, the building industry, because this is a more homogeneous industry than the total sector, hence simplifying the analysis. An analysis of 46 years of publications of two Dutch professional journals BOUW and Bouwwereld) has been made. This led to a database that, after an expert assessment, was the basis for a statistical analysis. The results of this exercise were validated in four cases (anhydrit pouring floors, casted concrete, the sand-lime industry and the use of information technology). It is inevitable that these conclusions are mainly valid for the Dutch construction industry. Nevertheless, the findings seem to match international developments. In total 290 innovations were recorded. The moment of first utilization varies, with accent on the period 1945—1992. Certain characteristics of every innovation were recorded (as far as possible). Because of the relative imperfection of the data the interpretation was very restrained. The significance of differences of
+Table 1 Types of innovations and attribution to a party
+All Process Product innovations innovations innovations
+	0)	00)	(00)Contractor
+Supplier
+Architect
+Consultant Miscellaneous n7.5
+72.4
+0.9
+1 1.4
+  7.9 22814.6
+56.2
+2.2
+16.9
+10.1 892.9
+82.7
+0.0
+7.9
+6.5
+139the data in Table 2 (cooperation) was tested, using the chi square test (Harnet, 1981).
+Types of organizations and kind of innovation
+Of the 290 innovations studied, 228 innovations could be attributed to a particular party (Table 1). The data showed that the supply industry (within the construction industry and external) was the most important innovator/ accounting for over 70 0 b of all innovation. Over 80 0 0 of all product innovations originated from the supply industry. Consequently, the supply industry has a dominant role over innovation within the construction industry.
+Innovation in periods
+In the history of innovation in the construction industry we can distinguish several unique periods. After 1945 the post-War reconstruction in The Netherlands led to the development of various ('industrial') building systems.
+  Starting in 1964 the large-scale concrete-casted systems became very popular. These systems reached a market share of over 50 0 ) in just a few years. Because of the changing production (more variation and on average smaller projects) starting from the mid 1970s the smallscale stacking elements (blocks and bricks) became the most popular building systems. In The Netherlands the sand-lime industry was very successful because not only did it focus on its products, but also paid a lot of attention to complementary assets (service, special equipment, education). The sand-lime industries in the UK and Germany were less successful (market share) because they only produced 'imitation bricks'. The example shows that a sector that develops a long-term strategy and cooperates closely (within the sector) can be more successful than other sectors.
+  The relative frequency of incremental (by far the most important kind of innovation) compared with radical
+
+    5 In the process of data collection we excluded aesthetic or architectural innovation.
+1901-	1956-	1966-	1976-	19861945	1955	1965	1975	1985	now
+periods
+Figure 2 Number of innovations per period (moment of first utilization)
+innovations (often consisting of 'families' of incremental innovations) does not vary much over the time period monitored. The number of innovations are mainly the result of conditions external to the firm.
+Cooperation
+The degree of collaboration in the innovation process was defined as a variable. Apart from individual enterprises (when explicitly stated in the sources), two or more enterprises and collective R&D (sector, national and international) were documented. In the sources there were no examples of international activity, however the impression exists that, because of the European R&D programmes, construction enterprises have also participated (Dekker and Pries, 1991). These have not yet led to commercialization.
+  The analysis also displays that most innovations are the result of individually operating enterprises. Recently cooperation has become more popular; a statistically relevant majority of approximately 60 0 0 of all innovative activities are the result of some kind of collaboration. This cooperation is mainly to be characterized as cooperation between two or more firms, on the one hand and (sub)sector activities, on the other hand. Inter)national programmes play a very modest role. The image emerges that innovation activities take place close to enterprises and that collective programmes play a modest role.
+Origins of innovations
+The sources of innovations were categorized by industry sector.
+  Because observations were made from the point of view of the construction industry it is not unusual that most of the documented innovations originate from that sector. However the influence of other branches is enormous. Approximately 40 0 of all innovations and of product innovations originate from other
+the 
+Table 2 Percent collaboration in the innovation process per period
+1901-19451946-1955 1956-1965 1966-19751976-19851986—PresentAlone Together n67
+33 2180
+20
+4972
+28
+3992
+8
+1350
+50
+1639
+61
+33 =0.005.
+Table 3 Sources of innovations by industrial sector
+All Process Product innovations innovations innovationsConstruction industry
+Private individual
+Government
+Chemistry
+Metal industry
+Machinery
+Electronics industry
+Others159
+39 20
+14
+16
+2270
+7
+5 6
+5
+889
+32
+15
+8
+11industrial sectors. In particular the chemical industry is important, but the metal industry, electrical engineering and machinery also play an important role. A conclusion is that the construction industry is strongly dependent on other branches.
+Level of innovation and moment of utilization
+Various system levels were distinguished. The 'lowest' level is that of (raw) materials, the 'highest' level is that of a complete building. Process innovation is found at the 'highest' level, while product innovation mainly is found at the 'lowest' level. Over the years a shift has taken place in the direction of the 'higher' levels. The character of innovation in the construction industry has shifted towards more complex and composite products. In the 1950s the proportion of material innovations was over 50%, in the 1970s this was reduced to 20 0/
+Innovativeness and the size of enterprises
+Innovations were analysed based on the size of the enterprises involved. The majority of the number of innovations emerged in the smaller enterprises (approximately 75 Hence, smaller enterprises play a very dominant role in the construction industry. This matches with the opinion of Best (1990) and Wijnberg (1990). It is interesting that smaller enterprises are more often involved in process innovation and the larger firms in product innovation. This makes sense since process innovation (new equipment and organizational on-site renewal) in construction has more small-scale characteristics than does product innovation.
+Other characteristics
+The type of innovation was also analysed. The results show that incremental innovation is the most important in numbers. When we consider the relative invisibility of this kind of innovation, the reality will show an even greater importance of these small innovative steps. Renewal in the construction sector is mostly being originated as the result of productivity considerations (price). Market demand for product improvements is a relatively unimportant motive. This strengthens the statements in earlier paragraphs where the engineers paradigm was introduced. Throughout the period studied the primary motive for innovation was to improve productivity (75%). Only 25% of innovation was in response to special market demands.
+Discussion
+Concerning innovation
+In this article the innovation activity of the Dutch building industry has been investigated. It was found that half of the innovations originated from other sectors. Most of the innovations were process innovations in the domain of price cutting. These characteristics are in agreement with the characteristics of a supplier dominated industry as proposed by Pavitt (1984; See Figure 3).
+  The dominance of process innovations in construction enterprises is in agreement with the findings of Utterback and Abernathy (1975), who found that in a mature industry competition is based upon price, and that process innovations are dominant. However in the
+supplier dominated firms
+
+Figure 3 Sectoral patterns of innovation (Pavitt, 1984)
+48
+use of the results (and protection against use by competitors) of process innovations larger firms have an advantage over smaller firms. For this reason a tendency for higher concentration is often recognized in more mature industries. Although certain sectors of the construction industry are dominated by large companies, in the Dutch building industry, almost all companies are small (1—50 employees) and family owned. This is different from other countries, especially Japan, where six very large companies exist. Why is this Japanese situation different and what is the impact on innovation ?
+The Japanese example?
+Often Japanese enterprises (and especially the so-called Big Five or Big Six 2) are used as examples of the ideal construction firm. These firms are part of the so-called Keiretsu or Kigyoshudan (the former Zaibatsu). These are conglomerates of various horizontal and vertical industrial connections, grouped around a bank or business house. The Japanese construction industry can be characterized as dominated by only a few large companies with close contacts with other industrial sectors and the financial sector (!), a high degree of subcontracting (in fact informal integration), many long-term relationships between contractors and suppliers and subcontractors, a high degree of integration, e.g. companies integrating design, execution, finance and supply and because of the long-term relationships and customer orientation a high degree of trust exists. Japanese enterprises have a long-term strategy: a satisfied customer is important. Because of this, total quality management in the building process plays a substantial role. This leads to a less effcient production and relatively low productivity, a strong and direct connection with the government, in Japan a uniform system of regulations exists and enterprises compete on a technology (quality) basis (instead of severe price competition as is the case in North America and Europe). As a result of this a lot of effort is spent on R&D (e.g. laboratories for advanced materials, robotics and 'intelligent buildings'). R&D is explicitly part of the strategic policy, that is the existence of barriers for foreign companies to enter the domestic market, even though recently these barriers have become less rigid.
+  Hence, the Japanese construction market is completely different from the European or Northern American market. The Japanese model seems attractive, but how competitive would these firms be if there was little mutual trust, competition being based solely on price (productivity!) and fragmented regulation? Because of the dominant influence of the environment it is not possible to simply copy the Japanese example. However, we can learn from some of their practices (e.g. the customer orientation, the emcient R&D organization and the importance of good vertical contacts).
+A model for the construction industry
+Innovation in the construction industry is influenced by various factors. In the proceeding paragraphs some of these factors were stated. They explain the way in which the sector operates and, thus, how innovation is dealt with. In the scheme (see Figure 4) these relations are presented.
+  These influences are divided into five groups : market, product, management, building process and sector characteristics. We are now in a process of transforming it into a computer model. With such a model various simulations and what-if questions can easily be performed.
+Changes
+The construction market in the last two decades has been rapidly changing. Governments are reducing their influence. This has occurred, on one hand, because of the need to cut expenses and, on the other hand, because of the influence of the EC. Deregulation and decentralization are combined with less finely-woven regulations. New regulations in Europe are increasingly based on the so-called performance approach. These regulations stipulate the (functional) performance of products, not how these performances have to be technically met. This opens new and repeatable opportunities for contractors to place their own interpretation on demand thereby improving the potential return on investment and increasing the propensity to innovate (KD/Consultants, 1991; Jacobs et al., 1992).
+  Governments are no longer tendering only for final production, but also the design, preparation, finance and management of projects. The role of the government concerning public housing is also diminishing. Finally, European developments play an important role. Because of the harmonization of regulations, building and supplying is rapidly becoming transnational instead of predominantly regional. Besides this, the growing importance of environmental issues and informatics can be mentioned, both affecting enterprises strategies and, thus, their R&D policies. Gradually the construction market likely to become a real free market, with less regulations. This may have a great influence on the
+the 
+
+Figure 4 A model for the construction industry: factors influencing innovationconstruction industry. It will have to operate in a more dynamic environment and will have to switch from an internal towards an external orientation. The 'filter' over the market will be pulled away so that closer relations with the customer can be effected. This break in the historical trend will have consequences for business management.
+Changes in the construction firm
+Construction faces enormous challenges, to a large extent caused by an increasing turbulence of the environment. Ansoff and McDonnel (1990) explicitly analyse the relation between this environment and the enterprise.
+  In his model (see Figure 5) five levels of turbulency are distinguished. The construction industry could be characterized as having an 'expanding level of turbulence'. Changes in the construction industry have been slow and incremental. Renewal is effciency driven and enterprises mainly focus on production. Recently the environment can be described as 'changing' or (for certain subsectors) maybe even 'discontinuous'. This implies that enterprises will have to operate in a more market-driven manner and manage more strategically. Management will have to link 'technology' to 'market'. Managements in the construction industry will increasingly become more 'professional' and have to struggle
+Environmental turbulenceRepetitive
+RepebtjveExpandlno
+Slow
+IncrementalChangtno
+Fast
+IncrementalOi%ontinuousSurprising
+Discontinuous Unpredictable   Strategic aggressivenessStable
+ Based on precedeneReactive
+Incremental
+Based on experienceAnticipat0"
+Incremental
+ Based on extrapolation
+   8ued on expected tuturesCr•atlve
+Based on creabvityResponsiveness of capabilityCustodial
+Precedent daven
+Surprasses changeProduction
+Efficiency dtNen
+Adape to changeMadeting
+Market driven
+Seeks tamdiar changeStrategic
+Environmentdriven
+Seals new change   Flexible Suls to create the environment
+Seeks novel change
+Saaks Seeks stability
+Closed systemSe€kS operab efficiency
+Seeks strategtc effecovenesscreativity
+ Open systemTurbulence level	1	3	4	5
+Figure 5 Relation between the environment and enterprises (Ansoff and McDonnel, 1990)
+with their 'engineers paradigm'. This will not occur overnight.
+New modes for competition?
+50Porter (1980) provides four possibilities for enterprises to achieve a competitive advantage: a cost leadership (competition on price) or a differentiation strategy (competition on quality) and a focus (specialization) option for both strategies. Besides 'cost leadership' construction firms will have the opportunity to develop differentiation strategies. This is due to the changing environment. Although in this article little attention is paid to this phenomenon, it will have consequences for the mean company size. On one hand, we can expect a fragmentation tendency (specialization of the smaller companies), while on the other hand, the concentration tendency will probably be dominant. The structure of the sector can alter in a radical way.
+  There is no one perfect model for construction enterprise of the future. Every single company will have to make choices, while taking into consideration their environments. To find the right fit between the environment and the company is one of the major challenges for management. Remaining a traditional capacity-offering company may be a good choice, but on the other hand, when the external circumstances are favourable a company can choose to become a 'product' company. In Figure 6 the four possibilities to compete according to Porter (1980) are translated to the construction industry.
+  The choice for quality- or technology-based competition requires new managerial capabilities, e.g. marketing and strategic management (because product companies are less flexible they will have to develop a more long-term-oriented vision).
+  For both types of firms the choice for various types of specialization is extremely important. It is possible to specialize in one subject (e.g. a market) and diversify in another (e.g. technology). Specialization issues concern the market, technology, process and roles. There is no
+competitive advantage
+
+contractor	cort
+offers capacity technology oriented technology diversification orocess-/rolespecsaiisaoon product diversification market dtverslticanon varynq subcontracting vary•ng sizes ot enterpr. (inter)nanonal en local processinnovaton (incremental)product com• pany
+offers product./concept market ånd technology technology spec:ahsatlon orocess-frolediverslficatlon several products and/or marketsegments especia'ly subcontracting large enterprises (inter)nahonai process- and productinnovatonspecialised	cost
+floc
+contractor
+offers capacity technojoqy orient" technology speaailsatecn process-/rolespeaaiisabon marketspecialisation especially sma}! especially local orocesslnnovatlon oncremental) tittle subcontractingspecialised	us product comp.
+offers product/conceot market ind technology technology spectallsatlon process-/roledlveßlficauon productspeaahsaton market spec.ahsatlon little subcontracting varynq sizes ot enterpr regional and national process- and productunncvauonmarket and technology diversification
+market and technology specia/isation
+ offers capacity offers products pace competition quality oriented competition
+Figure 6 Porter (1980) translated to the construction industry: four types of enterprise
+universal answer: every enterprise will have to make its own choices. Finally a statement: the company that claims to be able to do everything will not be able to do anything right!
+  Earlier three important issues were discussed: the environment has a dominant effect on the building market and, thus, on the separate companies, the environment is rapidly changing (see paragraph Changes), hence the basis for competition changes, as will the companies' strategies. These changes have been addressed yet there still remains severe price competition, a cyclical market, a technology orientation (instead of a market orientation), a lack of interest in the customer, a poor R&D infrastructure and the image of the sector is poor. Will the foreseen changes actually take place? There are three possibilities. Nothing will change; this possibility is out of the question because changes occur always and everywhere. Changes will occur slowly and have an incremental character. Radical changes will occur in the short-term.
+  The question is not whether changes will take place but how fast and in which direction. Possibly changes in the construction industry will not be radical, however in certain submarkets rapid changes can be foreseen. Managers will increasingly have to take environmental changes into account and make strategic choices. Moreover, even when the market is stable there are always companies that perform better than others. It seems possible for companies to influence the environment and create a competitive advantage.
+And the engineers paradigm?
+As we have seen the construction company of the future is in need of other managerial capabilities. Management is currently dominated by engineers. The capabilities have to change from technological and introverted towards extroverted and market orientated. An important role is reserved for education. When Scherer (1992) concludes that: it is essential that management schools provide their students with in-depth education on the significance of technological innovation, the challenges it poses, and means of sustaining it', it can be posed that the opposite is necessary for technical construction) education.
+Concluding remarks
+In this article, which inevitably only gives a summary of a much more extensive study, the innovative behaviour of the construction industry is analysed. A clear relationship between innovation and the environment of the industry was shown. Recently we have noticed increasing environmental turbulency which will have an the 
+enormous impact on management. Companies in the construction industry will have to operate in a more extrovert and market-driven way and they will have to reconsider their capabilities. Important choices concern specialization versus diversification and price competition versus competition in integral quality or technology. The existing engineers paradigm will be an important obstacle, but at the end of this process companies will increasingly have the character of what Chandler (1990) refers to as 'modern industrial enterprises'.
+References
+Ansoff, H. I. and McDonnel, E. J. (1990) Implanting Strategic Management. Prentice Hall, New York.
+ARTB (1993) Bouwvisie 2010. ARTB, The Hague.
+Bakens, W. (1992) Future Organization of the Building Process ; Interim Results of a W82 study Project. CIB WC 82, Voorburg.
+Bakens, W.J.P. (1988) Bouzven aan 2005; Toekomstperspectief Voor Managers, Bestuurders en Onderzoekers in de Bouw. Tutein Nolthenius, Amsterdam.
+Best, M.H. (1990) The New Competition; Institutions of Industrial Restructuring. Polity Press, Cambridge.
+Chandler, A.D. (1990) Scale and Scope. Harvard University Press, Cambridge.
+Cheetham, D.W. and Jaggar, D. (1990) Procurement Systems, Which Way Forward? CIB publication 132, University of Liverpool, Liverpool.
+Dekker, K.H. and Pries, F. (1991) R TD Research; Analysis of Participation BRITE/EURAM (Analysis Tender 1990). Dutch Ministry of Economic Affairs.
+Eurostat (1991) Panorama of EC Industries 1991—1992. Commission of the European Communities, Luxembourg. Harnet, D.L. (1981) Statistical Methods. Addison-Wesley Publishing Company, Reading.
+Hawk, D. (1992) Forming a New Industry-International Building Production. Swedish Council for Building Research, Stockholm.
+Jacobs, D. (1992) De economische kracht van de bouzv, SMO, 's-Gravenhage.
+KD/Consultants (1991) Construction, a Challenge for the European Industry (Defining Priorities for R&D). KP/ Consultants, Voorburg.
+Louwe, J .B.M. and van Eck, M. (1992) Future Organization of the Building Process; Inventory of CIB Studies. TNO-Bouw, Rijswijk.
+Pavitt, K. (1984) Sectoral patterns of technical change, towards a taxonomy and a theory, Research Policy, 13, 343-373.
+Porter, M. (1980) Competitive Strategy, Techniquesfor Analysing Industries and Competitors. Free Press, New York.
+Rilling, J. (1990) General Introductory Paper, ENBRI Meeting on Future Needs for the Construction Industry. CSTB, Luxembourg.
+Rogers, E.M. (1982) Diffusion of Innovations. Free Press, New
+York.
+Scherer, F.LM. (1992) International High- Technology Competition. MIT Press, Cambridge.
+Slaughter, S. (1993) Innovation and learning during implementation : a comparison of user and manufacturer innovations, Research Policy, 22, 81—95.
+Utterback, J.M. and Abernathy, W.J. (1975) A dynamic model of process and product innovation, Omega, International Journal of Management Science, 3, 639—656.
+von Hippel, E. (1988) The Sources of Innovation. Oxford University Press, New York.
+Wijnberg, N.M. (1990) Innovation, Competition and Small Enterprises. Erasmus University, Rotterdam.
+      1 A phenomenon that the reader in his/her role as a buyer of houses will recognize. It is found that new houses have on average 20 serious defects, the influence of an aspirant buyer is that he/she can choose the colour of the tiles in the kitchen, the information for potential buyers is minimal, etc.
+      2 In Japan, Shimizu, Kajima, Taisei, Takenaka and Ohbayashi are the five largest companies; the Kumagai Gumi Company operates mainly outside of Japan.
+ ---------------
+
+ ------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+Pries and Janszen
+
+Innovation in 	construction industry	45
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+Coovriaht 0 2001 . All Riahts Reseved.
+
+
+
+Coovriaht 0 2001 . All Riahts Reseved.
+

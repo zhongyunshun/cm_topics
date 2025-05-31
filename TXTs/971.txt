@@ -1,0 +1,336 @@
+﻿Construction Management and Economics (1995) 13, 149—161
+Planning future construction skill requirements: understanding labour resource issues1
+ANDREW AGAPIOU, ANDREW D.F. PRICE* and RON McCAFFER
+Department of Building and Civil Engineering, Loughborough University of Technology, Loughborough, Leicestershire, LEI 1 3TU, UK
+Received 15 December 1993; revised 4 October 1994
+Construction is a labour-intensive industry, which places heavy reliance upon the skills of its workforce. These skills need updating continually as many of the trades involved in the industry become increasingly specialized. During the 1980s, there was a rapid rise in construction activity within the UK, followed by a sudden but short-lived boom accompanied by skill shortages. The construction industry is now experiencing a deeper and longer lasting recession than originally predicted, resulting in valuable employees in all sections of the industry being lost — a high proportion of whom will not return to the construction industry. The construction industry is predicted to grow in the period after the recession by an average of 3% per annum until the year 2001. With this growth the industry is expected to experience considerable skill shortages in both traditional and new skill areas. Construction is in a period ofrapid cultural change accompanied by the introduction ofnew technologies and new ways of organizing construction activities. Powerful national and multinational clients will continue to influence the choice of these technologies through their demands for faster construction times. The construction industry will continue to face increased competition in search of eligible recruits to train accordingly. Employment within the construction industry will continue to move away from large and medium sized firms to small firms and working proprietors. In the 1980s, self-employment and the use ofspecialist labour-only subcontractors increased as training levels declined. This trend will hamper the industry's ability to train people for future skill needs. This paper aims to assist interested parties in the construction industry understand and realize the importance oflabour resource issues and the need for long-term planning of labour resource requirements, so allowing them to train
+
+and retrain people to address the predicted skill shortages.
+Keywords: Labour resources, planning, training, skills.
+Introduction
+The construction industry is both diffuse and inadequately defined. As a result there is an absence in almost every country in Europe of a single reliable source of labour force data. Such informa tion is vital in a footloose industry such as construction and is essential to an inward investor to any region.
+  The availability of labour is a major consideration in investment decisions. There is indeed a plethora of data available from many sources on the subject of labour
+ This work represents part of EPSRC-funded research currently being undertaken at the Department of Building and Civil Engineering Loughborough University of Technology into various aspects of labour resources for the construction industry (Grant No.
+GWG/53804).
+To whom correspondence should be addressed.
+0144-6193 	1995 E. & F.N. spon
+resources, but many of these data are unintelligible to companies and instances abound of large projects being located in areas where there is insufficient labour to satisfy the the demand generated.
+  The level of demand for skills is affected by the cyclical nature of construction workload. Previous fluctuation in output has had serious adverse effect on the construction industry's ability to sustain a skilled workforce. The problems of predicting skill needs is made more difficult by shifts in the level of demand from different market sectors and new opportunities.
+  Construction is still very much a local business. However, inter-company links in Europe have become more important in recent times. Many firms now recognize the huge potential of the Single European Market.
+There is a great demand, for example, for new housing in some countries, while in other countries international competition for large-scale contracts is bound to intensify. This is especially so for infrastructure projects, where priority will be given to modernizing waste-water and sewage treatment systems, particularly in coastal regions.
+  A report to the European Commission on 'Strategies for the Construction Sector' presents three alternative scenarios for future construction and economic growth in countries of the European Union (Commission of the European Communities, 1993). Scenario A, the most optimistic, envisages high growth and high productivity improvements. Construction output will double by 2005. Improvements in housing, cities and infrastructure will create five million new construction jobs. A less optimistic Scenario B, predicts historic growth and moderate improvements in productivity. Growth in the construction industry's share of GDP at 1990/91 will be followed, after four years, by steady growth ofaround 3 % per year. This will create two million new construction jobs. Scenario C, the most pessimistic, envisages low growth and no improvements in productivity; construction output is forecast to fall for a number of years and then grow slowly, but remain below levels achieved in 1992; and a further two million construction jobs will be lost. Ifhigh levels of construction output, as predicted by Scenarios A and B are achieved, then this raises questions concerning how skill needs can be met.
+  Regions where highly skilled construction workers are available will benefit at the expense of other regions which do not possess the necessary skill levels.
+  During the UK construction boom of the late 1980s, successive construction industry surveys reported how an increasing number of respondents had experienced difficulties in recruiting bricklayers, carpenters and plasterers (see Table I). These shortages were particularly acute in London and the South-East, where extensive building projects, for example, the London Docklands and Broadgate developments, put pressure on an already short supply of skilled craftworkers. There are signs that the decline in the construction industry's workload may have ended, During the first quarter of 1994 builders started work on I I % more houses than during the same period last year (Incomes Data Services, 1994). The number of jobs lost during the recession, however, have left the industry with a shortage of construction skills. Recent press reports of a jump in pay rates for bricklayers in London and the South-East suggest that construction firms are currently suffering from another round of skill shortages (Construction News, 1994a).
+
+  By and large, the only response to the shortage of any type of skilled labour is to increase remuneration. This results in companies poaching labour from each other and leads to inflationary rises in the cost of construction. This in turn reduces demand and temporarily solves the labour shortage. The medium to long-term option of redesigning construction methods (e.g. investment in robotics), taking account of forecast or known shortages is, in fact, an underutilized practice. The long-term option of establishing training programmes to solve labour shortages is infrequently applied.
+  The pace of technological change in the construction industry combined with increased specialization, especially on large-scale projects, will focus more attention on the pattern of future skill requirements. In particular, the use of prefabricated components eliminates the need for traditional craft skills, The increased use of specialist trades, working in close proximity, has led Ito a rise in new interfacing problems. The skill required by craftworkers in the future will be determined by changes in management practice and technology. However, this assumes that the construction industry will be able to attract and retain people in sufficient numbers to be trained in these skills.
+  The pool of young people leaving full-time education has traditionally been the main source of supply for employers in the construction industry. However, employers need to be made aware of the impending changes in the structure of the work force, including the declining number of young people entering the employment market. This may encourage more active competition amongst employers for this category of employee. Thus, employers offering a competitive pay package and career structure should be able to satisfy their labour requirements. The construction industry is well known for offering attractive pay, but the lack of a career structure, particularly for craft operatives, and the poor image of the industry may deter some young people from considering the industry as a future employer. It may be that construction firms should consider alternative sources of labour.
+  A large proportion of the initial demand for labour can be satisfied from the pool of unemployed construction workers, notwithstanding the losses caused by retirements and movements to other industries. However, it is unlikely that the construction industry's labour needs will be satisfied from the ranks ofthe unemployed alone — many no longer possess the necessary skills. The situation is compounded by the cyclical nature of the
+Table 1 Percentage Of firms nationally reporting difficulties in securing labour skills
+
+Source: Building Employers Confederation: State of the Trade Enquiry.
+construction industry, resulting in many skills being lost during recessionary periods. High numbers of skilled operatives leave the industry and fail to return whenwork becomes available. These skill losses create serious problems and have a direct impact on the rate of the construction industry's expansion.
+  All construction employers may be able to increase the pressure on national governments to invest in the most appropriate form of skilled labour provision once they have a complete understanding of the labour resource issues affecting the construction industry. However, these issues are not well documented. The most important ones within the context of the UK construction industry are discussed within this paper. These include:
+I. The implications ofthe fall in the number ofyoung people available for training in the British construction industry;
+2. The factors that determine the levels of training provision;
+3. Predicting the future pattern of skill requirements within the context of changes in construction markets and technology.
+The implications of the changing shape and structure of the labour force for the construction industry
+Demographic and educational trends
+There were periods when the British labour market had to absorb increasing numbers of people of working age, but the situation in the future will be rather different. In particular, during the period 1976—1986, the population of working age (men aged 16—64 and women 16—59) grew by two million (NEDO, 1989). However, between 1986 and 1996 this figure is forecast to grow by less than a quarter of this rate. The numbers of young people in the population has been declining for several years. In 1993, there were one million fewer 16—19-year-olds in the population than there were in 1983; a decline of28%. People of working age will be concentrated in the middle age bands (see Figure 1). By the year 2000 the number of people aged between 35 and 54 is forecast to be 46% of the working population. The proportion of working women is forecast to rise in the 1990s. By the end of the decade, the labour force is projected to increase to 28.6 million people. A rise of one million from the 1989 level. Women returning to work, after some years of absence, will account for 90% of net increase, and more than offset the declining numbers of young people.
+  An increase in the number of young people staying on in full-time education is also an important factor in determining the composition ofthe labour force. In 1985 86 937 000 young people, aged 16 and over, were enrolled on full-time and part-time courses in higher educational establishments in the UK (Department of Employment, 1988b). Recent figures, published by the Central Statistical Office in its regional trends report show that 300 100 16-year-olds stayed on at school in 1992/93, while 216 300 entered further education establishments (166 700 on full-time courses and 49 600 on part-time courses). The figures also indicate an existence of regional variations in the pattern of staying-on. While 80% of 16-year-olds stayed on at school or entered further education in the South East, only 70% stayed on in the North. In Northern Ireland, the figure is 88% (see Table 2).
+Implications for training
+The number of young people entering the labour market will continue to fall until 1995. Between 1995 and 2000 the 16—19-year-old labour force will rise slowly, but remain below 1980s levels (see Figure 2) as increasing numbers of young people opt to stay in full-time education. The construction industry is still very labourintensive. Competition between firms in the industry depends on the quality of the labour force that it trains. In a survey of Federation of Master Builders member firms reporting shortages during the last construction boom, 50% of respondents identified lack of quality training as the cause of shortages (Guest and Steadman, 1987). However, construction employers will not be able to rely as heavily on recruiting young people in the future. They will need to consider alternative sources of labour such as the unemployed, women returners, ethnic minorities and their current workforce. These groups taken together with young entrants will need to be trained to meet the construction industry's future skill requirements.
+  Employers' recruitment policies vary from region to region. Forecasts by Cambridge Econometrics show that
+construction output will grow in all UK regions. How-
+ever, there will be some regional differences in the rate of
+
+Age groups
+Figure 1 Estimates and projections of the population of working age. 'f 1988; C] 2000
+
+Table 2 The number of 16-year-olds staying on at school or going on to further education in the UK 1992/93
+
+Numbers staying on Numbers entering Participation in at school further education education (000s) 
+	Full-Time	Part-Time
+
+United Kingdom300.1	166.7	49.6	76.7North13.9
+8.83.269.1Yorkshire and Humberside22.613.9	4.8	71.1East Midlands19.612.53.173.8East Anglia10.96.11.474.7South East98.949.59.380.6South West23.317.13.481.3West Midlands25.915.95.074.5North West28.820.36.072.6England243.0144.136.276.3Wales14.69.4L675.0Scotland31.45.98.076.8Northern Ireland11.27.13.388.1
+Source: Department of Education: Scottish Office Education Department; Welsh Office; Northern Irelandgrowth (see Table 3). Construction employers and their workforce from their locality need to be aware ofregional differences in the availability of trainee labour when considering alternative recruitment strategies. The availability of certain labour groups in any region depends on different regional factors, including staying-on rates, unemployment rates and the concentration of ethnic minorities as a percentage of all employment (Table 4). These factors, taken together with forecast of output levels, provide an indication of what would be an appropriate training strategy. Employers tend to recruit their workforce from the locality. Findings from a Sheffield Training Enterprise Council report on the state
+of the local construction industry showed that the majority of Sheffield construction firms, responding to the survey, drew their workforce from the city (Sheffield Training and Enterprise Council, 1992). In particular, 70% of respondents employed (direct employees only) only Sheffield labour and a further 18% recruited over 80% from the locality. Thus, appropriate recruitment strategies depend on local labour supply factors.
+Training and recruitment strategies
+Upgrading skills of existing workforce
+Construction employers' interest in upgrading the skills of their employees, in order to counter persistent skill shortages, varies from region to region. In a survey of construction employers in Sheffield, for example, there was little evidence of any interest in the ongoing development of workers (Sheffield TEC, 1992). However, in a similar survey in Moray Badenoch and Strathspey (MBS), employers showed a strong interest in developing their workforce through training (MBS, 1992).
+However, where interest was shown, a number of difficulties were identified. These included the lack of suitable training courses for adult workers. The Construction Industry Training Board (CITB) was identified as the only training organization offering an adult apprentice scheme. The available training was found to be the same as that for younger apprentices, and took no account of skills already acquired. The lack of financial incentive was also identified as a barrier to upgrading
+
+semi-skilled workers.
+Young people
+As a direct result of the increased number of young
+
+people staying on at school past 16 years of age, some employers are finding it difficult to recruit apprentices (MBS, 1992). The availability of funds for training apprentices is geared to 16-year-old school leavers. Employers therefore have to choose their apprentices from a smaller pool of often less able young people. Future recruitment difficulties are likely to occur where a high proportion of young people are staying on in full-time education, where growth prospects are good, including the South-West, East Anglia and the East
+Midlands.
+  Survey findings reveal that young people have negative images of construction work (CITB, 1988). The work is perceived as being dirty, dangerous, having a low social
+status and poor career prospects. Positive images of the construction industry centred on pay and the possibilities of learning a trade do exist. However, employers need to attract young people to the industry, especially where local competition for apprentices is intense, by creating strong links with the local community, in particular local secondary schools. This can be done by
+700
+
+Year
+Figure 2 Total number of leavers available to enter the labour market
+offering work experience to school pupils and enhancing the image of the construction industry by improving employment conditions, including pay, and career prospects. However, these improvements can only be achieved if there is steady growth in construction demand.
+Women and ethnic minorities
+The traditional sources of construction labour have been
+
+predominantly young, white and male. Women and
+ethnic minorities are under-represented in the industry. In 1989, 1.6% of the CITB apprentice intake was female, and only 1.3% was from ethnic minority backgrounds (IPRA, 1991). Possible reasons for these low intakes were highlighted in a study of the factors affecting recruitment for the construction industry (CITB, 1988). A sample of women, Asian and Afro-Caribbean men, aged between 18 and 24, were asked abouttheir opinion of the construction industry as a prospective employer. Most women respondents felt that they would not be
+treated as equals and would face harassment from their prospective employers and work colleagues. The Asian and Afro-Caribbean respondents had a negative image of the industry. The work was described as being 'dirty', 'dangerous' and not seen as 'respected'.
+  As with most attitudes to the construction industry, those of young women and young people from ethnic
+
+minority backgrounds are generally the same, so the recruitment strategies for young people, as a whole, are equally valid. However, in order to maximize the recruitment of women and ethnic minorities, employers working together with training bodies need to convey more positive images of the construction industry to school pupils below the age of 16 and their parents. Clarke (1980) cited research that showed that parents had a strong influence on their children's choice of occupation. This could be achieved by making effective use of the
+
+local and national media and links with local schools,
+
+particularly in regions where the proportion of people from ethnic minority backgrounds is significant, i.e. Greater London and the West Midlands to a lesser extent. Some construction employers have already
+recognized that they must tailor the industry's message for different audiences. The East Lancashire Training and Enterprise Council's construction specialist group, for example, is aiming their message at Asian school-leavers.
+Adult workers
+An alternative to young recruits are adult recruits. In general, employers found them more enthusiastic and commited than most young people (MBS, 1992), particularly if they were already fully-trained or apprenticed. Craftworkers who moved out of the construction industry to take more stable employment and better working conditions represent a potential pool of labour.
+
+
+	B	c	D	E	G	H	1	K	L	M	N
+
+Regional growth in GDP.
+Regional growth in GDP forecasts. Average annual growth 1991 —20010.3— 1.31.41.81.10.70.90.80.50.61.30.61.60.8
+Regional growth in construction volumes 1981—912.21.12.83.73.22.42.42.02.71.8[.53.72.4Average annual growth (%)
+Regional growth in construction Output 1989—91.5.92.77.56.26.25.04.13.12.83.66.9Average annual growth (90)
+Regional growth in construction output 1991—2001.— 3.35.6— 2.4- 2.30.8- 2.9— 2.8- 3.3— 3.1- 0.8o— 1.2— 2.0- 2.5Average annual growth2.21.32.62.73.22.42.31.82.02.51.52.32.3Average annual growth 1989—91
+Source: Cambridge Econometrics
+Key: A: South East; B: Greater London; C: Rest of South East; D: East Anglia; E: East Midlands; F: West Midlands,• G: Yorkshire and Humberside; H: North West; I: North; J: Wales; K: Scotland; Northern Ireland; M: South West; N: UK.
+Table 4 Regional employment of ethnic minorities, 1993/94
+B	c	D	E	G	H	J	K	L.M	NEthnic minorities as a percentage of persons in employment 93/94 (%)over 1 5 2—4.9 under 2 2—4.9 5—14.9 2—4.9 2—4.9 under 2 under 2 under 2 —under 2Source: Labour Force Survey
+Key: A: South East; B: Greater London; C: Rest of South East; D: East Anglia; E: East Midlands; F: West Midlands; G: Yorkshire and Humberside; H: North West; I: North; J: Wales; K: Scotland; L: Northern Ireland; M: South West; N: UK.
+
+  However, attracting these workers back to the industry may be difficult. Workers will be influenced by relative job opportunities in their locality. In Scotland, for example, the availability of tradespeople depends on oil related activity. This depends on the degree to which their skills are 'transferable' to other industries. Briscoe and Wilson (1993) produced an analysis of construction occupations according to skill transferability (see Table 5).
+  The analysis shows for example that electricians and plumbers could easily find employment outside the construction industry whereas bricklayers and plasterers would not have the same opportunities. Furthermore, even if some construction workers were enticed back, employers would have to judge whether the skills of these workers were still adequate, and if not whether they would be prepared to retrain them. The rapid change in technology used in some parts of the construction industry is such that skills acquired in the past may be inappropriate for the industry's future needs.
+Long-term unemployed
+Skill demands in the construction industry can usually be met from the pool ofunemployed workers. However, the available skills amongst the unemployed change over a period of time. Estimating the potential supply of construction workers from the pool of unemployed workers is difficult. Available data no longer indicate the main occupations of those registered as unemployed. Detailed total figures and overall regional data do exist, but without an indication of the numbers ofconstruction
+Table 5 Analysis of construction occupations according to skill transferability
+
+Low Medium High transferability transferability transferability
+
+skills. Regional unemployment figures for different occupations can be estimated from local information provided by employers. Figure 3 shows the number of unemployed people in Ayshire for 1992 who recorded their usual occupation as one of the construction trades.
+International migrants
+In Belgium, Germany, France and the Netherlands significant numbers of migrant workers are employed in construction. In the French construction industry, for examples 25% of the employees in 1989 were foreigners (Gross, 1992). In the UK, however, foreign migrants represent an insignificant proportion of the construction labour force. Large numbers of workers have traditionally been imported from Ireland. In 1993, an estimated 35 000 Irish Nationals worked in the UK construction industry (Woolford 1994).
+  A recent European Court ruling might well facilitate higher levels of migration between the UK and Europe. The judgment, made under the provisions of the Treaty of Rome to encourage the free movement of services between European Union (EU) member countries, could allow more foreign workers holding domestic work permits for other EU countries to take up jobs on British construction sites (Construction News, 1994b).
+  The declining number of young people available to enter employment has considerable implications for the
+construction industry, particularly in the search for eligible recruits to train. Construction employers will
+
+BricklayersPaintersPlasterersScaffoldersRoofersFloorersPavioursCrane driversGlaziersPlant operativesOther build skills Plant mechanics
+Bar benders
+Steel erectors
+Source: Briscoe and Wilson (1993)
+Carpenters Plumbers and EIN engineers
+Electricians	Number of unemployed people in Ayshire who
+Figure 3 
+Labourers	their usual occupation as one of the construction
+recorded trades,	1992. l : Joiners; 2: Painters and decorators; 3: Bricklayers; 4: Plumbers; 5: Roofers/slaters; 6: Scaffolders; 7: Plasterers; 8: Floor coverers/wall tilers; 9: Other construction trades (not elsewhere classified); 10: Glaziers;
+
+Il: Builders
+need to adopt alternative recruitment strategies now if they are to avoid future skill shortages. These strategies will need to be tailored for a particular region depending on the availability of alternative labour sources, particularly groups currently under-represented in the construction industry. In the first instance, employers should consider upgrading the skills of their existing workforce. However, this would depend on the availability of local training courses. The availability of financial incentives to train workers is also a factor influencing an employer's decision to train. Alternative recruitment options, _including attracting construction craftworkers currently employed in other industries depend on relative opportunities available to these workers, and the ability of the construction industry to retrain them for the future skills required. The trend to move away from direct employment of construction labour towards self-employment and labour-only subcontracting may, however, hamper employers' ability to train for future construction skills.
+Factors determining the levels of training activity in the construction industry
+Levels of training activity
+Since the 1960s the number of craft trainees entering construction has declined sharply. Indicative of this trend is the reduction in the number of operative trainees registered with the CITB between 1968 and 1989, as illustrated in Figure 4. This decline was spread over all the traditional construction trades. There were notable falls in the number of carpenters, bricklayers and plasterers; between 1968 and 1989 the numbers of trainee carpenters fell from 28 879 to 1 1 300 and the number of trainee bricklayers dropped from 10 970 to 5 400 (see Figure 5).
+Reasons for the decline in training
+Opinions are sharply divided as to the reasons for the decline in training levels. Some employers suggest that
+100
+
+Years
+Figure 4 Total number of operative trainees, 1968—89
+the recession is the main cause. With an uncertain workload companies are reluctant to enter into longterm training commitments. In 1991, the construction industry's main industry training organization (ITO) had to make provisions to find alternative firms willing to train 1000 apprentices who had lost their indentures as a result of company failures (IPRA, 1991).
+  Construction industry trade unions contend that cuts in government spending on construction work have had an adverse effect on the industry's workload and consequently levels of training. However, both parties agree that the growth of labour-only subcontracting has led to a decline in training. Large construction companies, through sub-contracting have shed their responsibilities for training and direct employment. Training is increasingly being left to very small firms and sole traders, who are often least able to cope. Clarke (1992) suggested that there is a direct correlation between the fall in trainee numbers (both in absolute terms and as a proportion of total employment) and the numbers of self-employed. Between 1979 and 1989, the numbers of self-employed operatives grew from 343 000 to 722 000. During the same period, the numbers directly employed by contractors fell from 763 000 to 552 000 (CITB, 1991).
+  Recent Labour Force Survey findings show that 43% of the construction workforce are now self-employed. In the 1990s, self-employment will continue to grow and reach an estimated 865 000 by the year 2000 (Institute for Employment Research, 1988). National trends
+towards construction self-employment are also reflected in the regions. The latest available figures from Sheffield, Wakefield and Birmingham illustrate this (see Figure 6).
+  A report on the policies that affected employers' decisions to train listed six determinants of employers'
+policies on the trainee intakes: state of the order book; wastage; labour shortages; technological change; existing supply of skilled labour; and the internal supply of apprentices (Institute ofManpower Studies, 1982). The move to increased off-the-job training had a great influence on training provision. Funding was only a
+
+Figure 5 Number of trainee carpenters, bricklayers and plasterers, 1968—89. Plasterers; Bricklayers; - - - -: Carpenters and joiners
+(a) Area covered by Sheffield TEC, 1989
+
+(b) Area covered by Birmingham TEC, 1989
+
+number Ofemployees
+
+
+(c) Area covered by Wakefield TEC, 1989
+
+
+Ito 24	25 to 199 number Of employees
+Figure 6 Construction firms: number of employees
+secondary consideration for employers considering
+training.
+  In construction employer surveys (Birmingham TEC, 1992; MBS, 1992) a number of factors were identified, by sole trade and small firms, as disincentives to employing apprentices and training through an Industry Training Organization. The reasons stated included:
+l . College block release arrangement not suitable for small businesses;
+2. Sole traders could not afford the time to train;
+3. Lack of committed young people;
+4. No suitable courses available;
+5. Loss of trained apprentices to more lucrative jobs;
+6. Training too expensive/lack of financial incentives to train apprentices;
+7. Content of NVQ modules assessed at college as part of the vocational qualifications irrelevant or out of date.
+The main factors that recur in these surveys relate to the inappropriateness of the construction industry's training provision to current conditions. This has occurred as the influence of construction industry trade unions and the importance of the traditional construction trades have declined.
+  The CITB has the main responsibility for defining the industry sector's training needs. It has a tripartite structure of employer, trade union and government representatives. Clarke (1992) suggested that the conditions that existed when the CITB was first set up no longer apply: trade unions, responsible for monitoring and encouraging training have been excluded from the decision-making process; traditional craft trade — the main target of the training effort under the system — has declined in importance; and training policies have been developed that are inappropriate for the needs of the whole industry. Therefore, the system has become ineffective. The training requirements of the UK construction industry often vary with the interests ofindividual firms who provide training places. Larger firms are usually involved in work on large new-build sites. This work is often repetitive and specialized, and trainees are unlikely to gain experience across the range of tasks required of their trade. Small firms on the other hand are often engaged in repair and maintenance work or small projects. Economic pressures and their small size, however, limits the number of trainees recruited.
+  Levels of training activity in the construction industry declined in the 1970s and 1980s. There were dramatic falls in the _number of trainee plasterers, carpenters and bricklayers. The number of traditional craft apprenticeships has decreased and been replaced by youth training schemes and short specialist courses to train semi-skilled workers. Large firms have shed their responsibility for training and direct employment through the use of self-employment and labour-only subcontracting. Training has been left to small firms or sole traders who are often least able to finance or supervise apprentices. In addition, there is a reluctance for some small firms to train apprentices formally because of the inappropriateness of training programmes. Against the background of falling training levels is also the issue of the construction skills required in the future. In particular, the size and type of project together with changes in technology will dictate the future mix of construction skills.
+Changing markets, new technology and future skill requirements
+Construction markets
+In the construction industry, all operatives need to possess a number of basic skills. In recent times,
+
+Planningfuture 
+however, skills have become dependent on the market sector in which operatives are employed. Table 6 shows the number of traditional trades have declined. Employment of carpenters and painters has decreased, between 1968 and 1989, by about 2% as a proportion of all trades. The number of electricians in employment has increased by 4%. These changes have occurred as a result of the trend from traditional craft skills towards skills required in small specialist firms.
+  In most cases, occupational trends are related to the type ofproject and the volume ofwork within a particular market sector. Some traditional craft skills are concentrated in only a few market sectors. Employment in these skills is, therefore, more sensitive to changes in the volume of work.
+  In a study that examined the availability of operatives and their requirements for different types and amounts of construction work, an assessment was made of the sensitivity of various trades to broad changes in the pattern of demand in three sectors; new housing, general building and civil engineering (Building and Civil Engineering EDCs, 1978).
+  Table 7 shows those trades which were found to be sensitive to broad change in the pattern of demand. If new work changed by 1 % solely as a result of change in the amount of new housing, general building or civil engineering work, the requirements for operatives changed as indicated. A 1% increase in new work, for example, solely as a result of an increase in civil engineering work, will increase the total requirement for tarmac asphalters and plant operators by between 2.0—2.9% and 3.0—3.9% respectively,
+  Traditional craft skills, such as painting, plastering and bricklaying are dependent on the quantity ofwork in the housing sector. Electricians are more active in the new non-housing work. The majority of roofers, and floor, wall and ceiling tilers are employed mainly in new-build work — the rest work in repair and maintenance.
+  Table 8 shows forecasts of the total volume of construction output by market sector, produced by the Centre for Strategic Studies in Construction and Cambridge Econometrics (1991). New private housing and
+housing repair and maintenance work is forecast to increase by 39% and 34% respectively. New public non-housing and private commercial work is projected to increase by only 0.5% and 2.8% respectively. Output within the private industrial work is forecast to increase by 24%, and by 68% if adjustments are made for privatizations of the water and electricity industries.
+  These forecasts indicate that the prospects for traditional craft skills are good. However, this will depend on the extent to which new technologies are used on construction sites. In new-build work the use ofprefabricated components is common. This has resulted in the decline of a number of construction skills including bricklaying, plastering and carpentry.
+New technologies
+Technological change in the construction industry has mainly been restricted to small improvements in material specification, product ranges, fixings and sealants, or in hand tools and equipment (IPRA, 1991). Operatives, therefore, need only to update their knowledge of new products and processes. However, some new technologies have given rise to the need for a combination of skills from traditional separate construction trades. This includes the development of prefabricated systems.
+  A report to the CITB on 'technological change and construction skills in the 1990s' identified and examined the principal technological changes likely to affect the building trades (CITB, 1991). Case studies were presented of technological change and the implications for skills, in particular cases where problems in the supply of skilled labour and rapid technological change were known to exist (including the use of curtain walling and prefabricated toilet modules).
+  Problems were identified in the installation of systems where traditional carpentry, joinery and glazing skills were used. Carpenters and joiners, for example, were found to cut joints too tight for gasket materials to be installed correctly; glaziers did not understand that water penetration could not be overcome by squeezing silicone into linking joints.
+  The refitting of existing buildings with services, fixtures and fittings may increase the demand for curtain walling systems, particularly if the residential tower blocks, built in the 1960s and 1970s, are upgraded. This work could take the form of re-cladding; stripping away the existing cladding system and replacing it with a new facade or overcladding; covering the existing system to overcome the problem of water seepage and improve thermal insulation of buildings.
+  Examples of prefabricated modular units used in construction projects include toilet, bathroom and lift modules. Skills shortages and the pressure to reduce construction times during the 1980s construction boom, in the UK, relied on firms making use of off-site production of building components. In the 1990s prefabricated units may be used in the housing sector,
+including components such as kitchens and bathroom units. Three types ofskills were required where prefabricated units were used. These included: off-site production skills, installation skills, and maintenance skills. Traditional crafts are often employed in factories to produce modules. However, in the fabrication of toilet modules more specialist skills are required. On-site installation is undertaken either by the manufacturers' own team or by a subcontractor. The units are craned into position, usually through the side ofthe building and rolled on a trolley into their final position. Therefore, in addition to a crane driver, installation teams require people with rigging and lifting skills and an understanding of the construction process. Where fast-track techniques are used, the ability to negotiate, resolve problems and work to tight schedules is required. Communication skills are also important particularly at the interface between different services and liaising with other contractors. Repair and maintenance of prefabricated modules is difficult once they are installed and the building is in use. Maintenance operatives need to be highly skilled, therefore, in different areas in order to overcome complex problems including diagnostic, building, mechanical and electrical skills.
+  The introduction ofnew products and processes, such as prefabricated components, has meant that contractors increasingly need the skills of specialist subcontractors, particularly for new-build and maintenance work. Three distinct types of subcontracting organization have emerged from the shift towards specialization. These include trade contractors, specialist technical contractors, and specialist installer contractors.
+  Each of the above organizations has different roles and particular skill requirements. Trade contractors employ craft workers from one particular trade such as plastering or bricklaying. Work carried out would, therefore, be associated with that particular trade whether zit be in new-build or maintenance work. Specialist technical contractors operate in only one specialist area, for example cladding installation. Highly skilled specialist operatives are required with a good technical background together with some competence in detailed technical drawing and design work. Specialist installer contractors operate in a similar way to specialist technical contractors, however they would not get involved in design work so the emphasis on technical knowledge required by operatives is less.
+  Where specialist subcontractors are operating in different markets the skills required by operatives varies from one market to another. In the new-build and maintenance markets, work is organized so that only a small proportion of skills practised in a particular trade is required by an individual operative. The size of project within a particular market is another factor that dictates the extent to which specialized skills are practised in the construction industry. On large projects, for example, subcontractors require operatives that have a high degree oftechnical knowledge and organizational skills, particularly where the work involves the installation of complex technical equipment in a small work area, in which different trades need to cooperate. On small projects, however, operatives require skills to perform a wide
+range of activities.
+The trend towards specialization in the construction
+
+industry, including the increased use of sophisticated systems in buildings and the repackaging of work into smaller portions to off-load risk, has a number of implications for future skill needs. In particular, operatives will not only require strong technical skills to cope with complex systems but also coordination skills and an understanding of the construction process. This is particularly important when different trades work in close proximity to one another. Changing technology, including the increased use of prefabricated modular components will reduce the need for traditional construction skills and create new more sophisticated needs, particularly on large projects in the new-build market. However the large volume of maintenance and refurbishment forecast for the 1990s will continue to require traditional skills such as plastering, carpentry and bricklaying. Generally, technical expertise is growing in importance relative to traditional manual skills. Operatives working on complex projects will need to be trained in a broad range of technical skills and have an understanding of the characteristics of the prefabrication and in modern construction methods.
+Conclusions
+The objectives of this paper were to assist interested parties in the construction industry to understand the important labour resource requirements, and so realize the need for long-term planning of labour resource requirements in Britain.
+  The demographic and educational changes taking place in the labour market have a number of implications for training in the UK construction industry. In particular the changes taking place in the shape and structure of the workforce provide a challenge to construction employers. Although the number of young people entering the employment market is projected to decline in the 1990s, the number Of adults (particularly women) in the workforce will continue to rise and will provide real opportunities for employers if they are to avoid skills shortages.
+  The forecast increase in the construction industry's workload are linked to the future availability of construc-
+tion skills. The construction industry will face recruitment problems if changes are not made to current recruitment practices. In the 1990s, employers will have to adopt long-term recruitment strategies. These strate-
+gies will need to be tailored for different regions of the UK, taking into account the demand for labour brought about by growth in construction output, and availability of alternative sources of labour, including the long-term
+unemployed, women and ethnic minorities. In the first
+instance, construction employers should consider upgrading the skills oftheir present workforce. However,
+Planning future 	
+Scaffold ers9.8511.098.4001.93+ 0.840Floorers5.4610.603.9000.90+ 0.300Glaziers2.6340.302.4000.55+ 0.250Plumbers47.1835.2020.8744.800.400L'V engineers21.0912.3013.9003.19+ 0.890Electricians66.1197.3049.80011.44+ 4.140Crane operators5.2500.584.3000.98+ 0.400Plant operations Plant mechanics33.761
+3.7018.7004.30
+2.730.600Bar benders4.7460.521.1000.25— 0.270Table 6 Trends in construction trades, 1968—1989
+
+TradeNumbersPercentageNumbersPercentageChangeemployedof totalemployedof total1968-1989in 19681968 (%)in 19891989 (%)within(000s)(000s)individual trade (%)
+Bricklayers72.1528.0027.3006.301.700Carpenters157.73917.4064.60014.84- 2.560Pain ters77.6048.6027.4006.30— 2.300Plasterers	16.1141.806.1001.40— 0.400
+Roofers6.5290.727.5001.72- 1.000Paviours3.0170.320.4000.09- 0.230
+Source: Housing and Construction Industry Statistics (various years)this depends on availability of local training centres and financial incentives. Employers should be aware that attracting those workers with construction skills away from other industries depends on the relative opportunities open to these workers in their locality. The future effectiveness of the construction industry depends on the
+  Employers and trade unions in the construction industry both agree that the growth in labour-only subcontracting and self-employment has led to a decline in training. This occurred as large construction companies, through subcontracting, have shed their responsibilities for training and direct employment. Training has
+
+quality of the workforce that it educates and trains. This requires a strong commitment from construction firms and national governments to maintain training levels. The number of trainees being trained in traditional construction skills declined during the 1970s and 1980s. In particular, between 1968 and 1989 the number of trainee carpenters fell from 28 879 to 1 1 300; the numbeen increasingly left to very small firms who are often least able to provide it for a number of reasons including:
+1. Inappropriateness of the local training provision;
+2. Relevance of formal training to company needs;
+3. Training too expensive/lack of financial incentives;
+4. Companies not able to afford the time to train.
+
+
+ber of trainee bricklayers dropped from 10 970 to 5400.	Changes in technology have a dramatic effect on the
+Table 7 Trades sensitive to changes in the pattern of new work. Percentage change in total requirement for each trade as a result Of 1.0% change in new work owing to a change in either new housing, general building or civil engineering work
+
+Groups of market sectors2.0-2.93.0—3.9Housing
+General building
+Civil engineeringPainters
+Bricklayers
+Plumbers
+Plasterers
+Glazier
+Heating and ventilating engineers
+Steel erectors
+Tarmac/asphaltersPlant operatorsTable 8 Growth in construction output, 1989—2001
+
+	Type of work	Total percentage change
+Ignoring privatizationsAmending for privatizations
+(where adjustment significant)Nece work
+New Housing
+Public
+Private
+New Non-Housing Public
+Private industrial
+Private commercial
+All new work
+Repair and maintenance
+Housing
+Non-housing
+Public
+Private
+All repair and maintenance
+Total+10.3
++38.7
++24.3
++2.8
++14.8
++31.8
++28.5
++48.5
++34.6
++23.5-43.2
++ 68. I
+9.3
+Source: Cambridge Econometrics
+construction industry's future skill requirements. The use of new technologies such as curtain walling and prefabricated modular components has eliminated the need for particular construction skills, including bricklaying, and scaffolding where curtain walling is installed as a bespoke cladding system. The installation and maintenance of curtain walling and prefabricated modulav systems requires operatives to possess an understanding of technology of each system and the construction
+process in general. They must have good interpersonal skills, particularly when coordinating their activities with other construction trades working in close proximity.
+  The repackaging of work into smaller portions will lead to an increase in specialization in the construction
+
+industry. In which case two distinct types of operative will emerge, particularly on large projects; a semi-skilled operative responsible for clipping components together and a highly-skilled operative responsible for installing sophisticated systems.
+  Appropriate training can only be developed if training needs are carefully identified. This requires interested parties in the construction industry to understand and anticipate the skill needs of their workforce. This can only be achieved if they are in possession of detailed information on the availability of labour resources on a regional basis.
+  The lack of central planning in the construction industry can lead to bunching of major projects. This can lead to an enormous strain on labour resources in any one region. One approach to overcome this problem would be to construct robust models predicting the trends in labour resources. Medium-term projections could then be used as a basis for planning training levels by occupation and region, and could be a major factor in stimulating investment in alternative construction methods.
+References
+Birmingham Training and Enterprise Council (1992) The City's Economy: Construction Sector: A Detailed Report, Birmingham.
+Briscoe, G. and Wilson, R. (1993) Employment Forecasting in the Construction Industry. Avebury, Aldershot, pp. 31—50.
+Building and Civil Engineering EDCs (1978) Hote Flexible is Construction? Chapter 6, National Economic Development Office, HMSO.
+Central Statistical Office (1994) Regional Trends. HMSO,
+London,
+Centre for Strategic Studies in Construction (1989) Investing in Building 2001. Centre for Strategic Studies in Construction,
+University of Reading, UK.
+Centre for Strategic Studies in Construction (1990) UK Construction Prospects 2001. Centre for Strategic Studies in Construction, University of Reading.
+CITB (1988) Factors Affecting Recruitment for the Construction Industry CITB, Bircham Newton, pp. 4—5.
+CITB (1991) Technological Change and Construction Skills in the 1990s. CITB, Bircham Newton, pp. 38—9.
+
+Clarke, L. (1980) Occupational Choice: a Critical Review of
+
+Planning future construction 
+Research in the United Kingdom. Department of Education Careers Service Branch, HMSO, London, pp. 7—16.
+Clarke, L. (1992) The Building LabourProccss: Problems ofSkills, Training and Employment in the British Construction Indusny in the 1980s. Chartered Institute Of Building, Englemere, Berkshire.
+Commission of the European Communities (1993) Strategies for the Construction Sector.
+Construction News (1994a) Brickie wage hike as skills crisis looms. Construction News, No. 6360, 14 April, London, pp. I & 40.
+Construction News (1994b) European ruling opens way for foreign workers. Construction News, No. 638, 8 September, London, p. 3.
+Department ofEmployment ( 1988a) Higher Education. Labour market quarterly report, July, pp. 15—17.
+Department of Employment (1988b) Education. Labour market quarterly report, October, pp. 11—13.
+Enterprise Ayshire (1992) Ayshire business survey, Kilmarnock. Government Statistical Service (1994) Labour Force Survey Quarterly Bulletin. Employment Department, No. 8, London, p. 7.
+Gross, E. (1992) Migration Within and Towards the European Community and its Impact on the Construction Industry. Proceedings of the Bartlett International Summer School, Brussels, 5—10 September, pp. 2—3.
+Guest, P. and Steadman, R. (1987) Death of the Craftsmen. Building, London.
+Incomes Data Services (1994) Signs of Recovery in the Construction Sector. Incomes Data Services report 672, London, pp. 4—5.
+Institute for Employment Research (1988) Review of Economy
+
+and Employment: Occupational Update 1988. University of Warwick, UK.
+Institute of Manpower Studies (1982) Apprentice training support. Institute of Manpower Studies, Report No. 46,
+IPRA (1991) Future Skill Needs of the Construction Industries. Report for the Department of Employment, pp. 9—17.
+Mid-Glamorgan Training and Enterprise Council (1991) Local Unemployment Data Relating to the Construction Trades, Pontypridd, Mid Glamorgan.
+Moray Badenoch and Strathspey Enterprise (1992) The Construction Industry in Moray, Badenoch and Strathspey: Labour Market Survey, Elgin, Moray.
+NEDO (1988) Young People and the LabourWfarket.• A Challenge for the 1990s. NEDO, London, p. 6.
+NEDO (1989) Defusing the Demographic Time-bomb. NEDO, London, pp. 12—16.
+Sheffield Training and Enterprise Council (1992) Construction Indusny Report, Sheffield.
+Tyneside Training and Enterprise Council (1992) Construction Industty Employment Survey, North East Market Survey, Stockton-on-Tees, Cleveland.
+Wakefield Training and Enterprise Council (1992) Construction Industry Information, Wakefield, West Yorkshire.
+Woolford, C. (1994) Irish Nationals in the British labour market. Employment Gazette, Statistical Services Division; Employment Department, London, pp. 29—31.
+	150	Agapiou et al.
+
+Planningfuture construction skill requirements	151
+
+
+
+150	Agapiou et al.
+
+	construction skill requirements	157
+
+	construction skill requirements	157
+
+	skill requirements	161
+
+	skill requirements	161
+
+	skill requirements	161
+

@@ -1,0 +1,257 @@
+﻿MASONRY PRODUCTIVITY FORECASTING MODEL 
+By Steve R. Sanders, ~ Associate Member, ASCE, and H. Randolph Thomas, z Member, ASCE 
+ABSTRACT: For the most parL existingp roductivity forecasting models are based on extrapolating from historical data instead of consideringt he effects of project- related factors. These factors can change daily and can significantlya ffect the productivity of a labor-intensivea ctivity. This paper describes a statistical model developed to forecast the productivityo f masonry activities. The model is an ad- ditive regression model and is based on data collected from 11 masonry projects. The model was tested by predicting the productivityo f the 11 projects, with seven of the 11 being predicted within 10/% of the actual productivity.T his is noteworthy, given that the projects included a number of different masonrya ctivities and types of facilities. Other analyseso f the model indicate that the model is statisticallyv alid and reflects what would be expected. Construction managers could easily use the model to estimate the labor requirements for a project and then to better manage the project as it progresses. Other labor-intensivea ctivities could be modeled using the same methodology. 
+INTRODUCTION 
+  Existing productivity forecasting methods and models are based primarily on extrapolating from historical data. These methods and models fail to consider the factors that actually affect productivity, such as changing work requirements and weather. Because construction productivity varies signif- icantly depending on which of these factors are present, a forecasting model should be based on the factors that have the most impact on productivity. 
+  An extensive study has been conducted to identify the factors that most affect masonry labor productivity (Sanders and Thomas 1991) and to develop a methodology for modeling labor-intensive activities (S. R. Sanders, H. R. Thomas, and G. R. Smith, unpublished report submitted to the National Science Foundation, 1989). Six project-related factors were identified that significantly affected masonry productivity. The purpose of this paper is to present a model based on these factors that will forecast the productivity of a masonry crew. The methodology developed for this model can be applied to other labor-intensive operations. 
+  The modeling process was undertaken not ony to produce the model, but to better understand the factors affecting masonry productivity. This under- standing will help construction managers better plan, schedule, and manage labor-intensive activities. 
+DESCRIPTION OF DATA 
+  The data for this study were obtained from 11 masonry projects con- structed in central Pennsylvania in 1986-1988. A total of 570 days were 
+  1Asst. Prof., Dept. of Civ. Engrg., 200 Lowry Hall, Clemson Univ., Clemson, SC 29634-0911. 
+  2prof., Dept. of Civ. Engrg., Pennsylvania Trans. Inst., Res. Bldg. B, Pennsyl- vania State Univ., Univ. Park, PA 16802. 
+  Note. Discussion open until August 1, 1993. To extend the closing date one month, a written request must be filed with the ASCE Manager of Journals. The manuscript for this paper was submitted for review and possible publication on October 1, 1991. This paper is part of the Journal of Construction Engineering and Management, Vol. 
+119, No. 1, March, 1993. 9 ISSN 0733-9364/0001-0163/$1.00 + $.15 per page. Paper No. 2638. 
+observed, with six days being removed from the data set because of incom- plete data. The projects range in size from 372 m 2 of masonry to 4,181 m 2 with the average being 2,973 m 2. All projects but one were built by open- shop contractors. 
+  Productivity was initially measured in work hours/square foot (WH/SF); that is, the number of work hours required to place a square foot of masonry face area. The same procedures shown here would be used to develop a model based on square meters. It should be noted that the lower the pro- ductivity measurement, the better the productivity of the masonry crew; i.e., they spent fewer work hours to construct a square foot of masonry face area. This measurement convention (WH/SF) was used because it empha- sizes productivity problems. 
+  Conversion factors were used to convert actual measured quantities to equivalent quantities (Sanders and Thomas 1990). A conversion factor is a dimensionless ratio that indicates the quantity of a standard masonry unit that would have been completed with the same number of work hours. An 8-in. concrete masonry unit (CMU) was selected as the standard unit, and all actual quantities were converted to equivalent quantities of the standard unit. This allowed the data to be consolidated and compared directly because it accounts for the differences in productivity due to size and weight of the masonry units. 
+Disruptions 
+  Before any analyses could be performed, the data were screened to iden- tify disruptions and outliers (Sanders and Thomas 1991). A disruption is defined as an event occurring on-site that adversely affects the masonry crew's productivity for most of the work day. Work continues during a disrupted period, but at a less productive rate. The effects of disruptions are examined in detail in a separate paper (Sanders and Thomas 1992). Disrupted days were removed from the data set prior to conducting any analyses because they reflect abnormal conditions that would bias the re- sults. Of the 564 days included in the data set, 104 were classified as dis- rupted. 
+  Outliers were identified by creating a regression model based on the 460 nondisrupted days. Nine days with standardized residuals of 5.0 or greater were classified as outliers and deleted because they would significantly skew the results. An additional 15 days had incomplete weather data. Therefore, 436 days were in the data set used to create the model. 
+FACTORS AFFECTING MASONRY LABOR PRODUCTIVITY 
+  Four major project-related factor categories were selected as follows with each category being divided into specific classifications: 
+9 Work type 
+9 Other types of structures 
+	9 	Repetitive-first 
+9 Repetitive-other 
+9 Brick 
+9 Physical elements 
+9 Foundations/footings 
+9 Exterior walls 
+9 Interior straight walls 
+9 Interior core walls 
+9 Columns/ornamental brick 
+9 Roof structures 
+9 Finish work 
+Construction methods 
+9 Scaffolding 
+9 Shakeout/resupply 
+9 Block and brick mixed 
+9 None 
+Design requirements 
+9 Cutting due to design details 
+9 Falsework support 
+9 Restricted access 
+9 Stringent quality control requirements 
+9 Large lintels 
+9 Corners not 90 ~ 
+9 Double wythe 
+9 Triple wythe 
+9 Straight walls with few corners or openings 
+9 None 
+The factors are defined in detail in a previous paper (Sanders and Thomas 1991). Analyses indicated that there was a significant difference between the productivity for the first repetitive floor and subsequent floors for mul- tistory buildings. Therefore, multistory buildings with repetitive floor de- signs were divided into two categories, repetitive-first and repetitive-other, to account for this learning effect. The brick designation was used to identify those portions of structures that involved only brick work. The other cat- egory includes all nonrepetitive work involving block or a mixture of block and brick. For each record (work day) in the data base, the predominant work activity was classified according to the categories; that is, there is a work type, building element, construction method, and design requirement designation for each day. The classifications for work type and building element categories are mutualy exclusive. If work was done in more than one classification, the day was classified based on the majority of the work. There can be multiple entries for design requirements and construction methods, although this situation never occurred. 
+  In addition, weather and crew size are included in the model. For this study, weather is measured in terms of the temperature (in degrees Fahr- enheit) and the relative humidity. The same procedures would be used to develop a model based on degrees Celsius. Earlier research was unable to establish an appropriate model form for weather (Kilroy 1989). Temperature and humidity are each divided into three ranges, which are then combined to create a matrix. This matrix is shown in Fig. 1. Each zone represents a unique combination of temperature and humidity ranges. The nine weather zones are used in the model to describe and predict the effects of temperature and humidity. 
+  Crew size includes all crew members, both masons and support personnel, because so many variations of crew composition were observed. Consistent results could not be achieved if only the masons' hours were included. Also, the model should reflect the total hours required, not just the masons'. No 
+i 
+100 
+	4-~  	" i Zone 7 	.- : ..:'Zor~eB '"" : ::,', "'-Zone 
+-o 
+	,- i 	" i 	"" :'" 	:','' 	"'" 	"'" ": "'1:. "'. 
+	e 	BO 
+	.-i 	I- i 	..".i:..l.!. : . : ;:i :. 	! 	[ 
+-i- 
+	- 	~ 	i:" 	"." .'" 
+	i Zone 	r 	. . . . . . . . . 	Zone 	s 
+0) 
+	> 	60 	!. 	:'::: 	.. i;:': 	'' .............. 9 
+[ 
+,4-- 
+	o,I 	40 	i 	. 	. 	i. 
+	- 	i 	'" "..""~ 	" 
+	~ 	" 	. 	i- 
+'4- 
+i- 
+     20 	,i. ... o Zone 1 Zone 2 Zone 3 
+f_ 
+	0 	20 	40 	60 	BO 	100 
+	Temperature 	(F) 
+FIG. 1. Weather Zones 
+distinction was made between working and nonworking foremen, but future work should investigate this factor if sufficient data are available. 
+MODEL DESCRIPTION 
+  The model developed in this study is a descriptive model that explains the variability of the collected data and serves as the basis for a predictive model. It explains some, but not all, of the variability of the data, since identifying all of the factors affecting labor productivity is beyond the scope of this research. This model is an improvement over existing estimating and forecasting methods because: (1) It includes factors heretofore not included and quantifies their effects; (2) it provides a method that can be easily programmed with a data-base or spreadsheet package; and (3) it provides a daily forecast that reflects the changing conditions as the project pro- gresses, versus a single productivity rate that would be calculated using existing methods. Even if the model is not used for forecasting, the coef- ficient for each factor indicates the effect of the factor. 
+  An additive regression model is used that will allow the user to determine the effects of various combinations of factors on daily productivity. The model consists of indicator variables and integer variables. Indicator vari- ables are used for work type, building element, construction method, design requirement, and weather zone. An indicator value of one indicates that the condition is present; otherwise, a zero is assigned. 
+  Integer variables are used for crew size. The polynomial regression model for the crew size factor was taken from an earlier study (Swank 1989) that describes the development and testing of the model form. The model in- cludes three crew-size variables: the crew size, the crew size squared, and the crew size cubed, shown as CS, CS 2, and CS 3 in (1). A separate model coefficient is calculated for each of the three crew-size variables. 
+  All of the results presented in the following sections are based on the equivalent quantities, not the measured quantities. The variability due to 
+different types and sizes of masonry units has already been accounted for with the conversion factors (Sanders and Thomas 1991). 
+Creating Model 
+Four regression models were created using the following form: 
+n--3 
+E(P) = Bo + ~ B,Xs + B,_2CS + B,_,CS 2 + B,,CS 3 ........... 	(1) 
+where E(P) = expected productivity; B0 = constant term representing the base unit rate; Bi, B,-2, Bn-,, Bn = model coefficients for the factors; n = number of variables in the model; n - 3 = number of indicator variables; i = indicator variables for work type, building element, construction method, design requirement, and weather zone; and CS = crew size. 
+  The B0 term, which is the intercept term, indicates what the expected productivity would be if only the standard project conditions, which are explained in the following section, are present. Coefficients B1, B2 9 9 . Bn indicate the effects of the presence of other factors. 
+  The four model forms were tested to determine the optimum. The first model included all the factors. The second used a forward stepwise pro- cedure with an F-value of 1.00 to select the factors to include in the model. The third and fourth models were the same as the first and second, except they used a subset of data that excluded the factors that occurred on only a single project. 
+  Several selection criteria were used to determine the best model. The coefficient of multiple determination (R 2) and the adjusted coefficient of multiple determination (R]), both of which measure the proportional re- duction in variability, were calculated. A procedure was also developed where the data for one project were removed from the data' set and the four model forms were used to predict the removed project. The absolute differences between the actual and estimated productivities were summed to indicate the predictive power of the models. Based on these criteria, the first model form was selected as the best. Table 1 summarizes the coefficients and t-values for the selected regression model. 
+  The model is used for two purposes. First, the productivity for a specific day can be adjusted to indicate what productivity would be expected if that day's work had been done under standard conditions. Second, the produc- tivity can be predicted for a given set of conditions. Management personnel could use the model to forecast labor requirements before a project begins, and then refine the estimate as the project progresses. These capabilities are described in subsequent sections. 
+STANDARD PROJECT CONDITIONS 
+  As stated previously, work type, building elements, construction methods, design requirements, and weather zones were coded in the data using in- dicator variables (0 or 1). When indicator variables are used for a factor with m levels, m - 1 indicator variables are included in the regression model (Neter et al. 1985). The effect of the factor level not included is embedded in the constant term. For example, the work type category has four levels: other, repetitive-first, repetitive-other, and brick. To create a regression model based on work type, only three of the four levels are included in the regression equation 
+
+
+E(P) = Bo + B,X~ + B2X2 + B3X3 . . . . . . . . . . . . . . . . . . . . . . . . . . . (2) where E(P) = expected value of daily productivity; Bo = constant term; B1, B2, B3 = coefficients calculated for repetitive-first, repetitive-other, and brick, respectively; and X1, X2, X3 = states of repetitive-first, repetitive- other, and brick, shown as indicator variables. 
+When the work type is other, X1, X2, and X3 are zero and (2) reduces 
+to 
+E(P) -- B0 	................................................. 	(3) where E(P) = expected productivity; and Bo --- constant term. 
+  This means that the constant term shows the expected productivity when the work type is other. If the work type is brick, (2) reduces to 
+E(P) = Bo + B3(X3) ....................................... (4a) E(P) = Bo + B3(1) ......................................... (4b) 
+E(P) = Bo + B3 ........................................... (4c) where E(P) = expected productivity; B0 = constant term; B 3 = coefficient calculated for brick; and X3 = state of brick, shown as an indicator variable. 
+  In (4), B 3 indicates how much the expected productivity varies when the work type is brick as compared with the expected productivity when the work type is other. 
+  Removing one of the factor levels is not only necessary in a statistical sense, but is also helpful in an analytical sense because the factor level that is not included in the regression equation can be thought of as defining a standard condition. The coefficients for the other factor levels indicate how the presence of the particular factor level causes the productivity to vary from the standard conditions. The actual productivity data can be adjusted to the standard condition by subtracting the coefficients of the factors that are present. This procedure is used in a later section to calculate the adjusted daily productivity. 
+  A factor level must be excluded for each of the five classifications that use indicator variables. Which factor to exclude from the regression model is immaterial, since the model will yield the same predicted values no matter which factor is excluded. The factors selected as the standard conditions 
+are shown in Table 2. 
+MODEL EVALUATION Introduction 
+  Model validation is an important step in any modeling process and par- ticularly for this model because of the highly variable nature of the data. 
+TABLE 2. Standard Conditions 
+	Factor 	Standard conditions 
+	(1) 	(2) 
+	Work type 	Other 
+	Building element 	Foundations/footings 
+	Construction method 	None 
+	Design requirement 	None 
+	Weather 	Medium temperature/medium humidity (zone 5) 
+The presence of many variables in the model may also create results that are contrary to what would normally be expected. No masonry forecasting model exists, so there are no predefined procedures and methods to use in the evaluation process. Likewise, there are no results with which to compare the model. Procedures must be developed to evaluate the model. 
+  The model evaluation should be designed to address four questions. First, how robust is the model? The statistical significance of the model should be examined to determine the strength of the model. Second, can the model be used to explain the variability in the data? This question is particularly pertinent since one of the primary purposes of the model is to explain the data by accounting for and removing the variability caused by the different factors. Third, how does the model compare with what would be expected. The model should be compared with what common sense would say the results should be. Differences should be explored in detail and explained. Fourth, is the model usable? The model should be tested to determine if it satisfies the needs for which it is intended. 
+The following procedures were used to evaluate the selected model: 
+1. Evaluate the strength of the model using statistical procedures. 2. Adjust the data to standard conditions using the model results. 
+3. Compare the model results with expected results. 
+4. Determine if the model is usable for the objectives. 
+How Robust is Model? 
+  The robustness, or strength, of the model can best be determined by examining the model statistics. The R 2 and R] values of 41.1 and 37.3, respectively (significance level of 0.00), indicate that the factors in the model explain more than one-third of the variability of the data. This result is significant given that this is the first attempt at explaining a highly variable data set. The model explains the major factors that affect productivity, but there are many other factors to be studied that are not addressed by this model or by any current estimating or forecasting method. 
+Does Model Reduce Variability? 
+  The model is used to adjust the data to a standard set of conditions as explained previously. If the model is an accurate portrayal of the data, the adjusted data should exhibit less variability because the variability caused by the factors has been removed. 
+  Data are adjusted to remove the effects of the project-related factors accounted for by the model. Theoretically, adjusting the data revises the productivity to reflect what would have been achieved each day if the work had been done under the standard conditions summarized in Table 2. This process also allows data from various types of projects to be combined into a single data set for more accurate analyses of other factors. 
+  Individual projects and the total data set, including disrupted days (n = 570), were adjusted using the selected model. Each day was adjusted by subtracting all of the model coefficients representing factors that were present that day from the daily productivity. Crew size was also adjusted. For example, assume the following conditions exist on a hypothetical project on a given day: 
+9 Actual daily productivity = 0.120 WH/ft 2 9 Work type = brick 
+	9 	Building element = exterior walls 
+	9 	Construction method = none 
+	9 	Design requirement = none 
+9 Weather zone = 4 (low temperature, medium humidity) 9 Crew size = 5 
+Again, this model was based on square feet of masonry and degrees 
+Fahrenheit; the same procedures would be used for square meters and degrees celsius. The adjusted daily productivity can be calculated using (5) and the selected model: 
+ADPi = DPi - WT/ - BEi - C M i - DRi - WZi - CI'CS/ - C2 9 CS~ - C3"CS~ ............................................. (5) 
+where ADPi = adjusted daily productivity for day i; DPi = actual daily productivity for day i; WTi = work type coefficient for day i; BE/= building element coefficient for day i; CMi = construction method coefficient for day i; DRi = design requirement coefficient for day i; WZ~ = weather zone coefficient for day i; C1, C2, C3 = coefficients for crew size terms; and CS~ = crew size for day i. 
+ADP = 0.1200 - 0.0071 - 0.0077 + 0.0225 - 	(0.0163.5) 
++ (0.00156-52) - (0.000046-53) .............................. (6a) ADP = 0.120 - 0.0071 - 0.0077 + 0.0225 - 0.0815 + 0.039 
+- 0.00575 ................................................. (6b) ADP = 0.079 WH/ft 2 ....................................... (6c) 
+The adjusted daily productivity of 0.079 WH/fff would be expected if the work had been done under standard conditions. This number should not be confused with estimates presented in estimating manuals or other sources. This number is the productivity that would have been achieved with the same level of effort if the work had been done under standard conditions (Table 2) and if the work had involved only 8 in. CMU. 
+  Table 3 summarizes the decrease in variability for each project and for the entire data set. A negative sign denotes that there was a negative de- crease in variability; that is, the variability actually increased. The variability decreased for all but two projects. The decrease in variability, R e* , is cal- culated using (7) and (8). 
+       SSEi- 	SSEj n~* - 	SSE~ 	......................................... 	(7) 
+where R~.* = reduction in variability from condition i to condition j; SSEi 
+= sum of the squared errors for initial condition i; and SSEj = sum of the squared errors for new condition j. 
+  SSE~ and SSEj are measurements of conditions i and j, respectively. These terms are calculated as follows: 
+SSE,--- 	(s 	- 	Y,~)~ 	.......................................... 	(8) 
+where SSE~ = sum of the squared errors for condition i; I?i = the average of Y, given condition i; and Yi, = the value of the kth term for condition i. 
+TABLE 3. Decrease in Variability (R 2.) from Actual to Adjusted Data for Each Project for all Data and for Nondisrupted Data 
+	Project 	All data (n = 570) 	Nondisrupted data (n = 451) 
+	(1) 	(2) 	(3) 
+8602 -81.8 -25.0 8701 9.1 36.8 8702 0.0 0.0 8703 16.9 34.3 8706 40.3 38.5 8707 10.3 20.0 8708 21.8 20.5 8711 12.1 8.1 8801 6.8 16.7 8802 -3.3 22.6 
+8803 4.9 9.5 All 7.1 16.4 
+  The reduction of variability for the data set with disrupted days removed is considerably more than with all data, as would be expected. This differ- ence emphasizes the magnitude of variability introduced by disrupted days. 
+  Several of the adjusted daily productivities became negative. Fortunately, this occurred infrequently and does not affect this study. Any researchers who might use the model to adjust productivity data should be aware that the adjusted data may be less than zero and should analyze the effect that negative adjusted values have on the results. 
+Is Model Intuitive? 
+  Expectations about the model can be formulated from experiences gained during the data-collection process, from the analyses done when identifying the model factors, and from previous research. A comparison of the ex- pected and actual results suggests that the model is valid and applicable. 
+  The model is additive in nature. The effect of a factor is the value of the coefficient for that factor level; that is, the coefficient is the actual departure in terms of productivity from the standard conditions. For example, a neg- ative coefficient means that the factor causes productivity to improve (de- crease). Therefore, coefficients with negative signs should be related to those factors that would be expected to improve the productivity. Similar analogies can be made for coefficients with postive signs. Also, the magnitude of the coefficient should be comparable to the amount of change that the factors are expected to cause. 
+  The results for work type and building element are consistent with prac- tical experience. Items that require more manpower and material resources have larger positive coefficients than factors with smaller resource demands (see Table 1). For example, the coefficient for repetitive work in the work type category is about 24% lower than the other work. In the building elements, the coefficients for interior core and finish work indicate that these have a significant negative impact on productivity. In the design and methods categories, experience would suggest that only double-wythe walls and straight walls with few openings and corners would lead to improved (lower) daily productivity. The signs associated with these model coefficients are as expected. 
+For the weather terms in the model, zone 5 is the standard zone, and its influence is included in the constant term of the regression equation. Zone 5 should have the best productivity since productivity should decrease as the temperature and relative humidity deviate from the ideal. Therefore, the coefficients in all other zones should be positive. Also, the magnitude of the coefficient should increase as the humidity increases. As seen in Table 1, zones 1, 2, 4, 7, and 8 have negative coefficients, indicating that pro- ductivity improves in colder temperatures. In warmer weather (zones 3, 6, and 9), productivity worsens. The results for warmer weather are consistent with expected results. However, the improvement of productivity at colder temperatures was not expected. Possible explanations for these results were presented previously (Sanders and Thomas 1991). 
+  The best (lowest) productivity with respect to crew size was expected to be at a point somewhere in the midrange of the observed crew sizes (Swank 1989). It was hypothesized that there is an ideal crew size for which the foreman is fully utilized but not overextended. Productivity should worsen as the crew size departs from the ideal. 
+  The model produced with this data resulted in an unexpected relationship. Fig. 2 shows the expected productivity for different crew sizes using (1) and the model coefficients and constant term in Table 1. This curve is very similar to the one produced by Swank. The upturn for larger crew sizes may be accurate, but cannot be substantiated because there are only 12 data points above a crew size of 16. 
+  Any attempt to explain why crew size has the opposite effect of what is expected can be based only on conjecture. This anomaly may be due to some unidentified factor specific to the data set, or it may actually reflect what would be observed for masonry work in general. It is possible that the data for the smaller crew size was collected from piecemeal-type work and 
+Ii 
+0~ 
+\ 	I 	.	.	.	.	.	.	.	 	' 	.	.	.	.	.	.	.	.	 
+"I" 	0.15 
+v 
+"H 	0.1 
+--4 
+U 
+"I 
+"O 0 
+L 	g.g5 i 	i 	i 
+Q. 
+13 
+m U 	i ....................................................i..........................i 	............................! 	  	.. ................... 
+.H 
+"13 	0 I	,	t	~	l	l	l	l	,	;	l	l	l	l	z	~	t	l	l	i	~	 
+W 
+	L 	0 	5 	i0 	15 	20 
+D. 
+Cruw Size 
+	FIG. 2. 	Predicted Productivity Based on Crew-Size Model 
+the data for the larger crew sizes was collected from work that was conducive to high output, such as the exterior walls of a supermarket. 
+Comparison of Actual and Predicted Productivity 
+  A comparison of the actual and predicted cumulative productivity should indicate if the selected model can accurately forecast masonry productivity. The analysis is based on cumulative productivity to determine how the work as a whole is progressing and to forecast the final productivity rate (Thomas and Kramer 1987). Disrupted days are included in the actual productivity. The predicted curves were created by applying the model to the project- related factors that were recorded for each day, as shown in the following example. 
+  Assume that the following conditions were recorded for a particular work day: 
+9 Work type = repetitive-first 
+9 Building element = interior core walls 
+9 Construction method = none 
+9 Design requirement = cutting due to design requirements 
+9 Weather zone = 6 (high temperature, medium humidity) 9 Crew size = 8 
+PDPi = Bo + WTi + BE/ + CMi + DR/ + WZi "t'- C1-CSi -1- C2 9C S~ + C3.CS 3 ............................................. (9) 
+where PDPi = predicted daily productivity for condition set i; B0 = model constant term; WTi = work type coefficient for condition set i; BEi = building element coefficient for condition set i; CM~ = construction method coefficient for condition set i; DRe = design requirement coefficient for condition set i; WZi = weather zone coefficient for condition set i; C1, C2, C3 = crew size terms coefficients; and CSi = crew size for condition set i. PDP = 0.0466 - 0.0112 + 0.0552 + 0 + 0.0284 + 0.0075 
++ (0.0163.8) - (0.00156.82) + (0.000045.83) ................. (10a) PDP = 0.180 WH/ft 2 ....................................... (10b) 
+Days with incomplete data were predicted based on the data that were recorded9 
+  The predicted cumulative productivity does not have to equal the actual productivity. Rather, the predicted curve should parallel the trends seen in the actual curve. That is, the difference between the actual and predicted curves should remain relatively constant. 
+  The predictive results can be summarized in three groupings. Rather than present all comparisons, a representative project from each of the three groups is shown. The first group consists of projects that reflect the expected narrow band in the difference between the predicted and the actual (projects 8601, 8703, 8706, 8707, 8708, 8801, 8802, and 8803). Project 8703 is shown in Fig. 3 and project 8708 in Fig. 4. The majority of the points for each project is within a band width of 10%-15%, which indicates that the changes in the actual productivity are predictable. Most of these projects reach a 
+breakpoint somewhere between 15%-30% complete. Prior to this point, the differences are rather random, which may be due to the problems en- 
+
+
+countered during the early phases of the project, such as layout and initial material supply. Thereafter, the differences settle very quickly into a con- sistent pattern. Productivity is difficult to predict when activities are unset- tled. Productivity can be predicted much more accurately after work patterns 
+are established. 
+  The second group consists only of project 8702 (see Fig, 5). The difference between the actual and predicted productivity fluctuates considerably for most of the project. At about 70% complete, the difference dampens out, and the predicted productivity becomes very close to the actual. The first half of this project was all block work and very good productivity was achieved. The second half was all brick work with only average productivity. 
+  The third group consists of those projects for which the model incorrectly predicts the outcome. Projects 8701 and 8711 are in this group. For project 8711 (see Fig. 6), the predicted curve is almost a mirror image of the actual. This project had, by far, the best productivity of the 11 projects. 
+  The model appears to predict a curve that very closely matches the shape of the actual curve for 8 of the 11 projects, particularly for the last 70%- 85% of the work. The primary difference is in the magnitude of the curves. Table 4 lists the actual, predicted, and predicted/actual cumulative values. Of the 11 predicted values, 7 are within • 10% of the actual values, even without making an adjustment at 20%-30% to account for early variability. The unofficial standard for estimating masonry labor cost is • 5% of the actual. In actuality, many of the estimates probably fall out of this range, because of the many uncertainties involved. In addition, estimators deal only with the total productivity, while this model provides a daily prediction that reflects the changing project conditions. This adaptability gives the model more flexibility to reflect changes in scope or methods. This model 
+ii 
+\ 
+I 	0.25 
+3 
+                                                 i-- A~tUal 	i 31 	0.2 
+44 H -4 	0.15 ............i...........................i.... .....................................  	 	i 
+D 
+4J 0 
+3 
+"o 
+	o 	0.i 
+L n 
+m 
+8.85 
+D 
+	...i.......................i 	.......................i 	 	..............................................!. 	 	.......................i 	....  ..........  
+0 
+	15 	0 	28 	48 	68 	86 	108 
+0 
+Work Day 
+	FIG. 5. 	Actual and Predicted Productivity for Project 8702 
+
+
+the productivity and estimated quantity of work accomplished. This quantity would then be subtracted from the total quantity to determine the amount of work remaining. 
+  At 20%-25% into the project, the forecast could be revised to adjust the predicted curve to what has actually been achieved to that point. This could account for any peculiarities specific to the project, and adjust for the productivity of the masonry crew. The revised forecase should predict the remaining portion of the project very accurately, as seen from the comparisons here. 
+SUMMARY 
+  This is the first labor forecasting model that considers the effects of project-related factors. The model form is responsive to the daily change in construction requirements, environmental factors, crew size, and con- struction methods. 
+  The methodology developed for this model could be used to model other labor-intensive activities. The following tasks, as outlined in a previous publication (Sanders and Thomas 1991) and in this paper, would form the basic steps for creating such a model. 
+  1. Collect data, ensuring standardization of procedures. 
+  2. Convert data to equivalent quantities, if needed. For example, con- version factors were used in creating this model to account for different sizes of masonry units. 
+  3. Identify the project-related factors that significantly affect productiv- ity. 
+  4. Analyze the factors to determine how best to model each individual factor. 
+  5. Determine the form to best integrate all factors in a single model. 
+  6. Evaluate the model to determine accuracy and applicability. 
+  Because of the unique nature of this entire study, there are no standards against which qualities of the model can be measured. Therefore, the eval- uation of the model focuses on four questions: Is it robust? Does it give expected results? Does it reflect the data? Is it useful? The evaluations presented here strongly support affirmative answers to all four questions. 
+  The model statistics demonstrate the strength of the model. The results of the model are very nearly those that would be expected except for weather and crew-size factors. These are areas where there is an obvious dearth of sound research, so the effects shown in the model may be an accurate representation of reality. The reduction of variability seen with the adjusted data shows that the model does reflect the actual data. Predicting the data using the model proves the model to be useful, both in terms of the ease of use and the correctness of the results. The final productivity of seven of the 11 projects were predicted within 10% of the actual productivity using the model. This is noteworthy, given the highly variable nature of the data. 
+RECOMMENDATIONS 
+  Current efforts are under way to collect masonry data from other geo- graphical regions, including some foreign countries. These data should be used to validate the accuracy and efficiency of the model. 
+
+163 
+ J. Constr. Eng. Manage., 1993, 119(1): 163-179 
+
+163 
+ J. Constr. Eng. Manage., 1993, 119(1): 163-179 
+
+163 
+ J. Constr. Eng. Manage., 1993, 119(1): 163-179 
+

@@ -1,0 +1,110 @@
+﻿Implementing Lean Construction: Stabilizing Work Flow1
+GLENN BALLARD
+Department of Civil Engineering, University of California, Berkeley, CA 94720
+GREG HOWELL
+Department of Civil Engineering, University of New Mexico, Albuquerque, NM 87131
+1	IMPLEMENTING LEAN CONSTRUCTION ON FAST TRACK, COMPLEX PROJECTS
+1.1 	Introduction
+Lean construction has at least two foci that distinguish it from traditional construction management. One focus is on waste and the reduction of waste. Breaking from the conversion process model, and reconceiving production processes in terms of Koskela’s flow process model (1) reveals the time and money wasted when materials and information are defective or idle. Instead of simply improving the efficiency of conversion processes, the task is extended to the management of flows between conversions. Consequently, in addition to its focus on waste, lean construction also focuses on managing flows, and to do so, puts management systems and processes into the spotlight along with production processes.
+   Flow management is a much more difficult task on complex, fast track projects such as refineries, chemical plants, food processing plants, paper mills, etc. (2) These projects have long, complicated supply chains, many players, typically are under pressure to hit market windows for product, and are subject to multiple, extensive process design changes motivated by the opportunity to make much more money than is lost through disruption of construction. In this environment, traditional approaches to construction management  fail miserably. The conversion process model conceals everything that needs to be revealed; particularly the design of systems and processes to manage work and work flow.
+1.2 	Implementation Strategy
+This paper proposes a way of implementing lean construction on complex, fast track projects. The first step is to stabilize the work environment by shielding direct production of each component function from upstream variation and uncertainty management has not been able to prevent. Once that shield is installed, it becomes possible to move upstream in front of the shield to reduce inflow variation, and to move downstream behind the shield to improve performance (Figure 1). In the following pages and papers, each of these steps will be explained, with primary emphasis in this presentation on installing the shield.
+
+Figure 1: Stabilize the work environment
+2	TRADITIONAL MANAGEMENT PRACTICES
+2.1 	Traditional Planning
+The construction industry devotes tremendous energy and resources to planning projects and developing the schedules, budgets and other requirements that collectively tell project personnel what they SHOULD do. Project management thereafter monitors and enforces conformance of DID to SHOULD. Planning at the beginning of the project is replaced by control during project execution (Figure 2).
+
+Figure 2: Traditional management practices
+Everything works fine until someone drops the ball, then a chain reaction takes place. A vendor fails to return certified data on time, causing design to slip, leading to a delay in fabrication, and late delivery to the job site. Or, a new process technology emerges late in the game, but offers an opportunity to shave 10% off the cost per unit of product. Or, the market window is advanced to meet an unexpected competitive challenge.
+   As slack disappears from the schedule, more and more pressure is put on everyone in the chain to produce more, faster. This usually makes things worse rather than better. Working hand to mouth and betting on the come results in ever more non-productive time, demoralizes supervision, and directs energy and attention toward getting stuff to work with rather than learning how to do work better and faster.
+   If this traditional approach to planning worked perfectly, DID would always match SHOULD. Indeed, a major E/C contractor’s project management policy includes the following statement:
+"The project management team is responsible for finding methods of meeting the control budgets and schedule rather than justifications for not meeting them."
+This tells project management that there are no legitimate reasons for failing to meet control budgets and schedule. The result is failure to identify and act on reasons why planned work does not get done, and failure to learn and improve. It is assumed that all work and resources can be coordinated by schedules, and that inability to perform to schedule are rare or evidence of lack of commitment.
+2.2	Measuring Match of "Did" with "Should"
+Actual measurement reveals that what actually gets done differs from what is supposed to be done roughly 1/3 of the time. The data shown in Figure 3 are from one of many studies. On 5 construction projects, scheduled activities amounted to 625 during the study period, of which 227 activities were not completed as scheduled. The percentage of planned activities completed was 64%; i.e. the percentage of planned activities not completed was 36%. This kind of data suggests that the lack of fit between what we SHOULD do and what we CAN do is substantial and systemic, and that we must learn how to manage in such conditions (Figure 4).
+   Returning to the chart, note that almost 80% of the misses were due to lack of materials and drawings; i.e. resources provided to the construction phase by design or suppliers. Relying on schedules to coordinate work flow through the process does not have a good track record.
+Average for 5 Projects=36.3% Activities Supervisors Could Not Complete When Planned  
+
+Figure 3: Construction last planner: Comparing ‘should’ with ‘did.’
+
+3	THE LAST PLANNER
+3.1 	Should-Can-Will
+Decisions regarding what work to do in what sequence over what durations using what resources and methods are made at every level of the organization, and occur throughout the life of the project.  Ultimately, some planner produces assignments that direct physical production. This "last planner" (3) is last in the chain because the output of his/her planning process is not a directive for a lower level planning process, but results in production (Figure 4).
+   Stabilizing the work environment begins by learning to make and keep commitments. Last planners can be expected to make commitments (WILL) to doing what SHOULD be done, only to the extent that it CAN be done.  Expressing this as a rule, we might say: Select assignments from workable backlog; i.e. from activities you know can be done.
+   When this rule is not observed, direct workers inherit the uncertainty and variation of work flow we have not prevented. The result is a high percentage of non-productive time and a demotivated work force less and less willing to fight through these obstacles.
+3.2	Quality Characteristics of Weekly Work Plans
+Quality Characteristics of Weekly Work Plans
+* Work is selected in the right sequence
+* The right amount of work is selected
+* The selected work can be done
+In addition to selecting practical assignments, there are two other primary quality characteristics of the commitment level of planning, which I will express here as "weekly work plans" (Figure 5). (1) The right sequence of work is to be selected; i.e. work in the sequence that best moves the project towards its objectives. Sequencing directives are provided by schedules developed to coordinate work flow and production activities. Sequencing decisions can also be made by last planners based on their intimate knowledge of working conditions and constructability issues. As an example, the project schedule may sequence installation of piping by reference to specific areas into which the total project has been divided. Even assuming that fabrication and delivery of piping materials occurs as scheduled, it is usually advantageous to allow the foreman or superintendent some latitude in sequencing the work within an area. When deliveries do not occur on schedule, you may choose to have a piping engineer do the detailed sequencing rather than the foreman, but someone has to make those decisions locally, with intimate knowledge of the work to be done and the conditions in which it is to be done.
+   The second quality characteristic is (2) The "right amount" of work is selected; i.e. that amount of work that uses your labor and equipment capacity as directed by the schedule. An interesting issue here is measuring the productivity and progress that will be achieved if a plan is fully executed; i.e. if all planned activities are completed. By reviewing and signing off on plan quality beforehand, management validates plan quality and can then focus on controlling execution of the plan. Please note that this is how we think now of the entire project, but our attempts to control against SHOULD disregard the mismatch between SHOULD and CAN, which vitiates management control.
+
+Figure 5: Developing a weekly work plan
+3.3 	Shielding Production
+The planning system needs additional levels in order to better manage uncertainty and complexity. The first level to be added is the level of Last Planner commitment, the implementation of which shields the direct work force from upstream variation and uncertainty (Figure 6).
+   Shielding occurs in part simply from selecting only assignments that can be successfully completed, assignments for which all materials are on hand and all prerequisite work is complete. But in order to be able to select assignments from workable backlog, we need a process for forming backlog. And in order to avoid a mismatch between labor force and work flow, we need some way of matching labor and labor-related resources (tools, construction equipment, temporary facilities, etc) to the work flow into backlog. Lastly, in order to perfect the shield, we must measure the degree of fit between DID (completed work) and WILL (weekly work plan), identify the root causes of failures to complete planned work, and eliminate those causes to prevent repetitions.
+
+Figure 6: Results-oriented control
+4	MEASURING AND IMPROVING PERFORMANCE
+4.1 	Measuring Project Performance
+The second level to be added to the planning system is devoted to adjusting SHOULD to better match CAN and WILL. That will be discussed in a subsequent paper on reducing in-flow variation. Attend now to the issue of measuring and improving performance. As explained earlier, we focus measurement on results and compare actual to desired results to see if we are on track to achieve project objectives. This results-oriented control is intended to reveal problems so they can be solved, thus keeping the project on track. In fact, this approach to control is too abstract to identify what needs to be changed in order to improve (Figure 6).
+4.2 	Measuring System Performance
+To determine where to intervene, it is necessary to focus measurement and control on system components or levels. In the case of planning systems, that means measuring the match between output and directives at each level and understanding the root causes of mismatches. The match of WILL and DID is measured by Percent Plan Complete (4). The match of ADJUSTED SHOULD and WILL can also be measured and improved, as can the match of SHOULD and ADJUSTED SHOULD (Figure 7).
+
+Figure 7: Focusing control on system components
+4.3 	Improving PPC
+The starting point for improvement in planning is measuring the percentage of planned activities completed (PPC), identifying reasons for non-completion, and tracing reasons back to root causes that can be eliminated to prevent repetitions (Figure 8).
+   Measuring PPC allows us to distinguish between failures rooted in plan quality and failures to execute plans. Currently that distinction cannot be made because the quality characteristics of plans are not made explicit, and it is assumed that all failures are execution failures. Our findings suggest that the vast majority of failures to complete planned work are rooted in the quality of plans. Consequently, planning system performance at the commitment (WILL) level can be improved by such actions as educating planners, improving the supply or quality of planning information, clarifying or modifying directives, etc.
+PERCENT PLAN COMPLETE
+
+(Weeks)
+Figure 8: Measuring percent planned complete
+5	BENEFITS OF STABILIZING THE WORK ENVIRONMENT
+5.1 	Benefits of Shielding
+Shielding direct workers from upstream variation and uncertainty has tremendous benefits, not least of which is injecting certainty and honesty into the work environment, as opposed to unreliability and dishonesty. We do what we say we are going to do, at least week by week. Our suppliers do the same. Others can count on us. We can count on others. There is no blind pressure for production, and there is a commitment to learning and improving, so there is no reason to conceal the facts and every reason to reveal them.
+   Shielding promotes accountability because expectations can be met, and failures to meet expectations can be understood and acted upon.
+   Control improves because we have the facts about causes and capabilities, and can easily see the quality of planning and execution at the foreman and crew level.
+   The reduction in system noise facilitates performance improvement. Confusion and ambiguity are minimized. We know what numbers mean.
+   Non-productive time falls. Less paid labor time is spent waiting on or hunting for something to work with, or moving to alternative work.
+   Especially front line supervisors feel as though a burden was removed from their shoulders. Not having to explain away performance results over which they have no control, not having to spend time trying to keep their people busy-this releases time and  energy for improving performance.
+5.2 	PPC and Productivity
+An indication of the benefits to be achieved by stabilizing work flow is shown on Figure 9. On one major industrial project, piping foremen were divided into two groups: 1) those whose PPC was below 50% and 2) those whose PPC was above 50%. The productivity of the second group was 30 points higher than the first group. In other words, if the first group was performing at 15% over budget, the second group was performing at 15% under budget.
+
+ 	FOREMEN
+Figure 9: PPC and Productivity
+6	SUMMARY
+As currently designed, planning systems do not shield direct production from upstream variation and uncertainty. The result is longer durations and higher costs. To reduce project duration and costs, direct production must first be shielded by the introduction of a near-term, commitment level of planning,  with explicit plan quality characteristics.
+   In addition, processes must be installed to identify workable backlog, to match labor to work flow into backlog, and to measure and improve the match of DID and WILL.
+   Stabilizing the work environment through the implementation of these planning processes results in substantial performance improvement (e.g. 30% improvement in productivity) and creates the conditions for even more substantial improvement.
+   The next steps are to move upstream to reduce in-flow variation, and to move downstream to improve performance behind the shield.
+REFERENCES
+Glenn Ballard. "Lean Construction and EPC Performance Improvement." Lean Construction Workshop, Espoo, Finland. August, 1993.
+Glenn Ballard. ""The Last Planner." Northern California Construction Institute, Monterey, California. April 22-24, 1994.
+Glenn Ballard, Greg Howell and Saied Kartam. "Redesigning Job Site Planning Systems" Proceedings American Society of Civil Engineers Conference on Computing in Construction, Washington, D.C. June, 1994.
+Lauri Koskela. "Application of the New Production Theory to Construction." Technical Report #72, Center for Integrated Facilities Engineering, Stanford University. May, 1992.
+1 Presented at the 2nd Annual Conference on Lean Construction at Catolica Universidad de Chile Santiago, Chile September 1994
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+This paper appeared in a slightly different format on pages 101-110 in Alarcon, L. (ed.)(1997). Lean Construction. A.A. Balkema, Rotterdam, The Netherlands, 497 pp. Reprinted with permission from A.A.
+Balkema. Made available on the Lean Construction Institute’s web site http://www.leanconstruction.org.
+
+This paper appeared in a slightly different format on pages 101-110 in Alarcon, L. (ed.)(1997). Lean Construction. A.A. Balkema, Rotterdam, The Netherlands, 497 pp. Reprinted with permission from A.A.
+Balkema. Made available on the Lean Construction Institute’s web site http://www.leanconstruction.org.
+
+1
+
+1
+
+This paper appeared in a slightly different format on pages 101-110 in Alarcon, L. (ed.)(1997). Lean Construction. A.A. Balkema, Rotterdam, The Netherlands, 497 pp. Reprinted with permission from A.A.
+Balkema. Made available on the Lean Construction Institute’s web site http://www.leanconstruction.org.
+
+1
+

@@ -1,0 +1,644 @@
+﻿Construction Management and Economics, 1992, 10, 117—135
+Contractor prequalification data for construction owners
+JEFFREY S. RUSSELL I , DONN E. HANCHER 2 and
+MIROSLAW J. SKIBNIEWSKI
+I Department of Civil and Environmental Engineering, University of Wisconsin-Madison, Madison, WI 53706, USA, 2 Civil Engineering Department, Texas A & M University, College Station, TX 77843, USA and 3School of
+Civil Engineering, Purdue University, West Lafayette, IN 47907, USA
+In this paper, an industry evaluation of the perceived impact of various decision factors and subfactors on the contractor prequalification decision-making process has been conducted and the results are presented herein. The three organization types participating in the study were public owners, private owners, and construction managers. An analysis ofthe mean impact responses by organization type has been performed. An analysis of the correlation coefficients among the questionnaire items has also been completed. The mean impact responses of the various organization types were evaluated for statistical significance. The results indicate a significant statistical difference in the value of the perceived impact among public owners when compared to private owners or construction managers, while private owners and construction managers responded similarly. These results provide documented evidence of organizational similarities and differences that are, in some cases, intuitively perceived to exist. A sumary of the study results is also highlighted.
+Keywords: Decision-making, contractor prequalification, contractor qualification, construction contracts, owners
+Introduction
+From the inception of a construction project, an owner must make numerous decisions which may result in the success or failure of the entire project. The task of selecting the appropriate bidders for a particular project is one such decision. It is one of the most challenging tasks performed by an owner or contract administrator. Every construction project faces adversity and uncertainty which must be overcome. No matter how meticulous the development of the contract, poor selection of the contractor(s) to execute the work will magnify the problems encountered on the project. Therefore, it is of paramount importance that contractor prequalification be performed prior to the bidding process. A prequalified contractor should be competent and able to execute the assigned project in accordance with all project requirements.
+  Prequalification is a process ofdetermining a candidate's competence or ability to meet the specific requirements for a task. In the construction industry, prequalifying a contractor involves a screening procedure based on a set of critieria set forth by each individual owner. The domain of contractor prequalification has recevied a minimal amount of research attention in the past. A brief review of the process was presented by the Business Roundtable (1982). Based on 32 interviews with industry professionals experienced in prequalification, it was revealed that one reason for the lack of attention in contractor prequalification is a result
+0144-6193/92 C 1992 E. & F.N. spon
+Coovriaht 
+of owner neglect. Owners tend to rely on surety companies who bond contractors also to prequalify them. Therefore, many owners have not developed their own well-structured, formalized process to prequalify contractors.
+  Another reason identified in these interviews for the lack of attention to prequalification is that owners do not feel that prequalifying contractors is important enough to warrant the expenditure. However, owners may be subjecting themselves to the risk of admitting contractors with inadequate ability, capacity, and experience into the bidding process.
+  The purpose of this paper is to present the results of an industry evaluation of the perceived impact of various decision factors and subfactors on contractor prequalification decisionmaking. A diversified group of decision makers who perform contractor prequalification participated in the study, and statistical evaluation of the results indicate differences in the individual views of the decision factors. An analysis of the mean impact responses by organization type has been performed on the collected data. Secondly, an analysis of the relationships among the questionnaire items has been performed. Thirdly, a statistical technique applied to these data compares how the respondents of the participating groups responded.
+  The major benefits of this systematic study is a documented identification of the impact that various decision parameters have on contractor prequalification decision-making, plus development of a basis for a knowledge base for a contractor prequalification decision support system.
+Research methodology
+A sample of 344 construction professionals was compiled from various listings of professional organizations and from professional contacts of the authors. Each individual was mailed a questionnaire to complete. A total of 192 questionnaires were returned which represents an overall return rate of 56%. Of the questionnaires returned, 173 were completed and this represents a response rate of 50.3% in terms of useable data. The balance of the sample (19 respondents or approximately 10%) indicated that they currently do not prequalify contractors. All of the respondents who indicated that they do not perform prequalification were public owners — 10 state departments of transportation, and nine other governmental agencies.
+  Less important supporting statistical analyses and results have been excluded in order to preserve the readability of this paper. The authors can provide a more complete listing of these items upon request. The questionnaire requested three types of data input: (1) respondent classification (i.e. organization type); (2) rating of the impact of major decision factors; and (3) rating of the impact of subfactors utilized in prequalification decision making. The format, structure, decision factors and subfactors used in this questionnaire were based upon eight personal and 24 telephone interviews with construction professionals who currently perform prequalification (Russell and Skibniewski, 1988).
+  The first part of the questionnaire (respondent classification) included the type of organization represented, the type of construction activity typically involved, the type of contracting strategy typically used on projects, and the annual volume of construction.
+  The second part of the questionnaire contained 20 decision factors relevant to contractor prequalification. These decision factors are listed by name in Appendix I. A decision factor can be defined as a criterion which could be used to evaluate candidate contractors. The
+onry All
+decision factors actually selected in practice are based on the decision makers' characteristics and needs and are considered significant when performing an evaluation of a candidate contractor. The decision factors were presented so that an individual could describe how much each decision factor impacts their decision process on a Likert type scale from 0 to 4. The response alternatives ranged from 0 (little or no impact) to 2 (moderate impact) to 4 (high impact).
+  The third part of the questionnaire contained 67 decision subfactors which can be used to characterize further the presented decision factors. For the actual name of each subfactor see Appendix I. A decision subfactor can be defined as an item that could be used to facilitate a more refined decision associated with a major decision factor. An example of this structure can be found in Appendix I.
+Characterization of sample
+A summary of the types of organizations represented by the survey respondents appear in Table 1. The respondents categorized as public owners returned the most questionnaires (78) and had the highest response rate of 79%. The private owners returned 72 questionnaires (response rate of 41 and the construction managers returned 42 questionnaires (a response rate of 60%).
+Table 1. Characterization of sample
+Organization
+type
+(1)Survey source
+(2)Total number of questionnaires distributed
+(3) Number of questionnaires returned
+(4)Percentage of questionnaires returned
+(5)Public owners
+Private owners
+Construction managersState Depts. Transp.
+Other Govn. Agencies
+Subtotal
+Industrial
+Retail Dev.
+Diversified Dev. Health Care
+Subtotal
+ENR Top 75 CM'86
+Subtotal51
+48
+99
+60
+30
+75
+10
+175
+70
+7044
+34
+78
+30
+10
+29
+3
+72
+42
+4286
+71
+79
+50
+33
+39
+30
+41
+60
+60Total sample34419256  The results of the first part of the questionnaire, respondent classification, indicated 52% (100) of the respondents were engaged in general building construction followed by 23% (44) in highway construction, and 18% (34) in industrial construction. Fourteen respondents did not note their construction type or had indicated mixed construction types. The respondent
+Copvriqht 
+had to be engaged in at least 80% of their construction activity to be classified in a given construction type category. Of the total sample, 39% (74) typically use a lump sum competitive bid contract strategy followed by unit price 23% (44), negotiated 11% (22), design/build 4% (7), and construction management 2% (3). Twenty-one per cent (41) were not noted or had mixed contract types. The respondents had to be engaged in at least 80% of a particular contract type in order to be classified within a given contract type.
+  The organization type with the largest average annual construction volume represented in the survey was construction managers at $447 million with a standard deviation of $715 million and a range of $50 to 4000 million. The average construction volume for public owners was $350 million with a standard deviation of $461 million and a range of $20 to 3000 million. The average volume for private owners was $223 million with a standard deviation of $347 million and a range of $10 to 2000 million. The largest average annual volume by construction type represented in the survey was highway construction at $355 million, followed by industrial construction at $317 million, and general building construction at $266 million.
+Statistical analyses
+A statistical computer package (SAS, 1985) was used to analyse the questionnaire response data. The mean impact for the various groups participating in the study for each decision factor and subfactor was determined. An analysis of the mean impacts was applied to the grouped data. The relationships between questionnaire items for each group using the Spearman Rank Correlation Coemcients was performed. Comparisons were performed on the grouped data to determine similarities and differences among the groups at a specified statistical level of significance. In the subsequent sections, each analysis technique is described along with their results. A summary of these statistical analyses results are also highlighted.
+Highest rated impact items
+The mean impact for each questionnaire item was calculated for public owners, private owners, and construction managers and is presented in Appendix I. For analysis and the sake of readability, the 10 questionnaire items with the largest and smallest mean impact are presented. Table 2 presents the 10 questionnaire items that had the highest mean impact ranked in decreasing order for each group.
+  The major decision factors indicated by all groups include: 'financial stability', 'experience', and 'past performance'. Thus, it can be concluded that these three criteria are important and should be applied when performing contractor prequalification in practice. In further comparison of the three groups it is interesting to note their commonalities. For example, public owners and construction managers indicated 'contractor has failed to complete a contract' as important while public and private owners indicated 'quality performance' as important. Although the item 'contractor has failed to complete a contract' was not in the top 10 for the private owner group, it received a mean impact of 3.56 and is viewed as being significant. 'Quality performance' is not present in the top 10 questionnaire items for construction managers; but, its mean impact is 3.48 and can be viewed as having a high impact on prequalification decision-making.
+Table 2. Rank order of the 10 questionnaire items with the largest mean impact values (F = Factor, SF= Subfactor)
+Questionnaire item
+(1)Mean response
+(2)(a) Public ownersFinancial stability (F)
+Contractor has failed to complete a contract (F) Experience (F)
+Success of completed projects (SF)
+Past performance (F)
+Number of failures to complete a contract (SF) Financial statement (SF)
+Actual quality acheived (SF)
+Quality performance (F)
+Key personnel experience including number of years in construction and projects worked on (SF)3.42
+3.39
+3.29
+3.29
+3.27
+3.27
+3.04
+3.01
+3.01(b) Private ownersExperience (F)
+Success of completed projects (SF)
+Number of failures to complete a contract (F)
+Financial stability (F)
+Track record — schedule (SF)
+Schedule performance (SF)
+Actual schedule achieved (SF)
+Quality performance (F) Past performance (F)
+Track record cost (SF)3.81
+3.78
+3.75
+3.71
+3.66
+3.65
+3.62
+3.58
+3.57
+3.57(c) Construction managersSuccess of completed projects (SF)
+Experience (F)
+Past performance (F)
+Number of failures to complete a contract (SF) Contractor has failed to complete a contract (F)
+Schedule performance (SF)
+Actual quality achieved (SF)
+Actual schedule achieved (SF)
+Willingness to resolve conflicts and problems (SF) Financial stability (F)3.80
+3.75
+3.75
+3.75
+3.69
+3.64
+3.59
+3.59
+3.54
+3.52a Rating scale used was 4=High Impact, 	Moderate Impact, 	Little/No Impact.
+  The decision subfactors indicated as important by all groups are 'success of completed projects' and 'number of failures to complete a project'. Therefore, all groups indicated a questionnaire item related to past failures to complete a contract as an important item in prequalification decision-making. Public owners indicated two quality-related subfactors equally important i.e. 'actual quality achieved' and 'quality performance', while private
+Co ri ht 
+owners considered 'quality performance', and construction managers considered 'actual quality achieved' as important. Quality of the construction work performed can be viewed as an item of concern for all groups.
+  A contractor's performance regarding construction scheduling is considered very important by both private owners and construction managers. Private owners indicated three subfactors, 'track record-schedules', 'schedule performance', and 'actual schedule achieved' to have mean impacts of 3.66, 3.65 and 3.62, respectively. A possible explanation for this may be in the fact that 58% of the sample which constitutes the private owner group can be further classified as private developers. Entities that engage in these types of projects are placed under tremendous pressure to meet scheduled completion dates. Construction managers indicated 'schedule performance' and 'actual schedule achieved' as important. No schedule related subfactors appear in the public owners' top 10 items of importance.
+  Subfactors appearing only in the public owners category as top 10 most important are 'financial statement' and 'key personnel experience, including number of years in construction and projects worked on'. A possible explanation into why these two questionnaire items have a high rating is provided below.
+  The state departments of transportation represented approximately 58% of the respondents for the public owner group. In many instances, state departments of transportation use a formula to determine the 'maximum financial capabiltities' of a contractor in the prequalification process. These formulae, which have been developed on an ad hoc basis, can have a variety of forms. For example some formulas incorporate the contractor's net current assets value multiplied by a constant coeffcient (e.g. 10). Others use net current assets less net current liabilities multiplied by a coemcient. Some use net worth multiplied by a coemcient, while others use total net current assets less current liabilities plus one-half of noncurrent assets less noncurrent liabilities. Therefore, the formula requires a financial statement from the applicant in order to determine his 'maximum financial capabilties'. This financially-based value is then often modified i.e. reduced by other items which are perceived to impact it. Items such as organization strength and key personnel experience are typically used.
+  Private owners are the only group to have 'track record-cost and schedule', to appear in the top 10 questionnaire items. This result reflects the emphasis placed by a private owner on achieving their internal project objectives. The most significant objectives are to construct the facility within a certain cost value and to meet a specific scheduled completion date in order to begin generating revenue from the facility. Construction managers consider 'willingness to resolve conflicts and problems' as very important. A possible explanation for this may be the fact that the one function of a construction manager is to manage the construction of the project. A contractor willing to work with a construction manager on problems (e.g. error(s) and or omissions contained in the drawings and specifications) which occur on the jobsite makes their job easier.
+Lowest rated impact items
+In contrast, Table 3 presents the 10 questionnaire items that had the lowest mean impact ranked in ascending order for each group. The only major decision factor agreed upon as having a small impact by all three groups was 'substance abuse policy'. Public owners considered 'location of home omce' and 'experience in geographic location of the project' as having a small impact. This is surprising to the authors since there is pressure exerted by state constituents to have local in-state contractors perform the work within their state.
+Table 3. Rank order of the 10 questionnaire items with the lowest mean impact values (F = Factor, SF = Subfactor)
+Questionnaire item
+(1)Mean response
+(2)(a) Public ownersWhether the contractor is closed or open shop (SF)
+Location of home offce (F)
+Type of ownership (SF)
+Home offce location relative to job site location (SF)
+Substance abuse policy (F)
+Contractor's familiarity with local politics (SF)
+Contractor's familiarity with weather conditions (SF)
+Information from OSHA Log 200 accident reports (SF)
+Contractor's faithfulness in conducting tool box meetings (SF)
+Experience in geographic location of project (F)0.60a
+0.71
+0.83
+0.83
+0.91
+0.91
+1.05
+1.06
+1.10
+1.11(b) Private ownersType of ownership (SF)
+Substance abuse policy (F)
+Equipment resources (F)
+Size of equipment (SF)
+Type of equipment (SF)
+Information from OSHA Log 200 accident reports (SF) Employment trends and fluctuations (SF)
+Employment averaged over last 3 years (SF)
+Amount of work performed with own forces (F)
+Whether the contractor is closed or open shop (SF)1.72
+1.74
+1.85
+1.88
+1.95
+1.97
+2.04
+2.05
+2.09
+2.13(c) Construction managersType of ownership (SF) Location of home omce (F)
+Substance abuse policy (F)
+Home offce location relative to job site location (SF)
+Employment trends and fluctuations (SF)
+Employment averaged over the last 3 years (SF) Equipment resources (F)
+This year's employment (SF)
+Size of equipment (SF)
+Type of equipment (SF)1.46
+1.53
+1.78
+1.80
+1.88
+1.97
+2.02
+2.09
+2.12
+2.24a Rating scale used was 	High Impact, 	Moderate Impact, Little/No Impact.
+  Private owners considered 'equipment resources' and 'amount of work performed with own forces', while construction managers consider 'location of home omce' and 'equipment resources' to be moderately unimportant. Comments made on the questionnaire regarding 'equipment resources' stated that due to a large amount of equipment available on rental or
+Co ri ht 
+leasing arrangements, this item was not of major concern in prequalification. However, if a very specialized piece of equipment is necessary to execute the work, this item can be of high importance.
+  The only decision subfactor which the three groups unanimously determined to have a small impact was 'type of ownership'. A more thorough comparison of the groups' mean impacts revealed other commonalities. Public and private owners considered 'whether a contractor is closed or open shop' and 'information from OSHA Log 200 accident reports' as having a low priority in the decision process. From the perspective of the public owner, 'whether a contractor is closed or open shop' is not an issue.
+  From the perspective of the private owner, the impact of 'whether a contractor is closed or open shop' on the prequalification decision depends on the size of the project, geographic location of the project, and the type of facility under construction (e.g. industrial, general building). For example, a large construction project located in downtown Chicago, Illinois, will probably employ a unionized labour force due to the strength of unionized labour within this geographic location.
+  Public owners and construction managers considered 'home omce location relative to job site location' of low importance, which is consistent with the responses on the decision factor 'location of home omce'. Private owners and construction managers concurred on 'employment trends and fluctuations', 'employment averaged over last 3 years', 'size of equipment', and 'amount of equipment' as having low importance. Subfactors that appear in one group only are: public owners — 'contractor's familiarity with local politics', 'contractor's familiarity with weather conditions', and 'contractor's faithfulness in conducting tool box meetings'; and construction managers 'this year's employment'.
+  Another questionnaire item having low mean impact and thus not listed in Table 3 is 'safety performance'. Public owners, private owners, and construction managers mean impact responses were 1.86, 2.60 and 2.63, respectively. These mean impacts represent responses of just below moderate impact to just above moderate impact in the contractor prequalification decision making. The decision subfactors which were used to characterize the decision factor 'safety performance' included:
+1. Existence of contractor safety programme and director;
+2. Contractor's experience modification rate (EM R) for the last 3 years;
+3. Information of OSHA Log 200 Accident Reports;
+4. Apparent management awareness of safety issues in contractor's organization;
+5. Contractor's faithfulness in conducting tool box meetings.
+  Each of these subfactors was rated between 'just above moderate impact' to 'well below moderate impact'. Therefore, based on these results it does not appear that 'safety performance' is given a high priority in contractor prequalification. This conclusion is further substantiated by the fact that numerous respondents indicated on the questionnaire that they were unsure of what the OSHA Log 200 Accident Report and the contractor's experience modification rate (EMR) stood for. Consequently, based on this sample of respondents, it appears that even after the extensive study performed by the Business Roundtable (1982) which found a high cost associated with poor contractor safety performance, it is still not regarded as a high priority when prequalifying contractors.
+  Public owners rated 'bonding capacity' as slightly above moderate impact which equates to a mean impact of 2.73. In public works projects, whether a contractor can obtain a bond
+
+for the project in many instances determines whether he will be permitted to bid the project. The Miller Act (1935) requires a contractor to provide both a performance and payment bond on federally funded projects to protect the United States as well as those individuals providing labour and material to the project (Clough, 1981 ). Several states have also adopted similar legislation for state funded projects (Clough, 1981 ). Numerous respondents classified as public owners who did not complete the questionnaire commented that is was the only criterion used to prequalify contractors. This somewhat low rating could mean that public owners do not believe that bonding capacity alone is sumcient grounds to successfully prequalify contractors (i.e. preventing a contractor from defaulting).
+  A frequency distribution of the mean impact for all questionnaire items by owner group was determined. Of the mean impacts, 93% are greater than 2.00 (moderate impact) for both the private owner and construction manager. Sixty per cent of the mean impacts fall within the range of 2.00 to 4.00 for the public owner. This analysis supports the conclusion derived from Tables 2 and 3, that public owners' view the decision factors and subfactors as having less impact on the contractor prequalification decision process.
+  The results of this systematic analysis provide an insight into which decision factors and subfactors have a high or low impact on the decision-making process of each group. A comparison of the various owner group responses can aid in providing a better understanding of the decision-making environment in which each owner group functions.
+Relationships between questionnaire items
+The relationships between the questionnaire items were determined by calculating the Spearman Rank Correlation Coemcients (SRCC) for each group participating in the study. The SRCC is a measure of association between two variables. The value of SRCC ranges from — 1 to +1 ('1' indicates a perfect association between two items). A positive SRCC value represents identical rankings and a negative value represents identical reverse rankings. A theoretical description of this technique is presented in (Walpole and Myers, 1978).
+  Correlation coemcients for the questionnaire items by owner type are presented in Table 4. The items which are statistically significant at a 0.01 level or less are indicated. The level of significance can be interpreted as a measurement of the strength that a relationship does exist between the questionnaire items. For the sake of clarity and brevity, only the first 10 variables are shown. A complete listing of the correlation coemcients is available in Russell (1988).
+  As shown, 'financial stability' was strongly associated with 'experience' for the public owner. A relationship among 'capacity of firm', 'financial stability', 'experience', and 'past performance' was also revealed. 'Current workload' was associated with such items as 'financial stability', 'capacity of firm', and 'staff available'. For private owners 'past performance' was related to 'references' possibly indicating that the past performance of an organization is obtained by contacting his references. 'Financial stability' has a small degree of association with 'experience' for the construction managers.
+  An assertion was made based on a preliminary study that some of the listed decision factors can be characterized by related subfactors. These factors were presented in that format to the respondents of the questionnaire. To determine the relationship's among decision factors and their subfactors, the SRCC values for each owner group were calculated
+
+and are presented in Appendix Il. As shown, many of the decision factors have significant relationships with their decision subfactors.
+  For the public owners, the decision factor 'financial stability' was associated only with 'financial statement'. Almost all other decision factors were strongly related to the decision subfactors with exception to 'company organization.'
+  The private owners had a moderate relationship between 'financial stability' and a contractors 'financial statement'. No 'experience' subfactors were reported as statistically significant. 'References' was strongly associated with the 'review of reputation and ethics of a contractor' as was 'past performance' and 'actual quality achieved'. 'Capacity of firm' had no association with its corresponding subfactors. 'Project controls' had a weak relationship with 'type of safety programme' and 'previous experience with these procedures'. 'Geographic location of project' is moderately associated with 'market conditions of geographic area'. Perhaps the owner is concerned with the number of bidders possible for their project. Thus, if the market cannot provide the required services, a relaxation of the prequalification requirements and/or a different execution strategy (i.e. contract type) may have to be adopted by the owner. 'Company organization' had an association with 'appropriateness of company organizational structure'.
+  Construction managers had a statistically significant relationship between 'financial stability' and 'bonding capacity'. Although the magnitude of this relationship is low, perhaps this means that the construction manager relies on the bonding company to establish a financial stability. Similar to the private owners, the association among 'experience' and its subfactors was not statistically significant. 'References' was strongly related to 'review of reputation and ethics of contractor' and 'number of times claims have gone to litigation'. 'Schedule performance' was also statistically significant. 'Actual schedule achieved' was related to 'past performance'. Perhaps this suggests that when a construction manager evaluates a contractor's references, past performance regarding adherence to the schedule is of concern. 'Safety' and 'equipment resources' factors are strongly associated with all their subfactors.
+Differences in organization types
+The results presented in a previous section indicate that, in most instances, the public owners' view of the questionnaire items is different than that of the private owners' or construction managers'. In order to investigate this hypothesis further, a statistical test (Kruskal—Wallis) was performed on the group data to determine if the mean impacts are statistically the same at a specified alpha level. A description of this statistical test can be found in Conover (1980).
+  The Kruskal—Wallis test is an alternative nonparametric procedure used to determine whether equality of means exists among different populations. This test does not require the samples to be taken from normal populations and was selected for this reason. The null hypothesis tested can be stated as the following: the mean impact for each given questionnaire item are the same for the organization types participating in the study. The null hypothesis was tested against the alternative that some of the populations tend to furnish greater observed values than others and thus do not have the same means.
+  Several comparisons of the mean impacts of the various groups were performed for all questionnaire items including decision factors and subfactors. All three groups were tested to see if there were any differences detected. Pairwise comparisons were used to identify which
+specific differences were responsible. The level of significance used to perform the test for all groups was 0.05. A significance level of 0.017 was used for the pairwise comparisons so that the overall level of significance would be 0.05. The level of significance can be considered as a measurement of the strength ofevidence that a difference exists when making a statistical test. The results are presented in Appendix I. The questionnaire items for which the mean impact is different statistically are indicated by a superscript in the presented appendix.
+  A comparison of the mean impact responses for all three groups for each questionnaire item revealed that a majority of questionnaire items (73) were statistically different at the 0.05 confidence level. Items such as 'financial stability', 'company organization', 'amount of work performed with own forces', among others were not statistically different. However, when comparing the mean impact of public and private owners, 18 questionnaire items were found not to be statistically different including 'financial stability', 'past performance', 'bonding capacity', and 'financial statement' among others. The other 69 questionnaire items have a significantly different perceived impact on prequalification decision making.
+  There are few questionnaire items (4) where private owners and construction managers perceived impact was statistically different. They include 'location of home omce', 'financial statement', 'existence of contractor safety programme and director' and 'information from OSHA Log 200 Accident Report'. The items related to safety were rated considerably higher by the construction managers. A comparison between public owners and construction managers was also performed. Twenty-five questionnaire items were not statistically different while the other 62 were.
+  The results imply that the public owners have a different opinion on the impact of the questionnaire items on the prequalification decision-making process than the other two groups. This may be explained by two conditions controlling public owners. One, the two groups have different project objectives both internal and external when considering the construction of a facility (see Russell and Skibniewski, 1988). Furthermore, the priority of each objective is different. Secondly, the decision-making environment in which the public owners function is constrained by numerous factors and limitations (e.g. legislation, political pressures, etc.). Many private owners and construction managers operate in similar unconstrained decision-making environments and are exposed to similar economic pressures. However, with public owners using construction management services the construction manager's decision-making environment is not as unconstrained as when operating outside the direction of the public owner.
+Summary and conclusions
+Data has been collected from experienced prequalification officials regarding the perceived impact of various decision factors on contractor prequalification decision making. These data were evaluated by several quantitative analysis techniques. This study represents a reference point for future research on this complex problem.
+  The results presented provide insight into how decision makers view their decision factors in contractor prequalification. This can aid owners in reviewing their current prequalification procedures and provide them with suggestions for changes. The results can also be used in the process of developing new prequalification procedures by less experienced owners.
+It was concluded that public and private owners viewed the contractor prequalification decision factors differently while private owners and construction managers viewed them similarly.
+  Based on the results obtained from this research, the authors have identified key decision variables relevant for a generic contractor prequalification knowledge base. Variables such as financial stability, past performance (including cost, quality, schedule) experience, and key personnel availability and experience should be incorporated in such a knowledge base.
+  Subsequent interviews with domain experts are necessary to further identify, formalize and structure prequalification knowledge in the form of customized decision rules to develop the envisioned system.
+Acknowledgements
+This material is based upon work partially supported by the US Army Construction Engineering Research Laboratory (USA-CERL) Grant No. DAC88-87-Q-0499. Any conclusions presented in this manuscript are those of the writers and not of USA-CERL. The authors wish to thank the numerous industry participants because this endeavour would not have been possible without their support and contributions. Also, the authors would like to thank Professors Anirban Dasgupta and Thomas Kuczek of the Purdue University Department of Statistics for their valuable comments.
+References
+Clough, R.H. (1981). Construction Contracting (4th edn.) Wiley, New York, pp. 348—9.
+Conover, W.J. (1980). Practical Nonparametric Statistics, (2nd edn.) Wiley, New York, pp. 256-62.
+The Business Roundtable (1982a). Contractual arrangements Report A-7, Construction Industry Cost Effectiveness Report, The Business Roundtable, New York, pp. 19—20.
+The Business Roundtable (1982b). Improving construction safety performance Report A-3, Construction Industry Cost Effectiveness Report, The Business Roundtable, New York, pp. 3—4.
+Russell, J. (1988). A Knowledge-Based System Approach to the Contractor Prequalification Process, thesis presented to Purdue University, West Lafayette, Indiana, in partial fulfilment of the requirements for the degree of Doctor of Philosophy.
+Russell, J. and Skibniewski, M. (1988). Decision criteria in contractor prequalification Journal of Management in Engineering, ASCE, 4, 148—64.
+SAS Institute Inc. (1985). SAS User's Guide: Statistics (Version 5 Edition), Chapters 17, 26, Cary, NC. Walpole, R.E. and Myers, R.H. (1978) Probability and Statisticsfor Engineers and Scientists (2nd edn.) Macmillan, New York, pp. 492—5.
+Appendix I
+Comparison of questionnaire items mean impacts across organization types
+Questionnaire item name
+(1)Public ownersPrivate owners
+(3)Construction managers
+(4)Major factors
+Financial stability3.52eExperience3.39abdab3.75üdReferences2.34abd2.88ab3.19adPast performance3.26ad3.57"3.75adCapacity of firm2.69ab3.1 8ab3.09aCurrent work load2.26abd2.8 sadProject control procedures2.25"bd3.02ab2.82adStaff available2.35abd3.21 ab3.19adLocation of home office0.71abdExperience in geographic location of project1.1 l abd2.88ab2.6ydSafety performanceI .86abd2.60ab2.63"dSubstance abuse policy0.911 74ab1.78adProject management capabilities2.65""3.36ab3.07"Quality performance3.48u
+Manpower resources (labour)2.80üd
+Company organization2.36
+Amount of work performed with own forces2.24 Contractor has failed to complete a contract3.56 3.69 Equipment resources 2.43ab 1 85ab
+Bonding capacity2.732.693.14SubfactorsFinancial stabilityCredit rating
+Banking arrangements
+Bonding capacity
+Financial statement2.05abd I .soabd
+2.85
+3.27ad3.16ab
+2.45ab
+3.00
+3.30ac2.47ad
+3.45
+2.92acdExperienceSuccess of completed projects
+Size of completed projects
+Number of similar completed projects
+Types of projects completed3.29abd
+2.883.78ab
+3.22
+3 23ah
+2.973.80ad
+3.16
+3.40ad
+3.02Information obtained from referencesReview of reputation and ethics of contractor
+Willingness to resolve conflicts and problems
+Change orders frequency
+Schedule performance
+Number of times claims have gone to litigation2.52abd
+.88abd
+2.83abd
+I .89 abd3.45""
+2.98ab
+3.65ah
+2.98ah3.42"d
+3.54ad
+2.92ad
+3.64"d
+3 .ooadPast performanceActual quality achieved (within specifications)	3.04abd
+Actual schedule achieved	2.98abd
+Number of times contractor has met cost, quality and	2.55ahd schedule3.55ab
+3.62ab
+3.52ab3.59ad
+3.59ad
+3.35"d2.97ad
+3.46ad
+
+Questionnaire item name
+(1)Public owners
+(2)Private owners
+(3)Construction managers
+(4)Capacity of firmLast year's construction volume in $
+Construction volume $ averaged over the last 3 years
+Current backlog of work $
+% of current backlog that an additional job represents
+This year's employment (number of people)
+Employment averaged over the last 3 years
+Employment trends and fluctuations
+Staff available for this specific project
+The number of professional personnel1. 18 abd
+2.33ad
+1.98abd
+1.37abd 1.17abd
+abd
+2.15abd
+1.91ab2.63ab
+2.62ab
+2.70a
+2.20ab
+2.45ad
+2.52ad
+2.92ad
+2.80ad
+2.09ad
+1.9Td
+1.88ad
+3.47"
+2.47abProject control proceduresType of control procedures
+Type of safety programme
+Type of cost control and reporting system
+Type of scheduling system
+Type of quality programme
+Sophistication of control procedures
+Previous experience with these procedures
+Your judgement as to whether management is able to use the procedures effectively2.11abd
+1.91abd
+1.77abd
+2.05abd
+2.22abd
+1.70abd
+1.88abd
+1.98abd2.78"
+3.01ab
+3.1 1ab
+2.61 ab
+2.88ab
+3.24ab3.04ad
+2.97ad
+2.90ad
+2.92ad
+3.02ad
+2.60ad
+2.85ad
+3.21adLocation of home omceHome omce location relative to job site location	0.8Ybd2.21ab1.80adGeographic location of projectContractor's familiarity with weather conditions
+Contractor's familiarity with local labour agreements
+Contractor's familiarity with local politics
+Market conditions of the geographic area
+Contractor's familiarity with subsurface characteristicsI .05 abd
+1.38abd
+0.91abd
+I .20abd 1 .38 abd2.48ab
+2.45ad
+3.23ad
+2.41 ad
+2.35ad
+2.38adSafetyExistence of contractor safety programme and director
+Contractor's experience modification rate (EMR) for the last 3 years
+Information from OSHA Log 200 Accident Reports
+Apparent management awareness of safety issues in contractor's organization
+Contractor's faithfulness in conducting tool box meetingsI .66"bd
+1 .22abd
+1.06abd
+1.57abd
+1. loabd2.50ab
+1.97abc
+2.75ab3.23acd
+2.88"
+2.47acd
+3.11ad
+2.57"Project management capabilitiesKey personnel experience, include number of years in3.01a3.50a3.48a3.2ffb3.19a2.69ab2.7Ydconstruction and projects worked on
+Complexity of past projects	2.64ab
+Track record of quality of job (length of punchlist)2.26abdTrack record-schedule2.36abdAppropriateness of project organizational chart	1 .68 abd
+Questionnaire item name
+(1)Public owners
+(2)Private owners
+(3)Construction managers
+(4)Track record-cost
+Ability to deal with unanticipated problems
+Amount of decision-making authority in the field
+Amount of work performed with own forces on past projects2.ooabd
+2. I oabd
+2.13"bd
+2.213.57ah
+3.54ab
+3.1 1ab
+2.363.39ad
+3.32ad
+3.12"
+2.60Labour resourcesAmount of labour available
+Quality of labour
+Existence of effectiveness of company training programme
+Whether the contractor is union or nonunion2.05abd
+2.38abd
+1 .44 abd
+0.60abd2.88Qb
+3.47ab
+7ab2.90"
+3.29ad
+2.36ad
+2.45adCompany organizationType of ownership (partnership, corportation, sole owner, etc.)
+Number of years in construction
+Contractor's licenses held (by state and or by category of work)
+Number of failures to complete a contract
+Appropriateness of company organizational structure0.83abd
+2.28ab
+2.10
+3.27abd I .69abd3.01üb
+2.60
+3.75ab
+2.52abI .46ad
+2.80a
+2.34
+3.75ad
+2.37"dEquipment resourcesType of equipment
+Size of equipment
+Condition of equipment
+Availability of equipment
+Suitability of the equipment for this project2.64ab
+2.22
+2.32
+2.55
+2.52I .95 ab
+I .88
+2.21
+2.31
+2.242.24
+2.12
+2.39
+2.45
+2.58a Significant at the 0.05 level between public owners, private owners and construction managers. b Significant at the 0.017 level between public owners and private owners.
+ Significant at the 0.017 level between private owners and construction managers. d Significant at the 0.017 level between public owners and construction managers. e Rating scale used was 4= High Impact, 2= Moderate Impact, 0= No Impact.
+Appendix Il
+Spearman Rank Correlation Coefficients for decision factors and their respective decision subfactors by owner type
+                       Public item nameOwner type PrivateCMQuestionnaire 
+	(1)	(2)(3)(4)(a) Financial stabilityCredit rating
+Banking arrangements
+Bonding capacity
+Financial statement0.22
+0.13
+0.10
+0.46b0.30
+0.25
+0.25
+0.42b— O. 14
+-0.00
+0.33a
+0.14(b) ExperienceSuccess of completed projects
+Size of completed projects
+Number of similar completed projects
+Types of projects completed0.33a
+0.49C
+0.47C
+0.54C0.25
+0.22
+0.23
+0.050.15
+0.05
+-0.01
+0.20(c) ReferencesReview of reputation and ethics of contractor
+Willingness to resolve conflicts and problems
+Change orders frequency
+Schedule performance
+Number of times claims have gone to litigation0.54
+0.42b
+0.49C0.56C
+0.34a
+0.10
+0.190.53
+0.42b
+0.28
+0.39a
+0.49C(d) Past performanceActual quality achieved
+Acutal schedule achieved	0.48C
+Number of time contractor has met cost, quality and schedule	0.58C0.53C
+0.13
+0.110.28
+0.38a
+—0.02(e) Capacity of firmLast year's construction volume in $
+Construction volume $ averaged over last 3 years
+Current backlog of work $
+% of current backlog that an additional job represents This year's employment
+Employment averaged over the last 3 years
+Employment trends and fluctuations
+Staff available for specific project
+The number of professional personnel0.37a
+0.30
+0.44b
+0.37"
+0.36a
+0.30
+0.43b
+0.150.20
+0.20
+0.14
+0.08
+0.07
+0.18
+0.23
+0.26
+0.110.09
+0.26
+0.31
+0.35a
+0.33a
+0.36a
+0.28
+0.24
+0.34(f) Project control proceduresType of control procedures0.65C0.50C0.61CType of safety programme0.66C0.33a0.30Type of cost control and reporting system0.67C0.43b0.45bType of scheduling system0.68C0.44bType of quality programme0.36a0.46bPublicOwner type PrivateCMQuestionnaire item name
+(l)(2)(3)(4)Sophistication of control procedures
+Previous experience with these procedures
+Your judgement as to whether management is able to use the procedures effectively0.64'
+0.61
+0.59'0.17
+O. 34a
+0.36a0.51C
+0.63C
+0.38a(g) Location of home officeHome omce location relative to job site location	0.87C0.80C0.83C(h) Geographic location of projectContractor's familiarity with weather conditions
+Contractor's familiarity with local labour agreements
+Contractor's familiarity with local politics
+Market conditions of the geographic area
+Contractor's familiarity with subsurface characteristics0.73C
+0.74
+0.57
+0.61C0.29
+0.23
+0.31
+0.150.37a
+0.07
+0.46b
+0.34a(i) SafetyExistence of contractor safety programme and director
+Contractor's experience modification rate (EMR) for the last 3 years
+Information from OSHA Log 200 Accident reports
+Apparent management awareness of safety issues in contractor's organization
+Contractor's faithfulness in conducting tool box meetings0.74C
+O.5V0.66C
+0.49C
+0.620.63C
+0.53C
+0.56
+0.71c(j) Project management capabilitiesKey personnel experience include number of years in construction and projects worked on
+Complexity of past projects
+Appropriateness of project organizational chart Track record of quality of job (length of punchlist)
+Track record-schedule
+Track record-cost
+Ability to deal with unanticipated problems
+Amount of decision-making authority in the field
+Amount of work performed with own forces on past projects0.54
+0.64
+0.69C
+0.62
+0.64C
+0.62
+0.61
+0.57C
+o.3Y0.15
+0.21
+0.18
+0.04
+0.16
+0.17
+-0.03
+0.100.12
+0.30
+0.43b
+0.27
+0.04
+0.21
+0.19
+0.05
+0.00(k) Labour resourcesAmount of labour available
+Quality of labour
+Existence of and effectiveness of company training programme
+Whether a contractor is closed or open-shop0.70C
+0.57C
+0.44b0.48C
+0.38a
+0.19
+A).060.68C
+0.44b
+0.50C
+0.12(l) Company organization	Type of ownership	0.23	0.18	0.23
+	Number of years in construction	0.29	0.29	0.10
+Public
+Questionnaire item Owner type PrivateCMname
+	(1)	(2)(3)(4)Contractor's licenses held	0.28
+Number of failures to complete a contract	0.29
+Appropriateness of company organizational structure	0.37a0.19
+0.31
+0.3T0.12
+0.15
+0.63C(m) Equipment resourcesType of equipment
+Size of equipment
+Condition of equipment
+Availability of equipment
+Suitability of the equipment for this project0.79C
+0.64C
+0.60C
+0.46b0.46b
+0.42b
+0.41b
+0.46b
+0.48C0.69C
+0.69C
+0.62
+0.67C
+0.62Ca Significant at the 0.01 level. b Significant at the 0.001 level. c Significant at the 0.0001 level.
+	118	Russell, Hancher and Skibniewski
+
+Contractor prequalification data	119
+
+
+
+0 2001 . All Riahts Reseved.
+
+
+
+0 2001 . All Riahts Reseved.
+
+	118	Russell, Hancher and Skibniewski
+
+Contractor prequalification data	119
+
+
+
+Copvriqht 0 2001 . All Rights Reseved.
+
+Contractor prequalification data	119
+
+Copvriqht 0 2001 . All Rights Reseved.
+
