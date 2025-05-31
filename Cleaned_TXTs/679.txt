@@ -1,0 +1,122 @@
+Multi-criteria evaluation model for the selection of architectural consultants
+To cite this article: Franco K. T. Cheung , Judy Leung Fung Kuen & Martin Skitmore (2002)
+Multi-criteria evaluation model for the selection of architectural consultants, Construction
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (2002) 20, 569–580
+Multi-criteria evaluation model for the selection of architectural consultants
+1Department of Building and Construction, City University of Hong Kong
+2School of Construction Management and Property, Queensland University of Technology, Gardens Point, Brisbane, Queensland 4001, Australia
+Received 17 August 2001; accepted 24 May 2002
+The selection of a competent architect is vital to the success of a development. Like in many developed countries, developers in Hong Kong select architects based on a set of criteria. Price is not the only consideration in the process, and decisions rely heavily on subjective judgement. By conducting a questionnaire survey, the research reported here identi ed the common criteria for selection and their relative importance for an objective selection. This involved the use of an evaluation method called the analytical hierarchy process (AHP). Survey data from projects with similar characteristics were used to compute the criteria weights. Multi-criteria models for seven out of 27 categories of project were built with reference to the computed weights derived from the survey. In addition, a computer program, called the Architectural Consultant Selection System (ACSS), was designed to illustrate a logical approach for the evaluation of prospective consultant architects based on the models constructed.
+Selection criteria, analytical hierarchy process, consultant architect
+Introduction
+A good design provided by the architect not only leads to pleasing structures and facilities but also determines the social, cultural and economic quality of the built environment now and in the future. Furthermore, the secret to a successful project lies in the professional, business, and personal relationships between the owner and the architect. Therefore, selecting an architect is one of the most important decisions that the client makes when undertaking a building project. The better the client’s procedure for selecting an architect, the better the client will like the results of his or her construction project.
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online © 2002 Taylor & Francis Ltd
+Different architect selection processes have been developed for different kinds of client. For example, typically, public sector clients require more competitive procedures than the private sector (Molenaar et al., 1998). The Architectural Institute of British Columbia (AIBC, 1998) divided these selection processes into two groups: direct selection (where a single architect or architectural practice is considered and approached on the basis of reputation, personal acquaintance or some personal recommendation), or comparative selection (where several candidates are considered and ranked in some way). This is a favoured approach because it can generate a broad search for the best solution to a particular building opportunity (Haviland, 2000). One form of comparative selection is the design competition, as it bene ts from available state of the art knowledge as well as generating prototypical ideas (AIBC, 1998). Most commonly, comparative selection involves the consideration of the price to be charged for the service – an aspect that has been considered in detail by the Construction Industry Council (CIC, 1998), who list out  ve basic methods of selection in which price plays a part. In fact, price is a central issue today, with selection procedures being seen as comprising a continuum ranging between price and quality (Molenaar et al., 1998).
+The advantage of price as a selection criterion is, of course, in its objectivity and transparency, and architects are increasingly being selected for projects solely on basis of the price to be charged for their services (Dwight, 2000), in exactly the way the majority of construction contractors are appointed. However, many commentators have argued that this practice is not appropriate for the provision of services (Gronroos, 1984; Latham, 1994; AIBC, 1998), and that any form of price competition drives fee levels down, thus reducing the quality of services involved (Day, 1998; ACEC, 2000). What is needed, it seems, is for the selection to be based predominantly on quali cations and competence (CIC, 1998). The two-envelope system attempts to do this but is said to fail because it requires a fee bid to be prepared when the scope and nature of the services required are not well de ned (Peck, 1998). Perhaps the most promising method to date is ‘quality based selection’ (QBS), which is a process that enables the project owner to obtain the services of a highly quali ed design professional at a fair and reasonable cost (CEC/PA, 2000). This is said to be the most widely endorsed legal method for selecting a design professional by overseas public owners (CEC/DE, 2000) and is recommended by the Australian Council of Building Design, the Architects Council of Europe (ACE), Association of Japanese Consulting Engineers and the American Public Works Association and various other organizations around the world (CIC, 1998). Although the recently developed selection processes have attempted to consider more criteria, the basis for making decision remains judgmental.
+The research described in this paper was aimed at (1) describing the nature of architect selection systems in Hong Kong, (2) identifying the criteria needed for architect selection in Hong Kong, and (3) the development of a new selection system through the application of a multi-criteria evaluation model based on the ‘analytical hierarchy process’, or AHP (Saaty, 1980). To help accomplish these aims, it was necessary to carry out a postal questionnaire survey, by which it was shown that, in Hong Kong, public sector departments usually have their own selection systems but that there are no standardized procedures developed in private market. In both the public and private sectors, the systems used are rather subjective and lack a systematic way to evaluate the architectural consultants. Thus, the system proposed here seeks to improve the objectivity in the selection process. The survey is used to show that the selection criteria in the literature are commonly used in Hong Kong. Based on a selection of these under a classi cation containing four critical factors, a theoretical model was developed. The logic of the model was used further to produce a computer evaluation program, which is used here to demonstrate how an objective decision may be made.
+Selection criteria
+Table 1 summarizes the selection criteria used/ proposed by 10 different organizations/parties and grouped under similar characteristics. Of these, 12 were selected as being applicable in Hong Kong, as follows:
+Background of  rm
+Experience with similar project
+Past performance Cost control
+Quality of work
+Capacity to accomplish the work Present workload
+Project approach
+Approaches to time schedule
+Approaches to quality
+The ‘consultant fee’, being one of the factors thought most likely to be considered by clients in Hong Kong, was added as a further criterion.
+Factors affecting criteria weights
+Different clients have different objectives. For example, public organizations are likely to concentrate more on serving the public interest than making pro t when initiating a development, while private developers are more likely to be concerned with the  nancial bene ts to be gained. Hence, the nature of the client is likely to affect the weights of the evaluation criteria. For example, the public sector may place a greater emphasis on the design approach, while the private developer may be more concerned with the consultants’ fees. For similar reasons, the size of the organization is also likely to affect the criteria weights, as the organizations’ objectives are affected by their size. Moreover, often the size of organization is related to the size of the project.
+In Hong Kong, the most common types of development comprise residential buildings, commercial buildings, mixed residential and commercial buildings, and other public facilities such as schools. The type of project is likely to be a critical factor affecting the weights of the evaluation criteria, because different project categories place different requirements on the design team. For example, residential building designs are quite similar in Hong Kong and most design  rms are able to do this
+Table 1	Summary of evaluation criteria suggested by professional organizations
+Selection Criteria
+Professional organizations
+
+Professional
+American Day	CIC
+Zorn	New	Architect	Consulting	Consulting
+
+Quali cations Contract	Council	Council
+
+
+Coordination of	of
+
+
+Firms’ background
+stability Technical
+
+projects completed
+Quality of work
+Capacity to accomplish the work
+Physical resources
+Current no. of
+Professional
+Project approach Approaches to
+time schedule
+Cost control (on
+Approaches to
+Grasp of project requirement
+kind of work. However, some commercial developments, such as large-scale shopping malls or hotels, require much more specialized treatment from designers.
+The size of the project also is likely to affect the weights of the evaluation criteria. Clients in Hong Kong do not allow small-size companies to undertake large-scale projects. In such a situation, the current workload and availability of quali ed staff are going to be very important aspects affecting the selection process.
+Use of the analytical hierarchy process (AHP)
+The selection of architectural consultants is a multicriteria problem, i.e. a situation in which one has a set of criteria to consider on a set of alternatives, in order to determine the best alternative. There are many different types of technique and theory for this, including decision-analysis models (based on multi-attribute utility theory) and multi-criteria decision-analysis techniques. However, most of the criteria here are qualitative in nature and often can be represented only by subjective judgement in linguistic format. Therefore, a multi-attribute evaluation model based on the concept of the analytical hierarchy process (Saaty, 1980) was introduced. In the process, perceptions, feelings, judgments and memories are organized in a hierarchy and are compared pairwise to determine their relative magnitudes that in uence decision results. AHP arranges these dimensions in a network structure that provides a framework for breaking down a problem (e.g. selection of architect suggested in this paper) into its smaller constituent parts (Saaty, 2000). It is a ‘decision-aiding tool for dealing with complex and multi-criteria decisions’ (Partovi, 1992) and has been used in certain construction industry contexts: for the selection of projects (Korpela and Tuominen, 1997), selection of project proposals (Mohanty, 1992; Mathur and Deshpande, 1995), selection of procurement method (Cheung et al., 2001) selection of contractors (Mustafa and Ryan, 1990; Assaf and Jannadi, 1994; Kong and Cheung, 1996; Fong and Choi, 2000; Al-Harbi, 2001).
+Development of the models
+AHP goes through three stages: (1) constructing the hierarchy for criteria and subcriteria, (2) comparing the weight of criteria and subcriteria, and (3) evaluating the alternatives by computation of the relative weights of criteria and subcriteria.
+A  ve-level hierarchy is presented in Figure 1. The top level is the selection goal. The second level is the  ve main criteria, i.e. ‘ rm’s background’, ‘past performance’, ‘capacity to accomplish the work’, ‘project approach’ and ‘consultant fee’. The third level comprises the subcriteria expanding these  ve issues. After Liberatore et al. (1992), the fourth level assigns a rating to each subcriterion for every alternative, instead of the normal pairwise comparisons, by means of a  ve-point rating scale that codes as outstanding (O), good (G), average (A), fair (F) and poor (P), with the priority weights of these  ve scales (i.e. O, G, A, F, P) being established using pairwise comparisons.
+Since it was assumed that the relative importance of the evaluation criteria might be affected by ‘nature of client’, ‘size of organization’, ‘type of project’ and ‘sum of project’, the structure of the theoretical evaluation model was divided into 27 categories as shown in Figure 2. To test this assumption, the results were categorized accordingly. Figure 2 shows 27 categories (from group 1 to group 27) classi ed under different levels. In order to resolve the issue, the data were classi ed into groups with similar characteristics. The  rst level is ‘nature of client’, which includes the public, semipublic and private sectors. This is classi ed into three types of  rm size: ‘under 75’, ‘75 to under 150’ and ‘150 or above’. These are then subdivided into the four types of project usually found in the Hong Kong construction market: residential, commercial, residential and commercial mix and other public facilities development. Following this is the project size, categorized into ‘below HK$100 million’, ‘between HK$100 million and HK$500 million’ and ‘above HK$500 million’. Since public facilities comprise only a small portion of all the developments, and in order to make the structure more clear, the level under public facility is indicated by just a dotted line.
+Evaluation of criteria
+Based on the developed hierarchy and the project classi cation, a questionnaire was set out to collect data for evaluating the weight of the identi ed criteria. A total of 259 questionnaires were mailed to a random sample of public, semi-public and private clients obtained from the list of the real estate developers association of Hong Kong. Fifty-seven questionnaires were returned. Of these, 53 were fully completed, representing a 19.5% usable response rate. In determining the weights of the selection criteria, AHP provides a consistency check, where a sample with a consistency ratio less than 0.1 would be rejected. Thirty-six sets of sample data were found to be consistent. Among them, 35 sets came from the private sector and only one from the public sector, therefore only those results from the private sector were categorized. Only seven groups of data were available from the survey: groups 5, 11, 15, 21, 22, 23 and 27. The two-tailed t-distribution test is used to exclude samples that contain inconsistent weights. The Appendix describes the questionnaire survey and the allocation of weight in detail.
+
+Group 5 comprised seven responses. One of these (sample 3) was signi cantly different from the sample mean so this was considered to be a special case that should be excluded from the model. After its removal,
+Figure 2 Proposed classi cation of projects
+a consistent weight was found for the 13 evaluation criteria within this category.
+
+This group also comprised seven responses. Two of these (samples 12 and 13) were signi cantly different from the sample mean, so these samples were removed. Since sample 12 had seven criteria outside the con dence interval, it was removed  rst. After excluding sample 12, there were only two samples with four weights out of 78 outside the interval, and this was considered to be acceptable.
+
+Group 23 comprised eight responses. Sample 34 had the most ( ve) signi cantly different criteria and was removed  rst. The next to be removed was sample 31. After removing these two samples, there was still one sample with one criterion outside the interval and this was also excluded in this group.
+Table 2 Summary of the sample mean of global priority weight of the seven groups
+Experience with similar project
+Quality of work
+Approaches to time schedule
+
+Group 27 comprised nine sets of responses. All of these had at least one signi cantly different weight. After removing samples 18 and 19, only one sample had all criteria within the interval, so removal of sample was still required. Samples 23, 24 and 26 were also removed by trial and error.
+Groups 11, 15 and 22
+There were two responses in group 11 and one in each of groups 15 and 22. Since the sample sizes of groups 11, 15 and 22 were too small, the same method could not be used to test whether the weights of the evaluation criteria with these groups were distributed with the same mean.
+Remaining groups
+Table 2 summarizes the sample means of the seven groups after this procedure. Due to the small sample sizes in grous 11, 15 and 22, the sample mean of these three groups is less reliable. Therefore, these three groups were then excluded. Figure 3 summarizes the results for the remaining groups.
+Figure 3 Summary of the sample mean for groups 5, 21,
+
+In Figure 3, within groups 5, 21, 23 and 27 the criterion ‘professional quali cation/experience’ had a relatively high weight. This may be because the quality of the design is usually dependent on the ability of a single person in the organization, and therefore the quali cation or experience of that person is a key issue. Moreover, property development is a business investment, focusing on making a pro t, and reducing development costs is one way to increase project returns. Consequently, developers have a particular interest in the fee proposed by the consultants. ‘Reputation’, on the other hand, had relatively low weights among the 13 evaluation criteria, suggesting that potential design  rms selected for the  nal decision have already been screened by some pre-quali cation process, making it of relatively low importance at this stage.
+It was noted that groups 21 and 27 were very similar, and this was con rmed by a t-test. On the other hand, the weights of the 13 evaluation criteria for groups 5 and 23 are quite similar. Both have the same project type and value classi cation but differ in  rm size (group 5 is a small developing  rm while group 23 is a large  rm). However, the weights of the 13 evaluation criteria for these two groups are quite similar, suggesting that the size of the developer has little in uence on the criteria weights in this case.
+To show how multi-criteria evaluation could be applied in a simple and ef cient way, a computer program called the ‘architectural consultant selection system’ (ACSS) was developed based on the criteria weights of the seven groups, and written in Delphi 4.0™. ACSS aims at providing an ef cient, consistent and objective
+Nature of client
+<75 employee architectural  rms 6
+Evaluation of architects
+Criteria	GPW for	Firm A	Firm B	Firm C
+
+Technical competence/
+Experience with
+Quality of work
+Approaches to
+time schedule
+Approaches to
+Design approach/
+Total weighted score:
+method for selection of architects. The evaluation process using ACSS contains four steps: (1) determination of project particulars, (2) comparison of fee, (3) assessment of performance and (4) computation of score.
+Determination of project particulars
+The  rst step a client has to consider in the selection of an architect for a particular project is the characteristic of the project. The program allows clients to choose the particulars of a project, and their choice would determine which group the project belongs to.
+Comparison of consultant fees
+Different from the other criteria identi ed in the next step, the consultant fee proposed by an architect is a measurable criterion. In the program, the rating for ‘consultant fee’ is measured by the ratio of the actual amount of the lowest fee to the fee proposed by an architect under evaluation.
+Assessment of performance
+The most important task in the selection process is to evaluate the performance of architects. A  ve-point rating scale named as outstanding (O), good (G), average (A), fair (F) and poor (P) with corresponding ratings of 1.000, 0.500, 0.250, 0.125 and 0.063, respectively, was adopted.
+Computation of score
+After rating the performance, the programme would automatically calculate the score. Table 3 shows an example of the multi-criteria evaluation result extracted from ACSS for a selection from among three architects in a group 5 project. The  nal scores were computed by adding the normalized weights for the selected ratings of each subcriterion multiplied by the global priority weight of the subcriterion itself.
+Under the new system of ACSS, the decision-makers or the evaluators need only to refer to the hierarchy in Figure 1 and assess the performance of the architects according to the steps suggested to make an objective selection.
+Traditionally, building clients appoint various design consultants, such as architects, structural engineers, building service engineers, etc., to provide professional services for the management of the whole project. During the design and construction of the projects, the architect plays a major role and his or her selection is therefore one of the most important decisions the client makes. As the survey has shown, these evaluations are currently conducted in a rather subjective manner, and it is likely that the process will bene t from a more objective method of evaluation. Therefore, a multicriteria evaluation model has been developed to tackle the task of interpreting subjective judgement in a logical and systematic manner. Based on the selected criteria and four critical factors, this theoretical multicriteria model uses the concept of the ‘analytical hierarchy process’ (AHP). In order to modify this theoretical model to a general model that may be applied to the actual situation in Hong Kong, the weight of each criterion was established by means of a questionnaire survey. By applying the methodology of AHP to the collected questionnaires, 36 sets with a consistency ratio of less than 0.1 were used, with 35 of these coming from the private sector. These were classi ed into 27 categories for the seven groups of data.
+With the exception of groups 11, 15 and 22, which were too small, particular cases in each group were excluded by using a two-tailed t-distribution test. The  nal criteria weights for these seven groups are shown in Table 2. It was also shown that the criteria set identi ed in the literature review are commonly used in the selection of architectural consultants in Hong Kong, which provides some validation of the model. Furthermore, the  nal criteria weights of the seven groups were used to construct a computer program, ‘ACSS’. The program is suf cient to show the simplicity and objectivity of the use of the multi-criteria approach to select architects.
+The study also identi ed four factors that in uence decision makers in assigning the weights to the evaluation criteria. In the actual market situation, it is expected that the developing organization would consider other aspects in addition to these four factors. Hence, further study is necessary to derive a comprehensive set of in uencing factors for the selection of architectural consultants. In addition, the evaluation model was developed for the private sector with only three of the seven groups being investigated, suggesting ample scope for further investigation.
+Acknowledgements
+The guidance and valuable suggestions of Mr. Paul Ho of the Division of Building Science and Technology, City University of Hong Kong are gratefully acknowledged.

@@ -1,0 +1,252 @@
+The Toyota Way
+School of Architecture and the Built Environment
+The University of Newcastle,
+National University of Singapore
+Library of Congress Control Number:
+This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed. Exempted from this legal reservation are brief excerpts in connection with reviews or scholarly analysis or material supplied specifically for the purpose of being entered and executed on a computer system, for exclusive use by the purchaser of the work. Duplication of this publication or parts thereof is permitted only under the provisions of the Copyright Law of the Publisher’s location, in its current version, and permission for use must always be obtained from Springer. Permissions for use may be obtained through RightsLink at the Copyright Clearance Center. Violations are liable to prosecution under the respective Copyright Law.
+The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.
+While the advice and information in this book are believed to be true and accurate at the date of publication, neither the authors nor the editors nor the publisher can accept any legal responsibility for any errors or omissions that may be made. The publisher makes no warranty, express or implied, with respect to the material contained herein.
+Printed on acid-free paper
+Springer is part of Springer Science+Business Media (
+The Chinese construction industry has witnessed many remarkable achievements over the past years. Yet it still suffers from many problems, including low product quality, low working efficiency, projects finishing over budget, huge construction wastes and others. As very little past studies have shed light on the Chinese construction industry in the context of implementing lean or Toyota Way practices, this study addresses this research gap with the aim of generating useful insights that may better guide large Chinese construction firms in embarking on a lean transformation exercise by means of deploying the Toyota Way principles.
+The Toyota Way was historically the first domain, where the practices and principles of lean production or lean construction were formulated and developed. It can be easily seen that lean construction has already borrowed some principles and techniques of the lean concept or Toyota Way and has become an established theme in the construction domain. The aim of this study is to establish the implementation framework of the Toyota Way model for large construction firms in China. It begins with an extensive literature review of the lean concept, the Toyota Way and the relevant frameworks of lean construction. A theoretical framework for the Toyota Way model within the construction context has been developed and is accompanied by a list of Toyota Way-styled attributes, which fit into the construction context. It is worth highlighting that the focus has been put on the Toyota Way model, over other existing frameworks of lean construction, because of the comprehensiveness of the Toyota Way model, which contains four layers—the philosophy model, the process model, the people and partners model, and the problem-solving model. Most importantly, it has addressed the technical and social aspects of the lean concept.
+In order to assess Toyota Way practices within large Chinese construction firms, a mixed research method was adopted at different stages of the study. For a start, a structured questionnaire based on the identified Toyota Way-styled attributes was developed, and data was collected from building professionals with large construction firms in China. The quantitative data outlines the status quo of the Toyota Way-styled practices implemented in the Chinese construction industry, as well as the extent to which these attributes were perceived. The results showed that all the actionable attributes derived from the Toyota Way model were appreciated by the respondents, but some attributes fall short of implementation. To further investigate why implementation was uneven, and also to understand how these Toyota Way
+practices could be implemented in real-life projects, interviews and case studies were carried out as part of the investigation. At this stage, from the interview findings, the evaluations of the case study projects and the comparisons with the theoretical model of the Toyota Way, the findings have enhanced the understanding of Toyota Way practices in the Chinese construction context. Furthermore, the results highlighted that the gap between actual practice and Toyota Way-styled practices is enormous, and implementation faces considerable challenges. Based on all the findings, this study then employs the SWOT analysis to present a picture that addresses the strengths, weaknesses, opportunities and threats to the implementation of the Toyota Way in China. It is also confirmed that the Toyota Way model presented in this book is considered appropriate for use in Chinese construction firms and may additionally be used as a holistic assessment tool for measuring the maturity of firms in terms of their Toyota Way implementation. Management would then be in a better position to develop plans for Toyota Way implementation by focusing on weak areas, and thus increasing the likelihood of success in the implementation of the Toyota Way.
+Toyota Way model; Lean construction; Large Chinese construction firms;
+Architectural, Engineering and Construction
+Built-in Quality
+Building Information Modeling
+
+Chinese Construction Association
+
+China Construction Engineering Third Bureau
+
+Closed-circuit Television
+
+Corporate Image
+
+Construction Industry Institute
+
+China International Contractors Association
+
+Chinese International Construction Company
+
+Collective-owned Enterprises
+
+China State Construction Engineering Corporation
+Gross Domestic Product
+Large Chinese Construction Firm
+Minister of Housing Urban-Rural Development
+Ministry of Construction
+National Audit Office of China
+New United Motor Manufacturing, Inc
+National Bureau of Statistics of China
+National Inspection Exemption
+Plan-Do-Check-Act
+Production and Operations Management
+Project Management Body of Knowledge
+Percent Plan Complete
+Project Planning Taskforce
+QCs	Quality Circles
+SOE	State-Owned Enterprises
+SOP	Standardized Operating Procedure
+SQC	Statistical Quality Control
+SWOT	Strengths, Weaknesses, Opportunities and Threats
+TFV	Transformation-Flow-Value
+TPS	Toyota Production System
+TQC	Total Quality Control
+TQM	Total Quality Management
+WIP	Work-in-process
+WTO	World Trade Organization
+List of Non-English Terms Used
+5-S is the acronym for Sort (Seiri), Simplify (Seiton), Sweep (Seiso), Standardize (Seiketsu), and Self-discipline (Shitsuke): a visually oriented system for organizing the workplace to minimize the waste of time
+A visual control device to notify management, maintenance staff and operators of quality or process problems
+The actual place where the real added-value work is done
+Go and see for yourself
+Relationships among various parties that cooperate and support one another
+Relentless reflection
+Production smoothing or leveling the production schedule
+Also called policy deployment. It is a step-by-step planning, implementation and review process to manage change
+This is the supervision firm in the Chinese construction industry. The jianli’s main role is to ensure that a project is constructed safely and to the quality standards as required under the law
+Providing machineries and operators with the ability to detect when an abnormal condition has occurred and to immediately stop work
+Continuous, incremental improvement of an activity to create more value with less waste
+A signal, often a card attached to suppliers or equipment that regulates pull by signaling upstream production or delivery
+Overburden—when workers or machines are pushed beyond their capacity
+Unevenness—when some workers and machines work below their capacities for some of the time, while others may overproduce
+A commonly used Japanese consensus building technique
+List of Non-English Terms Used
+Mistake-proofing by employing visual signals that prevent mistakes or defects
+A German word for cycle time which is calculated as the available production time divided by the rate of customer demand
+1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	1
+1.1 Background . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	1
+1.3 Research Aim, Objectives and Hypotheses . . . . . . . . . . . . . . . .	3
+1.3.2 Research Hypotheses . . . . . . . . . . . . . . . . . . . . . . . . .	4
+1.4 Research Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	5
+1.4.1 Research Focus . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	5
+1.4.2 Measurable Factors . . . . . . . . . . . . . . . . . . . . . . . . . .	6
+1.4.3 The Targeted Firms . . . . . . . . . . . . . . . . . . . . . . . . . .	6
+1.6 Significance of this Research . . . . . . . . . . . . . . . . . . . . . . . . . .	8
+1.7 Organization of Chapters . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	8
+2.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	11
+2.2 Overview of Production Management . . . . . . . . . . . . . . . . . . .	12
+2.3 Theory of Production: Search in Economics . . . . . . . . . . . . . . .	13
+2.4 New Production Philosophy: An Integrated View . . . . . . . . . . .	14
+2.4.2 Production as a Transformation Activity . . . . . . . . . . .	14
+2.4.3 Production as a Flow Activity . . . . . . . . . . . . . . . . . . .	15
+2.4.4 Production as a Value Generation Activity . . . . . . . . .	17
+2.4.5 TFV Model of Production . . . . . . . . . . . . . . . . . . . . .	18
+2.5 Historical Milestones of Management Thoughts:
+2.5.1 The “Classical” Approach: Scientific Management . . .	20
+2.5.2 Human Relations Approach . . . . . . . . . . . . . . . . . . . .	22
+2.5.4 Contingency Approach . . . . . . . . . . . . . . . . . . . . . . . .	24
+2.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	25
+3 From Lean Production to Lean Construction . . . . . . . . . . . . . . . . .	27
+3.2 From Craft Production to Mass Production . . . . . . . . . . . . . . . .	28
+3.3 The Development of Lean Production . . . . . . . . . . . . . . . . . . .	28
+3.3.1 Toyota Production System . . . . . . . . . . . . . . . . . . . . .	29
+3.3.2 Lean Production and Lean Principles . . . . . . . . . . . . .	31
+3.3.3 Implementation Frameworks of Lean . . . . . . . . . . . . .	34
+3.4.1 What is Lean Construction? . . . . . . . . . . . . . . . . . . . .	36
+3.4.2 Peculiarities of the Construction Industry . . . . . . . . . .	37
+3.4.3 Criticisms of Lean Construction . . . . . . . . . . . . . . . . .	38
+Implementation Frameworks . . . . . . . . . . . . . . . . . . .	40
+3.4.5 Lean Construction and Enhanced Performance . . . . . .	43
+3.4.6 Lean Construction in Developing Countries . . . . . . . . .	45
+3.5 Knowledge Gap Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . .	47
+3.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	48
+4 The Toyota Way . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	49
+4.1.1 Why Toyota and Its Production System . . . . . . . . . . . .	49
+4.1.2 Why the Lean Paradigm Is Not Enough . . . . . . . . . . .	50
+4.2 From TPS to the Toyota Way Model . . . . . . . . . . . . . . . . . . . .	51
+4.3.1 Principle 1: Long-Term Philosophy . . . . . . . . . . . . . . .	53
+4.3.2 Summary of Principle 1 . . . . . . . . . . . . . . . . . . . . . . .	55
+4.4.1 Principle 2: One-Piece Flow . . . . . . . . . . . . . . . . . . . .	56
+4.4.3 Principle 4: Level Out the Workload (Heijunka) . . . . .	59
+4.4.4 Principle 5: Built-In Quality (Jidoka) . . . . . . . . . . . . .	61
+4.4.5 Principle 6: Standardized Tasks . . . . . . . . . . . . . . . . .	63
+4.4.7 Principle 8: Use of Only Reliable, Thoroughly Tested
+4.4.8 Summary of Principles 2–8 . . . . . . . . . . . . . . . . . . . . .	69
+4.5 Toyota Way People and Partners Model . . . . . . . . . . . . . . . . . .	69
+4.5.1 Principle 9: Leaders and Leadership . . . . . . . . . . . . . .	70
+4.5.3 Principle 11: Partner Relationships . . . . . . . . . . . . . . .	77
+4.5.4 Summary of Principles 9–11 . . . . . . . . . . . . . . . . . . . .	79
+4.6 Toyota Way Problem-Solving Model . . . . . . . . . . . . . . . . . . . .	79
+4.6.2 Principle 13: Consensus Decision-Making . . . . . . . . . .	81
+4.6.3 Principle 14: Reflection and Continuous Improvement . . .	84
+4.6.4 Summary of Principles 12–14 . . . . . . . . . . . . . . . . . . .	86
+4.7 Development of the Toyota Way Model for Construction . . . . .	87
+4.7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	87
+4.7.2 Implementation of Process Model in Construction . . . .	88
+4.7.3 Implementation of the People and Partner Model
+in Construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	97
+4.7.4 Implementation of the Problem-Solving Model
+in Construction . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	99
+4.8 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	100
+5 Theoretical and Conceptual Framework . . . . . . . . . . . . . . . . . . . . .	101
+5.2 The Toyota Way Philosophy Model: Linking the Theory
+of the Business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	102
+5.3 The Toyota Way Process Model: Linking Production Model . . .	102
+5.3.1 Flow Model and the Toyota Way Process Model . . . . .	103
+5.3.2 TFV Model and the Toyota Way Model . . . . . . . . . . .	103
+5.4 The Toyota Way People and Partner Model: Linking HRM . . .	106
+5.4.2 Linking Motivation Theory to Toyota Way . . . . . . . . .	106
+5.4.3 Theory Related to Supplier Relationships . . . . . . . . . .	110
+5.5 The Toyota Way Problem-Solving Model: What Theories
+5.5.1 Linking Quality Management to the Toyota Way . . . . .	112
+5.5.2 Learning Organization and the Toyota Way . . . . . . . . .	112
+5.6 Conceptual Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	114
+5.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	117
+6 China’s Construction Industry . . . . . . . . . . . . . . . . . . . . . . . . . . . .	119
+6.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	119
+6.2 China’s Construction Market, Structure and Its Leading
+Construction Firms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	120
+6.2.2 International Construction Markets . . . . . . . . . . . . . . .	120
+6.2.3 Structure of Chinese Construction Industry . . . . . . . . .	121
+6.3 Status of the Chinese Construction Industry . . . . . . . . . . . . . . .	124
+6.3.1 Quality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	124
+6.3.2 Productivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	126
+6.3.3 Profitability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	127
+6.3.4 Technology Development . . . . . . . . . . . . . . . . . . . . . .	129
+6.4 The Need for Change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	131
+6.5 Lean Implementation in China . . . . . . . . . . . . . . . . . . . . . . . . .	132
+6.5.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	132
+6.5.2 National Policy in the Chinese Construction Industry . . .	133
+6.5.3 Chinese Cultural Influence on Lean Implementation . . .	134
+6.6 Challenges for Lean Implementation in China’s Construction
+Industry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	136
+6.6.4 People and Partners . . . . . . . . . . . . . . . . . . . . . . . . . .	139
+6.6.5 Legislative Controls . . . . . . . . . . . . . . . . . . . . . . . . . .	140
+6.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	141
+7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	143
+7.3 Research Design, Approaches and Methods . . . . . . . . . . . . . . .	144
+7.4 Research Methodology Employed in This Study . . . . . . . . . . . .	145
+7.4.1 Selected Research Approach . . . . . . . . . . . . . . . . . . . .	145
+7.4.2 Selected Research Methods . . . . . . . . . . . . . . . . . . . .	146
+7.5 The Research Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . .	147
+7.5.4 Phase II: Interviews and Case Studies . . . . . . . . . . . . .	150
+7.6 Summary of the Research Process . . . . . . . . . . . . . . . . . . . . . .	152
+8.2 Data Analysis Procedures . . . . . . . . . . . . . . . . . . . . . . . . . . . .	155
+8.3 Sample Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	156
+8.4 Reliability Tests . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	156
+8.5 The Toyota Way Principles: Implementation and Perceived
+8.5.1 The Toyota Way Philosophy Model . . . . . . . . . . . . . .	157
+8.5.2 The Toyota Way Process Model . . . . . . . . . . . . . . . . .	159
+8.5.3 The Toyota Way People and Partner Model . . . . . . . . .	168
+8.5.4 The Toyota Way Problem-Solving Model . . . . . . . . . .	170
+8.5.5 The Implementation–Importance Gap . . . . . . . . . . . . .	172
+8.6 Relating the Toyota Way Practices and Project Performance . . .	173
+8.6.1 The Toyota Way Philosophy Model . . . . . . . . . . . . . .	177
+8.6.2 The Toyota Way Process Model . . . . . . . . . . . . . . . . .	177
+8.6.3 The Toyota Way People and Partner Model . . . . . . . . .	179
+8.6.4 The Toyota Way Problem-Solving Model . . . . . . . . . .	180
+8.7 Hindrances to Implementing Toyota Way Practices . . . . . . . . .	180
+8.8 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	183
+9.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	185
+9.2 Data Collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	185
+9.3 Interview Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	186
+9.3.1 Understanding Lean or Toyota Way-Style Practices . . .	186
+9.3.3 Process-Related Practices . . . . . . . . . . . . . . . . . . . . . .	190
+9.3.4 People-Related Practices . . . . . . . . . . . . . . . . . . . . . .	213
+9.3.5 Problem-Solving Practices . . . . . . . . . . . . . . . . . . . . .	225
+9.4 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	230
+10 Case Study . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	233
+10.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	233
+10.2 Case Study Selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	233
+10.3 Case Company A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	234
+10.3.1 Background Information on Company A . . . . . . . . . . .	234
+10.3.2 Company A’s Guiding Principles . . . . . . . . . . . . . . . .	234
+10.3.3 Company A’s General Human Resource Strategy . . . .	235
+10.3.4 Company A’s Organizational Structure . . . . . . . . . . . .	235
+10.3.5 Overview of Two Case Study Projects . . . . . . . . . . . .	236
+10.4 Case Company B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	257
+10.4.1 Background Information of Company B . . . . . . . . . . .	257
+10.4.2 Company B’s Guiding Principles . . . . . . . . . . . . . . . .	257
+10.5 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	276
+11 Discussion and Validation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	279
+11.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	279
+11.3.1 Toyota Way Philosophy Model . . . . . . . . . . . . . . . . . .	281
+11.3.3 Toyota Way People and Partner Model . . . . . . . . . . . .	295
+11.3.4 Toyota Way Problem-Solving Model . . . . . . . . . . . . .	301
+11.4.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	306
+11.4.2 A Review of the Toyota Way Model . . . . . . . . . . . . . .	306
+11.5.2 Discussion of Validation Results . . . . . . . . . . . . . . . . .	315
+11.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	316
+12.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	317
+12.2 Realization of the Aim and Objectives of the Research . . . . . . .	317
+12.2.1 Key Attributes Arising from the Toyota Way in the
+Context of Construction . . . . . . . . . . . . . . . . . . . . . . .	317
+12.2.2 Assessing Toyota Way-Styled Practices in the Chinese
+Construction Industry . . . . . . . . . . . . . . . . . . . . . . . . .	319
+12.2.3 Understanding the Challenges in the Implementation of
+the Toyota Way . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	321
+12.2.4 Toyota Way Implementation Framework
+12.3 Summary of Hypotheses . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	322
+12.4 Contributions to Knowledge and Practice . . . . . . . . . . . . . . . . .	323
+12.4.1 Contributions to Knowledge . . . . . . . . . . . . . . . . . . . .	323
+12.4.2 Contributions to Practice . . . . . . . . . . . . . . . . . . . . . .	325
+12.6.2 Recommendations for the Chinese Construction
+Industry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	329
+12.7 Closing Remarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	331
+Appendix A: Questionnaire Survey (English Version) . . . . . . . . . . . . . .	333
+Appendix D: Interview Protocol . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .	361
+Appendix F: Summary of the Hypotheses Testing . . . . . . . . . . . . . . . . .	369

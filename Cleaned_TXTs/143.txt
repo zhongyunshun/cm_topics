@@ -1,0 +1,113 @@
+The ranking of construction management journals
+To cite this article: Chau Kwong Wing (1997) The ranking of construction management journals, Construction Management & Economics, 15: 4, 387-398, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (1997) 15, 387± 398
+The ranking of construction management journals
+Department of Real Estate and Construction, The University of Hong Kong, Pokfulam Road, Hong Kong
+Received 11 February 1997; accepted 27 March 1997
+The quality of construction management journals is assessed using a questionnaire survey approach. Construction management is broadly de® ned to include studies of the human aspects of the construction process. Twenty-two journals related to construction management are identi® ed. Questionnaires were sent to potential respondents by e-mail. Respondents were asked to assess the quality of the journals that they are familiar with. Although there is some evidence showing that respondents who are editorial board members or authors of a journal tend to give a slightly higher score to that journal, the relative ranking of the journals is not affected substantially by such tendency. Some statistically signi® cant results on the ranking of the journals are obtained irrespective of the relatively small sample size compared with some surveys of other main stream journals.
+Attitude survey, journals, academic discipline, construction management
+Introduction
+Ranking and evaluation of journals are not uncommon in most established disciplines. There are in general two approaches, perception and citation. Liebowitz and Palmer (1984), for example, used a citation approach to rank economics journals while the work by Coe and Weinstock (1983) is an example of ranking ® nance journals based on respondents’ perceptions. Recently, the perception approach was used to rank journals in real estate, a relatively new discipline related to construction management. Such studies include, for example, works by Webb and Albert (1995) and Diaz et al. (1996). Ranking of journals is useful as feedback to publishers and editorial boards, as an indication to young researchers of the international standing of different channels of publications in the discipline, for tenure and promotion of academics, and also as a research assessment exercise in tertiary institutions. As far as the author is aware, there has been no peer ranking of journals in the ® eld of construction management.
+Construction management is broadly de® ned to include project management, construction economics,
+design economics, cost engineering, value engineering, construction law and procurement, industrial management and public policy related to the construction industry, etc. As a relatively new discipline, which is multi-disciplinary in nature, the lack of ranking of journals in this discipline is not surprising. Most peer reviewed (refereed) journals in this area are less than 20 years old. For journals with a longer history, formal double-blind peer-reviewed systems were introduced only a few decades ago. This paper attempts to rank those journals where researchers in construction management can publish their research ® ndings and ideas.
+The task of ranking journals in a new discipline such as construction management demands care. This is an interdisciplinary ® eld, and potential respondents are scattered and dif® cult to identify, a problem magni® ed further by the fact that construction management is a new ® eld with a relatively small number of researchers compared with more established `main stream’ disciplines. Thus the cost of identifying the potential respondents could be substantial, and the sample size is unlikely to be large enough for very detailed analysis. Also, because this is a newly evolved interdisciplinary
+® eld it is dif® cult to set the boundary for `relevant’ journals. Moreover, due to the short history of some journals in this ® eld, it is also dif® cult to track all journals that are related to construction management.
+The journals included in this survey are the journals in which research work in construction management can be published. The choice is based on the author’s knowledge and therefore cannot be claimed to be exhaustive. Respondents were given the opportunity to suggest further journals in the `others’ category, and 19 respondents proposed 30 other journals. However, apart from a few exceptions, most of the proposed journals appeared only once, and they are more closely related to other disciplines such as housing, real estate, planning, etc.
+Survey method
+To minimize cost the whole survey was conducted electronically. The questionnaire was ® rst posted in the CNBR1. The e-mail addresses of other potential respondents were also elicited from the following databases in the Internet:
+(1) Associated Schools of Construction (ASC) database2
+(2) Database of Potential Worldwide Contacts for Collaboration in Property and Construction3
+(3) Database of Property and Construction Researchers4
+Questionnaires were sent out by e-mail to the potential respondents. This method of conducting the survey proved to be very ef® cient and economical. Two drawbacks are that some researchers are not reachable by e-mail and that some e-mail addresses on the database are not updated.
+asked to give a score to those journals with which they were familiar, on a scale of 0± 100, leaving blank the response for journals with which they were unfamiliar. The purpose was to ensure that the responses represented informed opinion. The high proportion (>60%) of senior academics among the respondents (see section on Pro® le of respondents) also provides assurance that the responses represent informed opinions. Since some respondents might not have been comfortable ranking all the journals, forced ranking of all journals in the list might have introduced too much noise and distorted the results. Less than 5% of the respondents gave scores to all 22 journals listed in the questionnaire. Respondents were also given the chance to insert the names of journals that they believed to be relevant under the `others’ category.
+The second question gathered information on the respondents’ association with any of the journals and presented the same list of journals. Respondents were asked to indicate whether they were associated with the journals in any of the following three ways:
+(a) editorial board members (including editor, editorial board member or advisory board member); (b) author, or (c) referee.
+The purpose of this was to detect possible bias due to a respondent’s association with a speci® c journal.
+The respondents were also asked to give their personal particulars including their name, title, position, af® liation, research areas, contact telephone and fax numbers.
+There were altogether 65 respondents from 13 countries. The majority of the respondents were from UK (30.3%), US (21.2%) and Australia (18.2%). The nature of the survey prohibited the calculation of the response rate. For practical convenience and because of technical dif® culties, the e-mail was sent to all people in the three databases. Since not all people receiving the e-mail are interested in construction management (the questionnaires were intended to be sent to people interested in construction management) as de® ned in this paper, it would be unhelpful to give an estimate of the response rate.
+Most respondents were experienced researchers: 60.6% of the respondents were senior academics, i.e. senior lecturers (UK or similar system), associate professors (US or similar system) or full professors, with the remaining 39.4% divided between academics (25.8%), professionals (7.6%) and researchers (6.1%).
+Ranking of construction management journals	389
+One of the problems in analysing the data is the tradeoff between possible bias and wastage of informed opinions. It is possible that scores given by a respondent with a vested interest in the journal (e.g. editorial board members and authors) may be biased. On the other hand, authors and editors can often give a better informed opinion about the journals. Excluding such responses from the analysis means that much potentially useful information would be wasted. On balance, an analysis based on the sub-sample which excludes editorial board members represents the best trade-off. However, results from all responses and from the sub-sample excluding editorial board members and authors are reported also.
+Table 1 shows the average score, ranking (based on the average score), coef® cient of variation and percentage of all respondents giving a score to the journal from:
+1. respondents who are not editors, editorial board members or advisors of the journal they rank
+3. respondents who are neither authors nor editorial board nor advisors of the journal they rank (NE/NA column).
+The rankings based on the three groups of respondents are very similar although, in general, the average scores in the NE and NE/NA group are slightly lower. This suggests that although a very small bias may exist when the respondents have a vested interest in the ranking, such a bias does not affect the ranking order signi® cantly.
+All non-refereed professional journals are ranked lower than refereed journals, meaning that the quality of refereed journals is perceived by the respondents to be higher. This observation is consistent with the results obtained by Diaz et al. (1996) for ranking of real estate journals. The peer review system has long been used as a mechanism for assuring the quality of papers in journals covering most ® elds. The survey results suggest that respondents believe that such a mechanism is working quite well for construction management journals.
+The correlation coef® cient between average score and coef® cient of variation is ± 0.94 (p=0.001). There seems to be a high concensus among respondents about the magnitude of the scores for the higher quality journals. However, this does not necessarily imply a low consensus about the ranking order of the journals. The journal with the highest score is Construction Management and Economics. This is also the journal with the highest number of responses (88%). The score of this journal also has the lowest coef® cient of variation (and standard deviations) indicating that there is a high consensus amongst the respondents on the score of this journal.
+Statistical tests
+While it is tempting to apply the conventional t-test for testing the differences in the mean scores in Table 1, three problems arise. First, the underlying distribution of the scores may not be normal. Second, scores are given by different groups of respondents (with some common respondents) for different journals, therefore the scores are not from independent samples. Some factors affecting the scores are not controlled (e.g. some members give a higher than average score to all journals although the rankings are the same). Third, the magnitude of the score may not provide reliable information on the relative quality of the journal. The ® rst two problems can be avoided by applying the non-parametric Wilcoxon matched-pairs signed-ranks test (see, for example, Stoodley et al. (1980); a more detailed discussion can be found in the original article by Wilcoxon (1945)) to test whether the scores of two journals are signi® cantly different. This test utilizes the scores of two journals only when given by the same respondent (matched-pairs). The test assumes that the magnitude of the differences in the score of the two journals is measured on at least an interval scale (i.e. the magnitude has meaning). However, if this assumption does not hold, the Wilcoxon matched-pairs signed-ranks test cannot be used. In this case, the non-parametric sign test for matched-pairs has to be used instead (see, for example, Stoodley et al. (1980); a more detailed discussion can be found in Dixon and Mood (1946)). The sign test ignores information on the magnitude of the scores and therefore reduces the `sharpness’ of the test (i.e. increases the number of `inclusive’ cases).
+Both tests are carried out between all pairs of journals and for the three samples of respondents (NE, ALL, NE/NA). Tables A1± A6 in the Appendix show the results of the tests. However, it should be noted that the results are not strictly transitive: A ranks better than B and B ranks better than C does not imply that A ranks better than C. Since each journal is compared with all other journals, the tables are symmetrical along the diagonal (but the signs are reversed).
+Table 2 summarizes the results of these tests. Columns W1, W2 and W3 summarize the results of the Wilcoxon matched-pairs signed-ranks test for the sample NE, ALL and NE/NA, respectively. The ® gures represent the number of positive signi® cant results (i.e. the number of other journals that are ranked signi® cantly lower; p < 10%), for each journal.
+Summary statistics of the respondents’ scores
+Average score (rank)
+Journal title
+Coef® cient of variation. (Percentage responded)
+
+and Economics
+Journal of Construction Engineering
+
+Engineering, Construction and
+Architectural Management
+Journal of Management in
+Proceedings of Institution of
+Civil Engineers - Civil Engineering
+International Journal of Project
+International Journal of Construction
+
+Information Technology
+Transactions of American Association
+of Cost Engineers
+Automation in Construction
+Journal of Construction Procurement
+
+Building Research and Information
+Journal of Real Estate and Construction
+Construction Papers
+
+Construction Law Journal
+
+NICMAR Journal of Construction
+Asian Paci® c Building and Construction
+The Building Economist (AIQS Journal)
+The Cost Engineer
+Construction Manager
+
+Campus Construction
+
+Chartered Surveyor Monthly
+
+Ranking of construction management journals
+Although these ® gures give an indication for the relative ranking of the journal (the larger, the better), they are also affected by the sample size (valid matched pairs), since statistically signi® cant results cannot be obtained when the sample size is too small. It can be seen that Construction Management and Economics (CME) is ranked signi® cantly higher than all the other 21 journals for all three samples. The results of the matched-pairs sign test are summarized in columns S1,
+S2, and S3 of Table 2. Since the magnitudes of the scores are ignored, the number of signi® cant results is reduced. Again, CME has the highest number of positive signi® cant results for all three samples. However, examination of Tables A4± A6 in the Appendix shows that in all cases the journal with the next highest signi® cant positive results is not ranked signi® cantly lower (not at the 0.1 level) than Construction Management and Economics.
+Summary of the results of Wilcoxon matched-pairs signed-ranks test and the matched-pair sign test
+board members
+members and non-authors
+
+
+
+
+
+
+
+
+
+a No. of signi® cant (p < 0.1) positive results (no. of journals that are ranked lower) using the Wilcoxon matched-pairs signed-ranks test.
+b No. of signi® cant (p < 0.1) positive results (no. of journals that are ranked lower) using the matched-pairs sign test. c No. of journals that are ranked lower (irrespective whether they are statistically signi® cant).
+`Other’ journals
+There were 30 publications suggested by 19 respondents under the `others’ category. Most suggestions appeared only once. With the exception of six journals which were suggested by more than one respondent, most of these publications are not relevant to this study (they are either conference proceedings or journals in other ® elds such as real estate, planning and housing, etc.). The six journals that are considered to be relevant to construction management are:
+The American Professional Constructor(The Journal of the American Institute of Constructors);
+Australian Institute of Building Papers;
+The Australian Project Manager;
+4	Building and Environment;
+Civil Engineering Systems;
+Journal of Financial Management of Property and Construction (new journal).
+Since the sample size is too small (a maximum of 4) for these journals, their average scores are not reported here. However, it seems that these journals should be included in similar studies in the future.
+As far as the author is aware, this is the ® rst study of this kind in the ® eld of construction management. I believe this will not, and should not, be the only study on the ranking of construction management journals, since new journals will appear and the quality of journals tends to change over time. New dimensions could be added to future similar studies, including the following.
+Ranking of a more comprehensive list of journals. This list would include the six journals mentioned above and possibly other new journals.
+Ranking of the journals based on methods (such as citation) other than subjective ranking. The citation approach may produce a different set of rankings which would give a different perspective to the issue.
+Increase the sample of respondents. The electronic survey proved to be economical. However, the coverage can be improved by supplementing it with fax and post.
+Ranking of the construction management journals in relation to journals in other related disciplines (such as real estate, housing and planning) and journals in main stream disciplines (such as management, engineering, economics).
+Include information on the rejection rates of the journals.
+This study aims at arousing the interest of researchers in the discipline more than producing a de® nitive ranking. Another objective is to give young researchers an indication of the quality of the possible channels for publishing their research. I would be delighted to see feedback from anybody interested in this study. The author would like to thank the anonymous referees for their helpful comments.

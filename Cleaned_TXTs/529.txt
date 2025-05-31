@@ -1,0 +1,208 @@
+The use of Process Cost Model (PCM) for measuring quality costs of construction projects: model testing
+S. L. Tang , Raymond T. Aoieong & Syed M. Ahmed
+To cite this article: S. L. Tang , Raymond T. Aoieong & Syed M. Ahmed (2004) The use of Process Cost Model (PCM) for measuring quality costs of construction projects: model testing, Construction Management and Economics, 22: 3, 263-275, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (March 2004) 22, 263–275
+The use of Process Cost Model (PCM) for measuring quality costs of construction projects: model testing
+1Civil & Structural Engineering Department, The Hong Kong Polytechnic University, Hunghom, Kowloon, Hong Kong, PR China.
+2Department of Civil & Environmental Engineering, University of Macau, PR China.
+3Department of Construction Management, College of Engineering, Florida International University, Miami, Florida, USA.
+A ‘Process Cost Model (PCM)’ approach has been proposed previously (Aoieong et al., 2002) for measuring the quality costs of construction projects. The PCM is proposed because the traditional models on PAF (prevention, appraisal and failure) quality costs have been found to be unsuitable for the construction industry, although they may be successful in the manufacturing industry. The focus of PCM, unlike PAF model, is no longer on capturing the total quality costs of an entire project but the quality costs of a particular process. It is simple and more feasible to be applied in construction projects and is in line with the ‘process approach’ and ‘continual improvement’ concepts of the latest (year 2000) version of the ISO 9000 quality management system, which is a step closer to Total Quality Management (Aoieong and Tang, 2002). The current paper describes two case studies using the PCM to capture quality costs on two construction projects. The case studies reveal that the PCM is feasible, practicable and easy to use. It is also possible to use the model to achieve ‘continual improvement’ by referencing the quality costs of a particular construction process. The Process Cost Model (PCM) is therefore a better model than the traditional PAF model for application in the construction industry for measuring quality costs.
+Process cost model, PCM, PAF, quality, costs, construction, processes, TQM, Hong Kong
+Introduction
+Quality management systems (QMS) for construction projects based on ISO 9000 series have been implemented in many parts of the world in recent years and particularly in the past ten years in Singapore and Hong Kong (Kam and Tang, 1997; Kam and Tang, 1998; Ahmed and Aoieong, 1998; Tang and Kam, 1999). The implementation of these QMS, according to their reports, is in certain ways successful and in certain ways unsuccessful, yet an improving trend is observed in general. Capturing quality costs of construction, however, has been done to a less extent. Research works in construction quality costs such as Davis and Ledbetter’s
+*Author for correspondence.
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online © 2004 Taylor & Francis Ltd
+(1987), Abdul-Rahman’s (1993, 1995, 1996), Low and Yeo’s (1998), Barber et al.’s (2000), and Love and Li’s (2000) were reported. The results of all these works have been summarized and their merits and demerits compared in the authors’ previous paper (Aoieong et al., 2002) and therefore will not be repeated in this paper. The most recent work, and the most comprehensive one too, is of Hall and Tomkins’ (2001). In this work, the PAF (prevention, appraisal and failure) costs of an entire construction project in the UK were captured and reported. The origin of deviations and the effects of failure were also covered in the study. This is the only work based on the PAF model that can be considered by the authors as comprehensive and successful for capturing quality costs. Construction quality costs based on PAF are extremely difficult to capture, as explained in the authors’ previous paper (Aoieong et al., 2002). It is believed that the success of Hall and Tomkins is because the project under study was small, with a contract sum of only US$3 million approximately. Construction projects in most cases are much bigger than that. The PAF approach for capturing quality costs is in fact not suitable for construction projects, as they are usually big and complex. A new approach called Process Cost Model (PCM) for construction has been developed by the authors. It is suitable for use in construction projects, regardless of the sizes of the projects.
+The focus of PCM, unlike PAF model, is no longer on capturing the ‘total quality costs’ of an entire project but on capturing the quality costs of a particular process. The detail development of the PCM has been reported in the authors’ previous paper (Aoieong et al., 2002). A typical process model for a construction process is shown in Figure 1, which is reproduced from the said paper. Industrial feedback on the concept of PCM, from nine experienced construction professionals in Hong Kong and six in the USA, is encouraging (Aoieong et al., 2003). The majority of the interviewees have a positive view on its practicability for construction projects. In this current work, the authors attempt to apply the PCM to study two cases. They are two construction projects in Hong Kong, a building project and a civil engineering project. The objective of this paper therefore is to report the findings of these two case studies in which the PCM is used to capture quality costs.
+The Process Cost Model (PCM) applied for concreting process
+As mentioned before, the PCM is not used for capturing quality costs of an entire construction project but for capturing that of a particular process. This is in line with the ‘process approach’ and ‘continual improvement’ concepts of the latest (year 2000) version of the ISO 9000 quality management system, which is a step closer to the concept of Total Quality Management (Aoieong and Tang, 2002). The ‘continual improvement’ element of the PCM will be illustrated in the later case studies. In applying the PCM, a construction process must be identified. In theory, the PCM can be applied to any construction processes, but the authors have chosen the ‘concreting process’ for study in this paper because it is the most common and well known process in any construction projects. Figure 2 shows the PCM adopted for the ‘concreting process’. The boundary defined for the process includes formwork placing, reinforcement placing and concrete placing.
+The quality costs in the PCM are called process costs, which can be divided into two parts: the costs of conformance (COC) and the costs of non-conformance (CONC) (Aoieong et al., 2002). COC is the intrinsic costs involved for providing the finished concrete product as required in good order, and the CONC is the costs of wasted time, materials and resources and any costs associated with the rectification of the unsatisfactory concrete product. In applying the PCM to capture the quality costs (or the process costs) of the concreting process, data on COC and CONC have to be collected from construction sites.
+There are two basic and important principles for PCM application: (1) the PCM must not be complicated and be easy to understand and use by site personnel of ordinary educational or technical level, and (2) the PCM must function as a tool for continual improvement of the process. These will be fully discussed in the two case studies presented in the following sections.
+Case study1: a building project in Hong Kong
+This project is a construction of 38-storey high twin residential blocks housing with 760 residential units. The gross area for each typical floor is 591 square metres. The contractor is a reputable construction firm founded about 40 years ago in Hong Kong having a yearly turnover of about US$1 billion, and the firm is ISO 9000: 2000 certified. The data collection started in the later part of 2001, which included COC and CONC for 18 typical floors (Floors 21 through 38). The quantity surveyor of this project was responsible for providing the COC data because he could retrieve them from the contract document, and the site engineer was responsible for providing the CONC data because he could conveniently record down the defects during his routine inspections. The COC provided by the quantity surveyor for each typical floor is shown in Table 1. He also indicated that it was difficult to separate the costs of labour and material from the information available in the contract document, because lump sum contracts were signed between the main contractor and subcontractors. The most significant cost item under equipment was the tower crane, which had been singled out in the cost items. Other equipment items (e.g. vibrators, compressors, etc.) were not known and were assumed to have been absorbed in the quoted prices. The ignorance of the costs of other equipment items is not harmful at all to the application of PCM. After all, any non-conformance costs related to defects caused by the inadequacy or misuse of equipment will be counted as CONC.
+Table 1	Cost of conformance (COC) per typical floor
+
+
+Material testing
+Total Cost of conformance:
+Labour + Materials
+Labour + Materials
+Labour + Materials Tower crane
+The CONC is not as easy to acquire as the COC. The acquisition of CONC is to be described in three parts: (A) formwork placing, (B) reinforcement placing, and (C) concrete placing.
+(A) For formwork placing, the accuracy of the locations and dimensions of concrete members depends on the proper setting out and the proper support of the formwork. Major errors in setting out the location of formwork may result in a complete knock down and relocation of the concrete members. Fortunately, such problems usually are not expected to happen in typical floor construction because of its repetitive nature and of the close supervision by different parties. On the other hand, minor errors in setting out and slight formwork movement may happen quite often and it may lead to significant repair costs. For example, a concrete wall with a few millimetres off the centreline may result in extensive chiselling and cleaning to the finished concrete work. Proper written records of such defects are usually done by foremen and/or site engineers and kept in the site office for reference. As observed by the authors, typical defects were usually caused by insufficient supports of formwork that led to slight movement at the bottom during concrete placing. The related CONC can be calculated based on the estimated time and labour required for fixing each nonconformance occurrence. Data collected for CONC are shown in Table 2.
+(B) For reinforcement placing in this case study, the cost of non-conformance for the reinforcement placing process included only those costs incurred due to defects found during the final inspection before concrete pouring. In order to compile a list of common defects found in reinforcement placing, the author had spent extensive time in observing the inspection process and discussing with the resident engineer. (It is a regulation in Hong Kong to have a resident engineer, a representative from the consulting firm, stationed on site to supervise a contractor’s work.) It was concluded that non-conformances were mainly caused by poor workmanship of the subcontractor. A form containing a checklist of all the common defects was then designed to facilitate the site staff in the data collection process. A typical form used to collect the defect data for each floor is shown in Table 3. The number of occurrence of each type of defects was recorded and the time and cost required for the remedial work were then estimated based on current labour rate. These are also shown in Table 3. The CONC data for Floors 21 through 38 are shown in Table 4.
+(C) For concrete placing, the site engineer indicated that honeycombing caused by insufficient compaction of freshly placed concrete was the most common non-conformance that required extensive repair work. After the formwork was struck, the resident engineer representing the consulting firm
+Table 2 Cost of concrete repair works caused by formwork movement
+No. of occurrences
+Time to repair
+Cost to repair
+*Based on an estimated time for each occurrence of 2 hours (information provided by the site engineer).
+**Based on an hourly wage rate of HK$90 (prevailing wage of carpenters in Hong Kong).
+would inspect all concrete surfaces. Based on the judgement of the resident engineer, concrete honeycombs that required remedial works would be marked and photographed. The honeycombs would then be categorized into Type 1 and Type 2 according to the severity of the defects as shown in Table 5. The time and cost required to complete the remedial work of each type of honeycombs were then estimated based on the current labour and material rates as shown in Table 6.
+The CONC of each typical floor for all the three processes is summarized in Table 7. A typical process cost report for the 31st floor is also shown in Table 8 (see Figure 12 of the paper by Aoieong et al., 2002). The total process cost (COC +CONC) of each typical floor from 21/F to 38/F is tabulated and represented in Table 9. Due to certain missing data from the site, process cost for the 30th floor was not recorded.
+Figure 3 shows the plotting of points for each process cost against each floor (or cycle). The slope of the linear regression line of these points is found to be negative. (The regression equation is: y = −0.272x + 602 557). This means that the process cost of each floor is decreasing when the level of the floor (or cycle) is going up. This is a good phenomenon because the concreting process is continually improving. The process cost therefore can serve as a tool for the indication of continual improvement.
+Table 3	CONC of reinforcement placing for a typical floor
+Number of occurrences
+Date of inspection
+Links not properly spaced
+Cover not enough
+Bars missing
+Bars not properly spaced
+Bar length not enough
+Lap length not enough
+Stirrups not properly tied
+Stirrups not properly spaced
+Bars missing
+Bars not properly spaced
+Bar length not enough
+Bars in AC hood not properly located
+Bars in fins not properly located
+Bars in wrong direction
+Bars not properly spaced
+Cover not enough
+Chairs not properly located
+Starter bars not cleaned
+Clean up works required
+Total cost of non-conformance:
+
+*Based on an hourly wage rate of HK$120 (prevailing wage for steel workers).
+By referencing the process costs, the contractor may know whether or not his own effort put in the work is sufficient and, hence, may develop appropriate strategies for achieving continual improvement.
+Some other observations
+(A) Completeness of non-conformance data
+Due to the insufficiency of human resources for recording non-conformances in the ‘reinforcement placing’ process, only those discovered during the final inspection by the resident engineer on each floor were recorded. However, defects might be discovered by the contractor’s foremen or subcontractors’ foremen at any time during the process, and these were not recorded in this work. In order to obtain a full picture of all the defects occurring in the ‘reinforcement placing’ process, their involvement in the data collection process is essential. So, the CONC recorded in ‘reinforcement placing’ in the case study may be a little under-estimated. The non-conformances occurring in the concrete placing process were mainly honeycombing due to insufficient compaction of concrete. Since all related records for concreting were properly kept, the cost of non-conformance could be accurately estimated. Similarly, all records related to the remedial concrete works caused by improper alignment of formwork were also kept in the site office and, therefore, the related CONC can be easily retrieved and accurately estimated.
+Table 4 CONC of reinforcement placing for floors 21 through 38
+
+(B) Involvement of the resident engineer
+As mentioned earlier, it is a regulation in Hong Kong to have a resident engineer, a representative from the consultant firm, stationed on site to supervise the contractor’s work. It is also a common practice in Hong Kong to have the resident engineer to inspect and ensure that all reinforcements are in conformance to the structural drawings prior to concrete placing. Since the resident engineer’s inspection is fairly thorough and impartial, his (her) involvement in the data collection process will definitely enhance the quality of data recorded. However, though it is essential to get the involvement of all parties: the resident engineer (consulting firm), the site engineer (contractor) and the subcontractors to collect a complete set of data, the authors observed that these three parties were quite often in conflict with each other due to the inherent differences in their emphases, i.e. time, cost and quality. While the contractor’s main concern is to get the work done as quickly as possible (time), the resident
+engineer, however, would like to see that every piece of work is done according to the standards and specifications (quality). On the other hand, the subcontractor’s main concern is to make the highest profit (cost). Therefore, care must be taken to reduce conflicts among the three parties before they get involved in the data collection process. The recent concept of ‘partnering’ may be able to help reduce such conflicts.
+(C) Short cycle time
+The cycle time between the constructions of each typical floor may have a significant impact on the site staff’s attitude towards quality. The targeted cycle time for this project was 4 days. This is something very peculiar and can only, as far as the authors know, happen in Hong Kong. Since the project was under such a tight schedule, the site staff, including the foremen and the engineers, had to work considerable overtime in order to meet the target date. During casual conversation with the site staff, the authors had observed that most workers indicated that quality was something to be considered only when they were not under a tight schedule. In other words, having reasonable time for workers to finish their works is a prerequisite for the success of any quality initiatives at the site level. The authors agree with this view of the workers.
+(D) Process cost for the construction of typical floors
+Based on the data collected, the average process cost of the concreting of a typical floor was $602 549. When it was expressed in terms of unit floor area, the process cost was $1020/sq.m. The cost of nonconformance ranged from 0.39% to 0.65% of the total process cost. It can be seen that the cost of non-conformance for this particular process is quite insignificant for the following reasons: • Both the concreters and steel fixers of this project were highly skilled workes.
+• For reinforcement placing, only non-conformances
+Without formwork involved e.g.
+typical honeycombs at faces/bottom of wall
+With formwork involved e.g. typical honeycombs at top of wall/ column with reinforcement totally exposed
+
+Table 6	Cost estimation of concrete honeycombs for typical floors
+repair time to	cost to	time to	cost to
+*Number of occurrences observed after the inspection.
+**Based on an hourly wage rate of HK$90.
+Table 7	Cost of nonconformance of each process
+Floor	Cost of Nonconformance (HK$)	Total
+Reinforcement	Formwork	Concrete
+observed in the final inspection were recorded. The CONC therefore were underestimated.
+• The use of aluminium formwork greatly reduced defects caused by traditional timber formwork.
+An average of 51% of the cost of non-conformance was related to improper placing and supporting of formwork. As a result, the labor cost in chiseling finished concrete was extensive.
+Table 8	Process cost report for the concreting process of the 31st floor
+Process name:
+“Formwork construction” to “Formwork striking”
+31st floor of Building XXX
+Process owner:
+Process Conformance
+
+Process Nonconformance
+
+
+Formwork erection
+• Labour & materials
+
+• Labour & materials
+
+• Labour & materials • testing Others:
+
+
+Formwork erection
+• concrete rework due to formwork movement
+
+• rework due to non-conformance
+
+• rework due to honeycombs in concrete
+
+Total process cost for typical floors
+Cost of conformance
+Cost of non-conformance
+*Obtained from Table 1.
+**Obtained from Table 7.
+Figure 3	Linear regression of total process costs vs floors
+The continual improvement observed in the case study could possibly be a result of the fact that the contractor and the subcontractors knew at the beginning that this project was to be used for PCM testing. Therefore, it is possible that for a project when the contractor knows that his work is going to be monitored by PCM, he will probably be more careful and pay more attention to the quality of his work.
+The project is a government-initiated project involving the construction of about 800 m of single two-lane carriageway, drains, sewers, waterworks, landscaping works and about 570 m of noise barriers. The main contractor of this project is a corporation headquartered in Beijing with major construction activities throughout Asia, Middle East and Africa. Its major lines of business include international construction contracting, design and consulting services. The Hong Kong Branch was established in 1988 and, since then, the corporation has been an active participant in the Hong Kong construction industry. The company has also obtained the ISO 9000: 1994 certifications in year 1994. For this project, the only construction activity that involved formwork, reinforcement and concrete placing was the construction of 50 pile caps. The data collection started in the later part of 2001, which included COC and CONC for the first 30 pile caps. Similar to the collection of COC and CONC in Case Study 1, it was reckoned by the authors that the COC and CONC data could be more conveniently captured by the Quantity Surveyor, and the Site Engineer and the Resident Engineer, respectively. The COC provided by the quantity surveyor for each typical pile cap is shown in Table 10. Typical cost items related to the construction processes of pile caps are labour, materials and material testing. Additional materials were required for the provision of construction joints between individual pile caps.
+During the meeting with the resident engineer, he indicated that concrete related defects in pile cap construction might be ignored in the study due to the ease of construction of such work. In terms of concrete honeycombing, it usually occurs in areas where the reinforcements are congested and the space is tight. Such conditions usually do not exist in pile cap construction. In terms of remedial work due to misalignment of formwork, the resident engineer also indicated that it usually doesn’t happen because of the close supervision of land surveyors who are responsible for the setting out. Therefore, the authors then decided to include only those defect costs incurred from reinforcement placing in the CONC calculation. A typical form, similar to the one as shown in Table 3 for Case Study 1, was used by the resident engineer to record the occurrence of nonconformance related to reinforcement placing. The CONC data for a typical pile cap (pile cap 2) is shown in Table 11. A typical process cost report for this pile cap is also shown in Table 12. The total process costs (COC + CONC) of pile caps 1 through 30 are tabulated and
+Table 10	Cost of conformance (COC) per pile cap
+
+
+Concrete (including blinding)
+Total Cost of conformance:
+Labour + Materials
+Labour + Materials
+Labour + Materials
+Joint filler, sealant + dowel bars
+Table 11	CONC of reinforcement placing for Pile Cap 1
+Date of inspection Sept. 27, 01
+Bars not properly spaced
+Bars not properly tied
+Bar length not enough
+Lap length not enough
+Cover not enough
+Starter bars not cleaned
+Clean up works required
+Remedial work of welded bars
+Date of inspection Oct. 9, 01
+Bars missing
+Bars not properly spaced
+Bars not properly tied
+Bar length not enough
+Starter bars not cleaned
+Clean up works required
+Total cost of non-conformance:
+*Based on an hourly wage rate of HK$125.
+presented in Table 13. Similar to the previous case study, Figure 4 shows the plotting of points for each process costs against each pile cap (or cycle) and the linear regression line of these points. The slope of the regression line is found to be negative. Once again, this is a good phenomenon because the concreting process is continually improving.
+Some other observations
+Observations (A), (B) and (E) discussed in the first case study also apply to the second case study. Other observations are as follows.
+Unlike the previous case study, the cycle time of the construction of pile caps was relatively long. The average cycle time was four days. All site workers, including those at the supervisory level, had reasonably sufficient time to finish their works with good quality.
+(D) Process cost for the construction of pile caps
+Based on the data collected, the average process cost of the concreting of a pile cap was $139 344. The cost of non-conformance ranged from 0.03% to 3.55% with an average of 0.25%. With the exception of the first two pile caps, the cost of non-conformance for this particular process is relatively low. This observation can be explained by the following reasons:
+• The concreting process of pile caps is relatively simple and the cycle time is relatively long.
+• In building projects (e.g. Case Study 1), it is a general practice that the resident engineer is the only person responsible for the inspection of structural works on behalf of the consulting company.
+Table 12	Process cost report for the concreting process of pile cap 2
+Process name:
+“Formwork construction” to “Formwork striking” Pile Cap 2
+Process owner:
+Process Conformance
+
+Process Nonconformance
+
+
+Formwork erection
+• Labour & materials
+
+• Labour & materials Activity:
+• Labour & materials
+
+• Material testing
+• Water-stop
+
+
+Formwork erection
+• concrete rework due to formwork movement
+
+• rework due to non-conformance
+
+• rework due to honeycombs in concrete
+
+In civil engineering projects, however, particularly for government projects, a relatively large team of technical staff is responsible for the supervision of construction works. The team usually includes resident engineers, inspectors-of-works, work supervisors, quantity surveyors, and land surveyors. The placing of reinforcement cannot commence before the approval of the land surveyors, who are responsible for checking the alignment of formwork. The reinforcement steel bars must be checked carefully by the resident engineer before any concreting can commence. The placing of concrete is also under continuous supervision of the inspectors-of-works and work supervisors. The supervision is very tight in this pile cap construction process. These good preventive measures can effectively reduce the occurrence of non-conformances.
+
+The use of PCM to capture quality costs in concreting process for two projects, the 38-storey building and the civil engineering pile cap construction, was successfully tested in this study demonstrating that the PCM is feasible, practical and easy to implement. The model permitted the identification of key activities of the concreting process such as formwork placing, reinforcement placing and concrete placing, and for estimating the costs of conformance (COC) and costs of non-conformance (CONC).
+As a part of the PCM model, continuous analysis of the process cost control report for each activity can reveal some of the shortcomings of the process and allow immediate corrective actions to be taken to reduce the CONC and improve the overall process quality. The requirement of continual improvement as stipulated in the ISO 9000 Quality Standards (year 2000 version) can therefore be realized. In the case of the 38-storey building, the costs of non-conformance were down from 0.48% of the total process costs in the 21st floor (the 1st cycle) to 0.43% at the end of the project in the 38th floor (the 18th cycle or the last cycle). In the civil engineering project, the PCM model showed that the CONC fell dramatically from 3.55% of the total process costs (the 1st cycle) to an insignificant 0.03% (the 30th cycle or the last cycle). The continual improvement illustrated in this paper is the improvement of a process within a project.
+Table 13	Total Process Cost for pile caps
+Cost of conformance
+Cost of non-conformance
+Total process cost (HK$)
+improvement required in the ISO 9000: 2000 can also be interpreted as improved processes to be  carried through from one project to the next. This paper only illustrates the former case, which is actually being practised by certain construction companies in Hong Kong (who have already gained ISO 9000: 2000 certification) for satisfying the ‘continual improvement’ requirement of the Year 2000 version. The authors  believe that the PCM is also suitable to be applied for the latter case, although case studies on which have not yet been conducted.
+The authors believe that the PCM approach is suitable and beneficial for application in the construction industry for measuring quality costs. Although the examples in this paper are related to the concreting process only, the model can in fact be applied to any construction processes in a similar manner. The suggested further work would be the application of PCM for management Figure 4 Linear regression of total process costs vs pile caps processes, such as the design process in an engineering
+consulting firm. In conclusion, the model is simple and flexible, and can be used in a wide range of activities or situations. The use of PCM (Process Cost Model)  therefore should be promoted in the construction industry.
+Acknowledgement
+Special thanks are due to Mr. Steve Wong, Manager (Quality) of Hip Hing Construction Limited, and Ir. Dr. C.W. Kam, Chief Engineer of the Territory Development Department of the Hong Kong SAR Government, who gave invaluable support to the data collecting exercises. Thanks are also due to The Research Committee of The Hong Kong Polytechnic University who financially sponsored this work (Grant No. G-V630).

@@ -1,0 +1,289 @@
+Total quality management practices and organizational performance: the mediating roles of strategies for continuous improvement
+To cite this article: Richard Jimoh, Luqman Oyewobi, Rasheed Isa & Ibrahim Waziri (2019) Total quality management practices and organizational performance: the mediating roles of strategies for continuous improvement, International Journal of Construction Management, 19: 2, 162-177, DOI: 10.1080/15623599.2017.1411456
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Total quality management practices and organizational performance: the mediating roles of strategies for continuous improvement
+aDepartment of Building, Federal University of Technology, Minna, Nigeria; bDepartment of Quantity Surveying, Federal University of Technology, Minna, Nigeria; cDepartment of Built Environment, Central University of Technology, Bloemfontein, South Africa
+The relationship between total quality management (TQM) practices and organizational performance has been widely reported in literature without consensus on its nature. This study examined the nature of relationship as well as influence of TQM practices and strategies for continuous improvement on different measures of performance among large- and medium-sized construction companies in the Nigerian construction industry. Unlike earlier studies, the research gives specific thought to how the relationship between TQM practices and performance is mediated by strategies for continuous improvement. The study was conducted using sequential mixed methods. In-depth structured interviews were first conducted which formed the basis for cross-sectional survey that subsequently followed. One hundred and twenty-eight valid questionnaires from well-structured questionnaires that were self-administered to 155 mediumand large-sized construction companies were received. Based on the factor analysis and partial least square structural equation modelling that were carried out, the study revealed that TQM practices have significant effects on organizational performance. However, the mediating roles of strategies for continuous improvement are necessary to ensuring better organizational performance. Therefore, it is imperative for organizations that are craving for competitive advantage to place high premium on TQM practices while ensuring that the right strategies for continuous improvement are put in place.
+Construction; performance; quality and strategy
+Introduction	prevalent among the Nigerian construction firms due to
+clients’ inadequate knowledge and Standard Organization
+The most vital determinant of an organization’s propensity of Nigeria’s (SON) inability to enforce quality require-
+tually formalize quality-related behaviors especially quality
+(2012), quality and efficiency have been identified as the
+assurance as a continuous process that enables regular major ingredients lacking in the Nigerian construction
+organizational operations (Asim et al. 2013). However, industry, majority of construction companies in Nigeria
+Sommervile and Robertson (2000) stated that elements underpay their workers, with poor salary package, indi-
+such as the customized nature of the products and downcating that quality might be difficult to ingrain in the cul-
+turn in the economy limit the introduction and practice of ture of firms. The willingness to change the quality
+TQM in construction companies. In a related developculture and commitment of top management in the
+ment, Hoonakker et al. (2010) pointed out that TQM industry are important (Isik et al. 2008). It is not only the
+implementation in the construction industry is not an easy final product that is subject to criticism, but the processes
+matter, one of the reasons is the transient nature of projand the materials are under tremendous pressure for bet-
+ects, the lack of standardization, many parties involved ter quality in construction (Yusoff et al. 2006;
+and the conservative nature of the construction industry.
+Sodangi 2010). Over the years, the notion of quality is
+Total quality management (TQM) has the potentials being associated with manufacturing tangible products,
+to improve business result, greater customer orientation but only recently has it been applied formally by service
+to satisfaction, team working and better management of industries such as construction as a strategic management
+workers within companies; however, construction firms function (Anetoh et al. 2013).
+have been continuously struggling with its implementa-
+Therefore, in order for construction client and end
+tion (Haupt and Whiteman 2004). TQM practice is not users of completed facilities to realize the best value, the
+© 2018 Informa UK Limited, trading as Taylor & Francis Group
+concept of quality culture must be stressed in the industry to improve the quality of product and services (Idrus and Sodangi 2010). To be able to fulfil the purpose of this study, the following research questions have been formulated:
+(1) What is the extent of implementation of TQM practices by the construction firms?
+(2) Are there strategies for continuously improving the organizational performance?
+TQM implementation in Nigeria
+While many top executives of organizations in Nigeria are aware of TQM, the level of implementation has been very low (Nosakhare 2000; Akinola et al. 2012). Nonetheless, the successful implementation of TQM will assist Nigerian firms in strategic positioning to compete locally and globally (Nosakhare 2000). In particular, environmental factors such as political will backed with commitment will drive and improve TQM in the Nigerian context (Adeoti 2011). In addition, the roles of holistic training on TQM and its application in the Nigerian construction industry have also been highlighted and exemplified (Irube et al. 2012).
+Nigeria could certainly promote the quality of its training by embracing quality in a more holistic manner, establishing internal quality assurance mechanisms and establishing the culture of quality (Akeusola and Ofulue 2011). The SON has been very active in ensuring quality conformance in Nigeria, which suggests that the search for TQM in Nigeria through benchmarking and localization efforts through the SON Conformity Assessment Programme (SONCAP) and Mandatory Conformity Assessment Programme (MANCAP) is already gaining momentum (Babatunde and Sui Pheng 2015). Idrus and Sodangi (2010) proposed a quality performance evaluation model covering the company and site levels of construction projects in Nigeria, identifying TQM under the corporate level. Still, previous studies have underscored leadership styles and rewards systems (Ehigie and Akpan 2004) as well as environmental factors (Osuagwu 2002) as being important to TQM implementation in Nigeria. Following a domestication version of TQM that responds better to Nigerian culture has been lunched (Irechukwu 2010), validating the bidirectional and cultural specific relationships between culture and TQM.
+The conceptual model and hypotheses
+The transference of ideas from the service and manufacturing industry has led to development of concept of TQM within the construction management field due to hyper-competition the industry has had to contend with as a result of globalization (Garvin 1988). Many construction organizations that trade internationally have put more emphasis on the philosophy of TQM, processes, tools and practices. Theories underpinning the study of TQM or its philosophy have advanced in literature. For example, Anderson et al. (1994) synthesized a theory of quality management by evaluating the impact of Deming’s management method on a firm’s organizational behaviour and practice of quality management. Waldman (1994) built on this theory to provide the required hypothetical path to the study of leadership and TQM practices. However, Agus and Hassan (2010) have linked TQM to strategic management theory, while some authors are involved in developing theory or model linked to TQM (Ho and Fung 1995; Kanji 1996). The intention of this study is not to develop a theory but to model the relationships between TQM, strategies for continuous improvement and organizational performance. However, in the context of this study, the ‘theory of profound knowledge’ suggested by Deming (1995) which highlighted that the success of quality management practices solely rest on the effective incorporation of various management subsystems is considered relevant. This is because construction organizations need to strive to achieve sustained competitive advantage by developing capability for continuous improvement (Agus and Hassan 2011). This will not only create financial benefit in terms of profit above industry rivals but also afford organizations the opportunity of charging a higher premium through differentiation (Oyewobi et al. 2015).
+Therefore, the purpose of this section is to describe the concepts adopted and to explore the linkages between TQM practices, strategies for continuous improvement and organizational performance constructs within the Nigerian construction industry context. The conceptual model suggested here is as shown in Figure 1. The paper acknowledged that TQM has significant influence on measures of aggregate performance of an organization. A partial least square structural equation modelling was adopted to examine both the measurement model and structural effects of the constructs. Therefore, the paper intends to examine whether the structural model has a satisfactory fit based on the hypothesized statements that will follow.
+Relationship between strategies for continuous improvement, TQM and organizational performance
+Current research trends indicate that firms must emphasize on continuous improvement in order to develop quality products and services continually as well as reduce the cost to create customer satisfaction (Chang
+Continuous improvement focuses on a product’s customer service and centralized production process, creating achievement levels that constantly increase for performing current tasks correctly and improving them in future (Chin et al. 2002). According to Abrunhosa and Sa (2008), continuous improvements require organizational cultures which give confidence to participants in innovating while minimizing panic along the way while providing themselves with effective tools. Continuous improvement strategies are internal to organizations which result in process changes, where group of managers who wish to change the manner in which current operations occur (Cleland and Ireland 2007).
+Abrunhosa and Sa (2008) stated that although enhancement appears as we experience slip-ups, implement counteractive measures as well as try innovative ideas, it often becomes a challenge if enhancement prospects are continuously being recognized and evaluated by outsiders along with consumers in measuring development in the direction of targets. Fuentes-Fuentes et al. (2004) asserted that continuous enhancement cannot directly mediate with improvements in products as well as services due to a relationship presence connecting it with added measurements in quality management, specifically such as consumer emphasis along with collaboration. In summary, the research gap concerning continuous improvement in project performance is whether or not it is continuously identified and evaluated by customers and whether or not it is an element in TQM that contributes directly to project performance (Fuentes-Fuentes et al. 2004; Abrunhosa and Sa 2008; Ng and Jee 2012). Against this background, the study presents this hypothesis that:
+Strategies for continuous improvement is positively related to organizational performance
+Few empirical research papers have examined the indirect effect of TQM practices with different measures of organizational performance (e.g. Kaynak 2003; Prajogo and Sohal 2006; Sila 2007). However, the focus of TQM is on continuous process improvement within organizations in order to offer superior customer needs and provide value for their money. This is underscored by Hashmi (2009) who argued that TQM considers an organization as an assemblage of combined processes which has to be continuously improved by integrating worker experiences and knowledge in accomplishing organizational objectives of attaining superior performance. Although Santos et al. (2000) asserted that correct application of TQM principle will provide a construction organization the required impetus to improve its overall performance, but research efforts have shown that the relationship between TQM and performance is indirect, while the impacts of TQM practices on different performance measures vary (Kaynak 2003). This study, therefore, argued that the relationship between TQM and organizational performance will indirectly be enhanced by strategy for continuous improvement. Hence, the hypothesis states that:
+Strategies for continuous improvement mediate in the relationship between TQM and organizational performance
+The relationship between TQM and performance
+The relationship between TQM and performance has been reported by many researchers (e.g. Ahmad et al. 2012; Sadikoglu and Olcay 2014). Many of these studies examined the relationship between TQM and performance using different performance measures such as quality performance, financial measures, employees’ satisfaction and operational performance. The findings from these studies have been inconsistent. Some of the studies established that a positive relationship exists between TQM practices and performance (Bou and Beltran 2005; Miyagawa and Yoshida 2010; Gunday et al. 2011), while few indicated that negative or insignificant relationship exists between TQM and performance (Kaynak 2003; Nair 2006, Demirbag et al. 2006; Corredor and Goni 2011). However, Sadikoglu and Olcay (2014) advanced reasons that the incongruence or the mixed results can be traced to either different approaches, diverse TQM variables, or different performance measures employed in their study model; or may be because some of the findings are country- or industry-specific and lastly due to the potential barriers to hamper TQM practices. Therefore, the study hypothesized that:
+TQM practice will be positively related to organizational performance
+Research method
+Methodology focuses on the best means for gaining knowledge about the world (Denzin and Lincolin 2000). This research was based on mixed-methods methodology. A mixed-methods research design is a procedure for collecting, analysing and mixing both quantitative and qualitative research and methods in a single study to understand a research problem (Creswell 2012). The study combines both quantitative and qualitative data, and the justification for mixing both types of approach within one study is premised on the fact that neither quantitative nor qualitative data are sufficient, by themselves, to provide the trends and details of a circumstance (Ivankova et al. 2006). Therefore, to minimize unimethod bias, we select explanatory sequential mixed method in order to tap the accrued opportunity in having divergent views on issues addressed by this study.
+Qualitative phase
+The qualitative phase was the first stage in the data collection process and it was achieved through in-depth structured interviews with 10 large- and medium-sized construction firms in Abuja. In determining the number of construction firms to be interviewed, a purposive sampling technique was used. This is a non-probability sampling procedure which is commonly adopted in qualitative research that has to do with selecting the people (unit of analysis) to be interviewed based on the respondent’s knowledge of the subject area (David and Sutton 2004; Cohen et al. 2005; Teddlie and Yu 2007). It was the belief of the authors that large- and mediumsized construction firms will be able to provide the required data regarding the practices of TQM based on the type of projects (in terms of nature, scope and complexity) usually executed by such firms.
+However, when all the purposively selected construction firms were contacted for possible interview to ensure that the next phase of the research will be well
+List of interviewees and their positions for the study.
+Number of years in business
+Number of employees
+Position of the interviewee
+
+
+
+
+
+
+Chief Executive Officer; Quality Control Management; Project Management.
+understood, only 10 firms agreed to the request. However, the selection of the interview participants (see Table 1) was limited to senior management cadre (such as managing directors, quality control managers or project managers) in order to uphold the reliability and validity of the data obtained (Lim et al. 2010).
+To improve the quality of the response and data, the study adopted the method used by Invakova, Creswell, and Stick (2006) by using multiple sources of data collection: (1) in-depth structured face-to-face interviews with 10 respondents; (2) taking notes from those participants that refused to have the sessions recorded; (3) document analysis and unobtrusive observation; and (4) participants were interviewed using interview guide with a total of 16 structured open-ended questions. The researchers sought the permission of the participants to audiorecord the interview which was transcribed verbatim for each of the interview conducted (Creswell 2005). The themes were extracted within and across each interview. The study identified six main themes and sub-themes related to quality issues within the firms interviewed. There are sub-themes relating to the client, to teamwork, delivering improved quality, welfare of workforce and leadership (see Table 2). The themes and the sub-themes identified formed the basis for the development of the survey instrument used in the quantitative phase.
+The essence of the quantitative phase used was to complement the qualitative phase and to allow additional analysis, by taking into cognizance the weakness and strengths of the two approaches. This was employed to assist in recognizing the possible predictive power of the variables identified and their influence on organizational performance. The questionnaire data were obtained through a cross-sectional survey, and the item instrument was self-administered. The variables included in the questionnaire were those variables identified through review and analysis of relevant literature; these allow for
+
+
+Perception of quality
+Quality is about putting standard to your production; elimination of defect from your final product; improvement in the production/services; a way of increasing profits to organization in terms of high-grade products; excellent and satisfactory; competitive advantage in the environment; evolution of final production; standard and getting things right; a way forward to any organization; delivery on time services
+Quality problems in the organization
+Lack of proper knowledge of quality in the organization; poor materials and not using better equipment and workmanship; lack of available resources for project execution; lack of proper monitoring and supervision; lack of commitment and dedication to quality by top management
+Positive Impact of Quality
+Reduce cost of work; increase productivity; increase profit index of the company; increase company market share; reduce errors from the design stage to completion stage; employee involvement in the quality yield product design services; enhance customer satisfaction; compliance with health and safely environment; compliance with ISO 9000 and six sigma standards
+Measuring Customer
+Satisfaction
+Quality-related, client education, respect for customer, growth in contract award; sensitivity to customer’s needs, customer’s experience with the service or provider; value for money and return for its investment; equity or fair treatment; outcome transaction
+Benefits of TQM
+Improved customer satisfaction; schedule of performance is improved rework cost is drastically reduced; teamwork and effective communication is improved; increase market share; increase relationship with professionals in the construction industry; warranty claims assured
+Strategy for implementing
+Quality management systems in all departments; proper training and preparation; TQM implementation; top management commitment; continuous improvement; avoid poor planning; customer relation; compliance to ISO standard reward and recognition; down-sizing
+the measurement of a large number of explored variables from well-founded scales (Zehir et al. 2012). The paper established content validity of the items included in the survey by piloting it on five academics who have participated actively in the construction industry.
+Since it was not possible to include everyone in the quantitative survey phase, the study adopted some criteria for selecting the respondents. These included (1) the company to be selected must be a registered medium and large construction firm in Abuja; (2) the company must not have less than 50 employees on its payroll; (3) respondents must be a staff in medium and large construction organizations in Abuja; (4) must have worked for at least five years within the company; (5) must be a professional as a result of training in a tertiary institution. Based on these criteria, a total of 260 registered medium and large construction firms in Abuja registered with the Federation of Construction Industry were identified and retrieved from Buidling and Construction Abuja Galleria (2013)  From the 260 registered firms identified, 155 firms were drawn from the list using non-bias technique for estimating the number of respondents for survey (see Aiyetan 2009). Out of 155 questionnaires that were self-administered, 128 valid responses were obtained which was approximately 83% rate of response. This high response rate was due to selfadministration of the questionnaires and several calls made to the participants as well as continuous visits to their offices, though on appointment.
+In order to effectively mirror the performance of the organizations, the paper considered focusing on the selfreported satisfaction with the organization performance.
+Following Koh and Sui Pheng Low (2010), the study considered the level of satisfaction appraisals by their degree of significance to the CEO, general manager or quality manager as the case maybe. Each item measuring each of these dimensions included in the questionnaire survey illustrated a performance measure that demanded the respondents to rate the level of performance of their respective organization on a five-point Likert scale ranging from ‘1’ being ‘not at all satisfactory’ to ‘5’ being
+‘very satisfactory.’
+Measures of TQM practices and strategies for continuous improvement were adapted from previous studies (such as Koh and Sui Pheng Low 2010; Sadikoglu and Olcay 2014) and the subsequent scale denoted an evaluation of the degree to which TQM practices as well as strategies for continuous improvement amount to a unique strength for the organization to improve its performance. Each of the items included in the questionnaire survey explained a practice that requires the respondent to rate the level of current TQM implementation in their organizations with respect to the ‘extent of practice’ on a five-point Likert scale, ranging from ‘very lowly practised’ to ‘very highly practised’. While that of strategies for continuous improvement ranges from strongly agree to strongly disagree.
+Analysis and results
+This section presents the results of the analysed data obtained through quantitative approach. Therefore, we report the results of the factor analysis, multiple hierarchical regression and partial least square structural equation modelling (PLS-SEM).
+Factor analysis
+To ensure reliability and validity of the survey scale items, Cronbach’s alpha was used to examine the internal consistency and also inter-item correlations was conducted before the factor analysis was carried out. The factor analysis was used to reduce the number of variables to be considered in subsequent analysis, and to establish the extent to which the underlying factors match with the a-priori item classification as categorized in the literature. Therefore, to establish independence between the theoretical dimensions of the TQM practices, performance as well as strategies for continuous improvement measures, and to ascertain the potential reflective indicators for the PLS-SEM model, the paper examined the items using principal-axis factor analysis. This was performed to see if the factors to be generated will be similar to those identified in literature and also with a mind-set of retaining factors with eigenvalues of greater than 1, using Varimax orthogonal rotation method (Field 2013). As a result of small sample size of the current research that ranges between 100 and 130, the study accepted a factor loading of 0.5 or above to be significant for interpretation (Hair et al. 2010), and to also retain factors that account for at least 60% or less in certain circumstances of the variance explained (Hair et al. 2010). The results of the factor analysis for all the variables are presented in Tables 3–5. The study then conducted Harman’s single-factor test (see Ortega 2010,
+Implementation of total quality management (TQM) practices.
+Prefers training and coaching rather than supervision
+Employee get trained to improve company output
+Quality training is received regularly
+Reward and recognize employees for efforts
+Occupational health and safety training practices are excellent
+Safety equipment and proactive devices have been provided by the company
+Keep clean and neat all the time
+Our processes are effectively designed to reduce employee error
+Standardized and documented operating procedure
+Supplier relationship
+Company establishes good relationship with supplier which leads to continuous improvement
+Supplier materials are conducted to examine before installation to ensure meeting client demand and high quality
+Detailed Information about supplier performance
+Established long-term cooperative relationship with supplier
+Feedback on the performance of supplier is ensured
+Relies heavily on few dependable suppliers Top management
+Top management continually demonstrate their commitment to quality
+Top management has an Inclination to allocate adequate time and resources for quality improvement
+The head of Unit and department in our company accept their responsibility for quality
+Top executive expect change and provides adequate plan to accommodate it Customer focus
+There is contact for customer to access them easily using telephone, email and website
+Customers in our company are given special consideration in terms of product/ services design, development and delivery
+customer complains/suggestion box is fixed in an open place for contribution
+Utmost priority is given to customer needs
+Fostered partnership and customer relationship Benchmarking
+Tracking quality cost to reduce the cost of waste, rework and projection
+Adopts a self-assessment system to improve performance
+Systematically conducts extensive bench marking of the other company business process
+Competitive Bench marking is made against primary competitors
+Kaiser–Meyer–Olkin measure of sampling adequacy
+Bartlett’s test of sphericity
+Organizational performance of TQM.
+Inventory turn over
+Total inventory
+Return on asset has Increased
+Market Share has improved
+Profit has increased
+Employee performance
+Reduced absenteeism of employee
+Enhanced employee job performance
+The morale of our employee
+The employee turnover
+Contributed to the society positively
+Actively involved in the community development Customer results
+Improvement of customer satisfaction
+Customer retention Improved
+Customer complaint
+Production performance
+New product/services introduce to market
+Quality of our PRODUCT/SERVICES
+The use of latest technology innovation in our company
+Development of new product
+Reliability of our product/services
+Our product/services are delivered to customers on time
+Kaiser–Meyer–Olkin measure of sampling adequacy
+Bartlett’s test of sphericity
+Wilden et al. 2013) using a common method variance to examine all of the items included in the factor analysis. The findings show that common method bias is not a problem in this paper. Generally, the resulting Cronbach’s alpha statistics for factors used in measuring the constructs practice as shown in Tables 3–5 range between 0.79 and 0.96, which is well above the 0.60–0.70 threshold range given by Sekaran (2005).
+Strategies for continuous improvement of TQM practice in organization.
+Proper training and preparation
+
+Reward and recognition
+Strategy to improve an organization’s efficiency
+Avoid poor planning Customer relation
+Kaiser–Meyer–Olkin measure of sampling adequacy
+Bartlett’s test of sphericity
+The results of the factor analysis performed on TQM practices are reported in Table 3. The Kaiser– Meyer–Olkin (KMO) statistic and Bartlett test for sphericity (approx. chi-square: sig. 0.000) confirm the adequacy of the sample used for the factor analysis. The study extracts five factors – employee
+involvement and work environment, supplier relationship, top management, customer focus and benchmarking: these factors together explain circa 85% of the variance.
+Following Koh and Sui Pheng Low (2010), the paper included reduction of the number of variables with the minor loss of information through factor analysis. As shown in Table 4, five components were extracted – financial performance, production performance, social responsibility, employee performance, quality orientation and customer result — that together explained 83% of the variance. The Cronbach’s alpha results as well as the KMO and Bartlett test statistics (approx. chi-square: sig. 0.00) were all within their acceptable limits.
+Strategies for continuous improvement
+The outcome from the principal component analysis indicated that two factors were extracted: quality improvement and organization development strategy explained a large percentage of the total variance in the items (77%). Overall, Cronbach’s alpha statistics results were well above the 0.60–0.70 benchmark for exploratory research and the KMO statistic and Bartlett test for sphericity (approx. chi-square: sig. 0.00) attest to the adequacy of the sample for factor analysis.
+Regression analysis results
+The results of the regression analysis that examine the influence of TQM practices and continuous improvement strategies are presented in Table 6. The estimated regression result fulfilled the criteria of good results. For instance, the adjusted R2 values which range between 0.210 and 0.853 are considered reasonable and acceptable in cross-sectional data. Also, the F-test values and adjusted R2 values from the multiple regression analysis established that regression results are meaningful, basically because the dependent variables are linked to each specified explanatory variable in the analysis.
+Table 6 shows both the main or direct effect of TQM practices on all the measures of organizational performance as well as the mediating effects of strategies for continuous improvement. All the models showing the direct effects of TQM practices on organization performance were found to be significant with F-values ranging from 8.07 to 143.27, P < 0.000 (Models 1, 3, 5, 7 and 9). This implies that TQM practices are predictors of organizational performance. These findings align to the previous findings that overall TQM practices have positive relationship with measures of performance (Sadikoglu and Olcay 2014). Models 2, 4, 6, 8 and 10 showed the mediating effects of strategies on TQM practices and organizational performance. Only three models were found to be significant (p < 0.05), while models 6 and 10 were insignificant. Benchmarking was the only TQM practice that exhibited significant relationship with all the measures of organizational performance when mediated by the strategies. These results underscore the findings of previous studies (Tillery and Rutledge 1991; Zairi 1998), which reported that organization’s continuous improvement could be fast-tracked when performance is measured and benchmarked against the best in the world. As a result, productivity, performance and effectiveness can be enhanced.
+Assessment of PLS-SEM results
+Prior to testing of the model, the factors retained by the factor analysis were considered as constructs for this
+Results of the multiple regression analysis showing impact TQM practices and strategies on performance.
+Supplier relationship	¡.474
+Employee involvement and empowerment ¡.7251
+Strategy to improve an organization’s efficiency
+Quality improvement strategy
+Adjusted R Square	.218
+study and thus formed the latent variables for the model. Measurement model assessment
+Therefore, in order to assess the research hypothesis
+PLS-SEM,	according	to	Hair	et	al.	(2014),	allows
+developed as shown in Figure 1, PLS-SEM was used. researchers to have a more flexible way of specifying the
+This technique was employed because it is capable of relationships between items and constructs to ascertain
+testing complete concepts, theories and complex models whether indicator is reflective or formative. This asser-
+by calculating relationships among identified variables. tion affirms the earlier argument put forward by previ-
+According to Hair et al. (2010), PLS has the ability to ous authors (such as Henseler and Chin 2010;
+handle different types of data, either metric or et al. 2012; Henseler et al. 2012) that PLS-SEM permits
+non-metric, with very minimal assumptions about their for a flexible handling of more complex model elements
+characteristics. In fact, Wong (2013) asserted that it can such as moderator variables, nonlinear relationships or
+be used in attempting research problem to deal with hierarchical component models. However, to have a bet-
+imperceptible, hard-to-measure latent variable. Hence, ter or complete evaluation of the research model, the
+to test the model using PLS, SmartPLS (version 2.0) construct’s reliability and validity must meet the minimum
+(Ringle et al. 2005) was used to analyse the data requirement. To, therefore, evaluate the validity and reli-
+The SmartPLS software was considered ability of the reflective indicators included in this study,
+because it is freely and readily available to the research exploratory factor analysis as explained under factor analy-
+community across the globe and very easy to understand sis section was conducted, the result attested to the one-
+(Wong 2013). SEM is a second-generation multivariate dimensional nature of the constructs (Wilden et al. 2013).
+data analysis technique and has been used in various
+While assessing the reliability of indicators, two indicators
+fields of study because of its capability to test hypothetiwere dropped from the initial model as a result of their
+cally supported linear and additive causal model (Statloadings that were below the required threshold of 0.70
+soft 2013). PLS has path modelling algorithm and
+(Fornell and Larcker 1981; Chin 2010), and hence exhibits
+bootstrapping procedure for estimating standard errors undesirable effects on the convergent validity and internal
+and the significance of factor (Gudergan et al. 2008; consistency reliability of the construct measures.
+Peng and Lai 2012; Wong 2013). The default re-sample one of the indicators measuring TQM practices was
+size of 5000 was used to calculate the standard error of excluded from the model despite having loading of 0.619
+the estimate and since there were 128 valid observations, because of the resultant effect it had on the predictive
+Wong (2013) suggested that the 128 valid observations validity of the construct it was measuring.
+should be used in replacing the default (100) to generate
+In assessing the reflective measurement model of the
+t-statistic for significance testing of both the inner and study, the average variance extracted (AVE), factor load-
+outer models. ings, composite reliability, commonality and redundancy
+In assessing PLS-SEM results, two stages were were estimated (Peng and Lai 2012; Wilden et al. 2013) as
+The first stage was to evaluate the measureindicated in Table 5. The results for all the constructs
+ment models; this was undertaken to examine the reflecshowed that the factor loadings indicated that the values
+tive indicators included in the model which was used to were above the benchmark of 0.7 required for exploratory
+ascertain whether the measurement model assessment study of this nature (Bagozzi and Yi 1988; Wong 2013),
+gave satisfactory results. If this is achieved, the second which means it explained more than 50% of the indicator
+stage will be to assess the structural model (Hair et al. variance (Sarstedt et al. 2014a). In using PLS-SEM, internal
+Summarily, according to Sarstedt et al. (2014), consistency reliability is usually assessed using Joreskog’s
+the first stage explored the measurement theory, while
+(1971) composite reliability. Although researchers stated
+the second stage was to examine the structural theory, that composite reliability should be 0.7 or higher, but in an
+which entailed ascertaining whether the hypothesized exploratory research, 0.6 or higher is acceptable (Bagozzi
+statements were significant and to also find out if the and Yi 1988; Hair et al. 2014). However, the composite reli-
+structural relationships were significant and meaningful. ability for this study is above the required threshold of 0.7,
+The PLS-SEM model is founded on the rules of thumb it ranges between 0.896 and 0.942 as shown in Table 5.
+in assessing the results of the model estimation values shown in Table 5 are larger than 0.6, which attest to (Henseler et al. 2009; Hair et al. 2014). the fact that high levels of internal consistency reliability
+However, these rules are dependent on whether the exist among all three reflective latent variables (Chin 2010;
+model includes reflective measures, formative measures
+Wong 2013). Next, the convergent validity of the reflectively
+or both (Sarstedt et al. 2014). The next section evaluates measured construct was examined. Convergent validity
+the model and explains the criteria for the assessment of measures the extent to which multiple items used in
+the models.
+Discriminant validity of constructs.
+Performance	Strategies
+Strategies for continuous improvement
+Diagonals represent the square root of the average variance extracted (AVE) while the other entries represent the correlations.
+measuring the same concept are in agreement. With respect to all constructs included in the model, the AVE is above the threshold of 0.5 (see Table 5), hence convergent validity is established (Henseler et al. 2009; Hair et al. 2011; Wong 2013). According to Sarstedt et al. (2014), the AVE value is estimated as the mean of the squared loadings for all indicators associated with a construct.
+In order to examine whether constructs in the model were adequately different from each other, discriminant validity (Table 7) was assessed using the Fornell and Larcker’s (1981) criterion, which requests for the AVE for a construct to be larger than other correlation values among the latent variables (Wilden et al. 2013; Wong 2013). In examining this (see Table 5), the square root of the value of AVE was calculated and compared with the inter-correlations (see Table 7) of the construct with other constructs in the research model (Chin 2010; Chin et al. 2013), and all the values were found to be greater than each of the construct correlations (Chin 2010); so the measurement model is considered to be satisfactorily achieved. All the constructs included in the model for this study satisfied this requirement. Combining these results, it can be argued that the reflective measurement model presented in this study fits the data well (see Table 5). Therefore, the inner model was satisfactory and provided sufficient evidence in terms of reliability, convergent validity and discriminant validity.
+In order to assess the structural model of the study, the following criteria were considered very essential for the model to be satisfactorily achieved. These criteria included R2 of endogenous latent variables, estimates for path coefficients, effect size f2 and the prediction relevance (Q2 and q2). The R-square is a measure of predictive accuracy of a model by estimating the amount of variance explained in each of the endogenous constructs (Sarstedt et al. 2014). The higher the R2 values, the greater the predictive ability of the model. According to Chin (1998), the rule of thumb states that R2 values of 0.67, 0.33 or 0.19 for endogenous latent variables in the inner path model could be considered as substantial, moderate or weak. The coefficient of determination, R2, is 0.599 for the organizational performance endogenous latent variable as shown in Figure 2. This indicates that the two latent variables (TQM practices and strategies for continuous improvement) moderately explained approximately 60% of the variance in organizational performance. TQM practices alone explained 16.3% of the variance in organizational performance.
+Structural model with path coefficient and R2 values.
+To further evaluate the predictive significance of the structural models, SmartPLS blindfolding procedure was used to calculate Q2. The Q2, according to Sarstedt et al. (2014), is based on the blindfolding procedure that allows for omission of certain part of the data matrix, which then calculates the model variables to predict the excluded part using the previously calculated estimates. However, Rigdon (2014) and Sarstedt et al. (2014) viewed Q2 as a measure of out-of-sample prediction, where Sarstedt et al. (2014) suggested that the lesser the difference between original and predicted values, the higher the Q2 and the greater the predictive relevance of the model. In assessing the model presented here, the
+Structural model with ‘t’ statistic values.
+Q2 was calculated by omitting the distance of seven which generated both cross-validated redundancy (CV Red.) and cross-validated communality (CV Com.) for the three constructs, but cross-validated redundancy was suggested as the best approach (Hair et al. 2014). Therefore, for TQM practices, endogenous construct (CV Red: for strategies, continuous improvement (CV Red: 0.850) and organizational performance (CV Red: 0.672) were suggested. The values for all the endogenous construct were above zero and as a rule of thumb, Q2 value higher than zero for a specific endogenous construct shows that the predictive accuracy of path model is acceptable for that particular construct.
+Following Sarstedt et al. (2014), the coefficient sizes, relevance and significance of the relationships depicted by structural model were examined. The model shows that strategies for continuous improvement had the strongest effect on organizational performance (0.572), while TQM practice had the least effect (0.339). However, estimation from the bootstrapping procedure (128 cases, 5000 samples, no sign changes option) shows that all the hypothesized structural relationships were
+Employee performance
+Production performance
+Strategies for continuous improvement
+Quality improvement
+Customer focus
+Suppliers relationship
+Results summary for reflective outer models.
+statistically significant (p  0.05). Therefore, we inferred that TQM practices and strategies for continuous improvement are both moderately strong predictors of organizational performance. As shown in Figure 3, Tables 8 and 9, all the t-statistics values exceeded 1.96 level of significance, which means all the paths were statistically significant at 95% levels of confidence; thus, all the manifest variables were significant in explaining the constructs included in the model.
+Critical assessment indicates that strategies for continuous improvement by organizations exhibit a higher direct effect on organization performance than TQM practices. However, when further analysis was undertaken, it became evident that strategies for continuous improvement acted as mediator between organizational performance and TQM practices; we therefore estimate the total effect suggested by Sarstedt et al. (2014) as
+Total effect ¼ direct effect þ indirect effect
+From the above, it could be seen that the total effects are greater than the direct effect of TQM practices on
+Summary results of the model constructs.
+Path analysis
+T statistics
+Benchmarking TQM practices
+Customer result	Performance
+Employee	Performance
+Suppliers relationship	TQM practices
+Production performance Performance
+Quality improvement	Strategies
+Top management	TQM practices
+organizational performance (0.339), but almost the same as direct effect of strategies on performance. The next section will examine whether strategies for continuous improvement mediate in the relationship between TQM practices and organizational performance.
+Mediation analysis
+In the course of analysing the total effects, it appears that strategies for continuous improvement mediate in the relationship between TQM practices and organizational performance. To establish this, the approach presented by Sarstedt et al. (2014) was followed by first excluding strategies for continuous improvement from the model and run the bootstrapping using approach earlier discussed. The direct effect between TQM practices and organizational performance value was 0.626 and significant at 99% confidence level. In estimating the full model, the corresponding results of bootstrapping generate 0.339 which is also significant at 99% confidence levels. The variance accounted for (VAF) was calculated using the following formula:
+Indirect effect
+Total effect
+The result produced a VAF value of 0.405, based on the rule of thumb given by Hair et al. (2014), which stated that if VAF > 80%, it is full mediation – 20%  VAF  80%; partial mediation and there is no mediation, if VAF < 20%. Hence, it is sufficing to say that strategies for continuous improvement partially mediate in the relationship between TQM practices and organizational performance.
+Summary of findings and discussion
+The purpose of this paper is to examine the relationship among TQM practice, strategies for continuous improvement and organizational performance, and as well establish the mediating role of strategies for continuous improvement on the other two constructs. The results revealed that both TQM practices and strategies for continuous improvement were significant determinants of organization performance. Strategies for continuous improvement had the strongest effect on organizational performance, while TQM practices also had moderate effect on performance. Based on these findings, it becomes imperative to acknowledge the significant role of having effective strategies for continuous improvement by organizations, as this will not only lead to improve productivity but also better employee’s performance. And by extension, organization performance will be enhanced.
+The results of the PLS-SEM model made obvious the contributions of each of the construct’s measures (see Table 5). A critical look at the structural loadings of each of the TQM practices indicators, the most contributions were from customer focus and top management variables. This implied that each contributed more than 50% of the variance explained by the constructs. Contribution of top management in improving organization’s performance has been well reported in literature. For example, Lau et al. (2015) suggested that when top management continuously places emphasis on organization’s core values and keeps reiterating the organization policies at relevant times and through leading by example,
+Path coefficients and hypothesis testing.
+H1	Strategies for continuous improvement	0.572	Yes is positively related to organizational performance
+H2	Strategies for continuous improvement	0.404	5.576	0.000	Yes mediate in the relationship between TQM performance
+H3	TQM practice is positively related to organizational	0.339	4.672	0.000	Yes
+performance tends to improve. The importance of focusing on customer’s need and its effect on performance has been underscored (e.g. Koh and Sui Pheng Low 2010). In fact, TQM practices, according to Elghamrawy and Shibayama (2008), are a customer-oriented management philosophy for continuous improvement, hence placing more premium on meeting customers’ need will lead to improved organization performance (Koh and Low 2010; Zehir et al. 2012). Further assessment of the remaining two variables also revealed that they make significant contribution to the variance explained by the constructs. When the relationship between TQM practices and measures of organization performance were examined, it was evident that TQM practices had positive and significant effects on the measures of performance (production, employee, financial and customer-related performance); these findings are in tandem to those reported by Agus and Hassan (2011) and Sadikohlu and Zehir (2010). Overall, it was argued that TQM practices were positively related to aggregate organizational performance as hypothesized in this paper and this argument is firmly supported by literature (e.g. Sharma 2006; Sadikohlu and Zehir 2010; Sadikoglu and Olcay 2014).
+In testing the hypothesis that states that TQM practices are positively related to strategies for continuous improvement, the contributions of the two indicators of the strategy were examined: quality improvement and organization development strategy. These two indicators explained above 50% of the variance of the strategies, and their contributions in enhancing TQM practices have been established. For instance, Koh and Sui Pheng Low (2010) asserted that quality is a significant issue which often appears to be the integration of a culture that encourages employees’ involvement and leadership by example. Agus and Hassan (2011) as well as Sadikoglu and Olcay (2014) contended that strategies for continuous improvement drive TQM practices. This is made obvious by the level of significance in the relationship between the strategies and TQM practices which gives support to the hypothesis that highlights that ‘TQM practice is positively related to strategies for continuous improvement’. Table 10 provides the summary of the hypothesized statements and inferences drawn on each.
+Finally, the findings also revealed that strategies for continuous improvement are significantly related to measures of performance and aggregate organizational performance. However, many of the previous studies viewed these strategies from leadership (Macinati 2008; Zu et al. 2008; Koh and Sui Pheng Low 2010; Sadikoglu and Olcay 2014) and training or process management (Tari et al. 2007; Phan et al. 2011; Sadikohlu and Zehir 2010) perspectives. These researchers acknowledged that these strategies are positively related to measures of performance and aggregate performance (Tari et al. 2007; Zu et al. 2008). We, therefore, suggest that construction organizations can improve their performances by adopting and incorporating TQM practices and strategies for continuous improvement. The findings draw attention to the influence of TQM practices and strategies for continuous improvement which underscore the assertion that the structural model has a satisfactory fit.
+Implications, limitations and conclusions
+The existing literature on TQM and organizational performance has been inconclusive about the nature of their relationships. However, most of these studies were conducted in the developed country, but this current study is in the context of a developing country. It, therefore, extends and contributes to the emergent body of TQM literature by highlighting the implications for the indepth examination of the organization’s efforts to develop a structured method to continuous improvement within an organization. Undoubtedly, this study will raise the level of awareness of implementing TQM practice within the Nigerian construction industry and globally. This is because the study has shown that application of TQM is vital for all construction organizations’ survival in the hypercompetitive construction business environment. Hence, the findings presented here have implications for both practitioners in construction organizations and researchers in the construction management field.
+According to TQM philosophy, managers must understand that implementation of TQM will assist organizations in achieving superior organizational performance in a specific environment and at a certain time. This is because commitment of organization’s management and continuous improvement have been established to be positive and strongly related. This study hence offers some indications of the performance effects of implementing TQM with different strategies for continuous improvement in different competitive construction environments.
+In the course of developing this study, various limitations that may have impact on the result obtained by extension were identified. The most significant among these was the cross-sectional approach to data collection adopted. However, based on the comprehensive data needed to realize the objectives of this study, a longitudinal approach would unreasonably be more complicated. Hence, the non-longitudinal approach of the research was sufficient enough in achieving the objectives of the study as used by other similar researches. Effort was made to eliminate common method bias that is often associated with a single method and the finding of Harman’s single-factor test indicated that common method bias is not a problem in this research. The study acknowledged that the perceptions of the CEOs and other managers as the case maybe regarding the main aspects of this study may be subjective, which might impose potential limitations on the findings obtained. The limitation might also emanate from the tacit inclination of the questionnaire respondents who responded to the survey either to justify the conduct of their companies, or hinged their justification on the understanding of what makes management of organizations effective. The conclusions of the study, therefore, have varied managerial implications. Construction managers or CEOs of construction organizations need to assess the extent to which their strategies can improve or lead to continuous improvement. In line with this, managers will be able to promote the positive influence of TQM practices via quality and employee performance to achieve the main philosophy behind TQM. The implementation of these practices, together with strategies for continuous improvement, will lead to better quality performance of the construction organization. Based on this study, it is advocated that future study should focus on the influence of culture on TQM practices since organizational culture has effect on organizational performance.
+No potential conflict of interest was reported by the authors.

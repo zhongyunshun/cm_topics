@@ -1,0 +1,106 @@
+Caroline T. W. Chan
+To cite this article: Caroline T. W. Chan (2007) Fuzzy procurement selection model for construction projects, Construction Management and Economics, 25: 6, 611-618, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (June 2007) 25, 611–618
+City University of Hong Kong, Division of Building Science and Technology, Hong Kong, China
+Received 23 August 2006; accepted 9 January 2007
+Recent developments in procurement selection systems are reviewed and this reveals contradiction and conflict with previous work. A mathematical rank model called fuzzy procurement selection model (FPSM) is proposed to adapt to local circumstances. FPSM can be modified according to local conditions or requirements and the modification methods are well documented in previous work. The proposed model overcomes the continual arguments on establishing a set of universal criteria on procurement selection systems and provides a useful tool
+to cope with different project/client’s requirements.
+Procurement, selection criteria, fuzzy logic
+Introduction
+The selection and use of an appropriate procurement system is a significant factor for the success of a construction project (Naoum, 1994; Sharif and Morledge, 1994; Rwelamila and Meyer, 1999). It has also gained much attention from practitioners in the industry recently (Chang and Ive, 2002). Various models were developed to assist decision making in this selection process (Ng et al., 2002; Alhazmi and McCaffer, 2000; Cheung et al., 2001; Chang and Ive, 2002; Luu et al., 2005). Although these models provide useful mechanisms for improving the decision structure of procurement selection, none has been adopted widely in practice. Ireland (1985) believes that one possible reason is the lack of a universally applicable set of criteria to determine the appropriateness of a procurement system. Another difficulty is that some criteria are fuzzy (linguistic) in nature, requiring decision makers’ value judgments when those criteria are assessed (Nahapiet and Nahapiet, 1985; Hamilton, 1987).
+Ng et al. (2002) establish a number of the membership functions (a membership function represents the fuzziness degree of linguistic variables) of fuzzy procurement selection criteria (Zadeh, 1965) through
+an empirical study. This is the first step towards the development of a fuzzy procurement selection model which enables the interpretation of the fuzzy decision criteria in a logical way.
+The purpose of this research is to complete the system by incorporating fuzzy relations and other researchers’ ideas on the assigning of weight of selection criteria.
+Previous studies on criteria models of procurement system selection
+Alhazmi and McCaffer (2000) developed a procurement selection system called the project procurement system selection model (PPSSM). This model consists of four screening levels in the selection process: (1) feasibility ranking; (2) evaluation by comparison; (3) weighted evaluation; and (4) analytic hierarchy process (AHP). As a result, the most suitable system can be selected. However, the major deficiency of this study is the lack of explanation on the parameters or criteria chosen for selection.
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2007 Taylor & Francis
+Cheung et al. (2001) reviewed literature from 1983 to 1994 (e.g. Bennett and Flanagan, 1983; Hewitt, 1985; Masterman and Gameson, 1994; NEDO, 1985; Skitmore and Mardsen, 1988; Franks, 1990). Through extensive research with local experts in Hong Kong, significant factors in the selection of procurement system were identified. They are (1) speed: the speed of project completion; (2) certainty: the certainty over the cost for completion of the project; (3) flexibility: the ability and authority of the owner to effect changes; (4) quality level: the quality level required of the completed project; (5) complexity: the suitability of the procurement method in handling complex projects; (6) risk avoidance: the shifting of risk to the contractor; (7) price competition: the degree of price competition associated with the procurement options; and (8) point of responsibility: the clarity of delineation of responsibility.
+Ng et al. (2002) reviewed literatures of the last two decades (e.g. Bennett and Flanagan, 1983; Hewitt, 1985; NEDO, 1985; Skitmore and Marsden, 1988; Masterman and Duff, 1994; Singh, 1990). They concluded that speed, complexity, flexibility, responsibility, quality level, risk allocation, price competition, time certainty and price certainty were the significant factors for successful selection of procurement system.
+Chang and Ive (2002) pointed out that the basic idea underlying the MAUA (multi-attribute utility approach) is that the client selects an appropriate procurement route on the basis of priority factors. However, the main issue of why the factors were relevant/ irrelevant was not addressed in their paper, although these factors were apparently the attributes considered by the clients in practice. They claimed that only five consequence variables (CVs) including speed; outturn price, decomposed into two stages, outturn price certainty (that final payment will not exceed bid price or estimate), and price competition (to drive down lowest bidding price); achieving the level of quality specified; and risk avoidance (by transferring risk to the contractor) were required when applied to a system approach to select procurement methods. This is quite different from the findings of other researchers when many other factors are taken into consideration. This arguments still exists in defining the procurement selection criteria.
+Luu et al. (2003) conducted a survey on 34 procurement selection criteria (PSC). By using a principle component analysis, they identified eight significant factors in procurement system selection: ‘external factors’, ‘client’s long-term objectives’, ‘project’s physical characteristics’, ‘client’s short-term objectives’, ‘client’s characteristics’, ‘client’s involvement and risk allocation’, and ‘building’s aesthetics and complexity’.
+However, Luu et al. (2005) suggested that in reality, a combination of procurement selection criteria (PSC), such as speed, time certainty, quality, risk allocation, flexibility, etc., might have to be considered to encapsulate the distinctive characteristics of a project and client. Nevertheless, as the project nature and client objectives vary significantly across different projects, it is impossible to establish a universal structure to represent the interrelationships of PSC for every unique circumstance. This belief is based on the literature review that inexperienced decision makers may encounter difficulties when dealing with the complex interrelationships of PSC due to their bounded rationality and limited experiential capacity (Ireland, 1985; Nahapiet and Nahapiet, 1985; Hamilton, 1987 and Masterman, 1992). The latest opinion of Luu et al. (2005) seems to originate from 1980s to 1990s literature; though it contradicts their original findings in 2003.
+Such debate of whether a universal set of criteria for procurement method selection can be established seems to be an endless issue which becomes a black hole to attract researchers on procurement system development. However, it is not necessary to hold up all the technical development to wait for the end of this debate. This paper is to build up a fuzzy procurement system which can adopt different sets of selection criteria according to the needs of users.
+Proposed fuzzy procurement selection model (FPSM)
+mathematical model on the fuzzy membership by Ng et al. (2002)
+Ng et al. (2002) have developed the fuzzy member functions for seven procurement selection criteria: speed, flexibility, responsibility, complexity, risk allocation, price competition and quality. The general mathematical forms of the fuzzy membership functions can be written as follows.
+There are inputs of values of x for each criterion with reference to each type of procurement method i. The outputs are the degree of membership for each criterion with reference to each type of procurement method i which is denoted by mci(x).
+
+2Flexibility 3Responsibility i5forComplexity
+5 Risk allocation
+
+where a, b, c, d are the four constants in each membership function. Ng et al. (2002) identified all the associated values as detailed in Table1.
+Those inputs of x are the normalized percentage indices referring to each criterion on each type of procurement system. The x values were calculated based on the methodology suggested by Ng et al. (2002). The detailed definition of each percentage index is included in Ng et al. (2002) and thus not explained here.
+determination of the weighting on each criterion
+Cheung et al.’s (2001) model which applied the analytical hierarchy process (AHP) to develop a procurement selection method can be used as a starting point here. They proposed a weighting assignment based on a study of Hong Kong’s situation. However, the model contains some unnecessary criteria that Chang and Ive (2002) have pointed out, as marked by asterisks in Table2.
+After normalization and the calculation of Part I for other procurement systems, the results are summarized in Table3.
+In fuzzy set theory, distribution of weighting is a fuzzy set under the criteria set.
+where the numerator of each fraction is the degree of the membership (i.e. the weighting) of the corresponding element in the denominator, and the plus sign (+) is
+simply a notation	without the usual meaning addition.
+Or simply written as,
+
+A fuzzy relationship is thus developed:
+Consequently, the factor evaluation matrix is formed.
+Calculation example: degree of memberships in each mci(x) and mci(Low/Basic)(x), mci(Medium/Good)(x), mci(High/Prestige)(x), for sequential traditional procurement method
+Table 2 Importance weighting on each criterion by Cheung et al. (2001)
+Flexibility*
+Quality level
+Complexity*
+Point of responsibility*
+In the above example, Ri becomes
+Having the evaluation matrix Ri and the degree of
+membership of each factor, the following formula is used to find out the fuzzy synthesis evaluation result. The symbol o means the composite operation.
+where bik is the degree of membership of the corresponding element in the denominator (i.e. vk) with respect to Bi which is fuzzy vector (i.e. (bi1, bi2, …,
+There are four models that are commonly used to find the result of the evaluation (for further details see Appendix I). In this case, the weighted mean method is used because it averages out the single impact of a specific factor.
+The symbol % in this model represents the summation
+with 1 as an upper limit. This model is called the weighted mean method. The effects of all the evaluation factors are reserved in this model.
+As Hsiao stated (1998), ‘the characteristic of this
+operation is that when the weighting functions aij are
+regress to the addition of real number such that X0
+Therefore, the results for various procurement methods become: B1 for sequential traditional
+B2 for accelerated traditional
+B3 for competitive design and build
+B4 for turnkey package offered by a contractor
+B5 for management contracting
+B6 for construction management
+aggregation of the results
+Chen (1998) proposed a method to solve the nonapplicability of getting the largest degree of membership theory in order to determine the new target. For C5(c1, c2, c3, …, ck, co) as described before, the
+distribution of relative degree of membership needs to be normalized first.
+After normalization, B1 for sequential traditional~
+
+Table 3 Normalized weighting and the calculated degree of membership of mci(Low/Basic)(x), mci(Medium/Good)(x), mci(High/Prestige)(x) for sequential traditional procurement method
+
+
+Quality level
+Using equation (10) in Chen (1998),
+
+H(u) is the score for the procurement method concerned (higher score represents higher suitability of that procurement method); bk is the degree of membership; k is the variable of different condition of the sample.
+The calculation of H1(u) to H6(u) is shown as follows. The relative ranking of each procurement method can be identified by sorting the Hi(u) scores in descending order as listed in Table 4.
+In short, the rankings of the six procurement systems in the example are
+Table 4	The final ranking of the procurement system
+
+Procurement methods	Ranking
+(3) Competitive design and build	2.4262568
+(5) Management contracting	1.9373456
+(4) Turnkey package offered by a contractor	1.9065838
+(2) Accelerated traditional (construction	1.7310866 commences with design partially completed)
+To summarize, the steps of applying the proposed system include:
+(1) Define the criteria for the procurement selection model.
+(2) Input the membership function based on the results collected from local studies e.g. interviews or questionnaires as detailed in Ng et al. (2002). Once the membership function is developed, it can be reused in other cases within the same environmental condition.
+(3) Study the characteristics of the project in question and input the scores under each criterion.
+(4) The ranking results will be calculated by the proposed model automatically.
+System assumptions are:
+(1) The market condition can be approximated by a suitable application of membership function.
+(2) The market condition does not change suddenly and substantially so that the membership function can reflect the real market.
+(3) The users have enough profession knowledge to select suitable selection criteria and to derive the associated membership function.
+The debate on setting a common set of criteria in procurement system selection gives no sign of coming to an end. In the past, researchers used different statistical datasets from their own countries and came to different conclusions. Alhazmi and McCaffer’s model (2000) consists of many levels of screening, which is time consuming. Although Cheung et al. (2001) make significant contributions to criteria settings for the procurement selection problem, their model was AHP-based which was generic in nature. Ng et al. (2002) only developed the membership function for the Australian market but not a complete decision system. The proposed FPSM in this paper combines the advantages and, at the same time, tries to eliminate the disadvantages of other models.
+It is believed that procurement system selection should consider the local cultures to allow modification and adjustments in order to achieve project success. A mathematical model on fuzzy procurement selection system contributes a common framework for different local conditions while statistical research on the setting of criteria, weightings and membership functions on specific local markets can be continued.
+In this paper, the membership functions developed by Ng et al. (2002) from Australian data and the weightings found by Cheung et al. (2001) in Hong Kong were used to demonstrate the complete mathematical procedures associated with the proposed fuzzy procurement selection model. It must be emphasized that there is no suggestion of ignoring the necessary modification for different local conditions. In other words, before applying the system in Hong Kong, the membership functions should be modified according to the local statistical data. The method to develop the membership functions can follow Ng et al.’s (2002) work. If it is used in Australia, Cheung’s weighting on criteria may not be applicable. The weightings should be set by a local expert instead.
+The scores generated by the proposed model help users to eliminate one’s personal preference by experience or perception. Nevertheless, the model has its limitation of not considering some of the hidden consequences associated with one procurement method. For instance, in case of determination of contractor, different procurement methods will involve varying degrees of difficulty/inflexibility in terms of e.g. ascertaining the determined contractor’s work done and outstanding payment. At this point, professional judgment can help. In other words, the proposed model is not intended to replace professional judgment and reasoning, but to assist a multi-criteria comparison and trade-off consideration to be made in a more systematic manner.
+Professional feedback
+The proposed model was presented to six professionals in the construction industry for comment. All of them were contract administrators/quantity surveyors working for developers in Hong Kong, with more than 10 years’ experience in procurement of contractors. Basic methodology and principles of the model were explained to them. They were asked to comment on the user-friendliness of the model and the likelihood of applying the model. All the six professionals unanimously agreed that selection of a suitable procurement method was important but difficult. Five out of six agreed that the model was simple to use, especially if the criteria and membership functions were readily available. Only one member expressed concern at the difficulty of developing the membership functions with the expertise of construction professionals. Nevertheless, it is understood that the collection of data and development of membership functions can be done by researchers collaboratively. Furthermore, once the functions are developed and the conditions or criteria are stable, no modification of the model is required. Therefore, all of them agreed that the model was a useful tool to assist the selection of procurement system, and should be a worthwhile development in the construction industry.
+
+The mathematical techniques used in the proposed fuzzy procurement selection model (FPSM) are, in fact, well developed and well known. The proposed model combined the fuzzy membership function, fuzzy relationship model and Chen’s (1998) fuzzy synthesis evaluation model to form a ranking system which can adopt differences in local practices or requirements. The suggested model overcomes the continual arguments on establishing a set of universal criteria on procurement selection systems.
+This research is supported by the City University of Hong Kong under the BST Divisional Research Grant No. DRG 03/05-06.

@@ -1,0 +1,73 @@
+(Building Information Modeling) 적용과 효과 분석
+Application and Effects Analysis of BIM(Building Information Modeling) for Construction Management of a Construction Field
+SchoolofArchitecturalEngineering,KoreaUniversityofTechnologyandEducation,Chonan,330-708,Korea1
+DepartmentofArchitecturalEngineering,ChangwonNationalUniversity,Changwon,641-773,Korea2
+As recent buildings have been enlarged and free-formed, it is hard to represent three-dimensional buildings with two -dimensional drawings and identify design errors, construction errors, difference of construction quantity and construction cost, clash with columns, beams, pipe machinery, and so on. In order to overcome the limitations, BIM(Building Information Modeling) has been used in construction industry. However, BIM in the construction site is not fully facilitated after practical implementation in process control including training, evaluation and analysis of the process. Therefore, in this study, the effect of BIM applied in the construction site is analyzed empirically throughout the survey at the construction site in accordance with the training, evaluation, and implementation of BIM.
+BIM(building information modeling), construction management, question investigation
+November 3, 2014
+Revision received : November 25, 2014
+December 2, 2014
+* Corresponding author : Ryu, Han-Guk
+ⓒ2015 The Korea Institute of Building Construction, All rights reserved.
+Daily meeting
+Person in charge
+Construction manager of contractor
+Contractor and subcontractors’ field engineer
+Contractor and
+
+
+Sharing the model
+information with
+Contractor: Work items and facility location mark on the 4D model and
+Subcontracotrs: 4D model mark adaptation of work
+and facility movement path and making of dangerous work plan
+Discussion about
+
+work items especially
+with other work
+Schedule meeting	Figure 2. Explanation of work using BIM	items to workers using BIM
+Crane simulation for steel truss installation (Source: Daelim Industrial Cooperation)
+Simulation of temporary bent installation (Source: Daelim Industrial Cooperation)
+Temporary alley and	Figure 6. BIM modeling and hanging scaffold installation	installation of net
+Educated and tested members of 4 projects
+Building type
+architecture, electric, safety and facility.
+Office building
+
+
+Architecture, quality, civil, construction
+
+Office building
+Safety, architecture, safety, facility, electric.
+BIM operating education
+Using Time of BIM for assigned job
+Continuously using
+Temporary using
+
+The most satisfied aspects after using BIM
+Understanding of building space
+Quick identification of size
+Easy identification of column, beam, etc.
+
+The mostly used works by BIM
+Documentation of safety and construction work
+Various reporting works
+Work ordering at the site
+
+Effect level of BIM in the last 5 minutes of daily schedule meeting
+It has effect and I will extend the time more than
+It has effect and I will use the 5 minutes
+It has no effect and I will not use the minutes
+Effect level of BIM for the site safety management work
+It is beneficial to safety management
+It is somehow beneficial to safety management but it has shortage
+It is not beneficial to safety management
+Necessity of extension to the other construction projects such as your project
+It is necessary to extend to the other projects
+It is necessary to extend to the other projects but the time is not yet ripe for applying
+It is not necessary to extend to the other projects
+Level of difficulty of BIM education at the site
+Not educated
+Level of difficulty of self-learning through the supplied BIM textbook
+Not educated
+This research is financially supported by Changwon National University in 2013∼2014

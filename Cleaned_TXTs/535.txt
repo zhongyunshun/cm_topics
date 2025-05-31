@@ -1,0 +1,153 @@
+Using linear model for learning curve effect on highrise floor construction
+J. P. Couto & J. C. Teixeira Corresponding author
+To cite this article: J. P. Couto & J. C. Teixeira Corresponding author (2005) Using linear model for learning curve effect on highrise floor construction, Construction Management and Economics, 23: 4, 355-364, DOI: 10.1080/01446190500040505
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (May 2005) 23, 355–364
+Using linear model for learning curve effect on highrise floor construction
+J. P. COUTO and J. C. TEIXEIRA*
+Department of Civil Engineering, University of Minho, Polo de Azure´m, Portugal
+Received 18 July 2003; accepted 15 December 2004
+The evolution of repetitive scheduling methods led to the introduction of the learning concept in construction planning. It is common knowledge that performing the same activity repeatedly, and in the same conditions, takes less and less time as the activity is repeated (Gates and Scarpa, 1972). This phenomenon is clear in many construction activities and is known as learning experience or learning effect. The increase in productivity is mainly due to the increasing knowledge acquired by work repetition. Graphic representation is through a learning curve that admits duration decreases as the activity is repeated, according to a predictable and constant learning rate. The Linear Model of logarithmic coordinates (log10Y 5 log10A – nlog10X) was applied to two repetitive construction processes, frequently used in Portuguese construction. The intent was to examine its applicability and efficiency in predicting future performances, and the interest in incorporating the model in new planning methodologies for repetitive construction. In both cases, learning processes were created.
+Learning effect, learning curve, linear model, planning construction, models, repetitive construction
+Incorporating the learning effect in repetitive construction
+Specific scheduling methods may be used advantageously for construction projects with repetitive characteristics, but incorporating the learning effect into the estimation of activity duration may lead to even better results (Pilcher, 1992).
+Acknowledging the restrictions imposed by traditional programming methods in treating this type of project, specific methods for repetitive construction have been suggested for the last 30 years (Couto, 1998; Teixeira and Couto, 2002a). They were first based on the Line of Balance concept with a constant production rate, but subsequent developments have considered variable production rates that are best suited to the consideration of the learning effect (Couto and Teixeira, 2002; Teixeira and Couto, 2002b). The time required to perform identical activities successively and in the same conditions is expected to decrease to a certain value; hence, considering the learning effect in performing an activity is the same as admitting an increase in production rates from a certain number of
+repetitions, and at least during some subsequent repetitions. Therefore, it is possible to introduce this effect in repetitive construction scheduling methods, thus bringing about an expected efficiency increase after an initial learning period.
+Mathematical models for the learning curve
+General aspects
+The learning curve is graphically represented by the amount of time, cost or number of man-hours needed for carrying out the successive activities required (Everett and Farghal, 1994). The learning curve concept emphasizes that time, cost and man-hours for accomplishing repetitive and subsequent tasks decreases in each repetition, according to a predictable learning rate.
+The first known study on the learning curve, conducted by Wright in 1936, concluded that the number of man-hours necessary to install airplane components (Wright, 1936) decreased 20% each time theunitsproduced doubled.Inother words,productivity improved20%duetothelearningeffect(Carlson,1973),
+*Author for correspondence. jct@civil.uminho.pt
+meaning that the learning rate is 80%. Therefore, the
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2005 Taylor & Francis Group Ltd
+smaller the learning, and consequent increase in productivity, the greater the learning rate and vice-versa. Hence,alearningrateof100%indicatesazeroincreasein productivity (Lutz et al., 1994).
+Theoretically, a learning curve in logarithmic coordinates can be divided into three parts, as illustrated in Figure1 (Thomas et al., 1986). In the first part, previous experience allows for modest improvement in productivity. As workers become familiar with constructive processes, material and project environment, productivity improves and the learning curve drops sharply. The third part is represented by a horizontal line, evidencing that no additional improvement may be achieved in productivity. Once this stage is reached, improvement in productivity can only be reached with more efficient construction processes (Lutz et al., 1994; Cunningham, 1980). In Figure1, Y is the cost, man-hours or time required to perform a repeated generic unit X.
+The importance of the learning effect in planning has become an attractive research topic first directed to industry and more recently to construction. Accordingly, various mathematical learning curve models have been proposed (Couto and Teixeira, 2004). The difficulty in using the outcomes of this research lies in selecting the most adequate model for each construction activity and how they can possibly inter-relate among the vast amount of activities of an ordinary construction.
+Correlation studies of mathematical models for the learning curve
+Nowadays, the most frequently used learning curves generally follow the Stanford ‘B’ Model or the Linear Model of logarithmic coordinates (Tanner, 1985). Graphically, both curves are approximately represented by a straight line in logarithmic coordinates (Lutz et al., 1994). However, various other mathematical models may be found in literature, for example the Cubic Model, the Piecewise, the Exponential and the Boeing curves (Thomas et al., 1986; Couto and Teixeira, 2004). The question of which model is the most precise for each construction activity has been the object of several studies, in which researchers have compared the performance of various mathematical models against case studies. Among these studies those made by Thomas et al. (1986) and primarily by Everett and Farghal (1994) can be highlighted.
+According to Everett and Farghal, for 60 frequent types of construction work the Linear Model (LOGx, LOGy) (or Straight Line Model) offers better predictions while the Cubic Models offer better correlation with past information (Everett and Farghal, 1994).
+Principle bases of the Linear Model
+In the Wright Model (Wright, 1936), the duration of a number of repetitive activities decreases with a constant rate. It is named the ‘Straight Line Model’ because the learning curve is a straight line in logarithmic coordinates (Thomas et al., 1986), as illustrated in Figure1. The mathematical equation is as follows:
+with Y the cost, man-hours or time required to perform a repeated generic unit X, A is the cost, man-hours or time necessary to perform the first unit and n the slope of the logarithmic line. Equation 1 can be logarithmically represented as follows:
+The learning rate L is expressed in percentage and may be obtained from the slope of the logarithmic learning line, or vice-versa, as follows:
+Figure 1	Theoretical learning curve with logarithmic
+The higher the learning (resulting in an increase in production), the greater the slope of the learning curve and the smaller the learning rate.
+In order to define the equation of the learning curve, the value of A must be known and the value of the learning rate must be assumed. Alternatively, the values of A and Y for the kth repetition (for example for k51), defines the line.
+Learning curve effect on highrise floor construction	357
+A survey was made of a set of seven identical housing developments built in the Porto area during the year 2002. Each project consists of several buildings with similar characteristics. The data collected refer to the concrete frame of those buildings, which basically comprises cast in situ concrete elements such as columns, beams, walls and slabs. This corresponds to a typical building structure in Portugal and is therefore interesting for analysis. Data from the construction tasks required for the erection of each building floor level have been aggregated into a single construction activity, and the corresponding duration has been computed in terms of man-hours.
+The results of this work are summarized in the tables below.Eachtablerelatestoaspecificprojectandincludes datafrom thebuildingscomprised init.Total man-hours required for erecting each floor level on each building are depicted on the corresponding shaded row.
+A first glance at these data clearly show the importance of the learning effect in repetitive construction. Assuming that planned man-hours for the first floor are identical to man-hours recorded for that floor, productivity gains have reached as much as 33% in the best projects, but they were revealed to be negligible, at worst. Moreover, data collected provide evidence of similar productivity evolution in each table, that is to say that buildings pertaining to the same development followed identical learning patterns. This may be possibly explained by the effect of similar site conditions and site management.
+A further analysis of the data has shown that it could be reasonably approached by a two-stage learning curve, instead of the three-stage model of Figure1 above. Although some initial increase in productivity may possibly exist, the effect of this is likely to be diluted in the performance of the elementary tasks of the first level. Accordingly, the number of man-hours required for each building floor has been computed at a constant learning rate up to a level where no further productivity increase has been recorded. The same number of man-hours has been used for the upper floor levels. These results are depicted on the second and third rows in the tables and correspond to the second and third stages of Figure1.
+The curve corresponding to a constant learning rate (actually, a straight line in logarithmic coordinates as shown in Figure1) has been fitted to data collected through a minimum square of differences approach. The calculation of man-hours required for erecting each floor is very easy after Equation 3. The platform corresponding to no further learning (or to a learning rate of 100%) tends to be achieved no earlier than the fifth repetition in all projects surveyed. For the whole, the differences between actual project durations and computed durations have been minimized.
+A more detailed analysis of each project allows for other interesting conclusions. Project SGL (Table1) reveals typical learning curves with identical learning rates of roughly 83% for all buildings. SGL2B and SGL3B evidence interruptions in the learning processes on the fourth level, with further reflections on the upper two levels. This may have resulted from changes in the work crews involved in the project on that occasion.
+For project INFOC (Table2) it was not possible to detect any learning effect because data recorded on site are very erratic. This may be due to poor management, constant variations, many changes in the work crews, etc.
+Project IDF (Table3) shows the effect of disturbing the project sequence (because of holidays). The learning process was interrupted and recovered later. A better approach to this would possibly be through a new learning curve after the disruption (see case study B below). The survey reported above shows that the learning process is dependent on a number of factors, namely:
+N Project characteristics some projects allow for larger learning than others. Slight differences between successive floors may force the learning rate to increase.
+N Project variations – these may impose changes in earlier provisions and introduce delays.
+N Changes in the work crew – new crewmembers need time to adapt thus slowing down the learning evolution and introducing delays.
+N Replacement of work crews or subcontractors – the replacement of work crews or subcontractors resets the learning process.
+N Poor management – lack of work preparation or insufficient production factors may introduce delays, leading to the frustration and demotivation of workers, which in turn is reflected in lower productivity.
+In view of the above it may be concluded that in order to benefit from the learning effect, building design must be appropriate, careful site preparation is needed, few changes in work teams ought to be allowed and efficient management is required. For projects fulfilling these characteristics, a learning rate of not less that 85% in no more than five succeeding floor repetitions appears to adequately fit site productivity. These results have been used in two case studies, as reported in the next section.
+Case study A
+Case study A is about the construction of a concrete structure for a building comprising basement, ground
+Table 1	Project SGL
+Building	Durations	Lear.	Floor levels	Total	Diff rates	dur.
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Planned duration/ floor
+Accumulated planned duration
+Ground floor
+
+
+
+
+
+
+
+Building	Durations	Learning	Floor levels	Total	Diff rates	duration
+Computed duration
+Computed duration
+Computed duration
+Computed duration
+Table 4	Case study A
+Computed duration	85%	12.00	10.20	9.27	8.67	8.23	7.88
+Computed duration	100%	7.88	7.88	7.88	72.02 21%
+Learning curve effect on highrise floor construction	361
+Figure 2	Variation of the duration period/floor - case A
+Figure 3	Production graphic - case A
+Y – time/floor
+Ground floor
+
+
+
+
+
+
+
+floor and eight identical upper floors. An increase in productivity of 15% corresponding to a learning rate of 85% has been recorded from the first to the sixth floor. No increase has been found for the last
+Table 6	Calculating the learning curve, case A
+two floors. The basement and the ground floor have not been considered in this process. Results are shown in Table4 that have a similar shape to the preceding ones. The production value for the sixth floor is abnormally large, possibly due to some management problems.
+Table5 summarizes previous results and furnishes accumulated man-hours for each floor-level. The average man-hour consumption was nine per floor, thus corresponding to a 23% saving when compared to the activity duration of the first floor.
+Figures2 and 3 show that the production planned graphic closely approaches the actual production graphic. For the seventh and eighth floors, the production line is horizontal, which means no additional learning.
+The above observations may be confirmed by analysing the learning curve of the project, as illustrated in Table6 and Figure4.
+Case study B
+Case Study B is about the construction of a concrete structure for a building of 12 similar floors. A two-stage learning approach has been adopted with identical
+learning rate as in case study A. Construction was interrupted because of Easter holidays and so was the learning process. When work resumed at the seventh floor, the learning process re-started but it took a shorter period. This has been simulated by a new learning curve starting at that floor level.
+The first three rows of Table7 show actual production data, calculation for the learning rate of 85% for the first five repetitions and constant productivity for the upper levels. This is identical to the earlier tables. However, two new lines have been added because of the holiday disruption. First, the assumable planned productivity of 6.63 man-hours has been adopted for the seventh floor – this is the average between the number of man-hours recorded for the ground floor (8) and after experience (5.26). Secondly, the learning rate of 85% was used for the subsequent two floors. Finally, constant productivity for the upper levels has been assumed.
+Table8 summarizes previous results and furnishes data for Figures5 and 6, which show that planned production data generated by the linear model closely fits actual data. The average man-hour consumption was 5.8 per floor but it could well have been 5.4 if the interruption had not occurred.
+Table9 summarizes calculations for the learning curve of the project, which is depicted in figure7.
+The effect of learning in repetitive building projects may lead to important gains in productivity – too important to be neglected. However, some conditions have to be observed if the learning effect is to be met. Planners from projects surveyed had not considered it for safety reasons, and one could say that they chose the right option if the results of some grey lines of the tables of section 3 are considered. Average data from production reflect productivity gains caused by the learning effect, but conditions favouring it in the project being planned may possibly not be replicated on the building site.
+For case studies A and B, the linear model of logarithmic coordinates adequately fits the data collected from sites surveyed. Case study A shows a project in which things seem to have gone well enough, despite the fact that some problems could be detected in the erection of the sixth floor. Without this problem, further savings could probably have been achieved.
+Case study B is about a project with a sound productivity evolution, but it recalls the need to plan for expected interruptions in the construction sequence.
+Learning curve effect on highrise floor construction	363
+Table 8	Calculation of duration periods per floor according to the linear model, case B
+Accumulated Planned Accumulated planned actual duration duration/floor duration
+Ground floor
+
+
+
+
+
+
+
+
+
+
+
+
+
+Variation of the duratio
+on graphic - case B
+Calculating the learning curve, case B
+Y – time/floor
+Ground floor
+
+3rd floor 4th floor
+
+
+
+
+
+
+
+
+
+
+
+Figure 7	Learning curve - case B

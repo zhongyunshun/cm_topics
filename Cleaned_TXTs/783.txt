@@ -1,0 +1,18 @@
+﻿IAES International Journal of Artificial Intelligence (IJ-AI)
+Information system based on multi-value classification of fully connected neural network for construction management
+1Department of Information Technologies of Design and Applied Mathematics, Kyiv National University of Construction and Architecture, Kyiv, Ukraine
+2Academic Work and Regional Development, Kyiv National University of Construction and Architecture, Kyiv, Ukraine
+3Educational and Methodological Work, Department of Management in Construction, Kyiv National University of Construction and Architecture, Kyiv, Ukraine
+4Academic Affairs and Integrated Development, Kyiv National University of Construction and Architecture, Kyiv, Ukraine
+Article history: This study is devoted to solving the problem to determine the professional adaptive capabilities of construction management staff using artificial Received Mar 27, 2022 intelligence systems. It is proposed fully connected feed-forward neural Revised Nov 10, 2022 network (FCF-FNN) architecture and performed empirical modeling to Accepted Nov 21, 2022 create a data set. Model of artificial intelligence system allows evaluating the  processes in an FCF-FNN during the execution of multi-value classification  of professional areas. A method has been developed for the training process
+of a machine learning model, which reflects the internal connections
+Artificial intelligence 	between the components of an artificial intelligence system that allow it to
+“learn” from training data. To train the neural network, a data set of 35 input Construction management parameters and 29 output parameters was used; the amount of data in the set Machine learning is 936 data lines. Neural network training occurred in the proportion of 10% Multi-value classification and 90%, respectively. Results of this study research can be used to further
+Neural network 	improve the knowledge and skills necessary for successful professional realization.
+This is an open access article under the CC BY-SA license.
+Corresponding Author:
+Department of Information Technologies of Design and Applied Mathematics,
+Kyiv National University of Construction and Architecture
+Nowadays artificial intelligence becomes one of the defining start technologies, which is being worked on in a significant number of areas with regard to the possibility of its implementation. According to the research with P. Boucher at the front, artificial intelligence is defined as a system that simulates human behavior by analyzing the environment and performing functions, with a certain degree of autonomy, to achieve pre-formed goals [1]. Thus, artificial intelligence is a systemic definition that includes machine and deep learning, peculiarities of which are revealed while artificial intelligence models’ learning.
+The study provides a scientific basis for the application of artificial intelligence technology to determine the professional adaptive capabilities of construction management staff. If we base the development of an artificial intelligence information system for multi-value classification on the results of youth vocational guidance tests, it will improve the diagnosis of professional selection and will be able to provide recommendations for improving the productivity of professional implementation [2]. The level of trust of young people in the artificial intelligence when it comes to the questions of career guidance, choosing
+Journal homepage:

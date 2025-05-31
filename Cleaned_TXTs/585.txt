@@ -1,0 +1,170 @@
+To cite this article: Mohammed I. Al-Khalil & Mohammed A. Al-Ghafly (1999) Important causes of delay in public utility projects in Saudi Arabia, Construction Management & Economics, 17: 5, 647-655, DOI: 10.1080/014461999371259
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (1999) 17, 647± 655
+Important causes of delay in public utility projects in Saudi Arabia
+MOHAMMED I. AL-KHALIL and MOHAMMED A. AL-GHAFLY
+Received 10 December 1997; accepted 6 April 1998
+This study was conducted to determine the most important causes of delay in public utility projects, based on the frequency and severity of the causes. A survey of randomly selected samples of contractors, consultants, and owners was carried out to assess the frequency of occurrence and the severity of impact of sixty potential delay causes. A frequency index and a severity index were determined for each cause. An importance index for each cause was then computed as the product of the frequency and severity indices. The results showed that the three parties surveyed generally agree on the importance ranking of delay causes. The causes were grouped also into six major categories of delay. The analysis showed lack of agreement among the parties on the ranking of the major categories of delay.
+Claims, delay, utility projects, time, Saudi Arabia
+Introduction
+Delay of project completion is a major problem in construction that often leads to costly disputes and acrimonious relationships between the parties involved. The problem is related to the numerous types of uncertainty associated with the construction of projects. While it may be unrealistic to believe that all causes of delay can be brought under control, it would be sensible to determine the most important delay factors so that efforts can be made to control these factors.
+Public utility projects especially are susceptible to delay because they are constructed in public roads thus requiring special precautionary arrangements. Also, these types of project are heavily dependent on the use of equipment which frequently requires repair or maintenance. Additionally, they require numerous permits from various government authorities necessitating a great deal of planning and coordination to avoid delay.
+The purpose of this research was twofold. The ® rst aim was to measure the frequency of occurrence, severity of impact, and importance of delay factors in public utility projects. The second objective was to determine the agreement or disagreement between contractors, consultants, and owners on the ranking of delay factors in public utility projects. These objectives were achieved through soliciting the opinion of three groups: owners of water and sewage projects, engineering consulting of® ces participating in such work activity, and contractors working on these projects.
+Construction Management and Economics
+ISSN 0144± 6193 print/ISSN 1466-433X online  1999 Taylor & Francis Ltd.
+Government authorities in Saudi Arabia face a serious problem of lengthy delays in public projects. Several studies have been conducted to investigate the causes and extent of time overruns in such projects. Al-Gha¯ y (1995) surveyed contractors, consultants and owners of public utility projects with regard to frequency and extent of delay in such projects. He found that according to the contractors 37% of all projects were subject to delay. Consultants reported that delayed projects accounted for 84% of projects under their supervision. It should be noted that the government does not assign consultants to relatively small projects. Therefore, the large difference between the ratio reported by the contractors and that by the consultants may have been due to a large number of small size projects which were not subject to delay and which were considered by the contractors but not by the consultants. In the same study Al-Gha¯ y (1995) also reported an average time overrun of 39% of the original project duration.
+Al-Sultan (1989) surveyed time performance of different types of public project and concluded that 70% of public projects in Saudi Arabia experienced time overrun. Zain Al-Abedien (1983) came up with the same ® gure. He found that 70% of the projects undertaken by the Ministry of Housing and Public Works were subject to delay.
+Assaf et al. (1995) looked at causes of delay in large building projects in Saudi Arabia and found that contractors, consultants, and owners generally agree on the importance ranking of delay factors. Contractors considered the most important delay factors to be the preparation and approval of shop drawings, payment delay by owner, and design changes. The most important delay factors to the consultants were cash problems, the relationship between different subcontractor schedules, and slow decision making by the owner. The owner considered the most important delay factors were design errors, excessive bureaucracy in project± owner organization, labour shortages and inadequate labour skills. Delay factors were grouped into nine categories from which ® nancing was unanimously ranked highest.
+Chan and Kumaraswamy (1997) conducted a survey to evaluate the relative importance of 83 potential delay factors in Hong Kong construction projects. They found that the ® ve principal and common factors to be; poor risk management and supervision, unforeseen site conditions, slow decision making involving all project teams, client-initiated variations, and necessary variation of works. They also compared their ® ndings with ® ndings from Saudi Arabia and Nigeria and found that different perceptions of the causes for time overrun exist between respondents in Hong Kong and those in Saudi Arabia and Nigeria.
+Baldwin and Manthei (1971) studied the causes of delay in building projects in the United States. They surveyed engineers, architects, and contractors, and found that there was a substantial agreement among the three groups concerning the causes of delay. They also found that weather, labour supply, and subcontractors were the major causes of delay.
+Research method
+The research focused initially on determining the causes of delay. Delay causes were compiled based on a review of literature, interviews and discussions with some government authority representatives, contractor engineers, consultant engineers working on water and sewage projects, and on personal experience pertaining to delay in public projects, since one of the authors had over 14 years experience in such projects.
+The research was conducted using a questionnaire survey of the three groups in two major provinces in Saudi Arabia, Riyadh Province and the Eastern Province. The questionnaire was constructed based on the compiled list of causes. The respondents were requested to give their opinion on the frequency and severity of each cause on a four-point scale. The scale and the weight given to each option are shown in Table 1.
+The questionnaire was sent to all 10 Water and Sewage Authority (WSA) branches in the Riyadh and Eastern Provinces of Saudi Arabia representing the owners of water and sewage projects and responses were received from all of them. The questionnaire was also sent to 80 contractors randomly selected from the 200 contractors classi® ed in water and sewage construction according to the of® cial government classi® cation system, and 23 replied. All 20 engineering consulting of® ces classi® ed by the Ministry of Municipal & Rural Affairs in water and sewage works were requested to participate, and 12 responses were received.
+The questionnaire was answered by project department managers, branch managers, or chief engineers, most of whom had over 10 years experience in this type of project.
+Causes of delay
+Table 1	Frequency and severity weighting scales in the research survey (scale 1± 4)
+Severity scale
+Severe	Somewhat severe
+Sixty causes of delay were identi® ed by literature review and interviews. These delay causes were summarized into six major categories. The category `contractor performance’ is further subdivided into ® ve classi® cations. Thus the major categories of delay become as follows.
+Contractor performance (CP)
+Owner administration (OA)
+Early planning and design (P&D)
+Government regulations (GR)
+Table 2 shows the delay causes and their respective grouping into the major categories of delay.
+Frequency and severity of delay causes
+The frequency and severity of a cause were determined by taking the respective average score of the reported frequency of occurrence and severity of impact for all the respondents. The resulting numbers are, respectively, referred to as the frequency index (FI) and the severity index (SI).
+where Wi is the weight assigned to the ith option as shown in Table 1, Xi is the number of respondents who selected the ith option, and n is the total number of respondents.
+The values of the frequency and severity indices are ranked by assigning the ® rst rank to the highest value, the second rank to the next highest value, and so on. In case of tied ranks the `midrank method’ (Kendall and Gibbons, 1990) is used. By this method the values are assigned the average of the rank positions the values would be allocated if there were no ties. For instance, if the ® fth and sixth ranks were tied they would both be assigned the rank 5.5 and no value would be assigned the rank 5 or 6.
+The frequency and severity indices for the causes and their corresponding ranks are shown in Table 3.
+Importance of the Causes of Delay
+As a measure of the importance of a cause an importance index (II) is de® ned and computed as the product of FI and SI, thus:
+II = FI 3	SI/16 (%)	(3) The product of FI and SI is divided by 16 in order to express the II values relative to the maximum possible II value when both FI and SI take their maximum score of 4. The rationale for this de® nition is that the importance of a delay cause is the result of the combinational effect of frequency and severity. Thus two delay factors of the same frequency of occurrence would have the same importance index value if their scores on severity of impact is equivalent, but if one of the causes had a more severe impact (higher score) it would be considered more important. The importance index of the causes are presented and ranked in Table 4 for each individual party; owner, consultant, and contractor.
+The Kendall coef® cient of concordance (W) is used to determine the collective agreement between three or more sets of rankings. W can be computed as follows (Kendall and Gibbons, 1990):
+Here, n is the number of objects being ranked, m is the number of sets of rankings, and S is the sum of the squares of deviations of object rankings around their means.
+W has a range between a minimum of 0 and a maximum of 1 where a 0 would indicate a lack of agreement on the ranking and a 1 would indicate a perfect agreement. If x 2r is de® ned as:
+x 2r = m(n - 1)W	(5) then the distribution of x 2r is approximately a x 2-distribution (chi-square) with n-1 degrees of freedom (d.f.) (Kendall and Gibbons, 1990). Therefore, in order to determine the signi® cance of W, the null hypothesis that there is no agreement between the sets of ranking is tested using the x 2-distribution with n-1 degrees of freedom.
+The values of W obtained for the ranking of the three parties of FI, SI, and II are shown in Table 5. At a 95% con® dence level, the cutoff signi® cance p is 0.05, where p is the probability of obtaining a higher value of chi-square if the null hypothesis is true. The results show p < 0.05 throughout, and consequently the null hypothesis of no agreement is rejected for all three cases. Therefore, it is concluded that there is consensus among the three parties on the ranking of the frequency, severity, and importance of the causes of delay.
+Since the values of W indicated agreement on the ranking, a consensus ranking which is best indicative of the agreement can be found by summing the ranks of the three parties for each of the delay causes, and ranking the resulting sums (Kendall and Gibbons, 1990). This method produces a least-squares error for
+Table 2	Causes of delay considered in the survey
+Cause of delay
+
+Shortage of materials required
+
+
+Changes in materials prices
+
+Changes in materials speci® cations
+Shortage of supporting and shoring installations for excavations
+Inadequate equipment used for the works
+
+
+Shortage of contractor’s administrative personnel
+Shortage of technical professionals in the contractor’s organization
+Poor communication by the contractor with the parties involved in the project
+Contractor’s poor coordination with the parties involved in the project
+Slow preparation of change orders requests by the contractor
+Ineffective contractor head of® ce involvement in the project
+Loose safety rules and regulations within the contractor’s organization
+Poor quali® cation of the contractor’s technical staff assigned to the project
+Improper technical study by the contractor during the bidding stage
+Ineffective planning and scheduling of the project by the contractor
+Delay of ® eld survey by the contractor
+Ineffective control of the project progress by the contractor
+Inef® cient quality control by the contractor
+Delay in the preparation of contractor submissions
+Improper construction method implemented by the contractor
+Dif® culties in ® nancing the project by the contractor
+Cash ¯ ow problems faced by the contractor
+Problems between the contractor and his subcontractors with regards to payments
+Delay to furnish and deliver the site to the contractor by the owner
+Delay in the settlement of contractor claims by the owner
+Suspension of work by the owner
+Delay in issuance of change orders by the owner
+Slow decision making by the owner
+Interference by the owner in the construction operations
+Uncooperative owner with the contractor complicating contract administration
+Delay in progress payments by the owner
+Owner’s poor communication with the construction parties and government authorities
+Owner’s failure to coordinate with Government authorities during planning
+Poor coordination by the owner with the various parties during construction
+Excessive bureaucracy in the owner’s administration
+Changes in the scope of the project
+Ambiguities, mistakes, and inconsistencies in speci® cations and drawings
+Subsurface site conditions materially differing from contract documents
+Original contract duration is too short
+Ineffective delay penalty
+Dif® culties in obtaining work permits
+Government tendering system requirement of selecting the lowest bidder.
+Changes in Government regulations and laws
+Severe weather conditions on the job site
+Effects of subsurface conditions (type of soil, utility lines, water table)
+Traf® c control and restrictions on the job site
+Effects of social and cultural conditions
+Work interference between various contractors
+Poor quali® cation of consultant engineer’s staff assigned to the project
+Delay in the approval of contractor submissions by the engineer
+Poor communication between the consultant engineer and other parties involved
+Poor coordination by the consultant engineer with other parties involved
+Delay in performing inspection and testing by the consultant engineer
+Slow response from the consultant engineer to contractor inquiries
+Table 3	Frequency and severity indexes of the three parties
+Delay factor
+Table 4	Importance index and rank of the three parties
+the difference between this set of ranks and each of the individual ranks. This was done for the importance index ranking, and the result of this operation is shown in the last column, named consensus rank, of Table 4.
+Analysis of the major categories of delay causes
+As mentioned above, the causes of delay were summarized into six major groups referred to as `delay categories’. The importance index for a delay category was determined as the average of the importance indexes of all the causes in the category. The delay categories were ranked according to their importance index value. Table 6 shows the ranking given by each party to the delay categories. The results of the computation of W for the three sets of ranking are:
+Table 6	Importance index an
+Category	Contractor
+Owner’s administration
+Early planning
+Table 5	Coef® cient of concordance analysis
+These results indicate lack of consensus among the three sets of ranking because p is much higher than 0.05. Because of the lack of consensus, bilateral
+agreement/disagreement can be determined using the Spearman’s rank correlation coef® cient, (r s) which is de® ned as (Kendall and Gibbons, 1990):
+Here, d is the difference between the ranks given by two parties and n is the number of objects being ranked.
+Computation of r s gives the following results:
+Contractor r s = ± 0.7647 p = 0.077
+The value of r s ranges from ± 1 to + 1, with ± 1 indicating total disagreement, 0 indicating no relationship between the two sets of ranks, and + 1 indicating complete agreement, and p corresponds to a null hypothesis of no relationship between the rankings of the parties. A low value of p leads to the rejection of the hypothesis. With a cutoff of p = 0.05, the results indicate that the null hypothesis cannot be rejected. However, if p is slightly relaxed to p = 0.10, then the consultant and the owner show agreement, while the consultant and the contractor show disagreement. The contractor and owner results show that the null hypothesis cannot be rejected and consequently the two rankings are considered independent of each other.
+The following discussion will emphasize the ten most important causes of delay by each of the three parties and by the consensus ranking. These causes are shown in Table 7 and the discussion will be in the context of the major categories of delay.
+This major delay category includes causes 1± 29. Contractor performance depends on the contractor’s capacity to deliver suf® cient resources when needed to meet project requirements. The contractor performance category was subdivided into ® ve subclassi® cations corresponding to project resources: materials, equipment, labour, project management, and project ® nance. Referring to Table 6, contractor performance was ranked highest in importance by the consultant and second highest by the owner, but the contractor considered it to be the least important of all categories of delay. It should be noted that the owner did not consider contractor performance to be the most important.
+With regards to the ranking of the individual resource subclassi® cations within the contractor performance category, the owner and consultant were in complete agreement. They ranked ® nancing and cash ¯ ow at the top followed by project management then manpower. The contractor concurred with the owner and consultant on the highest ranking for the ® nance resource but assigned the second rank to causes related to materials. With respect to individual causes, cash ¯ ow problems by the contractor was ranked the most important cause of delay by the consultant and the owner. For the contractor, the most important cause was the delay in making progress payments by the owner, which is likely to lead to cash ¯ ow dif® culties. Hence, it can be concluded that all parties agree that `cash ¯ ow’ or, in general, `® nancial problems’ is the most important cause of delay.
+Owner’s administration
+This delay category includes causes 30± 41. It was ranked the most important delay category by the contractor but relegated to 4th and 5th by owners and consultants, respectively. Six of the causes in this category appear in the contractor’s 10 most important causes. Delay in making progress payment was considered the most important cause of delay by the contractor.
+Early planning and design
+This delay category includes causes 42± 45. Interestingly, it was ranked as a group as the most important delay category by the owner. The owner may be frustrated with the low quali® cation of some of the design ® rms, but the result may be due also to the limited interaction between owner and designer during the design phase of the project. The contractor and consultant ranked it a tie with government regulation at 3.5 and 2.5, respectively. None of the individual causes of this group appeared in any of the ten most important causes, although the cause `changes in the scope of the project’ came close, since it was ranked 11 by the contractor and appeared as the 8th ranking cause in the consensus ranking.
+Government regulations
+This group includes delay causes 46± 49. All parties ranked it in the middle. It received rank 3.5, 2.5, and 3 by the contractor, consultant, and owner, respectively. Both contractor and owner assigned the second most important cause to one of the causes in this category: dif® culty in obtaining work permits from authorities. The consultant still ranked this cause
+Table 7	The ten most important delay causes
+Delay factor
+Contractor’s poor coordination with the parties involved in the project
+Delay in mobilization
+Poor quali® cation of the contractor’s technical staff assigned to the project
+Improper technical study by the contractor during the bidding stage
+Ineffective planning and scheduling of the project by the contractor
+Ineffective control of the project progress by the contractor
+Delay in the preparation of contractor submissions
+Dif® culties in ® nancing the project by the contractor
+Cash ¯ ow problems faced by the contractor
+Delay in the settlement of contractor claims by the owner
+Slow decision making by the owner
+Delay in progress payments by the owner
+Owner’s poor communication with the construction parties and Government authorities
+Owner’s failure to coordinate with Government authorities during planning
+Excessive bureaucracy in the owner’s administration
+Changes in the scope of the project
+Ineffective delay penalty
+Dif® culties in obtaining work permits
+Government tendering system requirement of selecting the lowest bidder.
+Effects of subsurface conditions (type of soil, utility lines, water table)
+relatively high at 15, even though obtaining permits is not part of his responsibilities. The requirement of the Government Tendering System of selecting the lowest bidder was unanimously considered as a very important delay factor by all three parties, and it appeared in all lists of the ten most important delay causes. From the interviews conducted prior to conducting the survey, the parties indicated that the system can lead to the selection of unquali® ed contractors who consequently would be unable to ful® l their obligations, including timely completion of the project.
+This delay category came as the least important by the owner and ranked 5 and 4 by the contractor and consultant, respectively. It includes delay causes 50± 54. Effects of subsurface conditions came as the most important delay cause in the category. It was considered extremely important by the contractor, assigning it a rank of 4 among all causes. As the 11th ranking cause, the consultant also considered it very important. Thus it appeared in the consensus ranking as number 6, despite the owner’s assignment of rank 18 against it.
+This category includes delay causes 55± 60. As a group the contractor considered the consultant site supervision as a major delay category. It was ranked second in importance by the contractor but as low as 5 and 6 by the owner and consultant, respectively. It should be noted that none of the causes in this category appeared in any of the lists of ten most important causes.
+Summary and conclusion
+The ranking of causes of delay in public utility projects can facilitate focus of efforts to control delay. In this study, the contractors, consultants, and owners were shown to agree statistically on the relative importance ranking of the causes of delay as shown by the coef® cient of concordance W. The agreement of the three parties can be represented by a consensus ranking. Among the most important causes found are cash ¯ ow problems and ® nancial dif® culties by the contractor, dif® culties in obtaining permits, and the requirement to select the lowest bidder without regard to prequali® cations.
+The contractors considered the owner’s administration as the most important category of delay. They cited delay in the settlement of claims, slow decision making, delay in making progress payments and excessive bureaucracy as very important causes of delay by the owner.
+The owners considered early planning and design, as the most important category of delay but changes in the scope of the project was the only cause considered important in this category. Other causes that they considered very important included cash ¯ ow problems by the contractor, dif® culty in obtaining permits, and ineffective planning and scheduling by the contractor.
+The consultants ranked contractor performance as the most important category. They considered the most important causes to be cash ¯ ow and other ® nancial dif® culties by the contractor, improper review and study of the contract during the bidding stage, ineffective planning and scheduling, and delay in making the required submissions. They also considered selection of the lowest bidder irrespective of quali® cation as an important cause of delay. The ten most important causes by the consultants are all related to the contractor’s work.
+Although this research was based on water and sewage projects, the ® ndings may also be applicable to projects of similar nature such as underground electrical and telephone projects.
+Acknowledgment
+The authors would like to express their appreciation to King Fahd University of Petroleum and Minerals for providing various facilities for conducting this research.

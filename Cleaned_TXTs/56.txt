@@ -1,0 +1,133 @@
+PhD	   Thesis	   	   		   		   		   		   		   	2013
+Table	   of	   Contents
+List    of    Tables	VIII
+List    of    Figures	X
+Publications	XIII
+Refereed    Journals:
+Book    Chapters/Articles:
+Conference    Papers	XIII
+1    Introduction	1
+1.1     Background	1
+1.2    Justification    for    Research    and    the    Research    Problem	6
+1.3    Research    aim    and    objectives	8
+1.4    Research    method	8
+2.1    Need    and    justification    for    Constructive    Research	12
+2.2    Comparing    Design    Science    with    other    approaches	15
+2.2.1    Convergence    of    design    science    and    constructive    research	15
+2.2.2    Comparison    of    Constructive    Research    with    Natural    Science	16
+2.2.3     Position     of     Constructivism     or     Interpretive     Philosophy     in     Information    Science    Research	17
+2.3    Process    of    constructive    research	18
+2.3.1     Find     a     practically     relevant     problem,     which     also     has     potential     for    theoretical    contribution	20
+2.3.2    Examine    the    potential    for    long-­‐term    research    cooperation    with    the    target    organisation	20
+2.3.3     Obtain     deep     understanding     of     the     topic     area     both     theoretically     and    practically	20
+2.3.4     Innovate     a     solution     idea     and     develop     a     problem     solving     construction,    which    also    has    potential    for    theoretical    contribution	21
+2.3.5    Implement    the    solution    and    test    how    it    works	21
+2.3.6    Ponder    the    scope    of    applicability    of    the    solution	21
+2.3.7    Identify    and    analyse    the    theoretical    foundation	22
+2.4    Research    outputs	22
+2.4.1    Constructs	22
+2.4.4    Instantiation	23
+2.5    Research    Process    for    VisiLean	24
+2.6    Evaluation    of    research	25
+2.7    Summary    of    Research    Methodology	27
+3     Problems     with     the     Production     Management     Systems: Understanding     the    problem    and    the    context	29
+3.1    Problem    Awareness: Observations    from    the    industrial    practice	29
+3.1.1    Observations    from    Company    A	29
+3.1.2    Observations    from    Company    B	30
+3.1.3    Summary    –    Problem    Awareness	34
+3.2    Problems    with    production    management    in    construction    –    observations    from    literature	34
+3.2.1    Product    and    Process    Visualisation:
+3.2.2    Unavailability    of    production    related    information    at    the    “coal    face”:
+3.2.3    Problems    with    the    integration    of    supply    chain	38
+3.3    Root    causes    behind    the    problems	42
+3.3.1    Current    construction    theory	42
+3.3.2    Production    planning,    scheduling    and    control    methods	44
+3.4    Information    and    Communication    System    Problems    in    Construction	50
+3.4.1    Shortcomings    of    the    current    design    and    product    modelling    systems:
+3.4.2    Effectiveness    of    ICT    in    Construction	56
+3.4.3    Problems    with    Integration    in    Information    Systems:
+3.4.4    Summary    of    ICT    Problems    in    Construction:
+3.5    Synchronisation,    Visualisation    and    Integration	60
+3.6    Summary	61
+4    Lean    Construction    and    Building    Information    Modelling: potential    solutions    to    the    problems	63
+4.1    What    is    Lean    Construction	63
+4.1.1    TFV    theory    of    Construction:
+4.1.2    Concept    of    Waste	66
+4.1.3    Effect    of    the    “T”    view    on    Organisational    Processes    and    Technology	69
+4.2    Tools    and    techniques    that    support    the    TFV    theory    of    production	69
+4.2.1    The    Last    Planner    System™    of    Production    Planning    and    Control	70
+4.2.2    Key    features    of    the    Last    Planner    System	73
+4.2.3    Visual    Management    and    other    lean    tools	79
+4.2.4    Summary    of    Lean    Production    Management	83
+4.3.1    A    brief    history    of    BIM	84
+4.3.2    What    is    BIM	85
+4.3.3    What    is    not    BIM	87
+4.4    Benefits    of    BIM	87
+4.4.1    Pre-­‐construction/Feasibility    Study	87
+4.4.3    Construction	89
+4.4.4    Fit-­‐out    and    Handover	90
+4.4.5    Operation    and    Maintenance	91
+4.4.6    Summary	91
+4.5    The    integration    of    Lean    and    BIM	92
+4.5.1    Introduction	92
+4.5.2    Emerging    Trends    around    Lean    and    BIM	95
+4.5.3    Summary    of    recent    developments    in    Lean    Construction    and    BIM	100
+4.6    Current    BIM    Systems    for    Production    Management	100
+4.6.2    Bentley    ProjectWise    Navigator	102
+4.6.5    Tekla    CM    and    BIMSight	105
+4.6.7    Comparison    between    systems	106
+4.7    State-­‐of-­‐the-­‐art    in    software    systems    for    production    management	109
+4.7.3    Bentley    ConstructSim	116
+4.8    Conceptual    framework    –    BIM    and    Lean	124
+4.9    Summary    of    BIM	132
+4.10    Discussion    and    Identifying    Opportunities    for    a    Solution	133
+5    Designing    and    Developing    VisiLean: A    Production    Management    System	136
+5.1    Designing    the    framework	136
+5.1.1    Gathering    Feedback    from    Practitioners	138
+5.1.2    Gathering    general    production    management    requirements	141
+5.1.3     Capturing     Requirements     from     Previous     Research     into     Advance    Visualisation    in    Production    Management	143
+5.1.4    Discussion    about    the    requirements    from    literature	149
+5.1.5    A    Critical    Review    of    Previous    Research	150
+5.1.7    Differences    between    KanBIM    and    VisiLean	154
+5.2    Choosing    the    Design    Methodology	156
+5.3    Defining    Functional    Requirements    for    VisiLean	162
+5.3.2    BIM/Product    Visualisation    Capability	166
+5.3.3    Product    and    Process    Integration    Capability	169
+5.4    Specifying    the    VisiLean    System	173
+5.4.1    Project    Administration	173
+5.4.2    The    Planning    Process    in    VisiLean	180
+5.5    Developing    the    System    Architecture	193
+5.5.1    Selecting    the    Technological    Platform	195
+5.5.2    Defining    Top    Level    System    Architecture	198
+5.6    The    iterations    of    VisiLean	204
+5.6.1    Iteration    1	205
+5.6.2    Iteration    2	206
+5.6.3    Iteration    3	209
+5.7    Summary    and    Analysis    of    Feedback	212
+5.8    Unimplemented    features	215
+5.8.1    Cost    and    quantity    integration    within    the    task    management	215
+5.8.3    Multiple    task    visualisations    in    the    model    window	217
+5.8.4    BIM    based    task    creation	217
+5.9.3    Simulation    of    a    look-­‐ahead    or    weekly    plan	220
+5.10    Summary	220
+6    Evaluation    of    VisiLean	223
+6.1    Introduction    and    selection    of    evaluation    methods	223
+6.1.1    Analytical	224
+6.1.2    Observational	225
+6.2    Evaluation    Through    Static    and    Dynamic    Analysis	227
+6.2.1    Iteration    1	228
+6.2.2    Iteration    2	230
+6.2.3    Iteration    3	232
+6.3.1    Project    Specifics	237
+6.3.2    Scope    of    the    Pilot	240
+6.4    Current    state    of    development    and    its    critical    analysis	249
+6.5    Summary	253
+7    Discussion    and    Conclusion	255
+7.1.1    Research    Method    and    Problem    Identification	255
+7.1.2    Design    and    Development    of    the    Research    Solution	256
+7.1.3    Research    Evaluation	257
+7.2    Contribution    to    knowledge	258
+7.3    Limitations    of    research	262
+7.4    Future    research	263
+7.4.2    VisiLean    in    the    Field	263
+7.4.3    Other    Features	263

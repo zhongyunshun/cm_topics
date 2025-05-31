@@ -1,0 +1,120 @@
+﻿See discussions, stats, and author profiles for this publication at:
+Critical factors affecting construction labor productivity in Egypt
+Article · February 2014
+CITATIONS	READS
+Some of the authors of this publication are also working on these related projects:
+Sub-Contractor Selection View project
+All content following this page was uploaded by Enas Morgan on 16 June 2022.
+The user has requested enhancement of the downloaded file.
+Critical factors affecting construction labor productivity in Egypt
+Structural Engineering Department, Faculty of Engineering, Alexandria University, Egypt
+Hafez0124027024@gmail.com (S. M. Hafez), Remon_fayek@hotmail.com (R. F. Aziz), enas_morgan@yahoo.com (E. S. Morgan), mady7sport@yahoo.com (M. M. Abdullah) To cite this article:
+Sherif M. Hafez, Remon F. Aziz, Enas S. Morgan, Madeha M. Abdullah, Eman K. Ahmed. Critical Factors Affecting Construction Labor
+Productivity in Egypt. American Journal of Civil Engineering. Vol. 2, No. 2, 2014, pp. 35-40. doi: 10.11648/j.ajce.20140202.14
+The construction industry plays an important role in any developing country. This sector will promote the infrastructure required in socioeconomic development which also a major contributor to the overall economic growth. One of the main factors that had influence in the construction industry growth is productivity which mainly associated with the labor performance. Labor in construction industry could be defined as all workforces involve in the process that had to carry out to accomplish and to achieve goal. The labor productivity insufficiency will affect the performance of the overall project. The objective of this research is to identify and rank the relative importance of factors perceived to affect labor productivity on Egyptian construction projects. To achieve this objective, a statistically representative sample of contractors was invited to participate in a structured questionnaire survey, comprising 27 productivity factors, classified under the following four primary groups: (a) Technological; (b) Management; (c) Human/Labor; and (d) External. Among the factors explored, the subsequent ten are discerned to be the most significant in their effects on labor productivity: (1) Payment delay; (2) Skill of labor; (3) A shortage of experienced labor; (4) Lack of labor supervision; (5) Motivation of labor; (6) Working overtime, (7) Construction managers lack of leadership, (8) High humidity, (9) Clarity of technical specification, (10) High/low temperature. The results obtained fill a gap in knowledge of factors affecting labor productivity in Egypt, which can be used by industry practitioners to develop a wider and deeper perspective of the factors influencing the efficiency of operatives, and provide guidance to construction managers for efficient utilization of the labor force, hence assist in achieving a reasonable level of competitiveness and cost effective operation.
+Construction, Labor Productivity, Factors, Management; Relative Importance Index (RII), Rank,  Improvement, Egypt
+Introduction and Background
+Construction labor productivity has become a big problem in construction industry. In most countries, labor cost comprises 30 to 50% of the overall project’s cost (Guhathakurta and Yates1993; McTague and Jergeas 2002), and thus is regarded as a true reflection of the economic success of the operation. A similar conclusion was echoed by Stoekel and Quirke (1992). Because construction is a labor-intensive industry, the significance of this effect not only justifies the concern over its labor productivity, but it can also be argued that labor power is the only productive resource, hence construction productivity is mainly dependent upon human effort and performance.
+There are many challenges that are faced by construction industry in Egypt, but one of the most important challenges is labor productivity in construction. Every project has some difficulty in construction like material, money, tools and local contractor’s construction cost.
+Looking to the current scenario of continuous downfall of construction labor productivity, it is highly necessary to identify the factors which affect it and then work out the critical ones out of the available factors. Depending on the measurement objectives and the availability of data, several productivity definitions are encountered.
+In 1950, the Organization for European Economic Cooperation (OEEC) introduced a formal definition of productivity as “a quotient obtained by dividing output by one of the production factors”. Consequently, it became possible to speak of the productivity of capital, investment or raw materials according to whether the output is being considered in relation to capital, investment or raw materials
+Critical Factors Affecting Construction Labor Productivity in Egypt
+(Sumanth 1985).The US Department of Commerce defines productivity as “Dollars of output per person hour of labor input” (Adrian 1987).
+Peles (1987) interpreted productivity as “the performance accomplished by operatives”, whereas Handa and Adballa (1989) defined productivity as “the ratio of outputs of goods and/or services to inputs of basic resources, e.g., labor, capital, technology, materials and energy”. The American Association of Cost Engineers moreover, defines productivity as a “relative measure of labor efficiency, either good or bad, when compared to an established base or norm” (Allmon et al. 2000).While Arditi and Mochtar (2000) referred to productivity as “the ratio between total outputs expressed in Dollars and total inputs expressed in Dollars as well”, Horner and Duff (2001) expressed productivity as “how much is produced per unit input”. A number of studies have been carried out to determine the factors affecting labor productivity in construction projects. Lim and Alum (1995) explored various factors impacting the construction productivity in Singapore, and shortlisted the followings as most significant: lack of qualified supervisors; shortage of skilled labor; high rate of labor turnover; labor absenteeism; and communications with foreign laborers.
+Makulsawatudom et al. (2004) researched the influence of twenty three factors on the productivity of the construction industry in Thailand, and deduced that: lack of material; incomplete drawings; incompetent supervisors; lack of tools and equipment; labor absenteeism; poor communication; instruction time; poor site layout; inspection delay; and rework, are the most critical. Abdul Kadir et al. (2005), in addition, surveyed the perceived effects of fifty productivity factors on Malaysian residential projects, and identified the followings five as most important to labor efficiency: (a) shortage of material; (b) nonpayment to suppliers causing stoppage of materials delivery to sites; (c) change orders by consultants; (d) late issuance of construction drawings by consultants; and (e) the incapability of site management.
+The American association of cost engineers, Jarkas and Bitar (2012) carried out a survey in Kuwait. The objective of that research was to identify and rank the relative importance of factors perceived to affect labor productivity on construction sites. To achieve that objective, a statistically representative sample of the contractors was invited to participate in questionnaire survey, comprising 45 productivity factors. As per their finding important factor were: (1) Clarity of technical specifications, (2) Extent of variation/change orders during execution, (3) Coordination level among various design disciplines. El-Gohary and Aziz (2014) carried out the survey. The questionnaire comprised thirty productivity factors where they classified them under the following three primary categories: (a) human/labor; (b) industrial; (c) management. They used relative importance index method. This index was computed for every factor for each specific year of the participants’ experience. Wen and Chan (2014) carried out the study of a systematic review on labor productivity in the construction industry. The aims of their review were to investigate the state of the art and trends in Critical Labor Productivity (CLP) research, and to identify key research areas.
+Research Objective
+The objective of this research is to identify and rank the relative importance of factors perceived to affect labor productivity on Egyptian construction projects in which can be used by industry practitioners to develop a wider and deeper perspective of the factors influencing the efficiency of operatives, and provide guidance to construction managers for efficient utilization of the labor force, hence assist in achieving a reasonable level of competitiveness and cost effective operation.
+This research is based on a survey designed to gather all necessary information in an effective way. The survey presents 27 productivity factors generated on the basis of related research works on construction productivity, Mistry and Bhatt (2013). These factors were classified into the following four categories based on previous literature and as advised by local experts: Technological related factors, Human/labor related factors; Management related factors and External related factors to consider the effect of the different levels of the participants’ experiences.
+For analyzing data, the Relative Importance Index (RII) technique was used according to the following formula (Lim and Alum 1995; Enshassi et al. 2007; and Jarkas and Bitar 2012):
+n1, n2, n3, n4 and n5,= the number of respondents who selected: (1)Very weak influence (2)Weak influence (3) Medium influence (4) Strong influence, (5) Very strong. (Ranging from 1 to 5) is the weighting given to each factor by the respondents. The RII was used to rank (R) the different factors affecting on labor productivity. These rankings made it possible to cross-compare the relative importance of the factors as perceived by respondents.
+Each individual factor’s RII perceived by all respondents should be used to assess the general and overall rankings in order to give an overall picture of the labor productivity.
+The design philosophy of the questionnaire was based on the fact that they had to be simple, clear and understandable for the respondents and at the same time they should be able to be interpreted well by the researcher. The questionnaire has a definite advantage of requiring a smaller time to be responded and is more accurate in the final outcome.
+American Journal of Civil Engineering 2014, 2(2):
+Factors affecting the construction labor productivity were identified through the literature based on previous research together with input, revision and modifications by local experts where a total of 27 factors were identified. The participants were required to rate the factors in the way they affect construction labor productivity considering time, cost and quality using their own experiences on building sites. A total of 55 questionnaires were completed by, contractors, consultants, managers, and experienced engineers.
+The perceived effect of each of the 27 factors explored on construction labor productivity in Egypt is determined. The overall factors are classified under four major categories as follows: eight, under the “Technological category”; four, under the “Human category”; eleven, under the “Management category”; and four, under the “External
+The relative importance indices, rank within the corresponding category, and the overall ranks of the factors investigated are presented, discussed, and compared to previous related research findings as follows
+Technological Group
+The relative importance indices and ranks of the eight factors classified under the technological category are shown in Table 1
+RII Ranking of Technological Factors.
+
+Factors affecting labor productivity
+
+Clarity of technical specification
+
+Inspection delay/stringent by the engineer
+
+
+
+Design complexity level
+
+The extent of variation/change order
+During execution
+
+
+Site restricted access
+Table1shows that the surveyed participants ranked “Clarity of technical specification” as the most important factor affecting labor productivity in this group, with a RII of 79.27%. This top ranked factor is further ranked as the ninth in its effect among all factors explored.
+Human Group
+The relative importance indices and ranks of the four factors classified under the human category are shown in
+RII Ranking of Human Factors.
+
+Factors affecting labor productivity
+
+Skill of labor
+
+A shortage of experienced labor
+
+Motivation  of labor
+
+Physical fatigue
+Table 2 shows that the surveyed participants ranked “The Skill of labor” as the most important factor affecting labor productivity in this group, with a relative importance index of 86.91%. This top ranked factor is further ranked as the second in its effect among all factors explored, which confirms the significant impact of this factor
+The relative importance indices and ranks of the eleven factors classified under the Management category are shown in Table 3
+RII Ranking of Management Factors.
+
+Factors affecting labor productivity
+Lack of labor supervision
+Construction managers lack of leadership
+Proportion of work subcontracted
+Construction method
+Crew size and composition
+Unsuitability of storage location
+Shortage of materials
+Accidents as a result of poor site safety program
+"Unrealistic scheduling and expectation of labor performance
+Table 3 shows that the surveyed participants ranked “The Delay of payment” as the most important factor affecting labor productivity in this group, with a RII of 87.64%. This top ranked factor is further ranked as the First in its effect among all factors explored, which confirms the significant impact of this factor
+The relative importance indices and ranks of the four factors classified under the External category are shown in Table 4
+RII Ranking of External Factors.
+
+Factors affecting labor productivity
+
+High humidity
+
+High/low temperature
+
+
+
+Critical Factors Affecting Construction Labor Productivity in Egypt
+Table 4 shows that the surveyed participants ranked “The High Humidity” as the most important factor affecting labor productivity in this group, with a relative importance index of 79.64%. This top ranked factor is further ranked as the eighth in its effect among all factors explored, which confirms the significant impact of this factor.
+The Overall Ranking
+The overall perceived effects of the factors surveyed are summarized in Table 5.The top ten ranked factors affecting the efficiency of operatives in Egypt, are as follows:
+(1) Payment delay; (2) Skill of labor; (3) A shortage of experienced labor; (4) Lack of labor supervision; (5) Motivation of labor; (6) Working overtime, (7) Construction managers lack of leadership, (8) High humidity, (9) Clarity of technical specification, (10) High/low temperature.
+The results show that 3 of the top 5 ranked factors are from the (Human factors group) which indicated that it’s the most significant group among the whole groups.
+Overall Ranking of Factors affecting Labor Productivity According to Survey Results.
+“Fig. 1” shows that the surveyed participants ranked “The productivity among the overall factors with RII (87.64%) as Payment Delay” as the most important factor affecting labor illustrated in Figure 5
+American Journal of Civil Engineering 2014, 2(2):
+Comparing this study with the latest previous studies in factories effecting on labor productivity for each country as the last 3 years in; Nigeria, New Zealand, Kuwait, USA, shown in table 6-a, b.
+Turkmenistan, Turkey, India and Egypt; it features the top 5
+Table 6A. Overall Ranking of top 5 Factors affecting Construction labor productivity in Previous Studies in Last 3 years.
+Comparison between survey result and the previous study.
+
+As part of its aim, this study identifies and ranks the factors constraining labor productivity of Egyptian contractors in Egypt, which are measured, based on the views of construction professionals. The findings of the research are generally aligned with the results of previous studies related with labor productivity.
+The results indicate that the most significant factors affecting labor productivity are:
+1) Payment delay and Motivation of labor: matching with the results of India Mistry and Bhatt (2013).
+2) Skill of labor and a shortage of experienced labor: matching with the results of New Zealand Tran and Tookey (2011) and Egypt El-Gohary and Aziz (2014)
+3) Lack of labor supervision: matching with the results of Kuwait Jarkas and Bitar (2012)
+In conclusion, it is believed that the outcomes of this paper can assist in achieving high labor productivity by focusing and acting upon the most important factors. Furthermore, by focusing on the significance of the evaluated factors constraining labor productivity, Egyptian construction companies could be well guided in their efforts to addressing the factors in a time, cost and quality-effective manner.
+Critical Factors Affecting Construction Labor Productivity in Egypt
+Based on the outcomes of this research paper, recommendations to improve labor productivity are as follows:
+Deeper studies on the effect of the delay of payment on the labor productivity need to be made.
+Establishing special programs and training in order to improve the skills of the workforce.
+Construction managers need to prepare professional techniques of labor motivation.

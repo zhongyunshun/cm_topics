@@ -1,0 +1,74 @@
+﻿Periodicals of Engineering and Natural Sciences 	 	Original Research
+Vol. 9, No. 4, October 2021, pp.685-691
+A new labour safety in construction management based on artificial intelligence
+1Computer Networking Systems Department, University of Anbar 2Ministry of Public Works (MPW), Kuwait
+Construction management is considered a very important field in civil engineering. A lot of tracks had in civil engineering that achieve construction management, such as risk, time, material and labour. One of the best tracks that achieve construction is risk management in modern civil applications. Moreover, this vital track is connected directly with labour life for this it is a very important issue. Hence, the main cause of death and injuries of labour during working is decline safety measures and sometimes building control management has been utilising traditional risk monitoring. It is considered a major concern of civil engineers. In this paper, a new labour safety system in construction management is proposed to provide a safe environment. However, risk management is designed that based on the fall detection approach of labour during working or walking at high-rise buildings. In other words, online monitoring risk is proposed to support and enhance construction management in civil engineering. The proposed system will play an important role by notifying the console panel on time that helps to reduce the death rate. However, the detection system is heavily based on real pictures received from the cameras. These cameras will be distributed randomly in the building area. These pictures will be analysed at the control panel in construction management for civil engineering. In other words, the decision-maker is strongly dependent on received pictures from these cameras. According to the experimental results, outstanding results is achieved from risk monitoring in construction management.
+Corresponding Author:
+University of Anbar Ramadi, Iraq
+Introduction
+The construction management project is more important and services than a manufacturing industry [1]. The structure industry is the greatest laborious in the world. Moreover, this type of industry is considered one of the indications for developing countries. This type of industry has the ability to receive so many numbers of laborers. For this, the construction industry plays a major role in improving living conditions. In addition, these things and factors made it a focus of attention via the application of many modern technologies in this industrial field. One of the important applications in our daily life is artificial intelligence. Recently, engineering and technology are dependent two inseparable techniques for achieving a better life. The needing and rapid growth of multifaceted applications require more interest depending on the power of different aspects. However, using of AI spread in the construction management and engineering field for improving construction efficiency and performance. In this paper, we are trying to integrate AI with construction management. Therefore, this technology plays an important role to fix and solve some tricky issues that facing civil engineers, such as time, cost, labour and conflicts among parties. Figure 1 shows one of the complicated construction projects [2]. On one side, civil engineer sometimes have to define some important
+© The Author 2021. This work is licensed under a Creative Commons Attribution License ( that allows others to share and adapt the material for any purpose (even commercially), in any medium with an acknowledgement of the work's authorship and initial publication in this journal.
+criteria, which are: estimated value of the project, setting start and end times, determine the number of laborer’s that varies with the percentages of completion. On the other side, these criteria are complex and unclear at the beginning of the project, and engineers cannot define them accurately. In this case, we are trying to employ some tools of AI to determine, decide at a suitable time without any delay.
+The combinations of AI and IoT technology improve construction with new incoming streams and business openings just as new designs and action that take benefit of AI and IoT capacities. Simulated information is required modification of action planes in regions including coordination, support, the executives, account and computerization in the development area. More, AI assists sensible cases for presenting, minimizing exorbitant slip-ups and wounds and making tasks proficient [3] [4]. The main contribution of this paper is employing AI with construction management to overcome some common obstacles that facing civil engineers during manage any project. The reminder of this paper is organized as follow: second section related works, the third section AI role in construction management. Whereas, fourth section experimental results. Fifth section conclusion and future works. Text heading (11 PT) The primary text heading should be numbered by 1., 2., ... and should be in 11-pt., bold, flush left with margin. The spacing from text to the next heading is one line.
+Related works
+Many types of research have been presented depend on Construction Technology (CT), Construction Industry (CI), and Construction Management (CM) and CP regarding digital technologies viz: atomization, Big data, IoT, standardization, CC, BIM and AI [5]. Drawbacks benefit prefabrication & disrupting along with applications and significance [6]. In [7], the authors present an overview of AI applications in construction dispute resolution. Various implications of AI in construction are present in [8]. In [9], many applications of AI in construction –current use-cases presented. More, the author also stated its applications in additive manufacturing (3D printing). The steps to adopt AI in the construction business were explained in [2]. Another study explained “How AI supports the CI? ” presented in [10]. The principle stating of complexity based on locality modifying into emergent behaviour of construction projects organization is introduced in [11]. The aspect of in-situ coordination is focused on [12]. The author studied in detail different “recent aspects on digitalization in construction industry/construction management”. The authors in [13] present a review to recognize new difficulties, yielding a bunch of examination subjects with the possibility to open the scope of future applications that apply computerized reasoning. Our work in this paper is distinguished from others by utilising one of the AI tools. State the objectives of the work and provide an adequate background, avoiding a detailed literature survey or a summary of the results.
+Construction is a large filed that is of key significance on the provincial, public and worldwide levels. In addition, it is an industry that has been experiencing various issues for a long time, including low efficiency, low-net revenues, wellbeing concerns and waste [14]. AI is a quickly propelling innovation made conceivable by the internet that may before long essentially affect our, AI customarily allude to artificial creation such as knowledge that can learn, plan, reason, perceive or process characteristic language. For construction development, AI will assume a bigger part as far as improving quality, efficiency, and security on the Jobsite [15].
+Generally, AI utilizes the force of machines to demonstrate regular knowledge of humans. It utilizes AI
+(ML) to store issues and execute undertakings with more noteworthy speed and recuperation [16]. AI, the Internet of Things and robotics can eliminate building costs by up to 20%. Designers can wear computergenerated reality goggles and send smaller than expected robots into structures under construction. Pioneers at development organizations ought to focus on speculation dependent on regions where AI can generally affect their organization's one of a kind necessity. Early movers will set the course of the business and advantage in the short and long haul.
+Methodology of the proposed system
+In this paper, a risk detection system is proposed to help/ support civil engineers to protect labors from any potential risk. In addition, the steps below show the lifecycle of the proposed system.
+Risk tracking is considered a very important field in construction management for modern applications in our daily life. In this paper, a new tracking system of risk is proposed that is heavily based on intelligent detection techniques. In other words, intelligent fall detection is designed for civil engineering to safe / recuse labour for any expected risk. The steps below show the major processing of the proposed system. However, Figure 2 is a block diagram of the proposed system. It starts from collect data from cameras installed at labour area work to detection/ notification alarms that are equipped in the control panel at engineering.
+Block diagram of the proposed system
+In the real world, various cameras are distributed in different areas. Many cameras are associated with area size. Figure 3 shows a number of cameras in the area.
+Shows a number of cameras in the area
+In this paper, a dataset is utilised to evaluate system performance. This data is generated from various cameras that are distributed in a different number of areas [17]. These behaviours will reflect all labors activities during the works. This dataset contains 70 (30 falls + 40 exercises of day by day living) arrangements. Fall occasions are recorded with 2 Microsoft Kinect cameras and relating accelerometric information. ADL occasions are recorded with just a single gadget (camera 0) and accelerometer. Sensor information was gathered utilizing PS Move (60Hz) and x-IMU (256Hz) gadgets [17]. The dataset is coordinated as follows. Each line contains a grouping of profundity and RGB images for camera 0 and camera 1 (corresponding to the floor and roof-mounted, individually), synchronization information, and crude accelerometer information. Extricated features from profundity maps are put away in CSV design. Each line contains one example of information relating to one profundity image.
+The extracted features [17]
+According to Figure 3, the sections from left to right are coordinated as follows:
+• sequence name - camera name is precluded, because the entirety of the examples is from the front camera ('fall-01-cam0-d' is 'fall-01', 'adl-01-cam0-d' is 'adl-01, etc).
+• label - depicts human stance in the profundity outline; '- 1' signifies individual is not lying, '1' signifies individual is lying on the ground; '0' is brief posture when an individual "is falling", we don't utilize '0' outlines in a grouping.
+• HeightWidthRatio - bouncing box stature to width proportion.
+• MajorMinorRatio - major to minor pivot proportion, registered from BLOB of the portioned individual.
+• BoundingBoxOccupancy - the proportion of how a jumping box is involved by an individual's pixels.
+• MaxStdXZ - standard deviation of pixels from the centroid for the abscissa (X hub) and the profundity (Z pivot), individually (it is processed on sectioned individual changed to the 3D point cloud).
+• HHmaxRatio - human tallness in edge to human stature while standing proportion.
+• H - real tallness (in mm).
+• D - a distance of individual focus to the floor (in mm).
+• P40 - the proportion of the quantity of the point mists having a place with the cuboid of 40 cm tallness and put on the floor to the quantity of the point mists having a place with the cuboid of stature equivalent to individual's stature.
+Training and testing phase
+In this phase, the proposed system will train and test with the k-nearest neighbour's algorithm. However, lightweight detection of this algorithm is the main point to utilised it. Moreover, it is trained with 60% of the dataset extracted from real scenarios [17]. In the next phase, the system is tested with 40% of the dataset that reflects real behaviours of labour. The results were obtained using the methods described in this work that is explained in the next subsection.
+This section outlines the results of the study. However, the proposed system is tested with a various dataset that collected from different work labours areas. Some performance metrics are utilised in this work to measures the efficiency and effectiveness of the proposed system which are accuracy, precision and time. The measuring process of each metric is explained in Equations below [18]:
+Accuracy = correctly no. of class/ total no. of class ………………. (1)
+Precision = (TP)/(TP+FP)………………………………………….(2) where,
+TP =   Total number of normal behaviours for labours classified as normal.
+FP = Total number of normal behaviours of labours classified as fall detection.
+The tables (1-6) are explained these matrices with six areas.
+Performance metrics
+First location
+Precision (%)
+
+Performance metrics
+Second location
+Precision (%)
+
+Performance metrics
+Third location
+Precision (%)
+
+Performance metrics
+Fourth location
+Precision (%)
+
+Fifth location
+Precision (%)
+
+Performance metrics
+Sixth location
+Precision (%)
+
+Table 7.Performance metrics
+Seventh location
+Precision (%)
+
+According to the tables above, we can easily notice that the proposed system could help civil engineers. In other words, the proposed system plays a vital role in safe life labours from any potential risk from work. Moreover, this system will help and support all construction management fields to provide an early alarm for any risk/ dangers. However, the Knn alarm will detect and identify any fall for labours.
+
+In this paper, we are working on development construction management at civil engineering by risk tracking. In other words, a new risk tracking is a design that is based on fall detection of labour during work. this innovation can be proven to reduce the death rate and injury. However, this system can notify the console panel at a suitable time for recusing labour without any delay. Moreover, this system is not only fit for construction management in an industrial area but can be worn by disabling people or patients’ beds in a hospital. However, this system will support construction management by risk tracking. In future works, the proposed system will be based on camera and sensors, such as accelerometer, gyroscope, magnetometer and ultrasounds sensors. In addition, this system can train and test with other AI tools.

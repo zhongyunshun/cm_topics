@@ -1,0 +1,68 @@
+Conceptual stage expert systems: Expert systems whose ideas have been worked out and are at the programming and knowledge-acquisition phase.
+The expert systems of the first three groups have been included in Table 1.
+Conceptual expert systems have not been included because they are too many and too changeable.
+CHARACTERISTICS OF EXPERT SYSTEMS IN CONSTRUCTION
+The various characteristics of the state-of-the-art expert systems listed in Table 1 can be summarized:
+Developer institutions: Most of the expert-systems development work is being done in academic institutions. Of the 37 expert systems listed in Table 1, 22 are affiliated with universities, eight with research institutions, and only seven with the construction industry. Although this trend is expected for an emerging technology, it delays the field testing and marketing of potentially successful expert systems. It is very likely that several of the expert systems now being developed at universities will never be fully operational.
+Knowledge sources: For many of the expert systems listed in Table 1, the sources of knowledge encoded are not explicitly defined in the literature or in other sources used in this effort. It is roughly estimated that about 40% of the expert systems have extracted knowledge from experts and the remaining ones from books and journals.
+Twenty-four of the 37 expert systems listed were developed on the IBM PC class of microcomputers, and 10 were developed on LISP machines like the TI Explorer or the Xerox 1100 series. Others have used the HIT AC M200 Hitachi computer, PDP-11, and DEC mainframe computers. A distribution of the hardware used in the building of various expert systems is given in Table 2. The current trend is away from LISP machines and toward advanced PCs and workstations.
+Various types of software have been used in expert-systems de-velopment. The distribution of software is given in Table 3. Eighteen of the 37 expert systems used commercial expert system shells; seven were developed on expert-system environments like KEE, ART, KNOWLEDGECRAFT, and OPS5; seven have been implemented in AI programming languages (4 in PROLOG and 3 in LISP); and 5 were developed in other proprietary languages/environments.
+Hardware Used in Expert Systems Development
+Hardware 	Number of expert systems that used it
+IBM PC class of microcomputer 	24
+Other LISP machines 	5 Total 	37
+Construction areas covered: The distribution of the various areas addressed in the state-of-the-art expert systems is given in Table 4. A majority of the expert systems have been developed in the areas of project planning, scheduling, and control (11 out of 37) and in areas of project management (9 out of 37). No expert system has been developed in the areas of materials management, company management, constructability evaluation, and quality control.
+Blackboard architecture: Very few of the listed expert systems use knowl-edge from multiple sources. Construction process is a team effort and oftentimes the team members have diverse goals. Therefore, to gain success and acceptance in the construction environment an expert system will have to integrate knowledge from multiple sources in a blackboard architecture organized into a number of levels.
+Several planning, engineering, management, and operational tasks are candidates for expert-system formulation (Jounis 1988; Levitt 1987, 1985; Rehak and Fenves 1985):
+• Design of Construction Methods—The various candidate topics include configuration of crews; choice of construction methods; man-machine tradeoffs; choice of transportation mode(s) for the movement of materials, personnel, and equipment; selection of optimum sizes, configurations, and methods of jointing of various components in modular construction; and deep-excavation problems.
+• Concrete Mixing and Placement—The subsystems that need decisions include mix design to meet performance standards for a variable set of site conditions and materials; choice of a placement method; configuration of crushing, batching, and transportation equipment; and design of formwork.
+• Constructability Evaluation—Some important issues include analysis of the constructibility of designs, choice of construction materials, selection of the best design-function-cost combination, bid packaging, choice between prefabricated and in-situ construction, and feedback into the design process.
+• Temporary Facilities Layout—Optimal layout of temporary facilities that can have a significant effect on productivity such as access roads, parking areas, change rooms, material lay-down areas, fabrication shops, site office, and hoisting equipment.
+• Project Planning, Scheduling, and Control—Some candidate tasks in this area include developing variable time-cost estimates of activities; generation of construction schedules; critical-path analysis; resource allocation; time and cost control; diagnosing reasons for time, cost, and resource overruns; prescribing remedial actions; cost estimating; and construction-process monitoring.
+• Project Management—Several kinds of expert systems that could be built in this area include choice of a project-delivery strategy, selection of a contract type, design checking and management of design changes, construction-contract formulation, project-financing options, A/E and CM selection, prequalification of contractors, bidding strategies, bid evaluation, evaluating progress payments, evaluating claims, management of risks, evaluating the quality of a constructed component or facility, formulation
+of general conditions, and formulation of technical specifications.
+• Construction Quality Control—Several candidate tasks for expert-systems application include sample size, sample location, time of sampling, permissible tolerances, construction-quality-control methods, lab tests for quality assurance, and acceptance of subquality work.
+• Construction Company Management—The various candidate topics that can help a construction company include bidding strategy, financial planning, and equipment-policy decisions.
+• Equipment Selection, Diagnosis, and Repair—The various candidate problems in this area include selection of equipment types, sizes, and combinations; diagnosis and monitoring of equipment condition; preventive maintenance; and operational procedures based on crew behavior.
+• Human Resources Management—The various candidate topics in this area include designing project- and company-organization structures; personnel management; labor relations; safety management; and productivity-improvement techniques.
+• Operational Problems in Constructed Facilities—Some important problems that are usually solved using heuristics include causes and remedial actions for functional failures such as leaking, sweating, poor ventilation, and temperature control; causes and remedial actions for structural failures such as foundation settlement and cracking; posthazard damage assessment of facilities; and reconstruction and rehabilitation methods.
+• Materials Management—Some candidate topics in this area include choice of materials, scheduling order and movement of materials, materials handling and testing, and storing and use of explosives.
+• Legal Issues—The various potential areas that can be useful to the construction industry include generation of contract documents, maintaining historical data bases of settled cases and matching them with the current situation, settlement of claims and disputes, generating negotiating strategies, and changing conditions management.
+CONCLUSIONS
+Some enthusiasts rank expert systems with steam power, some with electricity. Some say with AI technology now in usable form, the second computer revolution has begun. These may be premature assessments. But Knowledge-Based Expert Systems (KBES) technology at least parallels the FORTRAN of the 1950s, the problem-oriented languages of the '60s and the CAD of the '70s (Buchanan and Duda 1982). The contribution of expert systems to the extension of human capability and to our effectiveness as managers will indeed be profound. The more we have learnt about expert systems, the more we have become convinced that expert systems will of course change the way people think about solving their problems. Expert systems have given us a way to collect and organize data that can be used to create information that in turn can be used to help make better decisions, for today as well as for the future.
+So far, most of us have learnt the hard way, by making mistakes and learning from them, since there was no mechanism to store the domain knowledge and experience of people in a friendly and usable manner. So far, the benefits of computers have been more confined to computer scientists. AI technology has now given us the art of building expert systems that
+Ashley, D. B., and Levitt, R. E. (1987). "Expert systems in construction: Work in progress." J. Computing in Civ. Engrg., ASCE, 1(4), 303-311.
+Buchnan, B. G., and Duda, R. O. (1982). "Principles of rule-based expert systems."
+Heuristic programming proj. report no. HPP-82-14, Stanford Univ., Stanford, Calif.
+Harmon, P., and King, D. (1985). Expert systems: Artificial intelligence in business. John Wiley and Sons, Inc., New York, N.Y.
+Hayes-Roth B. (1985). "A blackboard architecture for control." Artificial Intelligence, 26(3), 251-321.
+Helander, M. (1981). Human factors ergonomics for building and construction. John Wiley & Sons, New York, N.Y.
+Hendrickson, et al. (1987). "Expert system for construction planning." J. Computing in Civ. Engrg., ASCE, 1(4), 253-269.
+Jouni, J. E., and Salokivi. (1988). Expert systems interpreting collective agreements in the building industry. Draft Paper, Technical Research Center of Finland (VTT), Itatuulentie 2, Finland.
+Proc, Int. Joint Conf. on CAD and Robotics in Arch, and Constr., Marseilles, France, Revised Version.
+Levitt, R. E. (1987). "Expert systems in construction: State of the art." Expert systems for civil engineers: Technology and Application, M. L. Maher, ed., ASCE, New York, N.Y.
+Levitt, R. E. (1985). Research Areas for the Application of Knowledge Based Expert Systems to Construction Engineering and Management, white paper for NSF workshop, Champaign, 111.
+Navinchandra, D., Sriram, D., and Logcher, R. D. (1988). "GHOST: A project network generator." J. Computing in Civ. Engrg., ASCE, 2(3), 239-254.
+Logcher, R. D., and Sriram, D. (1986). Knowledge-based approaches to scheduling and controlling of projects, technical report, Massachusetts Institute of Technology, Cambridge, Mass.
+Mohan, S. (1987). Expert systems technology in the domain of construction.
+4th Int. Symp. on Robotics & Artificial Intelligence in Building Constr., Haifa, Israel.
+Rehak, D. R., and Fenves, S. J. (1985). "Expert systems in civil engineering, construction and construction robotics." Annual Res. Review, Robotics Institute, Carnegie-Mellon University, Pittsburgh, Pa.
+Rounds, J. L. (1987). "Small tailored expert systems for private companies." Proc.
+Int. Symp. on Robotics & Artificial Intelligence in Building Constr., Haifa, Israel.
+Sathi, A., Morton, T. E., and Roth, S. F. (1986). "CALLISTO: An intelligent project management system." Al Magazine, 7(5), 34-52.
+Waterman, D. A. (1986). A guide to expert systems. Addison-Wesley Publishing Company, Reading, Mass.
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):
+Eng. Manage., 1990, 116(1):

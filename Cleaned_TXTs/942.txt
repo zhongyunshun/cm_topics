@@ -1,0 +1,306 @@
+﻿This may be the author’s version of a work that was submitted/accepted for publication in the following source:
+Evaluating Contractor Prequalification Data: Selection Criteria and Project Success Factors.
+Construction Management & Economics, pp. 129-147.
+This file was downloaded from:
+c Copyright 2005 Taylor & Francis
+First published in Construction Management and Economics 15(2): pp. 129-147.
+Please note that this document may not be the Version of Record (i.e. published version) of the work. Author manuscript versions (as Submitted for peer review or as Accepted for publication after peer review) can be identified by an absence of publisher branding and/or typeset appearance. If there is any doubt, please refer to the published source.
+Department of Surveying
+University of Salford
+Salford M5 4WT
+United Kingdom
+School of Construction Management
+Queensland University of Technology
+A Delphic study investigating the perceived relationship between twenty contractor selection criteria (CSC) currently in use and project success factors (PSFs) in terms of time, cost and quality is described involving a sample of eight experienced construction personnel, including two validators. A consensus of the likely impact of each criterion on time, cost and quality is established in terms of pessimistic, average and optimistic values which are then converted into expected means and variances via the PERT approach. The ten most and ten least important CSC are identified and examined for differences and similarities between PSFs.
+The results show that past failures, financial status, financial stability, credit ratings, experience, ability, management personnel and management knowledge are perceived to be the dominant CSC affecting all three PSFs, with safety criteria (safety, experience modification rate, occupational housing association, management safety accountability) and the length of time in business being perceived to have the least effect overall. Some CSC, such as "past performance, bank arrangements, project management organisation, plant and equipment", were perceived to effect only one or two PSFs.
+Prequalification; selection criteria; project success factors; Delphic study.
+One of the most difficult decisions taken by the client in the construction industry is selecting the contractor. Every construction project faces adversity and uncertainty and an inappropriate contractor
+increases the chances of delays, cost overruns, sub-standard work, disputes, or even bankruptcy. One method of ensuring a contractor is able execute the assigned project in accordance with all client and project objectives is to assess the contractor's capabilities at a prequalification stage and tender evaluation stage.
+Prequalification is a pre-tender process used to investigate and assess the capabilities of contractors to satisfactorily carry out a contract should it be awarded to them. The current practice of prequalification involves a screening procedure based on a set of criteria and has been examined by several researchers
+(eg., Hunt et al, 1966; Helmer and Taylor, 1977; Russell and Skibniewski, 1987,88; Merna and Smith, 1990; Holt et al, 1994; Potter and Sanvido, 1994; Hatush,1996). For prequalification to be useful however it is necessary to know how these different criteria are likely to impact on the main project objectives in terms of time, cost, and quality. The evidence to date suggests that such knowledge is lacking, with most client (and consultant) prequalifiers being more concerned with the process of retrieving completed proformae from candidate contractors than undertaking any serious study of the relationships of this data with the project objectives (Hatush, 1996). Neither have these relationships received any attention from researchers in the field. This may be a result of the long term confidence in the pre-selection  process and that final selection is made predominantly on the cost elements of tenders
+(Holt, 1994). Another possible reason may be the lack of post-construction evaluation generally (Akatsuka, 1994) with Russell et al (1992) for instance suggesting that owners do not feel that prequalifying contractors is important enough to warrant the expenditure involved. As a result clients may be subjecting themselves to unnecessary risk of admitting contractors with inadequate ability, capacity, and experience to fulfil the required project objectives.
+This paper presents the results of a Delphic study investigating the perceived relationship between twenty contractor selection criteria (CSC) currently in use and the predominant project success factors (PSFs) in terms of time, cost and quality, involving a sample of eight experienced construction personnel, including two validators. A consensus of the likely impact of each criterion on time, cost and quality is established in terms of pessimistic, average and optimistic values which are then converted into expected means and variances via the PERT (Program Evaluation and Review Technique) approach. The ten most and ten least important CSC are identified and examined for differences and similarities between PSFs.
+The results show that past failures, financial status, financial stability, credit ratings, experience, ability,
+management personnel and management knowledge are perceived to be the most dominant CSC affecting all three PSF, with safety criteria (safety, experience modification rate, occupational housing association, management safety accountability) and the length of time in business being perceived to have the least effect overall. Some CSC, such as "past performance, bank arrangements, project management organisation, plant and equipment", were perceived to effect only one or two PSFs.
+The major benefit of this study is to document the anticipated effect of the various CSC on client objectives in terms of PSFs, and also in providing a basis for the future development of quantitative techniques for contractor selection.
+All procurers have goals or concerns that can be described in similar terms. These all contribute in different degrees to the predominant project success factors of time, cost and quality.
+The time to complete the project is scheduled to enable the building to be used by a date determined by the client's future plans. Clients vary in their willingness to employ only those contractors who are able to meet target dates. Some contracts include a bonus clause to encourage the contractor to speed up the construction process and to avoid any delays.
+Historically, cost is the factor considered to be most important by clients. Most seek value for money, although this is often taken to mean spending as little as possible. The traditional competitive tendering system is based on this premise. One result of this is that cost, measured by the bid price submitted by the contractor, is often regarded as the sole criterion for contractor selection. A large majority of projects, however, end up costing more than the original bid price (Hardy, 1978).
+Quality in construction is defined as " the totality of features required by a product or service to satisfy a given needs" (BS5750, 1987). It is thought that the implementation of new procurement systems has resulted in a decline in quality in recent years (Hindle and Rwelamila, 1993) and, for this reason alone, quality is regarded as a main criterion in contractor selection (Latham, 1994).
+A questionnaire (see Appendix 1) was developed to enable information to be collected on each subject's perception of the extent to which each CSC effects the three PSFs of time, cost, and quality. Hatush's (1996) CSC were used.
+The questionnaire was designed to allow interviewees complete freedom to enter any value that reflected their opinion on the influence of the CSC and not to restrict them to some arbitrary values provided by the researchers. There are two reasons for this: a) there is no previously published work quantifying the effect of CSC on PSFs, and b) the researchers believed that letting the interviewees put any value that represents their own opinions would make the investigation more flexible to the interviewees. The difficulty of this technique, however, is in interpreting and finding some compromise among all these different values.
+In order to make the interviewing more effective and to save the time of the interviewees, the questionnaire, with a description of the purpose and needs of the research, was sent to the interviewees several days in advance of the interviews. In addition, the purpose of the interview was explained briefly to the professional through a telephone conversion. This was then reinforced and discussed further during the interview itself and included as part of the data collection exercise.
+A select list of potential interviewees was compiled from different organisations and from personal contacts of the researchers and a sample of eight construction professionals with relevant construction industry experience were ultimately interviewed. The interviews were conducted at the interviewees own offices comprising three public client organisations and five private client organisations in the north west of England. Each interview ranged from 1 to 2 hours and was tape-recorded.
+The interview procedure comprised three phases:
+First phase. In the first phase six professionals were requested to describe the effect of each criterion on time, cost, and quality in terms of three values - pessimistic (P), average (A), optimistic (O) depending on the contractor characteristic involved (eg., financially stable or financially unstable). In question one ("financial stability"), for example, interviewees were requested to provide P, A and O values for financially stable contractors and also P, A and O values for financially unstable contractors in terms of the likely effect on project time, cost and quality. The same procedure was then applied for the whole list of questions.
+All values were requested as percentages, where 100% is considered as the desired level to be achieved for time, cost, and quality. The lower the value for time and cost the better while for quality the higher the better. For example 108% for cost and time means an expectation of 8% overrun on scheduled cost and time whilst 108% for quality means an expectation of 8% improvement in specified quality. Once the data from the six interviewees were collected, the mean P, A and O values were calculated for each criterion and for the three objectives for both types of contractors.
+Second phase. The second phase of the procedure involved the same six interviewees again being visited. This time the interviewees were shown the mean values produced by the first phase along with their original estimated values. They were then given the opportunity to change their original values if they wished. This was carried out with each interviewee for all 20 CSC and 18 elements of the questionnaire. The means of the revised values were then recalculated as shown in Appendix 2.
+Third phase. Interviews with another two experienced professionals  were next conducted to validate the values thus far obtained and to check whether the revised means could be accepted as reasonable default values for possible use in any future system development. Each validator was provided with the mean values shown in Appendix 2 and requested to describe how much each criterion affected time, cost, and quality, and either to agree on the value given or modify if there is a significant change. The results of this phase were very encouraging with one validator agreeing to all values without single change and the other validator making a very slight change in the safety criterion. This was taken to indicate that a reasonable consensus existed on the default status of the values given in Appendix 2.
+The expected mean and variance values for the three PSFs for each decision criterion were determined and an analysis of their impact made. The 90, 95, and 99% confidence intervals for the expected means and standard deviation were calculated. The relationships between CSC for each PSF were established from the linear Correlation Coefficients. Tests of hypotheses of the population correlation coefficient for the three PSFs were evaluated for different statistical significance. In the subsequent section, each analysis technique is described along with their results. A summary of these statistical analyses results are also highlighted.
+Expected means and variance values
+The expected means and variances of the time, cost and quality PSFs for each criterion and for each type of contractor were calculated from the P (pessimistic), A (average) and O (optimistic) values given in Appendix 2 by use of the PERT method (eg., Loomba, 1978; Harris, 1978; Horowitz, 1967), assuming a beta distribution, as follows:
+Expected time( Et)  =	  ............(1)
+Expected cost( Ec)  =	  .............(2)
+Expected Quality(Eq)= 	 .............(3)
+Sigma(S)= [(the highest value P or O - The lowest P or O)/6] .....(4)
+in which P and O are the same as defined above. The variance is given by squaring Sigma(S).
+For example, the three estimated values for the 'financial stability' criterion are, from Appendix 2:
+
+Using eqns (1) to (4) gives, for financially unstable contractors
+and for financially stable contractors
+The expected values, standard deviations and variances of all the CSC were calculated in this way and the results are shown in Appendix 3.
+Confidence intervals of expected and standard deviation values
+The expected values and variance parameters for time, cost and quality calculated so far is for a sample of a population. These values were then used to estimate the range (confidence interval) within which the population may occur.  90%, 95% and 99% confidence interval estimates of the population expected values () and population standard deviation () for time, cost, and quality were calculated using small sample (n<30) theory (see eg Spiegel, 1980). It should be noted that, in small sampling theory, the standard deviation of the sample is used instead of the population standard deviation ()  as  is invariably unknown. It is generally desirable that the width of a confidence interval be as small as possible.
+Tables 1 and 2 show the 90% confidence intervals of  along with the sample expected values (E), and  along with the sample standard deviation (S), for the whole list of CSC.
+Highest rated CSC by expected values
+The risk in most cases comes from selecting a contractor with a undesirable characteristics (i.e financially unstable, low credited, inadequate plant, ..). In the this, and the following sections, therefore, the data for contractors with such undesirable characteristics is used for analysis. For analysis and for the sake of clarity, the 10 CSC that have the largest and smallest effect are presented in Tables 3 and 4 for both undesirable and desirable characteristics.
+Table 3 presents the CSC that had the highest expected effect ranked in decreasing order for each of time, cost and quality. The highest common risk contractor selection criterion observed in all three PSFs is the "past failures" of the contractor. Thus, it can be concluded that this criterion is very important and should be applied when performing prequalification or in the evaluation stage of tenders.  "Financial status" is the second highest risk decision factor for all PSFs.  Other risk decision criteria that are among the highest 10 CSC in all the PSFs are the "ability" of the contractor, "management personnel" and "experience".
+In further comparison of the three PSF groups it is interesting to note their commonalities. For example "bank arrangements" is considered to be an important factor for time and cost. Although this criterion is not in the top 10 for quality, it received 95% expected value and it is viewed as a significant factor for quality.  "Management knowledge", "project management organisation", and "past performance" are indicated as important risk decision criteria for time and quality as they appear in the top 10 list for each of these PSFs and receiving about 110% for time and 92% for quality. These same three CSC scored only 107% for cost and appear in the list of the lowest 10 CSC in Table 4. The "Other relations" criterion is considered important for time and cost and is the lowest in quality list indicating the criterion to be also considered important for quality.  "Financial stability", on the other hand, seems to have a moderate effect on cost and quality.
+"Credit ratings" from subcontractors and suppliers and "owner/contractor relationships" are the only CSC to appear in the top 10 questionnaire items for cost. This result reflects the emphasis placed on these two CSC on reducing the cost risk and in achieving the bid price set for the project.  "Technical personnel" is the only criterion that appears in quality indicating the importance placed on the technical personnel in achieving the quality standard.
+Lowest rated CSC by expected values
+Table 4 gives the 10 questionnaire CSC that had the lowest expected values ranked in ascending order for each group. The only one criterion agreed upon that comes at the top of the list as having a small effect on time and cost and no effect on quality is "management safety accountability". The other two
+CSC that have a small effect on time and cost and no effect on quality are the "safety performance" and "occupational housing rate".  "Experience modification rate" has a small effect, from 1 to 2%, on the three project objectives. It can be concluded these four CSC, which all are related to the safety issues, are not important and all are considered to have a small to no effect on time, cost and quality. This conclusion is substantiated by the fact that none of the interviewees had experienced, directly or indirectly, these CSC as causing any problems in terms of time, cost and quality although it is of course a legal requirement that contractors to provide the necessary safety policy. Despite the high cost associated with selecting an unsafe contractor (cf., Samelson, 1982; Russell, 1992, referring to Business Roundtable, 1982), safety issues are clearly still not regarded as a important criterion that might affect the progress and budget of the work.
+"Length of time in business" appears in the list for the three objectives and it has a small effect on time and cost (2%) and with a moderate effect on quality (4%).  " Plant and equipment" was found to have a high effect (9%) on time, but a moderate (6%) to small (3%) effect on cost and quality indicating the importance of plant and equipment being available at any time needed to avoid delays on project time schedules in the first instance with increased cost reduced quality later.
+In further comparing the three groups it is interesting to note their commonalities. The "owner/contractor relationship" criterion appears in the list of the lowest expected values for time and quality and also at the bottom of list in the highest expected values for cost, with a moderate effect on cost and time (7%) and little effect on quality (4%).  "Credit ratings" has a moderate effect on time (7%) and quality (5%) indicating the importance of investigating the relationship between main contractors and subcontractors/suppliers in terms of payment and honesty, confirming the findings of Birrell (1985) and Cheetham and Lewis (1993). The three PSFs are affected moderately by the "technical personnel" criterion as it appears in the lowest 10 list for time and cost (with 9% and 7%) and in the highest 10 list (with 9%) for quality indicating the criterion lies in the middle for the three PSFs and with an almost equal effect.
+In contrast, in the lowest expected value list, there are some CSC that appear against one of the project objectives but not others.  "Financial stability", with a moderate effect of 8%, appears in the time list only.  "Management knowledge", "Past performance" and "Project management organisation", which all are related to the management capabilities of the contractor, appear in the lowest expected value cost list only, having a moderate effect (6% to 7%) but in the highest list, with a highly moderate effect from 8 to 10%, for time and quality.  "Bank arrangements" and "other relations" appear in the quality list only but with little effect.
+Highest rated CSC by variance values
+The 10 CSC with the largest and smallest variance values for the undesirable contractor are presented in Tables 5 and 6. The variance values in the two lists range from 0 to 15. For the sake of consistency in the explanation and comparison between CSC in the two lists, variance values from 0 to 5 are considered to be very small to small, 5.1 to 10 moderate to high moderate and 10.1 to 15 high to very high.
+Table 5 presents the CSC with the highest variance values ranked in decreasing order for time, cost and quality. In this list, six common CSC appears in the top 10 for time, cost and quality with "Financial status" being the major risk variance factor with a very high (13.44) effect on time but only a moderate and small effect on cost and quality. The second criterion with a relatively high degree is "ability" which ranges from high, high moderate, and high moderate for time, cost and quality respectively.  "Experience" takes the third place and it ranges from high moderate, high moderate and moderate for the three PSFs.  The other three CSC that appears in all three PSFs are "credit rating", "management knowledge" and "financial stability" with the results indicating that time and cost are affected by "credit ratings" (9% and 10%) while quality scored 4% only.  "Management knowledge" is important for time but has a small effect on cost and quality while "financial stability" is considered to have a moderate effect on time and cost and a relatively small effect on quality. Thus, it can be concluded that the most dominant CSC in terms of variance values that affect PSFs are "financial status", "credit rating" and "financial stability" which all related to the financial soundness of the contractor, in addition to the technical CSC of "experience" and "ability", followed by that of "management knowledge".
+In a further comparison of the three groups, it was found that some CSC are common to two PSFs with different degrees of importance. Table 7 shows these CSC and their degrees of effect in different PSFs.  This indicates that the CSC ("management personnel", "past performance", "project management organisation") are important for time and quality but not for cost whilst "bank arrangements", which is a measure of the financial soundness of the contractor, is found to be as an important factor for time and cost, strengthening the conclusion that financial soundness is very important.  "Past failures" is also important for cost and quality but it is interesting to note that none of safety issues are included in the top 10 list.
+Lowest rated CSC by variances values
+Table 6 presents the 10 questionnaire CSC with the lowest variance values, ranked in ascending order for each group. The most common clear CSC at the top of the list for time, cost and quality is the safety CSC ("safety", "experience modification rate", "occupational housing rate" and "management safety accountability") with these four CSC having a very small (0 to 1.36) effect compared to the others. The "length of time in business" also has a very small (1.78) effect and appears in fifth place for time, cost and quality.  "Technical personnel" and "other relations" have a quite a considerable effect (4 to 4.69) on time and cost but with a small effect (2.78) on quality.
+The results also show the "owner/contractor relation" and "plant and equipment" to have some effect on time and quality with the technical having a moderate effect on time despite being in the lowest 10. In addition there are some CSC which appear in one of the groups but not in the other, although their effects are small.
+Overall, in a comparing the CSC for the three PSFs, it appears that time is the most sensitive being affected by 3 CSC of a high to a very high degree, 8 CSC of moderate to high moderate, and 9 CSC of small to vary small. This is followed by cost, which is affected by 9 CSC of moderate to high moderate and 11 CSC of small to very small. Finally, the quality PSF is affected by only three CSC of moderate degree and 17 of small to very small degree.
+Using the expected mean values of the six people interviewed, the correlation coefficients between the twenty CSC listed in the questionnaire were obtained and these are presented in Tables 8, 9 and 10 for time, cost, and quality respectively. The corresponding population correlation coefficient (r) was tested for significance at 0.001, 0.01 and 0.05 levels (cf. Spiegel, 1980). The CSC which are statistically significant (ie., where the population correlation coefficient is significantly greater than 0) at 0.001, 0.01,
+0.05 are indicated by a, b and c in the Tables.
+For ease of interpretation and explanation, the criterion from rows were taken as a base and then this criterion compared with the whole list of CSC from the columns. For example, in Table 8, Q3 "bank arrangements" was strongly associated with "experience", Q4 "financial status" was associated with "experience", "ability", and "past performance", Q5 "experience" was associated with "ability" and "past performance", Q6 "plant and equipment" was associated with "management knowledge", Q7 "technical personnel" was associated with "project management organisation", Q10 "project management organisation" was associated with "management personnel" and "past failures" and Q13 "Safety" with "experience modification rate".
+SUMMARY AND CONCLUSIONS
+In order to invite suitable bidders it is necessary to clarify and develop appropriate pre-determined contractor selection criteria (CSC), improve and organise the assessment of information relating to these, and develop methods for evaluating them against various project success factors (PSFs) in the prequalification and bid evaluation stages of the procurement process. Data was collected by interview from a sample of six experienced construction professionals concerning their views of the effect of the twenty contractor CSC on the three PSFs of time, cost, and quality. Following a Delphic round and further interviews with two additional and equally experienced construction personnel in which it was confirmed that the mean values received were sufficiently representative to become values for further research and any future systems development.
+The results of the research indicate "past failures, financial status, financial stability, credit ratings, experience, ability, management personnel, management knowledge" are perceived to be the most dominant CSC affecting all three PSFs with safety CSC (safety, experience modification rate, occupational housing association and management safety accountability) and the length of time in business being perceived to have the least effect overall. It was also found that some CSC, such as "past performance, bank arrangements, project management organisation, plant and equipment", are perceived to effect only one or two PSFs.  Whether or not these perceptions are universal, or indeed correspond with the true relationships between CSC and PSFs, is a matter for further study.
+The results presented provide insight into how time, cost, and quality are differently affected by contractors' capabilities in terms of different CSC.  This can aid owners in reviewing their current prequalification procedures and provide them with suggestions for changes in tender evaluation stage if priority is not always to be given to the bid price. The major benefits provided by this study is to document the perceived effects of various CSC on project objectives, together with the provision of a quantitative technique for contractor selection in terms of their own goals either for prequalification or bid evaluation.
+The authors wish to thank the industry participants for their contribution and colleagues of the Department of Statistics at UMIST and Salford Universities for their valuable comments. Thanks also go to the three anonymous reviewers who provided valuable and constructive comments on the first version of the paper.
+Akatsuka, Y., 1994, Review of postconstruction evaluation procedures for infrastructure projects, J of Mangt in Engrg, 10(1), Jan, 70-5.
+Birrell, G.S., 1985, General contractors management: how subs evaluate it, J of Const Engrg and Mangt, 111 (3), 244-59.
+BS5750, 1987, Quality systems (ISO 9000), Parts 0, 1, 2 and 3, British Standard Institution, London.
+Cheetham, D.W., Lewis, J., 1993, Implementing quality plans - the role of the subcontractor, Proceedings
+9th Annual Conference, Association of Researchers in Construction Management, Oxford University, September 14-16, 124-39.
+Hardy, S.C., (1978), Bid evaluation study for the World Bank, vol 1, The University of Manchester Institute of Science and Technology.
+Harris, R.B., 1978, Precedence and arrow networking techniques for construction, John Wiley & Sons.
+Hatush, Z., 1996, Contractor selection using multiattribute utility theory, unpublished PhD thesis.
+Helmer, F.T., Taylor, R.M., 1977, The evaluation of contractor management during source selection, Proceedings AIIE Annual Conference, 3-12.
+Hindle, R.D., Rwelamila, P.D., 1993, Changing in building procurement system and its effect on quality in building construction, Proceedings 9th Ann Conf, Advances in Construction Management Research, ARCOM, c/o Estates Department, University College Salford, 62-70.
+Holt, G.D., Olomolaiye, P.O., Frank, C.H., 1994, Factors influencing UK construction clients' choice of contractor, Building and Environment, 29 (2) 241-48.
+Horowitz, J., 1967, Critical path scheduling: management control through CPM and PERT, The Ronald Press Company, New York.
+Hunt, H.W., Logan, D.H., Corbetta, R.H., Crimmins, A.H., Bayard, R.P., Lore, H.E., Bogen, S.A., 1966, Contract award practices, J of the Const Div, Proc of the ASCE,  92 (CO1) 1-16.
+Latham, M., 1994, Constructing the team, Final Report of The Government/Industry Review of Procurement and Contractual Arrangements in The UK Construction Industry, HMSO, London, Jul.
+Merna, A., Smith, N.J., 1990, Bid evaluation for UK public sector construction contracts, Proc Inst Civ Engrs, Pt 1, Feb, 91-105.
+Ng., S.T.T., 1992, Decision support system for contractor prequalification, MSc dissertation, University of Salford, Department of Surveying, UK.
+Potter, K.J., Sanvido, V., 1994, Design/build prequalification system, J of Mangt in Engrg, 10(2) Mar/Apr 48-56.
+Russell, J.S., Skibniewski, M.J., 1987, A structured approach to the contractor prequalification process in the U.S.A., Proceedings CIB-SBI 4th Int Symp on Building Economics, Copenhagen, 240-51.
+Russell, J.S., Skibniewski, M.J., 1988, Decision criteria in contractor prequalification, J of Mangt in Engrg, ASCE, 4(2) Apr 148-64.
+Russell, J.S., Hancher, D.E., Skibniewski, M.J., 1992, Contractor prequalification data for construction owners, , 10 117-29.
+Samelson, N.M., Levitt, R.E., 1982, Owner's guidelines for selecting safe contractors, J of the Const Div, ASCE, 108(CO4) 617-23.
+Spiegel, M.R., 1980, Probability and statistics, Schaum's outline Series, McGraw-Hill Book Company.
+Spreadsheet, Graphics and reporting, Supercalc5, Computer Associates international, version 5.
+The Business Roundtable, 1982a, Contractual arrangements, Report A-7, Construction Effective Report, The Business Roundtable, New York, 19-20.
+The Business Roundtable, 1982b, Improving construction safety performance, Construction Industry cost effective report, The Business Roundtable, New York.
+Appendix 1. Questionnaire investigating the effect of contractors criteria on project objectives (time, cost, quality)
+Q1 What effect does financial stability (financial history)of the contractor have on the following project objectives (time, cost, quality), simply give three percentages for each stability case
+
+Q2 What effect does credit ratings ( from subcontractors and suppliers) of the contractor have on the following project objectives, simply give three percentages for each credit case
+Low credited contractor            High credited contractor
+
+Q3 What effect does Bank arrangements and bonding of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q4 	What effect does financial status (ratio analysis) of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q5 What effect does experience (last three to five years) of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q6 What effect does plant and equipment (availability at any time) of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q7 What effect does personnel (availability and experience) of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q8 	What effect does ability of the contractor have on the following project objectives, simply give three percentages for each case
+poor ability                       excellent ability
+
+Q9 	What effect does past performance and quality of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q10 What effect does project management organisation of the contractor have on the following project objectives, simply give three percentages for each case
+Ineffective                        Effective
+
+Q11 	What effect does management personnel (key personnel) of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q12 What effect does management knowledge (scheduling, cost control, material control, risk avoidance,..) of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q13 	What effect does safety performance of the contractor have on the following project objectives, simply give three percentages for each case
+Poor safety performance          Excellent safety performance            pessimistic average optimistic     pessimistic average optimistic
+
+Q14 What effect does experience modification rate ( accident claims ) of the contractor have on the following project objectives, simply give three percentages for each  case
+
+Q15 What effect does occupational hosing rate (number of injures and illness )of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q16 	What effect does management safety accountability of the contractor have on the following project objectives, simply give three percentages for each case
+
+Q17 What effect does past failures(claims, debarment, failed contract, financial penalties) , of the contractor have on the following project objectives, simply give three percentages for each  case
+
+Q18 	What effect does length of time in business of the contractor have on the following project objectives, simply give three percentages for each case
+Newly established                  Well established
+
+Q19 What effect does owner/contractor relationship ( responsibility and consideration for the client staff and general public,..  )have on the following project objectives, simply give three percentages for each case
+Poor relation                       Excellent relation
+
+Q20 What effect does other relationships (subcontractors, suppliers,..) of the contractor have on the following project objectives, simply give three percentages for each case
+
+Appendix 2. Questionnaire investigating the effect of contractors’ criteria on project objectives (time, cost, quality)
+Q1 What effect does financial stability (financial history)of the contractor have on the following project objectives (time, cost, quality), simply give three percentages for each stability case
+Financially unstable contractor    Financially stable contractor            pessimistic average optimistic     pessimistic average optimistic                 P         A        O               P         A        O
+Cost           118       108      100             105       100      97 Quality         87        93      100              95       100     108
+Q2 What effect does credit ratings (from subcontractors and suppliers) of the contractor have on the following project objectives, simply give three percentages for each credit case
+Low credited contractor           High credited contractor            pessimistic average optimistic     pessimistic average optimistic                 P         A        O               P         A        O
+Cost           122       109      103              104      100       94 Quality         88        95      100               95      100      105
+Q3 What effect does Bank arrangements and bonding of the contractor have on the following project objectives, simply give three percentages for each case
+Insufficient Bank arrangements     Sufficient Bank arrangements              pessimistic average optimistic     pessimistic average optimistic
+Cost           115       108      102             104       100      94 Quality         90        95       99              98       100     104
+Q4 What effect does financial status (ratio analysis) of the contractor have on the following project objectives, simply give three percentages for each case
+Cost           120       110      104             103        100     94 Quality         83        90       95              96        100    104
+Q5 What effect does experience (last three to five years) of the contractor have on the following project objectives, simply give three percentages for each case
+Cost           119       109      102              105      100      95 Quality         85        93      100               96      100     105
+Q6 What effect does plant and equipment (availability at any time) of the contractor have on the following project objectives, simply give three percentages for each case
+Insufficient                         Sufficient            pessimistic average optimistic     pessimistic average optimistic                 P         A         O               P        A        O
+Cost           114       106       100             103      100       96 Quality         91        97       100              99      100      103
+Q7 What effect does personnel (availability and experience) of the contractor have on the following project objectives, simply give three percentages for each case
+Cost           113       106      102              105      100       95 Quality         85        92       95               96      100      105
+Q8 What effect does ability of the contractor have on the following project objectives, simply give three percentages for each case
+Cost           118       108       100            104       100       96 Quality         83        92       100             95       100      104
+Q9 What effect does past performance and quality of the contractor have on the following project objectives, simply give three percentages for each case
+Cost           114       107      101             105        100      95 Quality         83        93       99              98        100     108
+Q10 What effect does project management organisation of the contractor have on the following project objectives, simply give three percentages for each case
+Ineffective                        Effective            pessimistic average optimistic     pessimistic average optimistic                 P         A         O               P        A        O
+Cost           114       107      102              105       100      95
+Quality         85        92       98               96       100     105
+Q11 What effect does management personnel (key personnel) of the contractor have on the following project objectives, simply give three percentages for each case
+Cost           115       108       102             105      100       95 Quality         84        92        97              98      100      108
+Q12 What effect does management knowledge (scheduling, cost control, material control, risk avoidance,..) of the contractor have on the following project objectives, simply give three percentages for each case
+Cost           114       105       100            105       100       95 Quality         84        93        98             98       100      106
+Q13 What effect does safety performance of the contractor have on the following project objectives, simply give three percentages for each case
+Poor safety performance          Excellent safety performance            pessimistic average optimistic     pessimistic average optimistic                 P         A        O               P         A         O
+Cost           105       102      100             101       100        97 Quality        100       100      101             100       100       101
+Q14 What effect does experience modification rate (accident claims) of the contractor have on the following project objectives, simply give three percentages for each  case
+Poor                             Excellent            pessimistic average optimistic     pessimistic average optimistic                 P         A         O               P        A        O
+Cost           106       102       100             101       100      98 Quality         98        99       100              99       100     101
+Q15 What effect does occupational hosing rate (number of injures and illness )of the contractor have on the following project objectives, simply give three percentages for each case
+pessimistic average optimistic     pessimistic average optimistic                 P         A        O               P         A         O
+Cost           104       102      100             101       100        97 Quality        100       100      100             100       100       100
+Q16 What effect does management safety accountability of the contractor have on the following project objectives, simply give three percentages for each case
+Poor                             Excellent            pessimistic average optimistic     pessimistic average optimistic                P          A        O                P        A        O
+Cost          102        102      100              100      100      100 Quality        98        100      100               99      100      100
+Q17 What effect does past failures (claims, debarment, failed contract, financial penalties), of the contractor have on the following project objectives, simply give three percentages for each  case
+poor record                       excellent record            pessimistic average optimistic     pessimistic average optimistic                 P         A         O               P        A        O
+Cost           126       113       108             105      100       95 Quality         82        89        95              96      100      106
+Q18 What effect does length of time in business of the contractor have on the following project objectives, simply give three percentages for each case
+Newly established                  Well established            pessimistic average optimistic     pessimistic average optimistic                 P         A         O              P          A         O
+Cost           105       101       100            105        100        97 Quality         92        96       100             96        100       104
+Q19 What effect does owner/contractor relationship (responsibility and consideration for the client staff and general public)have on the following project objectives, simply give three percentages for each case
+Poor relation                       Excellent relation            pessimistic average optimistic     pessimistic average optimistic                 P         A        O                P        A        O
+Cost           116       107      100              105      100       96 Quality         89        96      100               98      100      104
+Q20 What effect does other relationships (subcontractors, suppliers,..) of the contractor have on the following project objectives, simply give three percentages for each case
+Poor relation                       Excellent relation            pessimistic average optimistic     pessimistic average optimistic              P        A         O               P         A       O
+Cost        114      108       101             105       100      97
+Quality      88       93        98              97       100     104
+Appendix 3: Expected values, standard deviation and variance of time, cost, and quality for two contractors of undesirable and desirable characteristics.
+Contractor Selection Criteria
+Project Success Factors
+
+credit rating
+Contractor Selection Criteria
+Project Success Factors
+
+safety performance
+occupational housing rate
+management safety accountability
+length of time in business
+owner/ contractor relationship
+other relations
+Note.  For time and cost the lower the better, but for quality the higher the better
+90% confidence intervals of the expected values
+Contractor Selection
+
+credit rating
+occupational housing rate
+length of time in business
+owner/contractor relation
+other relations
+90% confidence intervals of standard deviation values
+Contractor Selection
+Project Success
+
+credit rating
+occupational housing rate
+management safety accountability
+length of time in business
+owner/contractor relation
+other relations
+Rank order of the 10 criteria with largest expected values
+Contractor Selection Criteria
+Other relations
+Past performance
+Credit rating
+Other relations
+Owner/contractor relationship
+Past performance
+Rank order of the 10 criteria with lowest expected values
+Contractor Selection criteria
+Management safety accountability
+Length of time in business Safety performance occupational housing rate Owner/contractor relationship
+Credit rating
+Management safety accountability Occupational housing rate length of time in business Safety performance
+Past performance
+(c) Quality
+Management safety accountability
+Safety performance
+Occupational housing rate
+Owner/contractor relationship
+Length of time in business
+Credit ratings
+Other relations
+Rank order of the 10 criteria with largest variance values
+Contractor Selection Criteria
+Past performance
+Credit rating
+Credit rating
+Owner/contractor relationship
+(c) Quality
+Past performance
+Credit rating
+Rank order of the 10 criteria with lowest variance values
+Management safety accountability
+Occupational housing rate
+Length of time in business
+Owner/contractor relationship
+Other relations
+Management safety accountability
+Occupational housing rate
+Safety performance
+Length of time in business
+Other relations
+Past performance
+Occupational housing rate
+Safety performance
+Management safety accountability
+Length of time in business
+Other relations
+Owner/contractor relation
+Effect of CSC on PSFs
+CSC and its effects
+
+high moderate
+high moderate
+high moderate
+high moderate
+
+Correlation coefficient between criteria for time
+Correlation coefficient between criteria for cost
+Q1=Financial stability 	Q5=Experience 	 	Q9=Past performance 	 	Q13=Safety 	 	 	Q17= Past failures
+Q2=Credit rating Q6=Plant and equipment 	Q10=Project management organization 	Q14=Experience modification rate 	Q18=Length of time in business
+Q3=Bank arrangements 	Q7=Technical personnel 	Q11=Management personnel  	Q15=Occupational housing rate 	Q19=Owner/contractor relationship     Q4=Financial status 	Q8=Ability 	 	Q12=Management knowledge  	Q16=Management safety accountability Q20= Other relations
+Correlation coefficient between criteria for quality

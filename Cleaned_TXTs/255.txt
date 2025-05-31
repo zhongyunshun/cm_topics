@@ -1,0 +1,123 @@
+Effectiveness of safety management strategies on safety performance in Hong Kong
+To cite this article: C.M. Tam & Ivan W.H. Fung IV (1998) Effectiveness of safety management strategies on safety performance in Hong Kong, Construction Management & Economics, 16: 1, 49-55, DOI: 10.1080/014461998372583
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (1998) 16, 49± 55
+Effectiveness of safety management strategies on safety performance in Hong Kong
+C.M. TAM and IVAN W.H. FUNG
+Department of Building and Construction, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong
+Received 4 January 1996; accepted 1 July 1996
+This research describes a study of safety attitudes, practices and characteristics of construction ® rms in Hong Kong and their relationship to safety performance on construction sites. Forty-® ve construction companies are compared and studied. Each adopts different safety management strategies. The 45 companies were composed of 11 small, 25 medium and 9 large-scale construction ® rms. Construction ® rms’ safety performance is measured by site casualty rates. Based upon the information collected from the survey, the accident rates are ® rst derived and compared with the industrial norms. Then the following safety measures, and strategies of contractors in Hong Kong and their associated safety performance, are compared: involvement of top management in safety management; safety orientation programmes for new workers; safety awards or incentive schemes; use of post-accident investigation systems; safety training schemes; safety committees; level of subcontracting. The ® rst part of the research studies the relation between these measures and the safety performance using a number of tables. The results show that these practices have indeed improved site safety. The second part uses a multiple regression analysis to study the combined effect of these schemes and practices on safety performance. The study concludes that the provision of safety training, the use of directly employed labour, the use of post-accident investigation as a feedback, and promoting safety practices by safety award campaigns and incentive schemes, are the most effective tool in mitigating
+safety, training, subcontracting, Hong Kong.
+Introduction
+The number of industrial accidents in Hong Kong remains at a very high level despite a downward trend in recent years. The construction industry has always been a problem area. Although it employs less than 8% of the total industrial workforce, it has consistently accounted for more than one third of all industrial accidents over the last ten years. The average probability of a construction worker being involved in an industrial accident between 1985 and 1994 was 5.8 times higher than the overall average for all industrial workers. The construction industry is responsible for the bulk of the fatalities in industrial accidents. An average fatality rate of 0.868 per thousand workers in
+the construction industry between 1985 and 1994 is 10.5 times the overall average for all industrial workers, and is clearly unacceptable (Anon, 1995). The unsatisfactory safety record of Hong Kong is a matter of grave concern to the government and the public.
+In the past, the Hong Kong government’s attitude towards construction safety was based on enforcement of safety ordinances. The Labour Department is the watchdog, sending factory inspectors to carry out random checks. This arrangement has the advantage of being straightforward in implementation, and provides some deterrent for those employers who cannot be persuaded by other means to observe safety regulations.
+In July 1995, the Hong Kong government started to implement a new safety strategy, which emphasizes a self-regulatory approach of safety management strategies. The aim of this paper is to investigate the effectiveness of the various safety management schemes through a comprehensive interview survey conducted in 1994/95.
+The data collected from the interview survey are tabulated to illustrate the relationship between a safety strategy and its performance. Then the information is analysed by a multiple regression analysis model to study the degree of signi® cance of each strategy.
+Forty-® ve construction companies were studied. Each individual ® rm adopted a different safety management strategy. The 45 companies were composed of 11 small-scale, 25 medium-scale and 9 large-scale construction ® rms. The job titles of the interviewees included managing directors, project managers, site managers, safety directors, and safety of® cers.
+General organization of the construction industry
+In Hong Kong, there are a number of factors attributing to the poor safety record.
+First, the cost of site accidents is not totally transferred to contractors. An average ® ne of 2.5% of the maximum penalty was imposed upon contractors in 1993). The social costs of sustaining victims’ future lives and healthcare are, however, borne by Hong Kong taxpayers. Further, contractors, especially the small ones, are not aware of the consequential costs, such as interruptions to work and programmes, reduced productivity and loss of reputation.
+Second, the low education level and lack of proper safety training of workers are also contributing factors. Because of the shortage of labour, it is common practice for contractors to hire imported labour or illegal immigrants. These people lack formal training, and are not aware of the potential traps on construction sites.
+Third, the industry uses a very high percentage of labour-only subcontractors, who are paid according to their output. These people may cut corners in adopting safety practices and endanger their own lives.
+Fourth, traditional methods of construction (including bamboo scaffolding and hand-dug caissons) predominate, and pose safety problems peculiar to the Hong Kong construction industry.
+Finally, because of the high land value, most developers ® x unreasonable contract durations in order to cut the interest charges. This puts pressure on contractors to sacri® ce safety to the pursuit of time.
+Previous research on construction safety concentrated on safety training and behavioural modi® cation studies (Duff et al., 1994; Lingard and Rowlinson, 1994), with little work done on the effectiveness of safety programmes. There are a few records of studying and identifying appropriate safety practices on sites. For example, Hinze and Harrison (1981) stated that formal safety training and safety awards are the most effective tools in educating site workers and mitigating site accidents. The Commissioner of Labour (1993) advocated the use of safety committees and post-accident investigation to combat site casualties. Lee (1991) promoted the use of safety orientation programmes to impress safety awareness on new workers. Nattrass (1994) recommended the appointment of safety of® cers on sites to strengthen site safety supervision. Lai (1987) attributed high site casualty rates to the use of labouronly subcontracting in the construction industry of Hong Kong. Hinze and Raboud (1988) advocated top management involvement to reduce site accidents.
+This early research work provides useful guidelines on the subject of site safety. This paper is based upon safety programmes suggested by this previous work. Their effectiveness is measured by correlating the programmes with safety performance.
+Safety performance
+In this study, the safety performance of companies is gauged by their accident rate in 1994. The use of accident rates is superior to other indices such as accident improvement rates, as the accident rates remain quite constant throughout the years and are easily obtainable. The accident rate is calculated as follows:
+Number of reported accidents
+(Number of mandays within 1994/300) 3	1000
+Safety measures, practices and characteristics of contractors and their relationship to safety performance
+The ® rst part of this paper looks at the relationship between the safety strategy, the characteristics of contractors and the safety performance.
+Relationship between company size and accident rates
+In classifying companies into different sizes, the study adopts the Hong Kong Census & Statistics Depart-
+Table 1	Relationship between company size and safety performance
+Table 2	Relationships between the level of subcontracting and safety performance
+Percentage of
+work let to subcontractors
+ment approach. Companies are classi® ed into small (20 or fewer employees), medium (21± 99 employees) and large (100 or more employees) ® rms. The use of the number of management staff gives the best description of the size of contracting ® rms, as this number remains quite steady while other ® gures, such as the number of workers and the turnover rate, are not stable because of the ups and down of the workload.
+From Table 1, it can be observed that the accident rate of small companies is the highest (431.7). The rate for the medium sized (346.5) lies almost at the industrial average (350). The rate for the large ® rms is the lowest (185.9). This demonstrates that larger ® rms generally have better safety records. This could be the result of more structured and formalized safety programmes, and stronger management commitment to safety. The signi® cance levels of these ® gures are veri® ed by the small-sample t-test. The p-value (probvalue, tail probability, or observed level of signi® cance corresponding to the observed value of the test statistic) in comparing the large and medium groups is 0.002. The ® gure for medium and small groups is 0.122, while that for small and large groups is 0.001. This implies that the means of the small and large, and the medium and large, are not equal. However, it is not possible to prove that the means of the medium and small are not drawn from the same population.
+Relationship between the level of subcontracting and safety performance
+Lai (1987) attributes the high site casualty rates to the use of labour-only subcontractors. This subcontracted labour is highly mobile, lacks loyalty to contractors, and is rewarded according to work done. Therefore it is dif® cult to control. Each worker is his own boss, and makes light of safe working practices in the pursuit of productivity.
+The survey indicates that among the total 1948 accidents recorded, there are 357 (18%) victims who are directly employed workers and 1591 (82%) victims who are subcontracted labourers. This may be attributable to the highly sub-contracted structure of the industry. A detailed comparison in Table 2 reveals that accident rates in fact correlate directly with the level of subcontracting. Using the small-sample t-test and a level of signi® cance of 95%, no combinations of these groups can meet the 95% con® dence level, and thus it cannot be proved statistically that the means of these groups are not equal.
+However, the high mobility of subcontracted labour makes it less familiar with the site and working environment, which induces high accident rates. Also, main contractors may have dif® culty in enforcing their safety programmes on people whom they do not know. The problem may be exacerbated by the limited ® nancial capability of small subcontractors, which makes them unable to implement comprehensive safety programmes.
+Relationship between top management involvement and safety performance
+Hinze and Raboud (1988) found that all successful safety management schemes must be supported by top management. Further, many site accidents are the result of management negligence. Management commitment and support are essential to bringing accident rates down. Top management’s commitment is thus crucial to the success of any safety programme, as shown in Table 3. The results show that safety performance is exceptionally good when top management is directly accountable for safety matters. The top level involvement symbolizes top management’s determination to combat site casualties, and thus results in lower casualty rates.
+Using the small-sample t-test and a 95% level of signi® cance, the p-value for testing the top management and middle management groups is 0.05, and that for the top and front-line groups is 0.045; both of these can ful® l the 95% level of signi® cance, and thus it can be
+Table 3	Relationships between the level of management’s involvement in safety and safety performance
+Percentage Average
+Top executive and senior management
+proved that their means are different. However, the p-value for the middle and front-line groups is 0.463, which indicates that these two groups are very likely drawn from the same population.
+Relationship between safety orientation programme and accident rates
+New workers are most vulnerable to site accidents because of unfamiliarity with potential hazards in a new construction project (Commissioner of Labour, 1993). This view is also supported by Lee (1991). Hence there is a need to orientate new workers, acquainting them with management policy, site and project particulars.
+Table 4 shows that companies providing comprehensive orientation programmes can drastically reduce site casualties. Using the small-sample t-test and a 95% level of signi® cance, the p-value for testing the comprehensive and no-orientation groups is 0.01, while that for the handouts and no orientation groups is 0.05, which proves that there is a difference between the means. However, the p-value for the comprehensive and handouts groups is 0.31, which does not meet the 95% con® dence interval requirement. This tell us that an orientation scheme, no matter how comprehensive it
+Table 4 Relationship between orientation programme and safety performance
+Types of orientation
+Number of Percentage Average
+No orientation on safety
+Table 5 Relationship between personnel involved in safety campaigns and safety performance
+Safety of® cers or project managers
+is, can improve safety performance only to a limited extent.
+Relationship between safety award campaigns, incentive schemes and safety performance
+Some safety campaigns recognize workers who perform safely with awards such as `the safest worker/group of the month’ to arouse safety awareness. Sometimes workers’ names or photos are posted on site boards or published in company’s newsletters. This practice is strongly advocated by Hinze and Harrison (1981), and is described as an effective tool in mitigating site accidents. Table 5 shows the direct correlation of the scheme and safety performance. The results show that campaigns designed for safety of® cers and project managers are most effective. This may be attributable to the fact that these personnel are most in¯ uential in implementing safety practices on sites.
+Using the small-sample t-test and a 95% level of signi® cance, the p-value for the project manager and foremen groups is 0.095, and that for foremen and no scheme is 0.17; neither is statistically signi® cant in verifying that the means are different. However, the p-value for the project manager and no scheme groups is 0.028. This proves that there is a difference between the means of the project manager and no scheme groups.
+Relationship between post-accident investigation and safety performance
+Accident investigation and analysis can provide useful feedback to prevent similar accidents in the future. This exercise also emphasizes management’s concern for safety issues. Further, information collected from post-accident investigation can provide an effective learning mechanism for corrective action.
+Table 6 unveils the effectiveness of investigation to curtailing site accidents. Using the small-sample t-test
+Table 6	Relationship between post-accident investigation and safety performance
+With post-accident investigation
+Without post-accident	19
+and a 95% level of signi® cance, the p-value for the two groups is 0.001, which con® rms that their means are different.
+The purposes of investigation are (Ngai, 1993):
+1. to examine the circumstances or operations in which the incident occurred, in order to iden-
+2. to determine what changes appear necessary to reinforce strengths and correct weaknesses;
+3. to take steps designed to prevent reoccurrence of similar accidents by improving the safety management process;
+4. to demonstrate management’s commitment to the welfare of the workers, the public and environment.
+Relationship between safety training and accident rates
+Safety training is considered by most researchers as an important safety tool in mitigating site accidents (Hinze and Harrison, 1981; Duff et al., 1994; Lingard and Rowlinson, 1994).
+Safety training is normally provided for workers. However, the situation in Hong Kong is unique in that most contractors use many labour-only subcontractors. Thus safety training is normally provided for supervisory staff rather than for workers, who are not directly employed. In our study, the relationship between safety performance and training to the supervisory staff is correlated (Table 7). The results obtained coincide with previous research studies in that sharing the provisions of more detailed and higher-level training generates better safety performance.
+Using the small-sample t-test and a 95% level of signi® cance, only the comparison between the no training and training to all supervisors groups, and the no training and special training groups are statistically signi® cant in verifying that the means are different.
+Table 7	Relationship between intensity of training and safety performance
+Intensity of training
+Training for all supervisors
+Regular training for the
+whole project team	2
+In addition to the regular training,
+special training for
+Relationship between safety committee and accident rates
+The Labour Department of the Hong Kong government strongly believes that the use of safety committees can reduce site casualties (Labour Department of Hong Kong, 1993). In fact, safety committees can improve communication and the safety awareness of construction site personnel. Ngai (1993) also reports that a safety committee has the function of keeping safety measures under review and provides a mechanism to continuously improve safety measures on sites.
+The results in Table 8 show that companies with standing safety committees reduce site casualties. Also, the effectiveness of a safety committee, because it is only an advisory body, depends on the degree of management support in implementing the committees recommendations. Its success depends on the executive power of its members to translate the committee’s decision into action.
+Table 8	Relationship between types of safety committee and safety performance
+Safety committee
+With a standing safety committee
+Ad hoc committee
+No safety committee at all
+Using the small-sample t-test and a 95% level of signi® cance, the p-value for the ad hoc committee and the no committee groups is 0.114, and that for the standing committee and ad hoc committee groups is 0.115; neither can verify that the means are different. However, the p-value for the standing committee and no training groups is 0.014, which con® rms that there is a difference between their means.
+Multiple regression analysis to study the combined effect of safety schemes on safety performance
+Multiple linear regression analysis is a method for measuring the effects of several factors concurrently. The concept of multiple regression analysis is identical to that of simple regression analysis except that two or more independent variables are used simultaneously to explain the dependent variables.
+The regression model is in the following form:
+where a is a constant; Bn is the partial regression coef® cient for Xn; and Xn is the independent variable determining the outcome of C.
+Using the derived accident rates as the dependent variable, and the safety schemes and practices as the independent variables, the multiple regression analysis technique can be applied to our study. The correlation coef® cients of the variables are ® rst derived to check for any collinearity. The results show that none of the coef® cients has exceeded 0.5, and it can be deduced that collinearity does not exist in the data set.
+The following regression formula was derived:
+59.46 (SAWA) ± 15.54(SCOM) ±
+where PAIN = post-accident investigation; PERSUB = percentage of subcontracting; MANINV = management involvement; SAWA = safety awards; SCOM = safety committee; SORIEN = safety orientation; STRAIN = safety training. R2 = 0.47, and adjusted R2 = 0.37. In other words, 37% of the variation in accident rates is explained by these seven variables. The Beta values are shown in Table 9.
+Because it is dif® cult to describe which of numerous variables to include in a regression equation, stepwise regression techniques are used to remove the insignificant variables. This technique allows the investigation of different combinations of independent variables. The selection criteria are usually based on the partial correlation coef® cient, the coef® cient of determination, R2, and whether the inclusion of the variable would be signi® cant, which are tested by the F distribution. The regression equation obtained is as follows:
+R2 is 0.46; adjusted R2 is 0.40. The regression coef® cients are shown in Table 10.
+
+The results show that the seven variables can explain around 40% of the safety performance of contractors; each contributes a certain extent. Amongst them, four variables are proved to be signi® cant in determining safety performance, veri® ed by the t-test with 0.05 levels of signi® cance: post-accident investigation, the level of subcontracted labour, safety awards, and safety training.
+Table 9 The values of B, (unstandardized partial regression coef® cients) Beta and the order of contribution to the dependent variable
+contribution to the
+Table 10	The values of B, beta and the order of contribution to the dependent variable
+contribution to
+Post-accident investigation is the most important factor in determining safety performance, because the investigations enable contractors to learn from experience, and provide a feedback mechanism in safety issues. The second most important factor is the level of labour-only subcontracting. The high priority of this factor is the basic explanation for the poor and unacceptable construction safety records in Hong Kong, because most construction labour is obtained from labour-only subcontracting. The fourth and ® fth important variables, safety training and safety award campaigns, show that provision of safety training and safety award campaigns can really reduce site accidents.
+The other three variables, safety committees, management involvement and safety orientation, are less signi® cant in explaining safety performance. (However, their contribution to safety performance is evidenced in the previous section.) This may be attributable to the nonlinear relationship with safety performance, which may reduce their levels of signi® cance.
+The study has been divided into two parts. The ® rst compared the safety performance of various safety schemes. The results show that most of these schemes can drastically reduce the number of site accidents.
+The second part used a multiple regression analysis technique to look at the interrelated effect of the schemes on safety performance. The results show that the most effective schemes are:
+1. post-accident investigation, which generates feedback and experience to reduce site accidents;
+2. the use of more directly employed labour, which is loyal to contractors and more familiar with site conditions;
+3. the use of safety awards and incentive schemes to arouse safety awareness;
+4. safety training to improve the safety knowledge of site staff.
+Together with safety orientation, safety committees and management involvement, these variables can explain around 40% of the safety performance which, although, not very high, gives insight into the effectiveness of these safety schemes.
+The results show that all these schemes and practices improve safety performance. Some less signi® cant schemes may be attributable to the non-linear relationships with safety performances.

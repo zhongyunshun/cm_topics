@@ -1,0 +1,137 @@
+﻿See discussions, stats, and author profiles for this publication at:
+An investigation into causes and effects of construction delays in UAE
+Article · January 2010
+CITATIONS	READS
+
+Al Ain University	University of the West of England, Bristol
+9 PUBLICATIONS   111 CITATIONS   	66 PUBLICATIONS   728 CITATIONS
+Some of the authors of this publication are also working on these related projects:
+performance management, strategic management,supply chain management View project
+Risk Response Development in Construction Projects Delay: Multiple Case Studies from UAE View project
+All content following this page was uploaded by Omayma Hashim Motaleb on 06 March 2016.
+The user has requested enhancement of the downloaded file.
+AN INVESTIGATION INTO CAUSES AND EFFECTS OF CONSTRUCTION DELAYS IN UAE
+The Scott Sutherland School of Architecture and Built Environment, Robert Gordon University, Aberdeen AB10 7QB, UK
+A major criticism of the United Arab Emirates (UAE) construction companies is the growing rate of delays in project delivery. The objective of the research work that underpins this paper was to investigate the causes and effects of construction projects delays in the UAE. The study was based on literature review and a questionnaire survey that investigated 42 potential delay factors. Questionnaires were sent to 50 companies with a response rate of 70%. Typical results have shown that change orders, financial and other client-related factors are the most significant causes of delay. Besides, cost and time overruns are the most significant effects. These results are in partial agreement with previous studies. However, some of the results are surprising and have implications regarding the need of training clients and their representatives but also project teams.
+client, delay, project management, United Arab Emirates.
+Construction delay can be defined as the time overrun either beyond the contract date or beyond the date that the parties agreed upon for delivery (Assaf and Al-Hejji 2006). Construction delay is considered one of the most recurring problems in the construction industry. Construction projects can be delayed as a result of a large number of factors. Monthly payment difficulties from agencies, poor contractor management; material procurement, poor technical performances, and escalation of material prices have been identified as the main delay factors in Ghana by Frimpong (2003). Lack of contractor competency, poor designers and estimation, unfixed management problems related to site and procedurals techniques have been identified as major causes of delay in Vietnam by (Long et al. 2004). In Kuwait, the financial difficulties, changing orders, insufficient experience of clients and contractors are the main delay factors (Koushki et al. 2005). Change orders have been also identified as the main delay cause in Saudi Arabia (Assaf and Al-Hejji 2006). Inadequate planning, scheduling and financing by contractor, and change orders by clients have been reported to be the main factors causing delay in Jordan (Sweis et al. 2008).
+Delays have an adverse impact on project success in terms of time, cost, quality and safety (Association of Project Managers 2006, Arditi and Pattanakitchamroon 2006). Construction stakeholders have to think about the nature of these problems by more analysis and studies (Theodore et al. 2009). The effects of construction delays,
+Motaleb, O and Kishk, M (2010) An investigation into causes and effects of construction delays in UAE. In: Egbu, C. (Ed) Procs 26th Annual ARCOM Conference, 6-8 September 2010, Leeds, UK, Association of Researchers in Construction Management, 1149-1157.
+however, are not confined to construction companies, but can influence the overall economy of a country like the United Arab Emirates (UAE), where construction plays a major role in its development and contributes 14% to the GDP.
+In the UAE, local and foreigner investors attract people to own and invest in properties. This trend has resulted into the growth of population in a very short time and affected the GDP (Abu Dhabi Chamber Commerce and Industry 2009). Clients and investors are complaining of non receipt of their projects on time since delays take many years and gets on one of the most critical problem in the UAE. A study by Faridi and El-Sayegh (2006) revealed that half of construction projects in the country encounter delays. According to Motaleb (2009), the number of construction projects encountering delay increased by about one fifth by 2009.
+Although the current global financial crisis that hit the world recently affected the rapid development in the UAE, there is still a huge construction activity in the country. According to a recent investigation into the current and future state of the construction industry in Dubai (Global Real Estate News Centre 2009), more than half of the construction projects in real estate, infrastructure, and leisure and entertainment in the UAE, worth $582 billion, are now on hold. However, that still leaves construction projects worth almost $700 billion going ahead. So, it is crucial to identify the main causes and effects of delay of construction projects in the UAE.
+The objective of the research work that underpins this paper was to identify the main causes and effects of construction project delays in the UAE. This is part of a PhD project aiming at the development of a framework for the effective management of construction delays in the UAE.
+A questionnaire survey has been designed on the basis of an extensive literature review of various causes and effects of project delay. Questionnaires were used because of their convenience and cost and time effectiveness when compared to faceto-face interviews given that the population companies are scattered in various parts of the UAE. Besides, they are less intrusive than telephone or face-to-face surveys which may result a better response rate as was identified in the pilot study. The questionnaire was carefully designed to avoid several shortcomings associated with questionnaire surveys including poor response rates, and problems relating to question construction and wording.
+The questionnaire was designed so that that it is easy to read and responses are easy to fill in. Besides, open-ended questions were minimized as they could generate large amounts of data that can take a long time to process and analyse. The questionnaire consists of three sections. The first section was intended to gather information about the respondents’ profile. The second and third sections relate to questions on the causes and effects of construction projects delays, respectively. These sections were designed to obtain the responses on a five-point scale that indicates the relative importance of various delay causes and effects. This was mainly based on a synthesis of potential delay causes and effects identified in previous research (e.g. Al-Khalil and Al-Ghafly 1999, Odeh and Battaineh 2002, Koushki et al. 2005, Assaf and Al-Hejji 2006, Lo et al. 2006, Sweis et al. 2008, Motaleb 2009).
+To minimize the possibility of the respondents not understanding the terminology and layout of the questions, the questionnaire was piloted on two contractor respondents and two consultant respondents. Based on their feedback some alterations were carried out.
+The questionnaire was then distributed to a random sample of 50 experts working in local consulting, project management and contracting companies. Responses to the questionnaire were then collected and analysed. 35 responses were received with a good response rate of 70%. All responses were complete and usable. These represented 15 consultants, 8 project managers, and 12 contractors.
+The data analysis was carried out in two folds using SPSS for Windows and Microsoft Excel. SPSS was used to generate the frequency (fi) of the response category index for the cause and effect factors. The relative importance index (RII) for each factor was calculated using the frequency data for each response categories generated from SPSS.
+The RII is the calculation of the mean frequency of each responses category index for the probability and impact. It is calculated as:
+
+Where fi is the frequency of the ith response and wi is the weight assigned to the ith response.
+Spearman rank correlation coefficient (rs) was also used to determine the strength of relationship between the consultants and project managers ranking for various factors. It is a measure of correlation between two series using the ranks rather than the actual values (Kottegoda 1997, Coakes et al. 2009) and can be calculated as:
+where di is the ith difference in ranking between consultants and project managers. The higher the value of rs approaching 1 or -1, the stronger the association between the two sets of ranking (Odeh and Battaineh 2002).
+Causes of delay
+42 causes of delay have been identified and grouped into 5 sets: contractors, consultants, project managers, clients, financial and other unforeseen factors as shown in tables 1 to 6, respectively. The top 15 factors are summarized in Table 7.
+Contractor factors
+As shown in Table 1, there are 16 contractor-related causes of delay. Only two of these factors are among the top 15 (Table 7): late delivery of materials, ranked 9th, inappropriate construction methods, ranked 15th. Contractors have to ensure that all resources such as materials are available throughout the project whenever needed.
+Contractor factors
+
+Factor Description
+Late delivery of materials
+Slow mobilization of labour
+Low motivation /morale
+Insufficient numbers of equipment.
+Inappropriate construction methods
+Accurate time estimations of materials delivery require accurate project information in terms of quality of information and information flow, availability and supply of resources.
+Consultant and project manager factors
+There are no consultant-related factors, Table 2, among the top list (Table 7). However, it should be noted that consultants as well as project managers contribute to time and cost estimating, Table 3, that have appeared in the top list in the 11th and 15th places, respectively. Besides, both consultants and project managers contribute to some extent to other factors including poor site management and supervision, improper project planning and scheduling, incompetent project team, and inappropriate construction methods which appeared in the top 15 list.
+All the client-related factors (Table 4) are among the top list (Table 7). Change orders, lack of capability of client representative, slow decision making by client, and lack of experience of client in construction are the most important causes of delay as they ranked first to fourth, respectively. Excessive change orders can cause significant disruption in projects and, consequently, cause change in the schedules, increase costs through rework and decrease labour efficiency.
+Accurate time estimations of materials delivery require accurate project information in terms of quality of information and information flow, availability and supply of resources. Although contractors were perceived to cause these inaccurate estimates, as discussed earlier, as they are the ultimate party who produce estimates, it can be argued that clients are responsible as the party that issues excessive change orders.
+Poor estimation and change management reflect lack of efficient and effective project
+
+Factor Description
+Slow response and poor inspection
+Improper project feasibility study
+Project manager factors
+Factor 	Factor Description
+22 	Incompetent project team
+26 	Poor site management and supervision
+27 	Improper project planning / scheduling
+28 	Lack of communication /coordination
+Five financial-related causes of delay have been identified and are summarized in Table 5. Three of these factors are among the top 15 list (Table 7). inflation and prices fluctuation, high interest rate and client’s financial difficulties. These results are logical given the recent high escalation of prices of steel and cement, the current credit crunch and the related economic crisis in Dubai.
+Other unforeseen factors
+This group of causes was ranked low by both consultants and project managers as shown in Table 6. None of these factors is among the top fifteen factors (Table 7). This is particularly true for problems with neighbours. It seems that affected people near sites are usually well informed about projects and satisfactory compensation offered for their properties. Besides, environmental and social impact assessments are fairly carried out when necessary in the UAE. These will ensure that projects run smoothly without interruptions during construction phases.
+Conformity between consultants’ and project managers’ rankings A further analysis was done to find out the conformity between consultants and project managers, by using the Spearman rank correlation coefficient (Equation 2). This coefficient was found to be 0.918 indicating a strong conformity between consultants and project managers for the ranking of the causes of delays.
+Factor 	Factor Description
+30 	Slow decision making by client
+31 	Lack of capability of client representative
+32 	Lack of experience of client in construction.
+Factor 	Factor Description
+36 	High interest rate
+38 	Inflation/prices fluctuation
+39 	Delay payment to supplier/ subcontractor
+Unforeseen factors
+
+Factor Description
+Unforeseen ground/weather condition
+Problem with neighbours.
+Effects of delays
+Six potential effects of delay have been identified as shown in Table 8. Time and cost overrun are the two most important effects of delays, ranked first and second respectively by both consultants and project managers. These results are in good agreement with the results of important causes of delay. Out of the top causes of delay (Table 7), there are at least five factors that can cause of time overrun including change orders, slow decision making by client, lack of capability of client representative, construction financial difficulties and late delivery of materials.
+Besides, there are at least five factors that can result in cost overrun including:
+These results are also in general agreement with other published work related to other developing countries, e.g. Aibinu and Jagboro (2002) in Nigeria, and Wiguna and Scott (2005) in Indonesia.
+A similar study was carried out for the construction industry in the UAE (Faridi and El-Sayegh 2006). Table 9 summarizes the rank order, if any, of the top 15 causes of
+Top 15 factors based on all responses
+Lack of capability of client representative
+Slow decision making by client
+Lack of experience of client in construction
+Incompetent project team
+Late delivery of materials
+Improper project planning / scheduling
+High interest rate
+Inappropriate construction methods
+Ranking order of effects of delay
+Effect Description
+Ranking of current top causes of delay in 2006
+Factor Description
+Lack of capability of client representative
+Slow decision making by client
+Not applicable
+Lack of experience of client in construction
+Not applicable
+Incompetent project team
+Inflation/prices fluctuation
+Not applicable
+Not applicable
+Late delivery of materials
+Improper project planning / scheduling
+High interest rate
+Inappropriate construction methods
+delay in both the current work and their 2006 study. Ten of the top 15 factors were also reported in the 2006 study. Apart from lack of capability of client representative, ranked 2nd in both studies, the ranking order of all other common factors has changed.
+The change orders factor has changed considerably from the 27th place to become the most important factor. This is followed by poor site management and supervision and Improper project planning/scheduling which moved up 14 and 13 places to be the top 5th and 10th, respectively, causes of delay in the current study. Incompetent project team moved up six places to be the 6th top factor. Inappropriate construction methods, however, moved down the list 8 places. The remaining 4 factors changed up/down by 3 places.
+CONCLUSIONS AND THE WAY FORWARD
+The objective was to investigate the causes and effects of construct project delays in the UAE.  Data was collected through an extensive literature review and a questionnaire survey distributed to a group of experts working in local consulting, project management and contracting companies operating in the UAE.
+Forty two potential causes of construction projects delay have been identified and categorized into contractor, consultant, project managers, client, financial, and unforeseen categories. The significance of these factors has been investigated using the relative importance index method. The fifteen top causes of delay include 6 clientrelated factors, 4 project manager-related factors, 3 financial factors, and 2 contractorrelated factors. Client-related factors seem to be the most significant causes of delay. This is followed by project team/ management related factors and various financial factors faced by the contractor.
+These results are in general agreement with published previous studies and the current economic crisis in the UAE. However, some of the results are surprising and have implications regarding the need of training clients and their representatives but also project teams.
+The effects of construction delay have also been investigated. Time and cost overrun have been found to be the two most important effects. This is in good agreement with the identified significant causes of delay.
+This study has provided a fresh perspective and evidence on the most significant delay causes and effects. These results have clear implications for the construction sector in the UAE and the construction industry in general. Further future work includes conducting a well grounded survey of construction delays in the UAE to triangulate the initial approach adopted in this research findings. This will equally address the limitations of the study considering the sample size and the methodology adopted.
+Abu Dhabi Chamber of Commerce (2009)  (accessed 10 May 2009).
+Aibinu, A and Jagboro, G (2002) The effects of construction delays on project delivery in   Nigerian construction industry. International Journal of Project Management, 20, 593-9.
+Al-Khalil M, and Al-Ghafly M (1999) Important causes of delay in public utility projects in Saudi Arabia. Construction Management and Economics, 17(5), 647-55.
+Association of Project Managers (2006) APM body of knowledge.  5ed.
+Arditi, D and Pattanakitchamroon, T (2006) Selecting a delay analysis method in resolving construction claims. International Journal of Project Management, 24, 145-55.
+Assaf, S A and Al-Hejji S (2006) Causes of delay in large construction projects. International Journal of Project Management, 24(4), 349-57.
+Coakes S J, Steed, L and Price J (2009) SPSS Version 15.0 for Windows: Analysis Without Anguish.
+Faridi, A S, and El-Sayegh, S M (2006) Significant factors causing delay in the UAE construction industry. Construction Management and Economics, 24, 1167-76.
+Frimpong, Y,  Oluwoye, J and Crawford, L (2003) Causes of delay and cost overruns in construction of groundwater projects in a developing countries: Ghana as a case study. International Journal of Project Management, 21, 321-6.
+Kottegoda N T, Rosso R (1997) Statistics, probability, and reliability for civil and environmental engineers. McGraw-Hill.
+Koushki, P A, Al-Rashid, K and Kartam, N (2005) Delays and cost increase in the construction of private residential projects in Kuwait. Construction Management and Economics, 23, 285-94.
+Long, D N, Ogunlana, S O, Quang T and Lam, K C (2004) Large construction projects in developing countries: a case study from Vietnam. International Journal of Project Management, 22, 553-61.
+Lo T Y, Fung I W H, Tung K C F (2006) Construction delays in Hong Kong civil engineering projects. Journal of Construction Engineering and Management, 132(6), 636-49.
+Motaleb, O H (2009) An investigation into the causes, effects and handling of construction delays in the United Arab Emirates. Unpublished MSc thesis, Robert Gordon University, Aberdeen, UK.
+Odeh, A M and Battaineh, H T (2002) Causes of Construction Delay: Traditional Contracts. International Journal of Project management, 20, 67-73.
+Sweis G, SweisR, Abu Hammad A, and Shboul A (2008) Delays in construction projects: the case of Jordan. International Journal of Project Management, 26, 665-74.
+Theodore J, William A, Scott J, Mark F, and Brian J (2009) Construction Delay. 2nd ed. Elsevier Butterworth-Heinemann.
+Wiguna, I P A and Scott, S (2005) Analysing the risks affecting construction delay and cost overruns in Indonesian building projects. Innovation in Architecture, Engineering and Construction, Rotterdam, 841-849.
+View publication stats
+Delays in UAE

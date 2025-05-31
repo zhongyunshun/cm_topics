@@ -1,0 +1,91 @@
+Estimating project and activity duration: a risk management approach using network analysis
+To cite this article: Nashwan Dawood (1998) Estimating project and activity duration: a risk management approach using network analysis, Construction Management & Economics, 16: 1, 41-48, DOI: 10.1080/014461998372574
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (1998) 16, 41± 48
+Estimating project and activity duration:
+a risk management approach using network analysis
+Division of Civil Engineering and Building, School of Science and Technology, The University of Teesside, Middlesborough TS1 3BA, UK
+Received 21 December 1995; accepted 14 August 1997
+Variations in the durations of activities are commonplace in the construction industry. This is due to the fact that the construction industry is in¯ uenced greatly by variations in weather, productivity of labour and plant, and quality of materials. Stochastic network analysis has been used by previous researchers to model variations in activities and produce more effective and reliable project duration estimates. A number of techniques have been developed in previous literature to solve the uncertain nature of networks, these are: PERT (program evaluation and review techniques), PNET (probabilistic network evaluation technique), NRB, (narrow reliability bounds methods) and MCS (Monte Carlo simulation). Although these techniques have proved to be useful in modelling variations in activities, dependence of activity duration is not considered. This can have a severe impact on realistically modelling projects. In this context, the objective of the present research is to develop a methodology that can accurately model activity dependence and realistically predict project duration using a risk management approach. A simulation model has been developed to encapsulate the methodology and run experimental work. In order to achieve this, the following tasks are tackled: identify risk factors that cause activity variations using literature reviews and conducting interviews with contractors; model risk factors and their in¯ uence on activity variations through conducting case studies and identifying any dependence between them; develop a computer based simulation model that uses a modi® ed Monte Carlo technique to model activity duration and dependence of risk factors; and run experimental work to validate and verify the model.
+Network analysis, Monte Carlo simulation, PERT, stochastic analysis
+
+Uncertainty in network analysis has been used by previous researchers in an attempt to model activity duration variations more accurately and produce more effective and reliable project duration estimates. Variations of activity duration do occur due to the exposure of construction projects to numerous uncontrollable risk factors. Several probabilistic methods have been developed to solve the problem of uncertainty in network analysis. Amongst these methods are (Illumoka, 1987; Chapman, 1990): PERT (program evaluation and review technique), PNET (probabilistic network evaluation technique), NRA (narrow reliability
+bounds), and MCS (Monte Carlo simulation). Diaz and Hadipriono (1993) found that PERT is the simplest method and yields the most optimistic results, while MCS produces the most conservative results. They used several types of network and the evaluation is based on survival function and computer time. Ranasinghe (1994) has introduced an equation to model the uncertainty in activity duration, and developed a quanti® cation for uncertainty in project duration.
+The research in the area of uncertainty in network analysis which has been developed over the last decade has re® ned the techniques used; however, a number of problems still exist. Uncertainty in analysis is applied with survival of the project in mind, rather than applying it to projects with the survival of the company as the basis of the decision. Obviously, before the uncertainties of projects can be combined a good understanding of the uncertainties in each project is needed. Furthermore, the techniques used still need enhancing to produce more accurate models of the interactions between uncertainties and activities variations. In this context it is hypothesized in this research that unless some form of dependence between activity variations exist, accurate modelling of uncertainty in networks is unattainable. The objective of this research is to explore a methodology, based on a risk management approach, that models variations in the duration of activities and their dependence on risk factors. It is hypothesized that such a methodology can improve project duration estimates and provide practitioners with a tool for testing several mitigating strategies to counter detrimental events and their in¯ uence on project duration.
+The following tasks have been performed to achieve the objective. (i) Identify risk factors that cause activity variations using a literature review and conducting interviews with contractors. (ii) Model risk factors and activities’ duration variations and identify dependence between them. (iii) Develop a simulation model to encapsulate and test the new methodology. (iv) Run experimental work on case studies to validate the methodology.
+In this section the proposed methodology of modelling variations in the duration of activities and their dependence on risk factors is discussed. It is assumed that there are a number of risk factors that might cause variation in activity duration, and their in¯ uence can differ from one activity to another. In general, the following are considered to be the risk factors.
+Type of soil and site condition
+Weather conditions
+Table 1 The distributions, their possible use and the parameters required
+Application
+Where there is a risk an event can occur
+Outcome and probability
+Where there is an equal chance
+The lower and upper extremes
+Design changes and incomplete
+of outcome between two values
+Where the outcome is between
+The lower and upper and the
+Weather condition,
+two extremes and the tendency is
+most likely outcome
+labour productivity,
+towards one outcome
+Where there is a range between
+The lower and upper extremes
+Weather, subcontractors default
+which the outcomes are equally
+and the lower and upper likely
+likely, and the probability of an 	outcomes outcome beyond that range decreases the further away from it, towards the extreme outcome
+Each of the above factors can be modelled using a representative distribution and have a minimum value (0) and a maximum value (1). As in MCS, random numbers for each risk factor are generated from a particular representative distribution. The type of distribution can vary from one activity to another or can be kept ® xed for the project once it has been generated. It is proposed that certain risk factors will have the same in¯ uence on the project regardless of time, for example, type of soil and site condition, labour productivity, etc. On the other hand, other risk factors might be changed with time and might have different values from one activity to another, for example, weather conditions, equipment failure, incomplete design, design defect, etc. In this case, random numbers will be generated for each activity or for a particular time in the project calendar. Several distributions are used to model risk factors, as shown in Table 1 (Bekr, 1990).
+The in¯ uence of each risk factor on variations of activity duration should be established. As an example, Table 2 shows a matrix that gives the in¯ uence of the risk factors on variations of activity duration. As can be seen, each risk factor has a certain contribution on activity variations (risk factor 1 has 20% in¯ uence on duration variations in activity A). The total in¯ uence of all factors should be 100% on any given activity. In reality the in¯ uence of factors will be assessed judgementally through knowledge elicitation. This will be discussed later in the paper.
+Once distribution has been allocated (using a combination of historical data and knowledge of distribution theories) to risk factors and the in¯ uence matrix is developed, the remaining task is the calculation of activity duration. In order to achieve this, the following equation is developed:
+Duration of activity A = MinTime +
+where MinTime is the minimum duration that can be assigned to an activity, MaxTime is the maximum duration that can be assigned to an activity, RFn is the in¯ uence of risk factor n on a particular activity (from activity/risk factor matrix), and Randomn is a random number that should be generated using a representative distribution of risk factor n.
+Table 2	Activity/risk factors matrix
+In order to illustrate the above equation, Table 3 shows an example of four runs for activity A. As can be seen, in Run 1 all risk factors have materialized to the very extreme and the duration of the activity is 20, which is the maximum. In Run 2 none of the risk factors has materialized and the duration of the activity is the minimum, 10. Run 3 shows a duration of 12.5 days resulted from 50% materialization of each risk factor. Finally, Run 4 shows the results of having two risk factors, 1 and 2, with 100% materialization. In order to validate the methodology, a simulation model has been developed using the Turbo-Pascal platform. The model encapsulates risk factors, their distribution and in¯ uences on each activity and the logic of a given project. The following section introduces a hypothetical case study to illustrate the proposed methodology.
+The case study is a small civil engineering project as shown in Table 4. The risk factors that affected each activity in the project and their in¯ uence are given in Table 5. The distributions representing the possible outcome of each risk factor are also given in Table 5. A suitable distribution has been allocated to each risk factor using site information and judgement. The quanti® cation of the risk factors has been achieved through selecting a probability distribution which shows the possible outcomes of the variables and the relative likelihood of each possible outcome.
+1, 2 and 3 show the distributions of weather, soil and
+Table 3	An example to illustra factors RF1, RF2, RF3 and RF4
+te the develope are all 25%.
+activity A of m
+and min durati
+
+
+
+
+
+
+
+
+
+Duration of
+
+Table 4 Logic of the project
+
+Activity No.
+Preceded by
+Finishes	11
+Risk factors in¯ uencing the project’s activities
+Distribution	Mean
+
+
+Productivity
+Figure 1 Distribution of weather	Figure 2	Distribution of soil
+Figure 4 Distribution for the project duration: number of runs 1000, min. value 57 days, max. value 94 days, average
+Figure 6 Correlation of the risk factor with project duration
+reliability of equipment, respectively. The in¯ uence of each risk factor on the activity duration is assigned. Obviously, the in¯ uence of the risk factors should affect the outcome of the project, and a range of experimental work can be designed to investigate the risk factors. It should be mentioned that the objective of this paper is to present the methodology and its operation. Construction managers should be able to use it as a test bench to pinpoint the effect of risk factors on their projects. The distributions that represent the risk factors might differ from project to project and therefore the methodology is designed to accept a wide range of distributions to suit particular applications.
+Analysis of the results
+Having described and quanti® ed the uncertainty of the risk factors, the next stage is to determine the combined effect of uncertainties on the project duration and to identify the factors which contribute signi® cantly to the total. The results of the runs are compared with Monte Carlo simulation using the Beta distribution to model activity variations. Figure 4 shows the results generated from 1000 iterations of the model; the minimum duration (optimistic) of the project is 57 days and the maximum duration
+(pessimistic) is 94 days. The mean value of the project duration is 78.7 days with 7.5 standard deviation and ± 0.115 skewness (i.e. the mean is shifted towards the pessimistic value). The cumulative density function in Figure 5 indicates that around 80% of the results are between 74 and 94 days. In order to identify the in¯ uence of the risk factors on the duration of the project, a correlation analysis between the risk factors and project duration is conducted. Figure 6 shows that weather and productivity have a high correlation (0.68 and 0.62, respectively) and this is regarded as a strong in¯ uence on the project duration compared with other factors. This type of analysis should help project management on focusing on the risk factors that in¯ uence the project duration substantially.
+Figure 9 Distribution for the project duration
+Cumulative distribution for the project:
+In order to compare the results generated from the
+proposed methodology with the traditional PERT approach, the model was allowed to run the same case study using the Beta distribution. The maximum and minimum values for each activity that were used in the Beta distribution are shown in Table 4. Figures 7 and 8 show the results generated from 1000 iterations of the case study, and the results are similar to the proposed methodology; however, the PERT solution has provided a slightly lower standard deviation (6.9) and a higher skewness of (± 0.21). The PERT approach has produced an overall expectation of the project duration without any indication regarding the causes of such wide outcomes in the project duration.
+Having identi® ed the possible outcomes of the project duration, the management needs to identify the possibility of reducing the variations and minimizing the pessimistic part of the project duration. The methodology developed is well suited to targeting the detrimental effect of the risk factors and consequently reducing the impact of such factors. In the case study, it was concluded that the weather and productivity risk factors have a strong impact on the project duration, and the intention is to reduce the effect of these factors. In order to achieve this, it was suggested that the project used in the case study be constructed over the summer; this way, the effect of the weather can be minimized. 1000 iterations were run using the same information presented in Table 4 and changing the mean of the weather distribution to (0.2). Figures 9 and 10 show that the possible project duration has been shifted towards the optimistic part. It can be seen that the mean value is 54 days with skewness of 0.17. More experimental work is under way with the objective of minimizing the detrimental effect of the risk factor. From Figures 9 and 10 it can be concluded that the detrimental effect of the risk factors can be minimized and a more optimistic duration can be produced. However, the question to be asked is: at what cost can this be achieved? Management should be able to evaluate the cost/bene® t of each option. This subject is under investigation.
+Figure 11 Distribution for the project duration, varying just Figure 13 Distribution for the project duration, varying just the weather factor: number of runs 1000, min. value 64 days, the weather and soil risk factors: number of runs 1000, min. max. value 88 days, average 78 days, and SD 5.2 value 63 days, max. value 69 days, average 78 days, and SD 5.8
+Figure 14 Distribution for the project duration, varying all Figure 12 Distribution for project duration, varying just the risk factors except productivity: number of runs 1000, the soil risk factor: number of runs 1000, min. value 75 days, min. value 60 days, max. value 92 days, average 78 days, max. value 80 days, average 78 days, and SD 5.8 and SD 6.1
+Figures 11± 14 show the results of a set of experiments designed to demonstrate the effect of varying certain risk factors while keeping the rest ® xed. The objective is to examine the sensitivity of the projects towards certain risk factors. Figure 11 shows the distribution of the project duration while varying only the weather factor and ® xing the rest of the factors. Compared with Figure 4 (varying all risk factors), the results suggest that the spread of data in Figure 11 is smaller (SD 5.2, min. 64, max. 88), however, the project is still risky, quite sensitive to the in¯ uence of weather and needs management attention to counter the uncertainty in the project. Figure 12 shows the distribution of the project duration while varying only the soil risk factors, and the spread of data is reduced further (SD 5.8, min. 75, max. 80) and the uncertainty is minimized. Figure 13 shows the distribution of the project duration while varying only the weather and soil factors, and in Figure 14 all the risk factors except productivity are varied. The ® gures show that the spread of data is wider than in Figures 11 and 12, and the project is highly uncertain and sensitive to weather and soil factors when they are combined.
+The objective of this research is to explore a methodology that models variations in the duration of activities and their dependence on risk factors. It is hypothesized that such a methodology can improve project duration estimates and provide practitioners with a tool for testing several mitigating strategies to counter detrimental events and their in¯ uence on project duration.
+A case study has been used to illustrate the methodology and a simulation model has been developed and used to encapsulate this methodology. It is concluded that the results generated using the methodology are very bene® cial to forecasting project duration accurately and estimating the impact of risk factors on project duration. It should be mentioned that the practical application of this method has a number of limitations, e.g.: allocation of the in¯ uence of the risk factors on variations of activity duration needs considerable experience and judgement; identifying and modelling risk factors is highly judgmental and there is room for mistakes; and the methodology is dependent on historical data and most construction companies do not have accurate records of construction sites.

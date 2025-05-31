@@ -1,0 +1,190 @@
+Farsighted project contract management:
+To cite this article: J. Rodney Turner (2004) Farsighted project contract management: incomplete in its entirety, Construction Management and Economics, 22: 1, 75-83, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (January 2004) 22, 75–83
+Farsighted project contract management:
+J. RODNEY TURNER*
+Department of Marketing and Organization, Rotterdam School of Economic, Erasmus University, Rotterdam, The Netheslands
+Received 16 September 2002; accepted 19 December 2002
+The purpose of project organization is to create a cooperative environment. Contracts are the method by which the owner creates a project organization to employ resources to achieve their development objectives. Contracts should aim to produce a cooperative organization, aligning the contractors’ objectives with the owners. A three-dimensional vector (reward, risk, safeguard), adapted from the Transaction Cost Economics literature, is used to analyse the efficacy of contract types to do this. Contracts are also unavoidably incomplete. They need to respond to unforeseen circumstance. A four-dimensional vector (incentive intensity, adaptiveness, reliance on monitoring and control, reliance on the courts), also from the Transaction Costs Economics literature, is used to analyse the governance efficacy of contract types. The results are used to develop a contract selection strategy, depending on whether the uncertainty is controlled by the client or the contractor, the project is simple or complex, and the uncertainty is in the project’s product, method of delivery or both.
+Contract selection, forms of contract, governance, incentivization, project organization, transaction costs
+Project organization: cooperation versus conflict
+There are two ways of viewing a project organization, what I would consider to be the correct way and the normal way, respectively:
+• a temporary organization (Turner and Müller
+2003), through which the owner assembles resources and motivates them, in a climate of cooperation, to achieve their objectives;
+• a market place, in which the owner buys the project’s outputs at the cheapest possible price in a climate of conflict with their contractors, where one will win the other lose.
+In the more common approach, the client adopts the mindset they are going to buy the project’s outputs in the local bazaar, and negotiates hard to achieve the lowest possible price from the vendor (contractor).
+negotiation is viewed as a win-lose game. A climate of conflict and mistrust develops, and this spills over into project delivery, usually leading to a lose–lose outcome. Scott (2001) says this approach results in misalignment between the client’s and contractor’s objectives, between the objectives of multiple contractors, and between the client’s objectives and the contractor’s remuneration.
+Turner and Müller (2003) view the project as a temporary organization, through which the client assembles resources to achieve their objectives. As in any organization, the owner should view the resources working for them as their employees, and motivate them to achieve their objectives. Because it is a temporary relationship, the owner often employs resources from an agency (contractor). Thus, their ‘employee’ is a company rather than a person, what the Dutch call a legal person rather than a natural person. But the owner should view these legal persons as much their employees as natural persons, and motivate them accordingly.
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online © 2004 Taylor & Francis Ltd
+Using a transaction cost perspective, Turner and Keegan (2001) show the project is a hybrid organization,
+in which the governance structure, production function and transactions are aligned. This is necessary to deal with the unique and uncertain nature   of the project, and is in contrast to routine supply, (Williamson, 1996; Winch, 2001), where transactions take place between production units. It reinforces the view the client and their contractors must work together in a climate of cooperation. The project does not take place through transactions between the players, but by their working together as one. Levitt and March (1995) say:
+The problem of organizing [is] seen as one of transforming a conflict (political) system into a cooperative (rational) one. A conflict system is one in which individuals have objectives that are not jointly consistent. It organizes through exchanges and other interactions between strategic actors. A cooperative system is one in which individuals act rationally in the name of a common objective.
+It is through contracts the owner creates the project organization and ‘employs’ legal persons (contractors) to work on their projects. It is through contracts the owner should try to motivate the contractors to achieve their objectives (through a win–win game). Thus, when developing a project contract strategy, the owner should choose a contract type that develops an appropriate cooperative relationship between themselves and their contractors, and provides incentives to motivate the contractors to achieve their objectives. Further, because projects are temporary organizations, they entail risk and uncertainty. Thus to provide an appropriate incentive, the contract needs to recognize that risk and provide safeguards to protect the contractor (and indeed to enable the owner to share in any opportunities). The contract should be designed to encourage the owner and contractor to act rationally together to achieve common objectives, and the best outcome for both within the expected risk.
+However, rationality is certain to be bounded by human frailty (Williamson 1996), by the project participants’ inability precisely and unambiguously to:
+• communicate with each other; • process information to interpret events; • foretell the future.
+Therefore, not only does the contract strategy need to provide incentives and safeguards to deal with risks envisaged in advance (ex ante incentivization), it needs to be flexible enough to deal with unforeseen circumstances as they arise; the ex ante contract is unavoidable incomplete. To maintain a climate of mutual cooperation, the contract needs to be flexible to deal with these circumstances through mutual agreement and cooperation, not through one party making use of them to make gains over the other. The contract needs to provide a flexible, farsighted ex post governance structure that:
+• allows adaptations through mutual agreement;
+• provides a communication structure to identify project progress and problems as they arise so they can be dealt with in a cooperative fashion;
+• continues to provide an incentive for the contractor to deliver the client’s objectives;
+• without either party feeling the need to resort to the law (which automatically is a lose–lose scenario – the ‘winning’ party just losing less than the other).
+Transaction cost economics and a theory of contracts
+Transaction Cost Economics suggests two schemas to describe the ability of contracts to provide ex ante incentivization and flexible, farsighted, ex post governance (Williamson 1995, 1996).
+The ability of a contract to provide ex ante incentivization is described by three parameters:
+• the reward it provides to motivate the contractor to share the owner’s objectives and perform;
+• the associated risk;
+• the safeguard provided by the owner to shield the contractor from the risk.
+If there is no risk, there is no need for any safeguard, and the reward can be low. If there is risk, there may or may not be a safeguard. If there is no safeguard, the contractor buys the risk off the owner, and a high reward is required. If there is a safeguard, the owner underwrites the contractor’s risk and the incentive can be lower. Note, in some cases the safeguard only provides protection against extreme risk. For lower levels of uncertainty, the contractor takes the risk; for extreme events, the client underwrites the risk. This is the case with target price contracts, or where the contractor only claims for variations over a certain size. However, in these cases the reward is less than if there is no safeguard.
+Williamson was describing contracts for supply of repetitive units, not one off, unique, novel and transient projects. He assumes the cost of works is independent of the contract type, there is a natural costs associated with the task (Williamson, 1996; Winch, 2001). The incentive is part of the transaction costs associated with the contract, additional costs over and above the basic cost of works (Cox and Thompson 1998). However, Turner and Simister (2001) showed on projects the incentive can come from reducing the cost of works. Because projects are unique, there is no natural cost associated with the task; the cost of works is dependent on the form of contract.
+Flexible, farsighted, ex post governance
+Although the schema above assumes a safeguard, it only deals with foreseen risks. If properly motivated, the project’s participants should behave rationally towards a common (the owner’s) objective. However, because of human frailty, rationality is bounded. Every project contract is almost certainly incomplete. Flexible, farsighted, ex post governance is required to deal with unforeseen circumstances. Williamson (1995) suggests four parameters to describe the ability of a contract form to provide this:
+• the incentive intensity;
+• the ease of making uncontested, bi-lateral adaptations;
+• the reliance on monitoring and related administrative controls (transaction costs);
+• the reliance on court ordering.
+Incentive intensity
+Greater incentive intensity will elicit greater performance and sustained effort from the contractor to achieve the owner’s objectives, and greater flexibility in accepting changes to adapt to unforeseen circumstances.
+The ability of the parties mutually to accept changes. Some contracts inhibit changes, even if both parties will accept them; others encourage them. Although described as ‘bilateral adaptiveness’, it is not always necessary for both parties to be party to the decision. It depends on their ability to solve problems. Often the client can make no contribution to problem solving. Then what is best for cooperation is to leave the contractor to decide (within the constraints set by the incentive) what is best for dealing with changes.
+Some contract forms require very intrusive systems for monitoring and control, leading to high transactions costs, while others allow light control. Turner and Simister (2001) showed transactions costs associated with monitoring and control can be small when compared to savings in the costs of works through appropriate motivation of the contractor. Thus, incentive intensity has a stronger impact on project costs than reducing control. If appropriate incentives are chosen, there may be no need for monitoring and control procedures, with the contractor working on their own.
+Reliance on court ordering
+This measures how much the contract encourages cooperation (or conflict), and encourages client and contractor to settle their differences in ways other than resorting to the law. If it is necessary to resort to the law, the project has become a conflict system, and all parties stand to lose, some just more or less than others. (It might be possible to replace this parameter with trust. How much does it encourage or discourage trust?
+Traditional contract types and a theory of contracts
+I compare traditional contract forms to the two schemas above. Turner (1995), Smith (2003) and Marsh (2003) identify two dimensions of contract forms: • the roles and scope of supply – traditional, integrative or management procurement routes (Smith, 2003); • the payment terms (Marsh, 2003).
+Here I am mainly interested in payment terms, though I accept certain payment terms fit naturally with certain forms of supply. I consider the following contract forms:
+• Cost plus incentive fee (c + if )
+• Alliance contracts, or cost plus gain share
+• Remeasurement based on a schedule of rates
+(r-sor), effectively cost plus
+• Remeasurement based on a bill of quantities (r-boq)
+• Remeasurement based on a bill of materials
+(r-bom), effectively fixed price with variations (3) Fixed price contracts
+• Fixed price based on a detailed design (fpdd), effectively remeasurement
+• Fixed price design and build based on a scope design
+• Fixed price design and build based on cardinal points (a functional specification)
+
+• Time and materials to budget, or guaranteed maximum price
+The incentive profiles of the contract types are summarized in Table 1 and the governance profiles in Table 2. These tables also show the profiles of the traditional contract forms (markets and hierarchies) for routine supply as suggested by Williamson (1996).
+These are adopted on high risk contracts, where the cost plus nature provides a high safeguard.
+Table 1	Contract forms and ex ante incentivization
+Contract form
+Fixed Price
+
+Specification a
+Specification b
+
+Time and materials
+High but misaligned
+Low and Mislaigned
+Medium High
+
+
+
+
+
+Medium High
+
+
+
+
+
+Low (insurance)
+
+Table 2	Contract forms and flexible, farsighted, ex post governance
+Contract form
+Incentive intensity
+Adaptiveness
+• Build only
+• Specification a
+• Specification b
+
+• Time and materials to Budget or gmp
+Medium High
+Medium High
+
+
+
+
+
+Medium High
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+However, with c + %f, the motivation is for the contractor to overspend. The reward is misaligned with the client’s objectives. With c + ff, there is a small incentive for the contractor to finish to cost, because the higher the cost, the lower their percentage profit. With c + if, there is a medium level incentive to achieve whatever success criteria the incentive is linked to.
+Governance. These contracts are very adaptive, but have high costs of monitoring and control. But once these mechanisms are in place, they remain fixed, regardless of the amount of risk encountered and adaptations required (Turner and Simister, 2001). Because of their flexibility, there should be little reliance on court ordering. However, mistrust can be high.
+It is appropriate to use this form where:
+• there is very high risk and uncertainty;
+• which the contractor can make no contribution to reducing.
+It is used on construction management contracts, where the client’s design consultant does the design, but the construction management contractor is responsible for procurement and site management. The construction manager has no control over the scope. • the construction manager is usually paid a fixed price (with incentives) for their role;
+• the New Engineering Contract (Institution of Civil Engineers 1995) recognizes the construction manager needs to be given incentives to choose the cheapest sub-contractors, not the easiest to manage;
+• the construction manager also has no control over unit rates; for simple contracts, where the contractor does have control over unit rates and productivity, remeasurement contracts should be preferred to cost plus.
+In an alliance (Scott, 2001), the client and contractor work together in a spirit of cooperation, to reduce the scope of works and hence the price. They also cooperate to achieve other key performance indicators set by the client, such as time, quality, safety and environmental performance. The client establishes a gain share fund, which is split between the client and all contractors according to their achievement of the client’s performance indicators. This form of contract only works where both the client and the contractors can make a contribution to reducing risk and achievement of the performance indicators. Projects are coupled, non-linear systems (Turner and Keegan, 2001). Where risk is controlled by both client and contractor, it needs to be managed in unison. Reducing risk in one area can cause a larger increase in another, and so a holistic solution is needed. Alliance contracts achieve that.
+There is considerable uncertainty in this type of project. It is only worth adopting where the client and contractor can achieve considerable potential cost savings, otherwise the high transaction costs cannot be justified. There is some safeguard built in, in two ways: • the client shares some of the risk (and gains) through the gain share fund;
+• there is usually a cap on the down-side risk borne by the contractor: above a certain level of loss they are borne entirely by the client.
+Governance. There is high incentive intensity: the gain share fund, linked to the client’s key performance criteria, gives high motivation to the contractor to achieve the client’s objectives. There is high flexibility, but there is a price to pay through high transaction costs. Recourse to the courts is avoided through an escalation procedure built into the alliance agreement.
+The contractor is rewarded according to the amount of work they do, according to a pre-agreed formula.
+The amount of labour and materials used is measured, and the contractor rewarded according to agreed hourly and unit rates. This is virtually cost plus. There is no motivation for the contractor to control productivity. It suffers from all the problems of costs plus. There is a high safeguard and high transaction costs, but the contractor’s reward is not aligned to the client’s objectives. This is often used where work and material requirements are very clearly defined, by the client or their design consultant, and contractors are used to provide agreed amounts of labour and material against industry standard rates (Turner and Simister, 2001).
+Standard work elements are identified, and the contractor is rewarded according to the number of work elements completed. The contractor is now motivated to control productivity levels. This is appropriate where a project consists of clearly identifiable work elements, but the exact number is uncertain at the outset. The client should not expect the contractor to suggest improvements for the benefit of the client, because that will reduce their reward. The contractor may try to find ways of improving the delivery of the work elements, but will not pass those improvements on to the client. The contractor may even take shortcuts to the client’s detriment. So there are medium level transaction costs giving the client little benefit.
+Standard, larger work packages are identified, and the contractor is rewarded according to the number completed. In this case, once the price of the work packages has been set, the contractor is not motivated to suggest price reductions, but will seek ways to reduce the cost. In the early stages of the project, client and contractor can work together to optimize the design of the work packages, and the client can ask contractors to bid competitively. Transaction costs are lower, because there are larger elements of work to monitor.
+Remeasurement contracts are the closest in a project context to the market in routine supply, especially the SoR and BoQ cases. In the former, the client is buying labour and bulk materials in the bazaar, and in the latter standard components. Therefore, these will be appropriate where there is low specificity, and relatively high competition to provide the labour and materials or supply the standard project components. With the BoM form, there will be higher specificity, requiring closer cooperation between client and contractor while the work packages are defined, but enabling lower monitoring costs once work starts.
+Fixed price contracts
+The client or their design consultant does a detailed design, which is given to a construction contractor for delivery. The construction contract may either be bid under competitive tendering, or awarded according to a standard SoR or BoQ. Either way, this is effectively a remeasurement contract, since any variations are completed according to the SoR or BoQ. However variations will be sought by the contractor, since typically these contracts are bid under tight margins, and so they will seek to increase their profit through variations. These types of contract can lead to the largest mistrust between client and contractor.
+This form is the worst from the contractors’ perspective. There is little reward, and no safeguard, but if the design is well done little risk. Thus, incentive intensity is low. There is little motivation for the contractor to achieve the client’s objectives; they just try to do minimum work for minimum cost. There will be no adaptiveness, unless the contractor sees it as a way of making extra money. Transaction costs are high, to process the variations that arise, and because there is a strong climate of mistrust, there is a heavy reliance of the courts.
+Design and build based on a scope design
+The client, or their design consultant, performs an initial scoping design, and the contractor does the detailed design and construction. If the scope of supply also includes commissioning, this becomes a lump sum turnkey contract. It is usually said this type of contract is used where it is possible to specify the final facility quite tightly, and so the risk will be low. However, Turner and Simister (2001) showed it is also used where the facility can be specified quite tightly, but there may be considerable uncertainty in the method of delivery, and only the contractor has the skills to reduce the risk. The client or their design consultant can make no contribution to improving delivery.
+If the risks are low, the safeguards will be low and the rewards low. Where risks are low, there will be several contractors able to do the work, and so they will all bid with tight margins. The cooperative organization is best served by the client keeping well away from the project during its delivery, with the contractor free to make whatever adaptations to the process of delivery they see fit. If margins are tight, the contractor may try to claw back additional profit through variations and that will increase transaction costs. However, if the client were to increase the contractor’s profit to cover variations under a certain size, which are almost inevitable, transaction costs can be reduced. If an incentive is built in to control variations, it can lead to a cheaper outcome.
+Cardinal points or functional specification
+The client specifies the functionality and key performance indicators (cardinal points) of the facility to be delivered, but leaves it to the contractor to find the best solution both in terms of the design of the facility and method of its delivery. Turner and Simister (2001) show that this form is best used where there is some uncertainty about how best to deliver the facility, and the client can make no contribution to solving that problem. The contractor buys all the risk through a fixed price contract, and makes their reward by finding the best solution. This form was used in the case of the Botlek Tunnel under the Oude Maas River, part of the Betuweroute (Dutch High Speed Freight Line) from the Port of Rotterdam to Germany. This solution gave the client a price lower than they could get by any other contract form, but still let the contractors make a reasonable reward. They were motivated to find the best solution by the form of contract.
+The contractor’s risk is high, but there are suitable rewards. In the case of the Botlek Tunnel, by and large there were no safeguards. The contractors bought most of the foreseeable risks. However, there were some potential, very low likelihood but very severe, insurable risks, which the client, the Dutch state-owned railways, underwrote. This enabled the contractors to bid a lower price than if they had to underwrite those risks themselves. In the event, these risks were not encountered.
+Governance. The contractor’s incentive comes from their ability to find an effective solution, and so can be high. This form is very adaptive, in that the contractor is left to work on their own to find the best solution, and so transaction costs are low. If well formulated there should be little need for recourse to the courts because the cardinal points can be quite clear. And if the extreme risks are properly underwritten there should be no need to make claims.
+Other forms of contract
+The price is fixed for an agreed range of out-turn cost around the target price, with the client and contractor sharing any underspend or overspend outside that range. Often the client caps the contractor’s exposure for overspend. Within the target range this contract acts like a fixed price contract. However, there is a potential for the contractor to achieve higher rewards, but at exposure to greater risk. The incentive intensity is higher than for fixed price contacts, but higher transactions costs are needed to monitor regular performance. However, with those administrative procedures in place, variations are easier to process. These contracts can still lead to dispute, requiring recourse to the courts. But with the contractor motivated to save cost, they will not pursue variations to increase their profit, when that can be achieved more easily by saving costs. This form can lead to collaborative working between client and contractor, as in alliance contracts, since it is in both their interest to save cost. The New Engineering Contract (Institution of Civil Engineers, 1995) treats fixed price as a special case of target cost, with the target range extended to infinity. However, we see the two types of contract do have subtly different profiles, and require different monitoring regimes.
+Time and materials to budget or guaranteed maximum price
+The contract is cost plus to a target price, and fixed price beyond. The contractor takes all the downside risk, but shares none of the upside opportunity. This contract form is a fool’s game: it is conflict organization, lose–lose project management. Contractors who accept it are fools because it is weighted so heavily in favour of the client; they should seek fixed price. Clients who push it on their contractors are fools because the contractors are demotivated, and do not have the clients interests at heart; they should seek fixed price.
+The contractor has no incentive to achieve the client’s objectives. The rewards are low, the risks are high and there is no safeguard.
+Governance. This form has all the disadvantages of cost plus and fixed price, but none of the advantages. The incentive intensity is low: the contractor makes big  losses if the project is overspent, but small profits if it underspent, and the more underspent, the smaller the contractor’s profits. High transaction costs are required to monitor what the contractor is actually spending, so the client can claw back money if they underspend. There is no adaptiveness. The contractor is unwilling to take on additional work, and the client, to want to adopt this type of contract, must be uncompromising. And the reliance on the courts will be high, as the contractor tries to prove any overspend is due to the client’s errors.
+Developing a contract strategy
+I now present a methodology for selecting contract strategy based on the need:
+• to provide the contractor with incentive to achieve the client’s objectives;
+• to provide flexible, farsighted governance to deal with incompleteness, but at minimum transaction costs.
+Turner and Simister (2001) initially assumed that the contract form would be chosen to minimize transaction costs, as it does with routine supply (Williamson, 1996). However, they showed that is not the case, the appropriate form of contract is chosen to motivate the contractor to reduce the cost of works and achieve the client’s objectives. The appropriate form depends on, (Figure 1):
+(1) Who controls the risk?
+• the client; • the contractor;
+(2) The nature of the project?
+(3) The location of the uncertainty?
+• in the project’s product; • in its method of delivery;
+
+Client controls the risk
+If the client (or their consultant) controls the risk, the appropriate forms of contract are cost plus incentive fee or remeasurement depending on the complexity.
+Low complexity
+For low complexity a remeasurement contract based on an SoR or BoQ is appropriate. The Dutch rail infrastructure company operates a take-it-or-leave-it approach (Turner and Simister, 2001). The client’s consultant designs the facility, which is priced using a standard SoR. That gives a price for the job, which the contractor accepts or refuses. Any variations are priced using the standard schedule. This is virtually fixed price with flexibility built in to deal with variations.
+High complexity
+For high complexity projects a c + if management contract (Smith, 2003; Marsh, 2003) may be appropriate. The contractor is paid a fixed price with incentive for their contribution, which is the procurement of subcontractors and the management of the work. Sub-contracts, including work done by the main contractor, should be priced as remeasurement as above.
+Figure 1	Contract selection strategy
+Contractor controls the risk
+Now the type of contract depends on whether the risk is in the process, in the product and process, or neither.
+Risk in the process
+The project’s product can be clearly defined; the uncertainty lies in how it is to be delivered. The contractor has control over that risk. The appropriate form is fixed price design and build, with the product defined by cardinal points.
+Risk in the product and the process
+If there is risk in the product that the client cannot control, then the client has a functional requirement, but does not have any skill in house to deliver it. A common approach in this case is prime contracting with a target price contract.
+Design only contracts by the client’s consultant also fall into this category. It is normal for these to be done on a time and materials (remeasurement based on an SoR). Careful monitoring is required to ensure the work done is essential. The client is very dependent on the consultant. The consultant’s reputation as a professional is one thing that motivates them to work in the client’s interest (Turner and Müller, 2003).
+If the risk is shared, then the strategy depends again on whether the complexity is high or low.
+Low complexity
+The contract form adopted could be remeasurement, fixed price or target price, depending on where the balance of the residual risk lies, with the client, with the contractor, in the process or the product.
+High complexity
+If the complexity is high, the appropriate form of contract is an alliance (Scott, 2001).
+
+This paper adopted the premise that the purpose of project organization is to create a cooperative working relationship between the owner and their contractors. The contracts are the method by which the owner creates the project organization, and should aim to align the contractors’ objectives with the owners, by providing appropriate incentives. A three dimensional schema, (reward, risk, safeguard), was used to analyze the efficacy of different contract types to do this. Contractors will behave rationally to optimize their economic position, so the owner needs to ensure that all their contractors’ economic positions are aligned with theirs. Project contracts are also unavoidably incomplete. The contracts need to be able to respond to unforeseen circumstance. A four dimensional schema, (incentive intensity, adaptiveness, reliance on monitoring and control, reliance on the courts), was used to analyse the governance efficacy of the different contract types. The results of this analysis was used to develop a contract selection strategy, depending on whether the risk is controlled by the client or the contractor, whether the project is simple or complex, and whether the risk is on the project’s product, method of delivery or both.

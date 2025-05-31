@@ -1,0 +1,157 @@
+Causes of claims in road construction projects in the UAE
+Malek Mishmish & Sameh M. El-Sayegh
+To cite this article: Malek Mishmish & Sameh M. El-Sayegh (2018) Causes of claims in road construction projects in the UAE, International Journal of Construction Management, 18: 1, 26-33, DOI: 10.1080/15623599.2016.1230959
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Causes of claims in road construction projects in the UAE
+Malek Mishmish and Sameh M. El-Sayegh *
+Civil Engineering Department, American University of Sharjah, Sharjah, United Arab Emirates
+Claims are inevitable in construction projects and road construction projects in the United Arab Emirates (UAE) are no exception. A claim is a request for time and/or monetary compensation for damages incurred by any party to the contract. The number and frequency of claims have increased over recent years due to the increase in the size and complexity of these projects. These claims result in cost overruns, schedule delays and adversarial relationships amongst the contracting parties. The objective of this paper is to identify and assess the most frequent causes of claims in road construction projects in the UAE in addition to the root causes that contribute to the occurrence of claims. Sixteen causes were identified through a literature review. A survey was then developed and distributed to construction professionals experienced in claims in road construction projects. Fifty-one surveys were completed. The reasons and their root causes were ranked based on the weighted average of the responses. Variation was identified as the most frequent cause of claims, followed by contractor’s delay and inadequate site investigation before bidding. The results show that consultants and clients have strong agreement on the ranking of the claims and weak agreement with the contractors.
+construction industry; road projects; United Arab
+Introduction
+Claims are a matter of concern for all contracting parties involved in a construction project. Claims may result in cost overruns, schedule delays and may jeopardize the working relationships amongst the contracting parties. Claims and their causes are major factors in cost overruns (Mehany and Grigg 2014). Quite simply, a claim can be defined as a request for compensation for damages incurred by any party to the contract.
+Claims have become a way of life in construction projects (Barrie and Paulson 1992; Latham 1994). Construction claims are seen in almost every project in the United Arab Emirates (UAE) as a direct result of the ongoing growth (Zaneldin 2006). The construction industry contributes around 14% of the gross domestic product (GDP) of the UAE and plays a significant role in the development of the country (Faridi and El-Sayegh 2006). Problems are expected to arise due to the dynamic conditions of the construction industry. These problems are usually followed by claims. The UAE’s Roads and Transport Authority (RTA) in Dubai has its own conditions of contract (RTACC). The conditions of the contract, for civil engineering works, have been amended to be in line with the International Federation of Consulting Engineers (FIDIC’s) conditions of contract with a few additional clauses that reflect government policies.
+Advancement of technology and vast requirements for roads and infrastructure projects in developing countries have resulted in increase in the size and complexity of construction projects. Consequently, the number and frequency of claims and disputes increased.
+© 2016 Informa UK Limited, trading as Taylor & Francis Group
+Several authors studied claims around the world due to their importance. Scott and Harris (2004) discussed common types of claims in the UK construction industry focusing on four scenarios: the treatment of exceptionally adverse weather conditions, dealing with early completion projects, quantification of the prolongation costs associated with an approved extension of time, and concurrent delays. Mehany and Grigg (2014) identified the most common causes of claims based on data from the Colorado Department of Transportation projects and found that delay claims are the most significant causes of claims. The results also showed that projects with fixed completion dates are more prone to claims than those with more flexible schedules (Mehany and Grigg 2014). Kartam (1999) classified project delays into three categories: delays classified by their origin, delays classified by their timing, and delays classified by their compensability. Jergeas (2001) investigated claim reports from four Canadian projects and four international ones and reviewed the causes of these claims. Jergeas (2001) categorized the causes of claims into two areas: misunderstanding of contract intentions and the owner’s desire to reduce costs. Semple et al. (1994) studied the causes of claims, delays and cost overruns on 24 projects in Western Canada. The authors found that increase in scope was the main cause of disputes in almost half of the claim reports. Jergeas and Hartman (1994) stated that almost half of all contract claims are caused by design errors. Farooqui et al. (2014) identified the common causes of disputes in the Pakistani construction industry. The most severe cause of disputes is unrealistic tender pricing. Hassanein and El Nemr (2007) studied claims in Egypt and found that the main causes are change orders and delays by the owner. Zaneldin (2006) identified the most common types and causes of claims in the UAE. The findings showed that changes claims are the most frequent type of claims in the industry.
+When it comes to claim management and analysis, Vldogah and Ndekugri (1997) questioned why claims are so poorly managed by contracting companies. They believe that contractors should have an adequate claim management department rather than managing claims on an ad hoc basis. Bu-bshait and Manzanera (1990) stated that the Critical Path Method (CPM) greatly helps reduce contractual disputes by having a detailed schedule of all the activities. Bu-bshait and Manzanera (1990) advised having a detailed claim analysis procedure in order to make a clear assessment and evaluation of the claim. Tanaka (1988) found that most disputes between the contractor and owner arise from conflict about interpretation of the contract documents concerning extra work or changed conditions. Enshassi et al. (2009) believe that completing the project without claims is a key factor to a successful construction project.
+Claims require valuable resources, time and money to resolve them. Sibanyama et al. (2012) stated that claims can divert considerable resources from ongoing projects Most road construction projects in the UAE are of high value and short duration in order to minimize inconvenience to road users. Road construction projects are unique and have higher degree of risks that could lead to claims. El-Sayegh and Mansour (2015) stated that road construction projects have higher risks than other construction projects because highway projects are spread over a wider geographic area and face a threat from underground conditions. Similarly, several authors stressed the high risks in road construction project (Reilly and Brown 2004; Thomas et al. 2006; Zayed et al. 2008). Road construction projects are prone to risks (Perera et al. 2014).
+The number and frequency of claims in UAE road construction projects have increased over recent years due to the increase in the size and complexity these projects. These claims result in cost overruns, schedule delays and adversarial relationships amongst the contracting parties. This increases the burden on public agencies, which have limited staff and budgets, to deal with the claims. There are many reasons that may result in claims. There is a need to identify and assess the frequency of claims in the particular case of UAE road construction projects. There is also a need to assess the root causes of those frequent claims in order to develop strategies that may minimize the frequency and impact of construction claims. This paper identifies and assesses the most frequent claims, along with their root causes, in road construction projects in the United Arab Emirates.
+The first step in this research was to identify the reasons for claims in road construction projects through a literature review. Sixteen main reasons were identified, with several root causes for each of them. A questionnaire was then developed containing the main reasons for claims and their root causes. The questionnaires were sent to construction professionals, who frequently deal with construction claims, in the UAE. The questionnaire was sent to 65 professionals; however, only 51 responded. Table 1 shows the respondents’ profiles with
+Years of experience Less than 5 years
+5 to 10 years
+11 to 20 years
+More than 20 years
+Less than 50 million
+More than 100 million
+regard to their role, years of experience and the size of the projects they handle.
+The respondents were asked to assess the frequency of each main cause of claims using the Likert scale, with 1 being ‘unlikely’ to 5 being ‘most likely’. The weighted average of the responses was then calculated for each main reason and each root cause.
+The Spearman rank correlation coefficient was used to compare the views of contractors, clients and consultants. The Spearman’s rank correlation coefficient is a nonparametric measure of correlation between two series using the ranks rather than the actual values (Kottegoda and Rosso 1997). Equation (1) (Kottegoda and Rosso 1997) is used to calculate the correlation coefficient.
+
+rs D Spearman rank correlation coefficient. dD Difference in ranking ND Number of variables (causes of claims) D 16
+A positive value indicates agreement while a negative value indicates disagreement. A higher value of the coefficient (approaching 1) indicates a strong association between the two sets of ranking (El-Sayegh 2008).
+Claims in road projects
+Based on the review of related literature and experience in the UAE road construction industry, 16 common causes of claims were identified. These are presented in Table 2 along with the literature sources.
+The respondents were asked to identify the most frequent causes of claims based on their experience in road construction projects. Figure 1 shows the ranked results.
+Each claim has different root causes. The frequencies of the root causes of claims were calculated based on the responses of UAE professionals and shown in Table 3.
+Variations (changes) is the most frequent cause of claims in the UAE. During the construction phase, clients request several variations to the agreed upon project scope. Contractors consider that they are entitled for reimbursement for the additional work, while clients consider that the work is included in the contract’s scope and is therefore part of the tendered price.
+Reasons for claims
+
+Poorly written contract
+Zaneldin (2006); Jergeas and Hartman (1994); Levy (2007); Farooqui et al. (2014); Rhys (1994)
+Zaneldin (2006); Jergeas and Hartman (1994); Mehany and Grigg (2014), Semple et al. (1994); Bu-Bshait and Manzanera (1990); Farooqui et al. (2014); Jergeas (2001)
+Delay in granting possession of site
+Late issue of instruction/clarification
+Variations (employer/engineer initiated)
+Zaneldin (2006); Jergeas and Hartman (1994); Scott and Harris (2004); Vldogah and Ndekugri (1997); Mehany and Grigg (2014), Semple et al. (1994); Bu-Bshait and Manzanera (1990); Tanaka (1988); Farooqui et al. (2014);
+Third-party interference
+Zaneldin (2006); Bu-Bshait and Manzanera (1990); Farooqui et al. (2014); Mehany and Grigg (2014)
+Inconsistencies in specifications and drawings
+Payment-related issues
+Unforeseen conditions
+Scott and Harris (2004); Mehany and Grigg (2014); Bu-Bshait and Manzanera (1990); Tanaka (1988); Farooqui et al. (2014); Jergeas (2001); Mehany and Grigg (2014); Levy (2007)
+Delay caused by contractor
+Levy (2007); Poh (2005); Yiu and Cheung (2007); Rhys (1994); Watts and Scrivener (1995); Zaneldin (2006)
+Termination/suspension of works
+Zaneldin (2006); Jergeas (2001); Jergeas and Hartman (1994)
+Jergeas and Hartman (1994); Semple et al. (1994); Bu-Bshait and Manzanera (1990); Jergeas (2001)
+Main causes of claims.
+consistent with other studies that showed change order claims as the most frequent. Hassanein and El Nemr (2007) showed that change order claims represented 54% of the total number of claims in Egypt. Diekmann and Nelson (1985) found that 72% of contract claims were due to change orders. The most frequent reasons for variation claims are the client’s incorporation of scope changes followed by design changes during construction. Due to the dynamic nature of the construction industry, decisions are expected to be taken rapidly by clients, thus disallowing consultants from taking their time in finalizing the design of the project. This usually causes the client, who did not properly verify the design prior to tendering, to make changes to the project during construction.
+Contractor’s delay is the second most frequent cause of claims in the UAE. The root causes for this claim are the lack of qualified resources and personnel. Contractors in the UAE are dependent on resources and personnel from other countries. Therefore, the project may suffer due to the unavailability of qualified resources on site. Due to high competition, contractors tend to submit unreasonably low prices. This leads to financial problems during project execution which in turn leads to claims. Inadequate site investigation before bidding is the third cause of claims in the UAE. The root causes for this claim are the inaccurate as-built records of services at the site location (inaccurate records provided by service authorities), followed by different perceptions between the engineer and the contractor of unforeseen conditions. Due to the rapid growth of infrastructure projects in the UAE, usually no proper update is carried out by the service authorities, thereby resulting in the consultants being provided with inaccurate as-built records. During construction, various utilities are
+Ranked causes of claims in road projects.
+encountered which are not shown on the contract drawings, resulting in either diverting the utilities or relocating the proposed works.
+Inadequate documentation is the fourth cause of claims in the UAE. The root causes for this claim are the lack of co-ordination between different teams followed by incomplete design. The lack of co-ordination between services authorities in Dubai impedes the efforts of consultants at the design stages to design a project. Sometimes, the information requested by the consultant during the design stage is delayed by the authorities. This requires the consultant to proceed with the available incomplete information. Time limitations during design result in incomplete designs requiring late changes in the construction documents which lead to discrepancies in documentation. Claims for unforeseen conditions is ranked fifth in the UAE. Unforeseen conditions are beyond the control of either contracting party. Delay in granting possession of the site is the sixth cause of claims in the UAE. This claim arises when the client does not give possession of the site, or part of it, to the contractor as stated in the contract.
+Claims for inconsistencies in specification and drawings is ranked seventh in the UAE. The main reasons for this claim are the use of contract specifications/drawings prepared for a previous contract that are not specific to the current contract followed by ambiguities. Different perceptions in assessment for extension of time, disruption and concurrent delays is ranked eighth in the UAE. The main reasons to this claim are the different perception in methods for assessing the extension of time followed by different perceptions in apportioning the cost for concurrent delays. A poorly written contract is the ninth cause of claims in the UAE. This claim arises when the contract documents are so poorly drafted that they do not describe the obligations/rights of each party appropriately. Some of the key contract provisions may be missing. The main causes to this claim are the inadequate time allowed for contract formulation and the last minute changes initiated by the client. Third party interference is the tenth cause of claims in the UAE. The main reason for this claim is the delay in obtaining the No Objection Certificate (NOC) to carry out the works. The second reason is disruption to the contractor due to third party (authorities/other contractors/clients’ employees). Late issuance of instructions and/or clarifications by the consultant during construction is the eleventh cause of claims in the UAE. The root causes of this claim are the many requests for information (RFIs) by the contractor, limited number of consultant's staff on site and supervision staff with limited experience. The least frequent claims in the UAE include delay in payments, defects, termination and/or suspension of works, acceleration and measurement-related issues.
+Comparison based on company role
+The results were also analysed based on the company role. Table 4 presents the overall ranking of the causes of claims by contractors, clients and consultants.
+There is an agreement amongst all parties regarding the most frequent cause of claims, which is variations issued by the client and engineer during the course of construction. There is also agreement on inadequate site investigation before bidding being placed around third rank. Close ranking was given to the least frequent causes of claims such as termination/suspension of works and measurement-related issues.
+Root causes of claims in UAE road construction projects.
+Client incorporates changes in scope during construction
+Contractor’s request for new rates
+Contractor considers that the BOQ rates are too low for the varied works
+Delay caused by the contractor
+Due to lack of contractor’s resources
+Due to planning and scheduling errors
+Due to lack of contractor’s supervision
+Low price due to high competition resulting in financial problems
+Inadequate site investigation before bidding
+Inaccurate as-built records of services at site location
+Failure of the consultant to obtain proper as-built records of services at site location
+Different perceptions of unforeseen conditions
+Inadequate time allowed for site investigation before bidding
+Lack of available information from site investigation
+Insufficient budget allocated by the client for site investigation
+Lack of co-ordination between different teams
+Late changes initiated by the client, resulting in discrepancies in the documentation
+Insufficient brief by the client on the project/misunderstanding by the consultant
+Unforeseen conditions
+Inclement weather
+
+Political factors
+Delay in granting site possession
+Delay in the works of enabling/previous contract
+Non-availability of land on time due to client’s occupation
+Possession delayed because the contractor is not ready to take possession
+Specifications and drawings inconsistencies
+Use of contract specifications/typical drawings not specific to current contract
+Ambiguities between different ‘equal’ specifications or between ‘equal’ drawings and specifications
+First time use items/materials
+Inadequate specification for works to be carried out
+The specification leads to non-constructability
+Different perceptions in assessments of claims
+Different perceptions in methods for assessing the extension of time
+Different perceptions in apportioning the cost for concurrent delays
+Different perceptions in assessment of claims for disruption
+Principles for determining the date for practical completion
+Poorly written contract
+Inadequate time allowed for contract formulation
+Last minute changes initiated by the client
+Inadequate experience of consultant/engineer assigned to prepare documents
+Third-party interference
+Delay in obtaining No Objection Certificate (NOC)
+Disruption due to third-party access to contractor’s works
+Delay by utility sub-contractors (supplied by statutory authority)
+Change in government regulations
+Late issue of instruction / clarification by consultant during construction
+Many RFIs by the contractor
+Limited number of consultant's staff on site
+Supervision staff with limited experience
+Table 3. (Continued )
+Root causes of claims
+Payment-related issues
+Delay in settlement of claims submitted by the contractor
+Delay of certified payment by the client
+Undervaluation by the engineer of the work done by the contractor
+Defects during the construction stage that become apparent during liability period
+Contractor’s failure to rectify the defects in works as instructed by the engineer
+Defects in the alternative material proposed by the contractor
+Defects due to error in execution of works
+Termination/suspension of works Suspension due to client’s instruction
+Termination of contract due to contractor’s default
+Termination of contract due to client’s right to terminate for ease
+Claims due to directed acceleration
+Different interpretation with regard to rules under standard method of measurement
+Inadequate item coverage in standard method of measurement
+Discrepancy between standard method of measurement and preamble to BOQ
+Discrepancy between items measured in BOQ and standard method of measurement	2.55
+The Spearman Rank Correlation Coefficient between clients and consultants is calculated, using Equation 1, to be 0.81, which indicates strong agreement. There is agreement between clients and consultants that the delay caused by the contractor is one of the major causes of claims, while contractors disagreed with it. Similarly, clients and consultants were of the view that inconsistencies in the specifications and drawings does not cause a major claim issue and ranked it 11 and 12 respectively. On the other hand, contractors disagreed and ranked it
+Ranking based on company roles.
+Causes of claims
+2	Delay by contractor
+5	Unforeseen conditions
+6	Delay in granting possession of site
+7	Specifications and drawings inconsistencies
+9	Poorly written contract
+10	Third-party interference
+11	Late issue of instruction
+12	Payment-related issues
+14	Termination/suspension of works
+16	Measurement-related issues
+as a major cause of claims at two. While clients and consultants agreed on poorly written contracts being placed in the ninth rank, contractors ranked it higher in fifth place. This agreement between clients and consultants is due to the fact that, in most cases, consultants act as agents of their clients and stand as a team against contractors’ claims. While clients and consultants agreed that the claims due to acceleration are the least common cause of claim and ranked it at 16, contractors disagreed and ranked it ninth. Clients/consultants normally advise
+contractors to mitigate the delays in their projects even when the contractor believes that the delays are due to reasons outside their control and mitigation should be deemed as an instruction to accelerate.
+The Spearman Rank Correlation Coefficient between contractors and clients is calculated, using Equation 1, to be 0.35, which indicates low agreement. Contractors and clients agreed on the ranking of inadequate documentation at four, while the consultant and ranked it at eight. Contractors and clients almost agreed on unforeseen conditions being ranked at eight, while in the consultants’ view, that ranking is three. The Spearman Rank Correlation Coefficient between contractors and consultants is calculated, using Equation 1, to be 0.33, which indicates low agreement. Contractors and consultants agreed on the ranking of different perceptions in assessment of claims for extension of time/disruption/concurrent delays at six, while the clients disagreed and ranked it at 11. This may be due to clients’ conservative approach in awarding extension of time/disruption/concurrent delays.
+Summary and conclusion
+This paper focuses mainly on identifying and assessing the most frequent reasons for claims, and their underlying root causes, for road construction projects in the UAE. This paper provides an important contribution to researchers and practitioners as it identifies the causes of claims in road construction projects and forms a useful basis for further development for avoiding or minimizing construction claims in the United Arab Emirates. Data regarding the claims is usually kept confidential by contractors, consultants and clients, and it is usually difficult to gather reliable data due to its confidential nature. However, it was possible to gather reliable information from various contractors, consultants and clients based on their first-hand experience and information. The percentage of responses to questionnaires, taking into consideration time constraints of such busy construction professionals, would usually have been poor; however, a response rate of 78% (51/65) was achieved in this study as the respondents were carefully selected and personally approached. Data on the causes of construction claims were collected from 51 questionnaires sent to experienced construction industry professionals working on road construction projects.
+The most frequent cause of claims is variations. The lack of proper design, speed of tendering, speed of construction and changes by clients causes all these variations resulting in claims. The next most frequent cause of claims is delays caused by contractor. This claim arises due to the mismanagement by the contractor’s team on site, lack of resources and machinery. One of the least frequent causes of claims is measurementrelated issues. Most of the road contract works are based on standard methods of measurement. There was strong agreement between clients and contractors as to the rankings of the main causes of claims. On the other hand, there were low levels of agreement between contractors and each of the clients and the consultants.
+Based on the results of this study, it is recommended that mitigation strategies be developed to avoid or minimize claims in road construction projects in the UAE. It is recommended that the time allowed for developing the design be increased. The designer needs enough time to minimize design errors and reduce the inconsistency in design documents while the client gets sufficient time to review the design thoroughly. This will reduce variations during the construction stage. It is also recommended that enough time be allowed during the tendering phase for contractors to become more familiar with the project and to properly price the works. Other recommendations are related to the selection of designers and contractors. The inexperience of the designer was identified as one of the main causes of claims. Clients need to carefully select qualified designers to minimize potential claims. Development of correct as-built drawings is required as it reduces the requirement for relocating the existing utilities/structures or relocating the proposed works, which may cause claims. Selection of qualified contractors also reduces the potential claims. The selected contractor needs to have enough skilled resources to carry out the works.
+No potential conflict of interest was reported by the authors.

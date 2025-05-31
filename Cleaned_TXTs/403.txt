@@ -1,0 +1,511 @@
+Criteria for contractor selection
+To cite this article: Zedan Hatush & Martin Skitmore (1997) Criteria for contractor selection,
+Construction Management & Economics, 15: 1, 19-38, DOI: 10.1080/014461997373088
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (1997) 15, 19± 38
+Criteria for contractor selection
+Department of Surveying, University of Salford, Salford M5 4WT, UK
+Received 25 August 1994; accepted 31 May 1996
+This paper is concerned with identifying universal criteria for prequali® cation and bid evaluation, and the means by which different emphases can be accommodated to suit the requirements of clients and projects. The information, assessment and evaluation strategies currently used by procurers for screening contractors are considered, and the results are reported of an extensive literature review and a Delphic interview study with a small select sample of construction professionals with extensive experience in prequali® cation and bid evaluation processes. The ® ndings indicate that the most common criteria considered by procurers during the prequali® cation and bid process are those pertaining to ® nancial soundness, technical ability, management capability, and the health and safety performance of contractors.
+Prequali® cation, bid evaluation, information, criteria assessment.
+Introduction
+In reporting a recent survey of current procurement practice, Hatush (1996) concludes that all types of arrangement comprise ® ve common process elements, or subsystems. These are project packaging, invitation, prequali® cation, shortlisting and bid evaluation. For each of these subsystems there are a variety of actual and possible alternatives available ± different types of project packages, invitational forms, prequali® cation systems, shortlisting methods and bid evaluation procedures ± which offer clients differing combinations of expertise, risk, ¯ exibility and costs (Nahapiet and Nahapiet, 1985). This raises a major question. For a given project, is there some `best’ combination of subsystem alternatives, or does any such combination produce roughly the same outcome? In theory, the answer lies in the opportunity costs involved: would the extra bene® ts of using a better system have outweighed the extra costs in ® nding (or designing) and implementing it? Unfortunately, if the alternative system is new to the procurer, it is only possible for the procurer to know such costs after rather than before the system is chosen, and even then only if accurate records are kept. In response to these dif® culties, the approach in practice is to make some subjective assessment but, as Holt et al. (1993) have found, subjective
+approaches in these areas do not necessarily serve the best interests of the construction owner. Another problem is that procurers may not be fully aware of all the options available. This seems certainly to be the case in the public sector, where, according to the Latham Report (NJCC, 1994):
+[there is] no means of ensuring that all housing associations, trust hospitals, grant maintained schools, private Government agencies, utilities companies, etc., are aware of the best current practice and changes in construction industry.
+One solution is for procurers to share experiences and data so that good estimates of likely costs and bene® ts can be made. It is not common practice for procurers to share experiences and data in this ® eld, however, even in the public sector (Hatush 1996). Latham (1996) reported a lack of communication between the procurers, a feature that is symptomatic of the construction industry as a whole.1 The reasons for this are not known, but it seems reasonable to assume that the isolated and ad hoc development of systems by procurers has resulted in the lack of a common basis for comparison. While it cannot be shown to be suf® cient (i.e. the existence of a common basis for comparison will result in the sharing of experiences and data between procurers2), it is highly likely to be a necessary precursor to such sharing (or at least will reduce the opportunity costs of sharing). Furthermore, even if such a sharing still fails to take place, for commercial reasons for instance, the existence of a common basis for comparison would at least allow research to take place on an experimental basis.
+Is a common basis for comparison possible? The signs are favourable. All procurers have the same goals. All want a project more or less at a reasonable cost, to a reasonable quality, within a reasonable time and with reasonable security (Masterman, 1994; Bent, 1984; Curtis et al., 1991). The tendering system aims to achieve this goal by ensuring the simultaneous selection of an appropriate contractor to deliver the project, the mechanism for delivery, the price to pay and the legal framework. The only difference then between procurers is in the strategic choice of subsystems components. It is expected therefore that the criteria involved will be consistent across all procurers, with only the emphasis changing between procurers and projects according to the strategies employed (Russell and Skibniewski, 1988).
+In this paper, we are concerned with identifying such universal criteria for prequali® cation and bid evaluation and the means by which different emphases can be accommodated to suit the requirements of clients and projects. The information, assessment and evaluation strategies currently used by procurers for screening contractors are considered, and the results are reported of an extensive literature review and a Delphic interview study with a small select sample of construction professionals who have an extensive experience in prequali® cation and bid evaluation processes. The ® ndings indicate that the most common criteria considered by procurers during the prequali® cation and bid process are those pertaining to ® nancial soundness, technical ability, management capability, and the health and safety performance of contractors.
+The contractor selection process comprises ® ve common process elements, or subsystems, for all types of procurement arrangement. These are project packaging, invitation, prequali® cation, shortlisting and bid evaluation (Hatush and Skitmore, 1996). Prequali® cation is a pre-tender process used to investigate and assess the capabilities of contractors to carry out a contract satisfactorily if it is awarded to them, and has been examined by several researchers (e.g. Hunt et al., 1966; Helmer and Taylor, 1977; Russell and Skibniewski, 1987, 88; Merna and Smith, 1990; Holt et al, 1994; Potter and Sanvido 1994). It provides a client with a standing list of potential contractors to invite to tender for similar types of project on a regular basis, or just a project list of contractors to be invited to tender for a speci® c project. Bid evaluation, on the other hand, involves similar processes but occurs at the post-tender stage, and involves the consideration of the bid amount in addition to the contractors’ capabilities.
+Contractor prequali® cation and bid evaluation are therefore decision-making processes that occur within the overall procurement strategy. They involve the development and consideration of a wide range of necessary and suf® cient decision criteria as well as the participation of many decision-making parties (Russell and Skibniewski, 1988). However, despite a huge increase in the complexity of projects and clients’ needs in the last two decades, together with an associated increase in alternative forms of project delivery system, the methods of quanti® cation and assessment of criteria for prequali® cation and bid evaluation have hardly changed.
+The review of the literature revealed the existence of various criteria, types of information and methods of assessment.
+Prequali® cation and bid evaluation procedures are currently used in many countries, and involve many different types of criterion to evaluate the overall suitability of contractors. These are said to include:
+2. ® nancial stability, managerial capability and organizational strength, technical expertise and experience of comparable construction (Merna and Smith, 1990);
+1 The Banwell Report (Banwell, 1964) observed that the construction industry does not appear to move forward with the same speed and purpose of its active members, which are lively and full of new ideas. In Banwell’s view, this is due to the fact that the various sections of the industry have long acted independently of each other. As a result, the Banwell committee considered the most urgent problem confronting the construction industry to be the necessity to think and act as a whole. In fact, there is widespread agreement that even the Simon Report (1944), the report by Sir Harold Emmerson (1962) and the Banwell Report themselves have resulted in little action or implementation of their proposals. This is a situation in need of attention and ©unless an effective communication network is established . . . more and more cases of bad practice will come to lightº (NJCC, 1994).
+2 According to Latham (1994, p. 50), both the DoE and the DoT ask applicants to submit similar documents. Most local authorities and other public sector clients also keep separate lists. Such duplication of effort, it is argued, is wasteful of money and adds costs to the clients because of the resource implications of maintaining separate lists.
+3. relevance of experience, size of ® rm and safety record (Moselhi and Martinelli, 1990).
+To this Dennis (1993) adds the criterion of previous prequali® cation. A review of prequali® cation records, he maintains, should satisfy both the engineer and the client, in that each bidder should have:
+1. the ® nancial strength to sustain the cash ¯ ows likely to arise during the project; experience of projects of a similar nature;
+2. competence and plant capacity to complete the project within the constraints imposed by the contract;
+3. technical capability (including human resources) suf® cient to satisfy the requirements of the contract;
+4. a complete understanding of similar project scopes and ability to absorb subsequent changes;
+5. the facilities (testing, quality control, etc.) necessary to endorse assurance of quality;
+6. the ability to comply in all respects with health and safety regulations.
+Criteria may vary in emphasis according to the characteristics of the project. For planning and tendering the parallel runway for Kingsford Smith Airport, for example, where a design and build contract was the method assigned for the project delivery, several criteria were investigated for selecting a suitable contractor for the job (Herbert and Biggart, 1993). These were:
+2. delivery capability and experience (proposed construction methods and plant ownership, current and completed contracts);
+3. relationships (industrial relations, occupational health and safety, and claims and dispute
+
+4. ® nancial status (based on an investigation of measures such as net assets, earnings and several ® nancial ratios including debt to equity, current ratio and ability to carry construction losses).
+Another case is a contract auction for a multistorey of® ce building, estimated at US$10.4 million for construction and US$1.57 million per year for the operation, where Moselhi and Martinelli (1990), in consultation with industry, found the selection criteria considered for bid evaluation to be:
+1. bid amount;
+3. number of years in business/bid amount;
+4. volume business/bid amount;
+6. previous performance;
+8. technical expertise;
+9. time of execution; 10. relation with subcontractors.
+In yet another case (Diekmann, 1981), where there was the problem of selecting a contractor for a hybrid unit/price cost-plus contract, higher-level criteria were proposed, comprising cost exposure, company stability, quality of produce, and management capability, each of which were then broken down into second, third, and (in some cases) fourth levels of subcriteria.
+The criteria are also used in the process of shortlisting: i.e. where the number of applicants for prequali® cation is so great that the number of contractors has to be reduced to a shortlist. Here Merna and Smith (1990) found that the type and size of contract together with regional and physical location were used as criteria in addition to the quality and quantity of technical and managerial expertise available.
+Information
+It is necessary to collect and analyse information in order to quantify objectively the criteria for prequali® cation and bid evaluation. This information includes that relating to (Hunt et al., 1966):
+1. the contractor’s permanent place of business;
+2. adequacy of plant and equipment to do the work properly and expeditiously;
+3. suitability of ® nancial capability to meet obligations required by the work;
+4. appropriateness of technical ability and experience;
+5. performance of work of the same general type and on a scale not less than 50% of the amount of the proposed contract;
+6. the frequency of previous failures to perform contracts properly or fail to complete them on time;
+7. the current position of the contractor to perform the contract well;
+8. the contractor’s relationship with subcontractors, or employees.
+The assessment of contractors who have previously prequali® ed can, of course, be assisted by reference to previous prequali® cation records.
+In total, the information used for the assessment of criteria for prequali® cation and bid evaluation falls into ® ve groups: general information that is used mainly for administrative purposes, ® nancial information, technical information, managerial information and safety information.
+General information
+This concerns the administrative information relating to contractors wishing to be considered for inclusion in clients’ standing lists. There is very little literature on this subject. Ng (1992) has mentioned only the name of the contractor in his list for gathering data about each contractor for the prequali® cation process. Seeley (1986), referring to Haswell and Da Silva (1982), covers more information about the contractors, including the legal status of the company, particulars of holding, subsidiary or associated companies, membership of trade association and names of directors, while Holt et al. (1994) found litigation tendency, size, age, and image of the contractor to be popular information collected from contractors, although ranking 24, 27, 29 and 31 in importance among the 31 variables in his study.
+This involves ® nancial statements and other information to check on the ® nancial exposure of the company for both domestic and overseas contracts. Financial status is most often assessed by ratio analysis, examination of bank references, credit reference and turnover history (Holt et al., 1994). Financial stability, on the other hand, requires the consideration of credit ratings, bank arrangements, bonding capacity and ® nancial statements (Russell et al., 1992). Furthermore, studies by Severson et al. (1993, 1994) on predicting the likelihood of experiencing a claim, investigated trends in contractor ® nancial data in the form of the assets, liabilities and stockholders’ equity portion of the contractor’s balance sheet, together with the contractor’s income statement.
+Technical information
+This is concerned principally with the current commitment of the contractor’s labour and plant resources, ability to handle the type, quality and size of work, and the ability to perform on site. `Past experience’, which includes the type and size of projects completed, is the technical information most used (Holt et al., 1994), and is assessed by visits to existing sites and by meetings to discuss, in general terms, the nature of the construction work, the programme dates and the client’s requirements.
+Managerial information
+Managerial organization and expertise are considered by identifying the contractor’s managerial approach to risk, contract strategy, claims and variations. Here Ng (1992) has listed four sources of managerial information:
+1. management and organization of work;
+Helmer and Taylor (1977) have classi® ed these management variables into three fundamental areas:
+1. planning (management perspective, quali® cation of key management personnel, use of planning tools);
+2. organization (integration of activities, communication, human relations);
+Finally, Diekmann (1981) has grouped the management source of information into site organization, project manager, corporate management, experienced procurement, project control, and historical performance.
+Safety information
+Samelson et al. and Samelson and Levitt (1981, 1982) has focused on construction cost reduction by means of accident cost control through owner selection of safe contractors. A survey of construction site safety in Honduras (Jaselskis and Suazo, 1994) indicated a substantial lack of awareness of the importance of safety at all levels of the construction industry. Questions on experience modi® cation rating (EMR) and the Occupational Safety and Housing Administration (OSHA) incidence rate can, however, generate the required information about the safety performance of the contractors.
+The information relating to the criteria can be assessed in various ways. Moore (1985), for example, has proposed a quantitative system for selecting contractors for fast track projects in which an evaluation team initially visits the contractor’s home of® ce to collect the required information and assign preliminary scores to the criteria used. Table 1 shows how this is done. A maximum point value is assigned for each aspect of construction project execution. These values are then weighted according to their relative importance on the overall project delivery strategy. When a category is made up of subcategories, the weighted value scores of the subcategories are added to calculate the total value for the category. To avoid individual biases, it is recommended that a minimum of three evaluators is required for each scoring activity.
+Table 1	Relative importance of project execution factors
+80% interviews and reference checks on
+25	10% foreman quality and training
+10% foreman availability
+10	Productivity improvement programme 25	Systems and procedures:
+Cost, schedule, material control, personnel, accounting, subcontracts, purchasing, safety
+5	Field organization, work rules, work policies
+3	Safety record
+2 Geographical experience
+3 Experience with the speci® c type of facility
+2	Home of® ce support
+2	Executive involvement - leadership
+(condition and procedures)
+3	Engineering coordination
+Moore (1985)
+Holt et al. (1993) have proposed a modi® cation of the present system (prequalify/select) with quanti® able indices. This comprises a three-stage process requiring the calculation of what is called a P1 scale index to investigate the more general areas surrounding potential tenderers. A P2 scale index is calculated for the second stage to assess the contractor further in the light of speci® c factors. Finally a P3 scale index is calculated to compare the bid prices of the invited tenderers.
+The term `evaluation’ is used to denote the procedure for the strategic assessment of tender bids submitted by prequali® ed contractors. It is said that the strategy used for bid evaluation should re¯ ect the client’s objectives (Hardy, 1978). These, according to Herbsman and Ellis (1992), amount to the `major’ criteria of cost, time and quality as measured by the bid amount, time of execution and quality of previous work respectively. This implies that the winning bid is fully responsive to the contract in addition to the bidder’s being suf® ciently well quali® ed to undertake the contract (Hardy, 1978). In addition, Herbsman and Ellis (1992) have also proposed further project-speci® c criteria, including safety, durability, security and maintenance.
+The UK public sector of civil engineering, however, is thought to follow the concepts outlined in guidance notes of the Institution of Civil Engineers (1983) and the NJCC 1983, 1985, and 1989 Codes for building, which are concerned with the justi® cation of the lowest priced bid (Merna and Smith, 1990). The exception is Ellis and Herbsman (1991) who found, from a 16case study, that timely completion was a signi® cant factor in the selection of the successful tenderer.
+Another procedure for bid evaluation in use in the UK public sector is that by clients who require a tender submission of only an initial lump sum price without a prequalifying process. These clients sometimes request further information from tenderers for a more detailed evaluation of the three lowest bids (Merna and Smith, 1987). In this case, clients request a complete package of information from tenderers checked initially for quali® cation, alternatives and errors in the tenders before proceeding to a more detailed technical, ® nancial or contractual evaluation to identify the winning bidder.
+Any bid evaluation practice that goes beyond that of selection of lowest bidder is currently largely subjective (Merna and Smith, 1990). More objective methods have been proposed by Moselhi and Martinelli (1990) and Diekmann (1981) by means of multi-attribute utility techniques for combining the bid price and contractor selection criteria. The evaluation of bids by multi-attribute methods can encounter some dif® culties when comparing different criteria measured on different scales, and various ways have been suggested for combining criterion values into a single scale. Hardy’s (1978) criterion, for example, is the bid that maximizes the return on the client’s investment. Thus he proposes that bidders should submit a schedule of the payments they expect to fall due to them during the contract. Both the client and contractor may use this to determine the present value of bids. Ellis and Herbsman (1991), on the other hand, propose a time/cost approach to determine the winning bidder in highway construction contracts by which a road user cost is applied to the contract time proposed by each bidder. Therefore in this case it is suggested that the criteria to be considered are bid prices and contract time (the road user cost being applied to the contract time). By converting the contract time to a cost to the client, a straightforward comparison can be made on a single criterion. Finally, Holt et al. (1993) combine their P2 and P3 scores into a simple index by assigning a 60% weighting for the P3 score (representing the bid price) and a 40% weighting to the P2 score (representing the scores of the information collected).
+The conclusion from these disparate studies is that
+Table 2	Types of ® rm interviewed
+Type of ® rm
+
+13 January 1994
+Technical and consultancy
+Direct works
+Civil and building engineering
+14 January 1994
+City architect department
+19 January 1994
+Practice manager
+Architect division
+21 January 1994
+Quantity surveyor
+Technical and consultancy division (area of® ce)
+Architect engineer and owner representatives
+
+24 January 1994
+
+8 February 1994
+Director of accountants
+10 February 1994
+Health and safety of® cer
+Health and safety section
+Building, civil, and direct engineering works
+24 February 1994
+Architect engineer and owner representatives
+there is no consensus as yet on a common set of criteria for contractor selection. Several recurrent factors emerge, however. The lowest bid is clearly the most dominant criterion, as this involves no subjective judgement, and satis® es most of the requirements of public accountability. Most sources mention the need to consider ® nancial and technical criteria, on the grounds that contractors have to have a minimal level of resources to complete the work. On the whole, the quality of resources and managerial capability seem to be secondary issues.
+In order to corroborate the ® ndings and views of these earlier studies, an interview survey with a sample of nine people with relevant construction industry experience was undertaken. The list of interviewees, comprising client representatives, was compiled by reference to The Royal Institution of Chartered Surveyors list of the 1993 directory (RICS, 1993) and personal contacts in the north-west of England. The interviews were conducted at the of® ces of eight different public client representatives and one private client representative, and comprised one civil engineering, three building engineering, one landscape, one ® nancial, one safety and health policy, and two list coordinators. Table 2 lists the types of personnel interviewed and other information on the types of ® rms that participated in the interview. The interviews ranged from 1 to 2 hours, with each interview being tape-recorded.
+In order to make the interviewing more effective and to save the time of the interviewees, the purpose of the interview and the need of the research was communicated to the interviewees before the interview through either: (1) a simple list of questions developed and sent to the interviewees (Appendix 1); or (2) a telephone conversation. The interviews were conducted in an open, semi-structured manner, allowing the respondent to introduce whatever information was felt to be relevant, but with the topics identi® ed from the literature survey being introduced by the interviewer at convenient points.
+The interview responses were all found to fall into one of the following three categories:
+1. what information is considered for selecting contractors;
+2. how the information is used to assess the four criteria;
+3. the strategies that are employed to evaluate the criteria.
+Information considered
+Information from contractors
+Information is obtained from ® rms wishing to be included on a standing list of approved contractors or project tendering list, usually via a detailed questionnaire from the client. Firms already included on a standing list must also provide all the information required. The information is always treated as a matter of utmost con® dentiality, and is used only in compiling and monitoring approved lists of contractors.
+Table 3	General information about the contractors
+Full name and status of company
+Telephone number
+Registered of® ce address if different from above
+Date company established
+Company registered number (indicate public, private or cooperative)
+Cooperative companies must comply with ICOM Model rules
+Date when last company accounts were registered and the ® nancial year to which they relate
+Parent company (if applicable)
+Nominal and paid-up share capital
+Person dealing with the application on behalf of the company
+Description of the company/® rm’s business activities. Please con® rm that the objects of the company stated in its memorandum of association cover the purposes for which this list is being compiled
+Full names of proprietor or every partner
+Date of formation or commencement of trading
+Person dealing with this application
+Description of the business activities
+For all ® rms
+List the names of every director, partner, associates and company secretary
+Have any of the directors, partners or associates been involved in any ® rm that has been liquidated or gone into receivership? (give details)
+Has any director, partner or associate been employed by the client? Details required Is any director, partner or associate a relative of any of client employees?
+information requested from applicants comprises both general and speci® c information.
+Application forms often request information relating to:
+1. categories of work offered by the ® rm;
+3. scope of work offered by the ® rm;
+4. technical resources and references;
+5. particulars of existing insurances;
+8. subcontracting;
+11. health and safety.
+The following is a list of information requested from the contractors by one of the clients:
+1. types of work that the ® rm wishes to, and could, carry out;
+2. ® nancial penalties previously levied in respect of failure to perform to the terms of a contract;
+3. contracts that the ® rm has had terminated or employment determined under the terms of contract;
+4. contracts not renewed due to failure to perform in accordance with the terms of contract;
+5. competence of potential employees (this may include job descriptions, application forms, references, quali® cations, inspections of previous work, trial periods before con® rmation of employment and personal recommendations;
+6. skills, including professional, managerial and technical expertise, that are available to the company, e.g. quali® cations and relevant experience;
+7. staf® ng levels in the company, including management, professional/technical, administrative/clerical, manual supervisor;
+8. currency of records of employees;
+9. names, addresses and details of work carried out recently for public sector clients other than this authority, including supervising of® cer, contract title, tender price and type of work;
+10. contracts carried out for the client in the last 3 years;
+11. main plant and equipment owned by the company.
+Other information
+An initial assessment leads to a reduced number of contractors followed by a detailed investigation involving requests for information from referees. Clients use different ways of requesting information from the referees, and there are distinct differences in the type of detailed information requested.
+The ® nance personnel interviewed use information collected from mainly two sources of information: (1) the standard business report from Dun & Bradstreet, including payment pro® le, liquidity and equity; (2) 3 years’ published accounts from the contractor, which include balance sheet statement and income statement (pro® t and loss account). In addition, ® nancial assessments may also include:
+1. con® rmation that the company is still trading;
+2. a statement of turnover since the last set of published accounts;
+3. details of any outstanding claims or litigation against the company.
+Applicants also have to provide security information in the form of a health and safety policy. This covers the names of personnel responsible for implementation of the policy, number of employees, procedures to convey the safety policies to the employees, procedures for reporting and recording the accidents, ® rst aid provision, and details of prosecutions served on the ® rm by health and safety executives. Further information includes particulars of existing insurances, taxation, subcontracting and race relations record.
+Contractors may be rejected at any stage of the prequali® cation process: i.e. during preliminary screening or after a detailed investigation. For the larger client organizations, the application forms are received by a list coordinator. The provision of incomplete information, or failure to enclose the relevant documents, usually excludes any further assessment of criteria. Valid forms are then passed to different sections and departments for assessment against the selection criteria.
+Assessment of general information
+Some of the general information is used for administrative purposes, the remainder being used for technical and ® nancial assessment of the contractors. General details of the company, such as the date of establishment, whether a contractor is a cooperative or has a parent company, are usually requested for administrative purposes, although they might be used as an indication of the ® rm’s general status. All those interviewed were found to use subjective judgement in assessing general information.
+Assessment against technical criteria
+Most of the clients, with minor variations related to the general policy of the client (such as ability to attract local labour), use the same type of information for assessing the technical ability of the contractors.
+Eighty per cent of the clients interviewed use dichotomous (yes/no, rejected/accepted) or trichotomous (bad/good/excellent) variables for assessment, with the remaining 20% using a point system (1, 2, 3 . . .). Table 4 shows a points system used by one of the clients interviewed. Another client uses a cardinal system for assessing technical information requested (Table 5). All interviewees use value judgements based on the experience of the assessor and the information available.
+The following are some of the reasons used by clients’ representatives for rejecting applications on technical grounds:
+1. unsatisfactory work or performance on a contract for the client within the last 5 years;
+2. unsatisfactory work or performance on a contract for any other authority or company;
+3. no previous experience in the category of work applied for;
+4. habitual submission of excessive claims;
+5. declined invitations, or no tender submitted on at least three occasions in the previous 12 months;
+6. inadequately staffed reception arrangements for telephone at head of® ce;
+8. likely to cause additional cost to the client in supervising contracts because of inadequate arrangements for head of® ce or site management;
+9. disregard for the conditions of contract or instructions given by, or on behalf of, the supervisor.
+The detailed measurement and ® nancial analysis of contractors carried out by clients involves the assessment of the contractors’ past, present, and anticipated future ® nancial condition. The request form used for the ® nancial assessment of contractors takes the form shown in Figure 1. The objective is to identify any weaknesses in contractors’ ® nancial health that could lead to future problems, and to determine any strengths the ® rm might capitalize upon. Clients or list coordinators pass the completed application forms to their ® nance departments for ® nancial analysis/assessment.
+The ® nancial status of the contractor is used as a criterion to cover aspects such as the ® nancial stability, liquidity and ® nancial capacity to perform the work.
+Table 4	The point system used for requesting technical criteria
+Points out of 20
+Site organization and supervision
+Quality of workmanship
+Adequacy of labour force and plant
+Responsibility and consideration for the general public
+Responsibility and consideration for the adjoining owners affected by the work
+Signing, lambing off and watching
+Taking of adequate safety precautions on the work
+Willingness to effect remedial works which were required during the defects liability period Interim and ® nal accounts:
+What was the contractor’s attitude with regard to claims?
+Justi® cation
+Any other comments regarding claims . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Relations with statutory undertakers
+Working relations between members of the referee staff and the staff of the ® rm including Head Of® ce staff
+Total score out of 320
+Percentage of work sub-let
+Standard of Sub-contractors work: Points out of 20
+20 points = outstanding, 15 points = good, 10 points = satisfactory, 5 points = poor, 0 points = unsatisfactory
+Table 5	Technical information requested for cardinal system
+Type of work the ® rm has carried out for the referee
+Value of work the ® rm has carried out for the referee
+The quality of workmanship was: Poor/Average/Good
+The referee relationships with their management were: Poor/Average/Good 5. Their site organization and programming were: Poor/Average/Good
+Compliance with speci® cation was: Poor/Average/Good
+Did the ® rm have dif® culty providing adequate labour? Was the contract completion date achieved?
+Has the ® rm completed defects to the referee’s satisfaction?
+Were damages for non-completion ever applied?
+Relationship with subcontractors and suppliers generally	Poor/Average/Good
+Were nominated subcontractors paid promptly?
+Was the ® nal account settled amicably without undue claims?
+Did the contractor have a tendency to make excessive claims?
+Does the referee consider this ® rm capable of undertaking the work assigned to him?
+Would the referee employ this ® rm again if the occasion arose? Any further comments that would be helpful
+
+Please carry out a financial vetting of the following contractor:
+Contracts Applied For: £ ...............
+Information by Finance Department
+Company Turnover: ............................................................
+Date of Company Accounts: ...............................................
+Please Tick
+£50,000 to 100,000 	....................  	£100,000 to 500,000 	....................  	over 500,000 	....................
+The contractor is not financially  	suitable to work for Bury MBC 	....................
+Please return form ASAP TO: Neil S. Long
+Financial status is measured by four decision parameters:
+1. credit status, which is collected in the form of credit ratings from subcontractors and suppliers (this measures how promptly contractors pay their bills and their reputation among suppliers and subcontractors);
+2. bank status, which gives an indication of the ® nancial management abilities of the contractors and their relationship with a bank that would enable them, in the event of cash ¯ ow dif® culties, to obtain the required ® nancing;
+3. bond status, which measures the capability of the contractors to get a bond for a certain type and size of project;
+4. published accounts report, which measures the liquidity, ef® ciency and pro® tability of the contractor.
+Two main ® nancial statements are generally used by the ® nance departments to assess the ® nancial status of a contractor:
+Balance sheet. The balance sheet represents a statement of the ® nancial position of a ® rm on a given date, including its asset holdings, liabilities, and owner-supplied capital. Assets represent the resources owned by the ® rm, whereas liabilities and owner’s equity indicate how those resources are ® nanced. Table 6 shows an example.
+Income statement. The income statement represents an attempt to measure the net result of a ® rm’s operations over a speci® ed interval, such as one quarter or one year. The income statement is sometimes referred to as a pro® t and loss statement.
+Table 6	Balance sheet of Contractor X
+Current assets:
+Accounts receivable
+Fixed assets:
+Total ® xed assets
+Liabilities and owner’s equity
+Accounts payable
+Accrued salaries, wages
+Current portion of long-term debt
+Long-term liabilities: Deferred income taxes
+Owner’s equity:
+Common stock
+Retained earnings
+Total owner’s equity
+Total liabilities and owner’s equity
+Clients use these statements for the purpose of ® nancial ratio analysis for each contractor. These ratios are then compared with the average industry ratios. The average industry ratio is derived from a ® nancial analysis for all ® rms, which is usually carried out by government or national agency. The ® nancial ratios provide the basis for answering very important questions about the ® nancial standing of the contractor:
+How liquid is the ® rm: Liquidity refers to the ® rm’s ability to meet maturing obligations and to convert assets into cash.
+Is management generating suf® cient pro® ts from the ® rm’s asset? Because the primary purpose for purchasing an asset is to produce pro® ts, the analyst often seeks an indication of the adequacy of the pro® ts being realized.
+How does the ® rm’s management ® nance its investments: these decisions have a direct impact upon the returns provided to the common stockholders.
+Are the common stockholders receiving suf® cient returns on their investment?
+Categories of ® nancial ratios and what each ratio will indicate on the ® nancial standing of the contractor are
+Table 7	Summary of ® nancial ratios
+
+Satisfactory
+Quick ratio
+cost of goods sold/ending inventory
+Total asset turnover
+Leverage ratios 7.
+Times interest earned
+net operating income/annual interest expense
+Cash ¯ ow overall
+Pro® tability ratios
+Gross pro® t margin
+Operating income
+net operating income/total assets
+return on investment
+Return on common
+provided in ® nancial management standard texts. Table 7 summarizes the different ratios corresponding to the industry norms.
+Trend analysis is sometimes performed to determine how different variables have changed over time for contractors. A ® rm’s ® nancial ratios can be compared with two types of standards: (1) industry norms, as the basis for comparison between the ® nancial status of the ® rm with respect to the average of the industry; and (2) trend comparisons, for the ® rm itself over a minimum period of three years. An example of trend analysis is shown in Table 8.
+These criteria are used to assess elements such as the
+1. capability to execute the work in an appropriate manner;
+3. ability to coordinate the work;
+4. previous performance of the company in projects of similar type and size;
+5. percentage of the work previously performed by the company that was completed within budget and on schedule;
+6. quality of work achieved in the last projects;
+7. quality programmes of the company;
+8. managerial approach to risk, especially at a preaward meeting.
+As with the technical criteria, most of the clients interviewed use subjective methods, although a few do use quantitative methods in assessing the information.
+Assessment against security criteria
+This information is not always taken seriously by clients, and it is rare to ® nd a contractor rejected on this criterion, especially if the contractor is already on a standing list. Several points are checked by the safety of® cer during the pre-award meeting, however, including company safety policy, method statement, F10 notices used in the UK for contracts over 6 weeks’ duration, job ¯ ow charts, welfare provisions, electricity regulations, IE ELCB or 110 V transformers, health and safety information charts for employees, accident
+Table 8	Example spreadsheet of the analysis of ® nancial trends
+Gross pro® t (£)
+Stock and work in progress (£)
+Current assets less stock and work in progress (£)
+Creditors (£)
+Return on capital employed (%)
+Gross pro® t as a percentage of turnover (%)
+Trading pro® t as a percentage of turnover (%)
+Work per £ of capital employed
+Current ratio
+Quick ratio
+
+Contract size to turnover (%)
+Table 9	Example of project advert system and the criteria considered
+Trades employed: identi® es the speci® c categories of the contractor, no record found in point system
+Experience: at least £....................... 1 point for each similar project, with a maximum of 8 points. Note that some aggregation of smaller projects is permissible but only when ® rm has only done projects of similar value 5. Work in public sector: a maximum of 2 points for comparable projects in public sector
+If safety policy was reviewed within 1 year of form date, 1 point.
+Performance with this authority: assessment of quality, attitude, time, etc. max 3 points.
+
+
+books, excavations weekly examinations, reports of tests (sites), lifting appliances, weekly inspections and test reports, scaffolding weekly examinations, cranes, eye bolts certi® cates of test and examination, underground services, and drainage connections. Again, all the information is assessed subjectively.
+The strategies for shortlisting contractors for invitation to tender are different from one client to another.
+For the standing list tendering system some clients select contractors at random from the list for invitation to bid, while most clients select in rotation. Still others use a points system, in which those on the list are invited to tender through an advertisement in the press. In this case, selection is made from those applying who are willing to tender and receive the full package on the basis of a points score, with the highest six scorers given the chance to tender. Table 9 provides an example of this system and the criteria that are considered in selection.
+For project list tendering, a quantitative system is used in which contractors are invited to tender through an advertisement in the press or by direct invitation. In this case, selection is made from those applying who are willing to tender and receive the full package on the basis of a points score, with the highest ® ve to six scorers given the chance to tender.
+At bid evaluation stage, it is the practice of all the respondents to select the contractor tendering the lowest bid irrespective of the technical, ® nancial, managerial and security information available. Thus the lowest bid is currently used to decide the winner of all contracts, even if the contractors tendering for the contract had received lower assessments compared with the other tenderers for other criteria.
+After the winning contractor is identi® ed by the client, ® nal checks and a pre-award meeting are normally carried out to clarify the technical, safety, and risks associated with the construction.
+The most notable aspect of this study is the increasing subjectivity in our interviewees’ practices in moving from information collection through criteria assessment to ® nal evaluation phases. Although only ten practitioners were interviewed, and all are clear about the information to be collected and the general reasons for its collection, there is some variance on the criteria for which the information was to assess, and complete perversity in the abandonment of the criteria in the bid evaluation phase. The following are the main points drawn from the investigation, and can serve as an indication of the current practice in the construction industry.
+The application forms used to collect information about the contractor differ in structure and in the detailed information requested for most of the clients interviewed.
+Financial soundness is the most important
+Table 10	The main source of criteria for contractor prequali® cation and bid evaluation
+Credit rating
+Past performance and quality
+Experience of technical personnel
+
+Experience modi® cation rating (EMR)
+Occupational Safety and Housing Administration (OSHA) Incidence rate
+Management safety accountability
+
+Length of time in business
+Past owner/contractor relationship
+Other relationships
+Table 11	Measures of ® nancial criteria
+Credit rating
+Current and ® xed
+Short-term borrowing
+Balance sheet
+Long-term borrowing Bonds
+Table 12	Measures of technical criteria
+Experience over last ® ve years
+Availability of owned
+Availability of ® rst-
+Ability to handle the
+in construction
+offered type and
+number presently employed
+Current and completed
+Ability to perform
+work properly and
+
+expeditiously
+Past experience on owner’s
+and organize
+contracts and
+Experience and capability of
+Small tools and
+Skills, including
+ef® ciently integrate
+professional and technical expertise, that
+The testing equipment
+are available to the
+Complexity of work executed
+Level of technology
+Types of projects executed in
+the past ® ve years
+Performed work of the same
+
+general type and scale, and ability to absorb subsequent changes
+criterion considered during the prequali® cation stage.
+There is little awareness of the importance of safety criteria, which are treated as of secondary importance. It is enough for the contractor to submit a two-page safety policy to be accepted for a standing or a project list.
+Attitude towards claims is an essential issue.
+Ability to complete on time is also an essential criterion considered during the detailed investigation phase.
+Approach to dealing with third parties (e.g. gas and electricity suppliers) is important for civil engineering works, and relationships with subcontractors and suppliers are considered important for building and civil engineering works.
+Different methods are used to assess the information collected.
+Bid price is the only criterion considered by all clients in the bid evaluation phase.
+In fact the distinct impression gained is that of the cart being put before the horse in a situation reminiscent of Buckminster Fuller’s Operating Manual of Spaceship Earth, where it is conjectured that our major institutional systems were put in place for the amusement of some whimsical, and long since departed, extra terres-
+Table 13	Measures of managerial criteria
+PastTable 13	Measures of managerial criteria
+Experience of
+
+
+and quality
+Past performance
+Experience in completion of
+Scheduling and cost
+project on schedule
+capability of contractor key
+control system and how
+it is utilized
+of work on past
+Availability of ® rst-line
+Site organization and
+Quality assurance
+Staf® ng levels in the
+company including management,
+Level of research and
+Quality level,
+including aesthetics,
+capability to support the
+and ¯ exibility in
+responsibility, including
+
+design inputs by the
+Drawing control procedure
+Productivity
+
+workmanship
+Capability to perform
+Time performance
+Methods of procurement adopted
+Certainty, including the reliability of the original price, reliability of the estimated construction time, and knowledge of exactly how much the client has to pay at each period during the construction phase.
+Predicted outturn costs
+trial `pirates’! While the logic is clearly appropriate ± the `ends’ of contractor selection justify the `means’ of evaluation through criteria development and assessment through information collection ± the formal procedures necessary to collect the information seem to have taken on a life of their own at the expense of the more dif® cult phases of assessment and evaluation, which, in the absence of any formal procedures, appear to take place in a largely subjective and ad hoc  manner.
+The central issue in this is the criteria to be used in contractor selection. These are determined by the client or project objectives, and determine the information needed for their assessment. Although it was not possible to make direct comparisons between criteria used by different clients, because of the often implicit nature of these criteria, we had little dif® culty interpreting their actions in terms of the four criteria identi® ed in the literature. This strengthens our belief that, although there is little sharing of knowledge between clients, the similarity of their goals tends to result in the use of similar criteria.
+The results of this study indicate that there is some variation in the measures and methods of assessment used. Each client uses a different scale for categorizing
+Table 14	Measures of health and safety criteria
+OSHA is the
+Who in the organization receives and
+reviews accident reports, and what is the
+penalizing employers
+frequency of distribution of these reports?
+according to their
+and Housing
+Administration.
+Frequency of safety meetings for ® eld
+
+Compilation of accident records by
+is the average
+foremen and superintendents, and the
+Complied in all
+
+frequency of reporting
+respects with health
+and safety regulations
+Frequency of project  safety inspections,
+and the degree to which they involve
+Health and safety
+for a construction
+information chart for
+Use of an accident cost system measuring individual foremen and
+Safety record
+the contractors. Furthermore, although clients apply all the criteria to some extent, there is no systematic way of developing and differentiating between methods of assessment.
+Also, an important and surprising omission for all those interviewed is that there is no investigation of the contractors’ workload outside the client environment at the time of contract awarding.
+A common set of criteria
+As discussed above, most of the clients involved in the study use the same type of criteria with some variation, but all of them use a mixture of criteria to collect information about the contractors. Also, there was no de® nite differentiation and classi® cation of these different types, which makes the assessment more dif® cult. This con® rms the ® ndings of the literature surveyed. Thus our small survey, in conjunction with the literature, allow us to summarize the ® ve main criteria currently used, arranged in a way to assess the method of collection for information about contractors, and also for assessment later in the selection of contractors in the prequali® cation and bid evaluation stages. Table 10 identi® es these ® ve main criteria (® nancial soundness, technical ability, managerial capability, safety, and reputation) along with the information necessary to assess these criteria.
+Table 11 summarizes the ® nancial soundness criteria. Table 12 covers the technical criteria and the method of measurement of contractors’ technical ability. The technical criteria are divided into four sources of information: experience, plant equipment, personnel, and ability of contractors. The measure of these criteria is shown for each type of source of information: for example, plant and equipment is measured by the availability of owned construction equipment, testing equipment, small tools, etc. Tables 13± 15 cover managerial, health and safety, and reputation criteria respectively.
+It is important to note that the degree of emphasis and the weights assigned to each criterion are different, and largely depend on the circumstances and speci® cs of the project as well as on the preferences of the decision makers and their different experiences.
+The increasing needs in shorter project periods has led to the use of alternative forms of project delivery system, but the tendering and awarding systems are still largely in their original form. One of the most dif® cult decisions taken by the client is selection of the con-
+Table 15	Measures of contractor reputation criteria
+
+Past owner/
+
+relationships
+relationship
+
+Proximity of
+Relationships with
+contractor’s home of® ce
+in the past ® ve
+Responsibility and
+Capacity of
+consideration for the
+of subletting
+Reasons for failed contract (if any)
+client staff and general
+Relationship with
+Previous failures to perform
+contracts properly or to
+Performance of
+complete them on time
+contractor over a
+Relations with
+number of previous
+of business
+levied in respect of failures to
+Working relations
+perform to the terms of a contract
+
+Responsibility and
+consideration for the
+the referee staff and
+Contracts that the ® rm has had
+adjoining owners
+the staff of the ® rm,
+terminated or employment
+affected by the work
+including Head Of® ce
+Experience of working with the owner:
+Race relations
+Contracts not renewed due to
+understanding of the
+failure to perform in accordance
+owner’s procedures in
+Standard of sub-
+with the terms of the contract
+meetings and for payments. Public owners are quite different in this respect from private owners
+Local knowledge
+Responsible attitude towards the work
+contractors’ work
+tractor, because the inappropriateness of the selected contractor leads to substandard work, delays, disputes, or even bankruptcy.
+In order to cope with new developments and invite suitable bidders it is necessary to clarify and develop predetermined selection criteria, to improve and organize the assessment of information relating to these criteria, and to develop methods for evaluating the criteria against the owner’s goals in the prequali® cation and bid evaluation stages of the procurement process. This paper has been concerned with identifying such criteria and the means by which different emphases can be accommodated to suit the requirements of clients and projects. The information, assessment and evaluation strategies currently used by procurers for screening contractors have been considered, and the results have been reported of an extensive literature review and a Delphic interview study with a small select sample of construction professionals with extensive experience in prequali® cation and bid evaluation processes. The ® ndings indicate that the most common criteria considered by procurers during the prequali® cation and bid process are those pertaining to ® nancial soundness, technical ability, management capability, and the health and safety performance of contractors.
+Clearly, it is impossible, with a sample of only ten practitioners, to arrive at any ® rm conclusion with regard to prevailing practice, the consistency of practitioners both in the selection of the lowest bid and in the use of a general approach to tendering, and in the common criteria being used. There is, however, suf® cient corroboration with the general literature on the subject to indicate that the model proposed for collecting different types of criteria may well be appropriate in the general ® eld.
+The research on which this paper is based, rests on the premise that there is a possible common set of contractor selection criteria. If these criteria are identi® ed and their levels of importance determined, the development of an objective quantitative selection framework could be facilitated. Construction clients may then apply more objective contractor selection methods as a means of identifying the most suitable contractor for a project. This alternative approach could avoid duplication of effort (with a commensurate reduction in individual clients’ resource costs) in each devising an idiosyncratic set of criteria, as well as offering an improved prospect of client satisfaction with a project outcome.
+In restricting the empirical part of this work to a small select group of procurers, it has been possible to identify key issues that may have been obscured in a larger study. The next stage should now be to conduct a larger and more focused study covering a wider range of clients. In this respect we recommend the use of the common set of criteria identi® ed from this study as a basis for comparison, in terms of both identity and weights, of contractor selection criteria used by different clients in the construction industry. Once this has been realized, there is a real prospect of developing a prescriptive, or even normative, code for selection criteria to provide a consistent, logical, objective and therefore a comparable and communicable basis for useful information exchange between procurers of construction work for more accurate, reliable and ef® cient decision making.

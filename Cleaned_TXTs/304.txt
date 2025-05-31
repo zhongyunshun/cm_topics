@@ -1,0 +1,333 @@
+The futures of construction: a critical review of construction future studies
+Chris Harty , Chris Ian Goodier , Robby Soetanto , Simon Austin , Andrew R. J. Dainty & Andrew D. F. Price
+To cite this article: Chris Harty , Chris Ian Goodier , Robby Soetanto , Simon Austin , Andrew R. J. Dainty & Andrew D. F. Price (2007) The futures of construction: a critical review of construction future studies, Construction Management and Economics, 25: 5, 477-493, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (May 2007) 25, 477–493
+The futures of construction: a critical review of construction future studies
+Innovative Construction Research Centre, School of Construction Management and Engineering, University of Reading, Whiteknights, Reading, RG6 6AW
+Department of Civil and Building Engineering, Loughborough University, Loughborough LE11 3TU, UK
+Received 17 March 2006; accepted 18 June 2006
+Anticipating the future is increasingly being seen as a useful way to align, direct and improve current organizational strategy. Several such ‘future studies’ have been produced which envision various construction industry scenarios which result from technological and socio-economic trends and influences. Thirteen construction-related future studies are critically reviewed. Most studies fail to address the complexities and uncertainties of both the present and the future, and fail to explore the connections between global, local, construction-specific and more widespread factors. The methodological approaches used in these studies do not generate any significantly different advice or recommendations for the industry than those emerging from the much larger canon of non-future oriented construction research. As such, these reports are less about the future than the present. If future studies are to make a worthwhile contribution to construction, it is critical that they develop our appreciation of the practical ability of stakeholders to influence some aspects of the future and not others, and an awareness of the competing agendas and the relative benefits and disadvantages of specific futures within the construction sector. Only then can future studies provide insights and help in preparing for the opportunities and threats the future may bring.
+Future studies, scenarios, construction
+Introduction
+Conducting future studies and constructing future scenarios has become a widespread and accepted method for thinking about potential futures and the challenges and opportunities they bring. There are many recent future studies oriented towards the construction sector, such as the Department of Trade and Industry’s Foresight 2020 (DTI, 2002), the Construction Industry Research and Information Association’s Adopting Foresight in Construction (CIRIA, 1999) and the International Council for Research and Innovation in Building and
+Construction’s Sustainable Development and the Future of Construction (Bourdeu et al., 1998). Although differing in approach and layout, much of this work is informed by two main ideas. First, the studies tend to
+reproduce, or reinforce, the current rhetoric that the construction industry is somehow laggard or less productive than it could be, and therefore in need of some form of improvement. This is a somewhat paradoxical position given the long history of the argument within the sector, taking in such work as the Emmerson (1962) report, Higgin and Jessop’s Communication in the Building Industry (1965), and more recently the Latham (1994), Egan (1998) and Fairclough (2002) reports. Second, they recognize at least the possibility, if not the certainty, of wide-scale change over the coming decades which could significantly alter the current contexts in which construction work is undertaken. Factors such as climate change, dwindling natural resources and demographic change could introduce new problems and prospects for the construction sector in the coming decades. Within construction itself, new materials technologies, greater use of IT as a medium of interorganizational coordina-
+tion and collaboration and the perceived need for
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2007 Taylor & Francis
+sustainable activities also have the potential to transform the ways in which construction work is undertaken. These developments suggest that radical as well as incremental change may be required. These reports therefore identify potential drivers and issues which could affect construction in the future, with the aim of then thinking about the specific implications they hold for the sector’s current activities.
+Based on 13 construction-related future study reports, this paper reviews critically the key themes and areas of agreement or divergence which are used as the basis for developing potential future scenarios. From this, two possible future scenarios are presented as examples which reveal the contingent nature of the implications of positive and negative future changes. The methodological implications of these studies and of future studies in general, as a tool for preparing for the future, is considered.
+The structure of the future studies reports
+The format of construction futures reports varies, but they can be broadly classified into three broad types. The first type collates the views of industry practitioners regarding future concerns, often gleaned through ‘knowledge capture’ workshops or interviews, or using some form of opinion-generating tool such as the Delphi technique. These reports then present and feed back this information, often accompanied by some recommendations for future action (e.g. DTI, 2002). A second type involves the speculation and assertions of industry professionals or academics. These are less grounded in contemporary concerns and reflect the opinions of single individuals. Rather than a report style, these are often written as a description of a future scenario, such as a day in the life of a construction worker in 2025 (e.g. Jobling, 2003). A third type reviews published reports, often organized around
+Fairclough DTI
+Hampson and
+Landry ECTP
+
+Interviews/ consultation
+Reviews of past work
+specific themes such as technological, demographic, economic and so on (e.g. Edkins, 2000). Table1 shows the methodologies used in each report. There are also differences in the areas and scope of studies. Most of the reports are focused on the UK, but Flanagan (1999) and Bourdeu et al. (1998) make global comparisons. We have identified several construction futures reports from other countries including Australia
+(Hampson and Brandon, 2004), the USA (CERF, 2000; CII, 1999) and Europe (ECTP, 2005).
+The futures of construction	479
+Common to all of this work is the identification and discussion of a range of issues that might affect construction in the future, and their extrapolation into potential futures. The scenarios come in two forms: those which concentrate on the possible future effects of one particular driver or theme at a time, such as climate change or the need for sustainability (e.g. CIRIA, 1999), and those which combine a number of different issues into a more complex future scenario, where wide-scale changes, local events, and political and social trends are incorporated into a single vision of a potential future (e.g. Curry and Howard, 2003). The former is the more straightforward, and is useful in making the move from thinking about macro factors such as demographic change on a global scale to the specific implications for construction at sector, firm, project and practitioner levels in the UK. However, this approach does not allow the interconnectivity between factors, such as economic, technological, political and social trends and events, to be fully considered or explored. But the interrelations between these factors are crucial in understanding the potential contexts in which construction work might be located in the future. The latter approach does enable this, even if this is achieved by qualitatively postulating how a future with, for example, scarce resources, different client expectations and a different distribution of construction skills might look like.1 This is achieved however, at the expense of introducing further complexity into the scenario as assumptions and speculations are made about the dynamic relationships between a number of different issues, such as climate change and government legislation or scarce resources and new technologies. Because of this speculation, these types of scenario can provide a clear, convincing and detailed picture of a possible future, but can also seem somewhat disconnected from the contemporary contexts of construction. This can present a problem, given the intention of such scenarios is to help construction firms and other institutions and actors develop the dynamic capabilities required to bridge the gap between current activities and a range of future possibilities.
+
+The reports discuss a number of common issues and drivers, although different terminology is frequently used to describe them. For the purposes of comparison, the issues can be grouped under the headings ‘technological’, ‘environmental’, ‘human’, ‘economic’, ‘governance’ and ‘other’. Within each group were a number of different sub-issues: for instance ‘technological’ incorporates themes such as offsite construction, ICT, automation, virtual reality and materials innovation (see Table2).
+The matrix presented in Table3 has been developed by comparing the different reports in terms of their themes and issues. This provides a useful indication of both the content of each report and the relative importance attributed to different issues within each of them. Coding the regularity with which a particular factor is mentioned within a specific report as 2 (key theme/extensively discussed), 1 (mentioned) or 0 (no mention), and summing these figures across the horizontal rows of the matrix, provides an indication of the relative importance of each issue across all of the reports. There were some clear winners here, as the sum column shows, with ‘increased importance of sustainability’, ‘increased foreign competition and globalization’, ‘increased use of ICT’, and ‘shifted education and training requirements’ emerging as the most frequently cited factors for construction’s future.
+An additional level of detail is added in Tables4, 5 and 6, where the specific terminology used within each report for each issue is given (for clarity, the matrix is split into three separate tables).
+Table6 also shows some of the issues listed which fall outside of the groupings we used. Perhaps the most interesting idea here is that of wild cards—events or developments that are discontinuous with current conditions. Some of these are more helpful, in terms of preparing for potential futures, than others. For instance, the scenarios of asteroid collisions and genetic
+Table 2	Categories and specific issues
+Increased standardization and offsite construction
+Increased use of common ICT and
+information-sharing platforms
+Increased automation and use of robotics
+Increased use of 3D technology
+(virtual reality, CAD)
+New/smart construction materials
+Increased importance of sustainability
+Climate change/global warming/ extreme weather
+Resources/energy conservation
+Reduce waste and pollution/ increased recycling
+Increased urbanization
+Demographics changes
+Reduction of skilled trades/ consolidation of professions
+Shift education and training requirements
+Improved health and safety, welfare and working conditions
+Flexible working
+Changing healthcare needs and requirements
+Vulnerability and security
+More profitable, efficient and competitive construction industry
+Increased foreign competition and globalization
+Consolidation and defragmentation of construction industry
+Increased use of whole-life costing,
+PPP and PFI initiatives
+
+Changes in government policy
+Increased or alignment of legislation and regulation
+
+
+mistakes suggested in the CRISP report (Edkins, 2000) have such widespread effect that any connection to previous contexts would be severed, and the potential reconfigurations of construction work, and society more generally (if indeed they still exist) under these conditions are highly uncertain. However, major shocks such as the recent upsurge in terrorist activity are
+Table 3	Emerging pattern of futures issues
+Future reports and studies
+
+
+
+New materials
+Climate change
+Conservation
+Waste/recycling
+Demographics
+Reduction of skills
+
+Health & safety
+Flexible working
+Health care
+
+Rich and poor gap
+Government policy
+Legislation
+
+Wild cards/shocks
+25‘key theme/area’; 15‘some mention’.
+New materials
+Climate change
+Conservation
+Waste/recycling
+Demographics
+Reduction of skills
+
+Health & safety
+Flexible working
+Health care
+
+Government policy
+Legislation
+
+Wild cards/shocks
+25‘key theme/area’; 15‘some mention’.
+Table 4	Technological and environmental key words
+Future reports and studies
+
+
+
+Renewable, recyclable
+Use of IT for
+Simulation and control technology
+Projects built in 3D & virtual reality (VR)
+Better properties of materials
+Robotics and computer controlled automation
+Widespread use of simulation and modelling VR
+Advanced materials and reduced price
+ICT enabled communication
+Further mechanization
+Biomimetic materials, nanotechnology
+More Internet, remote working, knowledge
+Robotics and sensing
+Prefab of components
+Heavy use of IT
+Increased use of
+Advanced biotechnology
+Climate change
+Conservation
+Waste/pollution
+Energy efficiency of buildings
+
+Energy efficiency, increased renewables
+Greening of construction
+Waste, recycling
+Growth of city settlements
+Demographics
+Population change/shift
+Population/ demographic, ageing population
+Demographics
+Bold font indicates ‘key theme/area’; normal font indicates ‘some mention’.
+Table 4	(Continued.)
+Future reports and studies
+
+Foxell	Hampson and
+
+Standz, pre- assembly
+Smart buildings, web-based sup ch int
+Safety-driven automation, factory robots
+New materials, biomimetic & nanotechnology
+Rapid diffusion of ICT
+control in building
+
+materials and technology
+New production processes
+Introduction of ICT at all
+Conservation
+Energy efficiency measures
+
+Env’tally	Environm’al
+sustainable	sustainability construction
+Climate change Climate change
+
+Climate change
+Reduce need for fossil fuels
+Declining oil resource
+Waste/ pollution
+Recycling, reuse & optimize use of materials
+Min waste,	Recycling/ max recycling	pollution
+Urbanization/ growth of city dwellings
+Demographics
+Demographics change/ ageing population
+Demographics	Ageing
+Table 5	Human and economic keywords
+Future reports and studies
+
+
+
+
+Flexible work
+
+
+
+Education & training
+Healthy in & exterior environment
+Increased demand, decl standards
+Increasing personal affluence
+Flexible working
+professions
+Lifelong learning
+Safety, reduced accidents on
+Single parent households
+New drugs & healthcare
+More educ’tion on demand, re-training
+Health of population, safe
+Mobility of workforce
+Increase partnering
+EU competition, increase in cross-border trade
+Globalization,	Growing
+Best-in-class firms
+Changing business cul ture, rational’ tion
+Increased use of
+Whole-life perspective
+Bold font indicates ‘key theme/area’; normal font indicates ‘some mention’.
+
+Flexible work
+
+Safety train, improve learning, lifelong learn
+welfare, health monitoring
+Tele & flexible working
+Variations in the make-up of households
+Health monitoring technology
+broad education
+
+Segregation, welfare, health
+Diminish professional boundary
+Flexible working
+Ongoing supply of skilled workers
+Welfare & improvement of labour force
+Telecommuting/ teleworking
+Single person households
+Training and education
+Health and safety of built environment
+Vulnerability & security
+Security of built env
+Increase investment returns
+Supply-chain integration
+R&D to improve industry
+Competition from overseas, innovation
+Internationally productive labour force
+Whole system approach &
+Bold font indicates ‘key theme/area’; normal font indicates ‘some mention’.
+Table 6	Governance, wild cards and other keywords
+
+
+
+Legislation
+
+Limited welfare
+Wild cards,
+Other terms
+
+Water conservation
+Transport’tion, new crime, housing
+Bold font indicates ‘key theme/area’; normal font indicates ‘some mention’.
+Table 6	(Continued.)
+Future reports and studies
+
+Hampson and
+
+Legislation
+
+Increase investment
+
+Devolution of political power
+Tight regulations
+Regulating role of government
+More robust legislation of professional
+Closer collaboration with industry
+National uniformity of codes
+
+
+Other terms
+Bold font indicates ‘key theme/area’; normal font indicates ‘some mention’.
+perhaps more easily connected to contemporary practice, and their implications are somewhat clearer for the construction industry (in terms of safer or stronger buildings, more consideration of needs like safe evacuation and so on). This is reflected in issues of ‘security’ which only arise in the two most recent reports (see Table5). The awarding of the 2012 Olympics to London is a more positive example of a specific event with significant consequences for UK industry, both for the construction sector and more widely, although these reports all pre-date this particular decision.
+Problematic futures: evaluating the reports
+It is a weakness both of these reports and of futureoriented methodologies in general that it is much more difficult to imagine a radically transformed future than to extrapolate current trends forward through time. This might also explain the popularity of IT growth, education, the requirements for sustainability and increased foreign and global competition across all 13 reports, as they are long-standing preoccupations within the sector and society more generally. This also highlights a paradox within these studies; they are intended to address the problem of understanding and dealing with a rapidly changing world, but do so with reference to past and current trends and ideas. Even the (to some) darkest dystopian visions of a future construction sector, where creativity and talent are forsaken for standardized, highly restricted methods, are based on long-standing arguments over the deskilling of practice though the introduction of technologies such as CAD (see e.g. Senker and Simmons, 1991).2
+The matrix, in its various forms, provides a useful summary of the range of different themes, issues and drivers which are today considered to be important in construction’s future. However, this only takes us so far. There is little attempt within the reports to unpack and define broad terms such as ‘environmental sustainability’, ‘sustainable development’ and ‘environmentalism’ which are used liberally in a number of reports. Although both the DTI reports (2001, 2002) acknowledge that there are social, environmental and economic elements of sustainability, they provide little more in the way of discussing what these might mean for construction work and for society more generally. Sustainability can mean very different things to different people, especially when regional, national or global scales are taken into account. Sustainability in a developing country will often mean something very different from sustainability in a more mature nation such as the UK, and as Flanagan (1999) points out, often global environmental impacts such as climate change are discussed in terms of reducing negative impacts (for instance in the performance and energy efficiency of buildings) at the expense of addressing wider issues such as poverty and social equity.
+There are two further points to make here, which are not explicitly discussed in any of the reports examined, but which are important considerations. The first concerns relationships between factors such as changing demographics, which are in the main external to the construction sector, and others, such as improvements in offsite construction technologies which originate more from within the construction sector itself. It is assumed that external, macro drivers, such as an ageing population, will define, configure or constrain the possible forms of the construction sector in the future, but without much consideration of how these might intersect with internal dynamics, such as the organization of the sector, or the skill requirements of construction processes. This also questions the abilities of construction firms and practitioners to intervene in processes of change. What actions can be taken by construction firms and other stakeholders to influence the amount of offsite construction work being done; or to redress the problem of a lack of trained workers; or account for the problems of a changed climate in a few years from now?
+The second point is that different internal and external drivers can, depending on the scenario being constructed, be seen as effects, as well as causes of change. Government policy might be introduced for a specific, primary reason, such as a need for better health and safety practice on construction sites, or might come about as a result of wider forces, for example building performance related legislation could be introduced as a response to climate change. Increased use of ICT could be a driver, pushing construction professionals towards greater reliance on and use of ICT for designing, constructing and managing buildings; however, it could also be utilized as a response to an economic imperative, such as the need to lower costs or compete globally, or to particular problems, such as coordinating international construction projects.
+This suggests that the specific forms and impacts (for example the potential ICT-related changes within the construction sector) are at least partly configured by the contexts of other influences and the connections between them. Although identifying specific drivers and issues which may be important in defining the construction industry of the future is crucial in order to produce plausible scenarios, the sequence in which different issues might impinge on construction and the potential interconnectivities between them also have a significant effect. One way to navigate around this problem is to posit a number of potential relationships and interconnectivities between drivers as part of specific scenarios—to offer a range of scenarios which include not only the influences of different issues, but also to illustrate different configurations and sequences of them, and the effects these combinations might have.
+To illustrate this in a concise way we offer two example scenarios of the construction industry, which consider a range of issues that might influence construction over the coming two decades. Rather than coming from a
+specific report, they have been developed by building on the common themes of increased constructionrelated legislation and increasing use of a variety of technologies and changes in construction education. They are deliberately positioned as two extreme views where the same issues have resulted in considerably different futures. Providing two extremes in this way is a common feature of future scenarios methodology (as is postulating another scenario where nothing has changed) and highlights another important issue regarding such studies—that the implications of factors such as technological change can be positive or negative depending on an organization’s or individual’s position within construction as a whole.
+As a complex industry comprising a wide array of firms, disciplines and practices, changes to the organization and activities of the sector might be beneficial to some, but disadvantageous for others. The imagined move towards fewer, but larger construction organizations that could take on all elements of the construction and FM process might sound like good news for large flagship companies, and for construction clients, but is less positive for the myriad specialist firms whose competitive edge is based on offering distinctive and differentiated services. Similarly, a move towards producing broad-based and flexible construction professionals might be a positive move for some individuals, and might make careers in construction more attractive, but also erodes the traditional authority and influence of professional institutions and would require significant changes in the way construction education is undertaken. The status of future occurrences as threats or opportunities depends on the points of view and present situations of the stakeholders affected. Together, the scenarios offered here (and summarized in Table7), therefore, go a little way beyond many of those contained within the reports, in thinking through the different outcomes that might result from a similar combination of future events and influences.
+Construction in 2025:
+Increased legislation and regulation of both building performance and the activities of construction, at national, international and global levels over the past two decades have opened up new markets for UK construction firms. Common standards allow expansion of the national construction sector into a global arena. Construction professionals who are able to navigate this legislation are in great demand. A significant shift towards a holistic, life-cycle-based approach has brought together design, construction and facility management. It has also integrated a previously fragmented landscape. Work allocation has shifted from short-term construction to long-term service provision. This has also allowed construction firms to expand their competencies into new areas of facility operations and management.
+Shifts in technology have also produced some radical changes. New materials and ways of producing them have heralded the long-anticipated switch from construction being a primarily site-based industry, to an offsite one. Greater economies of scale drive down the costs of building, as well as ensuring that sustainability is addressed through energy efficient, clean materials and processes. Today’s buildings are able to monitor, clean and maintain themselves using smart cladding systems, nano-technology and intelligent computers. The predictability offered by manufactured components has replaced the uncertainties of previous bespoke methods. Onsite technology has also introduced benefits. Robotic machinery working in hazardous areas has improved construction’s health and safety record to an impeccable standard. Common ICT systems coordinating work has made the construction process more transparent, allowing clients to gain a better understanding of construction methods, and to take a proactive role in design.
+Education has played its part. The training of construction professionals is directed at producing more flexible and adaptable people, who have an understanding of the whole construction process, from design to FM and who are aware of the benefits of using new materials and ICT-enabled processes.
+Construction in 2025:
+Increasing legislation and regulation at national, international and global levels over the past two decades has opened up the UK market to intense competition from foreign competitors at the expense of UK-based firms. Common standards have tightly constrained construction practices, and construction professionals’ main activities consist of wading through these extensive regulations. A significant shift towards a holistic, lifecycle-based approach has integrated design, construction and facility management and has resulted in the survival of a small number of large firms which manage the whole of the construction and FM process. Specialist SMEs have all but disappeared from the sector. Construction itself has become a loss-leader into more stable and predictable FM and service provision. Shifts in technology have also produced some radical changes.Newmaterialsandwaysofproducingthemhave heralded the long-anticipated switch from construction being a primarily site-based industry, to an offsite one, pushing site-based skills into terminal decline. This is causing severe difficulties in maintaining and repairing older buildings. The increased use of manufactured components has also allowed firms from outside the traditional construction sector to enter and increase
+Table 7	Summary of two scenarios
+Nature of change
+Increased legislation and regulation
+Opens up international/global markets for UK firms by providing common standards
+UK market opened up to foreign competitors
+New competencies of construction professionals in ensuring compliance
+Professionals become legislators rather than creative workers
+Whole life cycle approach
+Reintegration and consolidation of fragmented industry
+Only a few large firms survive; SMEs all but gone
+Consistent levels of work and income
+Construction becomes a loss leader for FM and service provision
+Education in construction
+The same building is constructed again and again
+Construction seen as an objective and IT driven process, at expense of creativity and inspiration
+Traditional skills based onsite are lost
+Construction work is colonized by manufacturing firms, from both UK and abroad
+Professions as they stand are lost, replaced by ‘jack of all trades’
+Technology 1: Shift to more standardization and off-site construction
+The industry rhetoric comes true
+Economies of scale can be generated
+The same building is constructed again and again
+Traditional skills based onsite are lost
+Standardized components reduce risk in construction
+Construction work is colonized by manufacturing firms, from both UK and abroad
+Technology 2: Use of common Information Sharing platforms
+Construction process much more transparent and errors and delays resulting from communication problems eliminated
+Competitive edge and distinctiveness/ individuality of firms and professionals lost
+Clients take a proactive role in design
+Design becomes the reproduction of client expectations and internal innovation is stultified
+Technology 3: Automation and robotics
+Health and safety greatly improved by use of robots in potentially hazardous environments
+Higher accuracy and standards of work achieved
+competition further, resulting in a move away from bespoke and individual buildings, much to the detriment ofthebuiltenvironmentgenerally.Onsitetechnologyhas also broughtaboutchange.Theuseof roboticmachinery to undertake work in hazardous onsite areas has sealed another nail in the coffin of the traditional trades. Coordination of design and construction activities by powerful, common ICT systems has led to even more standardization of process, at the expense of the subjective and creative abilities of construction professionals. Novelty and innovation are severely stilted.
+Education has played its part. The training of construction professionals is directed at producing people with an understanding of construction as an IT-driven process, where accountability is directed towards standards and regulation rather than the aesthetically driven architects and engineers of the past. Traditional disciplinary distinctions have gone.
+The two scenarios suggest that the same building blocks can lead to contrasting potential futures which have a range of implications for both customer and supplier stakeholders of construction. This observation, combined with the plethora of potential issues and drivers discussed in the reports, provides a sense of the complexity and range of scenarios which could be developed and, of course, the countless potential futures facing the industry. This raises a number of questions around the utility of producing future scenarios. Broadly, these refer to the different perspectives from which potential scenarios are assessed (as good, bad, a threat or opportunity and so on), and the ways that future scenarios are or can be connected to current contexts and activities.
+The future from different perspectives
+First, a key consideration here is the extent to which construction-based future scenarios also have to consider the potential futures of much wider issues. This is not a question of the origin of different drivers within or without the construction sector, but is instead about the interaction between such internal and external factors. These are expressed in wider societal concerns which intersect with the construction sector, such as the quality or safety of the built environment for its users, and the way that construction contributes to society as a whole through provision of buildings and other infrastructure both functionally and aesthetically. This can also introduce tensions and oppositional demands into scenarios where client expectations and wider social responsibility have to be balanced with competitive tendering practices and the need to produce reasonable profit margins. Competing agendas exist. They can be located both within and outside the sector, and in any case the boundaries of what we might define as the ‘construction sector’ are blurred, especially in the second scenario. What can be considered as ‘inside’ and ‘outside’ the sector is already a point of debate (c.f. Pearce, 2003).
+Second, this leads into a discussion of what exactly are ‘good’ and ‘bad’ futures, as well as for whom they might be good and bad. A highly regulated and standardized future construction sector may be able to produce environmentally efficient and functionally adequate buildings, but what might be the aesthetic impact for the built environment? How can potentially expensive requirements for building, such as energy efficiency, be reconciled with a perceived need to increase the productivity and profitability of construction work? What impact will a decline in the socioeconomic contribution of construction (such as in employment) have on the fabric of society? Neither scenario is wholly positive or negative. As such, they provoke consideration of who might, or should, benefit from a transformed construction industry of the future. Third, this also introduces some uncertainty over the units of analysis around which future scenarios might be based, and also from which recommendations for intervention or preparedness could be deduced. Changes to construction practice in terms of reducing its impact on the environment would be of benefit at a global level, but might have negative consequences for the cost of construction work in the UK sector, which clients would predominately have to bear, or in introducing constraining and restrictive legislation. Should future studies be oriented towards scenarios and strategies which benefit specific firms at the expense of others, or which boost the construction sector’s performance, or contribute to the UK economy as a whole, or which enable a better built environment for clients and users regardless of the implications for existing firms and the current structure of the sector? How can thinking about the future of construction account for the implications of change for a wide variety of construction actors and stakeholders?
+Connecting the present to the future (and the past)
+Notwithstanding the questions raised above, the motivation for conducting future studies in construction is to think about how firms and other actors might respond to a range of potential changes in the future. Preparedness (which is likened to agility) is therefore central to the value of future scenarios as a methodological tool; in a recent interview in the Observer, one futures consultant states, ‘what’s important is that you have a model for understanding how your market operates, rather than the answer. It goes back to the idea of the future as being to some extent in your hands’ (Observer, 2005). The intimation here is that it is not really the scenario which is important, but how that scenario (and others) might be used by construction participants today to inform decisions they make about their activities. The effectiveness of scenario generation is located not within the final scenario itself, but within the connections between the present and potential future. In order to make these connections, the relative abilities of construction organizations and professionals to actually alter, mitigate or influence the processes of change need to be explored. In order to think about useful strategies for intervention—the bringing about of a positive future or avoiding a less preferable one—the extent to which the sector can influence or intervene in the process of change is centrally important.
+Thinking about the future opens up other, perhaps more general debates, such as the tension between greater use of technology versus the loss of creativity and of traditional skills and jobs. Figures vary, but the construction sector accounts for a significant proportion of UK employment, employing over two million people and contributing around 8% of GDP, with a present annual output of £93 billion (DTI, 2004). The increasing development and use of technology, whether as part of an electronically coordinated construction process or in terms of introducing new materials or techniques is taken for granted, but the potentially more negative implications of this are generally not really considered (one exception is Hughes’ (2003) picture of a standard off-the-shelf process of building which leaves no room for originality, creativity or aesthetic quality). How can the increasing encroachment of ICT-based processes be reconciled with construction’s ability to produce innovative designs and aesthetically significant buildings? This also connects with assumptions about technological advance as an inherently positive process, and that greater use of technology equates to better working practices. The question is, ‘for whom is it beneficial? ’ Although the craft and site-based nature of much construction work can be cited as inhibiting the increasing use of technology, industries where technology has made a marked difference, such as manufacturing, have also demonstrated a massive reduction in the human labour required. This might have made mass-produced goods cheaper, but at the expense of many employees. Within each potential future lies an array of foreseen and unforeseen consequences which could engender resistance to future actions (for instance in refusing to accept a new technology or process, which has a long history that can be traced back to the Luddite movement’s actions against increasing industrialization in the early 19th century), effectively blocking the path to that particular future. So if linking present and future is the aim, then these sorts of potential barriers need to be considered.
+In fact, a broader question about how change actually occurs is posed. It is a common assumption that progression towards an envisioned future moves along an incremental path, and that incremental adaptation is required to keep pace with what changes are occurring. However, given both the array of factors listed above and the wide-sweeping nature of some such as climate change, as well as the possibilities for the same factors to produce significantly different outcomes, this model may be insufficient. Multiple, uneven and potentially discontinuous paths might lead towards multiple futures, and more radical steps may be required in order to merely survive, let alone perform more effectively and productively.
+The wild cards and major shocks discussed above demonstrate this potential for unanticipated and farreaching change. The nature of such speculation may seem far-fetched, and some distinction needs to be made between cataclysmic events like an asteroid impact, and other factors which are less far-reaching, but still represent discontinuity with existing conventions and practices, and act as a catalyst for extensive reconfiguration. There are innumerable past examples where such unanticipated occurrences have led to wholesale change, for instance the two World Wars, the inventions of computers, the Internet, the internal combustion engine and, more specifically within construction, the emergence of steel as a high volume construction material and the development of the elevator. On a less positive note, the structural failures that led to the collapse of the Ronan Point high-rise tower block in east London in 1968 exposed weaknesses in current understanding and dramatically affected public confidence, resulting in a retreat from the high-rise as a solution to urban housing. Each of these factors led to ruptures with the past and new opportunities. As these reports suggest, rising sea levels, increased demand on resources generated by expanding nations such as China, India and Brazil, or a severe shortage of traditional construction workers such as plumbers and electricians could radically alter the shape and activities of the construction sector. Although it is a challenging task, the methodological problem of connecting the present with potential futures needs to go beyond increment reform based on the current configuration of the industry.
+A review of the recommendations provided by these reports reveals that few offer firm suggestions of how industry stakeholders should prepare for the future scenarios that they define. Some (for example Edkins, 2000) go no further than outlining a number of key drivers on which future configurations of the industry hinge. While others offer specific recommendations for action, there is little substantive instruction or guidance provided for construction firms and professionals other than to embrace current industry trends. There is little unpacking of what acting on these trends might mean for them. Some are self-evident; the sector’s health and safety record is widely acknowledged to be somewhat problematic, and future studies arguably are not needed to recommend that it be improved. Others gloss over the complex, messy and fragmented current contexts in which construction work is done. Recommendations, for example ‘integrate supply chains’, are contained in many countless research reports and articles. Such integration is offered by the DTI (2001) without accounting for the conflicting interests and expectations of construction firms and practitioners, and the risks of introducing dependency and exposing core competencies that interorganizational collaboration can produce. In reality, integrating supply chains, especially in a consistent way and across a number of separate projects, is a hugely difficult challenge requiring a significant change in both the practices of the whole sector, and the assumptions and expectations of its constituents (c.f. Dainty et al., 2001).
+The reviewed reports are highly instructive in outlining a comprehensive range of factors, some of which might, and some of which will, affect the future of the construction sector. It is unsurprising, especially in the reports based on industry participation, that the drivers identified are those that are actually affecting construction firms now, and that current trends such as a move towards more sustainable construction (whatever that might mean) and the increased use of ICT and other new technologies are considered of primary importance. But they stop short of getting to grips with the complexities and uncertainties of both the present and the future, or exploring the connections between global, local, construction-specific and more general or macro-level factors. The methodological approaches used in the reports fail to generate any significantly different advice or recommendations for the industry to adopt from those that can be found within the much larger canon of non-future-oriented construction research. These reports are often less about the future than the present. This is not in itself a bad thing, and the reports provide a snapshot of the concerns and visions of practitioners at a given time (aptly illustrated by the inclusion of terrorism as an issue in only the latest reports) and many well-known works on the future are in fact (often quite thinly) disguised critiques of their contemporary times.3
+But the real utility of scenario generation as a methodological tool is that it can offer a way of thinking about complexity, change and an array of potential consequences and barriers, and its distinctive value is in analysing how to get from existing contexts to potential futures (or to avoid them). Future ‘future’ studies that are more centrally oriented around these connections or pathways between the present and a range of potential futures are perhaps more likely to generate useful and workable recommendations. The aim is not to produce a limited number of scenarios, but to identify and explore the consequences of different activities or decisions. This is achieved by positing a range of interconnectivities and sequences of events, by thinking about multiple routes (and barriers) to different futures and the relative abilities of construction actors to influence some things and not others and by considering whom a scenario benefits and disadvantages. However, we recognize that this creates another challenge, which is how to cope with and interpret the resulting complexity of interdependencies. This question is beyond the scope of this paper and is the subject of our ongoing research.
+
+There are a number of more quantitative methods for assessing interdependencies within future scenarios, such as cross-impact analysis or systems dynamics modelling, but these are not utilized in any of these reports.
+In fact this debate is one that has been around more generally for a significant length of time. The technologically determined dystopia of Marx’s industrial society was further explored by Braverman (1974) in his thesis on de-skilling, and science fiction such as Orwell’s picture of 1984 or Huxley’s Brave New World paint similarly bleak technologically driven futures.
+Examples range from Thomas More’s Utopia in 1516 through to Orwell’s 1984 and Brunner’s Stand On

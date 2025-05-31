@@ -1,0 +1,369 @@
+﻿Quality in Construction Management: An Exploratory Study
+Introduction
+6 	Jung and Wang (2006) and Lam and Thomas (2006) stated that top managers have been
+8 focusing on the need for applying quality philosophies to achieve high performance levels
+9 among various components and procedures. There has been increased interest within the
+11 	construction management community in exploring possibilities for applying quality knowledge
+13 gained from manufacturing and other industrial sectors to the problems of managing the 14 construction process (Abdel Salam and Gad, 2009). Unfortunately, contractors rarely have a
+16 	realistic idea of how much profit they are losing by not attaining an acceptable level of quality.
+18 Turk (2006) stated that quality may sometimes be ignored in the construction industry in order to 19 cut the costs and shorten the project duration. However, it is believed that the benefits of higher 20
+21 	customer satisfaction, better quality products, and higher market share are often obtained
+23 following the adoption of quality by construction companies (Pheng and Teo, 2004).
+24 events in developing countries coupled with restructuring of economics, emergence of the world
+26 	trade organization and the rising price of oil are expected to yield an unprecedented growth in
+28 constructions. Consequently, a huge number of large scale projects are currently in planning and
+29 contract awarding phase (Wanberg et al., 2013). The construction industry has experienced
+31 	growth during the boom that occurred in developing countries in the last decade encouraging
+33 investments in the industry and raising the importance of deploying management philosophies 34 advancement to this industrial segment. The effects of quality on a business are numerous and
+36 have improved the productivity of design and project management and now have become vital to 37
+38 	construction business to survive and have a competitive edge.
+40 	In response, this paper explores the factors affecting quality in construction management 41
+42 (housing sector) in a developing country (Jordan). Jordan is looking to develop a better
+43 management strategy for its construction projects, and this is a priority for other developing 44
+45 	countries too (JEA, 2013). Our aim in this paper is to identify the relative importance of factors
+47 affecting quality in the Jordanian housing sector. This study addresses the following research 48 objectives: (1) to identify the factors affecting quality in the housing sector, (2) to examine the
+50 relative importance (e.g. highest and lowest) of such factors from the view point of architects 51
+52 	and contractors, and (3) to develop an integrated conceptual framework for quality factors.
+54 	The rest of this paper is structured as follows: quality, quality in construction, and factors
+56 	affecting quality in the literature are reviewed, the research methodology is discussed, findings 57
+58 	and discussion follows, and the final section includes conclusions and contributions.
+2.1 Quality
+The success of a project found in the literature depends on the project quality as a key concept
+7 (Wanberg et al., 2013, Romeo et al., 2014). Arditi and Gunaydin, (1997) define the concept of
+8 quality as meeting the legal, aesthetic and functional requirements of a project. Eng and Yousef
+10 	(2003) explain quality as both a philosophy and a set of guiding principles that represents a
+12 	continuously improving organization. Quality can be translated into the quality dimensions that 13 	include: levels    of    quality,    reliability   and   safety,    quality   performance,    durability, and
+17 Wang (2006) argue that it is the role of management to ensure the achievement of established
+18 requirements in a project as competition increases and change occurs in the business world.
+20 	Understanding how closely the project conforms to its requirements, a high quality project can
+22 be described by such terms as ease in understanding drawings, level of conflict in drawings and
+23 specifications, construction economy, ease of operation and maintenance, and energy efficiency
+25 	(Ardti and Gunaydin, 1997). According to Al Nofal et al., (2005) and Jraisat and Sawalha
+27 (2013), quality requires radical change to traditional management practices. Quality is one of the
+28 most complex practices for any company; it requires implementing a new way of managing
+30 	business and culture which not only affects the whole organizational process and employees but 31
+32 	also the allocation of significant resources (Santos et al., 2002; Jung, 2009).
+35 	Quality needs control which is the specific implementation&  of the quality assurance program.
+37 Effective control for quality reduces the possibilities of change,Reliab mistakes and omissions, which
+38 in turn result in fewer conflicts and disputes. Most of the engineers and architects were in total
+40 	control during the design phase. During the construction phase, they carried out a role described
+42 as 'supervision', insuring that the owner received his money's worth in terms of quality.
+43 Recently, owners became increasingly concerned with cost and schedule, areas where design
+45 professionals were not providing good control. Engineers and architects must work together to
+46 47 	achieve specified goals of quality and liability control, recognizing that each person and each
+
+48 	activity affects and in turn is affected by others. As competition increases and changes occur in
+50 	the business world, companies look for high levels of effectiveness across all functions and
+52 	processes and choose quality management as a strategy to stay in the business.
+2.2 Quality in Construction
+In a construction project, quality management has been widely used by world-class companies to
+4 	ensure 	successful 	projects 	delivery 	(Aichouni 	et al., 2014). The 	interactions 	and 5
+6 	interrelationships  between  key  participants  (e.g.  the  client,  the  architect  and  the  contractor)
+8 ournalargely  determine  the  overall  performance  of  the  construction  project. Notwithstanding  this 7
+9 mutual dependency, the performance of individual participants remains important because the
+11 	l overall performance is a function of the performance of each participant (Soetanto and Proverbs,
+Lianying and Weijie, 2013). According to Rwelamila and Wisemant (1995), Arditi and
+14 Gunaydin (1997), Turk (2006) and Saeed and Hasan, (2012), quality in the construction industry
+1516  	can be defined as meeting the requirements of the designer, constructor and regulatory agencies
+18 as well as the owner. Based on the three studies above, quality can be characterized based on
+19 meeting the requirementsof of the  owner (e.g. functional adequacy, completion time, budget;
+23 information prior to design, provisions for decisions by owner and design professional,Qualit	 and 22
+24 contracting to perform work), constructor (e.g. contract plans, specifications, timely decisions,
+26 	and  contracting 	to performy work),  and regulatory agencies (e.g. public safety and health,
+28 environmental considerations, protection of public property, and laws and regulations).
+29 Moreover, one should also differentiate between product quality (the physical product itself) and
+31 	the process quality (the activities that causes the product to be either acceptable or not) in a
+33 project (Culp et al., 1993). For example, "product quality" in the construction industry may refer
+34 to achieving quality in the materials, equipment and technology&  that go into a structure building,
+36 	where "process quality" may refer to achieving quality in theReliab way the project is managed in the
+38 three main phases of construction process which are planning and designing phase, construction
+39 phase, and operation and maintenance phase (Burati and Oswald, 1993; Arditi and Gunaydin,
+44 The construction industry and its quality presently are facing urgency of shaping a sustainable 45 construction process (Zhai et al., 2014).The role of quality in construction has been emphasized
+47 	by the use of various aspects of quality tools and techniques (e.g. Metri, 2005).
+49 organizations are frustrated in their effort to improve quality because these companiesity have  48
+50 exclusively focused on financial measures instead of quality measures (Torbica and Stroh, 1999;
+52 	Sharmma and Gudanne, 2002). Construction firms, therefore, need to understand the quality
+54 factors for their success in order to establish quality factors for construction firms (Saeed Mand  53
+55 Hasan, 2012). Although quality has been widely implemented in the Japanese construction
+57 	industry since the 1980s and in the American construction field since the 1990s, it has not yet
+59 	been implemented successfully in developing countries (Abdel-Razek, 1998; Hiyassat, 2000; 60 	Kazaz et al., 2004; Abdel Salam and Gad, 2009). Many studies have demonstrated that project
+management action is a key element in achieving quality in construction. The success of quality
+management depends heavily on management practices. These practices include: motivation by
+the contractor’s senior management, commitment of top managers to site management (Abdel-  Razek, 1998; Kaye and Anderson, 1999), and integration of continuous improvement activities
+67 	into the strategic goals across the whole organization, across boundaries and at all levels (Kaye
+9 	and Anderson, 1999). Contractors, for example, need to define their objectives by creating a
+10 	harmony through mutual co-ordination among all parties (Asim et al., 2013).
+13 	According to Kazaz and Birgonul (2005), Turk (2006) and Haseeb et al., (2011), construction
+15 firms have some deficiencies in getting stability in a quality concept when their business 16 structures use temporary labors and change their location constantly and consequently.
+
+1718  	Furthermore, construction projects are widely seen as unpredictable in terms of delivery time,
+20 budget, profitability and the standards of quality expected (Love et al., 2000). Some differences
+21 must be considered when applying a quality program to construction projects (Arditi and
+2223  	Gunaydin, 1997; Pheng andQualit Teo, 2004; Romeo et al., 2014). These differences illustrate that
+25 almost all construction projects are single order-production products, each construction
+26 production site always displaysy different  conditions; the life-cycle of a construction project is
+28 	much longer than the life-cycle of most manufactured products, and there is no uniform standard
+30 in evaluating overall construction quality. Thus, construction projects usually are evaluated 31 subjectively, and the participants in the construction project (e.g. owner, designer, general 3233  contractor, subcontractor, material supplier, etc.) differ for each project.
+36 2.3 Factors Affecting Quality in Construction Management Reliab
+39 	In  construction  projects,  there  is  a  need  for  a  framework  for  evaluating  quality  to  assist
+40 	construction clients in selecting quality-oriented organizations that will provide higher quality
+42 products and processes within budget and on schedule (Idrus and Sodangi, 2010, Dina et al.,
+Porter and Parker (1993) stated that in managing quality, some organizations focus on
+4445  	specific areas such as training, leadership, and benchmarking while others take a holistic
+47 	approach for quality factors. Haupt and Whiteman (2004) have conducted a study in the U.S.A
+4950  commitment and involvement, customer satisfaction, planning, participative managementity style,  48 through a literature review and a survey of contractors to identify factors (e.g. management
+52 continuous improvement measurement, rewards for quality contribution, and training of M
+53 workers) affecting the operations of a construction jobsite. Pheng and Hong (2005) have done a
+5455  	study in Singapore which involved the participation of project managers in the construction
+57 industry. A survey was used and the respondents generated eight factors and the relative
+58 importance of each factor was determined. For example, the first factor in order of priority was 59
+60 	total commitment .Second, was strategic quality management, and followed by customer-driven
+service, eliminating rework, teamwork, and training, empowering and respecting people. Furthermore, Lam et al. (2008) have explored the extent of quality in Hong Kong large-sized
+public building contractors. They concluded that the contractors should pay more attention first to the factors of strategic planning, human resources management, and leadership in order to
+67	attain the goal of continuous improvement then to the factors of process management, customer
+9 	and market focus, measurement, and analysis and knowledge management.
+12 Previous  studies  highlighted  the  factors  affecting  the  quality  of  construction. Each  study has
+13 contributed  to  identifying  some  factors  affecting  quality. However,  there  are  few  published
+15 works that comprehensively address the factors specifically affecting the quality of construction
+16 in different parts of the world. Researchers still differ in their perceptions as to what should be
+1718  	emphasized most among the different factors affecting quality. Moreover, few studies have been
+20 conducted in the Middle East regions that are addressing quality factors in construction.
+21 Fourteen quality frameworks for construction industry have been promoted by different authors,
+2223  	for the purpose of establishing construction quality factors in this study. A detailed analysisQualit	 of
+24 25 	the frameworks is carried out and presented in Table 1.
+Analysis of Quality Frameworks
+31 A  careful balance  between  the  owners  requirements  of the  project costs and  schedules, desired
+32 operating  characteristics,  materials  of  construction,  etc.  and  the  adequate  time  and  budget to
+34 	meet those requirements during the design process is essential. Owners  balance  their
+37 constructor is responsible for the means, methods, techniques, sequencesReliab, and procedures of
+39 construction, as well as safety precautions and programs during the construction process. Project 41 requirements are the key factors that define quality in the process of construction. After a review il
+42 	of  the literature on quality factors in construction,  it appears that not all the factors have the
+44 	same frequency and importance but they complement one another. Accordingly, relying on the
+46 previous research findings about factors affecting quality in construction, this study uses  13
+47 quality factors as the most relevant. Table 2 lists the most important factors  and  literature
+49 	support, where definitions of the factors are provided.
+A List of Quality Factors and Literature Support 52 	M
+Due to the dearth of real data relating to quality in the Jordanian housing projects, the
+researchers use an exploratory method to identify the most  related quality factors. The present
+7 	aim of this study was  identified: factors affecting quality in the  Jordanian housing sector and
+9 their relative importance. This exploratory research includes two phases of extensive  review of
+10 the literature and a survey questionnaire by personal interviews in the housing sector in Jordan.
+12 The research design started with identifying a research problem, and then it provided a review of
+14 the available literature in order to understand previous research in quality and relevant fields. 15 This has led to a determination of the key aim and objectives, and then providing the initial 16 17 conceptual framework for quality factors.
+
+The survey was conducted by means of structured personal interviews within two months
+21 	(September and October, 2013), carried out face to face for checking the information accuracy,
+23 and developing an understandingQualit of quality factors based on the designed questionnaire.
+24 the interviews, interviewees were briefed on research problem, research objectives and quality
+26 	factors. The interviews were conducted at the premises of the selected companies that agreedy 	 to
+28 participate. The questionnaires were answered by contractors and architects who were in charge
+29 of quality awareness to ensure that the respondent has the necessary knowledge to respond.
+31 	the companies included in the survey were located in Amman due the constraints of time and
+Amman is considered to be the main economic hub of the country, and 77 % of the housing
+34 projects are concentrated there (JEA, 2013).Most of the survey questions were adopted from
+36 	previous literature that had been used to determine the factors affecting quality in  construction.
+38 	The questionnaire was made of two parts: the demographic information of respondents  and Reliab
+41 measure on a five-point likert scale to ensure consistency and the ease of data computation. The il quality factors. The importance of factors affecting quality was measured using a perceptual
+43 perceptual measures are in the form of attitude statements with (1 = totally disagree,  2  =
+44 generally disagree, 3 = somewhat agree, 4 = generally agree, and 5 = totally agree).
+46 	important to have a valid instrument for measurement, so the process of developing the
+
+48 	questionnaire ended with a pre-test, which were used to modify and eliminate a number of
+However, it was found to be valid on the basis of our study. The list of ISO 9000
+50 51 	certified companies (as of June, 2013) was obtained from Jordan Institution for Standards and
+53 Metrology. This list contained the name, telephone and fax number and the certification body for
+283 certified firms in Jordan. Of these firms, only four of them  are  construction  firms.
+56 	Companies that were  ISO 9000 certified were  used in the population to capture the benefits and
+58 	to ensure the maturity of the system in the firms.
+An exploratory pilot study was conducted at Jordanian Engineering Association (JEA), Jordan Construction Contractors Association (JCCA), Ministry of Public Work and Housing, Ministry
+of Industry and Trade (MIT), to seek out detailed information regarding the potential
+participants constituting the housing sector in Jordan. The population of the study consists of
+67	working contractors and architects in the Jordanian housing sector obtained from the lists of
+9 	JEA, JCCA and MIT. These lists were carefully verified and cross-checked to ensure complete
+10 	and up-to-date information, as follows:
+13 	Contractors: contracting companies are classified by Ministry of Public Work and Housing into
+15 	six classes according to their capital, and their experience in completing projects with a 16 	minimum total value. As considerably meeting in JCCA, the classes which usually take the
+
+18 	housing projects are classes D and E as summarized in Table 3 which comprise 243 companies
+22 	Table 3. Classes of Contractors
+25 	Architectural firms, consulting companies and engineering offices: they represent a number of
+27 	1198 companies and offices (JEA, 2013). According to the JEA, architectural firms, consulting
+29 companies and  engineering offices share  similar architectural  activities; thus they are   classified
+30 under the same category. This point was taken into consideration when the population of the
+32 study was selected, and for the purpose of the study, the researchers chose 85 companies and
+33 offices of  which  their  capital  exceeds JOD  10000  (MIT,  2013; JEA,  2013).The  sampling was
+3435  	confined to specific types of companies conforming to& the criteria  set by the researchers:
+37 contracting companies where their capital between JOD 20000 and JOD 50000 (class D and E)
+38 and architectural companies with capital in excess of JOD 10000.
+41 	The researchers followed a census sampling approach "whereil the  sample size equals the
+43 population size" .Therefore the sample size for contractors equals 243 while the sample size for
+44 the architects is 85.The response rates were: 61.2 % and 22.6 % for architects and contractors
+4546  	respectively. This study implemented a number of statistical techniques and procedures to
+48 answer the questions of study. Descriptive statistics and reliability analysis were carried out to
+49 estimate the internal consistency of items, where Cronbach’s coefficient, α, was selectedity for this
+5051  	test. Then, t-test (one-tailed) at 95 % confidence level was conducted among the means of
+53 responses from the two groups (contractors and architects) to check any significant differences
+54 among the groups’ perceptions regarding the importance of various factors. All statistical
+5556  	procedures were estimated using Statistical Package for Social Sciences (SPSS) version 15.0
+58 (Gerber   and Finn,  2005). In order to increase the validity of the research findings, the
+59 researchers also use cause-effect diagram (Fishbone) in the analysis procedure in order to
+explore the theoretical links of the factors affection quality in the Jordanian housing sector. “The Fishbone Diagram” is easy to use and is an effective cause-and-effect technique. The diagram
+refers to its use in identifying the causes of various quality characteristics, including problems
+(Ozeki and Asaka, 1990). This type of analysis will illustrate the most important quality factors
+67	and their variables in order to support the new proposed conceptual framework for this study.
+Results and Discussion
+15 The  responses  indicated  that  the  majority  of  contractors  who  participated  in  the  study  were
+16 100% male and 49.1% with ages ranging between 41 and 50 years old. The contractors were
+
+18 	well experienced professionals and were able to give reliable data. The respondents over five
+20 years of experience in the construction industry were 89.9% and over 49.1% of them had over a
+21 ten years’ experience. All of the respondents have graduated from high school  and  72.7%  of
+23 	them hold bachelor degrees. Amongst the architectural companies, the large proportion is 65.4% Qualit
+26 	about 55.8% were less than 40 years, 78.8% of them hold bachelor degrees, and 15.4% of the y 25 	of the respondents which were male and 34.6% were female. The statistical results  show that
+28 	participants have completed graduated studies. About 11.5% of the respondents had less than 5
+30 years’ experience, 21.2% between 6-10 years, 55.8% between 10-15 years, and 11.5% over 15
+
+34 	4.1 Validity and Reliability
+36 	An instrument has content validity if researchers agree that the instrument is made up of a group Reliab
+38 	of items covering the issues to be measured. The researchers utilized the available literature to
+41 with five Jordanian academic people in order to ensure technical accuracy and clarity and to il
+43 	improve the questionnaire. The internal consistency method was used to measure construct
+45 reliability by the use of Cronbach’s alpha. In the present research, the coefficient of Cronbach’s
+46 alpha for all factors was 0.82. This indicates a high level of reliability which is above the
+49 	the Jordanian housing sector was determined by taking the respective average scores ofity the  48 	recommended minimum level 0.60 for social sciences. The ranking of factors affecting quality in
+5051  	reported data for all respondents, as shown in Tables 4, 5 and 6 respectively.
+54 Table 4. Ranking of Factors from the View Point of Contractors 	M
+55 Table 5. Ranking of Factors from the View Point of Architects
+56 Table 6. Ranking of Factors from the View Point of Contractors and Architects Combined
+The homogeneity of variance must be examined to know if the variances  assumed are  equal  or not at significance ‘p’ of 95% (α = 0.05), then t-test is conducted. For this purpose, the researchers examine these statistical hypotheses, if significance ‘p’ value is less than 0.05;
+6	reject the null hypothesis (H0), implying that the variances are unequal.
+8 ournaH01: there is no difference in variances of contractors and architects (σ1= σ2) (equal variance) 7
+there is difference in variances of contractors and architects (σ1≠σ2)
+12 The results of homogeneity of variance for the highest and the least common factors are 13
+14 	demonstrated in Tables 7 and 8, respectively.
+16 Table 7. Homogeneity of Variance for the Three Highest Factors Ranked according to 17 Contractors and Architects Combined.
+
+18 Table 8. Homogeneity of Variance for the Three Lowest Factors Ranked according to 20 Contractors and Architects combined.
+
+26 	The t-test was carried out fory the  three highest factors from the view point of both contractors
+28 and architects combined: human resources management, customer satisfaction, construction
+29 specific factors, and the three lowest factors combined: strategic management, continuous
+31 	improvement, and resources. Null hypothesis: i.e. there is no significant difference in
+33 	the mean of population between contractors and architects for the highest quality factors.
+34 	Alternative Hypothesis: i.e. there is a significant difference in the mean of population 38 	for the most common highest and lowest factors in Tables 9 andReliab 10.
+36 	between contractors and architects for the highest quality factors. The result of the t-test is given
+41 	Table 10.   t-test for the Most Common Lowest Factors. il 40 	Table 9.    t-test for the Most Common Highest Factors.
+44 	4.3 The Highest Three Factors
+46 47 	In this research, human resources management is the first highest factor from the view point of
+
+48 	contractors and architects combined. However, there is no significant difference according to the
+50 	mean of overall averages of the contractors and architects concerning this factor. Table 11 shows
+52 that this factor (education and training, involvement, and teamwork) is considered as the most
+53 important factor which affects quality in many countries.
+56 	Table 11. Supportive Studies of Human Resources Management.
+Research results have revealed that education and training are the most important elements affecting quality. This result is in agreement with the conclusion drawn by Chan et al.(2006),
+Lam et al. (2008) and Lai and Cheng (2003) in Chinese companies where it was conducted for public housing. It is in agreement with pheng and Hong (2005) in Singaporean companies from
+67	the view point of contractors. The result also is in agreement with the study of Sharmma and
+9 	Gudanne (2002) in Australlian construction companies that stated that they had an on going
+1112  l Gunaydin (1997) emphasized that training should be targeted to every level of the company and 10 quality training programmes as an important quality strategy. In the U.S.A, a study by Arditi and
+14 in all stages of construction. Findings from an Egyptian survey in 1998 by Abed-Razek reflected
+15 that the most important factor was up-grading for the current training methods.
+17 	project team (contractor, subcontractor, supplier, designer, project manager,  and customer) must
+19 	be involved in the quality process (Pheng and Teo, 1996). Severof 	al authors have suggested the
+21 	importance of involvement in decision making which enhances the individuals’ self-esteem and
+22 improves ability to solve problems (e.g. Metri, 2005; Fotopoulos and  Psomas,  2009). Each 24 project also requires an effective teamwork on jobsite where both the construction managers and 26 workers require a paradigm shift to team approach which will lead to a better support to all y 25
+27 	members (Hellard, 1991; Haupt and Whiteman, 2004; Pheng and Hong, 2005).
+30 	Customer Satisfaction is the second most important factor. It is not surprising that most 31 	respondents understood the importance of customer satisfaction and emphasized the satisfaction
+33 	of customers in support of overall quality. Also, there is no significant difference in the mean of
+35 	responses of contractors and architects regarding this factor (Table 12).&  34
+37 	Table 12. Supportive Studies of Customer Satisfaction.
+40 	As shown in Table 12, this study is in agreement with studies of U.K, U.S.A,  Singapore, il
+42 	Malaysia, India, Australia, and China. In construction, quality consciously focuses all parties to
+44 the common goal of systematically identifying and meeting the customers’ requirements as the
+45 superordinate goal where customers’ requirements are increasingly complex and expectations
+47 	uncertain. However, a large proportion of migrant labor may exacerbate these difficulties,  and
+49 the application of quality can become difficult (Pheng and Wei, 1996). Customer satisfaction is ity 48
+50 achieved by ensuring that drawings and specifications are communicated to the  rest  of  the
+52 	parties, should there be any changes. The parties affected by the changes can then promptly
+54 	adjust their information and help to reduce the amount of time wasted.
+Construction specific factors were ranked as the fifth highest factor from the perspective of contractors and the fourth highest factor of architects, and the third highest factor on average.
+This shows that most of the contractors and architects know the value of construction specific factors and use it to improve the level of quality. This really implies the awareness of specific
+67	factors such as the construction industry officials, associations, and governments.
+9 agreement with findings of (Arditi and Gunaydin, 1997; Abdel- Razek, 1998; Lau and Tang,
+10 2009) as shown in Table 13.
+13 Table 13. Supportive Studies of Construction Specific Factors.
+16 	Companies that pursue construction specific factor will be able to reduce total quality cost and
+19 Contractors and architectsof should  investigate the source of the specified requirements, namely, 18 improve product quality in the long run (Arditi and Gunaydin, 1997; Wanberg et al., 2013).
+21 	the current standards and codes of practice as well as the specifications, since these may be
+23 ambiguous in certain aspects,Qualit and so difficult to conform to. Additionally, the consensus is that, 22
+24 in Jordan, contact with the government is basically done to obtain certain permits.
+26 	usually done at both the earlyy and  the late stages of the project which indicates awareness of the
+28 importance of construction specific factors. In the case of this survey, it can be clearly shown
+29 that there is a significant difference between architects and contractors, where architects give 30
+31 	higher concern regarding this factor.
+35 enhance quality practices, as stated in the study conducted in Singapore (Pheng and Wei, 1996). & 34 Therefore, contractors should pay more attention to construction specific factors in order to
+37 	The contractors, nevertheless, pay more attention to completing the works on schedule and
+39 controlling the costs within budget than to achieving quality in construction. One reason for this
+40 might be that the contractors cannot plan and control the  works; they lack the skills to  interpret il
+42 	the design and cannot provide the end products on site in accordance with the design and
+44 specifications. Another reason is that the designers do  not consider the  “build ability”  problems
+45 in design. Designers are sometimes unaware of the difficulties contractors experience on site.
+47 	Consequently, contractors do not realize that it is not the quality that costs but rather the non-
+49 	conformance to quality that is expensive. 	ity
+4.4 The Lowest Three Factors
+The lowest three factors in ascending order are resources, continuous improvement, and strategic management. Resources are the least important factor affecting quality in the Jordanian housing
+8 ournaranked as ninth of those important factors from the  view point of architects. Moreover,  there is sector. It is viewed as the least important from the perspective of contractors. This factor also
+10 no significant difference according to the mean of the overall average of the respondents.
+supported studies are summarized in Table 14.
+14 	Table 14. Supportive Studies of Resources.
+17 	There is disagreement in our research with the study of Hellard (1991), where he stated that 19 	managers must organize their resources of men, materials, machines,  methods,  and  money of 18
+20 	within the framework of the law on one hand, and within the established customs and practices
+22 	on the other – to achieve a balance and harmony through which the  stated objective  of  the
+24 	client’s building can be economically achieved. We agree with Both Metri (2005) and Abed-
+25 	Razek (1998), they showed little relative importance of the resources factor to improve
+27 	construction quality and concluded that it is a well-known fact that resources are mainly a part of
+29 	top management commitment and partially of other factors.
+31 	The contractors and architects appeared to agree statistically on the relative importance and
+33 ranking of the continuous improvement. These results are in agreement with the outcomes of the
+34 research conducted in India by Metri  (2005) which &revealed  that a continuous improvement
+36 	(benchmarking and statistical process control) are presented in very few frameworks inReliab literature
+38 review, and they are the techniques used normally for process improvement. In the real sense,
+39 they are not considered as important factors; they are part of the routine process management.
+41 	Hellard (1991) argued that use of statistical methods has relatively very little effect onil 	 the
+43 quality of construction projects and that individual construction projects are unique and can
+44 eliminate the potential for any kind of statistical process control. However, there is a clear 45
+46 	disagreement with studies summarized in Table 15.
+49 	Table 15. Supportive Studies of Continuous Improvement 	ity
+52 As shown in Table 15, statistical techniques and benchmarking are the least applied tools in
+53 some countries,  but  widely used  in  specific countries   where  quality was  previously developedM
+55 and considered as one of the most important factors, such as U.S.A (e.g. Arditi and Gunaydin,
+The previous work emphasized that continuous improvement will yield excellence in design and create teamwork. This quality factor is still not applied in Jordan in an integrated way and a little
+awareness regarding this new approach. The previous studies stressed the importance of quality improvement and measurement of product improvement. For example, statistical methods (e.g.
+67	histograms, cause and effect diagrams, check sheets, Pareto diagrams, graphs, control charts, and
+9 scatter diagrams) provide problem-solving tools to the quality process (Arditi and Gunaydin, 1112   competitors and the high performing companies for improvement. 10 1997). Benchmarking is also researching and observing best competitive practices of direct
+15 Strategic Management was ranked as the tenth important factor according to contractors and
+16 eleventh lowest according to architects and twelfths lowest on averages. This result is in
+
+18 	disagreement with findings summarized in Table 16. Moreover, there is significant difference
+20 	between the contractors and architects.
+22 	Table 16. Supportive Studies of Strategic Management
+25 	Table 16 illustrates that construction companies in Singapore and Hong Kong regarding public
+27 housing were in fact leading other countries in the area of strategic planning; perhaps other
+28 countries can use the public sector as a benchmark. Strategic planning is essential for integrating
+2930  	quality requirements and target improvements in the whole process and to examine how the
+32 company develops and deploy strategic objectives and action plans, including short and long
+33 term planning and analyzing collected data. Some immediate measures should be taken to
+3435  	increase awareness regarding new management approaches for better quality strategies and
+42 The findings related to the quality factors are generated from the literature review and the 43 questionnaire analysis. The factors are analyzed from the view point of the contractors and
+45 	architects combined to gain a full-understanding of quality factors’ importance in the Jordanian
+47 housing sector. The Fishbone diagram illustrates the importance of these factors to the quality
+48 concept as seen in Figure 1.
+International Journal of Quality & Reliability Management 	Page 14 of 28
+Conclusion and Contributions
+8 In this research, the concept of quality can be defined from the viewpoints of contractors and architects Journ
+9 combined as: al how closely the project conforms to its requirements and meeting the requirements of the
+11 	designer,   constructor,   and   regulatory   agencies   as   well   as   the   owner. This   research contributes
+13 theoretically  in  providing  a  conceptual  framework  for  quality  factors  in  the  quality  field.
+14 illustrates the 13 factors showing the highest and lowest quality factors with business involving housing
+16 	sector.
+

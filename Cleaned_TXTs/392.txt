@@ -1,0 +1,223 @@
+Assessment of critical factors influencing the performance of labour in Sri Lankan construction industry
+To cite this article: Kesavan Manoharan, Pujitha Dissanayake, Chintha Pathirana, Dharsana Deegahawature & Renuka Silva (2023) Assessment of critical factors influencing the performance of labour in Sri Lankan construction industry, International Journal of Construction Management, 23: 1, 144-155, DOI: 10.1080/15623599.2020.1854042
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Assessment of critical factors influencing the performance of labour in Sri Lankan construction industry
+Department of Civil Engineering, University of Peradeniya, Peradeniya, Sri Lanka; Department of Construction Technology, Wayamba
+The performance of labour is one of the most important factors affecting the physical progress of any construction project. This study intended to extensively investigate on the factors influencing labour performance in the Sri Lankan construction industry. A qualitative study conducted from a literature review and a series of interviews revealed 117 factors under 6 categories. Subsequently, a questionnaire survey was carried out among the construction firms in Sri Lanka and the responses were received from 217 contractors. Overall, 73 factors were identified as critical based on their Relative Importance Index values. Lack of training facilities, delay in salary payments, lack of labour motivation, low salary for labourers and poor performance evaluation of labour skills were found as the top five ranking factors. This study also highlights the need for training programmes that contain the direct scope of productivity improvement, and identified the expected programme outcomes for the effective design of new training programmes to improve the practices on labour operations. The findings of this study are expected to be useful to the Sri Lankan construction industry in effectively upgrading present practices. Some of these findings may also be tested in other developing construction industries in similar scenarios.
+Labour performance; productivity improvement; construction industry;
+Introduction
+The construction sector plays a significant role in the economic growth of a country. Productivity is one of the important aspects of the growth of the construction sector. Improvement in the productivity of the construction industry is considered as a significant contribution to the Gross Domestic Production (GDP) of any country (Serdar et al. 2013). The key to productivity improvement is not to complete as many tasks as possible or to maximize workload, but it is very important to focus on maintaining a predictable work flow (Biren et al. 2017). Aki et al. (2011) stated that productivity mainly depends on performance, while the performance covers both economic and operational aspects of an industry.
+Completing projects on time within the budget is an indicator of efficiency, but the construction process is subjected to many factors that result from many sources. These sources mainly highlight the performance of labour (Sadi and Sadiq 2006). The performance of labour is one of the crucial aspects of labour productivity that requires proper attention to the effective delivery of projects in the construction industry. Low performance of labourers has been seen to be a major factor that contributes towards inefficient productivity (Alhaji et al. 2017). The skills and experience of the workforce, management, job planning, workers motivation and material availability are the major drivers of labour performance (Shahriyar and Fereydoun 2008).
+In Sri Lanka, the post-war-era has been increasingly stimulated and attracted the government’s attention as well as private sectors to invest heavily in large scale capital projects. The construction subsector has recorded an impressive growth based on the statistics. This construction industry expansion creates great opportunities as well as great challenges. According to Silva et al. (2018), one such challenge of the industry is the low performance of labour. In addition, skill shortage is one of the important factors that yield notable impacts on the labour performance since the quality of trained people coming out from the training institutions are not up to the expectations of the industry. Any improvement in the performance of labour cannot be achieved without understanding the factors that adversely affect labour performance (Anurag and Amit 2015). The importance of the research activities on improving labour performance was identified as one of the major strategies which must be implemented in the construction industry (Henny and Moh 2012). Studies that attempt to excessively investigate on the labour performance and improving practices in the construction industry are highly limited in Sri Lanka. This study is focused on to identify the factors which highly influence the performance of labour in the Sri Lankan construction industry and to propose practices for improving labour operations.
+2020 Informa UK Limited, trading as Taylor & Francis Group
+In general, the technical officers, supervisors and assistant engineers are the human resources who directly contact the labour force in the construction activities. On the other hand, engineers, managers and directors do not directly involve in handling labour operations. The perceptions of performance may vary among people based on their type of work experience resulting severe impacts on their decision making process (Elyas et al. 2017). As emphasized by David (2008), there are differences in perceptions in itself important as attitudes towards performance that may have an influence on behaviour. This study also intended to identify the differences in perceptions on the factors influencing labour performance among Director/ Managerial/Engineer (DME) level and Assistant Engineer/ Supervisor/Technical Officer (AST) level working categories.
+The performance and productivity of labour force in the construction industry have been a focus of several studies around the world in the recent past. Abid et al. (2018) had undertaken a comprehensive systematic review of mainstream studies on factors influencing the construction productivity based on articles published between the years 1986 and 2016. According to Abid et al. (2018), there are noticeable differences in the social, cultural, economic, political and environmental conditions across different countries resulting in differences in factors influencing construction productivity. The review has also shown that the past studies have primarily focused on basic management factors and, thereby various physiological, psychological and social factors related to the construction workforce have remained unexplored.
+Table 1 represents the most recent, popular research articles which referred in identifying the factors affecting labour performance with the perspectives of the construction sector from different countries.
+In the Sri Lankan construction industry, the shortage of labourers, personal conflicts among labourers, low motivation and morale of labourers, inadequate experience of labourers and labour injuries were found as the major labour related issues (Kesavan et al. 2015). Widanagamachchi (2013) identified that construction workforce, difficulties in understanding technical drawings, temporary nature of the job, hardworking environment and lack of social recognition are the significant factors for the lack of labour motivation in the Sri Lankan construction projects. Fernando et al. (2016) revealed that most of the organizations do not follow a proper performance evaluation procedure on the labour force in the Sri Lankan construction sector. The skill shortage of construction workers was identified as highly influencing the performance of road construction projects in Sri Lanka (Wijekoon 2015). Skill shortage, poor supervision, inadequate supplying of materials, weather conditions and location of the project were identified as the significant factors influencing labour productivity in the bridge construction projects in Sri Lanka (Wijeratne 2004). In the case of Sri Lankan building construction projects, Halwatura (2015) revealed that poor supervision, lack of medical care facilities, overtime issues, job security, payment issues and ineffective communication are the critical factors affecting labour productivity.
+The literature of this study reveals that there is a need to upgrade the current practices on labour operations in the Sri Lankan construction sector. This study intended to identify a wide range of factors influencing labour performance through the approaches of qualitative and quantitative analysis methods for designing relevant practices and application methods towards the improvement.
+The sequential process of the methodologies used for this study is illustrated in Figure 1. A preliminary survey was conducted through a comprehensive literature investigation and a series of structured interviews to identify the significant factors influencing the performance of labour in construction projects. Interviews were also considered as very important to understand the current practices of the industry since there are not many recent studies that investigated on labour performance in the Sri Lankan construction sector. Subsequently, a self-administrated questionnaire survey was then carried out among the contractors in the Sri Lankan construction industry to measure the severities of the factors identified from the preliminary survey. The interviews and questionnaire survey of this study commenced in September 2019 and completed in March 2020.
+Literature investigation
+The potential journals were selected in accordance with their reputation and impact ratings as proposed in the methodology by Schweber and Leiringer (2012). Some research articles were used based on the recommendations from subject matter experts. Through popular online search engines ‘Google Scholar, ResearchGate and Scopus’ and library facilities, the titles and keywords of the articles were carefully studied. The keywords ‘construction’, ‘labour’ ‘performance’ and ‘productivity’ were specifically used, and abstracts were closely examined. The information was extracted from the selected articles and summarized in a table which allowed the authors to overview the data with good visualization. A total of 113 factors were identified through this literature survey.
+A series of structured interviews were conducted among the construction experts from the Sri Lankan construction industry. The interviewees were selected based on their types of experience in the construction field, especially expertise in handling labour operations in building, road/highway, bridge, water supply and irrigation construction projects. Directors, project managers, engineers, quantity surveyors, institutional experts, assistant engineers, supervisors and technical officers of such projects participated in these interview sessions. A total of 50 experts were interviewed where 42 of them were working in the category of DME level while the rest of them were working in the category of AST level. Among the interviewed experts, all of them had more than five years of working experience in the construction field where 84% of them had experience in the building construction works, 72% of them had experience in road/highway and bridge construction works, 66% of them had experience in water supply and irrigation works and 34% of them had experience in working with the foreign labour in construction. A total of 53 factors were identified through interviews.
+Among the interviewed professionals, 96% of the interviewees agreed that the performance of Sri Lankan labour is inadequate in the construction projects at present. Meanwhile, 90% of the interviewed professionals agreed that the skills of the Sri Lankan construction labourers are inadequate in the construction projects and 76% of them revealed that the construction companies/ organizations are not providing adequate facilities to improve the labour performance in Sri Lanka at present. Due to poor performance of labour, 70% of construction projects in Nigeria suffered delays (Odeyinka and Yusif 1997) and 90% of transport infrastructure projects had suffered cost overrun from both developed and developing nations (Flyvbjerg et al. 2002). Poor performance of labour was also highlighted as one of the most significant delay causes in the Sri Lankan construction sector by Kesavan et al. (2015).
+Sequential Process of the Study Methodologies for Identifying Critical Factors.
+Thematic analysis
+Thematic analysis method was applied to the data collected from the preliminary survey to qualitatively identify the significant factors influencing labour performance in construction projects. Thematic analysis is a recognized approach that can be used to investigate the views, opinions, knowledge, experiences or values of respondents from a set of qualitative data (Caulfield 2019). The common themes, topics, ideas and patterns that come up repeatedly were examined in the collected data using this method.
+The factors were grouped based on their characters and the codes were assigned to the factors based on their groups. These groups were referenced from literature (Brent and Leighton 2013; Mahamid 2013; Robles et al. 2014; Anurag and Amit 2015). The associated codes were identified to eliminate the repetition of factors. The characters and codes of the factors were then reviewed to produce the final set. A total of 117 factors under 6 groups were finally identified from the preliminary survey as shown in Table 2.
+A questionnaire survey was carried out among the construction firms in Sri Lanka to measure the severities of the factors identified from the preliminary survey. The questions were based on the Likert scale of five ordinal measures from 1 to 5 (1 being very low effect to 5 being very high effect). In order to validate the questionnaire survey and minimize measurement errors in the study, experts’ reviews and cognitive interviews were also conducted among 16 construction workers where 6 of them are in the DME level working category and the remaining are in the AST level working category. The questionnaires were revised considering the understanding level of these participants on the questions. The contractors were then found from the construction projects including building, road, highway, bridges, water supply, irrigation and dredging works covering all the provinces of the country as respondents.
+Snowball sampling method was used to find the respondents for the questionnaire survey. This is a non-probability sampling method and can be used when the samples with target characteristics are not easily accessible (Showkat and Parveen 2017). The survey was begun with a small population of known individuals and the sample was then expanded through them to identify other contractors who can participate in this survey.
+In Sri Lanka, the contractors’ registration is provided by the Construction Industry Development Authority (CIDA) under different grades based on the contractors’ financial capacity, technical ability and experience gained in the field. Only the construction firms who have attained a minimum ‘C4’ grade of CIDA registration were considered for this survey. The financial limit for ‘C4’ grade is between 50 million and 150 million Sri
+Factors influencing the performance of labour.
+
+Project Related (PR)
+Poor site layout
+Site location
+Type of construction process
+Sequence of the work
+Poor construction methods
+Lack of health and safety practices
+Excessive number of labourers
+Less number of labourers
+Workforce overtime
+Improper working time
+Extent of variation
+Design complexity and changes
+Clarity of the drawings and project documents
+High mobility
+Poor quality assurance and quality control in construction
+Unavailability of utilities
+Labour Related (LB)
+Lack of working experience
+Poor education background
+Lack of knowledge in construction works
+Poor ability of reading, understanding, speaking and writing
+Lack of thinking abilities
+Physical ability and fatigue
+Health problems
+Use of alcohol and drugs
+Ageing workforce
+Misunderstanding with other workers
+Late arrival, early quit and frequent unscheduled breaks
+Work overload
+Work dissatisfaction
+Inability to adapt to changes in new environments
+Changing nature of career expectation
+Less job interest due to family and society
+Other ways of earning money
+Management / Organization Related (MO)
+Financial difficulties of the owner
+Financial weakness of the contractor
+Inadequate financial policies of the government
+Lack of proper incentive
+Lack of motivation for labourers
+Lack of training facilities for labourers
+No labour rewarding mechanism
+Lack of job security for labourers
+Conflicting safety policies
+Poor supervision of labour operations
+
+
+Poor leadership skills of supervisors
+Poor relationship between labourers and supervisors
+Supervisor’s knowledge
+Poor performance evaluation of labour skills
+Lack of communication and cooperation between the parties
+Lack of periodic meeting with labourers
+Unclear instructions to labourers
+Supply chain management
+Ethical behaviour of managers
+Communication problems with foreign workers
+Lack of transportation facilities
+Lack of industrial researches
+Lack of medical care facilities
+Lack of food facilities
+Lack of accommodation facilities
+Technology Related (TE)
+Late issuance of design and drawing
+Rapid changes of technology
+Clarity of technical specification
+Materials and Tools Related (MT)
+Material shortage
+Quality of materials
+Quality of working tools and poor maintenance
+Environment Related (EN)
+Extreme weather condition
+Changing nature of the construction market
+Growth of self-employment
+Perception of the industry
+Ethnic characterization
+Social activities and entertainment
+Lankan Rupees according to Construction Industry Development Act No.33 of 2014 (National Registration and Grading Scheme for Construction Contractors Sri Lanka). It was found that a total of 450 contractors had the CIDA registration with minimum ‘C4’ grade in Sri Lanka, based on the database of registered contractors provided by CIDA.
+The questionnaires were distributed among the construction firms in Sri Lanka by post, direct handover and emails. A total of 222 responses were received, 5 of those were rejected due to incompleteness in responses and 217 responses were then considered for the analysis with a sampling ratio of 0.482. The data were directly collected and validated by the authors through rechecking with the respondents. More than 95% of the respondents had a minimum five years of working experience in the construction field.
+Table 3 demonstrates the detailed profile of respondents. The highest percentage of respondents were working in the building construction projects (71%) and in C4 grade contractors (49%). Referring to their job designation and working experience in the construction field, most of the respondents are in the DME level (57%) and respondents with 5-10 of working experience were dominant in the study sample.
+Relative Importance Index (RII) method was used to identify the impacts of the factors. Equation (1) was used to calculate this (Jarkas and Bitar 2012; Dinh and Nguyen 2019).
+
+represents the weight assigned to each factor by response ranges (In this study, 1 – Very low, 2 – Low, 3 – Moderate, 4 – High, 5 – Very high)
+represents the maximum weight given (In this study, A equals 5.)
+represents the total number of responses
+The higher RII value illustrates that the factor has high impact and significance on the performance of labour. The factors which have RII values of 0.7 or above, were identified as critical. To check the reliability and validity of the results, Standard Deviation (SD) and Coefficient of Variation (CV) were also calculated for each factor. The smaller SD indicates that the values given by the respondents are around the mean values.
+Detailed profile of respondents.
+No. of Responses
+Type of Distribution
+Direct handover
+CIDA Grade of Contractors
+(Financial Limit of the Projects - LKR in Million)
+Type of Projects
+
+Road/ Highway and Bridge
+Water Supply, Sewerage and Irrigation
+Dredging, Reclamation and Others
+Respondent Job Designation Category
+Experience in the construction field
+Less than 5 Years
+11–15 Years
+21–25 Years
+More than 25 Years
+Effects of top 3 ranking of factors in each group.
+
+
+
+BP, RHBP, WSIP and DROP
+
+Management/ Organization
+Materials and Tools
+Building Projects; Road/ Highway and Bridge Projects; Water Supply, Sewerage and Irrigation Projects; Dredging, Reclamation and Other types of Projects; Standard Deviation; Coefficient of Variation; Relative Important Index; Level of Effect;
+is known as the relative standard deviation and is defined as the ratio of SD to the mean (Solly and Gezani 2017).
+Spearman’s coefficient of rank correlation
+Spearman’s Coefficient of Rank Correlation was used to assess the agreements of observations between DME level and AST level working categories on the identified factors. Equation (2) was used to calculate this correlation (Manoharan et al. 2015; Windapo 2016).
+
+represents Spearman’s Coefficient of Rank Correlation
+represents	the	difference	between	the	ranks two variables n: represents the number of observations
+
+Severities of factors influencing labour performance
+Levels of effect corresponding to the factors affecting the labour performance were determined based on their RII values. Table 4 illustrates the top three ranking factors in each group with levels of effect, while Table 5 shows all the critical factors identified in each group based on RII values.
+Considering the project related category, 12 factors out of 24 were identified as critical. Poor working conditions, poor construction methods, unrealistic schedule, sequence of the work and lack of labourers were the top five ranking factors in this category. In the labour related category, 26 factors were identified as critical. Skill shortage, lack of thinking abilities, lack of knowledge, labour discipline and communication problems were recognized as the top five ranked labour related factors. On the other hand, a total of 31 factors were identified as highly influencing factors on the labour performance in the management/ organization related category. Lack of training facilities for labourers, delays in salary payment, lack of motivation for labourers, low salary payments and poor performance evaluation of labour skills were the five most recognized factors in this group. The impacts of all technology related factors were at a moderate level. Quality and poor maintenance of working tools, equipment delays and equipment shortage were the most significant factors that emerged in the materials and tools related category. These three factors had high impacts in the road/highway and bridge construction projects, where quality and poor maintenance of working tools was identified as critical in the building construction projects. Negative social attitude was the only factor identified as highly influencing the labour performance in the category of environment related factors, where extreme weather condition highly affects only in the building construction projects. Table 6 illustrates the top 10 ranking factors in overall and these were considered having the highest hindrance to improve the labour performance in construction by a number of studies over the past.
+Overall, the ranking of the groups is shown in Table 7. Labour and management/organization related factors were identified as the highly influencing groups on the performance of labour in the Sri Lankan construction projects. The effects of the other four groups were found at a moderate level. The project related group was identified as critical only in the building construction projects.
+Overall, the SD and CV values of each factor/group ensure the reliability and precision of these findings. Based on the range of CV values mentioned in the Labour Force Survey Guide 2020 of Canada, these findings were determined as potentially useful for the purpose of this study.
+Degree of agreement between the working categories on the factors identified
+The degree of agreement between DME and AST level workers was found for each group by calculating the Spearman’s Coefficient of Rank Correlation as shown in Table 8. The ranking of groups based on the perspectives of DME and AST level working categories are shown in Table 9. Overall, 94.3% of the positive degree of agreement was identified between these two working categories on the factors influencing labour performance in the Sri Lankan construction industry. This also ensures the inter-rater reliability of the findings of the study.
+Improving practices for the identified critical factors
+According to Muya et al. (2003), the effectiveness of the construction industry in each country depends on the quality of the workforce, education and training. But, the importance of the construction sector is not emphasized to a sufficient level in
+Critical factors in each group.
+
+Critical Factors
+
+Parviz et al. (2015); Shahab and Audrius (2018); Shreyanka and Ashwin (2019)
+Ranking of groups.
+
+
+(BP, RHBP, WSIP and DROP)
+
+Building Projects; Road/ Highway and Bridge Projects; Water Supply, Sewerage and Irrigation Projects; Dredging, Reclamation and Other types of Projects; Standard Deviation; Coefficient of Variation; Relative Important Index; Level of Effect;
+Comparision of top 10 ranked factors with past studies. the school education in Sri Lanka. These structural issues in the education system of the country were highlighted in the Construction Industry Sector Training Plan 2018  2020 of the Tertiary and Vocational Education Commission (TVEC) of Sri Lanka. Consultations with Industry Sector Skills Councils (ISSC) also revealed that many training programmes in public sector institutes do not address the needs of the industry. The meetings with the participation of relevant training providers also confirmed that there are no training courses found with the direct scope of construction productivity improvement. Further, it was revealed that new training programmes are required to be Table 8. Degree of agreement between DME and AST level workers for each group.
+
+Positive, High
+Positive, Very High
+Positive, Very High
+Positive, Very High
+Positive, High
+Positive, Very High
+Number of observations.
+Difference between the ranking by DME and AST level workers. q: Spearman’s Coefficient of Rank Correlation.
+Ranking of groups based on the perspectives of DME and AST level working categories, and degree of agreement.
+DME Level Workers’ Perspective	AST Level Workers’ Perspective
+
+In overall,
+Spearman’s Coefficient of Rank Correlation:
+Degree of Agreement between DME and AST Level of Workers: Positive, Very High.
+effectively designed especially for the supervisory level workers in the Sri Lankan construction industry.
+Considering the critical factors identified from this study and the current status of training programmes available for the industry practitioners in the country, it is recommended to introduce a new training programme for the construction industry practitioners. The purpose of this training programme is to improve the performance of the labour force through developing the competencies of the construction supervisor level workers who can directly apply the improving practices on the labour operations.
+There were several discussion sessions arranged among the industry experts and university academics to find out necessary improving practices on the labour supervision based on the critical factors identified from this study. Five university academics who had expertise in civil engineering participated in these discussion sessions along with four civil engineers, three site managers and three senior technical officers participated. All the participants had a minimum five years of working experience in the field and more than half of them had experience also working with foreign labour. Considering the critical factors identified in each group, the improving practices on supervision were proposed by the participants. Thematic analysis method was then applied to the proposed practices in each group. Conclusively, the following 20 practices were found as the expected Programme Outcomes (POs) of the training programmes to be newly developed for the construction supervisory level workers in Sri Lanka.
+After successfully completing the training programme, the participants should be able to;
+Demonstrate the ability of monitoring usage, storage, delivery and operations of construction materials and equipment (PO1)
+Demonstrate the ability of planning and managing the resources at the site effectively (PO2)
+Sequential Process for the Determination of Expected Outcomes of the Training Programme.
+Apply effective supervision methods on the labour operations at the construction site (PO3)
+Assist in developing budgets and estimates of the construction activities effectively (PO4)
+Demonstrate the ability of overcoming health and environmental related challenges during the construction activities (PO5)
+Implement the possible practices on improving labour performance in the construction projects (PO6)
+Carryout self-learning on modern theories, advanced technologies and practices related to construction works (PO7)
+Demonstrate competency-based training techniques for the labourers in construction (PO9)
+Instruct basic theories and applications of the construction principles to the labourers in construction (PO10)
+Provide experimental learning exercises to the labourers in construction (PO11)
+Assess the performance of labourers in the construction field (PO12)
+Implement the possible labour rewarding mechanisms in the construction sector (PO13)
+Apply necessary mathematical applications to solve related problems in the construction activities (PO14)
+Assist in conducting field investigations, surveys and tests required for feasibility studies of construction works (PO15)
+Maintain the records of the construction tasks and help in preparing the reports effectively (PO16)
+Demonstrate the ability of applying sustainable development and green practices on labour operations at the construction site (PO17)
+Be a good communicator and team player among the construction workers (PO18)
+Be a positive thinker to face the challenges effectively (PO19)
+Be a good guider for the labourers in construction (PO20)
+Figure 2 illustrates the sequential process for the determination of expected outcomes of the training programme. The mapping between the identified critical factors and 20 programme outcomes are shown in Table 10.
+Comparing with other related studies, this study has conducted an extensive and systematic investigation on the factors affecting labour performance and improving practices in construction
+Mapping between critical factors and programme outcomes identified.
+
+activities. The study has identified a wide range of significant factors through the approaches of qualitative and quantitative analysis methods, and proposed improving practices through a systematic approach.
+The study identified 73 factors as highly influencing the labour performance in the Sri Lankan construction industry. Lack of training facilities for labourers, delay in salary payments, lack of motivation for labourers, low salary for labourers and poor performance evaluation of labour skills were the top five ranking factors in overall. It was observed that there are no significant differences of ideas between different working categories on the factors affecting labour performance.
+This study strongly recommends that future studies should have more focus on various improving practices on labour performance in the Sri Lankan construction sector. The study also specifically highlights the need for improving training programmes in the Sri Lankan construction sector. Based on the industry’s requirements, the study has produced 20 Programme Outcomes (POs) to design new training programmes for the construction supervisory level workers whose level of competencies increasing from technician level to management level. At the end of the training programme, these supervisory level workers are expected to be competent in applying better practices on labour skills to improve the performance of labour in the construction projects.
+It is strongly recommended that the curriculum developers must consider these POs in designing effective training programmes for the construction supervisory level workers. For the efficiency of the detailed curriculum development process, it is also recommended to conduct an extensive investigation on the significant knowledge areas, skills and abilities (KSAs) of construction supervisors and labourers.
+The authors wish to acknowledge the construction professionals who actively participated in the interviews, questionnaire survey and discussion sessions in this study. In addition, Tertiary and Vocational Education Commission of Sri Lanka, Construction Industry Development Authority, University of Peradeniya and Wayamba University of Sri Lanka are also acknowledged for providing valuable support in the resource arrangements of this study.
+No potential conflict of interest was reported by the authors.
+The data that support the findings of this study are available from the corresponding author upon reasonable request.

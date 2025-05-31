@@ -1,0 +1,108 @@
+﻿Construction Management and Economics, 1992, 10, 69—80
+Unbalanced bidding on contracts with variation trends in client-provided quantities
+TONG YIZHE and LU YOUJIE
+Department of Civil Engineering, Tsinghua University, Beijing, China
+This paper examines unbalanced contract bidding, a strategyfor the allocation ofrates to unit quantities for the benefit of the bidder. A mathematical model is proposed which attempts to objectively exploit variation trends in client-provided quantities. It is shown that the model can be solved by two methods — linear programming and the maximum—minimum method. The maximum—minimum method is preferred for most real-world situations.
+bidding strategies, unbalanced bidding, cash flow, operations research
+Introduction
+Unbalanced bidding is concerned with the judicious allocation of rates to unit quantities in order to provide some increased benefit to one of the parties involved, usually the bidder. It is sometimes used in (Tong, 1989):
+(a) Unit-price contracts with variation trends in client-provided quantities.
+(b) Both unit-price and lump-sum contracts by judiciously increasing the unit price ofcertain items in order to inflate progress payments in the early stages of the contract and, at the same time, decreasing the unit price of other items to keep the total bid at a competitive level.
+(c) Staged or phased projects with a decreased bid in the first stage to improve the competitive power, followed by an increased bid in succeeding stages to make up the losses incurred in the first stage.
+Trial-and-error methods may be used for (b), and (c) has been shown to be essentially a problem concerned with securing the latter stage contracts by strategic means as yet without any mathematical treatment (Tong, 1988).
+Stark (1968) analysed the situation in which the bidder is interested in maximizing the present worth of a set of unit prices combined into a total bid price, subject to (1) bid constraints, e.g. the total bid price fixed in advance, and (2) unit rate constraints, e.g. for rock excavation rates to exceed those for earth excavation, rates to have maxima/minima values. Stark also examined the extension of this work to cases where the bidder had detected errors in client-provided quantities, proposing a linear programming method for its solution.
+Hughes (1982) has subsequently treated unbalancing as two distinct activities: (1)finance cost/cashfiow unbalancing, i.e. item rate manipulation to take into account finance cost and
+Green (1986) investigated the extent to which these two types of unbalancing were used in practice in a series of interviews involving three contractors and three consultants. Two of the contractors used cashflow unbalancing and considered the practice to be widespread, contrary to the consultants' views. None of the contractors unbalanced for finance cost purposes. Error exploitation unbalancing, however, was used by all the contractors, the opportunities for the practice being quite common because of 'blatant mistakes' in the bid documents. Apparently, the contractors' estimators detected the errors and subjectively adjusted the associated rate accordingly, the total bid value being maintained by an equal and opposite adjustment in the 'preliminaries' section of the documents.
+In a later paper, Green (1989) suggests that the current crude redistribution of values to the preliminaries could be replaced by a more sophisticated treatment with the use of a computer-based estimating system. The argument is made, however, that error exploitation unbalancing generally would be diffcult to apply . in a systematic and optimizing method (Green, 1989, p. 57).
+In this paper, we describe a method for error exploitation unbalancing that is both systematic and optimizing, relying on little more than the estimator's current ability to detect errors. First, the situation is described in which the bidder has alternative quantity estimates for two work items. This is formulated as an optimization problem with two constraints the total bid and range of unit price — from which a solution may be derived by linear programming methods. Extending this technique to a full bill of quantities, however, is diffcult — if not impossible — due to the complexities involved. To overcome this difficulty, a second method, the maximum—minimum method, is proposed, which uses an iterative approach to locate the solution. Finally, an example is provided to illustrate the use of the new method for error exploitation unbalancing.
+Bidding on unit price contracts with variation trends in client-provided quantities
+An important factor considered by contractors before deciding upon a unit rate is the reliability of the quantity stated in the bills of quantities (Hughes, 1982). Although the requirement to make judgements on the reliability of stated quantities is more critical in civil engineering work, where bills consist of 'approximate' quantities there are some commonly used building contracts which also allow the use of approximate quantities, and even bills of firm quantities usually contain quantities of a provisional nature (Green, 1986). A contractor detecting 'errors' resulting from unreliable quantities in the bills at the time of bidding may be able to gain extra profits by judicious rate manipulation or unbalancing (Green, 1989). The following example illustrates the concept involved.
+Consider a unit price contract with quantity errors in unit prices as shown in Table 1. The lump sum price of the two items based on their normal unit prices is:
+Quantity errors in two items
+Work		Unit price
+
+
+
+aUPA and UPB denote the unit price of items A and B respectively.
+Progress payments are usually based on the actual quantities of each item. Thus, if the bidder uses a mark-up value of UPA' for item A instead of UPA, he should receive more income than when bidding normally. At the same time, the bidder should consider two constraints.
+Bid constraint. The total bid price needs to remain competitive, i.e. the combined price of A and B shall be approximately equal to $180 000. Hence UPB should be reduced to accordingly to UPB'.
+Range of unit price. The range of the variation of UPA and UPB should not be too wide.
+then the new combined bid, S, is given by s 3000(40) (110/100) + 2000(30) (90/100) 186 000
+
+and this difference needs to be eliminated. Letting UPB' be 30(90/100) = 27, and UPA' be X, then
+which gives
+Thus the bid constraint can be satisfied. The unbalanced bid and expected income are shown in Table 2. Therefore, the expected extra income is:
+Unbalanced bid and expected income
+Work	item	Quantity (m 3 ) Unit price
+Data as expected
+In practice, the main points of this type of unbalanced bidding are:
+It is assumed that accurate quantities may be estimated by the bidder. If the bidder's estimate of the quantities is incorrect, he may suffer losses by using this approach. In the above example, let the actual quantity of item A be Y, and consider the inequality:
+in which case the contractor would suffer a loss.
+It is likely, however, that inaccuracies in item rate estimates will far exceed inaccuracies in quantity estimates, making the risks involved in the method of minimal consequence and obviating the need for an explicit risk representation.
+The range of unit price variation for unabalanced bidding should not be so wide that the client would reject the bid. This is clearly a matter ofjudgement for the bidder. The example assumes the acceptable range to be ± 10%, but it is likely that up to ± 5% could be used on occasions (cf. Beeston, 1975, reproduced in Green, 1989, Table 2).
+The trial-and-error method used in the example easily locates the solution if (a) the number of relevant work items is not too large, and (b) the expected extra income is not too high. Otherwise, an accurate method is necessary to obtain an optimal solution. This is presented below.
+Mathematical formulation
+Let qi (i = 1 2 n) be the client-provided work item quantities involved in the unbalanced bidding, and denote the vector Q as:
+Let ai (i = 1 2 n) denote the expected quantities corresponding to qi, their values calculated by the bidder, and denote the vector A as:
+Denote PI, Yi, li, ui as follows:
+Pi is the normal unit price of % , and the vector P is given by:
+is the undetermined bid unit price of related items. Similarly, the vector Y is given by:
+is the upper bound of Yi, determined by the bidder, and
+li is the lower bound of Yi, determined by the bidder, and
+Sometimes, there would be very few items with either decreasing or increasing expected quantities. In this case, some items without any expected variation may be considered, and the expected extra income maximized. Let these quantities be denoted as qi (i = s + 1, s +2, t), which should be chosen from items either in the early or late stages of construction (termed 'early' and 'late' items here).
+Then define r i = ai/qi where r | 2 r 2 > > rn. this means that the order shall be arranged anew as follows:
+
+The problem then becomes
+
+Evidently, the above formulation is a 'linear programming' problem and an optimal solution can be derived by using the Simplex Method.
+Defining X = Y —L, and rewriting Equations 14 with X instead of Y —L, we obtain:
+Obviously, the number of constraint equations is n+ 1, which is a great deal less than the 2n+ 1 constraints in (2), (3) and (4); hence the amount of calculation involved when using (5)—(8) will be reduced accordingly.
+The complexity of solving the problem by the Simplex Method is rather great, especially when n is very large. A new method was therefore developed by the authors to simplify the procedure. This is called the maximum—minimum method.
+A new procedure: the maximum—minimum method
+enables Equations 3 and 4 or 7 and 8 to be satisfied. Equations 2 and 6, however, may not be satisfied at this point.
+Consider the left-hand side of Equation 6:
+The right-hand side of Equation 6 can be written as:
+Let R denote this result.
+Defining A = R— S, there may be three cases for A, namely:
+To solve the problem, it is necessary to calculate A first, then take one of the following steps according to the value of A.
+In this case, Equation 6 is not satisfied. Thus let an early item with r = 1, say xs+l, be increased from 0 to
+
+then xs+l satisfies Equation 7 and the optimal solution is obtained, i.e.
+
+On the contrary, if
+then it is required that
+and let another early item Xi, say xs+2, be increased to
+If	satisfies Equation 7, the optimal solution is obtained as
+otherwise, repeat the same step until every Xi satisfies Equation 7, and Equation 6 is satisfied.
+In this case, all the constraint Equations 6—8 are satisfied. The optimal solution is:
+In this case, Equation 6 is not satisfied. Thus a unit price with r i > 1 is reduced. Let -Is, for example, be reduced first:
+
+the optimal solution is obtained as
+Otherwise another unit price with r > 1 is reduced as follows:
+If xs _ | 20, the optimal solution is obtained, otherwise it is necessary to repeat the above process until Equation 7 is satisfied before the optimal solution is obtained. To sum up, the unbalanced bidding method requires the following steps:
+Check the quantities of work items given in the client-provided bills of quantities, paying
+attention to earth work, pipe work, other outside work and works with large quantities. Then, find out all of the items with variation.
+Determine the normal unit price Pi ofthese items and their corresponding upper and lower bounds, and li. In general, consider
+Make a trial calculation of the total price, then adopt one of the following measures:
+(a) Compute the value of A on condition that Equation 6 or 2 could be approximately satisfied and then take corresponding steps to obtain the optimal solution.
+(b) On condition that the number of items with 1 is small, consider some work items with r 1 in the calcluation. Denote these items by qi, i=s+ 1, s+2
+Compute the value of A and adopt the corresponding method to obtain the optimal solution.
+Find the optimal unbalanced bidding solution for a unit-price contract with client-provided quantities of work items qi and unit prices Pi as follows:
+Check the quantities of work items according to drawings, etc., for the contract. It is found that the expected quantities of the preceding four quantities are as follows:
+Determine the upper and lower bounds of the above four unit prices:
+Make a trial calculation of total bidding price, assigning ul , , 13 and 14, and compare it with normal bid price, Pi to P4.
+This result shows that these corrections would reduce the total price. Consider now a fifth item in the early stage of construction with its data as follows:
+Computing the value of ri=ai/qi and arranging r i in decreasing order, gives:
+Now compute A = R— S
+Thus a certain item with A = 1, say the item s + 1, should be taken into account for compensation. By trial calculation with Equation 9, we obtain:
+Then calculate by trial another Xi of another item with r 1 < l, i.e. x4, which should be solved from Equation 11:
+
+Thus Equation 6 is satisfied, the optimal solution is obtained as follows:
+Therefore, the extra income would be
+In this case, therefore, 316 800 is the total bidding price of relevant items with normal unit pricing, and 327 184 is the total expected contract income.
+The total expected extra income by using this method is:
+Conclusions
+This paper describes an approach to error exploitation unbalancing, i.e. unbalanced bidding where client-provided quantities contain errors identified by the bidder during the bidding process.
+It is shown that the unit prices may be adjusted to gain advantage of the situation while still retaining the competitiveness of the overall bid. Two techniques are examined to optimize the results of this process. First, a linear programming formulation is proposed by which the solution can be obtained by the Simplex Method. Although working well for small-scale versions of the problem, the technique was found to be inadequate for most real-world situations. To overcome this, a new method was developed, called the maximum—minimum method, which utilizes an iterative method in a far more efficient manner than the standard technique.
+Although as yet untested, the technique is likely to be of real value in helping bidders to capitalize more objectively on a situation that is typical in contract bidding, and also provide an indication of the care needed in the production of client-provided quantities.
+The authors gratefully acknowledge the kind advice and recommendations given by an anonymous reviewer of an earlier draft of the manuscript.

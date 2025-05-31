@@ -1,0 +1,263 @@
+Analysis of craft workers' and foremen's perceptions of the factors affecting construction labour productivity
+To cite this article: Jiukun Dai , Paul M. Goodrum & William F. Maloney (2007) Analysis of craft workers' and foremen's perceptions of the factors affecting construction labour productivity, Construction Management and Economics, 25: 11, 1139-1152, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (November 2007) 25, 1139–1152
+Analysis of craft workers’ and foremen’s perceptions of the factors affecting construction labour productivity
+JIUKUN DAI1*, PAUL M. GOODRUM2 and WILLIAM F. MALONEY2
+CII, University of Texas at Austin, Austin, TX 78759-5316 and	Civil Engineering Department, University of
+Kentucky, 151A Raymond Building, Lexington, KY 40506-0281, USA
+Received 13 November 2006; accepted 28 July 2007
+Extensive studies have been conducted to examine the factors affecting construction productivity, but efforts have rarely been made to obtain craft workers’ input. A survey was administered to 1996 craft workers throughout the US to quantify the workforce’s perspective of construction labour productivity. Specifically, the survey measured the impact of 83 productivity factors, which had been identified through 18 focus group sessions with craft workers and their immediate supervisors on jobsites located throughout the US. Craft workers provide detailed insight into the factors affecting their daily productivity, and most of the adversarial factors affecting construction labour productivity can be addressed by jobsite management teams. The major findings indicated that craft workers and foremen share a general perception of the factors impacting on construction productivity; however, differences do exist. Specifically, foremen reported factors related to project management and engineering drawings having a more severe impact on their productivity compared to craft workers, and craft workers reported factors related to construction materials as having a more severe impact.
+Labour productivity, workforce, site management, USA
+Introduction
+At any one point in time, construction productivity is affected simultaneously by various factors. Some factors are beyond the control of jobsite management, but many of these factors can be minimized through jobsite efforts. The opportunity for improving construction productivity clearly exists (Olson, 1982; Rojas and Aramvareekul, 2003). Focusing efforts on the factors with the greatest potential for productivity improvement rather than spreading efforts equally on all areas will maximize the opportunity for productivity improvement and efficiently improve construction productivity (Choromokos and McKee, 1981). Understanding the relationships among these factors and establishing their relative importance will improve the efficiency and effectiveness of construction productivity improvement efforts (Bernstein, 2003).
+Construction labour productivity is primarily affected by the ability of construction managers to
+plan, schedule and direct the work (Olson, 1982). Regrettably, management ineffectiveness is widely perceived as a principal cause for poor construction productivity (BRT, 1983; Sanvido, 1988). Consequently, there has been significant research on how to make management more effective in supporting craft workers at the jobsite (Haas et al., 1999). The majority of these studies have been conducted from management’s standpoint. Craft workers’ input and their perception of the factors that influence their daily productivity has rarely been sought by managers or researchers either because it takes time away from craft workers’ tasks that are to be done or because it is considered an infringement on management’s right to control the work (Oglesby et al., 1989).
+As the major player executing construction processes and activities, craft workers have a significant influence on construction labour productivity (Maloney, 1983). Oglesby et al. (1989) further clarified that it is important to know what craft workers need and what affects their performance in order to accomplish productivity improvement. In addition, craft workers
+*Author for correspondence. jiukun.dai@engr.utexas.edu
+are certainly in the ideal position to know where and
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2007 Taylor & Francis
+how much of a site’s productivity is lost or could be gained. It is important to obtain input from craft workers and foremen to improve methods and encourage two-way communication between craft workers and management (Borcherding, 1976). A lack of resources to do their work not only restricts craft workers from performing efficiently, but it also has a detrimental impact on their motivation. Therefore, understanding the factors influencing construction labour productivity from the workforce’s perspective will enable jobsite management teams not only to provide craft workers with better support but also to enhance their motivation.
+Research scope
+This paper examines how craft workers (including journeymen, apprentices and helpers) and foremen (including foremen and general foremen) differently perceive the factors affecting construction labour productivity. Specifically, this paper compares both the priority of the factors and the severity of individual factors between the two groups. In addition, the priority of these factors for both craft workers and foremen is compared against the findings of previous studies which also tried to prioritize the factors affecting construction productivity. The projects participating in this research were mainly industrial projects in the US. We had two expectations prior to conducting the research. First, in the construction industry, the job of foremen is a fluid position. A person may work as a foreman on one day and return to work as a craft worker the next (Federle and Maloney, 1992). Hence, it is reasonable to assume foremen and craft workers have similar opinions of the factors affecting construction labour productivity. Second, foremen, as the first level of construction supervision, are expected to plan, define and manage work, as well as communicate with craft workers and motivate them to achieve their defined goals. Therefore, foremen understand supervisors’ perspectives and typically receive significant pressure from upper management to improve their crews’ productivity. As a result, differences will exist between craft workers and foremen regarding the severity and ranking of the factors affecting construction productivity.
+There have been numerous efforts at identifying and classifying the factors that impact on construction productivity, with a few attempting to identify their relative importance. A US Department of Energy (DOE) study surveyed craft workers and foremen on 12 energy (nuclear or nuclear-related facility) projects during the early 1980s in order to quantify the various problems which reduced construction productivity at the jobsite (Borcherding et al., 1980; Borcherding and Garner, 1981). The major factors impacting on labour productivity were ranked as:
+(3) Work redone
+(4) Overcrowded work areas
+(5) Inspection delays
+(7) Crew interference
+(8) Craft turnover and absenteeism, and
+Engineering lead time was considered to have a major impact on many of these factors. Obviously, nuclear power plant projects have their unique challenges (for example strict QA/QC tolerances, complex design and frequent change orders), which did influence the DOE findings.
+Olomolaiye et al. (1998) investigated a group of bricklayers about the impact of a general list of problems on construction productivity in the United Kingdom. Lack of materials was identified as their most significant problem, followed by crew interference, rework, supervision delay, lack of equipment/tools and absenteeism. The reasons for the lack of materials were ranked in the following order: (1) lack of planning; (2) transportation difficulties within the site; (3) improper materials; (4) crew interference; and (5) extensive paper work. This ranking is moderately different from the findings of the DOE study mainly because of the different circumstances of the projects and the different crafts. The DOE study focused primarily on carpenters, electricians and pipefitters in the US, while the research by Olomolaiye et al. focused on bricklayers in the UK.
+Liberda et al. (2003) interviewed 20 industry experts to identify the relative importance of 51 productivity factors under the headings of labour (e.g. worker experience and skills, worker motivation), management (e.g. lack of detail planning, inadequate supervision and lack of information) and external (e.g. changes in drawings and specification, and project size and complexity) in Alberta, Canada. Management factors were found to account for half of the most critical 15 factors. Meanwhile external factors ranked relatively low.
+Black & Veatch Corp., a large US engineering and construction firm, administered a survey to 103 contractors and 340 union representatives in 2004 to prioritize the problems affecting labour productivity (Winston, 2005). Both contractors and union representatives shared similar opinions on the problems impacting on construction productivity and the need to make improvements. The union group listed poor communication as the most significant problem, while contractors considered the poor quality of construction documents as the same. Both groups reported that the lack of planning by field managers was a common failure. The survey also confirmed that many of these factors affecting construction productivity were controllable by management and supervisors on the jobsite.
+Different major factors were recognized by difference research, which is primarily because the factors affecting productivity vary by job, location and industry. Therefore, it is important to study construction productivity by choosing the projects appropriately. Even though different methods were used by these research efforts, these studies have shown that the most significant factors could be influenced by management. However, little if any input from craft workers was obtained, and the samples were often limited to a specific trade or a specific type of project.
+Motivation is the driving force behind all actions. Workers’ motivation significantly influences the determinants of workers’ performance (Hazeltine, 1976; Maloney, 1981). Workers will move towards the goal of increased productivity when the negative forces are eliminated or reduced, and the strength of the positive forces is increased (Maloney, 1983). Allowing workers to affect their work environment may be the most effective way to exploit the creativity of workers and improve both their productivity and the quality of their working life (Seltz-Petrash, 1980; Maloney, 1997). In fact, more than half of the workforce believed they had a right to share in decision making about issues that affected them (BRT, 1982b). Craft workers will be more willing to accept any changes that affect their working conditions when they have participated in the decision making or have been consulted in advance (BRT, 1982b).
+For our study, focus group sessions were initially used to document the major factors impacting on construction productivity from the workforce’s perspective, rather than identifying the factors based on the researchers’ knowledge or literature review. In an attempt to gain an industry-wide perspective, nine industry construction projects were selected from across the US with varying types of construction, union/nonunion work status, geographic location, status of completion and project size (Dai et al., 2005). All the projects were being built by or for member companies of the Construction Industry Institute (CII), which is a North American construction research consortium. In each project, researchers conducted two focus group sessions separately: one with craft workers and another with their immediate supervisors including foremen and general foremen. Eighty-three factors emerged from the focus group sessions and were categorized into 11 areas as shown in Table1.
+After the focus groups identified the 83 factors affecting craft workers’ ability to be productive, a survey was conducted to quantify the relative importance of these factors. In addition, a project information form was designed to collect project demographic information, as well as the information about project performance and project practices, which was completed by jobsite management teams.
+The craft worker survey consisted of three parts. In part one, respondents provided demographic information, including their union status, trade, position, age, education and training background. The second part asked respondents to indicate the frequency and severity of 26 factors. The frequency of each factor was rated on a seven-point Likert scale with 1 indicating as never happening and 7 indicating a constant occurrence. The severity of each factor’s impact on productivity was also rated on the seven-point scale, with 1 indicating no impact on productivity and 7 indicating an extreme impact on productivity. The third part of the craft worker survey investigated respondents’ agreement with 57 statements and their perception of the factors’ impact on productivity. These 57 factors were characterized as being very difficult to discretely quantify their frequency, since they would tend to occur on a continual basis if they were to be an issue. Likert scales can be subject to distortion. Respondents may mark the most neutral possible answer, agree with statements as provided, or try to choose the answers in favour of themselves or their organization. To address this potential bias, positive and negative worded issues were intentionally mixed to improve the quality of responses as shown in the example in Figure1. In order to help discussion in this article from this point forward, the factors investigated in the second part of the craft worker survey are simply called the frequency factors. Accordingly, the factors in the third part are called the agreement factors.
+Survey demographics
+Following a pilot survey effort, a number of candidate projects were identified from the CII member companies. Participating projects were selected based on a distribution of project characteristics including geographic location, union status, percentage of construction completion, and size. Reflecting the nature of CII member companies, the projects were primarily industrial in nature. For each participating project,
+Table 1	Factors affecting labour productivity
+N	Inadequate instruction provided by supervisors
+N	Lack of people skill on behalf of foremen
+N	Not receiving directions due to size of the project
+N	Unqualified foremen
+N	Not receiving compliments for doing a good job
+N	Unfair performance reviews
+N	Not being notified of mistakes when they occur
+N	Foremen not allowing crafts to work autonomously
+N	Lack of goals for craft workers
+N	Lack of construction knowledge on behalf of foremen
+N	Lack of authority to discipline craft workers
+N	Different languages spoken on a project
+N	Lack of proper resource allocation
+N	Disregard of crafts’ productivity improvement suggestion
+N	Lack of managerial and administrative support
+N	Lack of ‘big picture’ view on behalf of the crafts
+N	Excessive paperwork
+N	Craft worker importance
+N	Lack of communication among site management
+N	Shortage of personal protective equipment
+N	Lack of site safety resources
+Tools and consumables
+N	Availability of consumables
+N	Restrictive project policy on consumables
+N	Availability of hand tools
+N	Lack of people skill on behalf of superintendents
+N	Lack of experience on behalf of superintendents
+N	Disrespect for craft workers
+N	Micro-management on behalf of superintendent
+N	Political/performance competitions within company
+N	Availability of power tools
+N	Different work rules by superintendents
+N	Lack of power source for tools
+N	Lack of extension cords
+N	Inexperienced tool room attendants
+Out of sequence work assignments
+N	Misplaced tools
+N	Poor power tool quality
+Unreasonable project goals and milestones
+Disrespect for craft workers and foremen
+N	Availability of material
+Layoff qualified craft workers
+Unawareness of on-site activities and project progress
+N	Availability of bulk commodities
+Pulling people off a task before it is done
+N	Errors in prefabricated material
+N	Difficulty in tracking material
+Different pay scales for the same job on a project
+Lack of incentive for good performance
+Material storage area too far from workface
+N	Slow response to questions with drawings
+Insufficient size of material storage area
+Shortage of temporary facilities
+N	Needed information not on drawings
+Lack of coordination between the trades
+Incorrect crew size
+Lack of weather protection
+N	Unqualified craft workers
+N	Lack of pride in their work
+N	Availability of crane or forklift
+N	Lack of incentive to attend training
+N	Availability of manlift
+N	Demotivated craft workers
+N	Waiting for people and/or equipment to move material
+N	Less pay than the projects in a geographic area
+N	Improperly maintenance of power tools
+researchers contacted the project managers to explain the purpose of the research and the survey and to obtain their commitment to allow craft workers time during regular work hours to complete the survey. Project management teams distributed the surveys, collected the surveys and mailed them back to the researchers.
+The craft worker survey was completed by 1996 respondents from 28 projects across the US between the fourth quarter of 2004 and the first quarter of 2005. The 28 surveyed projects were different projects from those that participated in the focus groups. The top four responding trades were pipefitting (24.2%),
+electrical work (16.7%), carpentry (13.2%) and ironworking (8.6%). Among the participants in the survey, union and non-union craft workers account for 49.5% and 50.5% respectively. This near balance in the population is attributed to the industrial nature of the sampled projects. The majority of respondents were journeymen (56.1%), followed by foremen and general foremen (26.0%), apprentices (9.6%), helpers (7.2%) and others (1.1%). As shown in Table2, general foremen and foremen were older and had more years of construction experience than craft workers.
+Table3 presents the educational background of the survey respondents. The total percentage of all education attainment is greater than 100%, because many respondents had achieved multiple educational attainment goals. Foremen did not receive more off-the-jobtraining in comparison to journeymen. Inadequate supervision training of foremen results in decreased productivity and increased construction cost (BRT, 1983). Among the respondents, 12.6% did not graduate from high school. The educational attainment of the survey respondents is higher than that of the overall US population; the US Census (2000) reported that 20.3% of the overall US population over 18 years old did not graduate from high school.
+The respondents in our study were divided into six age groups (Figure2). The group of respondents between 40 to 49 years old accounted for 28% of the sampled respondents, followed by the group between 50 and 59 years old at 26%, and the group between 30 Table 2 Average age, years of experience by positions
+Years of construction experience
+Journeyman or fully trained worker
+Apprentice or trainee
+and 39 years old at 25%. The sampled respondents had an average age of 42. Rowings et al. (1996) administered a survey to 2285 craft workers also employed by CII member companies in order to examine broad demographic characteristics of the US construction workforce at that time. Figure2 also presents the age distribution of craft workers in the 1996 CII survey (Rowings et al., 1996). As is evident by comparing the age distribution of these two studies involving similar sample populations but in different time periods, there is trend towards an aging US construction workforce.
+The respondents in our study had an average of 18.7 years of industry experience. Figure3 shows that a majority of the craft workers (69.0%) had more than 10 years’ construction industry experience. The sampled craft workers of this research had more experience than the respondents in the 1996 CII survey (Rowings et al., 1996). The relative increase in experience would be expected of a relatively older workforce.
+Two indexes were used to rank and analyze the factors in the craft worker survey. For the frequency factors, the severity index was determined by the product of the frequency and severity scales according to Equation 1.
+Fi|Si severity indexfrequency factor~	ð1Þ N
+
+Fi5frequency given to a factor by number i respondent, ranges from 1 to 7; Si5severity given to a factor by the respondents, ranges from 1 to 7;
+Accordingly, the severity score is equal to the severity index divided by 49, the maximum value of the severity index, and multiplied by 100.
+Table 3	Education attainment and training by positions
+Vocational or technical school graduate
+High school
+Less than high school
+Off the job training
+Journeyman or fully trained worker
+Apprentice or trainee
+The agreement factors were ranked on a scale based on the weighted percentage of negative impact, and the weighted percentage of agreement or disagreement depending on whether the agreement factor was positively or negatively worded. The weighted percentage of disagreement (R) for a positively stated issue was calculated using Formula 2 with a maximum of 50 if all respondents strongly disagreed with the positively worded factor:
+
+A5the percentage of respondents rating the positive issue as 3 (mildly disagree);
+B5the percentage of respondents rating the positive issue as 2 (between mildly disagree and strong disagree);
+C5the percentage of respondents rating the positive issue as 1 (strongly disagree).
+Accordingly, the weighted percentage of agreement (R9) for a negatively stated issue was calculated using Equation 3:
+Rnegative issue~ðA0|1zB0|2zC0|3Þ=6	ð3Þ where:
+A95the percentage of respondents rating the negative issue as 5 (mildly agree);
+B95the percentage of respondents rating the positive issue as 6 (between mildly agree and strong agree);
+C95the percentage of respondents rating the positive issue as 7 (strongly agree).
+The weighted percentage of impact (I) for both positively and negatively stated issues was calculated using the following Equation 4 with a maximum of 50 if all respondents rated the issue as having a very negative impact on productivity:
+
+X5the percentage of respondents rating the impact of the issue as 3 (small negative impact);
+Y5the percentage of respondents rating the impact of the issue as 2 (between small negative and very negative impact);
+Figure 2	Distribution by age groups	Figure 3	Distribution by years of working experience
+Z5the percentage of respondents rating the impact of the issue as 1 (very negative impact).
+Finally, the severity index for the agreement factors was calculated by Equation 5.
+severity indexagreement factor~R|I	ð5Þ
+Accordingly the severity score is equal to the severity index divided by 2500, which is the theoretical maximum value of the severity index, and multiplied by 100.
+Regardless of the craft workers’ different backgrounds, Table4 lists the 15 factors which craft workers considered to be those having the greatest impact on construction labour productivity as measured by the severity score. The most significant factors were primarily associated with tangible issues, including construction equipment, engineering drawings, materials, tools and consumables. ‘My supervisor does not provide me with enough information to do my job’ was related to supervisor direction and ranked tenth in terms of the severity score.
+There is no doubt that these most significant factors primarily cause idle time for craft workers. For example,
+Table 4	The most significant factors
+
+Severity score*
+I have to wait for people and/or equipment to move the material I need.
+There are errors in the drawings that I use.
+When there is a question or problem with a drawing, the engineers are slow to address the issue.
+If I need a manlift to do my job, there aren’t any available.
+When I need a crane or forklift to help me, there aren’t any available.
+Tools and consumables
+I can’t get the consumables I need to do my job.
+Tools and consumables
+I have to search in a lot of places to find the tools I need to do my job.
+When I go to install prefabricated items, work has to be done on them to fix quality problems.
+Tools and consumables
+I can’t get the power tools from the contractor that I need to do my job.
+My supervisor does not provide me with enough information to do my job.
+Tools and consumables
+Project policy prevents me from getting the amount of consumables I need at one time to do my job efficiently.
+I can’t find the materials I need to do my job.
+Tools and consumables
+I can’t get the hand tools from the contractor that I need to do my job.
+When I need bulk commodities (such as bolts and fasteners, emery cloth, or stock lumber), I can’t find them.
+The drawings that I need to do my job are not available.
+craft workers wait for equipment, materials or consumables. Some other factors, such as misplaced tools and poorly fabricated material could result in no value added activities. Sometimes, project policy limits workers in not being issued the amount of consumables they need to complete their work productively. For example, on one project craft workers explained that they would be given one drill bit at a time when it was known that they needed at least three to drill one hole; so they’d have to constantly make long trips back and forth between the work face and the supply warehouse just to get one drill bit. Although jobsite management may have little control over engineering drawing issues, the other most significant factors, fortunately, are within the control of the jobsite management. Therefore, these major factors primarily can be eliminated through better planning, communication and coordination on the jobsite as suggested by the comments received from craft workers. Even drawing errors and engineering slow responses to drawing problems, which frustrated many craft workers in the mechanical trades, can be mitigated to some extent. In addition to addressing drawing errors through engineering qualifications and contract provisions, craft workers believed drawing errors could be mitigated through a design orientation for foremen during a project’s pre-construction phase.
+Major factors for craft workers versus foremen
+Table5 lists the 15 most significant factors for craft workers and foremen respectively, as well as their corresponding severity scores. A majority of these factors overlap between the two groups. Among the 10 most significant factors, the only difference between both groups is that foremen included ‘Project policy prevents me from getting the amount of consumables I need at one time to do my job efficiently’, while craft workers ranked the availability of material as one of their top 10 factors. Both craft workers and foremen identified their major factors as construction equipconsumables. Similar to the overall ranking, the most significant factors ranked by craft workers and their immediate supervisors were manageable on a jobsite.
+Top 15 factors of craft workers versus foremen
+
+Severity score*
+
+Severity score*
+I have to wait for people and/or equipment to move the material I need.
+I have to wait for people and/or equipment to move the material I need.
+There are errors in the drawings that I use.
+There are errors in the drawings that I use.
+When there is a question or problem with a drawing, the engineers are slow to address the issue.
+When there is a question or problem with a drawing, the engineers are slow to address the issue.
+If I need a manlift to do my job, there aren’t any available.
+When I need a crane or forklift to help me, there aren’t any available.
+When I need a crane or forklift to help me, there aren’t any available.
+I can’t get the consumables I need to do my job.
+I can’t get the consumables I need to do my job.
+If I need a manlift to do my job, there aren’t any available.
+I have to search in a lot of places to find the tools I need to do my job.
+I have to search in a lot of places to find the tools I need to do my job.
+When I go to install prefabricated items, work has to be done on them to fix quality problems.
+I can’t get the power tools from the contractor that I need to do my job.
+Project policy prevents me from getting the amount of consumables I need at one time to do my job efficiently.
+When I go to install prefabricated items, work has to be done on them to fix quality problems.
+I can’t get the power tools from the contractor that I need to do my job.
+I can’t find the materials I need to do my job.
+The drawings that I need to do my job are not available.
+My supervisor does not provide me with enough information to do my job.
+Project management pays monetary bonuses for good performance.
+When I need bulk commodities (such as bolts and fasteners, emery cloth, or stock lumber), I can’t find them.
+I can’t get the hand tools from the contractor that I need to do my job.
+I can’t get the hand tools from the contractor that I need to do my job.
+Power tools that I use on this job break down after little use because the company buys cheap, off-brand tools.
+Project policy prevents me from getting the amount of consumables I need at one time to do my job efficiently.
+My supervisor does not provide me with enough information to do my job.
+I have been delayed in my work because I have to wait for work permits (hot work permits, confined space permits, etc.)
+Analyses were conducted to examine how each factor impacts on construction productivity differently from the craft workers’ and foremen’s perspective. Even though a high degree of agreement was found between craft workers and foremen in their rankings of the factors affecting construction productivity, the respective severity scores indicate that craft workers and foremen perceived some factors’ impact on construction productivity substantially differently. Table6 presents the 15 factors that have the greatest difference
+The factors with the greatest difference between craft workers and foremen were primarily associated with project management, engineering drawings and materials. Among these 15 factors, 10 related to the factors’ impact on construction productivity are significantly different between craft workers and foremen at the 95% confidence level.
+Foremen rated the factor, ‘Project management does not pay monetary bonuses for good performance’, significantly more severe than craft workers. It is noted that 61% of foremen and general foremen disagreed with the statement that project management pays monetary bonuses for good performance, and correspondingly 51% of craft workers disagreed. Only 6% of foremen and 13% of craft workers agreed. As mentioned by the craft workers participating in the focus groups, US construction companies, in general, have moved away from using financial incentive payment strategies to the crafts in efforts to increase production.
+One craft worker reflected on the loss of financial incentives in the following account:
+Years ago when I worked for Company A, they set milestones where if a certain amount of work got done in a specific amount of time, the employees would get an incentive pay. That falls back to valuing the employee. Now you don’t get anything.
+Table 6	The most significantly different factors between craft workers and foremen
+Project management does not pay monetary bonuses for good performance.
+Younger craft workers are not as motivated as the older ones.
+I’ve been delayed in my work because of the absenteeism of other workers.
+There are errors in the drawings that I use.
+I can’t find the materials I need to do my job.
+If I have a problem or a question, it is difficult to get in touch with my supervisor because our work area is so large.
+The personal protective equipment I need to do my job is not available.
+When there is a question or problem with a drawing, the engineers are slow to address the issue.
+The drawings that I need to do my job are not available.
+Not enough attention is paid to protecting the workers from the weather.
+If I need a manlift to do my job, there aren’t any available.
+There is not enough room on the site for material storage.
+When I need bulk commodities (such as bolts and fasteners, emery cloth, or stock lumber), I can’t find them.
+When I do find the materials that I need, there are quality problems with it.
+Sample size for each group is shown in parenthesis, and F value is calculated based on the impact scale. Maximum score is 100.
+This result accorded with previous research findings that foremen were not satisfied with their income and felt that the extra payment did not compensate for the additional stress resulting from increased job responsibilities (Rowings et al., 1996). The decline in income satisfaction is certainly related to the decline in construction real wages experienced in the US over the last three decades (BLS, 2006), even though craft workers in some trades and some regions have experienced recent significant wage increases (especially along the US Gulf Coast). The declining wage is also widely
+perceived as one factor affecting construction labour productivity (Haas et al., 1999; Goodrum, 2001; Teicholz, 2004), and it appears to have an impact on the lack of new craft workers entering into the US construction industry (CURT, 2004; Tulacz, 2005).
+Foremen and general foremen also perceived ‘Younger craft workers are not as motivated as the older ones’ as having a significantly greater impact on construction productivity than craft workers. Around 20.5% of foremen strongly agreed that young workers are not as motivated in comparison to previous cohorts.
+29.9% of foremen agreed or moderately agreed.
+30.8% of foremen disagreed to some extent. Conversely, 38.6% of craft workers disagreed, and 38.4% of craft workers agreed. Previous research has found a lack of motivation of young workers to be a major demotivating factor to foremen (Borcherding and Oglesby, 1975), suggesting that this is not necessarily a new phenomenon. Borcherding and Oglesby (1974) reported that foremen receive increased satisfaction when their crew members cooperate and respect them by doing quality work in a reasonable amount of time. Rowings et al. (1996) stated that many of the construction workers don’t consider construction work as a career, but a place to earn a pay cheque. The reason could be the lack of organizational investment, the lack of promotional opportunities, or the cyclical nature of the construction job. The following statement made by one of the senior foremen during a focus group effectively summarizes what was being repeated on most of the projects with regard to the perceived attitude of some young workers:
+Generally, a lot of them want to learn, but there are about 30–40% of them that’s just out there for the money with no ambition and only care about getting that pay check every Friday. Another thing is that today if you tell a guy to go get something, he questions you and sometimes he’d refuse to go get it. When I was an apprentice, if the craftsman asked me to go to get something, I went and got it, because I was trying to learn from him.
+Absenteeism is another factor considered to be significantly more severe by foremen in comparison to craft workers. One explanation is that absenteeism specifically causes foremen increased work in adjusting their daily work plans to accommodate missing crafts persons. The following account from a foreman is an example of a recurring trend on many US projects:
+Absenteeism is a big problem. We fight that every day. It’s probably one of the things that really have this industry [US Construction] on the down side. As a foreman you can’t get your work done because you go out there every day, and there’s 12% of your workforce missing. It really makes things hard when you’re trying to manage the job efficiently … They just don’t have that sense of ‘I’ve got to be there’.
+Figure 4	Causes for absenteeism from craft workers’ perspective
+The craft worker survey also asked the opinions of the craft workers themselves about the root causes of absenteeism. Figure4 shows that the most common reasons for the absences of their co-workers as well as themselves are illness, lack of motivation and alcohol use. The percentages total more than 100% because many respondents chose to provide two or three responses even though respondents were asked for only one. In contrast, BRT (1982a) reported that the major causes of absenteeism centred on the worksite environment, such as excessive rework, poor supervision and unsafe working conditions. Although both the BRT survey and ours involved the input of construction craft workers, our survey was exclusively based on the input of craft workers through the focus group sessions. On the other hand, the BRT survey was based on the expertise of an industry team composed of owner and contractor members. This difference in survey methodology can at least partially explain the difference in the findings.
+The factors pertaining to engineering drawings, particularly drawing errors, drawing availability and slow response to questions with drawings from engineers, were also rated significantly more severe by foremen and general foremen than by craft workers. The difference is primarily due to the authority and responsibility of the foremen’s job. Foremen more often use plans and drawings than do craft workers in order to plan their daily activities and provide craft workers instructions for building the project. This result is in agreement with a prior study by Borcherding and Garner (1981), which identified the major complaint of US foremen as the lack of proper engineering and management support.
+Foremen perceived manlift availability and insufficient size of material storage area as being significantly more severe than did craft workers. However, both groups rated ‘There is not enough room on the site for material storage’ very low in terms of the severity score.
+Conversely, craft workers rated the factors associated with materials, including the availability of materials and bulk commodities, and poor material quality, more severe than foremen did. Only the difference in material availability among these three factors is significant at the 0.05 level. The differences in the material factors may be explained by the fact that foremen have a better understanding of the working mechanisms of management (Borcherding and Garner, 1981). Unfortunately, lack of materials was identified as the most significant demotivator for craft workers in previous research (BRT, 1982b).
+Craft workers also perceived ‘If I have a problem or a question, it is difficult to get in touch with my supervisor because our work area is so large’ as being significantly more severe did than foremen. This occurrence may be attributed to the fact that the majority of the craft workers participating in this research were employed on large industrial projects with a budget of more than $100 million. Craft workers also considered the lack of weather protection as having a significantly greater impact on construction productivity than did foremen. However, both craft workers and foremen rated it low in terms of the severity score.
+Craft workers considered that the major factors affecting construction productivity are primarily associated with construction equipment, engineering drawings, materials, tools and consumables. Fortunately, these most significant factors can be addressed through careful planning and coordination among different project participants. This finding confirms what was already previously known: a construction worker will often be highly motivated if proper instruction, equipment, tools and materials are ready for them to complete the job. Workers’ motivation significantly influences the determinants of workers’ performance (Maloney, 1981). Therefore, these findings call attention to jobsite management to focus on the onsite control of construction equipment, tools and consumables, materials and engineering support.
+As reviewed above, a few efforts have been made to prioritize the factors affecting construction labour productivity. However, it should be noted that these studies either examined different factors or named the factors differently. Overall, the rankings of the factors in this research concur with the rankings of previous US DOE research, which found material availability, tool availability and work redone as having the greatest impact on productivity, while the non-tangible factors, such as foremen incompetence, ranked relatively low (Borcherding and Garner, 1981). The US DOE research did not single out the factors pertaining to construction equipment and engineering drawings. However Borcherding et al. (1980) indicated lack of cranes or trucks, or both, to move materials as the most frequent reason affecting material availability and tool availability. Craft workers involved in the US DOE research also attributed work redone primarily to poor design quality. In all, a comparison of the US DOE research findings with the findings of our current research suggests that not much has changed on construction jobsites, at least from the perspective of the construction workforce.
+The ranking of the factors obtained by Olomolaiye et al. (1998) changed moderately in comparison to this paper. Specifically, Olomolaiye et al. ranked lack of equipment and tools as the fifth factor out of six, which is lower than the corresponding factors in our study. In addition Olomolaiye et al. rated crew interference as the second most important factor, which is much higher than that of our study. The different results may be mainly due to the different trades and different types of project examined in our study in comparison with the study of Olomolaiye et al. Liberda et al. (2003) reported the top 10 factors as (1) lack of detailed planning; (2) worker experience and skills; (3) inadequate supervision; (4) worker motivation; (5) non-availability of materials; (6) worker attitude and morale; (7) team spirit of the crew; (8) non-availability of information;
+(9) changes	in	drawings	and	specifications;
+(10) non-availability	of	tools. Obviously,	Liberda
+Figure 5	Percentage of prefabricated materials
+et al. ranked the factors pertaining to craft workers much higher than our study does. Meanwhile, the availability of tools and construction equipment were ranked lower than in our study. The difference may be attributed to the different survey respondents; Liberda et al. (2003) drew their conclusions based on interviews with 20 industry experts in Canada.
+Finally, it is noted that only the respondents in our study identified incorrect prefabricated materials as one of the most significant factors. There has been a significant increase in the use of prefabricated materials on US industrial construction jobsites (Song et al., 2005). As shown in Figure5, a majority of the participating projects indicated that more than 75% of the materials among their major material components were fabricated off site. Prefabrication is one of the major areas needing more improvement (Arditi and Mochtar, 2000). Craft workers attributed poor prefabrication to prefabricators’ quality control systems and engineering mistakes when producing specifications.
+The findings reported here indicate that:
+(1) Considering the increase in the percentage of craft workers older than 40 years of age and the decrease in the percentage of craft workers younger than 20 years of age, the potential of future shortages of construction craft workers
+in the US is significant. Unfortunately, recent research in the US highlights that craft shortages are already prevalent in many parts of the US (CURT, 2004; Tulcaz, 2005). The age distribution of the study’s sampled craft workers indicates that these trends may not end soon.
+(2) Craft workers and foremen had a strong agreement on the factors affecting construction productivity as evidenced by the rankings of these factors and because of their close work relationship on the jobsite. The tangible factors, including construction equipment, engineering drawings, materials, tools and consumables ranked higher than the factors associated with labour, foremen, superintendents and project management.
+(3) Some basic difference can be noted between foremen and craft workers regarding the factors’ impact on construction labour productivity, which may be attributed to the management function performed by foremen. Foremen reported the factors associated with project management and engineering drawing as being more severe than craft workers. Specifically, foremen were affected significantly more by the lack of monetary incentive, lack of motivation of young workers, absenteeism, drawing errors and drawing availability than craft workers. Meanwhile, craft workers considered that material factors had a greater impact on their productivity in comparison to foremen.
+Another major outcome of the study, although one that cannot be easily quantified, is that craft workers need to be more involved in the decision-making process and productivity improvement efforts on construction jobsites. As the results indicate, craft workers do share an agreement with their immediate supervisors about which factors have an impact on their construction productivity, although there are differences as well. It is this unique perspective that craft workers have that makes their contribution valuable and needed. Unfortunately, as the following quote from a craft worker suggests, it is a perspective that has rarely been sought, at least within the US:
+I have been a fitter for 30 years, and no one has ever taken the time to administer a survey like this or asked me questions like this.
+The financial support of the Construction Industry Institute and input from its member companies is gratefully acknowledged. Without both contributions, this research would not have been possible. Also, the writers wish to acknowledge the efforts and inputs from the thousands of craft workers who participated in the research’s focus group and survey efforts.

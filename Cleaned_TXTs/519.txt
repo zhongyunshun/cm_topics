@@ -1,0 +1,184 @@
+Swee Lean Chan Corresponding author & Moonseo Park
+To cite this article: Swee Lean Chan Corresponding author & Moonseo Park (2005) Project cost estimation using principal component regression, Construction Management and Economics, 23: 3, 295-304, DOI: 10.1080/01446190500039812
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (March 2005) 23, 295–304
+SWEE LEAN CHAN1* and MOONSEO PARK2
+Department of Building, National University of Singapore, 4 Architecture Drive, Singapore 117566
+Department of Architecture, Seoul National University, San 56-1 Shinrim-dong, Seoul, Korea
+Received 21 August 2003; accepted 15 November 2004
+Factors affecting construction project cost include project-specific factors and those reflecting the characteristics of the project team. Multiple regression is often used to estimate a project’s cost, but independent variables with a high degree of correlation are likely be left out of such a model. As a result, only a limited number of factors are included in the estimate of project cost and predictions from such models will not be accurate. To overcome this technical inefficiency, the aims of this study are: to identify factors that contribute to project cost, to construct a predictive project cost model using the principal component technique and to assess the relative importance of determining factors. The data are obtained from a random sample survey comprised of Singapore building projects completed after 1992 costing more than US$5million in value. Three main groups of variables are identified, pertaining to characteristics of the project, contractors and owner/consultants. Special project requirements such as high technological level; contractor’s specialized skills; and public administered contract have significant effects on cost. Other factors include contractor’s technical expertise; owner’s level of construction sophistication and contractor’s financial management ability. The model assesses the impact of individual factors on project cost and provides a decision support tool to estimate cost more accurately.
+Introduction
+The cost of a construction project is an important concern in any construction project. In order to control the cost within an acceptable level, it requires appropriate and accurate measurement of various projectrelated determinants and the understanding of the magnitude of their effects. Past studies (Songer and Molenaar, 1997; Konchar and Sanvido, 1998) have identified a list of metrics that measure and compare the performance of construction projects. Other empirical studies (Akintoye, 2000; Chan et al., 2001) identified the determining factors and assessed their impacts on project cost.
+A common finding of such studies is that cost is affected by a large number of factors. This can be explained by the fact that construction is a multidisciplinary industry and its work involves many parties
+such as the owner, professionals, contractors and suppliers. Therefore, integrated efforts of the various parties and their decisions regarding the design, technology and implementation of the project can have significant effect on the overall project cost.
+In establishing the relationship between determining factors and cost, many studies (Trost and Oberlender, 2003; Ling et al., 2004) apply the ordinary least square regression approach and choose the best model based on the coefficient of multiple determination or the R2 value. However, this approach tends to produce regression coefficient estimators that will perform poorly in the presence of multicollinearity, which is likely to surface due to high correlation among a large group of variables. In addition, the variance of the ordinary least squares estimator becomes inflated, which results in the low possibility of the estimator being close to the true value of the regression coefficient.
+Technically, the analysis can be enhanced and the
+*Author for correspondence. bdgcsl@nus.edu.sg
+accuracy of the predictive model improved, if the
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2005 Taylor & Francis Group Ltd
+296	Chan and Park
+procedure allows for prior selection and determination of uncorrelated variables to be included in the regression model. This study seeks to address this technical inefficiency and proposes an alternative solution. In addition, it aims to (i) identify factors that contribute to project cost; (ii) construct a predictive model using the proposed principal component technique that produces smaller standard error of estimate compared to the classical ordinary least square method; and (iii) examine the relative importance of these factors based on the significance of their contributions. The unit cost, measured by the ratio of final project cost to the area of the project, is used as the predictor of the model which is regressed against chosen components represented by the contributing variables.
+The following sections review the past work, outline the principal component technique, describe the data, present and discuss results of the empirical study. The last section concludes.
+Previous work
+Akintoye (2003) examined factors that influence a contractor’s estimate of a project cost. Of the 24 factors, the researcher identified seven main factors using the factor analysis approach: project complexity, technological requirements, information, team requirement, contract requirement, duration and market requirement.
+Trost and Oberlender (2003) established a predictive model to determine project cost. Factor Analysis was applied to group 45 variables into 11 orthogonal factors. Multiple regression analysis was performed on the 11 factors using their factor scores to predict the cost and assess its accuracy. Of the 11 factors, 5 were found to be significant at 10% level: process design, team experience and project information, time allowed to prepare the estimate, site requirements and bidding and labour climate.
+Hegazy and Ayed (1998) developed a parametric cost-estimating model for projects where little information is known about the scope of the project. This type of parametric model consists of one or more functions, or cost-estimating relationships, between the cost as the dependent variable and the cost-determining factors. The neural networks approach adopted by this study is appropriate due to the presence of difficult tasks involving intuitive judgment and the need to detect data patterns that elude conventional analytical techniques.
+There are studies that examined the performance of a construction project from various aspects. By performance, the authors mean how well can the project (i) complete within budget and schedule; (ii) achieve acceptance level of quality; and (iii) fulfill the owner’s and consultant’s satisfaction.
+Other researchers measured the performance of a construction project by different metrics. Konchar and Sanvido (1998) and Songer and Molenaar (1997) identified 11 performance metrics that are classified under the broad categories of cost, time, quality and other aspects of the construction project. They measured project cost in three ways: (i) unit cost expressed as a ratio of final project cost to area; (ii) cost growth determined by the percentage change in final project cost and contract project cost; and (iii) intensity, defined as the unit cost of design and construction work put in place in a facility per unit time.
+Bennett et al. (1996) studied project selection and performance from the owners’ perspective. They constructed three statistically viable models to predict these three performance metrics: unit cost, construction speed and delivery speed. In determining one of the performance metrics, the study included other performance metrics as predictor variables, which clearly showed the interdependence of the three factors. Bromilow’s (1969) log–log time cost model is widely used by researchers to estimate the construction completion time based on an estimate of the size of the project measured by the cost.
+Chan et al. (2001) identified a set of project success factors for design and build projects and examine the relative importance of these factors. In their study, the success of the projects is measured by the ability to complete on time and within budget. Terms such as ‘behind schedule’, ‘on schedule’; ‘ahead of schedule’; ‘overrun budget’; on budget’ and ‘underrun budget’ are used to categorize the projects. Some project success factors are highlighted: team commitment, contractor’s competences, risk and liability assessment, client’s competencies, end users’ needs and constraints imposed by end users.
+Pinto and Slevin (1988) stressed the important influences of project team experience, contracts, resources and information availability on the success of a project.
+Ashley et al. (1987) conclude that effective allocation of resources has impact on project performance. Songer and Molenaar (1997) relate specific project characteristics such as project, owner, market and relationship variables to the project success.
+Some researchers reckon that success factors are different for different types of projects. Tiong (1996) believes that the success of build–operate–transfer projects is affected by a limited number (six) of critical factors. As for design and build projects, the number of factors to be considered is much more. Chan et al. (2001) identified 31 factors, Ashley et al. (1987) 46,
+Songer and Molenaar (1997) 15 and Konchar and Sanvido (1998) had nearly 100 factors that affect project cost, schedule and quality performance of a project.
+Recently, Cox et al. (2003) reported the management perceptions of key performance indicators (KPI) utilized in the construction industry. Correlation analyses are performed for both quantitative and qualitative indicators to determine which type of indicator is used most extensively. Basic statistical analyses and frequency distributions provide evidence in support of some of the hypotheses of the research. The results of the survey data analysis conclude that KPIs vary according to management’s perspective, and there is a substantial difference between construction executive and project management’s perceptions. Six indicators were reported as being most useful by every segment of the construction industry involved in their study. The correlation between quantitative indicators and qualitative indicators proved to be inconclusive.
+Most of the previous studies, including those reviewed above (Songer and Molenaar, 1997; Konchar and Sanvido, 1998), undertook the multivariate regression approach for estimating the performance metrics, as the technique is straightforward, easy to use and widely available within statistical computer packages. Kaming et al (1997) applied the factor analysis, and extracted ‘factors’ or ‘components’ out of the original variables that influence construction time: equipment usage, resource estimates, buildability and human resource shortages. Chan et al. (2001) grouped a large number of variables into the reduced number of ‘factors’ whose loadings indicate the relative importance of each factor. However, these factor analysis approaches are not fully adequate for explicitly displaying the relationship between the factors and the performance metric. For example, when a stepwise multiple regression model was constructed using the success factors as dependent variable and the factor scores of the factors extracted by factor analysis as independent variables, the derived model establishes the relationship between project success level and the relative importance of the factors, not the individual variables contributing to the factors. As a result, the model cannot be reused to predict the success level of a new project given its project characteristics and details. Belassi and Tukel (1996), however, proposed a new framework for determining the critical success factors for projects by ranking them in four areas related to project; project manager and the team members; organization; and external environment. The study examines the factor on an individual basis instead of analysing the collective effects of success factors.
+Among some analyses, such as a study by Ashley et al. (1987) that determines the relationship between 46 factors and project performance based on only eight projects, the number of observations is very much less than the number of independent variables or the model is over specified. This makes the formulation of the model ineffective (Rencher, 1995, p.415).
+Attala and Hegazy (2003) developed a model using artificial neural network (ANN) to estimate cost deviation from the planned values in reconstruction projects. They compared the ANN model with the regression model and concluded that both models produced relatively close results. The main difference was that ANN was more sensitive and used 18 variables in the estimation, while regression model used only five variables. However, the ANN technique is more suitable for problems involving high level of uncertainty and in cases where some decision support system is required. ANN is not appropriate for this study.
+Research method
+Based on the literature review, a total of 57 determinants (Table1) relating to the project, the construction team and the contractor are identified to have an impact on project cost. Most of the determinants are qualitative variables expressed in the Likert scale of between a minimum of 1 and a maximum of 5. All, except the dummy variables, are classified under three broad categories, pertaining to (A) project design, complexity and time; (B) professional level of the project team; and (C) contractor’s competency.
+A questionnaire survey was designed to obtain the primary data for this research. A pilot study was first carried out to test the relevance and comprehensiveness of the questionnaires before a full-scale survey was conducted. The random sample was selected from the Singapore Building and Construction Authority’s (BCA) website (BCA, 2002). It comprised building projects that exceed US$5million in value, and were completed after 1992. The project data were collected from owners, architects, engineers and contractors.
+The respondents were given a choice of being interviewed face-to-face or self-administer the questionnaires, and sending them back to the researchers. In total, 400 randomly selected projects were identified, and questionnaires were sent to 40, 57 and 60 owners, architects, engineers and contractors, respectively.
+Altogether, data from 87 projects were received, giving rise to a 22% response rate. The profile of the projects is presented in Table2. More than half the sampled projects were residential type and public owned.
+This study adopts two stages in the analysis of the data, namely, extracting components and using
+298	Chan and Park
+Table 1	Determinants of project cost
+
+Type of contract
+Singapore Institute of Architects Form of contract
+Public sector standard conditions of contract;
+Residential building
+Dummy variable:
+
+Commercial building
+Dummy variable:
+Dummy variable:
+Public owned
+Dummy variable:
+Level of design complexity
+15not complex; 55highly0complex
+Level of construction complexity
+15not complex; 55highly complex
+Level of technologically advancement
+15not complex; 55highly complex
+Level of specialization required of contractors
+15not complex; 55highly complex
+Percentage of repetitive elements
+Presence of special issues
+
+Type of specification
+Extent to which bid documents allow additions to scope
+15prevented addition; 55encouraged additions
+Flexibility of scope of works when contractor is hired
+Project scope definition completion when bids are invited
+
+Design completion (by owner) when bids are invited
+Design decisions made (by owner) when bids are invited
+Design completion when budget is fixed
+Good bidding information
+Dummy variable:
+Importance for project to be completed within budget
+15not crucial; 55very critical
+Importance for project to be delivered
+15not crucial; 55very critical
+Preparation for bidding
+Time given to owners/consultants to evaluate bids
+Extent to which the contract period is allowed to vary during bid evaluation stage
+15firmly fixed;
+Importance for the project to be completed on time
+55high/plentiful
+
+Owner’s level of construction sophistication
+
+Consultant’s experience with similar projects
+15no similar projects; 55nearly all those types
+Owner’s experience with similar projects
+15no similar projects; 55nearly all those types
+
+Owner’s staffing level to attend to contractor
+
+No. of DBB/DB projects handled by consultant in the past
+No. of DBB/DB projects handled by owner in the past
+Contractor’s experience with similar types of projects
+15no similar projects; 55nearly all those types
+Contractor’s experience with similar size of projects
+15no similar projects; 55nearly all those types
+Contractor’s experience with projects in Singapore
+15no similar projects; 55nearly all those types
+Communication among project team members
+Contractor’s prior working relationship with the owner
+Contractor’s prior working relationship with consultants
+Contractor’s track record for completion on time
+Contractor’s track record for completion on budget
+Contractor’s track record for completion to acceptable quality
+Contractor’s staffing level
+
+Adequacy of contractor’s plant and equipment
+
+Magnitude of change orders in contractor’s past projects
+
+Magnitude of claims and disputes in contractor’s past projects
+
+Contractor’s key personnel’s management ability
+Contractor’s ability in financial management
+Contractor’s quality control and management capability
+Contractor’s health and safety management capability
+Contractor’s technical expertise
+15no in-house capability; 55full in-house designers
+Size of contractor by paid-up capital (US$)
+Extracting components
+In regression modelling it is known that the sample size, N, must be greater than the number of explanatory variables, K, to avoid over specification problem. In cases where the response variable, y, is determined by a large number of independent variables such that the value of N is less than K, the classical regression analysis will not be appropriate. Furthermore, the classical regression analysis assumes that there is no linear relationship among independent variables.
+In this study, N is 87 while K is 57. With a large number of explanatory variables, the occurrence of
+Table 2	Profile of projects surveyed
+Type of building
+Factory/industrial building
+
+
+correlation among independent variables is highly probable. To avoid multicollinearity problem in the analysis, another approach that offers intuitive appeal is that of principal components (Maddala, 1992, p.285). Consider a set of independent variables represented in an X matrix, the first stage is to extract from it a small number of variables that, in some sense, account for most of or all the variation in X (Greene, 1997, p.425). This is termed extracting components.
+The next stage would be to apply the principal component regression method to regress the response variable on a smaller set of components with minimal loss of information. Because the components are uncorrelated, it eliminates the possible occurrence of multicollinearity that will inflate the variance of the ordinary least-squares estimator. Hence, the resultant model will produce estimated regression coefficients with smaller mean square errors.
+After the extraction, the next step is to select significant principal components to be used for the estimation. Only some principal components but not all of them are to be chosen, otherwise, it will be the same as regressing on all the Xs. The guideline is to choose only a small number of principal components that contributes satisfactorily to explaining the variation in y (Greene, 1997, p.426) and if the components have a large number of variables, only those with high contributions should be selected.
+This study adopts Rencher’s (1995, p.434) criterion of selection: include principal components whose eigenvalues are more than the average of the eigenvalues, Pp
+i~p1 , where p is the number of principal components extracted from the data, and l is the eigenvalue of component i.
+Category	Components	Category B	Components	Category C	Components
+Estimating the effects
+Suppose that of the K columns of X, L,K principal components are used for the modeling, the regression equation is:
+where yˆ is the fitted values of an N-dimensional response vector, a is a constant, X is an N6K matrix of the original variables, CL is a K6L matrix containing the eigenvectors from the selected principal components, b is an L-dimensional vector of unknown regression parameters, while e is a random vector that satisfies the basic normality assumptions of E(e)50 and var(e)5s2.
+Hence, the principal components estimator of the full coefficient vector is b CL. This estimator is a simple function of the original least squares coefficients in the regression of y on X.
+Components extraction and selection
+
+
+Using the factor analysis function in the Statistical Package for Social Sciences (SPSS), eight components are extracted from 21 variables within category A data pertaining to project design, complexity and time. The cumulative percentage variance explained by the eight components is 74%. The percentage variance explained by each of the component is reported in Table4. Based on the significance of the contribution, and in comparison with the average eigenvalue (1.945), it seems that the first three components are the most important and
+Table 4	Sample statistics of variables
+have to be included in the model. The total percentage variance explained by the three components is about 38%. Of the eight variables from category B data that characterize the professional level of the project team, three components are identified but only the first component is relatively higher than the average eigenvalue (2.05). Within the last category C, comprising 21 variables, five components that amount to 76% of the variance are obtained. The first two components whose eigenvalues are higher than average (3.14) account for 53% of the variance and they contain the key variables in this category.
+Altogether 10 variables, as listed in Table4, which have the highest scores within the respective components identified earlier are chosen as independent variables. Furthermore, seven descriptive variables, namely LUM (lump sum contract), SIA (Singapore Institute of Architect’s Form of Contract), PSC (Public sector standard conditions of contract), RES (residential building), COM (commercial building), IND (industrial building) and PUB (public-owned) are also included to test their effects on the cost model. They are represented as dummy variables. The sample statistics of all the independent variables are presented in Table4.
+Estimates of effects
+Table5 reports the estimated effects of the individual variables on the cost of a project using the principal component regression method. The final model
+302	Chan and Park
+t-Statistics
+SE of estimate
+F-statistics (Prob)
+*, ** and *** denote rejection at the 10%, 5% and 1% significance level.
+comprises seven significant variables: X8 (level of technologically advancement); X9 (level of specialization required of contractors); PSC (whether public sector standard conditions of contract is used or not); RES (whether it is a residential building or not); X54 (contractor’s ability in financial management); X57 (contractor’s technical expertise); and X32 (owner’s level of construction sophistication).
+Collectively, the variables account for 62% and 54% of the total variance of project cost indicated by the R2 and adjusted R2, respectively. The F-ratio test indicates that the joint effects of these variables are highly significant at the 1% significance level.
+The regression model can be represented mathematically as:
+Test statistics
+White’s test (no cross terms)
+White’s test (cross terms)
+It implies that, on the project side, higher technological level imposed on construction can reduce cost; but a stringent requirement on the contractor’s specialized skill can result in an overpriced contract sum. Results of the study show that residential projects cost relatively less than other types of construction (commercial, industrial and ‘others’). Similarly, the use of public sector standard of conditions of contract, denoted by the dummy variable PSC, implies government administration and probable cost-effective methods of construction, has a negative effect on cost. To ensure that the project can be executed properly and complete on time, a contractor’s ability to manage his own finances is important although it may not necessarily contribute to lower project cost as his technical expertise does. Finally, the regression model shows that owner’s level of construction sophistication, ranked third in Songer and Molenaar’s (1997) survey of project success factors, can add to the cost of the project.
+Validity of the model
+To test the validity of the model, the predicted values of project cost computed using Equation1 are compared to the actual values and the average percentage error of the estimation is found to be about 13%.
+Some diagnostic tests are also performed to check if the errors are normal, homoskedastic and independent of the regressors, and that the linear specification of the model is correct (refer to Kenkel, 1989, for details of diagnostic tests). The results are presented in Table6, the Jarque–Bera statistic tests for normality. If the residuals are normally distributed, the Jarque–Bera statistics should not be significant (QMS, 2000). The Breusch–Godfrey LM test checks for serial correlation. The null hypothesis is no serial correlation. The ARCH LM tests for autoregressive conditional heteroskedasticity (ARCH) in the residuals. The null hypothesis is no ARCH. As the result provides evidence of serial correlation in the errors, White’s tests, with and without cross terms, are also performed. The above residual tests demonstrate that the basic assumptions underlying the multiple regression analysis have not been violated.
+Table 7	Estimates of the parameters using OLS without components
+Unstandardized coefficients
+t-Statistics
+SE of estimate
+F-statistics (Prob)
+*(**) denotes rejection at the 5% (1%) significance level.
+As a comparison, the classical least-squares regression method is used to regress the unit project cost on all the original 57 explanatory variables. Results presented in Table7 reveal that only one variable qualifies to stay in the equation. This is because high correlation exists among the large group of independent variables and an estimate of individual effects becomes impossible. The model has an R2 and adjusted R2 value of 41% and 39%, respectively, which are at least 30% lower than what can be attained by the principal component regression method. In terms of accuracy, the application of principal components reduces the standard error of estimate by about 36%.
+In addition, the principal component regression model comprising seven independent variables representing characteristics of the project and members of the construction team is more plausible than the onevariable classical model. For example, the two variables, RES and PSC, present in the final model reflect the prevailing condition of the construction market in Singapore. In the residential sub-market, the public sector is the key supplier of housing. More than 80% of the Singapore population lives in public housing estates. This is the result of the government’s longterm strategy to achieve a high home ownership rate for Singaporeans. The construction of these public sector flats is administered by a government body, the Housing and Development Board (HDB), using the public sector standard conditions of contract. The flats are a form of government subsidized housing designed with basic and less expensive materials and methods of construction. Hence, project cost for public residential units are lower.
+
+Asymptotic principal component regression method as a data reduction and selective procedure prior to modeling to eliminate multicollinearity and other associated problems is used. The technique is particularly applicable in this study because of the relatively large number of independent variables required for the estimation compared to the number of observations. Classical multivariate regression technique in such a situation will render the ordinary least-squares method an inappropriate and ineffective statistical approach. The principal component regression, on the other hand, reduces the large number of independent variables to a few uncorrelated principal components from which variables can be selected, and generates a model that is capable of producing better and more stable estimates of the regression coefficients.
+Project cost depends not only on a single factor but a
+cluster of variables related to the characteristics of the project and the construction team. Technological and project design requirements preset by the client and the consultants; contractor’s expertise and management ability; and the client’s desired level of construction sophistication play an important role in determining the cost of the project. The application of the predictive model helps practitioners in the construction industry to determine if the budget for the project is attainable, given the general requirements of the project, the profile of the contractor and the owner’s expectation.

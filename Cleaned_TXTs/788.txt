@@ -1,0 +1,162 @@
+﻿Advances in Civil Engineering
+Research Article
+Optimization in Construction Management Using Adaptive
+Opposition Slime Mould Algorithm
+Construction Engineering & Management Department, Ho Chi Minh City University of Technology (HCMUT), Vietnam National University, Ho Chi Minh, Vietnam
+Correspondence should be addressed to Luu Ngoc Quynh Khoi; lnqkhoi.sdh21@hcmut.edu.vn
+Received 20 September 2022; Revised 9 November 2022; Accepted 6 April 2023; Published 22 April 2023
+Copyright © 2023 Pham Vu Hong Son and Luu Ngoc Quynh Khoi. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+The purpose of this research study is to solve a four-objective optimization problem in the construction industry using a hybrid model that combines the slime mould algorithm (SMA) with opposition-based learning. This hybrid model is known as the adaptive opposition slime mould algorithm (AOSMA). Two typical construction projects have introduced time, cost, quality, and safety trade-off (TCQS), which are the factors that have the greatest influence on the completion of a construction project and are represented by optimal results and obtained at Pareto, in order to better illustrate the potential of the proposed model. In order to compare AOSMA with a nondominated sorting genetic algorithm III (NSGA III), multiobjective particle swarm optimization (MOPSO), LHS-based NSGA III, and a hybrid model of MAWA (MAWA-TLBO, MAWA-GA, MAWA-AS, and MAWA-ACSSGPU) and to assess the model’s potential and viability, performance evaluation indexes are applied. To assist project managers in planning time, cost, quality, and safety for construction investment projects, this study creates a hybrid model.
+Introduction
+Investment in construction has been severely affected by the COVID-19 pandemic. Consequently, project efficiency has decreased, investment costs have increased, project implementation times have increased, and construction safety has become less stable. The construction industry in Vietnam faces particular challenges. Cost and time management, quality improvement, and safety risk reduction must be a top priority; and a combination of these aims is needed to achieve project efficiency, and the impact of safety on project costs is also essential [1].
+The field of objective optimization has flourished due to the introduction of a variety of complex algorithms. The topic of time and cost trade-offs among those in this industry has been covered [2, 3]. Replaced with the problem of the time-cost-qualitytrade-off [4, 5] and time-cost-safetytradeoff [1], numerous writers have successfully used algorithms to resolve optimization issues with three trade-offs. Time, cost, resources, and cash flow [6]; time, cost, resources, and environmental effect [7]; and time-cost-quality-safety in construction projects [8] are the three examples of tradeoffs. Due to the complexity rising as the number of competing objectives rises, this trade-off optimization problem is difficult [9].
+The performance of the slime mould algorithm (SMA) in optimization technique was the primary aspect that influenced this research study [10]. By mimicking the foraging and movement patterns of the slime mould, SMA resolves the optimization problem. It can successfully find a hopeful and a global optimal solution. In contrast, SMA chooses two randomly chosen search agents from the entire population to determine future removals and rotations based on the best search agents, and SMA’s ability to be exploited and explored is constrained by this characteristic. This study improves the exploration phase of optimization algorithms by using the opposition-based learning (OBL) technique [11]. The benefits of using the OBL idea have been examined for defining the transfer function and weights of the neural networks, developing potential solutions for evolutionary algorithms, and defining the reinforcement agent action policy.
+AOSMA solely refers to merging techniques that address the same issue but vary in other respects, most notably performance. Many algorithms can be conceived of as assemblages of more basic components. Systemic issues are addressed using the AOSMA technique. The AOSMA has a great deal of possibilities for processing data in different forms rather than at random since algorithms address issues by form more than once rather than just once. It is demonstrated that AOSMA’s capacity for exploration and exploitation is incredibly successful when compared to previous algorithms. Local optimization, however, was also applied in this work to efficiently highlight the shortcomings of AOSMA while concurrently optimizing a number of objectives. To effectively boost, the authors advise combining the SMA with more well-known methods.
+The content of this article is divided into the following sections. In Section 2, a review of the literature is provided. Section 3 describes the challenges in calculating the TCQC components and the AOSMA. In Section 4, case studies and outcomes are displayed. The authors complete their research study in Section 5.
+Slime Mould Algorithm. The slime mould algorithm is a fresh algorithm model that was presented in [10]. ANN and SMA are used to address the urban water demand [12]. X-ray chest image segmentation problems were solved using the SMA model with Whale optimization [13]. A hybrid SMA with a differential evolution strategy was presented in [14] to address the challenging optimization challenge. The SMA approach was used to determine the photovoltaic models’ parameters [15]. As a result, the SMA approach is frequently used in a variety of industries. To make it simpler to comprehend the issue with the model, many authors from around the world have tried this algorithm. To help the project managers choose the best building projects, the SMA algorithm has not yet been used to optimize significant construction goals.
+Trade-Off Optimization. Several approaches have been put forth to address the optimization issues. Many authors have used two-factor optimization simultaneously for the comprehensive and ideal research of many objectives starting with this problem [2, 3]. It is critical to strike a balance between time, money, and quality while implementing initiatives. Babu’s method was employed during the construction of a cement factory, and it was shown to be effective [16]. The GA model was used to tackle the timecost-quality problem [17], and applying optimization approaches to four concurrent goals, such as time-cost-qualitysafety [8], time-cost-resources-flow, cost [6], and time-costresources-environment [7], is now a standard practice. So, it is getting more and more important to simultaneously optimize the four objectives, which shows the growing need for users and will help the project succeed overall. This shift from two-objective optimization to three-objective optimization lays the groundwork for future development, fresh avenues for investigation, and solutions to optimizationrelated issues.
+The discrete time-cost trade-off problem is another important aspect of the building optimization problem (DTCTP). The DTCTP developments highlight the scheduled cost of the project by solving difficult and competitive issues [18]. The time-cost trade-off problem has drawn the interest of many academics over the past 40 years [19]. Many studies have been conducted on the time-cost trade-off in project networks [20]. The development of an association strategy for the DTCTP involved the use of genetic algorithms (GA), simulated annealing (SA), and quantum simulated annealing (QSA) techniques [21] and the budgeting and scheduling of large-scale projects using discrete swarm optimization [22]. Certain procedures are carried out more quickly when a project’s time-cost proportion is favorable [23]. There is a brand-new discrete symbiotic search methodology introduced for large-scale DCOPs [24]. The main topics covered by the DTCTP are precision processes and benchmarking databases of construction industry factors.
+Research Experience. In the area of construction management, the author has also conducted a considerable study on a wide range of problems connected to artificial intelligence. A metamodel optimization approach in conjunction with computer models was specially provided to address the energy consumption of buildings [25]. To lower the cost of establishing water distribution networks, the GWO-HHO is being researched [26]. Construction material cost optimization using the dragonfly-particle swarm optimization method [27, 28] has developed a game model for compensation in the contractor selection process. The author has published a large number of works on artificial intelligence studies in the area of construction management.
+The development based on this model is newly proposed in Figure 1 and Algorithm 1.
+Declaration of Parameters and Generation of Population. In this study, a construction project’s four concurrent optimization criteria, time, cost, quality, and safety, were applied. The necessary model’s input parameters included project-specific data on labor relations, construction time, required cost, and assessments of the quality and safety standards for each individual task. Also established was the number of populations (N  100), the maximum number of iterations (T_max  200), the value of lower and upper boundaries (LB  − 100, UB  100), and the number of decision variables (D  25) and δ  0.03. The optimization algorithm carried out automatic calculations using the aforementioned parameters to determine the scenario of the best possible outcome for all the four concurrent factors.
+Flowchart of AOSMA.
+initialize all parameters needed N, d, T_Max, t, δ, LB, UB, and XGB;
+
+Calculate f(X)  [f(X1), f(X2), ... , f(XN)] Sort [Sortf, SortIndf]  sort(f)
+Update fLB  f(Sortf(1)) and XLB X(SortIndf(1))
+Update b  arctan h(− (t/T) + 1) and c  1 − t/T Step 4:
+Create r1 and r2: random the range of [0, 1].
+stopping conditions, the best value of XGB given
+any evolutionary algorithm, creating the starting population is crucial.
+Decision Variable
+Minimum amount of time  PCT 	􏽘 ACTA,	(1)
+Minimum amount of cost  PCC  􏽘 D.C + I.C per day × PCT in days,
+where PCC is the total individual activity completion cost, 􏽐AD.C is the total direct cost, and I.C is the indirect cost.
+Maximum amout of quality  PQI  􏽘 wtA 􏽘 wtA,kxQmA,k,
+where PCT is the total time and ACTA is the key path activity’s estimated time of completion (A).
+where QmA,k is the performance according to the quality index (k) for the activity (i), wtA,k is the activity’s other indicators and the quality indicator’s (k) weight (i), and wtA is the relative relevance of the activity to other project activities.
+Minimum amout of safety  PSR  􏽘 ASRA,	(4)
+where PSR is each activity’s overall safety risk, i.e., activity safety risk (ASR) and ASRA is the total of the three safety hazards (RL + RS + SR) (more explanation is in Supplementary Material (available here)).
+Function of SMA. At this moment (current iteration), t, slime mould N’s position and fitness are stated as follows:
+For updating the new location of the algorithm for t  t + 1, we have
+
+(i) XLB stands for the current iteration and represents the local best
+(ii) XA and XB represent the slime mould from present populations collected at random
+(iii) W is the weight factor
+(iv) Vb and Vc stand for the random velocity
+b  arctan h􏼒− 􏼒 􏼓 + 1􏼓,
+(ii) δ is the slime mold’s fixed 0.03 initialization probability at a random search site
+The weight W in iteration t is determined as follows:
+(iii) fLW means the local worst fitness value
+The function optimization and engineering design difficulty as indicated in [10] has been successfully explored and exploited by the SMA. The three cases based on updating rules are as follows:
+Opposition-Based Learning. In order to explore the search space and widen the search region after creating the initial population, the AOSMA applied the opposite to the process position at each iteration. The opposition-based learning vector for each vector is determined through equations (13)–(15).
+Using the opposition-based learning, which compares the present population and the opposing population simultaneously, speeds up the convergence.
+Adaptive Decision Strategy. A proposed model is made based on the recent f(Xni(t)) and the previous f(Xi(t)) when the slime mould is pursuing a decedent nutrition path. When necessary, the adaptive choice uses OBL to supplement additional exploration. Oddly, the suggested AOSMA improves the effectiveness of SMA by using an adaptive judgment technique to determine whether OBL is required along the search trajectory.
+Stopping Condition. When the halting condition is met, the optimization process is complete. Two often used stopping conditions are the number of objective function evaluations or the maximum number of repetitions. The proposed model made use of as many iterations as possible. When the algorithm’s halting condition is met, the best solutions are shown.
+Case Study and Results
+To show how the proposed AOSMA outperforms previous algorithms in solving the issue of time-cost-quality-safety risk, the case study was undertaken [8, 29]. The LHSNSGA-III procedure starts by creating an initial population based on an N-dimensional LHS and a collection of widely spaced-out M-dimensional reference points on a normalized hyperplane. A swarm intelligence program called MOPSO competes for solutions to issues involving objective optimization. It works particularly well in the project management sector [6, 30]. The reference point selection approach from the NSGA-II substitutes the idea of crowded distance in the NSGA III [31]. The first case study involved a building construction project in Gwalior, India, which included a total of 13 actions. There is a specific building scenario associated with each of these jobs. The second case study had 18 actions that were carried out in two to five different methods for each other, and it was drawn from multiple studies. One choice that has a high cost is one that minimizes time. To find the best balance between time, cost, safety, and quality, the Gantt path must be defined. To demonstrate the usefulness and prospective uses of this SMA, this project acted as a case study.
+Tables 1 and 2 and Figure 2 provide the relevant information on TCQS for case 1 while Tables 3 and 4 and Figure 3 give the input parameter factors for case 2. Combining these two difficulties, the author uses the MATLAB’s AOSMA method to identify examples at random that strike the ideal balance between the project’s duration, cost, safety, and quality. The AOSMA-derived ideal findings are shown in this section.
+Optimisation Results Obtained Using the AOSMA
+AOSMA Results for Case 1. Table 5 shows the AOSMA’s convergence findings for TCQS in the Indian project, along with the optimum way to combine all four aspects at once to produce the greatest outcomes. To achieve successful project delivery, a talented project manager must recognize the ideal possibilities, such as finding the spots when multiple factors are balanced. The suggested approach generates 50 distinct optimal combinations in total to fulfil the specified project objectives. All of the numbers, including PCT from 160 to 226 days, PCC from 487310.30 to 795589.00 dollars, PQI from 0.819 to 0.917, and PSR from 182 to 207.23, are reflected in the results. The Gantt output are [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 12] and [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 13, 10]. In addition, there are cases where there are 02 to 03 results with the same PCT, but the values of the remaining 03 factors have differences and are uniformly different; for example, case PCT = 187 but (1) PCC = 492801.80, PQI = 0.819, PSR = 207.23 (2) PCC = 493690.97, PQI = 0.885,
+Specific activities method of case 1.
+
+
+Retaining wall
+Exterior wall
+Interior wall
+Exterior finish
+Interior finish
+Data resources for case 1.
+and PSR = 200.98. This gives a project manager many options, which is needed for improving the project and for bringing impact and feasibility to the optimal solution.
+Figures 4–9 show the 2D plots of the balance between PCT and PCC, PCT and PQI, PCT and PSR, PCC and PQI, PCC and PSR, and PQI and PSR. Figures 10–13 show the 3D plots of TCQ trade-off, TCS trade-off, CQS trade-off, and QST trade-off.
+For each of the 50 Pareto-optimal options, a value route map is shown in Figure 14. In the figure, the PCT, PCC, PQI,
+Case 1 network. Specific activities method of case 2.
+Data resources for case 2.
+Quality performance (Qp) and quality indicator (K)
+and PSR values are displayed together with a straight line connecting the values on the horizontal axis and values between [0, 1] on the vertical axis. This value represents the impact on all activities from attempts at building construction.
+AOSMA Results for Case 2. The convergence results for the other project’s of AOSMA for TCQS, which generated the best optimal solutions, are shown in Table 6. It is crucial for a project manager to understand the best-case scenario in order to calculate the trade-off between objectives and prevent negative consequences on their project. The project must be finished in 100 days, at a minimum cost of $101865, with an average quality rating of 84.78 and a safety rating of 195. These are the best values that the model’s search skills can find.
+Figures 15–20 show the 2D plots of the balance between PCT and PCC, PCT and PQI, PCT and PSR, PCC and PQI, PCC and PSR, and PQI and PSR. Figures 21–24 show the 3D plots of TCQ trade-off, TCS trade-off, CQS trade-off, and QST trade-off. The value path plot for the 20 Pareto-optimal solutions is shown in Figure 25.
+Case 2 network. Result Pareto-optimal solutions for case 1.
+Pareto-optimal of projects
+4.5	5	5.5	6	6.5	7	7.5	8 Cost	×105
+Time-cost trade-off.
+
+Time-quality trade-off.
+Time-safety trade-off.
+Cost-quality trade-off.
+Comparison Results Obtained between the AOSMA and LHS-Based NSGA III. The same dataset, N  100 and T Max  200, is used by both the AOSMA and LHS-based NSGA III in order to compare the performance and to obtain the output from the model. As a result, in Tables 7 and 8, the AOSMA model’s solution produces quicker and more accurate results than the LHS-based NSGA III solution. To get these outcomes, the authors suggested combining the OBL method with the SMA to boost the hybrid model’s performance by extensively disseminating and updating new locations to enhance the data mining ability. The AOSMA model has demonstrated the comprehensiveness of the methodology, and the project managers want to discover solutions in a short time, with low costs and reduced accident risk while still achieving quality.
+Cost-safety trade-off.
+Quality-safety trade-off.
+Time-Cost-Quality
+Time180	220 5	5.5	6.5Cost	85 6	×10
+Time-cost-quality trade-off.
+Time-Cost-Safety
+Time-cost-safety trade-off.
+Cost-Quality-Safety
+×105	Cost	7	80.86	0.88 Quality0.9	0.92
+Cost-quality-safety trade-off.
+Quality-Safety-Time
+Safety Figure 13: Quality-safety-time trade-off.
+Time	Cost	Quality	Safety
+Value path plot of AOSMA for case 1.
+Result Pareto-optimal solutions for case 2.
+×105	Time-Cost-Quality
+Time Figure 15: Time-cost trade-off.
+Time-Cost-Quality
+Time-quality trade-off.
+Time-Cost-Safety
+Time-safety trade-off.
+×105	Cost-Quality-Safety
+Quality Figure 18: Cost-quality trade-off.
+Cost-Quality-Safety
+
+Cost-safety trade-off.
+Quality-Safety-Time
+Quality-safety trade-off.
+Time-Cost-Quality
+Time-Cost-Safety
+Time-cost-safety trade-off.
+Cost-Quality-Safety
+Cost-quality-safety trade-off.
+Quality-Safety-Time
+200 65	Quality
+Quality-safety-time trade-off.
+Time	Cost	Quality	Safety
+Value path plot of AOSMA for case 2.
+LHS-based NSGA III and AOSMA result comparison for case 1.
+LHS-based NSGA III
+Adaptive opposition slime mould algorithm
+
+LHS-based NSGA III
+LHS-based NSGA III and AOSMA result comparison for case 2.
+
+of AOSMA with other a
+
+
+
+LHS-based NSGA III
+The meaning of the bold values represent the AOSMA model’s greatest evaluation.
+Comparison of different algorithms and AOSMA.
+Cost ($)	Cost ($)	Cost ($)	Cost ($)	Cost ($)
+Populations
+Number of iterations
+
+The meaning of the bold values represent the AOSMA model’s greatest evaluation.
+NSGA III, and LHS-Based NSGA III
+Comparing the AOSMA with Those of Other Algorithms for Case 1. The performance of AOSMA was assessed by using the quality indicators, which evaluated the diversity of solutions along the Pareto front and convergence to Paretooptimality using [7, 32]. The performance of the suggested AOSMA can be measured using the following parameters listed, which were found to be satisfactory:
+(i) Spacing metric (SM)
+(v) Computational time (CT): measures the time to generate a Pareto-optimal front.
+As a comparison to the LHS-based NSGA III, MOPSO, and NSGA III, the AOSMA performed better on a number of parameters (SM, Sp, DM, HV, and CT and Table 9). As a result, the suggested model performs well across a wide range of performance evaluation metrics; specifically, AOSMA achieved the best results for the CT indicator.
+Comparing the AOSMA with Those of Other Algorithms for Case 2. Table 10 for case 2 compares AOSMA, MAWATLBO, MAWA-GA, MAWA-AS, and MAWA-ACS-SGPU [33]. The AOSMA model used a population of 50, a maximum of 100 iterations, and a total of 5,000 assessments. The optimal outcomes provided by AOSMA outperform those of the previous algorithms despite the population size and loop being average compared to other models. In addition to offering solutions that are less expensive than MAWATLBO, MAWA-GA, and MAWA-AS, the emerging model also addresses the complicated problems. However, it still has limitations when compared to the MAWA-ACS-SGPU model. Sensitivity analysis is used to look at the effects of various inputs on the output parameters.
+
+The authors suggested changing the original SMA algorithm to AOSMA in order to better prepare for project completion problems and take into account characteristics specific to the construction sector. Finding the optimal Pareto solutions will be made easier by combining the proposed model with the OBL approach. The AOSMA is used in this combination to balance and improve the convergence of the algorithm by proposing to apply it to two construction projects in the research study to demonstrate its superiority and efficiency and the model’s potential in finding optimal solutions, including minimizing time, cost, and safety while maximizing the project quality in construction projects.
+The aforementioned findings demonstrate that the AOSMA model successfully resolves the issue of simultaneously optimizing the four objectives and identifies the Pareto-optimal solutions in the test runs. The initiative delivered noticeably positive results and had no impact on the objectives specified. In this way, the proposed model is also put to the test by looking at the performance of the proposed project as it is widely derived from the AOSMA findings and contrasting it with the outcomes of the comparative algorithm models to be analogous to MAWA’s hybrid models, NSGA III, LHSbased NSGA III, and MOPSO’s. In contrast to the previous algorithms, the AOSMA model exhibits diversity, uniform distribution, and a higher level of result satisfaction.
+Directions for Future Research
+The AOSMA model’s development demonstrates improved exploration and exploitation since it achieves a better convergence than other contemporary techniques. For its superiority and viability, it is advised to continue combining the SMA model with various techniques so that it can be contrasted with other beneficial and competitive development models to address the optimization problems. Furthermore, the implementation of 04-factor optimization in the construction sector is still relatively new, particularly the implementation of new goals to address issues in the building. Therefore, subsequent research studies should keep applying optimization of newer elements to diversify in the construction area or enhance by optimizing 05 targets at once to increase the optimization problem’s quality in the 4.0 era. Every topic has a positive and a negative side; thus, in the studies that follow, the author will continue to research and try numerous approaches in an effort to provide readers with a useful example.
+The data used to support the findings of the study can be obtained from the corresponding author upon request.
+Conflicts of Interest
+The authors declare that they have no conflicts of interest.
+Acknowledgments
+The authors gratefully recognize the time and facilities provided by Ho Chi Minh City University of Technology (HCMUT), VNU-HCM.
+Supplementary Materials
+The authors provide the supplementary material to show more details of how to calculate fuzzy of safety elements. (Supplementary Materials)

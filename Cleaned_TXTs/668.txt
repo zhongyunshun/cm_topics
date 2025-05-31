@@ -1,0 +1,168 @@
+Implementing a multiskilled workforce
+To cite this article: Carl T. Haas , Ana Maria Rodriguez , Robert Glover & Paul M. Goodrum
+(2001) Implementing a multiskilled workforce, Construction Management & Economics, 19:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (2001) 19, 633–641
+CARL T. HAAS1*, ANA MARIA RODRIGUEZ1, ROBERT GLOVER2, and PAUL M. GOODRUM3
+1Department of Civil Engineering, The University of Texas at Austin, Austin, TX 78712-1076, USA
+2Ray Marshall Center for the Study of Human Resources, 3001 Lake Austin Boulevard, The University of Texas at Austin, Austin, TX 78703-4204, USA
+3151C Raymond Building, Department of Civil Engineering, The University of Kentucky, Lexington, Kentucky 40506-0281, USA
+Received 20 September 2000; accepted 1 February 2001
+Recent studies show the construction industry in the USA is facing a long term labour shortage. Multiskilling has been suggested as a strategy to address this issue by utilizing existing workers more ef ciently. Multiskilling decreases the number of workers hired for a project and can improve productivity. Additional bene ts include higher income and increased employability of the workforce. To take full advantage of these bene ts, the workforce strategy and the planning and scheduling processes of a construction project must be adapted to use multiskilling effectively and ef ciently. The multiskilled workforce should be scheduled and organized to maximize the duration of employment for workers, reduce the overall labour requirements and cover the skills combinations required by the project. This research synthesizes and formalizes the methods that successful construction companies are currently applying to implement a multiskilled workforce. A methodology for implementing multiskilling is outlined as well.
+Labour, workforce, scheduling, planning, multiskilling, worker utilization, USA
+Introduction
+Sixty percent of US construction companies surveyed by the Business Roundtable (1997) reported dif culties recruiting and retaining their skilled workforce. One possible cause for the skilled workforce shortage may be the signi cant long term decline in real wages in construction in the USA, especially the decline in real wages for entry-level workers (Allmon et al., 2000; Oppedahl, 2000). The unattractive image of work in the construction industry makes it dif cult to recruit new workers, and the lack of opportunities for training and career growth leads to high turnover rates (Business Roundtable, 1997; Liska, 1998). Certainly some of these declines could be related to the labour shift in the US construction sector in the last 30 years from approximately 70% of the work conducted by organized labour to the current amount of about 20% (CPWR, 1998). The causes of this shift are outside the scope of this article.
+New labour strategies have been suggested to address the above concerns and make more ef cient use of existing craft workers. Multiskilling is one of these strategies where workers possess a range of skills allowing them to participate in more than one work process. Multiskilled workers may have a primary craft in which they are highly pro cient, but their role on a construction project is not limited to that craft. Traditional rigid craft boundaries can be blurred or eliminated, and workers are allowed and expected to work in various crafts as long as the task is performed pro ciently and safely (Stanley, 1997). A small percentage may have full pro ciency in two or three crafts, and they would be termed multicraft workers by some companies. Previous research demonstrated the bene ts of multiskilling, including a potential 5–20% labour cost saving, a 35% reduction in required total hires, a 47% increase in average employment duration for workers per project, and an increase in earning potential for multiskilled workers (Burleson, 1998). Field studies have con rmed these bene ts to employees and also have identi ed other workers’ ben-
+e ts including better quali cations resulting in
+Construction Management and Economics ISSN 0144–6193 print/ISSN 1466-433X online
+© 2001 Taylor & Francis Ltd
+increased employability and increased job satisfaction (Stanley, 1997; Carley, 1999). Related research has con rmed the positive impacts of multiskilling on projects to also include improved quality, improved safety, and the added  exibility in assigning tasks by  eld managers (Williamson, 1992; Cross, 1996). One study based on an extensive survey concludes that workers 8 with more skills do earn a higher annual income (Carley, 9 1999). Multiskilling experiences in related industries 1011 have produced similar results (Brusco and Johns, 1996). 1 Multiskilling imposes a number of requirements in 2 order to achieve its bene ts. Multiskilling requires more 3 and broader training than traditional labour strategies 4 for the segment of the workforce that is multiskilled. 5 Furthermore, to bene t from multiskilling, changes in 6 companies’ management systems and structures are 7 required. The objective of this research effort was to 8 document current successful practices for implement9 ing a multiskilled workforce and, based on these prac2011 tices, develop a formal implementation method.
+5 Information for this research was obtained through site 6 visits and telephone interviews with managers and craft 7 workers from construction  rms that had implemented 8 multiskilling and considered it to be a key element of 9 their success. Companies studied in site visits made use 3011 of multiskilling on a wide variety of projects in indus1 trial, petrochemical, and infrastructure construction. A 2 US Air Force aircraft maintenance unit was also stud3 ied to compare its multiskilling practices with current 4 practices used in construction. The site visits facilitated 5 an in-depth understanding of the management meth6 ods utilized on a multiskilled project. Table 1 pro les 7 the main characteristics of the companies visited.
+of the contractors in the study develops projects in different areas of the industry and in locations throughout the USA and the world. Such variation is important because it may indicate if successful use of multiskilling is somewhat independent of the characteristics of individual projects. The participating contractors each average several billion dollars of work per year.
+Table 2 presents the total numbers of interviews conducted for this research, listed by category of respondent. Most of the interviews were held with managers, planners and superintendents; however, craft workers were also interviewed to verify the information provided by managers.
+After documenting and analysing the current practices, a methodology for implementing a multiskilled workforce was formalized. This general methodology should be appropriate for a company that wishes to develop construction projects utilizing a multiskilled workforce.
+Common experiences with multiskilling
+Through the course of the research, some common themes emerged on how multiskilling is implemented.
+Prior related research identi ed two effective clusters of trades for a multiskilled workforce: a hypothetical ‘dual skill’ labour strategy and a ‘four-skills-helpers’ labour strategy similar to some encountered in practice on maintenance projects (Burleson et al., 1998). The dual skill cluster was based on identifying complementary workloads based only on the number of workers needed and the timing of the need in a typical construction schedule (Table 3). Skills or trades pairings used in practice are remarkably diverse and tend to be project type speci c.
+Projects’ locations
+Industry Area
+Cianbro Corporation
+New England and Mid-Atlantic
+Heavy construction, heavy
+The H.B. Zachry Company
+Gulf of Mexico, Southwest and
+Heavy industrial, petrochemical,
+Mid-Atlantic USA
+The Mundy Company
+Gulf of Mexico and the East
+Coast of the USA
+Brown and Root Engineering
+Throughout the USA and in 60
+Heavy industrial, transportation,
+Construction
+other countries
+Gulf of Mexico and South Eastern USA
+Throughout the USA
+Industrial and Commercial
+4011	Table 1	Companies visited, location and industry area of their projects
+Table 2	Number of personnel interviewed, by job title
+
+Number of telephone
+It was found that many of the companies grouped crafts according to skill complexity, trade similarities, and the timing of the needs for skills in a fashion similar to the four-skills-helper strategy. The craft cluster of the four-skills-helper labour strategy is shown in Table 4. A civil worker is trained and skilled in crafts that are part of the civil division but usually not in other divisions. However a civil division worker may be knowledgeable in tasks outside the civil division and may participate in them at a helper level.
+Analogously, broad training in a variety of tasks within a craft has long been a feature of union-sector apprenticeships. For unions, broad training facilitates the job referral process, assists union of cials to maintain and extend union jurisdiction, and helps the union attract new employers seeking competent workers. Workers trained in a variety of skills are more  exible, rendering them less vulnerable to unemployment and more likely to enjoy higher annual earnings and advancement into supervisory positions (Glover, 1975).
+Additional strategic reasons for implementing multiskilling
+Although each of the companies surveyed had different backgrounds and approaches to multiskilling, they had some common reasons for its implementation. These companies believe multiskilling makes them more competitive, because workers stay longer on a project and more  exible utilization is possible. Respondents identi ed such savings, in addition to those cited earlier, as among the primary objectives of implementing multiskilling as a labour force strategy. In addition, contractors noted that by maintaining a core, multiskilled workforce they ensure that they have the base for developing new projects, which they believe further enhances the  exibility and competitiveness of their  rms.
+Part of the success of the companies surveyed results from the use of multiskilling as a strategy to improve employees’ conditions, thereby improving attraction and retention. Many construction workers in the USA do not consider construction as a career, but as a source of a paycheck. This perception is partly due to a lack of organizational investment, lack of promotional opportunities, and the cyclic nature of the construction industry (Rowings and Federale, 1996). It was found in the study that multiskilling gives workers more possibilities to advance and develop a career path. Also, multiskilled workers improve their opportunities of remaining steadily employed within the same geographic region. With the increase in dual income families, workers in the USA are becoming less willing to move for a job. If workers are multiskilled, they can participate in many types of project, thereby avoiding the necessity of relocating to different areas. Often multiskilling allows workers to maintain a good job even if they develop physical limitations (Burton interview). Finally, multiskilling may increase worker motivation by increasing productivity and encouraging greater participation and engagement in the work processes.
+Electrical/insulation worker Rigger/equipment operator
+Surveyor/instrumentation worker
+Iron worker/structural steel erector
+Truck driver/crane operator/painter
+Concrete  nisher/millwright
+All helpers, labourers, equipment operators, truck drivers, crane operators, riggers, surveyors, painters Mechanical:
+Insulation workers, millwrights, pipe workers, welders Electrical:
+Electricians, instrumentation workers
+Project suitability for multiskilling
+Strategies for multiskilling vary signi cantly for: (1) small maintenance projects, (2) small capital projects, and (3) large capital projects. Typical approaches for each type of project can be identi ed
+In facility maintenance, multiskilled crews are formed that are comprised of two or more crafts and
+8 may include individuals who are multiskilled.
+that relate to more than one craft. The use of a multi-
+skilled crew improves the ability to respond to a wider
+range of situations on the facility’s site (Kohlman inter-
+Moreover, multiskilling provides the ability to
+5 because multiskilled workers and crews have a broader
+One contractor explained how his company utilized
+multiskilling as a means to participate in a broad variety
+9 of projects, giving his company increased  exibility 2011
+(Burton interview). Many of this company’s workers
+1 are simultaneously involved in a variety of heavy
+construction and industrial projects. Multiskilling was
+considered especially useful for developing varied small
+capital projects that involve activities with relatively
+Commonly when a construction project is developed
+with a large workforce totalling more than 200 workers
+Maintaining a large workforce composed solely of mul-
+tiskilled workers is unfeasible and unnecessary (Gomar, 1
+Dulce interview), because the peak workforce
+phase of construction allows almost all workers to per-
+form tasks in the craft in which they are specialized, and
+even requires the addition of many single-skilled work-
+5 ers to meet demand. However, during the initial and
+ nal stages of construction projects there are a broad
+variety of tasks to perform that involve different skills.
+Performing these tasks during the initial and  nal pro-
+ject stages with single-skilled workers generates a high
+4011 number of hires and layoffs. Implementing a core mul-
+tiskilled workforce from beginning to end reduces these
+2 costly transitions. Multiskilled workers also augment 3
+ exibility during the peak phase (Gomar, 1999).
+Impediments to multiskilling in the USA
+Impediments to multiskilling include: (1) high worker mobility, (2) safety issues, (3) lack of support for training, and (4) adverse reaction of some unions to multiskilling labour strategies when they cross union jurisdictional lines. For those multiskilled workers not retained in a company’s core force, their short tenure at each company reduces the return on investment in a company’s training efforts. Also, while most owners approve the utilization of a multiskilled workforce, they usually do not support training, and contractors have limited resources to make such investment themselves. Furthermore, some skills involve safety issues that limit the possibility of assigning a less skilled worker to participate in these tasks. Electrical and steel works are examples of this safety limitation (Nixon interview).
+Unions’ jurisdictions and work rules may hinder the implementation of multiskilling in certain areas. Unionized workers perform tasks only within their craft jurisdiction; one specialized crew has the exclusive right to a particular craft. This policy assures workers have adequate training and experience in each area. Because multiskilling avoids craft jurisdiction by assigning tasks to workers according to their abilities and the project’s needs, not according to their af liation, unions may resist the implementation of this labour strategy. Nevertheless, agreements with labour unions may be established to accommodate the needs of contractors to assign certain work outside of traditional craft boundaries of jurisdiction.
+The following sections explain how the concepts of multiskilling should be approached during each phase of a construction project. Figure 1 presents a summary of the methodology described.
+Implementation of multiskilling in the company
+Phase I, detailed in Figure 2, includes the required changes in the company’s systems and culture in order to develop a multiskilled workforce, and is independent of speci c project planning. The four main elements that should be determined during this phase are recruiting, training, compensation policies, and skills association procedures. These elements should be incorporated in a comprehensive craft progression program (Villalobos, 1997).
+The recruiting strategy begins with how to identify the skills in which workers are pro cient. According to the procedures followed by the companies surveyed, the recruiting strategy should include a skills assessment procedure to evaluate the employees’ pro ciency in a range of tasks and crafts. This information should be managed in a database and updated as needed. The recruiting strategy should also promote the career opportunities related to the multiskilling programme.
+Training strategies vary from company to company. Most of the training in a multiskilled workforce is on the job, but it may also involve off-site classroom educational programmes. In practice, the multiskilled
+Figure 1 Suggested methodology for implementing a multiskilled workforce
+Figure 2 Details of phases I and II of the suggested methodology for implementing a multiskilled workforce
+worker is created through time via participation in many projects. A major bene t behind the four-skillshelper strategy is that new recruits are assigned as a helper to many trade workers during their  rst years and have the opportunity to observe and become trained in each trade (Burleson et al., 1998).
+Ninety percent of companies surveyed increase worker’s hourly wages when they develop new skills (Stanley, 1997; Rodriguez, 1998). The compensation policy should be closely linked to the training and advancement of workers. A worker who is multiskilled can expect to work more hours and earn more during a given year than his non-multiskilled counterpart (Carley, 1999), and in some cases is guaranteed hours by a company as an incentive.
+All the companies in the study try to maintain employment for highly skilled workers as a way to retain them in the project and company. This assignment may be a signi cant cost for companies, but they consider it a worthwhile investment to retain an experienced workforce. When the multiskilled workforce is utilized properly, it should generate savings, even though multiskilled workers are earning higher wages, because of lower turnover rates, higher productivity, and fewer accidents (Burleson et al., 1998).
+The skill categories that should be grouped together are identi ed and standardized during the implementation of multiskilling in the company’s culture. Standardizing the skills association facilitates the planning process, because the tasks that are performed by each crew type become well identi ed. For the companies studied, skills are grouped partially depending on the types of project the company develops. Study of typical labour resource histograms can indicate which combinations of skills overlap most advantageously according to schedule demands. As previously described, the ‘dual skills’ labour strategy and the ‘four-skills-helper’ strategy are two possible methods of clustering worker skills together.
+During the implementation of multiskilling in the company’s culture, it should be determined whether the labour strategy will be followed for all projects. Some factors that companies may consider when deciding on the extent to which multiskilling will be implemented in their workforces are: size of projects, training capabilities, amount of specialized tasks performed, and potential stability of the workforce.
+Project concept trade-off and bid preparation
+Figure 2 presents the steps that the company should follow, after including multiskilling in the managerial scheme of the company, to implement multiskilling at the project level. This implementation process includes the conception of the project with consideration given
+8 to multiskilling and the bid proposal developed with
+9 consideration of its costs and bene ts. Some of the
+1011 factors that contractors consider when deciding
+1 whether to use multiskilling in a speci c project are
+2 the experience the company has in implementing
+3 multiskilling on similar projects, in-house or out-
+4 sourcing of workers, possible labour shortages and a
+5 project’s distance from sources of labour.
+6 factors such as local unions’ reaction to the imple-
+mentation of multiskilling, owner’s requirements, effect
+8 of the implementation of multiskilling on the
+9 company’s image and its relationship with subcon-
+tractors might also be considered.
+For the companies studied, project’s owners have
+2 occasionally indicated in bid documents whether they
+3 will agree to the use of multiskilled workers. 4 5 multiskilling to the owners to obtain their support. 6
+Sometimes, the company presents the bene ts of
+However, some owners have not agreed with the imple-
+7 mentation of multiskilling, because they felt the
+projects require the exclusive use of specialized workers
+to satisfy safety or quality concerns.
+Bid estimates prepared by the  rms studied made no
+1 mention of the use of multiskilled workers.
+and time values used were obtained from previous expe-
+3 riences of the companies in similar projects or from
+4 standard estimating manuals. These values were
+5 adjusted according to the companies’ experience and
+the engineer’s criteria in which multiskilling was implic-
+7 itly considered (Foster, 1998; Varner, 1998).
+8 multiskilled workforce, an activity is usually accom-
+plished in a shorter period of time, because workers are
+typically more ef cient (Foster and Varner interviews).
+Project planning, scheduling, and
+4 construction phase
+6 A  rst step in planning a multiskilled workforce project is to detail the extent of use of multiskilling before bidding on a project, as shown in Figure 3. As mentioned before, multiskilling may be implemented throughout the workforce or in a certain percentage of it. The company’s criteria and the project’s characteristics determine the extent to which it should be implemented.
+When a company’s workforce is not composed solely of multiskilled workers but includes many single-skilled
+Figure 3 Details of phase III of the suggested methodology for implementing a multiskilled workforce
+workers, the work should be broken into small pieces, each piece or task involving a single skill. When the workforce is composed only of multiskilled workers, planners combine activities that involve certain types of work into a higher-level activity and assign them to a speci c crew. Planners attempt to pro t from multiskilling by combining activities, because a single crew can perform all the tasks. Properly managed, this results in less transition or idle time. The activities are grouped together according to their progression during normal construction processes.
+The companies surveyed indicated that multiskilling impacts their duration estimates. If not all workers on a project are multiskilled, it is preferable to ignore any potential increase in productivity due to multiskilling during the planning stages. The duration of the activities is not calculated considering the composition of the crew that will perform the activities, because often this information is not available in the long term or early scheduling phase of the project. However, if planners know that one multiskilled crew can perform all the activities without considering craft boundaries, they will load this crew with the total amount of required manhours. The developed schedule can be adjusted during the short term planning cycle according to the time savings that multiskilling may generate during the construction phase.
+During the planning, scheduling and construction phase, foremen determine how to compose crews according to the skills of available workers and the requirements of the tasks to be accomplished (Varner interview); see Figure 3. Workers may be pro cient in many skills, but foremen will try to assign them to the tasks in which they are most competent. Some workers may not work in their main crafts if not required to do so, but they may be assigned to other crews if they possess the basic knowledge to act as helpers. The role that each member of the crew plays when performing the activities is determined by the skills they possess. The skill mix within a crew ensures that the tasks are performed as required.
+As a practical example, planners on one project identi ed certain tasks that required  ve pipe  tters and  ve instrument  tters. The pipe  tters’ skills were needed at the beginning, but were not required later, whereas the instrument  tters’ skills were in greater demand late in the project. Thus, both skills were combined, and workers from each trade helped one another.
+Although some companies link tasks together that involve similar crafts, the advantages of multiskilling are obtained primarily through the crew composition process, which frequently relies on the foremen’s knowledge of individual craft workers’ abilities and talents. This limits the effectiveness of the crew composition because many important factors may not be remembered, such as how pro cient workers are at certain crafts or their experience with individual workers on similar projects (Denison interview). Furthermore, composing crews based on the foremen’s judgment is a subjective process and does not guarantee that workers are assigned in the most productive manner (Anderson interview).
+Through the short term plans, foremen identify which workers will  nish their tasks soon and which tasks are required in the coming days. Foremen consider whether multiskilled workers can be assigned to other tasks where they might help satisfy the demand for new workers (Anderson interview). If the workforce must be reduced, the best workers are kept. From the surveys, one criterion for choosing which workers stay in a company is the number of skills they possess. If a foreman is interested in keeping certain workers, he or she may suggest they receive added training to develop skills that will be required in the coming stages of the project (Dulce inteview).
+The companies studied believe that ultimately their projects are usually  nished on time because of their planning efforts, not necessarily because of multiskilling. They accept that multiskilling bene ts project performance because workers are more committed and more productive. Nevertheless, these bene ts would not be realized without a thorough planning process that ensures all the resources are available on time, all tasks are clearly identi ed, and in general that the project is developed properly (Susi interview).
+Need for tools that support the crew composition process
+Most of the companies studied maintain databases to document the work histories of current and past employees, in order to record the capabilities of individual workers in an organized fashion. The personnel department consults the databases when assigning people to projects according to their skills, location and former experiences with the company. A database supports the growth of a multiskilled workforce, because workers with more than one skill may be identi ed during the hiring process (Nixon interview). The surveyed companies prefer to hire multiskilled workers, though they may be initially hired for one speci c craft.
+Among those surveyed, most planners and foremen did not consult the databases, although they needed to know the workers’ skills to be able to assign them to tasks appropriately. None of the surveyed companies possessed a computerized information system that generates an optimized workforce composition, or automatically suggests the most appropriate workers for certain tasks based on their background and skills. Respondents agreed that utilizing computer software could assist managers to identify the optimum crew composition according to all of the objectives of the project. Such a tool has been developed in a related research project (Gomar, 1999)
+Conclusions and recommendations
+The following conclusions emerged from this study.
+The companies studied have implemented multiskilling primarily to reduce their labour costs and to retain a skilled core workforce. Their intention is to implement this labour strategy in most of their projects. This labour strategy is well suited to maintenance projects, due to the broad variety of tasks that should be performed by the same workforce, but it also offers bene ts in capital construction projects.
+The following recommendations emerged from this
+5 The authors would like to thank the Alfred P. Sloan
+6 Foundation for funding this research, and to thank the companies that contributed their time and information.

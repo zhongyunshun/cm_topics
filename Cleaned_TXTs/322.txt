@@ -1,0 +1,209 @@
+﻿See discussions, stats, and author profiles for this publication at:
+A framework for determining critical success factors influencing construction business performance
+CITATIONS	READS
+4 authors, including:
+Lawrence Mbugua
+University of Reading
+5 PUBLICATIONS   61 CITATIONS
+All content following this page was uploaded by Phil Harris on 02 June 2014.
+The user has requested enhancement of the downloaded file.
+L.M. Mbugua, P. Harris1, G.D. Holt and P.O. Olomolaiye
+Built Environment Research Unit, School of Engineering and the Built Environment, University of Wolverhampton, Wulfruna Street, WV1 1SB, UK
+Recent reports by Latham (1994) and Egan (1998) have emphasized the need for the construction industry to increase its competitiveness, and have suggested the use of performance measurement as a tool for continuous improvement. Comprehensive measurement of a company’s performance and subsequent feedback to its managers is vital for business transformation. Measurement also enables businesses to be compared with each other on the basis of standardized information, allowing best practices to be identified and applied more widely. Historically, business performance has been determined principally through the use of financial performance criteria, but recently, it has been established that performance measurement needs to go beyond this. This paper reviews the various financial and non-financial factors that influence construction business. A methodology for defining the critical success factors relevant to construction businesses is further outlined. The critical success factors associated with construction business are also reviewed. Finally, it is concluded that more important than presenting a list of critical success factors (which are bound to change) is the need to have a holistic framework for identifying and implementing the required success factors.
+construction business, critical success factors, performance measurement.
+Businesses are experiencing a new age of competition that emphasizes strategic thinking and takes into account corporate strategy, systems and business processes. Consequently, performance measures must emphasize the macro or holistic picture of a business, rather than be micro or metric focussed. Various independent studies have provided strong evidence indicating a causal linkage between the application of performance measurement and business excellence. For instance, Ashton (1997) observes that there is a positive correlation between the intangible aspects of stakeholder performance and bottom line business results. Also, Lingle and Schiemann (1996) demonstrate that companies who measure their performance usually out-perform those that do not.
+The past 20 years have witnessed many amalgamations and mergers of construction companies, resulting in firms of conglomerates now dominating UK construction business. Many of these larger firms are now part of parent companies with multiinterests across a wide, diverse section of different industries. It is, thus, difficult to make direct comparisons across contracting firms, because of the varying commercial interests they hold (e.g. in material producers, quarries and product manufacturers).
+Mbugua, L M, Harris, P T, Holt, G D and Olomolaiye, P O (1999) A framework for determining critical success factors influencing construction business performance. Hughes, W (Ed.), 15th Annual ARCOM Conference, 15-17 September 1999, Liverpool John Moores University. Association of Researchers in Construction Management, Vol. 1, 255-64.
+Some of these larger firms, such as P&O and Tarmac, have also diversified into activities beyond their ‘construction’ remit. Others have non-contracting businesses and it would be difficult to ignore them when evaluating performance (Building 500 1995).
+There is remarkably little research of a holistic nature that focuses on the factors associated with long-term success of UK construction business. Construction business is considered difficult to understand due to the apparently ‘unique’ nature of each construction project. The fact that the construction product is normally manufactured on the client’s premises (i.e. construction site) and that the organization of the construction process and its participants is fragmented, makes it difficult to capture and retain knowledge. In other words, lessons learnt during construction projects are most often lost on completion, and the learning process has to recommence each time new teams are assembled, on new sites.
+Business Performance Measurement (BPM) is a vital tool that can enhance the capturing of knowledge and hence provide improved construction performance, at both corporate and project levels. BPM enhances the development of a learning organization by capturing and analysing what is happening in the business environment, especially through its customers, employees, suppliers, partners and new technologies (Olve et al. 1999). Measurement enables projects and businesses to be compared with each other on the basis of hard information, allowing effective (best) practices to be identified and applied more widely.
+BPM improves management practice. It provides essential information by enabling activities to be monitored, on a regular basis, at several levels within the organization. Performance measurement provides information for strategic post mortem / evaluation (Jackson and Palmer 1989). It also provides a broad / comprehensive picture of a business and a strategic focus on critical business issues and on continuous improvement.
+A Business Performance Measurement (BPM) system is an interrelated set of financial and non-financial measures designed to provide managers with vital information about the current state of the business and its future prospects
+(measure.net 1999). BPM systems succeed when they provide relevant facts and data about current performance and show what needs to be improved, either immediately or in the future, and the measures are aligned with strategic objectives.
+BPM is not merely about counting, collecting absolute data or building league tables. It is about providing a stimulus for business transformation. Transformation leads to creating company strengths, growth, prosperity and ultimately, competitiveness. Measurement for the sake of measurement does not lead to business transformation. For measurement to be effective, it has to be linked to strategy, focussing on processes and be geared towards positive action and improvement. Zairi’s (1994) analogy of comparing measurement to the umbilical cord that links a mother to its baby is apt in this context. Mothers, in a similar manner to organizations, have to look after themselves in such a way that whatever they do and whatever they eat, is not going to harm their baby (in this case, the business). The umbilical cord, or (performance measurement), is the mechanism by which the baby grows and the relationship with the mother remains a close one.
+
+Current ratio
+Total liabilities to net worth
+Total assets to revenues
+Revenues to working capital
+Profitability Return on total assets Return on net worth
+Profit, Capitalisation Growth: Sales Growth %, EPS growth %, PE ratio Added value:
+Profit and profitability
+Liquidity and activity ratios
+Profitability ratios
+Coverage ratios
+CRITICAL SUCCESS FACTORS
+Critical success factors (CSFs) are the few (typically four or five) issues, fundamental to the achievement of a particular strategic objective. Performance indicators are the quantifiable measures of CSFs. A distinction is often made between performance indicators and performance measures. The former specifies the measurable evidence necessary to prove that a planned effort has achieved the desired result (Kaufman 1988). In other words, when indicators can be measured with some degree of precision and without ambiguity they are called measures. However, as is most often the case, when it is not possible to obtain a precise measurement, it is usual to refer to performance indicators. Thus, indicators are less precise than measures (Jackson and Palmer 1989). In this paper, the term ‘measure’ will also include indicators.
+Traditionally, performance measurement has been assessed on purely financial criteria (Ramsey-Dawber 1995, Peters and Waterman 1982, Eccles 1991). Their main advantage is that they are easily captured and provide a quantitative output. Examples of financial measures used by construction companies are illustrated in Table 1.
+Criticisms of these financial measures are growing increasingly. In particular, it is held that financial measures have a backward-looking focus and concentrate mainly on immediate rather than long-term goals. This tends to promote a reactive management style (Ashton 1996). Business strategies based solely on traditional financial measures tend to lead to strategies that sub-optimize certain areas. They indicate the level of past success or failure that has been achieved and have little to tell about the drivers of the firm’s future business performance. Consequently, a number of performance measurement systems have been developed and the underlying theme is that more than simply financial measures are required.
+The need to focus on competitive issues, such as product/service quality, customer satisfaction and business processes, has resulted in companies turning to non-financial measures. These measures, in addition to providing the management with a set of tools for continuous improvement, encourage a proactive management style (Bititci 1994). The list of possible non-financial measures influencing business performance is inexhaustive. Therefore, to enhance the determination of relevant CSFs influencing construction business performance, a framework is suggested in this paper.
+Business performance frameworks
+Balanced Scorecard
+(Kaplan and Norton 1992)
+Inclusive Approach
+(Centre for Tomorrows’
+
+Information and analysis
+Human Resource
+Quality and operational results
+Customer focus and satisfaction
+4 perspectives
+
+Learning and Growth
+5 key relationships
+
+
+
++ leadership
+
+Customer satisfaction
+Impact on society
+Very few companies systematically measure their performance in a holistic way, and most of those that do, have not done for long (Centre for Tomorrow’s Company 1998). Often the existing system is a product of corporate evolution, not thoughtful design. Over time, new products and services are developed to meet the changing needs of customers, business processes change to ensure the firm is competitive and strategies are continuously revised to improve the overall functioning of the business. But what happens to the performance measures? Many organizations continue to operate with a collection of loosely related, overlapping, and incomplete measures. The result is a decline in the quality of the corporate performance measurement system. The consequences include misjudging relative performance to competitors, complacency; misjudging business performance resulting in undeserved performance rewards or denying appropriate rewards to the deserving; and opportunities for necessary improvement being missed in favour of less worthy activities. The first step in solving these problems is establishing a framework for identifying CSFs. The process of defining a business performance measurement system consists of five stages (Tipping 1998): 1) define the overall framework; 2) identify the relevant CSFs; 3) select the key performance measures; 4) integrate CSFs and measures with business strategy; 5) define the continuous improvement and review system
+Defining the overall framework
+The first step is to establish clearly the business objectives of the company. It is necessary to analyse the business and its outcomes in a systematic way allowing performance measures to be identified. The process should start with preparation of core values or categories for the particular business. These help identify key strategic evaluation issues.
+The core categories are derived from the company’s business strategy, its philosophy and values. They could also be based on any of the established strategic selfassessment frameworks (Table 2) that attempt to put measures into pre-defined categories. Once these strategic issues have been developed it is relatively straightforward to specify their properties and consequently determine the relevant CSFs.
+Identifying relevant Critical Success Factors
+Within each core category there will be a number of sub-categories and CSFs relevant to each identified factor. For example, within the core value of People, there exist various types of ‘customers’ – i.e. clients, employees, suppliers, contractors, and competitors. These CSFs need to be identified for each core category and related to the sub-categories, hence providing an overall framework that can help define the relevant measures.
+Selecting key performance measures
+The next step is for managers and project/process teams to identify those measures that illustrate achievement of the business goals and strategies. Normally, this will be accomplished through a series of facilitated workshops that will include these steps:
+a) Compile a list of measures – A comprehensive list of measures covering all aspects of the organization’s performance should first be assembled. This list should include appropriate measures that are currently used in executive, board and project meetings, incorporated into budgets and planning documents, reflect performance for each of the CSFs identified previously, are used internally by functional areas to measure their own performance and/or are used by other organizations.
+b) Filter the list of measures – The list then needs to be refined, filtering out inappropriate items. A balance should be sought between having too many measures, and thus losing focus, and having too few that they do not reflect a comprehensive view of the business to allow management to make an informed decision (Ashton 1997).
+c) 	Check for Completeness and Appropriateness – The following questions
+assist to critically review the refined list of measures for completeness: Are there a reasonable number of important measures for each core value? Is there a good balance between financial and non-financial measures? Are there ‘drivers’ as well as ‘results’ measures? Are there measures from all departments / functional areas? Are there measures representing each of the key processes? Do the measures clearly illustrate the key issues of Time, Cost and Quality?
+Integration of CSFs and measures with business strategy
+Having selected the list of key performance measures they should be integrated with the CSFs and aligned with the corporate strategy and business processes, deleting/creating additional categories of factors as required. In any area, some measures have a greater significance than others - either statistically or intuitively – and these differences should be reflected by distributing or ranking them with relative weightings. Having agreed on the measures to include, it remains to align and focus measures on those key objectives that are most deserving of measurement through scaling, ranking or weighting.
+It is also important to define the information architecture. Information architecture, a termed used by Eccles (1991) and Brown and Laverick (1994), refers to the information required, the means of obtaining it, its source and the rules regulating its flow. Thus it is important to decide what data is required, who is to collect the information, how it is to be done, who is to receive the performance measurement information, the form of presentation and what action is consequently to be taken. Presentation is largely a matter of choice. However, where possible the results should be illustrated graphically and should be integrated within the overall management information system, and in such documents as quarterly accounts, annual reports and budget statements.
+Define the continuous improvement and review system
+The purpose of this final phase is to establish a discipline for regular performance review and feedback, based on which specific improvements can be achieved at functional levels and contribute to the business or strategic objectives. In installing this discipline the integrated CSFs and measures provide a useful means of ensuring performance measurement is an ongoing, evolving process.
+CSFs FOR CONSTRUCTION BUSINESS
+Using this framework and based on extensive literature search, the CSFs relevant for construction business were identified. These were grouped into 4 core categories: people factors, project factors, process factors and result factors.
+People factors
+By people we mean all business partners / stakeholders. A recent study by MORI (1996) recognized the importance of relationships between a business and its business partners or stakeholders. It established that 72% of UK business leaders agreed that a successful business would better serve its shareholders by focussing on the needs of its customers, employees, suppliers and the wider community. A similar study in the US by Kotter and Heskett (1992) found that 12 outstanding performers (whose average profit growth over 11 years was 756%) were characterized by the strong emphasis on relationships with their customers, employees and shareholders. Another UK study of best practice by International Survey Research (Maitland 1994) found that the best performing companies were ones that included their employees, customers and communities in their management policies and processes. Similarly, the Centre for Tomorrow’s Company advocates for the concept of ‘inclusiveness’, an approach based on the premise that business success in the 1990s and beyond can only be achieved by developing world-class relationships with all stakeholder groups. In other words, competitive advantage requires mutual advantage.
+With such considerable evidence linking stakeholder relationships and sustainable business success, construction businesses cannot afford to ignore ‘people relationships’. In construction, the five key relationships and their respective goals are: (1) Loyalty from clients–total quality customer service; (2) Commitment from employees–human resource management; (3) Co-operation from suppliers–supply chain management; (4) Collaboration from sub-contractors–partnering; (5) Respect from competitors–world class contracting.
+Client related measures
+Most organizations measure customer satisfaction / dissatisfaction in one way or another. At times, however, this can be simply tick sheet questions and / or crude ratings. Instead, an individualized, personal approach is required – knowing who the customers are, their experiences, expectations and how the company can respond. Client related measurement includes not only measuring the obvious customer satisfaction, but also, other broader customer measures such as customer feedback, defection, loyalty, profitability and evaluating customer value. Customer satisfaction drives desired customer behaviours, retention and loyalty which, in turn, contributes to business health and greater profits. The most useful client measures are aligned with business strategy, corporate priorities and business objectives (Ashton 1997).
+Clients in the construction industry are wide and diverse; each with their own particular needs and designs regarding their project. Hence the individualized,
+Harvey and Ashworth 1997
+
+
+High service levels Minimum cost of
+
+
+Running costs
+
+Cost Performance
+
+Functionality
+
+Working relations
+Lack of surprises
+personal approach is even more imperative. Construction client requirements can be attributed to the following four main factors: Time–length of contract period and certainty; Cost–initial as well as life cycle, and value for money; Quality–quality of both the service and the finished product; and Performance–construction reliability and performance. Other client related factors are listed in Table 3.
+Employee-related measures
+Employee measurement can be difficult because it deals with human nature. A truism here is that: motivated, satisfied and challenged individuals usually produce better results. In considering the strategic implications of employee measurement, there are three points. First, intensely competitive market pressures impact on the organization and therefore, its people dimensions, such as morale, job satisfaction, absenteeism and loyalty. All have to be measured. Second, employee measures must align with the human resource strategy, business objectives and eventually have proven outcomes. Finally, employee measurement should be driven by three attributes, which also relate to organizational values and business performance. These are service, quality and productivity. Table 4 lists various employee-related measures:
+Project factors
+The main characteristics that distinguish the construction industry are related its product. Completed buildings (and other structures) are often large, expensive and represent a large capital outlay by the client. An individual project may represent a large proportion of a contractor’s annual turnover, causing little continuity in that contractor’s production functions. Furthermore, many construction products are oneoff designs and lack any prototyping. Buildings (and other structures) are for the most part, bespoke, and manufactured to suit the individual needs of each customer (Harvey and Ashworth 1997). These characteristics increase the need to get things right first time every time, because the consequences of getting it wrong with even a single client or project, can seriously impact the business. Project related factors include those related to suppliers, contractors and sub-contractors as illustrated in Table 5.
+Various construction task forces, (Table 6) have also identified a range of indicators for the UK construction industry. Although these indicators are targeted at assessing industry-wide performance, individual companies could also apply them.
+Business process factors
+Building relationships is necessary but not sufficient for sustainable business success. The business processes involved in the delivery of the product or service are also important. However, setting up a measurement system for every process in the company consumes much effort. Therefore, measures must be appropriate to the activities involved. They should be reduced to the ‘vital few’ or key business drivers, and periodically redefined to ensure relevance.
+Job satisfaction
+Job security Career progression Morale
+Pleasant environment A sense of belonging Recognition
+Technical expertise,
+Performance goals,
+
+Resourcefulness dependability
+Capability– analytical; managerial; Leadership; Business development;
+Professional activities;
+Efficiency 35%
+Record-keeping and documentation of experience
+Ability to innovate and develop
+Personal integrity
+Ability to communicate and establish contacts
+Discipline  and adherence to company regulations and procedures honesty
+Effectiveness 15%
+Achievement of planned agreed objectives
+Quality 12%
+
+Profitability 8%
+Profitability
+Project performance
+Project manager related factors
+Team member related factors technical background communication skills
+trouble shooting
+Project related factors
+Density of a project
+Organization related factors
+Functional managers support
+
+Compliance with requirements;
+accuracy of reports; managerial capability; technical excellence Cost control  within budget;
+current, accurate and complete billings;
+relationship of negotiated costs
+to actuals; cost efficiency; change orders issued Timeliness of performance meet interim milestones;
+reasonable/co-operative; promptness;
+End-users (customer) satisfaction
+Industry measures
+Latham (1994)
+Construction Productivity Network (1998)
+Construction Industry Board (1998)
+Public interest
+Productivity
+Project performance
+
+Research and development
+Training and recruitment
+
+Predictability (of time and cost)
+Construction time
+Productivity (value added per head)
+
+
+
+Construction time
+Predictability of time and cost
+Productivity
+Turnover and profitability
+The result factors are related to what the company is achieving in relation to its planned business performance. These include the company’s success in achieving financial and non-financial targets and in satisfying the expectations of all stakeholders. Brown and Laverick (1994) and Kay (1993) identified the following expected results for various stakeholders: Parent company: quality of management; financial soundness; corporate assets; Commercial Customers: quality of products; value for money; innovation and marketing; Ability to attract, develop and retain; health, safety and the environment.
+The financial measures are mainly result factors (effects) as opposed to drivers (determinants) of business performance. Although vital to BPM, they need to be supported by the other non-financial business drivers in order that the performance measurement is holistic.
+CONCLUSIONS
+Business performance measurement is an essential strategic management tool that enhances the competitiveness of companies. BPM has recently gained recognition as a means for continuous improvement, competitiveness and ultimately transforming business performance. This paper asserts that to achieve improved competitiveness and business transformation it is important to have an optimal business strategy supported by strategic performance measurement. Furthermore, to develop these, the management team must understand the key parameters that are not reflected by the traditional financial measures. Therefore, non-financial measures of performance must be defined, based on top-level (strategic) business objectives.
+No single measure, financial or otherwise, can provide a clear performance view for the overall business. It is thus absurd that companies should seek a single panacea measure that meets all their business needs at all times. At the same time, given limited resources, it would be impossible to track all of the factors that impact business performance. Hence, only the vital few (critical) factors need be identified and monitored to ensure success.
+Finally, more important than presenting a list of critical success factors, is the need to have a holistic, strategic framework for identifying and implementing the required factors. These factors will of course vary from company to company, and from time to time, depending on the current business environment. However, the framework will ensure that the appropriate measures are consistently selected and implemented.
+Abdel-Razek, R.H. (1997) How construction managers would like their performance to be evaluated. Journal of Construction Engineering and Management 123(3), 208–213.
+Ashton, C. (1997) Strategic performance measurement. Business Intelligence.
+Belassi, W. and Tukel, O.I. (1996) A new framework for determining critical success/failure factors in projects. International Journal of Project Management. 14(3), 141–151.
+Berry, B. and Otley, D. (ed) (1996) Performance Measurement and Control: Research and Practice. Chartered Institute of Management Accountants.
+Bititci, U.S. (1994) Measuring your way to profit. Management Accounting. 32(6), 16–24.
+Brown, D.M. and Laverick, S., (1994) Measuring corporate performance. Long Range Planning. 27(4), 89–97.
+Bill, P. (ed) (1995) Top 50 contractors Building Magazine. July 14th CCLX(7900), 21–24.
+Chinyio E.A, Olomolaiye P.O., and Corbett, P. (1998) An evaluation of the project needs of UK Building clients. International Journal of Project Management. 16(6), 385–391.
+Construction Industry Board (1998) Key performance indicators for the construction industry. Construction Industry Board.
+Construction Productivity Network (1998) Conference report on performance measurement in construction. (Report CPN816L) London: Construction Industry Research and Information Association.
+Centre for Tomorrow’s Company (1998) The inclusive approach and business success.
+Eccles, R.G. (1991) The performance measurement manifesto. Harvard Business Review. Jan- Feb, 131–137.
+European Foundation for Quality Management (1998) Self-assessment: guidelines for companies. European Foundation for Quality Management.
+Egan, J. (1998) Rethinking construction: report of the construction task force on the scope for improving the quality and efficiency of UK construction, London: Department of the Environment, Transport and the Regions.
+Harvey, R.C. and Ashworth, A. (1997) The construction industry of Great Britain.
+Jackson P. and Palmer B. (1989) First steps in measuring performance in the public sector: a management guide. Public Finance Corporation with Price Waterhouse.
+Kangari, R. Farid, F. and Elgharib, H.M (1992) Financial performance analysis for construction industry. Journal of Construction Engineering and Management. 118(2), 349–361.
+Kaplan, R. and Norton, D. (1992) The balanced scorecard: measures that drive performance. Harvard Business Review. Jan-Feb. 71–79.
+Kaplan, R. and Norton, D. (1994) Devising a balanced scorecard matched to business strategy. Planning Review.
+Kay, J (1993) Foundations for corporate success. Oxford University Press.
+Kotter, J. and Heskett, J. (1992) Corporate culture and performance. Free Press. Latham, M. (1994) Constructing the team: a joint review of procurement and contractual arrangements in the UK construction industry final report.
+Lingle and Schiermann (1996) From balanced scorecard to strategic gauges: is measurement worth it? Management Review March.
+Maitland, R. (1994) Employee morale in the high performance organization. International Survey Research.
+Baldridge National Quality Program (1998) Malcolm Baldridge national quality award criteria. American Society for Quality Control.
+Corporate Performance Measurement Network (1999) Performance Measurement Audit.
+MORI (1996) Captains of industry survey.
+Olve, N.G., Roy, J. and Wetter, M. (1999) Performance drivers: a practical guide to using the balances scorecard.
+Peters, T.J. and Waterman, R.H. (1989) In search of excellence: lessons from America’s Best run companies. Harper and Row, London
+Ramsey-Dawber, P.J. (1995) A critique of the business performance measures of UK construction companies. Journal of Construction Procurement. 1(2), 100–110.
+Shah, J.B. and Murphy, J. (1995) Performance appraisals for improved productivity. Journal of Management in Engineering. 11(2), 26–29
+Tipping, M. (1998) New views of performance measurement: a practical approach to measuring and managing performance. Perform Magazine.  //www. pbviews. com/ magazine
+Zairi, M. (1994) Measuring performance for business results. Chapman Hall.
+View publication stats
+Mbugua, Harris, Holt and Olomolaiye
+Construction business performance
+Mbugua, Harris, Holt and Olomolaiye
+Mbugua, Harris, Holt and Olomolaiye
+Mbugua, Harris, Holt and Olomolaiye

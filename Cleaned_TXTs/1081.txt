@@ -1,0 +1,102 @@
+﻿Construction Management and Economics, 1990, 8, 77—87
+Construction industry in Turkey
+AMIR TAVAKOL1a and SEVKET CAN TULUMEN b
+aAssistant Professor of Civil Engineering and Coordinator of the Graduate Program in Construction Engineering and Management, Case Western Reserve University, Cleveland, Ohio, USA bPresident, TSE. Construction Ltd, Istanbul, Turkey
+The Republic of Turkey is a majorforce in the international construction market. This paper presents the construction industry in Turkey. Special attention is paid to the overview of the industry; the size and structure of the construction industry; construction contracts (competitively bid, negotiated, buildoperate-transfer, 'mutual construction'); selection ofcontractor and bidding law; management structure; construction management techniques (bar chart, progress and development outline, CPM); trend of the domestic market; and international construction.
+Construction industry, international construction, construction management, Turkey
+Introduction
+Turkey, omcially called the Republic of Turkey, is located between the west side of Asia and the southeast side of Europe. It has a land area of 780 576 km2 (approx. 301 217 sq. miles), making it roughly twice the size of the State of California. It has a population of 52 million, of which approximately 3 millions are located in the capital city of Ankara and 6 millions in Istanbul.
+The Turkish construction industry began to develop after the end of the Second World War in 1945. Between 1950 and 1970, it developed rapidly due to the USA government and other development funds given to the country. These aids, called 'Marshall Aids', were named after the person who planned and organized them. During this era most of today's giant construction companies were founded and established. The country, however, faced some serious troubles when USA government funds and the United Nations Development funds were cut down due to the embargo that was imposed after the 1973 Turkish-Greece Cyprus Peace War. The embargo was the main starting point of Turkey's economic problems.
+Until 1979, the country faced serious economic troubles with an increasing high rate of inflation, decreasing natural resources, declining exports, growing imports, and the accumulation of numerous unpaid debts to other countries. Consequently, like many other sectors, the construction industry suffered a crisis during this period. There were many bankruptcies, unfinished jobs, legal claims, and unemployed workers in the domestic market during that time.
+In 1980, after the military revolution, the military government took numerous precautions in an attempt to solve the country's overall problems. The military government also made some extraordinary changes in the economic policy which led the country to implement a
+0144-6193/90 $03.00+.12 0 1990 E. & F.N. spon Ltd.
+short-wrm stability programme and a long-term structural adjustment plan. These changes had many positive effects on the sectors and the construction industry began to rise again like many other sectors. Between 1980 and 1987, the construction industry improved tremendously, achieving unequalled success.
+Since 1980, the Turkish economy has witnessed an extraordinary turnaround due to the comprehensive economic recovery and structural adjustment programme. Inflation is dramatically down: well over 100% in early 1980 to below 25% at the end of 1986. The real growth in the Gross National Product (GNP) is equally surprising: from under in 1980 to almost + 8% in 1986. The 1986 Gross National Product (GNP) exceeded 278 billion Turkish Liras (T L), in terms of fixed 1968 prices (approx. $49 billion in 1986 producer prices). 5
+General industry overview
+Construction accounted for about 10.1 % of the GNP in 1986 (see Fig. 1). 6 Approximately 4.0% of the total work force, or about 651 700 persons, are involved in the Turkish construction industry. 5 There are also more than 125 000 graduate engineers plus 85 000 architects operating in the industry. The construction industry also consists of 40 subindustrial sectors with much activity and trade among them.
+T ra.nsport at ion
+
+Fig. 1. 1986 gross national product sectoral shares6
+
+The breakdown of the different types of owners, with whom the construction industry deals is as follows: (1) 40.3% — Government Ministries and their General Directorates; (2) 20.0% — municipalities; (3) 17.5% — private owners; (4) 8.5% — the state economic enterprises; (5) 7.1% — other public agencies; (6) 6.6% — foreign agencies. 1 7
+The following is the breakdown by categories of construction, to which the construction industry contributes: (1) 54.2% — heavy construction; (2) 22.4% — housing and residential;
+(3) 15.6% — commercial and industrial; and (4) 7.8% — other."
+Size and structure of the industry
+There are about 10 000 registered contractors competing for the domestic market with 13 026 licences issued. 2 The status of the licences issued for them is as follows: 5848 — housing and residential buildings; 2568 — commercial and industrial buildings; 1780 — heavy construction; 945 — highways and transportation; 783 — water works, dredging and sewer systems; 347 — paving and landscaping; 286 — marine works; and 469 — other.2
+The top thirty construction companies operating in the domestic market are listed in Table 1. 17 Most of these companies are conglomerates with investments in other industries such as: banking, tourism, marketing, import-export, automative, construction materials, and cement production.
+The Turkish Ministry of Public Works and Resettlement uses a contractor classification system to control the nature and size of the projects a contractor may be allowed to bid on, and issues a contracting licence and a technical proficiency certificate. 9 The classification is based on the past experience, technical and management abilities of the contractor and is renewed every third year with an adjusted ceiling. According to this system, the Turkish contractors are grouped into three major classifications: group A (large and technical projects), group B (medium and small projects), and group C (electrical and mechanical).
+There are approximately 20 000 subcontractors, of which 6278 are licensed in 33 trades. 1 7 The subcontractor market is usually a non-competitive bidding market based on negotiation with previous and trusted subcontractors. There are also about 800 foreign subcontractors operating in the country mostly working in heavy construction projects.
+The Turkish construction sector is mostly a non-union sector.
+The major public works owners are: the Ministry of Public Works and Resettlement, the Ministry of Energy and Natural Resources, the Ministry of Communications and Transportation, the Ministry of National Defence, the Ministry of Tourism; and other public corporations and many municipal owners. Among these, the Ministry of Public Works and Resettlement is the major owner. It has six General Directorates of Highways; Water Works; Railroad, Port, Airport; Construction Works; Catastrophe Precautions; and Technical Research and Applications. 9
+There are basically four different types of construction contracts, namely, competitively bid, negotiated, build-operate-transfer; and 'mutual construction'. Competitive bid contracts are
+Top 30 Turkish construction companies"
+Enka Construction and Industry Inc., Istanbul
+Tekfen Construction and Installation Co. Inc., Istanbul Ata Insaat Ltd., Istanbul
+Nurol Construction and Trading Inc., Ankara
+Tek-Ser Construction and Trade Inc., Istanbul
+Soyak Construction Co. Inc., Istanbul
+Koray Construction Industry and Trading Inc., Istanbul
+Ozisik Construction and Contracting Inc., Ankara
+Palet Construction and Trading Ltd., Istanbul
+Eska Construction and Industry Ltd., Istanbul
+Intes Construction Industry and Trade Inc., Istanbul Yasar Ozkan Engineering and Contracting Co., Ankara
+Kayalar Construction Ltd., Istanbul
+Garanti Construction Industry and Trading Co., Istanbul
+Mimas Engineering Construction and Mining Inc., Istanbul
+Mimtas Engineering Construction Contracting, Istanbul
+AEA Construction and Contracting, Istanbul
+ARI Construction Co. Inc., Istanbul
+widely used in the public sector while negotiated contracts are very common in the private sector.
+In the build-operate-transfer contract, the project is given to a firm that will build it and in return will operate it for a determined period of time, keeping all the possible profits. At the end of the specified period, the project is transferred to the Turkish government. Hence the government does not pay any money for the construction of the project. For example, the international firms were invited to bid on a build-operate-transfer contract for a vehicular tunnel under the Bosporus Strait. The tunnel would also include connections for a future light-rail system. Another example of build-operate-transfer contract is the third suspension bridge over the Bosporus Strait in Istanbul which was awarded to Sezai Turkes Feyzi Akkaya (STFA) in 1988. STFA's $171-million proposal called for six traffc lanes and two tracks for a light-rail system currently under construction in the city. The work includes 5 miles of approach roads. STFA will form a consortium to operate the toll bridge for 12 years.
+
+In the 'mutual construction' contract, the land owner enters into a partnership with a contractor (usually 50% each) who will develop the land. It is very widely used in residential and commercial development projects in large cities such as Istanbul and Ankara.
+Selection of contractor
+Prior to October 1983, the lowest bidder was awarded the job in the public sector. In awarding public works contracts, the Turkish government published its cost estimate and firms submitted price discounts based on that amount.
+Reckless bidding by smaller, up-and-coming firms led to a shrinking share of domestic work for Turkey's big contractors. Ultra-low bids also delayed key transportation and energy infrastructure projects. In addition, lax prequalification procedures resulted in contractors being awarded contracts without having suffcient resources (e.g. expertise, personnel, financing, and equipment). For example, a consortium of three Turkish companies with limited experience in dam construction won the construction contract of the Ataturk dam project with a low bid of $436 million, well below the $800 million government estimate in 1983.
+In October 1983, the government limited bidding to within 20% of government cost estimates. The price-discounting floor does not affect jobs open to international bidding, such as the second Bosporus Bridge or the second Iraq—Turkey crude oil pipeline.
+Every contractor automatically discounting 20%, contracts are awarded on the basis of financial strength, reputation, experience, and reliability, rather than competitive bidding. The contractors are given points based on the aforementioned factors and the contractor with the highest total points is awarded the contract. Since the enactment of the new law, the public projects have been completed more successfully. 3 8
+The management structure of a typical large construction company is shown in Fig. 2. There are typically three vice-presidents in charge of domestic construction, international construction, and administration. The domestic and international construction divisions are quite similar. These divisions consist of an offce group in charge of design, estimating, and project management and a field group in charge of construction operations. The administration division is divided into three departments, namely, accounting, technical (safety, maintenance, research and development, . .), and general affairs (legal, public relations, labour relations, . . .). There are also two management and advisory committees. The main task of the advisory committee, consisting ofpast government professionals and/or experienced construction professionals, is to advise the general secretary on the mission or overall direction of the company. The management committee, consisting of three groups (legal, economic, and political), deals with legal and economic aspects and relations with the outside agencies including financial institutions and governments.
+The management structure of a medium-sized construction firm differs from that of a large firm in two respects. First, it does not have the management and advisory committees. Secondly, it does not have an international operations division since the majority of the
+Copyright Ο 	ΑΙ Rights
+medium-sized construction companies are only involved in the domestic construction market.
+Construction management is the application of management techniques in construction to control time, cost, and quality. With regard to achieving these goals, the tools used mainly for the planning, scheduling, and control of construction projects are bar chart, PDO (progress and development outline), and network techniques.
+The bar chart is the most commonly used management tool to plan and control construction projects in Turkey. Bar charts are always used for relatively simple projects and are a useful supplement for planning and controlling construction by means of arrow or precedence diagrams.
+PDO is widely used on residential, commercial and industrial construction jobs. In PDO, the planned progress of certain activities is marked down in colour on construction drawings. As the job progresses, the actual progress (development) of each activity is shown on the same drawing. There is no time scale on PDO, making it very easy to use. Only the finish dates of activities are shown in the planned progress schedule. Using PDO and the maximization of available resources each activity can be compressed and accelerated.
+Turkey's largest contractors have applied network techniques for large projects with complex interdependencies and international construction projects. However, the other contractors rarely use it except when bidding government jobs. CPM is required on most public works.
+Other planning and control techniques, such as PERT, LOB, and VPM, are rarely used in Turkey.
+Fig. 3. 1986 market share of international construction 16
+Market share of international construction10—16
+
+All others Total ( 0/0)
+Turkish contractors' market share of international construction (in $billion)10—16
+
+Middle East
+Trend of the domestic market
+According to the new updated Fifth Five Year Development Plan Turkey's government is determined to spend more money on transportation, energy, and tourism sectors. Hence the future area of demand in construction will be highways, bridges, subways, dams, power plants, and hotels. One important fact is that, while the foreign money credits and funds keep increasing as a result of the freer foreign capital economic policies and better relations with USA, Japan, and developed European countries, the domestic market is definitely going to attract more foreign construction companies and investment firms. The national contractors will also be more attracted to the domestic market than the international market because of the significant increase in the highly profitable domestic construction projects.
+International construction
+In the late 1970s, Turkey's economy tumbling and the domestic construction market shrinking, the Turkish contractors rushed to the international construction markets.
+
+Turkish contractors in the top 250 international contractors, 198616
+1986 Foreign contracts
+Enka Construction & Industry Inc.,
+Tekfen Construction & Installation Inc.,
+Soyak Construction & Trading Co.,
+Kutlutas Construction & Trade Industry Ltd., Ankara
+Baytur Construction & Contracting Co.,
+large firms such as Sezai Turkes—Feyzi Akkaya and Enka were the pioneers. These companies first operated in Libya and then expanded to other Middle Eastern countries such as Saudi Arabia, Iraq, Jordan, and Kuwait. Turkish contractors have recently expanded their activities to North Africa and Far Eastern countries (Taiwan, Malaysia).4
+Nine of the Turkish contractors were on ENR's list of the 250 largest international contractors in 1986, and had a total of $2.2 billion projects - or 3% of the market (see Fig. 3 and Tables 2, 3, and 4). Turks had 6.9% of the Mideast market ($1.1 billion) in 1986 compared to 3.8% in 1981 and 8.6% of the African market ($1.1 billion) compared to 4.0% in 1981. There has been a gradual growth in the overseas activities of Turkish contractors. The largest Turkish construction company, Enka Construction & Industry Inc., was placed 10th among the ENR top 250 international contactors, with a total of 2.1 billion dollars worth of contracts in 1986. 16
+Overall, Turkish contractors and subcontractors operating overseas had a total of approximately 15.7 billion dollars worth of projects in 1986 and over 230 000 Turkish workers worked on these projects in 1986. 1
+Turkish contractors have the advantage of mobilizing a large and harmonious labour force. The competent foremen and labour are retained continuously by Turkish contractors. The Turkish worker is determined to earn and save and does not foresee returning home quickly. Therefore, he/she works more diligently and demands always less than others. Thus the Turkish labour force becomes a major asset when combined with appropriate management.
+Turkey also enjoys cultural and historic ties with its fellow Moslem countries. In addition, leading Turkish banks facilitated funding of international projects. The Turkish government also encouraged Turkish firms to seek work abroad by introducing certain tax and foreigncurrency incentives. 18 Turkish contracting, despite these advantages, has faced tough international competition.
+Future challenges confront the Turkish companies who have concentrated on labour intensive projects. Now the market is changing and a better management capability and the
+ability to work with high technology projects will be important to Turkey in increasing its international market share.
+Conclusions
+With this brief general description of the Turkish construction industry, the following should be pointed out:
+Construction accounts for 10.1% of the GNP.
+There are about 10 000 general contractors competing for the domestic market with 13 026 licences issued.
+There are approximately 20 000 subcontractors, of which 6278 are licensed in 33 trades.
+There are four types of construction contracts: competitively bid, negotiated, buildoperated-transfer, and 'mutual construction'.
+Bidding is limited to within 20% of government cost estimates. Since every contractor automatically discounts 20%, contracts are awarded on the basis of financial strength, reputation, experience, and reliability, rather than competitive bidding.
+The bar chart and progress development outline (PDO) are the most commonly used management tools to plan and control construction projects. Network techniques are also used in large and complicated projects as well as the public projects. However, other planning techniques, such as LOB and VPM, are rarely used.
+The Turkish contractors' market share of international construction has gradually increased in the last few years.
+Future challenges confront the Turkish construction industry. The international market is changing and a better management capability and the ability to work with high technology projects will be important to Turkey in increasing international market share.

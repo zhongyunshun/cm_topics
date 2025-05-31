@@ -1,0 +1,307 @@
+﻿Preferences of Construction Managers Regarding the Quality and Optimization Criteria of Project Schedules
+Tomczak, M.; Jas´kowski, P. Preferences of Construction
+Managers Regarding the Quality and
+Optimization Criteria of Project Schedules. Sustainability 2021, 13, 544.
+15 December 2020
+4 January 2021
+8 January 2021
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+© 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( creativecommons.org/licenses/by/
+Faculty of Civil Engineering and Architecture, Lublin University of Technology, 40 Nadbystrzycka St, 20-618 Lublin, Poland; p.jaskowski@pollub.pl
+In the literature on the scheduling of construction projects it is difficult to find a justification for adopting the criteria for evaluating work schedules based explicitly on the preferences of those who develop them. This article tries to fill this gap and provide information on the preferences of construction site managers for sustainable scheduling and organization of construction projects. The publication focuses on the views and needs of construction site engineering staff regarding methods of work organization, the need to reduce downtimes in the work of crews, the deadline for project realization and the selection of crews for tasks. This information was obtained on the basis of surveys conducted among managerial staff of various levels (74 people). The authors hope that the information provided in this publication will allow the creation of more reliable tools to support construction managers better adapted to their preferences and needs, and therefore more likely to be applied in practice.
+construction scheduling; construction project management; factor analysis; multiple objective; schedule criteria; survey research
+Introduction
+The postulate of sustainable development, whereby meeting the current needs without limiting the capability of future generations to meet their own needs, has become the leading civilization idea all over the world [1]. Sustainable development results from philosophical premises and is a civilization necessity, and one of its main targets is the construction industry, which consumes more than 40% of produced energy, 50% of processed materials and emits 35% of greenhouse gases, ref. [1] as well as being a large labour market; it involves significant human resources. Sustainable development refers to the whole life cycle of a building from siting to design, construction, operation, maintenance, renovation and deconstruction [2].
+The Research Focus
+Sustainable realization of the construction process of a building object is largely related to properly developed and realized schedules and planning/selection of working methods (technologies, organisational methods). Sustainable schedules are not only about delivering results according to objectives (cost, time or resource consumption), but also include decisions that should be sustainable in the long term [2,3]. This is all the more difficult since the implementation of construction projects is a complex issue and is exposed to numerous risk factors, such as: dependence on the influence of weather conditions, individual nature of each construction site, real estate of construction products (during construction realization resources are transferred to the subsequent work stations as compared to an industrial plant, where the processed product is moved to subsequent workstations), significant scattering of structures in the field (scattering of objects in the field makes it difficult to organize works and increases the scope of transport works), late achievement of effects resulting from the construction of objects, significant dimensions and large mass of
+elements and construction objects, long period of use of construction objects, random nature of construction process realization time, internal and external supply problems, failure of machinery and equipment used [4–8]. These specific, complex conditions for the realization of construction projects significantly distinguish them from the realization of projects from other branches of the economy. As a result, the existing project management support tools are not suited to the problems in the construction industry [9–14]. For this reason, scientists are developing ever new tools to support construction managers [15,16]. However, in order to develop a useful, modern tool supporting the management of construction projects that meets the principles of sustainable development and can be used in practice, it is necessary to know the preferences of the construction management board as regards the execution methods of construction process and criteria for its evaluation. Their better mapping in mathematical models of planning construction projects involves an attempt to simultaneously take into account a greater number of optimization criteria, such as: minimizing the time, cost, risk, negative impact on the environment, use of resources and equalizing their consumption, or maximizing the quality, profit of the contractor or owner, productivity, security [17]. It is a noticeable trend, taking into account an increasing number of optimization criteria for planning models of construction projects [18].
+The Literature Review
+The first publications concerning the planning of the construction projects realization were one-criterion problems: they minimized the time [19] or cost [20] of realization of construction works. In the classic formulation of this problem n crews are assigned to n activities in order to minimize the total time T or cost of their execution (Figure 1). The parallel technique ensures the shortest execution project time T—compared to other approaches. The disadvantages of parallel technology are: lack of work continuity of the teams and uneven demand for building materials and equipment. The advantage of serial processing is the lowest maximum level of daily use of renewable resources and daily consumption of building materials. Each activity can be performed by a different crew, but the total duration is unreasonably long [21]. Along with the development of mathematical and IT tools such as metaheuristic algorithms, hybrid processing considering bi-objective problems began to be addressed—the most popular one is the time and cost problem [22–24]. These in turn have been extended to multi-objective optimization models [17]. For example, Marzouk et al. [25] have developed a three-criteria model for planning construction projects that minimizes the time, cost and environmental pollution. The latter function consists of the impact of dust, harmful gases and noise calculated for each construction process. A genetic algorithm was used to find a compromise solution. A real example solution was also presented in order to demonstrate the usefulness of the developed approach. Similar criteria for optimizing the planning of construction projects were used in the publication [26]. The environmental impact is measured by the emission of greenhouse gases during the construction processes. The nondominated sorting genetic algorithm II (NSGA II) was used to find a pseudo-optimal solution. Unfortunately, the work does not take into account some of the limitations that occur in practice, e.g., relations between processes or restrictions related to the use of resources.
+Xu et al. [27] have developed a system for large-scale construction projects that takes into account the different modes of processes realization under conditions of fuzzy uncertainty. Their multi-criteria system takes into account the criteria of time, total cost, crashing cost and environmental impact. A fuzzy-based adaptive-hybrid genetic algorithm has been developed to find solutions to the feasible problem. The capabilities of the system have been demonstrated on the example of the Jinping-II Hydroelectric Project realization planning, and it was shown that it is very efficient and competitive with other existing systems.
+Comparisons of different processing options in processes scheduling.
+In turn, Elbeltagi et al. [28] have developed a method for multi-purpose optimization of construction schedules. The evaluation criteria were time, cost, resources and financial flows. The model developed by them generated 20 pseudo-optimal solutions meeting the assumed limitations and taking into account a wide range of criteria. The decision maker can choose from the available schedule options the most suitable one for his/her preferences. The decision-making process with the use of the developed tool was illustrated on the real example of a construction site located in Egypt.
+Kannimuthu et al. [29] have developed a structure that optimizes the time, cost and quality of schedules with limited resources, taking into account different modes of process realization. The Construction quality assessment system (CONQUAS) from Singapore was used to assess the quality of individual process modes. The procedure for finding a pseudo-optimal variant of the schedule was performed as a two-stage procedure: first, non-dominated solutions on the Pareto front are generated using an algorithm called Probabilistic Global Search Lausanne, and then the best one is selected using the RR-PARTEO3 algorithm. The possibilities of the developed structure are illustrated by examples of construction projects located in India. The authors of the publication adopted similar criteria (time, cost and quality) for optimizing the schedules of construction projects [30]. Additionally, their model during the optimization analysis takes into account the method of increasing working hours per day and number of working days per shift while analyzing labor working efficiency and overtime rate. Determining the quality of the solution was based on four quality indicators related to labors, materials, equipment and administration, while the NSGA II algorithm was used to find pseudo-optimal solutions. The model was tested and validated on an example containing 20 construction processes.
+Panwar and Jha [17] have developed an optimization model containing four criteria: time, cost, resource moment and environmental impact. The NSGA III algorithm is used to find non-dominant model solutions. The decision maker can then select the most preferred scheduling option from the solution pool. Coordinate plots were used to visualize a compromise solution between the four criteria. Additionally, four minimization criteria were taken into account by Eid et al. [31] namely: time, cost, downtimes at work and delivery units. The set of non-dominant solutions of the model is found by integrating Pareto-Front Sorting with the genetic algorithm. Their model for the optimization of linear repetitive infrastructure projects is integral to commercial management support programs and was used to find the near-optimum schedules of two construction projects determined from the literature.
+In turn, Krzemin´ski [32] have developed the KASS v.2.2. system supporting the scheduling of construction projects. This system allows for the simultaneous minimization of the project realization time, downtime of all or only selected crews, and the cost of crew transfer. The developed system is an overlay for the well-known and commonly used MS Excel program, thanks to which its operation is simple and intuitive. Therefore, KASS v.2.2. can be successfully used in practice. Zou et al. [33] have prepared a mixed-integer linear programming model of planning that takes into account both the time, total cost of the project and the minimization of work interruptions. This model takes into account the rules of soft logic, i.e., the sequence of processes in the network of dependencies is variable. In addition, the model under consideration is intended for scheduling repetitive projects, which is a more difficult task than planning typical, unique projects. The model was validated on two exemplary small-size construction projects, where the validity of using soft logic when planning the realization of construction projects was demonstrated.
+Among all the publications mentioned above, a huge deficiency in the continuity of arguments and consistency of the arguments is easily noticeable. Namely, all the authors a priori assume which criteria are most preferred by construction management. Construction managers receive either a ready-made solution, which only they can implement, or they receive a set of solutions generated on the basis of default optimisation criteria. None of the authors conducted a diagnosis of the needs and preferences of construction site managers prior to the development of their management support system for construction projects. It seems that the aforementioned gap is the missing link in increasingly better and more advanced management support systems.
+This article tries to fill this gap and provide information on the preferences of construction site managers for sustainable scheduling and organization of construction projects. The publication focuses on the views and needs of the construction engineering staff regarding downtimes in the work of crews, organization of work on the construction site, project realization date and selection of crews for tasks. This information was obtained on the basis of a survey conducted among 74 people performing independent technical functions in the construction industry. The question sheet also included questions for supplementary information and expanding the knowledge about the construction sites carried out by these people and their organizational conditions.
+The authors hope that the information provided in this publication will allow the creation of tools to support construction managers that are better adapted to their preferences and needs, and thus have a better chance of being used in practice.
+The organization of the layout of this article has been planned as follows: the next chapter provides information on the methodology and manner of conducting the research; the third chapter presents the results of the research carried out; the fourth chapter contains an evaluation and discussion on the obtained results, and the fifth chapter contains a summary and recommendations for planning support systems of construction projects.
+
+In order to identify the practical needs in the field of project scheduling and the preferences of people managing construction projects, a questionnaire survey was conducted on the realization constraints and criteria for assessing construction schedules.
+As the authors have already had experience in developing several surveys, they have undertaken to develop the questionnaire themselves. Initially, five experts were interviewed as to their expectations for the questionnaire, how it should be constructed, what should it contain, how the questions should be constructed, and on what scale should their preferences be expressed for the assessed criteria. On the basis of these interviews the authors constructed a preliminary questionnaire which was sent to the same five experts for evaluation. Then, they expressed their comments on the initial questionnaire.
+The main demand of the experts was to increase the flexibility of the questionnaire by increasing freedom of expression. Thus, the final questionnaire contains most of the open questions. It is worth noting that increasing the flexibility of the experts’ speech is connected with making it more difficult to analyse the results of the survey later. Another postulate concerned the evaluation scales used: the experts agreed that the linguistic scales were the most suitable. The content of several questions has been clarified so that their interpretation does not cause any doubts. Due to the small number of experts and the open character of the questionnaire it was not tested statistically (metrically).
+The greatest difficulty encountered in building the questionnaire was ensuring its universality. There is a very large variety of practices used in the construction industry. Even in such a small group of experts, there were conflicting demands. For example, in question no. 29 concerning the number of contractual penalties applied in the construction industry, some experts suggested expressing them in PLN (€), while the second part in % of the contract value for each day. Ultimately, it was possible to express the number of contractual penalties both in PLN (€) and in % of the contract value for each day.
+The surveys were conducted in the form of an auditorium questionnaire: using their professional contacts, the authors asked several people from the construction industry to distribute the questionnaires and assist in completing them in their workplaces or among their professional friends. This method ensures better reliability, because the interviewer can explain the purpose of the research first and provide any instructions on how to fill in the sheets. Nobody refused this request. All the selected interviewers work and engaged respondents in central and south-eastern Poland. After the survey participants completed the questionnaires, the interviewers handed them over to the survey authors. Some of the interviewers provided only one completed questionnaire (it can be guessed that they did not want to refuse the request and only handed over the questionnaire filled in by themselves), but there were also people who collected even more than twenty completed questionnaires. Due to this organization of the research, all the sheets provided by the interviewers were fully completed.
+In the end, the question sheet was filled in by 74 people holding managerial positions in construction companies. The questionnaire included thirty-seven open, semi-open and closed questions. The questions have been grouped into the following sections:
+• the issue of downtimes in the work of crews,
+• organization of work on the construction site,
+• selection of crews to perform tasks.
+Due to the changing conditions of the ongoing construction projects and their diverse nature, during the construction of the question sheet, every effort was made to allow the respondents to express themselves freely—suggesting and encouraging them to express longer comments in writing. The set of survey questions and their wording are presented in Appendix A.
+The detailed results of the survey are presented in Appendix B. The description of the survey results was divided into subchapters according to the layout of the questionnaire sections.
+The surveyed managers most often hold the positions of construction engineer (38% of respondents), construction manager (20%) or works manager (19%) from one to five years (36%). Their construction projects vary in size, with the most common contract value ranging from € 1,120,000 to € 4,460,000 (numbers are not rounded to full millions of euros because they are converted from PLN) (Figure 2).
+Answers to the question: What is the average contract value (expressed in €) that you participate in?
+Introductory Questions
+In total, 80% of respondents use the schedule as a tool supporting the management of construction projects. In the vast majority of cases (57%), the construction manager is the person responsible for preparing the construction schedule. Sometimes construction planning and preparation of the schedule are also handled by work managers (17%), production preparation department (15%), or owner (10%). The most frequently mentioned reasons for developing schedules are synchronization of the work of crews (40%) and facilitating the work of the construction management (40%), which is in line with the theoretical assumptions of work harmonization mentioned in the introduction. Other reasons for creating schedules are also related to the assumed tasks of schedules: setting the terms of engaging of subcontractors/crews (38%), the basis for developing delivery plans (32%). Some construction managers treat the schedule as a formal obligation, either imposed by the owner (37%) or resulting from tender procedures (25%).
+A total of 70% of respondents using work schedules update them either in a planned manner with a predetermined frequency (once a month or once every two months— 18%, once a week or once every two weeks—16%) or on an ongoing basis (23%), or as needed (9%).
+Of questionnaire survey participants, 68% take corrective action in the event of delays in relation to the deadlines set in the schedule. These corrective actions are most often associated with the employment of additional resources (hiring subcontractors—37%, shifting crews from other construction sites—34%). There are also corrective actions against previously adopted plans, such as changing the technology of construction works realization (15%) or using more efficient machines (10%).
+Only 60% of the respondents use software to support the scheduling of works. The most popular tools are: MS Project, MS Excel (which is not a program intentionally dedicated to supporting project management) and Oracle Primavera (Figure 3).
+Answers to the question: What tools are used to support the scheduling of works?
+The Issue of Downtimes in the Work of Crews
+Maintaining the continuity of the crews’ work was described by the respondents as very important (58%) or important (38%) (Figure 4) in the process of assessing the schedules. The reasons for the significance of this criterion include increases in construction costs related to: the costs of transferring crews to other construction sites (43%), the need to pay salaries for employees not accounted for in a lump sum (40%), incurring indirect/timedependent costs despite a downtime at work (31%). Other reasons mentioned were: the risk of a subcontractor starting a new contract on a different construction site (25%), a decrease in a work efficiency after a downtime (22%) or an increased risk of exceeding the contractual deadline (17%). A total of 84% of respondents bear additional costs related to downtimes in the crews work. Probably this is the reason why the respondents declared that interruptions at their construction sites occur: rarely (47%), sometimes 29 (39%) and never (9%). If there are downtimes in the crews work the employees are assigned other, secondary tasks (50%), or they are transferred to other construction sites (47%), or the existing crews are broken up and employees are engaged to other tasks (19%). Most of the respondents had problems with indicating the impact of work downtimes on employee morale (46%). If such dependencies were declared, construction site managers indicated that work downtimes had a rather negative (22%) or negative (17%) impact on employees. Only 10% of the respondents indicated a rather positive effect of downtime at work on the mood of employees.
+Organization of Work on the Construction Site
+Most of the respondents stated that they do not use any methods of organizing work on the construction site (92%). Only 7% of people indicated the MPR method (the method of work organization developed and known only in Poland), and 3% the Line of Balance method as the tools used to support the organization of work at the construction site (Figure 5). The lack of use of tools supporting the organization of work does not go hand in hand with the declared importance of maintaining work continuity at the work unit: 41% of the respondents replied that maintaining the work continuity at the work unit and minimizing the time of realization of works on the unit is important, and 29%—that it is very important (Figure 4). The most important reasons for the significance of this criterion of the assessment of schedules were the extension of the construction time (62%) and the incurring of time-dependent costs (50%). Public dissatisfaction (16%) and the owner’s impression that the contractor did not have adequate resources (19%) also turned out to be important reasons. Despite the fact that the construction site managers do not use methods of organizing work on the construction site, downtimes in work at the work site occur rarely (47%), sometimes (42%), or never (8%).
+Determining the validity of the criteria for assessing schedules by the respondents.
+Answers to the question: Do you use methods of organizing work on the construction site?
+In 43% of construction sites, the owner does not control the progress of works. If the progress of works is monitored by the owner, it is most often done through owner’s supervision (46%), local visits (17%), or construction consultations (8%).
+Project Realization Date
+Keeping the project deadline is a very important (69% of respondents) and an important (23%) criterion for evaluating the quality of construction schedules for the surveyed experts (Figure 4). The main factors determining the importance of this criterion are additional, avoidable expenses related to contractual penalties (77%) and the increase in time-dependent costs (54%). Other important reasons for striving to meet the contractual deadline for construction are: loss of the company’s reputation (32%), no bonuses (20%), enabling the works to be realized in accordance with the provided technology in favourable weather conditions, without the need to use other, faster and more expensive technologies (6%). Achieving an individual goal and satisfaction with a well-realized project (3%) was also indicated by 3% of respondents as a factor inspiring direct activities on the construction site in order to meet the contractual deadline for the project.
+In projects carried out by 42% of the respondents, the contract execution deadline is always kept. On the other hand, on construction sites managed by 32% of respondents, failure to meet the contractual deadline occurs in less than 50% of contracts, and in 20% of respondents delays in the realization of projects occur in at least 50% and less than 100% of cases. Of the respondents, 6% said that the contractual completion date of construction works is never met (Figure 6). Contract completion time is usually extended from 10 to 20% of the original construction time (56%). In total, 24% of people replied that the average delay was less than 10% of the planned completion time (24%), and 12% said that the extension of construction time was at least 20% and less than 50% of the planned time. In order to avoid delays in the realization of projects and construction works, additional resources (66%) are involved, the organization of work (47%) or the technology of works (19%) are changed. Penalties for delays in contract realization are as follows: € 2250 and more for the day of delay (20%), at least 0.5% of the contract value for the day of delay (17%), more than 0% and less than 0.5% (17%), at least € 450 and less than € 2250 (16%), up to € 450. The survey deliberately made it possible to provide the nominal value of penalties and as a percentage of the contract value because the respondents had different knowledge in this regard.
+For the realization of construction before the deadline specified in the contract the managerial staff of these projects usually do not receive a bonus (44%). Where such bonuses for construction management are granted, they amount to 5% of the contract value (21%), up to 2.5% (3%) or up to 20% of the profit (3%). Bonuses for shortening the contract realization time (in relation to the contractual deadline) most often constitute 0% of the basic salary of the construction site management (51% of responses), more than 0% and less than 10% (9% of responses), at least 10% and less than 20% (19% of responses), 20% and more (9% of responses).
+The comparison of the importance of the criteria for assessing the schedules with each other shows that the criterion of meeting the contractual deadline for the project realization is considered much more important than maintaining the work continuity at the work unit (50%) and maintaining the work continuity of crews (48%), or rather more important, respectively—37% and 35%. When comparing the importance of maintaining continuity in the work of crews and minimizing the time of work at the work unit, the responses vary: 38% of respondents said that the latter option is more important, and the first option is rather (21%) and definitely (15%) more important (Figure 7). Table 1 shows the comparison of the importance of the criteria for assessing the schedules with each other. During its comparison it was assumed that the definitely preferred variant receives the score 5 (the other variant 0.2), rather preferred variant receives score 3 (the other variant 0.33), the equivalent variants receive the score 1. Then, the importance of the particular criteria for evaluating the schedules has been standardized.
+The frequency of failure to meet the contractual deadline for project realization in% of the number of realized projects.
+Comparison of the importance of the criteria for assessing schedules by the respondents.
+The comparison of the importance of the criteria for assessing the schedules with each other.
+Minimizing the Time of Works at the Work Unit/Site/Facility
+Maintaining Continuity in the Crews Work
+Minimizing the time of works at the work unit/site/facility
+Maintaining continuity in the crews work
+Keeping the project deadline
+Selection of Crews to Perform Tasks
+The respondents stated that in their enterprises there are usually permanent work crews (32%), sometimes crews also include several permanent teams (13%), or there is a mixed system (28%). Only 7% of the respondents admitted that their enterprises did not have permanent work crews (7%). These crews are most often industry (40%), specialist (23%), multi-sector (22%) and comprehensive (10%). Employees most often receive salary for working time (67% of responses; employees have employment contracts, and the salary depends on the number of hours worked per month, determined on the basis of working time records), or a fixed monthly salary (22%). Less popular forms of settling accounts with employees are: the piecework system (10%) and the contract for the realization of individual tasks (3%) (Figure 8).
+Methods of settling accounts with employees in the surveyed construction companies.
+Only 1% of all construction projects are realized without the support of subcontractors. The degree of subcontractors’ involvement in the realization of projects (measured by the share of the amount of works performed in the value of the entire contract) is very diverse: less than 25% of works are performed by subcontractors in 25% of projects, at least 25% and less than 50% of processes in 18% of construction sites, at least 50% and less than 75% of works in 26% of projects and at least 75% of construction processes are carried out by subcontractors in 29% of cases (Figure 9).
+Answers to the question: What part of the contract in the projects in which you participate are realized by subcontractors (measured in % of the value of the realized works)?
+It is very difficult to find in the literature studies trying to justify the validity of the adopted criteria for evaluation of schedules. The existing methods of scheduling construction projects mostly assumed a priori criteria for their evaluation, so the results obtained by these methods most often did not satisfy construction managers. The results of the questionnaire survey, despite the small scope, allow the recognition of the preferences of people belonging to the construction management staff and draw basic conclusions and develop requirements that are necessary in the construction of a system supporting the harmonization of a construction project. Thanks to the conducted research, it was possible to fill the existing gap in the area of knowledge and obtain information necessary to establish criteria for construction schedules. Importantly, this information was developed on the basis of expert knowledge and the preferences of the management of construction projects. It seems that the new scheduling methods developed with the use of the results presented in the paper will be better suited to the expectations of construction managers who will have a better chance to apply them in practice.
+The results of the questionnaire survey, despite the small scope, allow the recognition the preferences of people belonging to the construction management staff and draw basic conclusions and develop requirements that are necessary in the construction of a system supporting the harmonization of a construction project.
+The conducted research has shown that decision-makers use various criteria when assessing the usefulness of the schedule. In order to enable the appropriate mapping of the preferences of construction site management, the methods of multi-criteria analysis should be used in systems supporting work harmonization. Taking into account diverse criteria for the assessment of schedules will enable the multithreading and complexity of the decision-making situation to be better reflected in a coherent and effective, and therefore conscious planning of the construction realization.
+Another conclusion that can be drawn from the conducted research is related to the significance of individual criteria for assessment of schedules, which depends on the individual preferences of decision-makers. For this reason, when building the objective function, one should take into account the variability of individual criteria significance and allow freedom in performing the weight functions. Valuation of construction planning variants may bring the decision-maker closer to a satisfactory solution from the point of view of various, competitive, and even conflicting and independent assessment criteria.
+Both keeping the project deadline, shortening the realization time of the project and facilities, and the continuity of the crews work and at the work unit were considered very important by the surveyed construction managers. Therefore, they should be included in the designed construction planning support systems to allow for a more complete reflection of the real, multi-faceted nature of the construction organization planning process.
+On the basis of the results of the survey, it seems that the possibility of modelling various conditions and limitations (keeping the contractual deadline for project realization, multitasking of crews) and the possibility of individual approach of the system to express the preferences of the decision-maker (different methods of determining the assessment criteria) will determine the usefulness of the developed method and the chances of its adoption in construction practice.
+Providing information on the preferences of construction site managers regarding the criteria for assessing construction schedules is a key element in the development of support systems for planning the realization of construction projects. It seems that the previous attempts to develop systems to support the temporary construction planning were not preceded by a sufficiently thorough analysis of the criteria used in practice to assess them. This article tries to fill this gap and provide the missing information. Of course, it should not be taken as an exhaustive compilation, but rather as a starting point for the discussion of construction management preferences for the sustainable scheduling and organization of construction projects.
+It is particularly important to carry out a survey on a larger, more geographically diverse number of subjects in order to enable better conditions to generalise the conclusions drawn. The authors tried to construct the questionnaire in such a way that it could also be used in other regions. It would be extremely valuable to enlarge the database of obtained answers and to find out the differences between the information collected in different countries (i.e., management’s perception of the criteria for evaluating schedules and organizational issues of construction project management). The selection of respondents should also ensure greater randomness so that the tested sample better meets the principles of representativeness in relation to the entire group of construction site managers. Of course, this involves a multiplication of the problems encountered in the construction of the questionnaire used for this study. The construction industry is extremely diverse, and it is difficult to take into account the experiences and preferences of people from different construction trades, countries and different levels of experience and qualifications in one questionnaire.
+In subsequent studies on the preferences of construction site managers, it is also important to develop the topics initiated in this study. For example, the use of construction work organization methods requires explanation. The answer of the respondents (92% of respondents stated that they do not use any method of work organization) seems astonishing and even improbable. The authors assume that the respondents do not understand the question and do not have knowledge about the names of work organization methods used in construction industry. Undoubtedly, this is one of the issues that requires rapid and thorough interest.
+Subsequent studies on the relevance of factors taken into account by construction site managers when evaluating construction schedules should focus on the criteria briefly dealt with in this article (due to the limited length of the effective question sheet), such as the cost and quality of construction work. Due to their growing importance, the aspects of sustainable development, in particular environmental impact, also need to be developed, and taken into account in the process of planning the organization of construction works.
+Author Contributions: Conceptualization, M.T. and P.J.; Data curation, M.T.; Writing—original draft, M.T.; Writing—review & editing, M.T. and P.J. All authors have read and agreed to the published version of the manuscript.
+The work was financed by the Polish Ministry of Science and Higher Education FN63/ILT.
+Institutional Review Board Statement: Ethical review and approval were waived for this study, due to nature of the research conducted. The aim of the research was to obtain information on the functioning of enterprises. They were not sociological, psychological, anthropological or linguistic research. The research did not use invasive techniques against the surveyed persons and did not consist in active physical and psychological intervention. The surveys provided anonymous information, no personal data was collected; the people who responded were not identifiable.
+Informed Consent Statement: The participation of the respondents was entirely voluntary and took place with their consent. Participants had the opportunity to refuse to participate in the survey before or during the survey (by not returning the questionnaire).
+Data Availability Statement: Data generated or analyzed during the study are available from the corresponding author by request.
+Conflicts of Interest: The authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.
+What is your position? construction manager 	works manager
+construction engineer
+contract manager 	foreman
+other, what? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+How long do you hold the above-mentioned position?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3. How long do you work in the construction industry?
+What is the average size of the construction (expressed in millions of PLN) carried out by you?
+Do you use schedules in the project/construction process?
+If the answer is “no”, questions 6–11 should be omitted.
+Who is responsible for developing the schedule?
+other, what? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+For what reasons is the schedule created?
+obligation imposed by the owner
+obligation resulting from tender procedures
+facilitating the work of construction management
+a tool for synchronizing the work of crews
+setting terms of employment of subcontractors/crews
+the basis for the development of delivery plans
+other, what? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Is the schedule updated?
+yes, how often? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+If the answer is “no”, question 9 should be omitted.
+Do schedule updates take place with a predetermined frequency?
+Are corrective plans bring taken in the event of delays in relation to the schedule?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+What tools are used to support the scheduling of works?
+other, what? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+no such tools are used
+DOWNTIMES IN THE WORK OF CREWS
+How important is it for you to maintain the continuity of crews’ work?
+rather important 	hard to say
+very little important
+Why is it important to ensure continuity of crews’ work? Please list at least one reason.
+How often are the downtimes in the work of crews?
+always 	sometimes 	rarely
+If the answer is “never”, questions 15–17 should be omitted.
+Are downtimes in the work of crews involve additional costs incurred by your company?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+What tasks do the crews perform during downtimes?
+How do downtimes at work affect employee morale?
+
+rather positively 	hard to say
+rather negatively
+Do you use methods of organizing work on the construction site?
+yes, what . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+How important is it for you to maintain work continuity at the work unit/site/facility?
+rather important 	hard to say
+Why is it important to ensure the continuity of work at the work unit/site/facility? Please list at least one reason.
+How often are there downtimes in work at the work unit/site/facility?
+always 	sometimes 	rarely
+If the answer is “never”, question 22 should be omitted.
+Does the owner control the progress of works at the work unit/site/facility?
+How important is it for you to keep the project completion date?
+rather important 	hard to say
+Why is keeping the project realization date important? Please list at least one reason. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+On what percentage of construction projects realized by you did you miss the project realization date?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . If the answer is “0%”, question 26 should be omitted.
+How much (on average) percent of the initial completion date is the increase in the realization of the project?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27. What methods do you use to avoid delays in project realization?
+Are there any bonuses for the contractor for the completion of construction before the deadline specified in the contract (often, rarely)? How high are these bonuses (please specify the percentage of the contract value)?
+What are the contractual penalties (on average) for delays in the realization of the project (in PLN for each day of delay)?
+What percentage of the basic salary in your company are financial bonuses for people managing the construction site for shortening the duration of the project (in relation to the contractual deadline)?
+What is more important for you: maintaining continuity in the crew work or maintaining continuity at the work unit?
+definitely maintaining continuity in the work of the crews
+rather maintaining continuity in the work of the crews
+rather maintaining work continuity at the work unit/site/facility 	definitely maintaining work continuity at the work unit/site/facility
+What is more important to you: maintaining continuity in the work of crews or keeping the project deadline?
+definitely maintaining continuity in the work of the crews
+rather maintaining continuity in the work of the crews
+rather keeping the project deadline 	definitely keeping the project deadline
+What is more important to you: maintaining work continuity at the work unit/site/facility or keeping the project completion deadline?
+definitely maintaining work continuity at the work unit/site/facility
+rather maintaining work continuity at the work unit
+rather keeping the project deadline 	definitely keeping the project deadline
+CHOICE OF CREWS FOR TASKS
+Do you have permanent crews in your company, which are assigned to the realization of specific tasks, or are the crews selected for a specific task each time?
+permanent teams of working crews
+no permanent teams of working crews
+crews consist of several permanent working teams (the number of teams depends on the size of the task)
+What types of crews are there in your company?
+complex 	hard to say
+What percentage of tasks in the projects in which you participate are realized by subcontractors (measured by the value of the realized work)?
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37. What is the dominant way of settling accounts with employees in your company?
+• remuneration by working time (rate per hour of work)
+• fixed monthly salary
+• other, what? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+A set of survey questions and the result of the research.
+Content of the Question
+Obtained Answers and Their Percentage Share
+What is your position?
+works manager foreman
+owner supervisor
+How long do you hold the above-mentioned position?
+less than 1 year
+from 1 to less than 5 years from 5 to less than 10 years
+10 years and more
+How long do you work in the construction industry?
+less than 1 year
+from 1 to less than 5 years from 5 to less than 10 years
+10 years and more
+What is the average contract value (expressed in €) that you participate in?
+from € 220,000 to less than € 1,120,000
+from € 1,120,000 to less than € 4,460,000 from € 4,460,000 to less than € 22,300,000
+Do you use schedules in the project/construction process? If the answer is “no”, questions 6–11 should be omitted.
+Who is responsible for developing the schedule (owner, site manager, site engineer)?
+For what reasons is the schedule created?
+a tool for synchronizing the work of crews facilitating the work of construction management
+setting terms of employment of subcontractors/crews
+obligation imposed by the owner
+the basis for the development of delivery plans
+obligation resulting from tender procedures
+control of work progress and delays
+Is the schedule updated? If yes, how often? If the answer is “no”, question 9 should be omitted.
+yes, once a month or once every two
+
+yes, once a week or once every two weeks
+Do schedule updates take place with a predetermined frequency?
+Are corrective actions taken in case of delays in relation to the schedule?
+yes, hiring subcontractors yes, shifting crews from other construction
+yes, the use of more efficient machines
+yes, negotiations with the owner
+yes, working overtime and on days off
+What tools are used to support the scheduling of works?
+Ms Project such tools are not used MS Excel
+Content of the Question
+Obtained Answers and Their Percentage Share
+How important is it for you to maintain the continuity of crews’ work? If you select “very important”, “important” or “rather important”, please complete question 13.
+rather important hard to say
+Why is it important to ensure continuity of crews’ work? Please list at least one reason.
+bearing the costs of relocating crews to other construction sites
+the need to pay remuneration for
+employees not settled with a lump sum
+incurring indirect/time-dependent costs despite the work downtime
+the risk of a subcontractor starting a new contract on another construction site
+decrease in work efficiency after a downtime
+increased risk of meeting the contractual deadline
+increases the efficiency of employees, no
+need to train new employees, no risk of
+dismissal of employees
+How often are the downtimes in the work of crews? If the answer is “never”, omit questions 15–17.
+
+Are downtimes in the work of crews related to additional costs incurred by your company?
+yes, increased construction fixed costs no
+yes, reduced employee productivity
+yes, the cost of transferring workers to another construction site
+yes, the cost of equipment downtime
+What tasks do the crews perform during downtimes?
+assigning other, secondary tasks
+transfer to other construction sites
+breaking up the crew and adding employees to other tasks
+How do downtimes at work affect employee morale?
+rather positive
+Do you use methods of organizing work on the construction site?
+no the MPR method
+Line of Balance
+How important is it for you to maintain the work continuity at the work unit/site/facility (and therefore minimize the time taken to complete the site)? If you select “very important”,
+rather important hard to say not important
+Why is minimizing downtime at the work unit/site/facility (and therefore minimize the time taken to complete the site) important? Please list at least one reason.
+they extend the realization time of the entire construction
+the owner has the impression that the
+the need to provide other work for the crews
+may indicate poor planning by management
+How often are there downtimes in work at the work unit/site/facility? If the answer is “never”, question 22 should be omitted.
+
+Does the owner control the progress of works at the work unit/site/facility?
+yes, by owner supervision no
+yes, checking the progress of works according to the schedule at the assumed
+Content of the Question
+Obtained Answers and Their Percentage Share
+How important is it for you to keep the project completion date?
+rather important hard to say
+Why is keeping the deadline/shortening the time of project realization important? Please list at least one reason.
+lowering the company’s reputation no bonuses
+enabling the realization of works in
+accordance with the technology in
+favourable weather conditions
+receipt of payment as soon as possible
+individual goal and satisfaction with a well-realized project
+In the case of how many construction sites (in %) of construction sites realized by you have you missed the deadline for completing the project? If the answer is “0%”, question 26 should be omitted.
+more than 0% and less than 50%
+at least 50% and less than 100% 100%
+How much (on average) percent of the initial completion date is the increase in the realization of the project?
+less than 10% at least 10% and less than 20% at least 20% and less than 50%
+at least 50 %
+What methods do you use to avoid delays in project realization?
+involvement of additional resources change of work organization change of works technology
+increased mobilization of workers from the very beginning of construction
+Are there any bonuses for the contractor for the completion of construction before the deadline specified in the contract (often, rarely)? How much are these bonuses (please specify the percentage of the contract value)?
+I do not know rarely, up to 5% up to 2.5
+up to 20% of profit
+What are the contractual penalties (on average) for delays in the realization of the project (in € or in % of the contract value for each day of delay)?
+at least 0.5%
+more than 0% and less than 0.5%
+€ 2250 and more at least € 450 and less than € 2250
+What percentage of the basic salary in your company are the financial bonuses for people managing the construction site for shortening the duration of the project (in relation to the contractual deadline)?
+more than 0% and less than 10%
+at least 10% and less than 20%
+20% and more I do not know
+What is more important for you: maintaining continuity in the crews work or minimizing the time of works and reducing downtime at the work unit?
+rather minimizing the time of works at the work unit/site/facility
+rather maintaining continuity in the crews work
+definitely minimizing the time of works at
+the work unit/site/facility
+definitely maintaining continuity in the crews work
+What is more important to you: maintaining continuity in the crews work or keeping the project deadline?
+definitely keeping the project deadline rather keeping the project deadline
+rather maintaining continuity in the crews
+definitely maintaining continuity in the crews work
+What is more important to you: minimizing the time for of works at the work unit/site/facility or keeping the project deadline?
+definitely keeping the project deadline
+rather keeping the project deadline hard to say
+rather minimizing the time of works at the
+work unit/site/facility
+definitely minimizing the time of works at the work unit/site/facility
+Do you have permanent crews in your company, which are assigned to the realization of specific tasks or are the crews selected for a specific task each time?
+permanent teams of working crews mixed system
+crews include several permanent teams no permanent working teams of crews

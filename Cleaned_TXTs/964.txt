@@ -1,0 +1,138 @@
+﻿Construction Management and Economics (1995) 13, 189—196
+A methodology for predicting company failure in the construction industry
+ADNAN FADHIL ABIDALI I and FRANK HARRIS 2
+Department of Civil Engineering, Loughborough University of Technology, Loughborough, UK
+2 School of Construction Engineering and Technology, University of Wolverhampton, Wolverhampton WVI ISB, UK
+Received 4 January 1994; revised 2 September 1994
+This paper describes research directed towards the development of an operational system for identifying construction companies in danger offailure. The major component of the system combines financial ratio analysis and the statistical technique known as multivariate discriminant analysis, to produce a predictive model made up of seven variables, measuring distinct aspects of company financial structure, all transformed into a single value called the Z score. Good distinction between the scores of solvent and failed companies was provided. This technique is widely employed in the commercial sector with much of the work concentrated on failed and healthy companies. A secondary method was developed to reinforce the financial approach, whereby managerial performance aspects are weighted, combined and a cut-off, known as the A score value, determined to separate the two groups. The concept behind the A score is based on the beliefthat if a company is in financial difficulty the reason generally relates to inadequate management ability and errors perpetrated earlier. The A score is designed to address this aspect of failure prediction. By operating these two principal methods in conjunction, it is possible to predict with confidence who could be next to fail.
+Multivariate discriminant analysis, A score, Z score, company failure.
+Introduction
+Generally, both adverse financial and managerial indications may be observed as a company moves towards insolvency. However conventional methods of monitoring financial performance such as ratio analysis require careful interpretation. In an attempt to synthesize the information available, a Z score approach has been adopted whereby the solvency profile of a company is developed from published financial accounts and subsequently compared with the profiles of known, financially healthy or previously bankrupt firms (Altman, 1968; Deakin, 1972; Tamer, 1976; Mason and Harris, 1978). The closer the company resembles previous failures, the greater the likelihood of failure and vice versa. Such a solvency profile can be summarized in a single index called a Z score derived by statistical modelling. Even so practitioners stress that balance sheet information alone is generally insufficient to predict failure and a knowledge of past managerial action is also necessary. Indeed, some companies identified as certain failures by other accounting methods can survive because experienced managers adequately deal with the
+adverse situations. Consequently, a further model using information relating to managerial performance has been developed to reinforce the decision-making process. In this second approach, ill judgements are identified through losses on projects, high financial leverage, overdrafts, etc. and subsequently weighted for importance into a single index, known as the A score (Argenti, 1983), to be set alongside the Z score value for comparison purposes.
+Producing the Z model
+The model is constructed from a number of discriminating variables derived from published UK financial accounts of a sample of construction companies, to reflect the characteristics of both solvent and insolvent companies. In producing the particular model described, two sets of financial ratios were used, namely an '1 1 failed' group which had entered into receivership between 1978 and 1986, a period of 8 years, voluntary liquidation, winding up by order of the court, together with the 'non-failed 20' group covering the period 1982—1986. The non-failed companies comprised those firms in business for at least 4 years and still in business 2 years after the focal year 1986. Both groups comprised medium-sized to large companies employing more than 50 staff on building and civil engineering work.
+While the sample sizes and periods necessarily had to be limited to the published information available at the time, the ultimate model proved to be statistically robust. Caution, however, is recommended in establishing models from data drawn from different phases of the economic cycle — in this particular model the period substantially overlapped and the growth in construction activity was falling constantly at approximately 2% per annum with no marked swings in business conditions.
+The analysis
+In this study, a total of 31 different variables were initially adopted consisting of 24 conventional financial ratios
+Table 1 Financial ratios employed in the analysis
+1 EBIT/NA	Profitability
+
+8 FA/EQUITY	Working capital
+12 INT/EBIT
+
+
+23 TU/NA	Activity
+28 CRD-TREND
+29 INT-TREND
+30 STL-TREND
+and seven trend measures all computed from balance sheet information contained on 'Extel cards'. These variables are shown in Tables 1 and 2 where several aspects of company structure are also portrayed.
+The discriminant analysis was achieved by using a statistical computer package (SPSSX, 1985). The process begins by finding the variables that discriminate most between the groups of known 'failed' and 'solvent' companies. The best discriminating variable is selected according to Wilks lambda criteria, whereby the F ratio is established and differences among centroids ascertained. The variable maximizing the F ratio which also minimizes Wilks lambda is a measure of group discrimination. The test also takes into consideration, the difference between the group centroids and the cohesion within the groups. Once the best discriminating variable has been found, the process continues by pairing this variable with each of the other variables in turn and computing Wilks lambda again. The new variable which, in conjunction with the initial variable gives a lower Wilks lambda, is then selected as the second variable to enter the function. These two variables are then combined with each of the remaining variables to form triplets, which are again evaluated on the criterion. The triplet with the lowest Wilks lambda value determines the third variable to be selected for the function. This procedure continues until all the variables are selected. The programme also calculates the standardized and unstandardized discrimination function coefficients. The unstandardized coefficients are the most useful
+Table 2 Key to Table 1
+
+
+
+Earnings before interest and tax Net assets (total assets current liabilities)
+Share capital and reserve
+Net capital employed (net assets + short-term loan)
+After-tax profit
+Fixed assets
+Debtors Interest charged on all loans (payable interest)
+Medium + long-term loans (over 1 year)
+Mean DR x 365rru
+Short-term loan
+when multiplied by the raw values of the associated variables to arrive at the discriminant Z score.
+As an extra check, the programme tests the adequacy of the derived discriminant function. By classifying the cases used to derive the function in the first place and comparing the predicted group membership with the actual group membership, it empirically measures the success of the discrimination by observing the proportion correctly classified.
+The trend ratios are calculated on the basis of the following formula:
+where Tn is the trend ratio for year n and the Pn are the balance sheet figures for years n, and n—2 of the trend being computed, e.g. creditors, tax, etc.
+The following seven variable linear function resulted:
+c 26 v 26 + qov30 where Co, Co, CIP C23, C24, (326 and C30 denote the coefficients V V vu, V25, V'26, which denote the discriminant variables (Co = 14.6, q = 82, G7 =-14.5, ()23 2 2.5,
+= 3.55, 	= -3.55 and 	= -3.
+The model is
+The constituent variables in the developed model are as follows.
+ratio of earnings after tax and interest charge to net capital employed. This is a profitability measure and takes into account all the net assets plus the short-term loans used to finance the company. The net capital employed may be defined as fixed assets plus working capital and is often used in published accounts to determine the return on the capital employed (ROCE). This ratio is a valuable
+the denominator is taken as the absolute value, i.e. the sign is ignored.
+guide to the profitability of companies. The value appears positive in solvent companies and tends towards the negative in failed companies.
+ratio of current assets to net assets. This is a financial leverage measure. Failed firms consistently have less current assets including cash than non-failed firms. However, some failed firms also have a high ratio since net assets decrease continuously leading to an increase in this ratio. The ability of a firm to meet its short-term financial obligations without having to liquidate its long-term assets is an important factor in the consideration of lenders; the extreme case of such an inability is bankruptcy.
+ratio of turnover to net assets. This ratio is one measure of how well a company has used its productive capacity and is usually a signal of a lack of response to the market situation in failed companies. However, some failed firms also have high ratios resulting from increased turnover accompanied by a decline in net assets, whereby some failed companies may have a raised turnover by over-trading. A usual phenomenon.
+ratio of short-term loans to earnings before tax and interest charge. Short-term loans are taken as being the loan and overdrafts appearing in the company's current liabilities statement. It shows the relative safety of short-term loans compared to earnings before tax and interest charges. This ratio is one measure of a company's liquidity.
+The tax trend tends towards the negative in failed companies. As a company becomes 'better off' the trend increases. Tax may be viewed as a portion of the profit paid to the government, thus when a company does not achieve profitability, no tax is paid.
+earnings after tax trend. The earnings after tax trend tend towards the negative in failed companies. Again as a company becomes better off the trend increases, becoming negative in the failed companies.
+7. short-term loan trend. The short-term loan trend has the advantage of measuring the liquidity over several years. The majority of construction companies are dependent on short-term loans. In practice, the long-term nature, for example, the bank overdraft which a firm obtains or the credit extended to it by its trade creditors, will be available to the company without any further negotiation, unless drastic changes occur in the company or in the general economy. Generally, failed companies are highly dependent on short-term loans more than non-failed firms. As a company becomes worse off the trend increases, reaching crisis level before the collapse.
+Table 3 The constituent ratios in the model
+Ratio number 	Description of ratio Structural aspect of ratio
+6	PAT/NCE	Profitability
+respective financial aspect measurements described above.
+The model produced a histogram of Z scores for the failed and non-failed groups as shown in Figure 1. A 'grey area' zone is recommended to deal with the overlap region where misclassifications can occur and by taking into account a grey area limit of ± 2.94, it can be seen in Table 4 that 90% of the firms were correctly classified into the non-failed group with 10% classified as vulnerable; 100% of the failed 11 group were correctly classified. Perhaps the most significant way in which to view the prior year's analysis is to plot the mean scores for the different groups for prior years. This plot can be seen in Figure 2. We can see that although the non-failed 20 group's mean Z score varies from year to year, it is constantly above the grey area. The failed 1 1 group, on the other hand, is generally below the grey area. This is a clear indication of the discriminating power of the model.
+The model also classified 75 0/0 of the non-failed group as solvent at year 4 (see Table 5). Furthermore, considering grey area limits (±2.94) improves the model classification by 15% and gives some indication of the discriminating power of the model, although the 'nonfailed 20' group mean Z score varies from year to year.
+By way of contrast, Table 6 shows how well the model behaved with data in the years prior to failure for the failed group. It would clearly be useful to consider how far in advance of failure a firm starts to resemble previous bankrupts. Indeed these results appear to be encouraging with the model classifying 73% of the group as failed up to 3 years prior to failure.
+Table 4 Classification of the non-failed 20 and failed I I groups
+Classified as
+Failed 	Vulnerable
+
+Failed 1 1 group
+Non-failed 20 group
+Figures in parentheses are percentages of total groups.
+Figure 1 The cut-off between non-failed 20 and failed 1 1 groups
+Validation of the developed model
+Alternative results were obtained using independent data for 'Test 1 1' and 'continued 70' groups as shown in Table 7.
+As can be observed, 100% are correctly classified as failed, 67% are correctly classified as non-failed and 20% classified as vulnerable. On first inspection the control appears to be poorer than the 90% result of the non-failed 20 group (see Table 4 used to form the model). Also 13% of the test continued 70 classified as potential failures do not fail and these companies clearly need further explanation and further evidence is required to show that such models predict better than chance or straight classification of all cases as being non-failed.
+The A score approach
+Generally two indicators may be observed as a company moves towards collapse, namely financial, as has already been seen in Z scores and traditional financial ratios. Unfortunately an indication appears only towards the end of the long process of failure, probably only in the last 2 years and sometimes even later. Secondly, long before financial distress becomes visible, many non-
+Figure 2 The non-failed 20 and failed 1 1 companies prior year Z score means obtained from the discriminant model Table 5 Prior years classification of the non-failed 20 group
+Mean Z score
+Figures in parentheses are percentages of total groups.
+financial signs are often apparent such as management mistakes. Indeed many financial experts stress that balance sheet information alone is not enough to predict catastrophic factors such as bad management, economic downturn, over-trading, acquisition of a failed company, excessive inventories and too much paper work and so on should not be overlooked. Thus, some form of nonfinance-based analysis is also needed to classify a company at risk of failure. It is essential to identify the factors behind failure before coming to a conclusion relating to a suspect company. A case study is a very sensible approach to identify particular factors in failure and in order to ascertain some of the defects and deficiencies in managerial control, three failed companies were examined in detail and the following characteristics observed.
+Common management characteristics of failed companies
+The autocrat may be distinguished from the team leader through a dominating style. In the failed firms this trait was generally indicated by preservation of a position of sole authority.
+The same person as both chief executive and chairman
+The company chairman should have the authority to dismiss an inadequate chief executive; someone who is both is unlikely to do this. Most of the failed companies exhibited this unfortunate characteristic.
+Table 6 Prior years classifications of the failed I I group
+Accounting year prior to company failure
+
+Mean Z score
+Table 7 Classification of the test failed 1 1 and test continued 70 groups
+Classified as
+Failed	Vulnerable
+Figures in parentheses are percentages of total groups.
+The company boards
+These comprised too many non-contributing directors or persons not working in the company.
+The companies lacked sound engineering experience.
+Lack of a strong financial director
+It is not enough for finance directors to exercise financial skills, they must also be made to make financial decisions. The failed companies mostly had weak finance directors with shared responsibility for financial decision making.
+The companies failed due to one or more of the following: defective financial control, poor person skills, inadequate marketing or legal skills.
+Incomplete accountancy system
+Inadequate cash flow plan. The financial department either had no cash flow plans or ones that were not updated or reviewed periodically.
+Poor budgetary control system. The companies either had no budgets prepared at all or the budgets which were prepared were not reviewed periodically.
+Defective bidding system
+The senior management in the failed firms lacked experience in bidding or the bidding decisions were taken without cross-referring with other senior management.
+A main task of the board is to review the perspective of the market. Indeed the failed companies were those which had either not noticed a change in their business market or had not responded to it. For the case of the construction market one company had invested heavily in land and property during boom periods, subsequently when prices slowed down and interest rates increased, substantial or occasionally critical losses were incurred.
+Past managerial errors in decision making
+Too much reliance on short term loans
+The failed companies sometimes issued debentures with a fixed interest rate when raising investment funds. They also often allowed leverage of these loans to rise to a level at which their futures were placed in jeopardy. Indeed Argenti (1983) in particular illustrated that companies run by ambitious autocrats, not constrained by strong financial directors, were particularly liable to make such errors.
+The failed companies often tried to expand business to the limit while not over-trading, but typically were unsuccessful and expanded faster than funding permitted. For example, one firm which suffered expanded its UK and overseas operations quickly leading to severe shortages in cash flow. In preference, an expanding company should try to increase its equity base instead of relying on loans.
+Companies that failed often had undertaken large projects, involving an excessive inventory or highly technical industrial construction. Similar effects also resulted when guaranteeing the loan of a subsidiary company, whereby the obligation could not be met when matters deteriorated. The following features are typical in this context.
+Contract claims: administration should ensure that contract claims are given the proper attention and carefully analysed and documented, to be equitably resolved as soon as possible. Once a claim has been resolved, a charge order should be issued to cover the resolution. Unresolved claims cause shortage in liquidity and therefore could lead to failure.
+Overseas contracting: work abroad seemed to be a good option for large firms suffering declines in their home market. However, two companies suffered huge losses due to lack of managerial control in an unfamiliar environment.
+Acquisition of a potentially failingfirm
+Clearly a company may unfortunately take over a firm and later find a hidden difficult financial situation resulting in disaster if the acquired firm fails.
+Having identified some of the major managerial errors of judgement leading to failure, a questionnaire was thus designed to identify these defects and deficiencies in ongoing firms. Out of the 90 companies contacted, 28 responded. The identified defects and mistakes were then weighted in accordance with their importance, based on the proportion of replies to each obtained from the questionnaire survey. For example, a weak finance director was reported in a high proportion of replies (17%), followed by an autocratic chief executive (14%) and so on. The results are shown in Table 8.
+The developed A score model
+Table 8 Weighted results obtained from the survey
+Number Managerial factors (characteristics)
+Company board comprised persons not working in the company
+Chief executive and chairman, same person
+Making losses in projects
+Making losses caused by contract claims
+Making losses caused by overseas contracts
+Making losses caused by taking over failing firms
+Using the survey results the relevant managerial factors described above were identified from the survey sample for 'solvent 7' and 'at risk 7' groups based on their Z scores. The A score for each company was then calculated by adding together the weighting for each factor Table 9 The results obtained from at risk 7 group (l) (where ARCI, ARC2, . . .
+given in the survey return. Tables 9 and 10 illustrate the A score results obtained from the at risk 7 and solvent 7 groups, where a comparison of the factors suggested that the least A score value considered to indicate vulnerability would be 50.
+Clearly in sample group I virtually all the companies were in danger in contrast to the strong group 2 (Table 10).
+All companies of group 2 scored less than 50 with a mean value group score of 37.7. The mean value of group I was 65.85.
+Relationship between A score and Z score
+The results obtained from the at risk 7 and solvent 7 groups indicate that there may be a relationship between the A and Z scores, which would be useful if proven statistically. By considering the results obtained from statistical analysis it is shown that the intercorrelations between the A and Z scores are only 67.7%, i.e. fairly acceptable because the Z score value of zero also corresponds to an A score of approximately 50, i.e. the values considered critical in both models. The results also indicate that when the Z score falls below zero, the corresponding A score increases above 50, i.e. the value considered to be a cut-off between at risk and solvent companies.
+Table 10 The results obtained from solvent 7 group (2) (where SCI, SC2, . . .
+Summary and conclusion
+The results from applying the linear discriminant analysis technique produced a linear discriminant model made up of seven variables, measuring five distinct aspects of a company's financial structure, namely profitability, liquidity, activity, financial leverage and three trend measurements, as shown in Table 3.
+The computed F statistic for the overall model was 40.5 and the tabular ratio was 5.42 where the degrees of freedom were 2 and 29 at the 1% significance level. Therefore, it has been concluded that the ability of the discriminant model to differentiate between groups is good (Montagnon, 1980). A prediction of failure is based on the Z score obtained from the model and it is reasonable to assume that the lower the Z score for a company and the more years the company is classed as at risk, the more likely it is that the company will fail. Although a bankrupt profile is a necessary condition for failure, it is not a sufficient one. Unhealthy firms may be taken over as an alternative to bankruptcy, the government may bail them out or they may simply be able to recover. Thus, when a company is classed at risk the fate of the company depends on the actions of its debenture holders, bankers and creditors. Therefore, the Z score alone cannot predict failure and only provides a financial indication of the solvency of a company in the hands of the decision makers, i.e. the model indicates that a certain company has a profile very similar to a failed company and therefore has a high probability of failure. Therefore, prediction of bankruptcy using the discriminant model is possible, if the probability of a company actually failing when it is classified at risk is calculated. However, it is also necessary to specify a grey area, the area within which inaccurate classification of a company is not possible and represents the overlap region in the original sample where misclassifications can occur. As shown in Figure 1 there is only a very slight overlap in the Z value over the two distributions. In this region two types of error can occur. Type 1 errors, defined as misclassification of a failing company as non-failed and type Il errors, defined as misclassification of non-failed companies as failed. No type 1 errors occurred with just two type Il errors within these limits giving a clear indication of the success in the selection of the limits. Even so the type Il errors were not really misclassifications since the sample of non-failed firms was not restricted to healthy firms, the expectation being that a few weak firms would be represented in the non-failed sample and it is these firms that have been assigned low Z scores. By considering prior probability and misclassifications the cut-off zero value (see Abidali and Harris, 1990, section 6.6) was reached through subjective estimation around the grey area limits of ± 2.94, i.e. any company having a Z score within these limits cannot be confidently classified and can only be considered vulnerable. However, the existence of such a grey area does not detract from usefulness but simply obliges the investigator to make further and more detailed analysis of the firm in this range of Z scores. Finally, a major construction company announced its failure in April 1990 and, consequently, further investigations were made, when, surprisingly, Z scores for the period 1987—1989 were —1, —4 and —16, respectively, ascertained. The Z score for this particular firm declined continuously and very sharply almost 1 year before failure. Thus, the at risk stage could have been flagged at least 4 years before ultimate collapse, perhaps giving enough time to take remedial action (see Abidali and Harris, 1990, p. 154). It has been shown that failing companies exhibit negative Z scores for several years prior to failure, so a single year Z score is not sufficient for prediction failure. Therefore, the individual Z scores serve to rank the companies in terms of their solvency; the lower the Z score the more likely a company is to fail. Thus, in conclusion a Z score alone is insufficient evidence for failure prediction and non-financial analysis for companies exhibiting at risk Z scores will be necessary to reinforce the prediction. The A score was developed to systematize failure prediction by quantification measures based on non-financial features and then linked with Z scores. It could be concluded that there is a link between the Z and A scores. As was seen from the results of the at risk 7 and solvent groups, those companies scoring negatively in the Z model also have A scores above 50 in 100% of the at risk group. Furthermore, the Han-is
+results of the test 14 group show that three out of 14 companies scoring positively in the Z model had A scores above 50, these being large firms whose strength and reputation were sufficient to stave off insolvency for some considerable time. Another point of interest is the possibility that the A score indicator might be a simple measure for a company moving down the path to failure when its A score rises above 50.

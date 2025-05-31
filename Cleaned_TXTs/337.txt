@@ -1,0 +1,440 @@
+Establishing quantitative indicators for measuring the partnering performance of construction projects in Hong Kong
+To cite this article: John F. Y. Yeung , Albert P. C. Chan & Daniel W. M. Chan (2008) Establishing
+quantitative indicators for measuring the partnering performance of construction projects in Hong Kong, Construction Management and Economics, 26: 3, 277-301, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (March 2008) 26, 277–301
+Establishing quantitative indicators for measuring the
+partnering performance of construction projects in
+JOHN F. Y. YEUNG*, ALBERT P. C. CHAN and DANIEL W. M. CHAN
+Department of Building and Real Estate, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong Received 21 February 2007; accepted 6 November 2007
+Research into Key Performance Indicators (KPIs) for partnering projects in construction becomes vital because an increasing trend of client organizations has been observed to introduce a partnering approach to their building and construction works internationally during the last decade. A Partnering Performance Index (PPI) has been developed for construction projects in Hong Kong. The PPI can assist in developing a benchmark for measuring the performance of their partnering projects. However, it is worth noting that assessors may have their own semantic interpretations on each KPI. The aim of this paper is to establish suitable quantitative indicators (QIs) and reasonable quantitative ranges (QRs) for each KPI in order to avoid any possible discrepancies in interpreting the meaning of each KPI and provide objective evaluation results based on quantitative evidence. By conducting five structured face-to-face interviews and two rounds of a Delphi questionnaire survey in Hong Kong, a set of QIs were developed to measure the seven most important KPIs, including: (1) time performance; (2) cost performance; (3) top management commitment performance; (4) quality performance; (5) trust and respect performance; (6) effective communications performance; and (7) innovation and improvement performance. The identified QIs and QRs could assess and compare different partnering projects on a common basis objectively, thus helping to set a benchmark for measuring the performance level of partnering projects in Hong Kong. Construction senior executives and project managers can thus apply the QIs and QRs to measure, evaluate and improve the existing performance of their partnering projects in order to strive for construction excellence.
+Key Performance Indicators, partnering, quantitative indicators, Delphi method, Hong Kong.
+Introduction
+Partnering has been acknowledged as an innovative and non-confrontational relationship-based approach to the procurement of construction projects over the past decade (Construction Industry Institute, 1991 and 1996; Cowan et al., 1992; Abudayyeh, 1994; Harback et al., 1994; Lazar, 1997; Thompson and Sanders, 1998; Bayliss, 2000; Black et al., 2000; Li et al., 2001; Chan et al., 2003). Many research studies reported that partnering is one of the conceivable solutions for improving overall project performance (Moore et al., 1992; Mohr and Spekman, 1994; Construction Industry Board, 1997; Bresnen and Marshall, 2000; Lazar, 2000; Chan et al., 2002 and 2006).
+during the past decade, client organizations have indicated a wider application of introducing a partnering approach to their building and construction works both locally and internationally (Chan et al., 2002). With the perceived benefits of adopting a partnering approach (Construction Industry Institute, 1991; Black et al., 2000; Li et al., 2001; Chan et al., 2003), research into Key Performance Indicators (KPIs) for partnering projects in construction becomes important because it can help to develop a benchmark for measuring the performance of partnering projects.
+A Partnering Performance Index (PPI) for construction projects in Hong Kong has been developed by Yeung et al. (in press) (Figure1). The PPI is composed of seven most important KPIs, including: (1) time performance, with the weighting of 0.167;
+*Author for correspondence. bsjyeung@inet.polyu.edu.hk
+performance, with the weighting of 0.160;
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2008 Taylor & Francis
+Figure 1	The Partnering Performance Index (PPI) for the Hong Kong construction industry (Yeung et al., in press)
+management	commitment,	with	the	weighting	of
+(4) quality performance, with the weighting of
+Table 1	Correlation matrix among the seven selected weighted KPIs (for Round 4) (Yeung et al., in press)
+Correlation matrix
+Cost	Quality
+Trust and Top management respect commitment
+Effective Innovation and communications improvement
+Quality performance
+Trust and respect
+** Correlation is significant at the 0.01 level (2-tailed). * Correlation is significant at the 0.05 level (2-tailed).
+(5) trust and respect, with the weighting of 0.143; (6) effective communications, with the weighting of 0.131; and (7) innovation and improvement, with the weighting of 0.106. The coefficients of the KPIs are their individual weightings, which are calculated by their mean ratings divided by the total mean ratings. The Index is derived based on the assumption that this is a linear and additive model. It is logical and valid to derive this linear and additive model because the correlation matrix as shown in Table1 reveals that nearly all the seven weighted KPIs are not highly correlated with each other at 5% significance level (more than half of them are even insignificantly correlated with each other). In addition, the units of measurement for the seven weighted KPIs are different so there is unlikely to be any multiplier effect between them. Though it seems more sophisticated to use a non-linear model to fit the data obtained, overfitting is a common problem with non-linear models especially when the sample size is not sufficiently large (Neter et al., 2005; Weisberg, 2005). That is why a linear, but not non-linear model is recommended if the relationship among variables is not proved to be nonlinear. In fact, a linear model is assumed to be a linearized model of an unknown non-linear model if it really exists (Morrison, 1991; Griffiths, 1993). Practically speaking, it is simpler and easier to use this linear model to measure the partnering performance of construction projects in the Hong Kong construction industry.
+However, it is worth noting that different assessors may have their own semantic interpretations on each KPI identified. For example, an assessor may use ‘Percentage of conformance to the contract specifications’ to measure quality performance while another assessor may adopt ‘Number of non-conformance reports generated per month’ to measure it. Even if a mutually agreed set of linguistic interpretations exists, its qualitative nature could lead to subjective judgment instead of evidence-based consideration. Thus, it is desirable to identify suitable quantitative indicators
+(QIs) for each KPI so as to avoid any possible discrepancies in interpreting the meaning of each KPI and provide objective evaluation results based on quantitative evidence.
+The aim of this paper is to establish quantitative indicators (QIs) and quantitative ranges (QRs) appropriate for measuring each of the seven most important KPIs sought in Hong Kong. To achieve this, four objectives have been set, including (1) identifying a list of KPIs for measuring the partnering performance of construction projects in Hong Kong; (2) compiling a list of potential QIs to measure each of the seven selected weighted KPIs; (3) selecting the most vital QIs to measure each of the selected KPIs; and (4) defining reasonable quantitative ranges for different performance levels of each of the QIs. To do so, five structured face-to-face interviews were conducted with leading industrial practitioners who have been involved in partnering projects in Hong Kong to identify a list of potential QIs and subsequently, two rounds of Delphi questionnaire survey were undertaken with 31 relevant construction experts in Hong Kong in order to assess the appropriateness of the selected QIs by rating them against their level of importance, measurability and obtainability based on five-point Likert scales. After identifying appropriate QIs, reasonable quantitative ranges for measuring different performance levels of each of the QIs were defined through another empirical questionnaire survey. Finally, different partnering projects could be assessed and compared objectively on the same basis, thus assisting in setting a benchmark for measuring the performance level of partnering projects. The findings of this paper will be discussed, followed by highlighting the significance and limitations of the study.
+Research method
+The research methods employed in this paper included: (1) structured face-to-face interviews; (2) Delphi questionnaire survey; and (3) empirical questionnaire survey. A total of five structured face-to-face interviews were conducted with leading industrial practitioners in Hong Kong who all have gained extensive hands-on experience in procuring partnering projects. The interviewees were invited via a set of structured openended questions to propose two most important QIs to evaluate the previously developed seven selected weighted KPIs for the Hong Kong construction industry. A total of 39 QIs for construction partnering projects were proposed by the five interviewees. The meanings of some QIs are similar in nature so they are combined and rephrased into one statement. And the QIs with the highest frequencies identified by the interviewees were selected for further study. Finally, 21 QIs (three QIs per each KPI) were formulated and consolidated for further analysis. Afterwards, two rounds of Delphi questionnaire survey were undertaken with the same 38 construction experts (one was retired) in Hong Kong, who were previously identified to conduct the four rounds of the first Delphi survey (Yeung et al., in press), in order to assess the appropriateness of the selected QIs by rating them against their levels of importance, measurability and obtainability based on five-point Likert scales. Ultimately, the QIs with the highest mean rating for each of the seven selected KPIs were selected to measure the performance of partnering projects. Figure2 shows the process of this research stage.
+A major reason for employing the Delphi method in this research is that this method is a highly formalized method of communication that is designed to extract the maximum amount of unbiased information from a panel of experts (Chan et al., 2001). In fact, it has been increasingly adopted in many complex areas in which a consensus is needed to be reached (Chan et al., 2001), for example: (1) the development of residential areas (Anatharajan and Anataraman, 1982); (2) theory and design application (Corotis et al., 1981); (3) bridge condition rating and effects of improvements (Saito and Sinha, 1991); (4) procurement selection (Chan et al., 2001); and (5) sustainable development (Manoliadis et al., 2006). Thus, it is suitable to adopt the Delphi method to obtain appropriate QIs to evaluate the performance of construction partnering projects because it is a rather subjective and new area of research.
+Manoliadis et al. (2006) stated that the key issues in preparing a Delphi survey study were: (1) the definition of experts and their selection; (2) the number of rounds; and (3) the questionnaire structure (i.e. number of questions) in each study round. The Delphi method used in this research was composed of two rounds. In Round 1 of the Delphi questionnaire, the respondents were asked to provide ratings against the levels of importance, measurability and obtainability on each of the proposed QIs, based on five-point
+Figure 2	The process of this research stage
+Likert scales, to measure the performance of partnering projects. While analysing the data, the focus ought to be on the opinion of the whole group rather than of individuals. In Round 2 of the Delphi questionnaire, respondents were provided with the consolidated results from Round 1. They were asked to reconsider the ratings of each QI to see if they would like to adjust their original ratings in the light of the consolidated results.
+After identifying a set of QIs for measuring the partnering performance of construction projects, another empirical questionnaire survey was conducted in order to capture the perception of professionals as to the expectation of different performance levels for each of the QIs. The seven QIs selected were used for the design of a questionnaire. The questionnaire is divided into two parts. The first part shows the results of previous Round 4 of the first Delphi Survey (Yeung et al., in press) and the second part focuses on asking for the expectations of experts on each of the seven selected QIs with respect to five different performance levels namely ‘poor’, ‘average’, ‘good’, ‘very good’ and ‘excellent’. A survey questionnaire together with a covering letter stating the objectives of the study was delivered to the same 31 respondent construction experts in Hong Kong. Of the 31 questionnaires distributed, 22 valid replies were received representing a response rate of 70.97%.
+The success of Delphi method depends principally on the careful selection of the panel members (Chan et al., 2001). The same 38 construction experts who contributed to the four rounds of the first Delphi questionnaire survey were again approached for this second stage of the research study. They represent a wide spectrum of construction professionals in Hong Kong, with eighteen from the private sector, eight from the public sector, six from the infrastructure sector and six from the academic sector. The infrastructure and academic sectors are considered as sectors in the same way as private building and public building sectors except that the infrastructure sector, which is different from the private and public building sectors, only includes mass transportation service providers, e.g. Mass Transit Railway Corporation Limited (MTRCL) and Kowloon–Canton Railway Corporation (KCRC). The composition of this group of experts provides a balanced view for the Delphi study.
+Table2 indicates the 39 QIs proposed by the five leading industrial practitioners during the face-to-face interviews. In fact, the transcriptions of the interview dialogues were sent back to all the interviewees for their verification before conducting the Delphi study. The meanings of some QIs are similar in nature so they are combined and rephrased into one statement. And the QIs with the highest frequencies identified by the interviewees were selected for further analysis. Finally, 21 QIs (three QIs per each KPI) were formulated and consolidated for further study. It should be emphasized that the reason why the QI survey did not comprise more instances with several items per KPI construct with these being selected for multivariate data analysis is that this performance evaluation model (PPI) has already included seven weighted KPIs after conducting four rounds of the first Delphi questionnaire survey. In order to make the PPI model more practical and easier to use, it is not good to have more than one QI per KPI
+Table 2	The QIs proposed by the five leading industrial practitioners in Hong Kong
+The proposed QIs
+Time performance
+Variation of project completion time against programme expressed as a percentage of project completion time
+Variation of project completion time against completion time of best-in-class projects expressed as a percentage of completion time of best-in-class projects
+Variation of project completion time against completion time of standard projects in similar type as a percentage of completion time of standard projects in similar type
+Variation of initially mutually agreed completion time expressed as a percentage of finally mutually agreed completion time
+Time predictability for design: measuring change between actual design time and predicted design time, expressed as a percentage of the estimated design time
+Time predictability for construction: measuring change between actual construction time and predicted construction time, expressed as a percentage of the estimated construction time
+Time improvement: measuring how much time improvement of a project is delivered to previous
+Percentage of meeting milestone dates of a project by a main contractor
+Composite time performance score by using Likert scale
+Cost performance
+Variation of project completion cost against budget expressed as a percentage of project completion cost
+Variation of project completion cost against completion cost of best-in-class projects expressed as a percentage of completion cost of best-in-class projects
+Variation of project completion cost against completion cost of standard projects in similar type expressed as a percentage of completion cost of standard projects in similar type
+Cost predictability for design: measuring change between actual design cost and predicted budget, expressed as a percentage of the estimated design budget
+Cost predictability for construction: measuring change between actual construction cost and predicted construction cost, expressed as a percentage of the estimated construction cost
+Cost improvement: measuring how much cost improvement of a project is delivered to the previous
+Composite cost performance score by using Likert scale
+Partnering development cost1 of project expressed as a percentage of project completion cost
+Ratio of time spent by project director in partnering steering/progress monitoring meetings to time by project director in project steering/progress monitoring meetings
+Percentage of partnering steering/progress monitoring meetings attended by company director2
+Measuring level of top management commitment by using Likert scale
+Quality performance
+Cost of rectifying major defects or non-conformances before project completion expressed as a percentage of project completion cost
+Cost of rectifying major defects or non-conformances during defect liability period expressed as a percentage of project completion cost
+Cost of rectifying major defects of a project expressed as a percentage of project completion cost
+Ratio of number of non-conformance reports per month to the average number of non-conformance reports per month
+Number of non-conformance reports (focusing on the trend over a period of time)
+Number of complaints received by customers
+Composite satisfaction scores of end users by using Likert scale
+Trust and respect
+Average speed of resolving variations (for example, there are 5 major variations and the total duration to resolve them is 70 days, the average speed of resolving them is 14 days per variation)
+Average speed of settling EOT claims (for example, there are 10 EOT claims and the total duration to settle them is 120 days, the average speed of settling them is 12 days per claim
+Composite satisfaction scores of key stakeholders by using Likert scale
+Frequency of meeting one’s expectation about another party’s behaviour and/or having confidence in another party
+Table 2	(Continued.)
+The proposed QIs
+The difference between number of formal letter (per year) sent between parties and standard number of formal letter (per year) sent between parties
+Number of formal letters and e-mails sent between parties both internally and externally per month
+Composite satisfaction scores of key stakeholders by using Likert scale
+Innovation and improvement cost saving expressed as a percentage of project completion cost
+Innovation and improvement time saving expressed as a percentage of project completion time
+Number of new initiatives for improvement introduced (construction techniques)
+Composite satisfaction scores of key stakeholders by using Likert scale
+1 Partnering development cost is defined as a dedicated resource allocation cost from the total project completion cost, which includes (1) cost of employing facilitators; and (2) cost of organizing partnering. 2 Project director is defined as the most senior executive in a company
+responsible for managing the project.
+construct in the model because it will make the model become too complex and difficult to use. In fact, to do so would require much more necessary data to be collected to compile the PPI. Therefore, a more practical way was adopted in which the most representative one out of the three most vital QIs per KPI according to their levels of importance, measurability and obtainability was chosen to measure the partnering performance of construction projects in Hong Kong.
+Perceived QIs for time performance
+Table3 indicates the QIs for measuring the time performanceofpartneringprojects,whichwereproposed by the five interviewees. Since the meanings of QIs 1, 4, 5 and 6 are similar in nature (the meanings of QIs 1 and 4 have already included the meanings of QIs 5 and 6), the four QIs are rephrased and combined into one. By the same logic, QIs 2, 3 and 7 are consolidated into one statement.Although‘best-in-classprojects’asmentioned in QI 2 is different from ‘standard projects’ as mentioned in QI 3, the wording ‘previous similar projects’ as mentioned in the combined statement included both concepts. In addition, most interviewees perceived that it may not be easy to collect relevant data and during the interview,theywereinclinedtosuggestusingacomposite timeperformancescorebyusingaLikertscaletomeasure the time performance. Finally, the three most vital QIs identified for further study were: (1) ‘Variation of actual completion time expressed as a percentage of finally agreed completion time’ (also suggested by Collin, 2002); (2) ‘Time improvement: measuring how much time improvement of a project is delivered to previous similar projects’; and (3) ‘Composite time performance score by using Likert scale’.
+Perceived QIs for cost performance
+A similar approach was applied to identify QIs for other KPIs. Table4 indicates the QIs for measuring the cost performance of partnering projects, which were proposed by the five interviewees. As with the method for measuring the time performance, QIs 1, 4 and 5 are combined and rephrased into one statement because their meanings are similar (the meaning of QI 1 has already included the meanings of QIs 5 and 6). By the same logic, the QIs 2, 3 and 6 are consolidated into one statement. Although ‘best-in-class projects’ as mentioned in QI 2 is different from ‘standard projects’ as mentioned in QI 3, the wording ‘previous similar projects’ as mentioned in the combined statement included both concepts. In addition, all interviewees perceived that it is not easy to collect relevant data and they were inclined to recommend using a composite cost performance score by using a Likert scale to measure the cost performance. Finally, the three most vital QIs identified for measuring the cost performance of partnering projects were: (1) ‘Variation of actual project cost expressed as a percentage of finally agreed project cost’ (also suggested by Cheung et al., 2003); (2) ‘Cost improvement: measuring how much cost improvement of a project is delivered to previous similar projects’; and (3) ‘Composite cost performance score by using Likert scale’.
+Perceived QIs for top management commitment performance
+A similar approach was applied to identify QIs for other KPIs. Table5 indicates that the three most important QIs for measuring the top management commitment performance of partnering projects were: (1) ‘Partnering development cost of project expressed as a percentage of total project cost’; (2) ‘Percentage of top management attendance in partnering meetings’; and (3) ‘Measuring level of top management commitment by using Likert scale’ (say high level, moderate level or low level).
+Table 3	Proposed and newly selected quantitative indicators (QIs) for measuring the time performance of partnering projects
+Variation of project completion time against programme expressed as a percentage of project completion time
+Variation of project completion time against completion time of best-in-class projects expressed as a percentage of completion time of best-in-class projects
+Variation of project completion time against completion time of standard projects in similar type as a percentage of completion time of standard projects in similar type
+Variation of initially mutually agreed completion time expressed as a percentage of finally mutually agreed completion time
+Time predictability for design: measuring change between actual design time and predicted design time, expressed as a percentage of the estimated design time
+Time predictability for construction: measuring change between actual construction time and predicted construction time, expressed as a percentage of the estimated construction time
+Time improvement: measuring how much time improvement of a project is delivered to previous projects
+Percentage of meeting milestone dates of a project by a main contractor
+Composite time performance score by using
+Implied, but not directly identified
+Implied, but not directly identified
+Implied, but not directly identified
+QIs 1, 4, 5 and 6 are combined because their meanings are similar (selected with some wording rewritten)
+QIs 2, 3 and 7 are combined because their meanings are similar (selected)
+QI 8 is disposed because only 1 interviewee considered it to be an important QI for measuring time performance QI 9 is selected because it is vital, easy to estimate and obtain (most interviewees implied that it is a useful QI to measure the time performance)
+Newly selected QIs for measuring the time performance of partnering projects
+Variation of actual completion time expressed as a percentage of finally agreed completion time
+Time improvement: measuring how much time improvement of a project is delivered to previous similar projects
+Composite time performance score by using Likert scale
+Perceived QIs for quality performance
+Table6 shows the three most vital QIs for measuring the quality performance of partnering projects. (1) ‘Cost of rectifying major defects or nonconformances of a project expressed as a percentage of total project cost’; (2) ‘Average number of nonconformance reports generated per month’ (also suggested by Bayliss et al., 2004); and (3) ‘Perceived end users’ satisfaction scores by using Likert scale’ (also suggested by Chan et al., 2006).
+Perceived QIs for trust and respect performance
+Table7 indicates that the three most important QIs for measuring the trust and respect performance of partnering projects were: (1) ‘Average duration for
+Table 4	Proposed and newly selected quantitative indicators (QIs) for measuring the cost performance of partnering projects
+Variation of project completion cost against budget expressed as a percentage of project completion cost
+Variation of project completion cost against completion cost of best-in-class projects expressed as a percentage of completion cost of best-in-class projects
+Variation of project completion cost against completion cost of standard projects in similar type expressed as a percentage of completion cost of standard
+Cost predictability for design: measuring change between actual design cost and predicted budget, expressed as a percentage of the estimated design budget
+Cost predictability for construction:
+measuring change between actual construction cost and predicted construction cost, expressed as a percentage of the estimated construction cost
+Cost improvement: measuring how much cost improvement of a project is delivered to the previous projects
+Composite cost performance score by using Likert scale
+Implied, but not directly identified
+Implied, but Implied, but Implied, but
+not directly not directly not directly identified identified identified
+QIs 1, 4 and 5 are combined because their meanings are similar (selected with some wording rewritten)
+QIs 2, 3 and 6 are combined because their meanings are similar (selected)
+QI 7 is selected because it is vital, easy to estimate and obtain (most interviewees implied that it is a useful QI to measure the cost performance)
+Newly selected QIs for measuring the cost performance of partnering projects
+Variation of actual project cost expressed as a percentage of finally agreed project cost
+Cost improvement: measuring how much cost improvement of a project is delivered to previous similar projects
+Composite cost performance score by using Likert scale
+settling variation orders and EOT claims’; (2) ‘Frequency of meeting another party’s expectation’; and (3) ‘Perceived key stakeholders’ satisfaction scores by using Likert scale’ (also suggested by Cheung et al., 2003).
+Perceived QIs for effective communications performance
+Table8 shows the three most vital QIs for measuring the effective communications performance of partnering projects. (1) ‘Reduction of written communication: measuring how much written communication is reduced as compared to previous similar projects’; (2) ‘Variation of the number of formal letters and e-mails sent between parties per month against the number with previous similar projects’; and (3) ‘Perceived key stakeholders’ satisfaction scores by using Likert scale’.
+Perceived QIs for innovation and improvement performance
+Table9 shows that the three most important QIs for measuring the innovation and improvement performance of partnering projects were: (1) ‘Cost saving resulting from innovation expressed as a percentage of total project cost’; (2) ‘Number of innovative initiatives introduced (e.g. construction techniques, procurement
+Table 5 Proposed and newly selected quantitative indicators (QIs) for measuring the top management commitment performance of partnering projects
+Proposed QIs for measuring the top management	Private sector	Public	Infrastructure sector	Total commitment performance of partnering projects in	sector
+
+Partnering development cost of project expressed as a percentage of project completion cost
+Ratio of time spent by project director in partnering steering/progress monitoring meetings to time by project director in project steering/ progress monitoring meetings
+Percentage of partnering steering/progress monitoring meetings attended by company director
+Percentage of partnering steering/progress monitoring meetings attended by director’s/deputy director’s representative (very often by project
+Measuring level of top management commitment	X	X
+QI 1 is selected because it is vital, and not difficult to measure and obtain
+QIs 2, 3 and 4 are combined because their meanings are similar (selected with some wording rewritten) QI 5 is selected because it is vital, easy to estimate and obtain
+Newly selected QIs for measuring the top management commitment performance of partnering projects
+Partnering development cost of project expressed as a percentage of total project cost
+Percentage of top management attendance in partnering meetings
+Measuring level of top management commitment by using Likert scale (say high level, moderate level or low level)
+approaches, management strategies)’ (also suggested by Zhao, 2002); and (3) ‘Perceived key stakeholders’ satisfaction scores by using Likert scale’.
+Round 1 of the Delphi questionnaire: ratings obtained from experts
+In the first round of the Delphi questionnaire, experts were requested to assess the appropriateness of the identified QIs by rating them against their levels of importance, measurability and obtainability based on five-point Likert scales. In addition, they were encouraged to suggest additional QIs for each KPI wherever deemed appropriate. The five-point Likert scales, ranging from 15very unimportant/very difficult to measure and obtain, to 55very important/very easy to measure and obtain, is used because the dimensions for measuring QIs should be bipolar, referring to the presence of opposite attributes, not unipolar, referring to different degrees of the same attribute (Schwarz, 1996). Only about half of the experts completed the questionnaire within one month. An individual e-mail was sent to remind those experts who had not yet returned their completed questionnaires in time, and there was a follow-up phone call. Finally, 27 experts returned their completed questionnaires in late June of 2006.
+Results and analysis
+Factor analysis (FA) was conducted on each set of QIs to determine if they load on a single KPI. Table10 shows the results of the Kaiser–Meyer–Olkin (KMO) measure of sampling adequacy and Bartlett’s test of sphericity in which the value of KMO is 0.433, which is smaller than 0.5. A small value for the KMO measure indicates that the appropriateness of factor analysis of the variables is weak because correlations between pairs of variables cannot be explained by the other variables (Norusis, 2005). Table11 shows the results of the correlation matrix among QIs and it was found that most of the correlations between QIs were low and statistically insignificant at 5% level. These results support the propostion that each QI should not be combined with the other QIs.
+In order to obtain a measure of consistency in ranking the QIs by the survey respondents, a statistical test was applied involving the calculation of Kendall’s
+Table 6	Proposed and newly selected quantitative indicators (QIs) for measuring the quality performance of partnering
+Cost of rectifying major defects or non-conformances before project completion expressed as a percentage of project completion cost
+Cost of rectifying major defects or non-conformances during defect liability period expressed as a percentage of project completion cost
+Cost of rectifying major defects of a project expressed as a percentage of project completion cost
+Ratio of number of non-conformance reports per month to the average number of non-conformance reports per month
+Number of non-conformance reports (focusing on the trend over a period of time)
+Number of complaints received by customers
+Composite satisfaction scores of end users by using Likert scale
+Implied, but Implied, but Implied, but
+not directly not directly not directly identified identified identified
+QI 3 is selected because it is vital and easier to measure and obtain when compared with QIs 1 and 2
+QI 4 is not selected because QI 5 has already reflected it in a better way
+QI 5 is selected with some wording rewritten
+QI 7 is selected because it is vital, easy to estimate and obtain
+Newly selected QIs for measuring quality performance of partnering projects
+Average number of non-conformance reports generated per month
+Perceived end users’ satisfaction scores by using Likert scale
+Coefficient of Concordance (W) for the QIs (Chan et al., 2001). If the Concordance Coefficient is equal to 1, it means that all the experts rank the QIs identically. In contrast, if the Concordance Coefficient is equal to 0, it means that all the experts rank the QIs totally differently. Table12 also shows that Kendall’s Coefficient of Concordance (W) for the rankings of all the QIs was 0.290, which was statistically significant at 1% significance level. The null hypothesis that the respondent’s ratings within the group are unrelated to each other has to be rejected. Therefore, it can be concluded that a significant amount of agreement among the respondents within the group of panel experts in ranking the QIs was found.
+A statistical analysis was further performed on the 27 questionnaires received in which the mean ratings against the levels of importance, measurability and obtainability for each of the proposed QIs were computed. Table12 shows the results of Round 1 of the Delphi questionnaire. It is indicated that the QIs with the highest mean ratings for the seven selected weighted KPIs were: (1) ‘Variation of actual completion time expressed as a percentage of finally agreed completion time’, with the mean rating of 4.47 (for measuring time performance); (2) ‘Variation of actual project cost expressed as a percentage of finally agreed project cost’, with the mean rating of 4.42 (for measuring cost performance); (3) ‘Percentage of top management attendance in partnering meetings’, with the mean rating of 4.44 (for measuring top management commitment); (4) ‘Average number of non-conformance reports generated per month’ (for measuring civil works and building works), with the mean rating of 4.02 (for measuring quality performance); (5) ‘Perceived key stakeholders’ satisfaction
+Table 7 Proposed and newly selected quantitative indicators (QIs) for measuring the trust and respect performance of partnering projects
+
+Average speed of resolving variations (for example, there are 5 major variations and the total duration to resolve them is 70 days, the average speed of resolving them is 14 days per variation)
+Average speed of settling EOT claims (for example, there are 10 EOT claims and the total duration to settle them is 120 days, the average speed of settling them is 12 days per claim
+Composite satisfaction scores of key stakeholders by using Likert scale
+Frequency of meeting one’s expectation	X
+about another party’s behaviour and/or having confidence in another party
+QIs 1 and 2 are combined and selected with some wording rewritten
+QI 3 is selected with some wording rewritten
+QI 4 is selected with some wording rewritten
+Newly selected QIs for measuring the trust and respect performance of partnering projects
+Average duration for settling variation orders and EOT claims
+Frequency of meeting another party’s expectation
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+Table 8 Proposed and newly selected quantitative indicators (QIs) for measuring the effective communications performance of partnering projects
+The difference between number of formal letter (per year) sent between parties and standard number of formal letter (per year) sent between parties
+Number of formal letters and e-mails sent between parties both internally and externally per month
+Composite satisfaction scores of key stake-
+QI 1 is selected with some wording rewritten QI 2 is selected with some wording rewritten
+QI 3 is selected with some wording rewritten
+Newly selected QIs for measuring the effective communications performance of partnering projects
+Reduction of written communication: measuring how much written communication is reduced as compared to previous
+Variation of the number of formal letters and e-mails sent between parties per month against the number with previous
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+Table 9 Proposed and newly selected quantitative indicators (QIs) for measuring the innovation and improvement performance of partnering projects
+Innovation and improvement time saving expressed as a percentage of project completion time
+Number of new initiatives for improvement introduced (construc tion techniques)
+Composite satisfaction scores of key
+QI 1 is selected with some wording rewritten because it is better to reflect than the QI 2
+QI 3 is selected with some wording rewritten
+QI 4 is selected with some wording rewritten
+Newly selected QIs for measuring the innovation and improvement performance of partnering projects
+Cost saving resulting from innovation expressed as a percentage of total project cost
+Number of innovative initiatives introduced (e.g. construction techniques, procurement approaches, management
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+scores by using Likert scale’, with mean rating of
+3.74 (for measuring trust and respect performance); (6) ‘Perceived key stakeholders’ satisfaction scores by using Likert scale’, with the mean rating of 3.49 (for measuring effective communications performance); and (7) ‘Number of innovative initiatives introduced’, with the mean rating of 3.81 (for measuring innovation and improvement performance). It may be of interest to note that a new QI for measuring the effective communications performance of partnering projects, which had not been proposed by the five interviewees, was suggested by one of the panel experts. The new QI is ‘Integrated offices; frequency of/attendance at meetings’. Since only one panel member suggests it as a measure of effective communications, it was not selected for further study.
+Round 2 of the Delphi questionnaire: reassessing the ratings
+
+For Round 2 of the Delphi survey, the experts were provided with the consolidated results obtained in Round 1. The average ratings of the 27 experts against the levels of importance, measurability and obtainability for each QI and the respondent’s own ratings in Round 1 were shown. The respondents were asked to reassess their ratings in the light of the mean scored by the 27 experts. Round 2 of the Delphi questionnaire was distributed to the same group of panel experts by both postal mail and e-mail in late June of 2006. As in the previous round, an individual e-mail was forwarded to remind all the experts who had not yet returned their completed questionnaires in time, followed up by a
+Table 10	Results of KMO measure and Bartlett’s test of sphericity (for Round 1)
+Kaiser–Meyer–Olkin measure of sampling adequacy	0.433
+Bartlett’s test of sphericity	Approx. chi-square	389.616 df	210
+Table 11	Results of the correlation matrix among QIs (for Round 1)
+Correlations
+TP3	CP1	CP2	CP3
+TMC1 TMC2 TMC3
+
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+
+Pearson Correlation
+
+Pearson Correlation
+
+Pearson Correlation
+TMC1 Pearson
+Correlation
+TMC2 Pearson
+Correlation
+TMC3 Pearson
+Correlation
+Correlations
+
+CP2	CP3	TMC1 TMC2 TMC3
+
+TR2	TR3	EC1	EC2	EC3	II1	II2
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+Pearson Correlation
+phone call. Finally, 25 experts completed their questionnaires in late August of 2006.
+Results and analysis
+The same factor analysis (Table13), correlation matrix between QIs (Table14) and measure of consistency through the calculation of the Kendall’s Coefficient of Concordance (W) (Table13) were conducted for Round 2 of the Delphi questionnaire and the results were similar to Round 1 and therefore the same conclusions were drawn (i.e. each QI should not be combined with the other QIs and there was significant amount of agreement among the respondents within the group of panel experts in ranking the QIs.)
+Most experts had reconsidered their ratings provided in the previous round and had made adjustments to their ratings. However, Table15 shows that all the QIs with the highest mean ratings are still the same when compared with the consolidated results in Round 1, except that ‘Number of innovative initiatives introduced (e.g. construction techniques, procurement approaches, management strategies)’ was replaced by ‘Cost saving resulting from innovation expressed as a percentage of total project cost’ to measure the innovation and improvement performance of partnering projects.
+Although a set of QIs established can provide a mutually agreed set of linguistic interpretations and lead to more objective performance evaluation for partnering projects, it cannot fully eliminate the subjectivity of evaluation as different assessors may perceive the same performance level with different numerical figures. For example, a 2% reduction in project cost may represent ‘good performance’ to someone who is not too demanding; but a 5% reduction in project cost may be perceived as ‘average performance’ to someone who has a higher expectation. To remedy this deficiency, an empirical questionnaire survey was conducted in order to capture the perception of professionals as to the expectation of different performance levels for each of the QIs. The results of the questionnaire are summarized in Table16 in which the mean expectation (ME) and coefficient of variation (CV) of each QI against the five performance levels are listed. A closer inspection to the coefficient of variation (CV) reveals that there are slight to moderate
+Table 12	Result of Round 1 of the Delphi questionnaire in Hong Kong
+Quantitative indicators for measuring the performance of partnering projects in Hong Kong
+Average ratings of experts in Round 1
+Quantitative indicators for measuring time performance
+Variation of actual completion time expressed as a percentage of finally agreed completion time
+Time improvement: measuring how much time improve ment of a project is delivered to previous similar projects
+Composite time performance score by using Likert scale
+Variation of actual project cost expressed as a percentage of finally agreed project cost
+Cost improvement: measuring how much cost improve ment of a project is delivered to previous similar projects
+Quantitative indicators for measuring top management commitment performance
+Partnering development cost of project expressed as a percentage of total project cost
+Measuring level of top management commitment by using
+Quantitative indicators for measuring quality performance
+Cost of rectifying major defects or non-conformances of a project expressed as a percentage of total project cost
+Average number of non-conformance reports generated per month
+Perceived end users’ satisfaction scores by using Likert scale
+Quantitative indicators for measuring trust and respect performance
+Frequency of meeting another party’s expectation
+Perceived key stakeholders’ satisfaction scores by using
+Quantitative indicators for measuring effective communications performance
+Reduction of written communication: measuring how much written communication is reduced as compared to previous similar projects
+Variation of the number of formal letters and e-mails sent between parties per month against the number with previous similar projects
+Perceived key stakeholders’ satisfaction scores by using
+Quantitative indicators for measuring innovation and improvement performance
+Cost saving resulting from innovation expressed as a percentage of total project cost
+Number of innovative initiatives introduced (e.g. con struction techniques, procurement approaches, man agement strategies)
+Perceived key stakeholders’ satisfaction scores by using
+Kendall’s Coefficient of Concordance (W)
+Remarks 1 : Rating 15very unimportant/very difficult and 55very important/very easy.
+Table 13	Results of KMO measure and Bartlett’s test sphericity (for Round 2)
+Kaiser–Meyer–Olkin measure of sampling adequacy	0.350
+Bartlett’s test of sphericity	Approx. chi-square	393.567 df	210
+deviations from the mean value in most of the performance levels describing the QIs. Nevertheless, the deviations are high for ‘Variation of actual completion time expressed as a percentage of finally agreed completion time’ (CV for the average performance522.90 and CV for the good performance5 1.18); ‘Variation of actual project cost expressed as a percentage of finally agreed project cost’ (CV for the average performance522.36 and CV for the good performance51.01); ‘Average number of nonconformance reports generated per month for civil works’ (CV for the excellent performance52.17); and ‘Average number of non-conformance reports generated per month for building works’ (CV for the excellent performance51.52). The results show that differences in expectation exist between the construction experts in the perceived performance level of each QI. Thus, despite the fact that the mean value can serve as a quick rule of thumb for evaluators to differentiate an ‘average’ and ‘good’ performance of a partnering project, it is more appropriate to identify a quantitative range (QR) of reasonable expectation for each performance level as shown in Figure3. A similar approach was adopted by Chow and Ng (2007). Therefore, a partnering project with ‘good’ time performance would be one with for example ahead of schedule by 0.68% to 8.82%. In this example, the lower boundary for the ‘good’ time performance was simply taken as the average of the mean expectation for the ‘average’ time performance (mean expectation for the ‘average’ performance5ahead of schedule by 1.25%) and ‘good’ time performance (mean expectation for the ‘good’ performance5ahead of schedule by 3.86%) and the average of the mean expectation for the ‘good’ time performance (mean expectation for the ‘good’ performance5ahead of schedule by 3.86%) and ‘very good’ time performance (mean expectation for the ‘very good’ performance5ahead of schedule by 9.91%). Table17 shows all the QRs for each of the seven QIs.
+Further research studies should be carried out to establish a more scientific way to define a range for different performance levels. It is clear that accurate estimation of the performance ranges would provide a greater flexibility for assessors to objectively, reliably and practically evaluate the partnering performance of construction projects.
+Discussion and validation of research findings
+The research findings indicate that three QIs with the highest mean ratings were cross-referenced with the reported literature. (1) ‘Variation of actual completion time expressed as a percentage of finally agreed completion time’ (for measuring time performance) (also suggested by Collin, 2002); (2) ‘Variation of actual project cost expressed as a percentage of finally agreed project cost’ (for measuring cost performance) (also suggested by Cheung et al., 2003); and (3) ‘Average number of non-conformance reports generated per month’ (for measuring civil works and building works) (for measuring quality performance) (also suggested by Bayliss et al., 2004). It is worth noting that the current Delphi survey results are in line with earlier research results with similar research topics (Crane et al., 1999; Cheung et al., 2003 and Lo et al., 2006).
+Crane et al. (1999) conducted detailed interviews with 21 successful partnering relationships and then classified partnering measures into three types: result, process and relationship measures. Result and process measures include (1) cost; (2) schedule; (3) safety; (4) quality; and (5) litigation. Relationship measures encompass (1) internal communication; (2) external communication; (3) meeting effectiveness; (4) worker morale; (5) internal trust; (6) external trust; (7) internal leadership; (8) external leadership; (9) accomplishment of objectives; (10) utilization of resources; (11) problem solving; (12) creativity and synergy; (13) timely evaluation and appropriate response; (14) definition and adherence to roles and responsibilities; (15) continuous improvement; and (16) teamwork. However, no further performance index was developed and appropriate QIs were not identified for assessing the partnering performance of construction projects, thus making benchmarking difficult.
+Cheung et al. (2003) adopted eight partnering measures suggested by the New South Wales Public Works Department of Australia. The eight partnering measures were (1) time; (3) quality; (4) safety; (5) communication; (6) claim and issue resolution; (7) environment; and (8) contract relations. A Partnering Temperature Index was developed and an IT system was used to measure the performance of partnering
+Table 14	Results of the correlation matrix among QIs (for Round 2)
+Correlations
+
+
+
+TMC1 TMC2 TMC3
+
+
+
+Correlation
+Pearson	2.325
+Correlation
+Pearson	.156
+Correlation
+
+Pearson	.703** 2.204
+Correlation
+Sig. (2-tailed) .000
+
+Pearson	.178
+Correlation
+
+Pearson	.163 2
+Correlation
+TM- Pearson	.205
+C1	Correlation
+TM- Pearson	.402* 2.168
+C2	Correlation
+TM- Pearson	.092 2.113
+C3	Correlation
+Table 14	(Continued.)
+Correlations
+
+
+
+Pearson	.259	.175
+Correlation
+Pearson	.414* 2.100
+Correlation
+Pearson	.026	.157
+Correlation
+
+Pearson	.399* 2.125
+Correlation
+Pearson	.193
+Correlation
+Pearson	.231
+Correlation
+Pearson	.291
+Correlation
+Pearson	.286
+Correlation
+However, the weightings by default were treated as equal for each measure.
+Lo et al. (2006) used a Balanced Scorecard (BSC) approach to measure the partnering project performance in a holistic manner through an extensive literature review and data analysis (principal components factor analysis) through a questionnaire survey. Four performance measurement perspectives: (1) benefits; (2) attitudes of project stakeholders; (3) attitudes enhancement process; and (4) strategic learning and growth, and 36 strategic objectives (including improved quality, reduced project cost and time, open communication, mutual trust, and top level commitment) were developed. Although it was comprehensive for this approach to assess partnering performance of construction projects in Hong Kong, different industrial practitioners might interpret the same strategic objectives differently. In addition, corresponding weightings were not derived for different strategic objectives, thus making benchmarking difficult as well.
+It should also be pointed out that these researchers encountered the problem of subjectivity in selecting the most vital KPIs for partnering projects without good resolution methods. In contrast, the Delphi survey method used in this research study could assist in extracting the maximum amount of unbiased information from a panel of experts (Chan et al., 2001).
+It should also be noted that the Delphi method by its inherent nature serves as a self-validating mechanism because individual experts are given the chance to reassess their scores with reference to the consolidated mean scores as assessed by other experts (Yeung et al., in press). And it is logical and reasonable to define a range for different performance levels by taking the average of two consecutive performance levels. By doing so, assessors can have greater flexibility to evaluate the partnering performance of construction projects without sacrificing objectiveness and reliability.
+Significance and limitations of the study
+This paper established a series of QIs and reasonable QRs for different performance levels for each of the QIs to measure the previously developed most important seven weighted KPIs for partnering projects in the Hong Kong construction industry. These QIs and QRs could prevent various assessors from applying their subjective interpretation to each KPI during evaluation. In order to compile a rational list of QIs for each of the seven weighted KPIs, five structured face-to-face interviews were launched to suggest appropriate QIs,
+Table 15	Result of Round 2 of the Delphi questionnaire in Hong Kong
+Quantitative indicators for measuring the performance of partnering	Average ratings of experts in Round 2 projects in Hong Kong
+Quantitative indicators for measuring time performance
+Variation of actual completion time expressed as a percentage of finally agreed completion time
+Time improvement: measuring how much time improvement of a project is delivered to previous similar projects
+Subjective assessment by using Likert scale (say ahead of schedule, on time or behind schedule)
+Quantitative indicators for measuring cost performance
+Measurability
+Variation of actual project cost expressed as a percentage of finally agreed project cost
+Subjective assessment by using Likert scale (say within budget, on budget or overrun budget)
+Quantitative indicators for measuring top management commitment performance
+Partnering development cost of project expressed as a percentage of total project cost
+Measuring level of top management commitment by using
+Quantitative indicators for measuring quality performance
+Cost of rectifying major defects or non-conformances of a project expressed as a percentage of total project cost
+Average number of non-conformance reports generated per month
+Perceived end users’ satisfaction scores by using Likert scale
+Quantitative indicators for measuring trust and respect performance
+Frequency of meeting another party’s expectation
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+Quantitative indicators for measuring effective communications performance
+Reduction of written communication: measuring how much written communication is reduced as compared to previous similar projects
+Variation of the number of formal letters and e-mails sent between parties per month against the number with previous similar projects
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+Quantitative indicators for measuring innovation and improvement performance
+Cost saving resulting from innovation expressed as a percentage of total project cost
+Number of innovative initiatives introduced (e.g. construction techniques, procurement approaches, management strategies)
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+Kendall’s coefficient of concordance (W)
+Rating 15very unimportant/very difficult and 55very important/very easy.
+The most important quantitative indicator (QI) for each of the
+seven selected KPIs
+Mean	CV	Mean	CV	Mean	CV	Mean	CV	Mean	CV
+Time performance
+Variation of actual completion time expressed as a percentage of finally agreed completion time
+Cost performance
+Variation of actual project cost expressed as a percentage of finally agreed project cost
+Quality performance (civil works)
+Average number of non-conformance reports generated per month (for civil works)
+Quality performance (building works)
+Average number of non-conformance reports generated per month (for building works)
+Trust and respect
+Perceived key stakeholders’ satisfaction scores by using
+
+
+Perceived key stakeholders’ satisfaction scores by using
+Innovation and Cost saving resulting from improvement	innovation expressed as a percentage of total project cost
+CV5Coefficient of Variation.
+and two subsequent rounds of Delphi questionnaire survey were carried out to validate the suitability of the identified QIs. The QI with the highest mean ratings for each of the seven weighted KPIs was finally selected. By incorporating these indicators into the evaluation process, assessors could perform their evaluation based on quantitative evidence.
+However, having a set of QIs cannot fully eliminate the subjectivity of evaluation. To remedy this deficiency, another empirical questionnaire survey was conducted in order to capture the perception of professionals as to the expectation of different performance levels for each of the QIs. The results show that differences in expectation exist between the construction experts in the perceived performance level of each QI. Thus, in spite of the fact that the mean value can serve as a quick rule of thumb for evaluators to differentiate an ‘average’ and ‘good’ performance of a partnering project, it is more appropriate to identify a range of reasonable expectations for each performance level. In this research study, a simple but practical way to define the performance range is suggested. Further research studies should be carried out to establish a more scientific way to define a range for different performance levels. Since fuzzy set theory is used to model vagueness intrinsic in the human cognitive
+Figure 3	Range for each performance level in relation to QI of time performance
+Table 17	Quantitative ranges for each of the selected QIs
+The selected KPIs (with their individual weighting)
+The selected quantitative indicator (QI) for each of the seven selected weighted KPIs
+Quantitative range (QR) for each QI
+Time performance, with the weighting of 0.167
+Variation of actual completion time expressed as a percentage of finally agreed completion time
+Cost performance, with the weighting of 0.167
+Variation of actual project cost expressed as a percentage of finally agreed project cost
+6.33% to 11.42%
+Top management commitment, with the weighting of 0.167
+Percentage of top management attendance in partnering meetings
+Quality performance (civil works), with the weighting of 0.167
+Average number of non-conformance reports generated per month (for civil works)
+Quality performance (building works), with the weighting of
+Average number of non-conformance reports generated per month (for building works)
+Trust and respect, with the weighting of 0.167
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+Effective communications, with the weighting of
+Perceived key stakeholders’ satisfaction scores by using Likert scale
+Innovation and improvement, with the weighting of 0.167
+Cost saving resulting from innovation expressed as a percentage of total project cost
+process and it has been used to tackle ill-defined and complex problems due to incomplete and imprecise information that characterize the real-world systems (Baloi and Price, 2003), it is more appropriate to use the approach of fuzzy set theory to establish welldefined ranges of ‘quantitative requirements’ for each QI against the five performance levels. In fact, the development of appropriate ranges of quantitative requirements for each QI identified by using the fuzzy set theory in this research study has been completed and the overall research outcomes will be disseminated via subsequent publications.
+This research study has established a set of quantitative indicators (QIs) and has identified a range of reasonable quantitative ranges (QRs) for the five performance levels by conducting five structured faceto-face interviews; two rounds of the second Delphi questionnaire survey; and one empirical questionnaire survey. The QIs identified with the highest mean ratings for each KPI were found to be: (1) ‘Variation of actual completion time expressed as a percentage of finally agreed completion time’, with the mean rating of 4.53 (for measuring time performance); (2) ‘Variation of actual project cost expressed as a percentage of finally agreed project cost’, with the mean rating of 4.45 (for measuring cost performance); (3) ‘Percentage of top management attendance in partnering meetings’, with the mean rating of 4.51 (for measuring top management commitment); (4) ‘Average number of non-conformance reports generated per month’ (for measuring civil works and building works), with the mean rating of 4.10 (for measuring quality performance);
+‘Perceived key stakeholders’ satisfaction scores [on trust and respect] by using Likert scale’, with the mean rating of 3.77 (for measuring trust and respect performance); (6) ‘Perceived key stakeholders’ satisfaction scores [on effective communications] by using Likert scale’, with the mean rating of 3.51 (for measuring effective communications performance); and (7) ‘Cost saving resulting from innovation expressed as a percentage of total project cost’, with the mean rating of 3.85 (for measuring innovation and improvement performance). After identifying a set of QIs, the quantitative ranges (QRs) for each of them against the five performance levels have been defined by taking the average value of two consecutive performance levels.
+By incorporating these quantitative indicators and quantitative ranges into the evaluation process, different assessors could perform their evaluation process based on quantitative evidence. Different partnering projects can then be evaluated and compared on an objective basis with reference to this set of QIs and QRs. As a result, construction senior executives and project managers can adopt the identified QIs and QRs to measure, evaluate and upgrade the existing performance level of their partnering projects. It also enriches the current body of knowledge and understanding of both academics and practitioners in the construction industry on partnering practices to achieve outstanding partnering performance. Since the model was developed locally in Hong Kong, further research should be conducted in other geographical locations to seek their similarities and differences for international comparisons by applying the same research method.

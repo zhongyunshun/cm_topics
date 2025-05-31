@@ -1,0 +1,165 @@
+To cite this article: Seung C. Ok & Sunil K. Sinha (2006) Construction equipment productivity estimation using artificial neural network model, Construction Management and Economics, 24: 10, 1029-1044, DOI: 10.1080/01446190600851033
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (October 2006) 24, 1029–1044
+SEUNG C. OK and SUNIL K. SINHA*
+Department of Civil and Environmental Engineering, The Pennsylvania State University, University Park, PA 16802,
+Received 4 January 2005; accepted 7 June 2006
+Estimating equipment production rates is both an art and a science. An accurate prediction of the productivity of earthmoving equipment is critical for accurate construction planning and project control. Owing to the unique work requirements and changeable environment of each construction project, the influences of job and management factors on operation productivity are often very complex. Hence, construction productivity estimation, even for an operation with well-known equipment and work methods, can be challenging. This study develops and compares two methods for estimating construction productivity of dozer operations (the transformed regression analysis, and a non-linear analysis using neural network model). It is the hypothesis of this study that the proposed neural networks model may improve productivity estimation models because of the neural network’s inherent ability to capture non-linearity and the complexity of the changeable environment of each construction project. The comparison of results suggests that the non-linear artificial neural network (ANN) has the potential to improve the equipment productivity estimation model.
+Construction equipment, artificial neural network, productivity estimation
+Introduction
+An accurate prediction of the productivity of earthmoving equipment is one of the prerequisites for construction project control and planning. This study involves the development and testing of an ANN model capable of predicting construction equipment productivity. The problem of accurate estimation of earthmoving productivity has intrigued many researchers for many years (Ahuja et al., 1994; Alkass and Harris, 1988; Amirkhanian and Baker, 1992; Chao and Skibniewski, 1994; Ersoz, 1999; Karshenas and Feng, 1992; Lu et al., 2000; Portas and AbouRizk, 1997; Smith, 1999), but there is no robust model for prediction of the productivity of earthmoving activities at the construction site. Regression analysis techniques have been used by most of the researchers to develop a deterministic model for earthwork equipment operations.
+An alternative approach to regression analysis is to use a non-linear artificial neural network (ANN) to
+model the productivity–influence factor relationship. Neural network analysis is similar to linear regression analysis in that it uses a function to relate two sets of variables. Neural networks, however, are parallel processed mathematical models that simulate brain activity. ‘In practice nowadays it can be said that the ANN only represents the brain at the most elementary level of process, although the ANN has retained as primary features two characteristics of the brain: the ability to ‘‘learn’’ and to generalize from limited information’(Haykin, 1994). In general, there are a number of advantages to neural networks compared to linear regression analysis. Regression-based methods require a prior knowledge of the statistical distribution of the data. Neural network analysis does not require or assume any prior solution structure (Duda et al., 2000). The multilayer neural network architecture is an outgrowth of the perceptron, which was first studied by Rosenblatt (1959).
+Tam et al. (2002) developed a quantitative model for predicting the productivity of excavators using artificial neural networks (ANN), which is then compared with the multiple regression model. Owing to the unique
+*Author for correspondence. sunil@engr.psu.edu
+work requirements and changeable environment of
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2006 Taylor & Francis
+each construction project, the influences of job and management factors on operation productivity are often very complex. Hence, construction productivity estimation, even for an operation with well-known equipment and work methods, can be challenging. Also, to address the many uncertainties involved in a given case, a sensitivity analysis must be conducted to compare the effects of changes in input conditions on the daily productivity in order to arrive at an estimate. Therefore, it is desirable to have a single estimating method that can reliably identify the cause–effect relationships and efficiently produce an estimate for any condition. The objective of this study is to develop and compare two methods for estimating construction productivity of dozer operations (the transformed regression analysis, and a non-linear analysis using a neural network model). It is the hypothesis of this study that the proposed neural network model may improve equipment productivity estimation models because of the neural network’s inherent ability to capture nonlinearities and the complexity of the changeable environment of each construction project.
+The modelling procedure is composed of four steps:
+(1) data description and identification, which describes the factors affecting the productivity of dozers; seven factors have been identified in the prediction of productivity;
+(2) modelling and predicting productivity using regression analysis;
+(3) modelling and predicting productivity using neural networks;
+(4) model validation and comparison between regression and neural models.
+
+Productivity
+Productivity has a variety of meanings (Oglesby et al., 1989). In nationally developed statistics it is commonly stated as constant in-place value divided by inputs, such as worker-hour. For the owner of an existing or contemplated plant or other property or equipment, it may be the cost per unit of output produced by the facility. For the contractor, a rough measure often is the amount or percentage by which costs are below (or above) the payment received from the owner. Productivity establishes a base line from which the effect of improvement strategies can be measured. Productivity measurement can provide a contractor with the following information:
+N identify high/low periods of productivity and reasons for the variations.
+Productivity measurement technique has been developed specifically for small to medium sized construction projects (Thomas and Kramer, 2002).
+The efforts of the engineer, who designs the project, and the contractor, who builds the project, are directed towards the same goal—creation of something that will improve the quality of life for mankind and serve the purpose for which it is built in a satisfactory manner (Peurifoy and Schexnayder, 2002). The engineering fundamentals for planning, selection and utilisation of construction equipment enable one to analyse operational problems and to arrive at practical solutions for completing a task.
+Dozers are self-contained units equipped with a blade. They are designed to provide tractive power for drawbar work. Dozers may be either track-type crawler or wheel-type machines. Consistent with their purpose, as a unit for drawbar work, they are low-centre-ofgravity machines. Dozers are used for dozing (pushing materials), land clearing, ripping, assisting scrapers in loading, and towing other pieces of construction equipment. Owing to the diversity of construction projects, many types of dozers have been designed and produced by dozer manufactures. Figure1 provides an overview of existing types of dozers, while Figures2 and 3 depict details of dozer design. Each type is designed to handle different types of earthmoving. On a typical construction project, the selection of the appropriate dozer can have a significant influence on the time, cost and safety of the construction operations.
+Dozer selection
+Before a dozer model and configuration can be selected from a dozer manufacturer’s or operator’s database, it is important to select the type of dozer to be used for the specific earthmoving needs of a construction site. Figure4 depicts a schematic representation of the dozer selection process. The available types of dozers and input parameters pertaining to the construction project for which the dozer is to be chosen provide the starting point. Heuristics and past experience are then used to
+Figure 1	Types of dozers
+select an appropriate type of dozer. The type of dozer chosen then serves an input for the dozer model selection phase.
+Dozer productivity estimation
+Currently, most estimators have their own subjective way of estimating productivity due to the nature of construction projects and the numerous factors that affect productivity. Estimating construction operation productivity is experience-based due to the complexity involved. According to experience, a contractor can intuitively adjust the standard rates in a productivity chart (Figure5) to estimate for an operation under given project conditions.
+Drawback of productivity handbook method
+Equipment productivity data are most commonly collected from manufacturers’ performance handbooks. However, not all equipment manufacturers provide accurate and detailed data; thus, the equipment information is confined to a few equipment manufacturers. These data were criticised by many project engineers as being more of a marketing tool rather than a true guide to plant productivity. Estimating construction operation productivity is experience-based due to the complexity involved. According to experience, a contractor can intuitively adjust the standard rates in productivity handbooks to estimate for an operation under given project conditions. However, such empirical practice does not guarantee a consistent estimate for project control. This inconsistent estimation is from laboratory conditions. This is not based on the real data but on ideal conditions.
+Correction factors
+The relationship between inputs and outputs is very complex and, in many cases, includes some unknown combined effects. Estimating productivity is governed by non-linear multivariate interrelationships that exhibit variations resulting from a number of factors such as time, location, personal preference, project complexity, and other unknown factors. Table1 provides a list of factors influencing earthmoving with dozers.
+In establishing a quantitative model for predicting the dozer productivity, the variety and complexity of factors such as discreteness, non-linearity and uncertainty of the values of the factors create difficulties in the selection of a reasonable modelling method.
+Data collection
+Figure 2	Classification based on running gear
+The data for this study were compiled from various projects of a contractor in North America. The parameters of the study included predicting dozer productivity for earthmoving tasks, which consist of different types of dozers, blades, soil types, weather conditions, dozing grades and distances. Actual productivity information based on numerous field data
+collected under varying job conditions is shown in Table2. Seven factors which affect the productivity of dozers have to be in numerical format to be used in the regression and neural models. A summary of detail equivalent factors based on CAT Handbook (2001), and the field productivity based on conversion factors are shown in Tables3 and 4, respectively. The consistency, accuracy and completeness of the collected data were continuously monitored. Large variations in the productivity due to unavoidable circumstances have been removed from the database.
+Figure 4	Schematic representation of dozer selection process
+In this section, the general multiple regression analysis is applied to correlate the dozer productivity with seven independent factors. Then the results are described.
+Figure 5	Maximum productivity plot of bulldozers
+Multiple regression method used
+Multiple regression was used to determine the statistical relationship between a response (e.g. actual productivity) and the explanatory variables (e.g. skill, soil, distance, etc.). The responses to the regression model are what the planning engineer ultimately wants to estimate
+Yi is the response that corresponds to the levels of the explanatory variables X1, X2 … Xi at the ith observation.
+Table 1	Factors influencing earthmoving
+Forecast factor
+Unanticipated factor
+Weather conditions
+Earth conditions
+
+Age of the equipment
+Encountered resistances
+Work space restrictions
+The system of work involved
+B0, B1, … Bp are the coefficients in the linear relationship. For a single factor (p51), B0 is the intercept, and B1 is the slope of the straight line defined.
+To make estimates of the coefficients in the regression model, the method of least squares was used for both its mathematical convenience and its ability to provide explicit expressions for these estimates. The field database converted into numerical format (Table4) was used as explanatory variables in the regression analysis. However, it was not known at this stage how significant these factors are to a potential regression model; in such instances a backward stepwise regression can be employed. Using this method, a regression equation is fitted to the variables in table, and a decision is made as to whether all the explanatory variables are significant. If the variable is significant, it remains in the model; otherwise, it is removed and the regression analysis repeated.
+Base on the field database converted into numerical format, a transformed multiple regression model with a transformed y variable of actual productivity for dozer
+Table 2	Portion of entree field database
+Weather conditions
+Dozing distance	Daily max productivity
+Table 3	Correction factors based on CA
+
+Weather conditions
+Straight (1.00)
+was given by:
+If we let Y5log (y), the regression model can be written as follows:
+
+Productivity x1: Material x4: Weather x6:
+which is in the form of a general linear regression model. The response variable just happens to be the logarithm of Y. For example, if Dozing power5125hp, Blade type50.7, Soil type50.9, Operator skill50.5, Weather condition50.75, Dozing grade51.3, Dozing distance50.35, then the model gives the predicted productivity of the operation as 84.14 Lm3/day. The transformed values are shown in Table5.
+Adjusted r2 and developed model
+The adjusted r2 statistic is the r2 statistic adjusted for the number of independent variables in the equation and the sample size. The equation for adjusted r2 is:
+Table 4	Portion of entree field database converted into numerical format
+
+Weather conditions
+productivity
+where k is the number of independent variables in the regression equation and n is the number of cases (John et al., 1996). If sample sizes are small with a large number of variables, the adjusted r2 will alter r2 to a lower value. The difference between adjusted r2 and r2 will diminish as variables are reduced or the number of cases increases. Regression model results revealed that the transformed regression results have higher
+Table 5	Example of natural log and exponentiate transformation of y with calculator
+
+Yˆ (Predicted)
+explained variations than the general multiple regression. The transformed model has stronger adjusted r2 values than the general multiple regression.
+
+Analysis of variance (ANOVA) is similar to regression in that it is used to investigate and model the relationship between a response variable and one or more independent variables. Regression model results from Tables6 and 7 revealed that the transformed regression results have better explained mean square error (MSE) than the general multiple regression.
+After considering the above results, transformed multiple regression models were developed to correlate the dozer productivity with seven independent factors. Table8 shows the mean square error of different dozers with low mean square errors.
+As a further indication of how the regression equation fits the data, consider the plot in Figure6 (actual
+Table 6	General regression ANOVA
+Analysis of variance
+
+
+vs. fitted value plot). When the actual productivity values were plotted against the values derived from the regression equation, a linear trend with close fit was obtained.
+Strengths and drawbacks of the regression method
+After recording the actual operation productivity observed in various job conditions, the field data converted into numerical format were processed by a regression program to establish the relationships between productivity and relevant factors. The multiple regression results demonstrated very good correlations and MSE value between equipment productivity and the seven independent factors. However, it is difficult to develop such a well-fitted regression model for project control by project managers who are not familiar with the multiple regression analysis. The model developer in the field should consider what kind of transformation type is best for the regression model with the prototype plot and the Box–Cox transformation function. How significant are independent factors to a potential regression model should be considered with data analysis and the backward stepwise regression. And it should also be considered how significant are the developed regression models with the coefficient of determination and the mean square error.
+Neural network model for dozer productivity
+In this section artificial neural network analysis is applied to correlate the dozer productivity.
+Figure 6	Transformed regression fit vs. actual productivity plot
+Neural networks are a recurrent, associative, adaptive, competitive, multilayered method of associating variables (Mehrotra et al., 1997; Rumelhart and McClelland, 1986). Through multiple connections called nodes, the input layer is connected through numerous nodes in the hidden layer to the output layer as shown in Figure7. Each node incorporates a weighted non-linear function such as a sigmoid function, although any non-linear function can be used successfully. The neural network algorithm then computes the difference (error) between the newly calculated predicted output and the actual observed value. Through a process called back-propagation, the weights at each node are adjusted to reduce the error.
+In this paper, 75% of the field database converted into numerical format was randomly selected to be used for training of the neural network. For each iteration cycle the training data are passed through the net and a set of coefficients, or weights, are derived. The remaining 25% of the database converted into numerical format are used to test the model. The test data are passed through the network and the error is calculated to measure how well the model performs with the test data. Before the next iteration the weights are adjusted based on the calculated error found during training and passed through the model again, then tested again. This process continues through multiple iterations until the errors in the test data are minimised and the neural network model is considered trained (Sinha and McKim, 2000).
+Activation function
+Duda et al. (2000) state that a number of properties are sought for f(? ), but the fact is that back-propagation will work with virtually any activation function, given that a few simple conditions such as continuity of f(? ) and its derivative are met. In any given classification problem, there may be a good reason for selecting a particular activation function. For instance, if there is prior information that the distributions arise from a mixture of Gaussians, then Gaussian activation functions are appropriate.
+Tan-h functions
+It is best to keep the function centred on zero and antisymmetric, or as an ‘odd’ function; that is f(2net)52f(net), rather than one whose value is always positive.
+Figure 7	Multilayer neural network
+When the actual productivity values are plotted against the values derived from the neural network, a linear trend with close fit is obtained; the estimate of a point that lies on the 1: 1 line is exactly equal to the observed value of actual productivity. Figure8, tan-h function
+Figure 8	Predicted vs. actual productivity plot for tan-h
+plot, shows the best shape of actual and fitted productivity plot.
+Duda et al. (2000) state that the back-propagation algorithm applies equally well to networks with three, four, or more layers, so long as the units in such layers have differentiable activation functions. Because three layers suffice to implement any arbitrary function, special problem conditions or requirements would be needed to recommend the use of more than three layers. One possible such requirement is translation, rotation or other distortion invariance. If the input layer represents the pixel image in an optical character recognition problem, it generally is necessary for such a recogniser to be invariant with respect to such transformations. It is easier for a four-layer net to learn translations than for a three-layer net. This is because each layer can generally easily learn invariance within a limited range of parameters, for instance, a lateral shift of just two pixels. Stacking multiple layers, then, allows
+the full network to learn shifts of up to four pixels as the full variance task is distributed throughout the net. Naturally, the weight initialisation, learning rate, and data preprocessing arguments apply to these networks. Some functions can be implemented more efficiently (i.e. with fewer total units) in networks with more than one hidden layer. It has been found empirically that networks with multiple hidden layers are more prone to getting caught in undesirable local minima. In the absence of a problem-specific reason for multiple hidden layers, then, it is simplest to proceed using just a single hidden layer, but also to try two hidden layers if necessary. The results from the neural network model are reproduced as each number of hidden layers in Figures9 and 10. When the correlation and RMS error values are plotted against each processing element (PE), Case 4 shows the best shape for proper neural network model. Each case value is shown in Table9.
+Initialising weights
+In setting weights in a given layer, the weights are chosen randomly from a single distribution to help ensure uniform learning. Because data standardisation gives positive and negative values equally, weights were chosen from a uniform distribution {wevwvzwe, for some we yet to be determined. If we is chosen too small, the net activation of a hidden unit will be small and the linear model will be implemented. Alternatively, if we is too large, the hidden unit may saturate even before learning begins. Because netj&=¡1 are the limits to its linear range, we is wetted such that the net activation at a hidden unit is in the range 25,neti,+5. The weight results are produced for 7-9-5-1 structure with tan-h activation function as shown in Table10.
+After considering a number of practical problems for training networks by back-propagation against poor performance and other unsatisfactory results, an artificial neural network model was developed to correlate the dozer productivity with seven independent factors. Table11 shows the mean square error and correlation outcome of different type dozer training well.
+As a further indication of how the mechanism of the trained neural network fits the data, consider the plot in Figure11. When the actual productivity values are plotted against the values derived from the neural network model, a linear trend with close fit is obtained;
+Neural network correlation
+Figure 10	PE vs. RMS error plot Table 9	RMS error and correlation for different structure	Table 11	MS error and correlation of 7-9-5-1 structure
+Case	Processing	RMS error	Correlation
+the estimate of a point that lies on the 1: 1 line is exactly equal to the observed value of actual productivity.
+Strengths and drawbacks of neural networks
+The field database converted into numerical format was processed by an artificial neural network program to establish the relationships between productivity and relevant factors. The neural network model results all demonstrate very good correlations and MSE values Table 10 Structure 7-9-5-1 tan-h function weight
+
+Some strengths of the neural network methods are: N The possibility or feature to consider all factors that affect equipment type selection in a consistent manner would be difficult to implement without the use of neural networks (Sawhney and
+N The ability to learn by example with time, which is useful to address problems where solutions are not clearly formulated (Singh, 1997), or where the relationships between inputs and outputs are not sufficiently known.
+N Adaptability, which enables performance of the required multi-attribute mapping functions of unknown degrees that do not fit traditional regression models well.
+N Neural network methods can be applied to many different situations with fewer samples than the regression method.
+However, it is difficult to develop such a well-fitted network model for a project control by project managers who are not familiar with the neural network analysis. A number of practical problems for training and testing networks must be considered against poor performance or other unsatisfactory results. The model developer should know what kind of network is best for the collected database and when the training should be stopped with training number. The network structure, activity function, number of notes, etc., must be considered to develop a good generalised neural network model.
+Comparison of experimental results
+This section compares the results of the linear regression and neural network methods, and then evaluates the potential for improvements in modelling
+construction equipment productivity estimation for construction project control and planning.
+Comparison of mean square error
+According to the analysis, neural network results and multiple regressions show variable outcomes in training well with high correlations and low mean square (MS) errors. The MS errors are redisplayed in Table12, for easy comparison. The MS error results reveal that the non-linear neural network results have lower explained variation than the multiple regressions.
+Table 12	MS error comparison of neural network and
+Comparison of fitted vs. actual productivity
+Another method of comparison is to examine the similarities and differences between the actual and predicted productivity (Wall, 1998). The predicted vs. actual productivity plots are redisplayed with random cases selection in Figures12 to 18 for easy comparison. The comparison of results suggests that the nonlinear artificial neural network has the potential to improve the productivity estimation model. These experiments show that neural networks are able to model the complex relationships between the job conditions and the productivity of an operation and achieve an acceptable accuracy in estimation, as shown in Table13.
+This paper compares linear regression and neural network methods for dozer daily productivity estimation by modelling the data. The goal of this study is to evaluate the potential to improve research methods by incorporating non-linear neural network analysis into productivity estimation modelling. The model developed in this research has been used to explain the
+Figure 12	Fitted vs. actual productivity of D5MLGP dozer
+Figure 13	Fitted vs. actual productivity of D6G dozer
+Figure 14	Fitted vs. actual productivity of D6GXR dozer
+Figure 15	Fitted vs. actual productivity of D7R dozer
+Figure 16	Fitted vs. actual productivity of D8R dozer
+Figure 17	Fitted vs. actual productivity of D9R dozer
+Figure 18	Fitted vs. actual productivity of D10R dozer Table 13	Examples of construction equipment productivity estimation
+Case studies Actual Neural network Regression Caterpillar productivity model model Handbook
+loose stockpile
+Job efficiency:
+
+
+
+
+Job efficiency:
+
+
+
+
+hard packed clay
+Job efficiency:
+
+
+
+
+dozer equipment productivity estimation with seven independent factors and to demonstrate that the artificial neural network model can be used for estimation of construction equipment productivity. Equipment manufacturers could employ neural network analysis to improve their productivity estimating charts and their sales representatives could provide productivity estimation as a service to project managers.

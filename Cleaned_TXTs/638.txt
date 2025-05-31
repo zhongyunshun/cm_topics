@@ -1,0 +1,198 @@
+To cite this article: Sai-On Cheung & Henry C. H. Suen (2002) A multi-attribute utility model for dispute resolution strategy selection, Construction Management & Economics, 20: 7, 557-568, DOI: 10.1080/01446190210157568
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (2002) 20, 557–568
+Construction Dispute Resolution Research Unit, Department of Building and Construction, City University of Hong Kong, Tat Chee Avenue, Kowloon, Hong Kong
+Received 16 August 2001; accepted 30 May 2002
+Disputes are inevitable in construction projects. Skills in dispute resolution should be part of the toolkit of any practitioner in a managerial position. Dispute resolution procedures such as litigation, arbitration, mediation, dispute adviser and negotiation are widely practised. However, frequently the question is how to systematically determine which dispute resolution strategy to adopt given the nature of disputes. Even though the topic of dispute resolution has been widely discussed and heavily researched, few studies have been conducted with respect to this question. A decision-making model has been developed using the analytical hierarchy process (AHP) and multi-attribute utility technique (MAUT). The model comprises four parts: selection criteria, dispute resolution strategies, collection of utility factors and selection criteria weightings. These were developed from empirical data collected through an interview survey with selected experts in the  eld. The model is designed to identify in a systematic manner an appropriate dispute resolution strategy for a given dispute, rather than relying on subjective decisions. The model is tested using a hypothetical scenario in which three case studies are evaluated.
+Dispute resolution strategies, selection criteria, analytical hierarchy process, multi-attribute utility technique, selection model
+Introduction
+Construction is a complex process that requires the coordinated effort of a temporarily assembled multiple-member organization of many discrete groups, each having different goals and needs, and each expecting to maximize its own bene ts (Cherns and Bryant, 1984; Newcombe, 1996; Walker, 1996). Because of differences in perception and frequently of con icting goals among partners to a project, con icts in the construction project environment are inevitable. However, con icts can quickly turn into disputes if not properly managed. Dispute is often regarded as a form of con ict that is made public and requires resolution (Brown and Marriott, 1999). Kumaraswamy (1997) summarized 20 common causes of disputes in construction industry. These include the speed of construction, cost and quality control, technological advances, stringent
+building regulations and economic dif culties. As a result of increasingly complex construction projects, the number of construction disputes has increased dramatically over the last decade (HKIAC, 2000). Disputes can be detrimental to construction procurement if not addressed and resolved properly. At project level, unresolved disputes can lead to programme delay, increased tension, and can damage long term business relationships as a result. Hence, dispute resolution cannot be over-emphasized, and the process by which to attain the most appropriate resolution strategy is equally important. In this paper, a selection model employing multi-attribute utility technique (MAUT) and analytical hierarchy process (AHP) methodology is proposed. The model is developed using data collected in Hong Kong. These two techniques are designed to facilitate a more systematic and logical approach in the selection process, hence improving objectivity and reducing subjectivity in decision-
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online © 2002 Taylor & Francis Ltd
+The topic of dispute resolution in construction has attracted wide attention, and studies reported include the works of Kaplan et al. (1991), Mackie (1991), Fenn and Gameson (1992), Goldberg et al. (1992), Fenn et al. (1998), Wall (1998) and Brown and Marriott (1999). Most of the research so far has provided useful information like average time to resolve a dispute per case, case studies and other qualitative, performance data. This is useful for helping practitioners to understand the fundamentals of dispute resolution. However, these studies have not sought to develop a systematic approach towards dispute resolution strategy selection. This view is also shared by researchers and writers such as Pearson (1982), Mandelbaum (1984), Gold (1991) and Goldberg et al. (1992). In fact, there are only a few studies involving a quantitative design for evaluating different resolution strategies (David, 1982; Pearson, 1982).
+Table 1	Critical factors of dispute resolution strategies (adapted from York, 1996)
+
+
+Yes (unless there is an appeal to the High Court)
+Degree of control by
+Low (but may increase
+
+once 1996 Act is implemented)
+Choice over the
+Yes, if there is agree-
+Yes, as for arbitration
+identity of judge or
+If there is an
+ism, then little control
+Flexibility in issues
+con ned to the
+More  exible than
+Regulated by agree-
+
+and strategy
+pleadings and the
+ment and the issues
+Rules of Court
+referred to the expert
+
+
+Forensic tactics
+
+
+Consolidation of
+claims by order
+Decision only
+Flexible, according to the capacity of the parties
+Binding decision and
+
+Very restricted
+Very restricted
+Not applicable
+Liability for costs
+
+
+
+Cost of tribunal
+Parties as awarded
+
+
+
+Moderate to high
+Time required of
+
+
+Preservation of
+
+relationships
+Long (save where
+Can be lengthy if
+
+
+summary strategy is a realistic possibility)
+Previous empirical studies attempted to identify the selection criteria of dispute resolution strategies (David, 1988; York, 1996; CPRDR, 2000). David (1988) identi ed several factors that could be considered when making decisions concerning the selection of dispute resolution strategies:  nal decision, delay,
+con dentiality, relationship, power imbalance, and cultural differences. York’s (1996) model helped select the best resolution strategy based on factors like costs, time, degree of control by parties and  exibility. It was generally considered a good starting point for later studies of systematic dispute resolution. York’s model was the  rst of this kind to include multiple factors into the selection equation. In doing so, users were required to consider not just one factor but rather a range of factors that may affect the outcome of a selection. Table 1 shows the primary model developed by York (1996). Nevertheless, it is believed that disputes in other geographic locations are different because of differences in social norms and values, and hence the relative weights of the selection factors may lead to the display of a different pattern.
+Due to the fragmented and complex nature of construction projects, there is no one best way of dealing with disputes, as often they are different in scale, complexity and nature. In deciding which dispute resolution strategy to apply, there is a need to take into consideration various external factors, such as technical, political,  nancial, social, economical and legal (Walker, 1996; Shen et al., 1998).
+In current practice, decisions concerning dispute resolution normally are based on qualitative assessment and refer back to previous experience. To a large extent, qualitative assessment is subjective in nature, and may be biased towards the personal preference of the assessor. This aspect of the problem  ts nicely with the multi-attribute utility technique (MAUT) (Edwards, 1982; Green, 1992). MAUT is a methodology that may be used as a tool for measuring objectivity in an otherwise subjective area (Fellows et al., 1983). MAUT has been well received in areas such as maintenance (Shen et al., 1998), quantity surveying (Ashworth, 1988), and project procurement (Chan, 1998; Cheung et al., 2001). The use of MAUT can minimize the subjective elements that tend to predominate in the decisionmaking process and can increase transparency (Shen et al., 1998). In this study, MAUT is used to integrate both priority ratings and the utilities derived from the respective dispute resolution strategies. It focuses on the development of a MAUT based selection model that is construction dispute speci c. The model consists of a set of selection criteria, a set of utility factors, and a categorization of various dispute resolution strategies. The steps involved in carrying out the study are: (1) determination of selection criteria; (2) determination of dispute resolution strategies; (3) collection of utility factors; and (4) collection of selection criteria weightings.
+Determination of selection criteria
+A search of the critical selection criteria of dispute resolution strategies was conducted through a literature review and then followed by a questionnaire survey with experts in the  eld. Goldberg et al. (1992) completed a comprehensive list of selection criteria, including voluntary, third party, degree of formality, nature of proceeding, outcome, and privacy. These provide a good point of reference. York (1996) was concerned more with the practical issues, having identi ed the criteria time, cost, preservation of relationship, binding decision, degree of control by parties,  exibility in strategy and con dentiality. David (1988) focused on social and human issues such as impartiality, consensus and continuing business relationships. Including the studies of Brown and Marriott (1999), Cheung (1999) and Hibberd and Newman (1999), a summary of the 16 selection criteria identi ed in the literature is given in Table 2. Subsequently these criteria were used in the questionnaire survey. In order to derive a set of selection criteria speci c for the construction industry, a postal questionnaire was conducted with selected experts in the  eld. The experts selected were practitioners who had more than 10 years’ working experience in the construction industry and/or who had at least two years’ experience in dispute resolution strategies. Using the of cial lists of mediators and arbitrators maintained by the Hong Kong International Arbitration Centre (HKIAC) as a basis, we approached 30 professionals all of whom had successfully completed the accreditation training and examination organized by the HKIAC, were very knowledgeable about ADR processes and possessed good skills in dispute resolution. With their diverse backgrounds and knowledge in the  eld, their views provided a good re ection of the current situation in construction dispute resolution. Eventually, 13 professionals participated, consisting of solicitors, engineers, architects and quantity surveyors, and all holding senior managerial positions in the industry.
+The experts were asked to complete a questionnaire that includes a question asking them to identify at least  ve of the most-important criteria for construction dispute resolution strategy selection from a list of 16 (Table 2). It was anticipated that some criteria would be considered more important than the others because of the unique nature of construction disputes. The critical dispute resolution strategy selection criteria selected by the experts are shown in Table 3. Expressing the choice of the experts as a percentage for each of the criteria, a clear demarcation was observed between the 15.4% and 30.8% marks. The eight selection criteria with at least 30.8% occurrence were short-listed and were: overall duration, relative cost,  exibility in issues,
+Table 2	Summary of critical selection criteria in dispute resolution
+
+
+Degree of control by parties
+Choice over the identity of neutral
+Power imbalance
+Flexibility in issues, strategy and settlement
+Binding decision and enforcement
+Degree of formality
+Cost of tribunal
+Time required of parties
+Preservation of relationship
+Degree of control by third party neutral
+Table 3	Summary of results provided by the experts in the questionnairea
+Flexibility in issues and
+Preservation of relationship
+Degree of control by parties
+Binding decision and
+Degree of control by third
+Time required of parties
+Degree of formality
+Cost of tribunal
+Power imbalance
+Liability for opponent’s costs
+Choice over the identity of
+Total number of criteria identied
+aKey l Criterion identi ed by the expert as important for dispute resolution
+strategy and agreement, con dentiality, preservation of relationship, degree of control by parties, binding decision and enforcement, and degree of control by the third party neutral.
+It is an implicit feature of mediation and arbitration that parties to a dispute are not allowed to disclose any information or materials to the public unless by mutual consent of the parties (Brown and Marriott, 1999).
+Hence, these processes are preferable when parties want to keep their dispute con dential. As pointed out by the HKIAC (2000), arbitration and mediation are ideally suited to the Chinese way of doing business. Settlements are made privately, behind close doors and away from public attention.
+Flexibility in issues, strategy and agreement
+Alternative dispute resolution (ADR) is a collective term describing dispute resolution strategies such as mediation, dispute advisor, mini-trial, etc. Often these are regarded as ‘ exible’ because strict legal rules are not applied and the contents of proceedings can be tailor-made to meet the needs of the parties. To a large extent, the outcome lies in the neutral’s ability to analyse the facts of a case and provide constructive solutions; this requires training, experience, good communication skills and, to a certain degree, imagination. In arbitration and litigation, the contents and strategies involved are highly regulated by the law, and hence  exibility is somewhat compromised.
+A negotiated or mediated settlement without the support of a written agreement is not enforceable. Awards made by arbitrators in arbitration and decisions by judges are enforced in courts. Pryles (1998) commented that the enforceability of a mediated settlement would be much improved if legislation were to provide for its direct enforcement in the same way as an arbitral award.
+Speed is measured by the amount of time taken to resolve a dispute. In most developed countries, people  nd a speedy resolution preferable because of time constraints and busy lifestyles. It is dif cult to assess how long it will take to reach a settlement as it depends on various factors such as complexity, quantum and the number of disputants involved. As a general rule of thumb, the duration of an ADR process can be measured in days or weeks, rather than months or years with litigation or arbitration.
+In this context, cost refers to the total costs involved in reaching a settlement. Cost and time are interrelated, probably directly. Speedy resolution generally leads to reduced overall expense. In general, arbitration is more economical than litigation. This is especially so if proceedings are based on documents only or a restricted form of hearing. A lower cost is expected if the parties are not represented by lawyers and discovery is limited. ADR processes are procedurally less complex, and the costs incurred are substantially less than those for arbitration and litigation.
+Preservation of relationships
+A continuing relationship is a key element in the management of business. A good relationship is established on the basis of trust, common interests and mutual respect. It requires effort and the commitment of the parties involved in order to sustain a continuing strategic relationship. In litigation, business relationship often fractures because, at the end of trial, one party will emerge as ‘winner’ and the other as ‘loser’. In the ADR process, however, the neutral would attempt to satisfy the aspirations of the parties by coming up with a ‘win–win’ settlement.
+Degree of control by parties
+The parties to a dispute have greater control over the format and content of the proceedings in ADR than in litigation and to a lesser extent arbitration. In mediation, the neutral acts as a facilitator. The parties play a proactive role in determining the contents and hence the outcome. In litigation, by contrast, the parties have no real choice as to the manner of the proceedings, as it is under the court’s control.
+Degree of control by the neutral
+During ADR proceedings, the neutral owes a duty of care to the parties and to exercise that duty as an impartial, facilitative third party so as to assist parties in reaching a settlement. In performing these roles, the neutral must avoid being in uenced by personal biases. The way in which the neutral organizes the process depends greatly on the parties’ needs. After all, his main duty is to assist the parties to reach a settlement that is satisfactory to them.
+Determination of dispute resolution strategies
+Previous studies (Kaplan et al., 1991; Merna and Bower, 1997) identi ed the common dispute resolution strategies used in the construction industry, which include negotiation, mediation, arbitration, and litigation. These can be further categorized under two general headings: adjudicative, like arbitration and litigation, and non-adjudicative, like negotiation and mediation. For the last two decades, ADR and arbitration have gained favour over litigation (David, 1988; Brooker and Lavers, 1994; Wilkinson, 1995; Woolf, 1996; White, 1997). Although the alternative dispute resolution (ADR) process, including negotiation, mediation and others, has existed for some time, its current popularity is the result of the vigorous promotion of alternative dispute resolution by its proponents. Negotiation is the most common form of dispute resolution. A survey was conducted on the most common forms of dispute resolution adopted in the construction industry. It was reported than more than 69% of respondents found negotiation to be the preferred method (Tam, 1998). The dispute resolution advisor (DRA) involves a hybrid process in which elements of negotiation, mediation and arbitration are included. In DRA, a neutral third party known as a dispute advisor (DA) is appointed to identify potential disputes, advise on the means of settlement of disputes, and assist in the resolution of disputes (Bateson, 1997; Tsin, 1997). The system has been highly regarded by practitioners and researchers, including Tsin (1997), Cheung (1998) and Wall (1998).
+With the help of the same group of experts, dispute resolution strategies commonly used in the construction industry are included in this study. These include negotiation, mediation, arbitration, litigation and DRA. A brief de nition of each dispute resolution strategy is provided here.
+Negotiation is the most common form of dispute resolution. It forms an important part of everyday life not only for lawyers but also for all people. It is an informal, speedy, and economical way of resolving disputes that are not complex in nature. Due to its simplicity, negotiation is often used by the parties as  rst option before considering other means of dispute resolution. A survey on the most common forms of dispute resolution for the construction industry reported that more than 70% of disputes are resolved by negotiation (Tam, 1998).
+Mediation is a voluntary, non-binding process in which a neutral party, known as a mediator, helps to guide the parties towards a mutually bene cial resolution. The mediator plays a facultative role in the resolution process by assisting the parties to decide for themselves whether to settle and on what terms.
+Arbitration is a procedure for the settlement of disputes under which the disputants agree to be bound by the decision of an arbitrator whose decision is  nal and enforced by the law.
+Litigation is the formal dispute resolution process in which the issues are pleaded and argued before and adjudicated by a judge in the court, whose decision is binding.
+Dispute resolution advisor is a non-binding hybrid ADR process in which a neutral third party known as a dispute advisor (DA) is appointed from the commencement of a contract to identify potential disputes, advise on the means of settlement, and assist in the resolution of disputes. The system is regarded as hybrid because it combines elements of negotiation, mediation, partnering, mini-trial and arbitration.
+Collection of utility factors
+This stage involved the formulation of a mean utility factor for each of the selection criteria against the various dispute resolution strategies. The mean utility factors produced re ect the overall view of the experts, hence reducing the subjectivity that seems to predominate in individual decision-making. To facilitate data collection, a postal questionnaire was sent to the 13 experts. In this questionnaire, the eight selection criteria derived from the  rst-round questionnaire were used to draw up the ‘utility factors matrix table’. The experts were asked to enter a utility factor, a score from 10 to 110 (‘zero’ was not used, to avoid mathematical errors), to assess the degree of suitability of each dispute resolution strategy against each criterion. Table 4 shows the utility factors of mediation against the selection criteria. The overall mean utility factors of the remaining dispute resolution strategies are summarized in Table 5. It was found that, for the criteria of ‘overall duration’, ‘relative cost’, ‘ exibility’, ‘preservation of relationship’ and ‘degree of control by parties’, strategies including negotiation, and mediation provide high utility values. This is considered reasonable because these do not involve formal legal procedures as in litigation and arbitration, and hence much cost and time is saved. Adversarial tension is less likely with these resolution strategies as the settlement is reached with the parties’ agreement. For creative remedies and settlements, these processes allow  exibility for changes in the contents of the proceeding and the strategies involved. In negotiation, the parties have total control over the content and pace of the process, whereas in mediation, the neutral acts as a facilitator assisting parties in the resolution of the dispute. In practice, the neutral’s authority is given by the consent of the parties. By contrast, the authority of arbitrators and judges in court is derived from the law. Perhaps this explains the high utility values provided for the criterion ‘degree of control by third party’. As for the criteria ‘enforceability’ and ‘con dentiality’, arbitration and mediation offer high utility values, due to the practice in mediation and arbitration that parties have to sign an agreement before the commencement of the proceedings stating that information or materials shall not be disclosed without the parties’ consent. As a whole, the utilities assigned by the experts are considered to be in good order, consistent with the perceived order against each criterion.
+Table 4	Utility factors matrix of mediation against selection criteria
+Criteria	Utility factors provided by the Experts
+
+Flexibility in
+issues, strategy and agreement
+Preservation of
+relationship
+
+Degree of	60 control by third party neutral
+Table 5	Summary of mean utility factors for dispute resolution strategies
+Utility factors (mean)
+
+Flexibility in issues, strategy and agreement
+Preservation of relationship
+Binding decision and enforcement
+Degree of control by parties
+Degree of control by third party neutral
+Collection of selection criteria weightings
+Dispute resolution strategy selection is based on multiple criteria, and therefore it is necessary to derive a set of priority ratings representing their relative importance. As far as priority ratings for the selection of dispute resolution strategies are concerned, parties having disputes of a similar nature do not necessarily have similar needs (Love et al., 1998). Instead, the parties’ needs depend on economical, political and legal factors. For instance, if the parties  nd speed of resolution an important factor, then they would naturally give the criterion ‘speed’ a higher priority than other criteria. Therefore, deriving a standard set of priority ratings would mean overlooking the inherent characteristics speci c to a particular dispute and the needs of parties at a speci c time and place. For this reason, the analytical hierarchy process technique is adopted to derive a set of exclusive importance priority ratings of selection criteria for a speci c dispute. The use of the analytical hierarchy process (AHP) in soliciting an expert’s judgment has made it a reliable tool for determining the priorities with respect to a set of criteria (Chua et al., 1999). It has been well received in the selection of design/build proposals (Paek et al., 1992; Alhazmi and McCaffer, 2000), contractor selection (Fong and Choi, 2000) and procurement selection (Cheung et al., 2001).
+The AHP process employs pairwise comparison techniques in which the user is required to determine the signi cance of a set of criteria. The software ExpertChoice™ (1998) is modelled on AHP and used in this study. Table 6 shows the pairwise comparison matrix. In the ExpertChoice™ environment, the user is required to make judgments on the relative standings of the eight selection criteria listed in the matrix table. In this case, ‘overall duration’ was compared with ‘relative cost’ and then ‘preservation of relationships’ and so on. The pairwise comparisons are guided by a nine-point scale as shown in Table 7. The user simply enters a scale in the empty cell corresponding to the criteria being compared,givingasubjectivejudgment.ExpertChoice™ software handles the pairwise comparison and related
+
+
+
+
+Equal importance of both elements
+Moderate importance of one element over the other
+Strong importance of one element over the other
+Very strong importance of one element over the other
+Extreme importance of one element over the other
+Reciprocals: if one element is moderately less important than the other, 1/3 to be inserted.
+calculations automatically. The mathematics underlying the use of AHP to generate the relative importance ratings for the selection criteria are founded on linear algebra and graph theory. Details of the mathematical treatment and proof can be found in Saaty (1980).
+As an example, a user is concerned with the cost, with a continuing business relationship and with an enforceable settlement. In this case, the criteria ‘duration’, ‘enforceability’, and ‘preservation of relationships’ would be given higher importance ratings compared with other criteria. The ExpertChoice™ software enables the users to perform on-screen structuring of a multi-faceted problem in the form of a pairwise comparison matrix, and then provides a synthesis of the results automatically. Figure 1 shows a distributive summary of the results based on this example, showing the eight criteria and their relative standings sorted in descending order: cost 0.232, relation 0.214, enforce 0.209, duration 0.074, pcontrol 0.074, 3control 0.067,  exi 0.065, and con d 0.065. The numerical values shown after the criteria are the important weightings (or priority ratings). The completed multi-attribute selection model of dispute resolution is shown in Table 8. In this example, the  nal order of prioritization (from most to least suitable) is DRA, mediation, negotiation,
+Figure 1	Distributive relative standings of critical factors
+(overall inconsistency index = 0.01)
+arbitration, and litigation. DRA had the highest score (of 74.10), and was considered the most appropriate dispute resolution strategy for the example here.
+Illustration of the selection model
+In this section the practical use of the selection model is illustrated. It was undertaken by conducting interviews with a group of three people, including one expert (selected randomly from the 13 experts) and two inexperienced users (university graduates having only a basic understanding of dispute resolution strategies). The exercise involved having the expert and the inexperienced users assess three different hypothetical cases. They were required to prioritize the listed dispute resolution strategies, namely negotiation, mediation, arbitration, litigation, and DRA, from most to least appropriate. Taking into account the nature of each individual case, the most appropriate strategy was accorded the value ‘1’, and the least appropriate the value ‘5’. In doing so, the expert was asked to provide the order based on their intuition. By contrast, the inexperienced users were asked to come up with results with the aid of the selection model. Such an arrangement was designed to see whether the selection model can assist inexperienced users in reaching a priority order matching the expert’s selection. It was anticipated that
+
+Criteria	rating (AHP
+
+Flexibility in issues, strategy and
+Con dentiality Preservation of
+relationship
+Binding decision and
+Degree of control by
+third party neutral
+Order of preference
+if the results between the experts and the inexperienced users should exhibit a certain degree of similarity, then the selection model as a tool to assist parties in the selection of dispute resolution strategies can be supported. The assessments were conducted separately. The three hypothetical cases were speci cally designed to re ect real situations by taking into account features typical of many construction disputes, like the degree of the parties’ involvement, the parties’ knowledge in the process, time and cost limitations, and the relationships between the parties. Detailed descriptions of the cases are as follows.
+This concerned the execution of a residential project by a medium-size local contractor. The contract was awarded to the contractor for a total amount of HK$500 million. The dispute was between the client and the contractor, and the amount in dispute was about $1 million. It stemmed primarily from the client’s late response to the contractor’s request for information and con rmation regarding design details. The contractor stopped works on site due to the lack of construction information, despite the tight construction programme. As a result, the project was completed with a one-month delay and the client claimed damages for the late completion. Regarding their knowledge of dispute resolution, neither the client nor the contractor had previous experience in negotiation, mediation, arbitration, and other dispute resolution strategies. The contractor, being a close friend of the client’s father, did not want to fracture their friendship.
+This concerned the execution of building improvement works by a small-size local contractor, and the amount in dispute was estimated to be HK$10 million. The contractor was accused of using a nonapproved  xing detail for the installation of granite panels in the external building facade. In fact, the installation work was actually carried out by the nominated subcontractor, appointed by the client. The owner is a well recognized tycoon in the building industry, having a total asset in buildings of more than $50 billion. The dispute involved complicated technical issues. In addition, the parties involved in the dispute included the owner, the contractor and the nominated subcontractor.
+This case concerned the refurbishment of a 20-year-old hospital that can accommodate more than 100 patients. The project involved general refurbishment of the building and upgrading of existing building services. It was funded by a charity grant by the Hong Kong Jockey Club and the contract was awarded to a local contractor for a total amount of HK$30 million. The dispute was between the contractor and the hospital management, regarding interim payments and the amount of withholdings. The project director of the contractor is an accredited arbitrator of the HKIAC, having extensive knowledge in various dispute resolution strategies. The parties wanted the dispute to be kept con dential because they were afraid of ‘losing face’.
+A summary of the results of cases 1, 2 and 3 is given in Table 9.
+Table 9	Summary of results provided by the experts and inexperienced users
+Inexperienced user (I.U.)
+In order of appropriateness
+Intuitive selection
+Choice of I.U. No. 1
+Choice of I.U. No. 2
+Aided by the 	Total utility	Aided by the 	Total utility
+
+
+As may be seen from Table 8, the three cases demonstrated that there was a common thread between the results provided by the expert and those by the inexperienced users. In all three cases, litigation was generally considered to be least appropriate. This is in line with the general perception that litigation is time-consuming, expensive and adversarial. In case 1, the results provided by the expert, in descending order, were: DRA, mediation, arbitration, negotiation and litigation. The  rst inexperienced user’s priority, DRA, matched that of the expert. The second inexperienced user’s priority, mediation, matched that of the expert. A similar pattern was achieved for case 2. The  rst and second choices of the inexperienced users matched the expert’s  rst choice, arbitration. In case 3, the  rst choices of the expert and both the inexperienced users were the same, negotiation. Hence, the inexperienced users’ choices, as aided by the selection model, in general matched the choices of the expert. The results suggest that the selection model is a useful tool for forecasting the most appropriate dispute resolution strategy. Experienced practitioners had in fact con rmed that the selection model provides valuable guidelines for the selection process. The selection model had forced the users to examine all the selection criteria before reaching a decision. Decisions were made on a systematic basis, and hence the model improved the objectivity of the selection process.
+The application of this study model seeks to overcome any inconsistency in the decision-making process due to human bias and the in uence of external factors. By making the process more objective and transparent, the users’ prospects for resolving a dispute will be maximized (Bevan, 1992). The critical selection criteria identi ed in this study were overall duration, relative cost,  exibility in issues, strategy and agreement, con dentiality, preservation of relationships, degree of control by parties, binding decision and enforcement, and creative agreement. These criteria were found to be consistent with those determined in a previous study using principal component factor analysis with quantitative data (Cheung, 1999). It is important to point out that the selection criteria and their relative weightings that were identi ed are not speci c to any particular dispute. Parties in dispute are strongly recommended to consult accredited mediators/arbitrators for further details regarding the resolution of disputes. A study of this kind is not only aimed at promoting empirical study in the  eld, but also at encouraging practitioners to consider seriously the various dispute resolution strategies, and the critical selection criteria that in uence construction disputes in general. Moreover, all criteria that are of concern in decision-making should be included. If two criteria duplicate each other because they actually represent the same thing then one of these criteria is redundant and should be excluded. As discussed in the previous section, the criteria are used for assessing priorities of different importance. Hence, each criterion is given a weight according to its relative standings compared with the rest of the criteria. The assignment of the weights requires logical and analytical thinking, and should be conducted by experienced practitioners who have extensive knowledge about the various dispute strategies. At the same time, they must fully understand the critical factors affecting a particular dispute. Furthermore, it should be possible to adjust the weights assigned to the selected criteria to meet the real needs of the disputants.
+The use of AHP improves both objectivity and the consistency of the weight assignment. At the same time, the MAUT model provides a sound theoretical framework for multi-criteria decision-making. Due to the complex nature of construction disputes, one should take into consideration all internal and external factors. One should also allow for some contingency in selecting a dispute resolution strategy, and there is a need to update the selection criteria or weights from time to time to keep up with the increasingly complex and changing construction industry. As dispute resolution is a process that is dominated by human factors, the selection process should also include the active participation of the parties to make it more user-speci c. In practice, for example, the parties can work together with the neutral to identify the relevant issues or criteria. After all, the ultimate goal is to come up with a settlement that is satisfactory to both parties. It is important to remind the users of the selection model that although the use of AHP and MAUT techniques can reduce the subjective elements that tend to be predominant in decisionmaking, decisions on selection priorities can never be 100% objective (Shen et al., 1998). Like many statistical methods, the selection model of this study is a tool to assist its users in deriving the most appropriate dispute resolution strategy.
+Concluding remarks
+Resolving construction disputes is a dif cult task, especially when the available resources are limited and the dispute is of a complex nature. Systematic selection of a dispute resolution strategy is critical to dispute management. The present study has adopted the AHP technique to assign importance weightings to the selection criteria. By using the AHP-based ExpertChoice software package together with MAUT, a dispute resolution strategy selection model has been developed. This is useful for the industry as practitioners often are forced to resolve disputes by the quickest, cheapest means without being fully aware of the dispute resolution options available. As conceived, the model is to make practitioners aware of the needs to take into account multiple factors before rushing to a dispute resolution strategy, and the selection table is speci cally designed to achieve that. The  nal selection model consists of a set of selection criteria, a set of utility factors, and a categorization of dispute resolution strategies. The selection criteria identi ed are: overall duration; relative cost;  exibility in issues, strategy and agreement; con dentiality; preservation of relationship; binding decision and enforcement; degree of control by parties; and degree of control by the third party neutral.
+The authors would like to express their appreciation to the accredited mediators and arbitrators of the HKIAC for their information and participation in the research. The work described in this study was partially supported by a CityU Research Grant (Project No. 7100103).

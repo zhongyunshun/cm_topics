@@ -1,0 +1,802 @@
+Second edition
+In this updated and expanded second edition, Keith Potts and Nii Ankrah examine key issues in construction cost management across the building and civil engineering sectors, both in the UK and overseas. Best practice from pre-contract to post-contract phases of the project life cycle is illustrated using over 70 case studies, including major projects such as Heathrow Terminal 5, Crossrail and the London 2012 Olympics.
+More case studies, worked examples, legal cases and current research have been introduced to cover every aspect of the cost manager’s role. Whole-life costing, value management and risk management are also addressed, and self-test questions at the end of each chapter support independent learning.
+This comprehensive book is essential reading for students on surveying and construction management programmes, as well as built environment practitioners with cost or project management responsibilities.
+Keith F. Potts is a former Principal Lecturer at the School of Technology, University of Wolverhampton, UK. He was an external examiner in Quantity Surveying and Award Leader of the RICS-accredited MSc in Construction Project Management.
+Dr Nii A. Ankrah is a Senior Lecturer at the School of Technology, University of Wolverhampton, UK. He lectures in Quantity Surveying, Commercial Management and Construction Project Management both in the UK and overseas.
+Page Intentionally Left Blank
+Learning from case studies
+First edition published 2008 by Taylor and Francis
+This edition published 2013 by Routledge
+2 Park Square, Milton Park, Abingdon, Oxon, OX14 4RN
+Simultaneously published in the USA and Canada by Routledge
+711 Third Avenue, New York, NY 10017
+Routledge is an imprint of the Taylor & Francis Group, an informa business
+The right of Keith Potts and Nii Ankrah to be identified as authors of this work has been asserted by them in accordance with sections 77 and 78 of the Copyright, Designs and Patents Act 1988.
+All rights reserved. No part of this book may be reprinted or reproduced or utilised in any form or by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying and recording, or in any information storage or retrieval system, without permission in writing from the publishers.
+Trademark notice: Product or corporate names may be trademarks or registered trademarks, and are used only for identification and explanation without intent to infringe.
+British Library Cataloguing in Publication Data
+A catalogue record for this book is available from the British Library
+Library of Congress Cataloging in Publication Data Potts, Keith F.
+Construction cost management: learning from case studies/Keith Potts and Nii Ankrah. pages cm
+Construction industry – Costs.  2. Construction industry – Cost control.  3. Construction industry – Costs – Case studies.  4. Construction industry – Cost control – Case studies. I. Ankrah, Nii.  II. Title.
+Florence Production Ltd, Stoodleigh, Devon, UK
+This book is dedicated to our wives Lesley and Akosua for their loving support and to the memory of our fathers
+Leon and Samuel who encouraged an interest in construction.
+Page Intentionally Left Blank
+List of figures	xiii
+List of tables	xv
+Part I Introduction
+1 Introduction and overview	1
+1.1 Setting the scene	1
+1.2 Construction overview	1
+1.4 Learning from case studies	5
+1.5 Overview of chapters	7
+1.8 References/further reading	11
+2 Reports and recommendations	13
+2.1 Introduction	13
+2.2 Post-war reports	14
+2.3 The Latham Report, Constructing the Team (1994)	15
+2.4 Levene efficiency scrutiny (1995)	18
+2.6 Construction Industry Board (CIB) Working Groups (1996/97)	19
+2.7 The Egan Report, Rethinking Construction (1998)	20
+2.8 Modernising Construction, National Audit Office, (2001)	23
+2.9 The Second Egan Report, Accelerating Change (2002)	24
+2.10 Achieving Excellence in Construction Procurement Guides, Office of
+Government Commerce (2003)	25
+2.11 Improving Public Services through Better Construction, National Audit
+Office (2005)	26
+2.12 ‘Never Waste a Good Crisis’, Constructing Excellence (2009)	27
+2.13 ‘Government Construction Strategy’, The Cabinet Office (2011)	27
+2.14 ‘Infrastructure in the New Era’, Constructing Excellence and Pinsent
+Masons LLP (2011)	29
+2.15 Reflections	29
+2.17 References/further reading	32
+Part II Management of the pre-contract stage
+3 Selecting the consultants and contractors	34
+3.1 Introduction	34
+3.3 Selecting Contractors by Value	39
+3.4 CIRIA Guide Selecting contractors by value	44
+3.7 FIDIC tendering procedures	47
+3.10 References/further reading	51
+4.1 Introduction	52
+4.2 Cost estimating on engineering, manufacturing and process industry
+4.3 Cost estimating on civil engineering projects	55
+4.4 Cost estimating on building projects	58
+4.6 Action after receipt of tenders	65
+4.9 References/further reading	67
+5.1 Introduction	68
+5.2 Structure of BOT projects	69
+5.3 Case study: Nottingham Express Transit (NET) light rail	69
+5.4 Factors leading to success on BOT projects	71
+5.6 Case study: Sydney SuperDome, Australia	73
+5.7 The Private Finance Initiative	74
+5.8 Alternative PPP models – local asset-backed vehicles (LABVs)	79
+5.9 The role of the cost consultant in PFI/PPP projects	80
+5.10 Case study: Stoke-on-Trent schools, UK	82
+5.13 References/further reading	85
+6 Contractor’s estimating and tendering	87
+6.1 Introduction	87
+6.3 Stage 2 – determining the basis of the tender	90
+6.4 Stage 3 – preparation of cost estimate	92
+6.6 Stage 5 – conversion of estimate to tender	100
+6.9 References/further reading	102
+Part III Key tools and techniques
+7.1 Introduction	103
+7.4 Metropolis United’s new football stadium	106
+7.10 References/further reading	115
+8.1 Introduction	117
+8.10 References/further reading	135
+9 Whole-life costing	137
+9.1 Introduction	137
+9.2 Understanding the relevance of WLC	138
+9.3 The basic steps in WLC	138
+9.4 Money, time and investment	140
+9.6 Problems with assessing whole-life costs	144
+9.10 References/further reading	148 Contents
+10 Organizational methods (Part 1)	150
+10.1 Introduction	150
+10.2 Traditional method	153
+10.3 Design and build	156
+10.5 Turnkey	162
+10.7 Consortium	166 10.8 Partnering	166 10.9 Alliancing	169
+10.10 Conclusion	174
+10.12 References/further reading	175
+11 Organizational methods (Part 2)	177
+11.5 Reflections on the Scottish Parliament building	185
+11.8 Achieving Excellence in Construction	189
+11.10 Highways Agency – overlying principles for future procurement	190
+11.11 2012 London Olympics	193
+11.12 Selecting the procurement route	195
+11.13 Achieving Excellence in Construction methodology	195
+11.14 Which form of contract to choose?
+11.17 References/further reading	199
+12 Payment systems and contract administration	201
+12.1 Introduction	201
+12.2 Price-based – lump sum plan and specification	203
+12.3 Priced-based – bills of quantities	204
+12.4 Standard schedule of prices	208
+12.6 Price-based – method-related bills	210
+12.7 Price-based – BofQ with milestone payments	211
+12.8 Price-based – activity schedules	213
+12.9 Cost-based – cost reimbursable contracts	215
+12.10 Cost-based – target cost contracts	217
+12.13 References/further reading	225
+Contents xi Part V Management of the post-contract stage
+13 Contractors’ cost control and monitoring procedures	228
+13.1 Introduction	228
+13.2 The external valuation	229
+13.4 Developing a cost control system	234
+13.5 Method 1: Cost value Reconciliation (CVR)	235
+13.6 Method 2: contract variance – unit costing	239
+13.7 Method 3: earned value analysis	242
+13.8 Relevant observations on use of cost control systems	244
+13.11 References/further reading	246
+14.1 Introduction	248
+14.2 Managing the change control process	249
+14.3 Contractual requirements – ICE Conditions of Contract, 7th edition,
+January 2003	250
+14.4 Contractual requirements – JCT Standard Building Contract with
+14.5 Contractual requirements – The NEC Engineering and Construction
+Contract, 3rd edition	252
+14.6 Fixing the rate (traditional contracts)	253
+14.8 Some other relevant legal cases (reported in date order)	260
+14.11 References/further reading	267
+15.1 Introduction	269
+15.2 Terms in contract conditions	270
+15.4 Contractor’s programme	273
+15.5 Concurrent delays	274 15.6 	Proving the delay	276
+15.8 Progress records	278
+15.10 Quantifying the claim	279
+15.15 References/further reading	287 Contents
+Part VI Contracts and case studies
+16 The NEC Engineering and Construction Contract	289
+16.1 Introduction	289
+16.2 The NEC family of contracts	290
+16.3 Objectives of the NEC	291
+16.6 Secondary options	303
+16.10 References/further reading	313
+17 FIDIC standard forms of international construction contract	315
+17.1 Introduction	315
+17.2 The new forms	315
+17.3 Balance of risk	317
+17.4 Structure of the new Red Book	318
+17.5 The employer (Clause 2)	319 17.6 	The engineer (Clause 3)	320
+17.7 The contractor (Clause 4)	321
+7.15 	References/further reading	342
+18 Case study: Heathrow Terminal 5	344
+18.1 Introduction	344
+18.2 Project management philosophy	345
+18.4 The approval process	349
+18.5 Controlling the time, cost and quality	349
+18.6 Logistics	352
+18.8 The use of the NEC	352
+18.9 Role of the cost consultants	353
+18.11 BAA’s new procurement strategy	355
+18.13 References/further reading	357
+
+2.1 Better construction performance: what is needed?
+2.2 Collaborative working principles, Constructing Excellence, June 2011
+4.1 Estimating accuracy in industrial engineering projects
+5.1 PFI organization on Nottingham Tramway
+5.3 A typical commercial structure of a PFI project
+6.1 Typical method statement
+6.2 Example of a priced activity: filling 250mm thick
+7.2 Stakeholders’ impact on project cost
+7.3 Value hierarchy at concept stage for new football stadium
+7.4 Simplified value tree at feasibility stage with importance weightings
+7.5 Decision matrix – shows the process of comparing the total scores of the
+8.2 The real causes of disputes, or who carries the risk?
+10.1 Characteristics of different types of procurement strategies
+10.2 The traditional system
+10.3 The design and build system
+10.4 Evolutionary stages of partnering
+11.1 The management contracting system
+11.2 The construction management system
+12.1 Relationship between types of payment systems
+12.2 Calculation of gain share
+13.1 Project cash flow projections – updated ‘S’ curves
+13.2 Monthly cost report based on the contract variance – unit costing method
+16.1 The NEC family of contracts under design and build (bi-party partnering)
+16.2 Example quotation for compensation event using shorter schedule of cost
+(Contractor’s claims)	339
+18.1 T5 Contracting philosophy	346
+18.2 OGC Gateway compared to BAA process	350
+1.1 Range of services offered by leading construction cost consultants
+1.2 Top clients/promoters in the UK by number and value of projects to year ending
+3.2 Example of completed tender assessment sheet
+3.3 Example of selection mechanism for contractors
+3.4 Typical quality/price ratios for different types of projects
+3.6 Matrix 11: Human resources – indicator 4
+4.3 Establishment of elemental cost targets for inclusion in cost plan
+5.1 Roles of cost manager and project manager on BOT/PFI projects
+7.1 Typical questions to be asked at each stage of the VM study on a new urban
+7.2 Examples of VM savings considered on the Scottish Parliament building
+8.1 Sources of risk to client’s business from construction projects
+8.2 Project manager’s risk analysis report at feasibility stage
+8.3 Typical contractor/client joint risk register (part only)
+9.1 Present value and discount rate (based on 5 per cent)
+12.1 Example of bill of quantities prepared using CESMM4
+12.2 Extract from a typical completed interim payment schedule (months 1–5 in a
+36-month contract)
+12.3 Activity schedule for earth fill dam for new reservoir (part only)
+12.4 Traditional construction costing and target costing compared
+13.1 West Metropolis Storm Water Relief Tunnel activity schedule
+13.2 Interim valuation based on West Metropolis project activity schedule
+14.1 Example of using BofQ rate to establish new rate (‘star rate’)
+16.1 Payment mechanism for six main options
+17.1 Comparison of NEC3 and FIDIC 1999 new Red Book
+18.1 How the T5 documents fit together
+This second edition updates Construction Cost Management: Learning from case studies which was first published in 2008. Following feedback from independent academic reviewers the structure of the book was kept the same but each chapter was brought up to date and modified where appropriate.
+With a new joint author – Dr Nii A. Ankrah – each chapter was thoroughly reviewed and enhanced with the addition of further case studies in both the building and civil engineering sectors. A thorough review of relevant published academic articles was undertaken and, where appropriate, further academic references and relevant websites were also included. These additions now make the second edition a suitable starting point for many procurement and cost management-related dissertation topics.
+Since the publication of the first edition we have received useful information from many senior quantity surveyors and commercial managers representing consultants, public and private clients and contractors and major specialist contractors. The chapters on the NEC3 and FIDIC Red Book have been considerably enhanced after feedback from a wide range of students and practitioners with experience of working in different countries. These, together with observations received from undergraduate and postgraduate students at the University of Wolverhampton, have further enriched the content of this book. Finally, we would like to thank our valued fellow colleague Pauline Corbett for her invaluable comments – they have always been pertinent and knowledgeable.
+This revised edition thus captures the essence and key issues of construction cost management not only in the UK but in an international context. Any errors or omissions are, of course, our responsibility.
+
+
+1	Introduction and overview
+1.1  Setting the scene
+There have been many significant changes in the construction sector within the past decade. Notably, the sector has witnessed the growth of partnering and alliancing which require better management of the supply chain, and an increasing use of the NEC Contract (NEC3) which requires a team-based proactive approach to project delivery.
+New financial models have been developed including Private Finance Initiative (PFI), Local Asset Backed Vehicles (LABVs) and variants of these in which private sector consortia design, build, own and operate public facilities in partnership with the public sector. Great advances have been made on the technical front with the growth of Building Information Modelling (BIM) and other web or cloud-based project management platforms. Enlightened clients have also been demanding more sustainable developments and construction projects.
+Yet the same fundamentals apply – clients wish to obtain their increasingly more complex projects within budget and on time and to the necessary quality. Cost management, a function traditionally undertaken by quantity surveyors, therefore remains of critical importance to project success. One of the pioneer quantity surveyor construction project managers was Francis Graves who undertook the task of Project Controller in 1972 on the massive 5-year-long Birmingham NEC Exhibition Centre project. He considered his terms of reference on this project very straightforward – Get it finished on time and get value for money! This maxim still resonates today and forms the core of the services offered by all quantity surveying firms on construction and engineering projects.
+It is significant to observe however that the practice of cost management and the role of the quantity surveyor is changing in response to all the pressures highlighted above. Indeed, many are moving on from the core skills of contractual and financial management to embrace the key role of the client’s strategic adviser and project manager. Evidence of this development  can be seen from an analysis of three of the top Quantity Surveying Consultants’ websites which shows their involvement in a wide range of strategic services which are increasingly being offered throughout the life of the asset (Table 1.1).
+It is within this context that this book is written to map out some of the key principles and techniques that underpin cost management practice and signpost some of the critical developments in the construction sector that will continue to shape the future role of the cost manager.’
+Table 1.1 Range of services offered by leading construction cost consultants
+Asset Investment and Finance
+Asset Performance Facilities Management
+Strategy and Transformation
+Cost Commercial and Risk Management underpinned by the following services:
+Cost and Value Management; Whole-Life Costing; Risk and Opportunity Management;
+Taxation and Capital Allowances; Strategic Procurement and Contract Strategy;
+Commercial Management and Quantity Surveying
+We work with clients to try to prevent complex construction and engineering disputes and where disputes have already arisen, to resolve them swiftly and effectively. We provide sector specific procurement, contract and management strategies that help our
+clients realise their project objectives and reduce the risks associated with the construction and engineering delivery process and to operate and apply the legal and contractual processes that govern them Programme and Project Management
+Business Performance: Asset and Strategy Planning; Business Case Development;
+Carbon Advisory and Sustainability; Change Management; Funder’s Advisory Services;
+Organizational Design; Performance Improvement; Procurement and Supply Chain
+Risk and Opportunity Management
+Operations: Facilities Management; Health and Safety
+Services are focused on the three main phases of the whole life of a capital asset:
+From the conception of the business need
+Providing strategic advice at the outset of a capital project
+Through its construction
+Once the capital project has been defined and the delivery strategy agreed, we offer a range of services to assist in the delivery of the capital project To its operation
+As an integral part of the process for deriving maximum value from the built asset, we advise clients on the entire life-cycle of the asset covering: Maintenance; Refurbishment; Disposal or Renewal
+Websites    – cited 12 March 2012
+1.2  Construction overview
+The construction sector is strategically important for Europe, providing the infrastructure and buildings on which all sectors of the economy depend. With almost 20 million operatives directly employed in the sector, it is Europe’s largest industrial employer accounting for 7 per cent of total employment and 28 per cent of industrial employment in the European Union (EU). It is estimated that 44 million workers in the EU depend in one way or another on the construction sector. Construction contributes more than 10 per cent of the gross domestic product (GDP) and more than 50 per cent of the gross fixed capital formation of the EU, representing about €1.36 trillion in 2011 (Europa).
+The industry continues to thrive, given the ever-pressing need to address the regeneration of many urban areas of Europe, in particular in the newly acceded countries and the realization of major trans-European infrastructure works.
+Being a subset of the wider EU market, the UK construction industry similarly makes a considerable contribution to the national economy, accounting for over 7 per cent of the national gross domestic product. Just over 2.14 million workers work in construction. In 2011 the construction sector represented £110 billion of expenditure – 40 per cent being in the public sector, with Central Government being the industry’s biggest customer.
+Other major clients/promoters by value and number of projects procured are shown in
+Significantly, these major clients have shown the lead in embracing the new
+Table 1.2 Top clients/promoters in the UK by number and value of projects to year ending 31 December 2011
+Engineering Procurement Construction
+(EPC)/Engineering Procurement Construction
+Bespoke form of contract
+Mainstream Renewable Power
+Selective competition
+Essex County Council
+Various (Traditional, Framework Agreements,
+RIBA Plan of Work process
+60% Price and 40% Quality split
+Contracts varied (including some based on NEC, JCT)
+British Energy Generation
+Competitive tender
+Network Rail Infrastructure
+Governance for Railway Investment Projects
+Contracts varied (including some based on
+ICE, JCT, MF)
+Top Clients by number
+Prime contracting
+Network Rail Infrastructure
+
+Taylor Wimpey
+Traditional, D&B
+Selective competition
+
+Traditional e.g.
+Essex County Council
+
+Developed based on  and various other sources, e.g. www.
+networkrail.co.uk; – accessed 17 May 2012
+procurement routes and conditions of contract. What they all seek is value for money and it is within this context that cost management, and the role of the cost manager, takes significance.
+Cost management in construction and the role of the quantity surveyor in delivering these services has developed significantly and continues to evolve to meet the changing needs of clients. This evolution has been driven in part by the impetus for change in procurement and contract strategies generated by the numerous reports on the state of the UK construction industry published in the last 70 years (see Murray and Langford, 2003). These reports and other relevant key recommendations are reviewed in Chapter 2 in order that best practice, which needs to be reflected in the role of quantity surveyors, can be identified.
+Beyond these, the role of the quantity surveyor also continues to be influenced by the requirements of professional bodies. For instance the Royal Institution of Chartered Surveyors’ (RICS) Assessment of Professional Competence/Assessment of Technical Competence (RICS, 2006) identifies that quantity surveyors may be working as a consultant in private practice, for a developer or in the development arm of a major organization (e.g. retailer, manufacturer, utility company or airport), for a public sector body or for a loss adjuster. On the contracting side, quantity surveyors could be working for a major national or international contractor, or local or regional general contractor, for a specialist contractor or subcontractor, or for a managementstyle contractor. It identifies the need for competence in:
+• preparing feasibility studies or development appraisals
+• assessing capital and revenue expenditure over the whole life of a facility
+• advising clients on ways of procuring the project
+• advising on the setting of budgets
+• conducting value management and engineering exercises
+• managing the tendering process
+• controlling cost during the construction process
+• managing the commercial success of a project for a contractor
+• valuing construction work for interim payments, valuing change, assessing or compiling claims for loss and expense and agreeing final accounts
+• negotiating with interested parties
+• giving advice on the avoidance and settlement of disputes.
+These guidelines for the RICS Assessment of Professional Competence in Quantity Surveying and Construction were issued in July 2006 (Isurv.com).
+Similarly, professional bodies like the Construction Industry Council (representing all the professions), the Association of Project Management, the Major Projects Association and the Chartered Institute of Building all identify key skills and competencies applicable to modern day quantity surveyors, which are constantly under review.
+It is evident from the foregoing that not only is cost or commercial management critical to achieving value-for-money outcomes but also that the requirements for effective performance of this role are constantly evolving. This inevitably necessitates constant review and evaluation of cost or commercial management practice to ensure that both industry and academia keep pace with these changes and with best practice.
+1.4  Learning from case studies
+A few examples will suffice to illustrate the role that case studies play in identifying best practice (and indeed bad practice), thereby providing learning opportunities from both successful and failed projects which will provide the basis for delivering best value to clients through the effective performance of cost management services. Indeed, very often the distinction between successful and failed projects is blurred.
+Many of the 1970s UK North Sea oil projects went way over budget, yet, following the subsequent surge in oil prices, were clearly successful projects. The Thames Barrier at Greenwich was a project plagued by poor industrial relations, finishing 3 years late in 1984 and at ten times the original budget, yet, when the barrier was later used, the innovative designed project was successful and London was saved from flooding. Today the barrier is raised six times per year compared to once in 6 years as originally anticipated. Clearly there are important lessons to be learnt from all projects.
+The Sydney Opera House in Australia became the symbol for the Millennium Olympics in 2000 and somehow reflected the healthy swagger of the emerging continent. The competition for the project was won in 1957 by Danish architect Jorn Utzon, whose first design according to members of the jury was hardly more than a few splendid line drawings. This comment could also have been made many years later in connection with Enric Miralles’ first submission on the Scottish Parliament building.
+The billowing concrete sailed roof had never been built before. It should therefore have been no surprise that the $A7 million project escalated to over $100 million and the planned construction period of 5 years was finally extended to 14 years (1959–1973). The architect was put under so much pressure over the escalating costs that he left the project half-way through, after which his designs were modified. As a result, the building is perfect for rock concerts but not suitable for staging classical full-scale operas (Reichold and Graf, 1999).
+Another iconic building is the Pompidou Centre in Paris, a building famous for being insideout with all the structural frame, service ducts and escalators being on the outside, allowing a flexible floor space within. The audacious steel and glass National Centre for Art and Culture was designed by two young unknown architects, Renzo Piano and Richard Rogers, to last, as George Pompidou reminded architects, for four or five centuries.
+After opening in 1977 the centre rapidly became a huge success, with more than 7 million visitors a year making it the most popular tourist destination in Paris. After 20 years’ use the building was showing its age, including rusting on the structural frame, and was in need of a major renovation. In October 1997 the whole centre closed, reopening in January 2000, which allowed not only for the refurbishment but also for improvements to the internal layout at an estimated cost of US$100 million (Poderas, 2002).
+Significantly the UK Government now requires whole-life costing to be considered with project evaluation. It is interesting to speculate as to whether the Pompidou Centre would have passed such a test if the building were proposed to be built in the UK today.
+The Millennium Dome at Greenwich was designed to be the UK’s showcase to celebrate the new millennium. With a diameter of 365 metres, the Dome was the largest single-roofed structure in the world, with a floor area the size of 12 football pitches (Wilhide, 1999).
+However, the project was plagued throughout by problems and bad publicity, typified by the Millennium New Year’s Celebration when the great and the good were left stranded for hours at Stratford Station. Open to the public for 1 year, the Millennium Dome was closed to visitors on 31 December 2000 and remained unused for 6 years, apart from the Ministry of Sound New Year’s Eve dance parties.
+The £758 million project was seen as a major part of the regeneration of East London and was built on 120 hectares of contaminated wasteland.
+The Millennium Dome was designed by architect Richard Rogers and consulting engineer Buro Happold with a joint venture of John Laing/Sir Robert McAlpine acting as construction managers with target cost contracts incorporating pain and gain share clauses. What is often forgotten is that the design and construction of the Dome was a highly significant and successful achievement being completed on time and within budget. The author (Potts) visited the project in 1999 and was particularly impressed with the teamwork approach with everyone – client, consultants, contractors and subcontractors – working in the same open-plan office.
+The project was largely reported by the press to have been a flop: badly thought out, badly executed and leaving the Government with the embarrassing question of what to do with it afterwards. During 2000 the organizers repeatedly asked for and received more cash from the Government. Part of the problem was that the financial predictions were based on an unrealistically high forecast of visitor numbers at 12 million; in the event there were only 6.5 million.
+The Dome has been refurbished into a soundproof 22,000-seater sports and entertainment complex and reopened in June 2007 under the new name of The O2. Since its refurbishment The O2 arena has hosted many high-profile concerts and sporting events including basketball and gymnastics at the 2012 Olympics.
+London Underground’s Jubilee Line Extension (JLE) was at the time one of Europe’s largest infrastructure projects. The JLE comprised more than 30 major contracts linking the UK Government’s parliamentary HQ at Westminster to London’s emerging financial centre at Canary Wharf and beyond to Stratford. The entire project comprised a 10-mile underground extension with 11 stations – six completely new and five substantially enlarged or rebuilt – and four crossings under the River Thames.
+It posed a huge management challenge, creating magnificent station architecture, but became infamous for overrunning on both time and budget.
+The overall construction period for the project was 72 months, compared to the original 53 months, whilst the out-turn cost for the project rose from £2.1 billion in October 1993 to £3.5 billion in December 1999. The project was completed in December 1999, just in time for the Millennium celebrations in the Dome at Greenwich, significantly after Bechtel had taken over the management of the project in September 1998.
+The JLE Conditions of Contract were a hybrid of the ICE fifth edition and the FIDIC form, modified by the Hong Kong Mass Transit Railway Corporation (HKMTRC) and Singapore Mass Rapid Transit. The civil engineering contracts were based on bills of quantities subject to admeasurement.
+Each contract contained an Interim Payment Schedule (IPS), which was based on a series of defined milestones within four main cost centres; the idea being that payment was only made if the defined milestone was achieved. A fundamental aim of this approach was to motivate contractors to achieve progress whilst at the same time avoiding the need to base monthly payments on measured works. The system had worked well in Hong Kong and in the early stages of the JLE.
+Unfortunately, due to the changing requirements of the JLE scheme in the early stages of the project and the tight timescale, the working drawings issued at contract award remained incomplete. This resulted in extensive changes to the programmes causing delay and disruption, and extensions of time and acceleration measures, and the milestones had to be continuously revised. The Major Projects Association (MPA) observed that the project culture was too adversarial and inflexible (as were the contracts used) (MPA, 2000).
+The Scottish Parliament building in Edinburgh, which won the tenth RIBA (Royal Institute of British Architects) Stirling Prize, is another classic tale worthy of further investigation. Initially conceived by the Barcelona architect Enric Miralles, it was completed 20 months late with a final cost of £430 million from an initial budget of £40 million. The building has been subject to much criticism, particularly from taxpayers in Scotland. Much of this is documented in Lord Fraser’s Report entitled The Holyrood Inquiry (2004), the Spencely Report (2000), two Auditor General Reports (2000 and 2004) and the Holyrood Inquiry website, where there is access to the actual correspondence between the parties.
+The above case studies provide a flavour of the many ways in which projects can succeed or fail. The Major Project Association (MPA, 2003) identifies the major reasons for project failure as:
+• poor forecasting on demand
+• lack of effective sponsor and strong leadership
+• poor communication and lack of openness
+• management focus wrongly targeted at the back end rather than at the front-end of the project.
+These are important observations that ring true in the case studies reviewed on the previous pages, and indeed in all the case studies quoted throughout this book. At the same time these case studies also provide best practice exemplars of effective cost and project management, many of which are catalogued in knowledge centres such as:
+
+
+
+
+The foregoing reinforces the sole purpose of this text, which is to showcase the lessons on cost management inherent in all major construction projects, and this is reflected in the discussions that follow in the subsequent chapters.
+1.5  Overview of chapters
+Construction Cost Management: Learning from case studies, second edition, follows the same format as the first edition. It has been brought up to date and expanded throughout with a wide range of references by leading international academic researchers. The text is organized into four sections: Part I Introduction – Chapters 1 and 2; Part II Management of the pre-contract stage – Chapters 3–6; Part III Key tools and techniques – Chapters 7–9; Part IV Procurement strategies – Chapters 10–12; Part V Management of the post-contract stage – Chapters 13–15; and Part VI Contracts and case studies – Chapters 16–18.
+Part I Introduction
+Chapter 2 ‘Reports and recommendations’ is a comprehensive overview of the post-war construction reports aimed at improving the efficiency of the industry. It examines the relevant key recommendations of the reports and the follow-up initiatives in order that best practice can be identified.
+Part II Management of the pre-contract stage
+The most important issue on any project is getting the right people for the job. Chapter 3 ‘Selecting the consultants and contractors’ gives a detailed overview of some successful selection methodologies.
+Chapter 4 ‘Pre-contract cost management’ reviews the different approaches in the industrial, civil engineering and building sectors.
+Chapter 5 ‘Cost management on PFI projects’ examines the management structure and key success factors on these complex projects, and the roles of the project manager and quantity surveyor.
+Chapter 6 ‘Contractor’s estimating and tendering’ reviews the whole tendering process from enquiry to submission, identifying the key risks within the process.
+This section embraces three key issues encountered by construction cost managers. Chapter 7 ‘Value management’ looks at the techniques used in a value management exercise with an abundance of case studies. Chapter 8 ‘Risk management’ reviews the key issues involved in managing risks for both the client and contractor with an examination of the techniques and tools used. Chapter 9 ‘Whole-life costing’ examines the important technique of whole-life costing.
+This section reviews the alternative procurement strategies. Chapter 10 ‘Organizational methods (Part 1)’ reviews the traditional and design and build strategies with new sections on guaranteed maximum price and alliances, and an expanded section on partnering. Chapter 11 ‘Organizational methods (Part 2)’ examines the management approaches.
+The expanded Chapter 12 ‘Payment systems and contract administration’ now embraces Schedules of Prices and has a more comprehensive target cost section.
+Part V Management of the post-contract stage
+Increasingly the contractor is the major player on a construction project and Chapter 13 ‘Contractors’ cost control and monitoring procedures’ describes the different contractors’ cost control systems encountered on building and large infrastructure projects. Reference is made to the use of the earned value analysis approach on a large project in Abu-Dhabi.
+Chapter 14 ‘Change management – valuing variations’ introduces the principles in setting up a change control system and continues with a comprehensive review of the principles involved in the valuation of changes or variations. This chapter also includes a review of some of the relevant legal cases concerning variations.
+Chapter 15 ‘Claims management’ examines the key issues involved in establishing the basis of a claim and the generic principles involved in their evaluation. It is noted that the NEC3 contract requires the submission of quotation before the acceptance of the change proposal through the compensation event procedure. However the JCT contracts and the FIDIC Red Book 1999 clearly acknowledge the potential for the submission of claims after the event.
+Part VI Contracts and case studies
+All construction projects are administered through the conditions of contract, which should be signed by both parties. In practice this is often a version of a standard conditions of contract with additional amendments. Chapter 16 ‘The NEC Engineering and Construction Contract’ and 17 FIDIC standard forms of international construction contract include a brief analysis of two important standard forms of contract, representing best practice in the UK and overseas. In the past decade the UK construction sector has moved towards greater collaboration and cooperation particularly through the use of the NEC3 contract. Research by Lord et al. (2010) identified a complete contrast in China, the largest construction market in the world, which has nurtured a change towards the more formal contractual system of rights and responsibilities, electing to use the FIDIC Red Book 1999 as a basis for all its major construction contracts.
+These contracts are all subject to the laws of the home country. In the UK these are enacted through Acts of Parliament, e.g. the amendments to the statutory payment, adjudication and suspension rules under Part II of the Housing Grants, Construction and Regeneration Act 1996 (Construction Act 1996) introduced by Part 8 of the Local Democracy, Economic Development and Construction Act 2009 (LDEDC Act 2009) apply to construction contracts.
+Additionally, pertinent government regulations must be adhered to in the management of the project, e.g. The Construction (Design and Management) Regulations 2007 (CDM 2007). Government regulations are particularly relevant for site-based operations, e.g. The Lifting Operation and Lifting Equipment Regulations 1998.
+Case law is also relevant in the case of administration and contractual disputes, e.g. Henry Boot Construction v Alstom Combined Cycles Ltd (2000) CA BLR 247 and (1999) TCC BLR 123. These issues are all discussed in some depth. However, further details may be obtained from the Building Law Reports (BLRs) which have reported on hundreds of key judgments since 1976. A list of the disputes covered in the BLRs can be found on
+The final chapter – Chapter 18 – ‘Case study: Heathrow Terminal 5’ describes the successful best-practice mega-project which embraced the principles of lean construction demanded by Sir John Egan.
+For information on the major follow-up construction project in the UK – the construction of the 2012 London Olympics – readers should access the Learning Legacy website developed by the Olympic Delivery Authority in which they share the knowledge and lessons learned, together with the NEC Users’ Group Newsletter, London 2012 Special issue.
+This chapter has set the scene and identified the role of the construction commercial manager within the wider discipline of project management. The role of the commercial manager has developed, embracing many aspects of project management, including:
+• strategy: strategic planning, value management and risk management, whole-life costing;
+project control cycle, developing a schedule, controlling the cost;
+• technical issues: tendering procedures, contractors’ estimating;
+Introduction and overview
+• commercial matters: financial management of the pre-tender, tender and post-tender stages, procurement, managing change, managing claims, legal awareness and contracts.
+The aim of this book will be to embrace the subject of construction cost management as identified within Sections 2, 3, 4 and 5 of the APM’s Body of Knowledge, the Construction Industry Council’s Construction Project Management Skills framework and the RICS’s APC/ATC guidelines for construction surveyors. The linking of these sections acknowledges the reality of the role of the quantity surveyor/commercial manager who is increasingly embracing construction project management.
+Commercial and contractual management is not easy; traditionally it demanded experienced, dedicated personnel with an understanding of the construction technology and an in-depth knowledge of measurement and estimating, variations and claims, and contract procedures. The new strategies now demand professionals with a wider knowledge of procurement strategies and project management – particularly planning and control systems, corporate governance, strategic positioning, organizational behaviour, supply chain management and the management of change.
+However, it is not the strategy or the wording of the contract that ensures success or failure, rather it is the attitude of the people involved. A genuine team spirit must be created with all team members having a can do, will do attitude (MPA, 2001).
+Now it’s time for you to answer a few questions! Best of luck.
+Identify the changing roles of the commercial manager within the UK construction industry.
+What are the qualities required of a successful commercial manager within the construction sector?
+How do clients control their investments and when?
+How can the contractor control the project?
+How can a contract contribute to effective project management?
+The erstwhile Office of Government Commerce have identified the Common Causes of Project Failure, and produced a useful guideline document (OGC, 2005) primarily aimed at those managing projects across Government.
+Critically evaluate the management of projects within your own organization against the eight key questions raised in the OGC document.
+When it was completed in 2000 the Centre Block at the Royal Brisbane Hospital, valued at A$180 million (£90 million), was one of the largest hospital projects in Australia. Critically review the management structure, the contractual arrangement and the key success factors on this major project.
+
+2	Reports and recommendations
+2.1  Introduction
+The past two decades or so have seen the publication of many significant reports relevant to project management of the built environment (embracing both building and civil engineering), including significantly Latham (1994) and Egan (1998) and those issued by the erstwhile UK Government’s Office of Government Commerce (part of HM Treasury) and the National Audit Office.
+These major studies have highlighted the inefficiencies of traditional methods of procuring and managing major projects – in particular the fallacy of awarding contracts solely on the basis of the lowest price bid, only to see the final price for the work increase significantly through contract variations and with projects often completed late. Indeed this was often the traditional ploy on major works – submit a low bid in the anticipation of making a profit on the variations and claims. Experience has shown that acceptance of the lowest price bid does not provide value for money in either the final cost of construction or through-life and operational costs. Relations between the construction industry and government departments have also been typically characterized by conflict and distrust which have contributed to poor performance. Most of these reports have highlighted alternative ways forward typified by comments in the Modernising Construction Report (NAO, 2001) as follows:
+Estimates of the cost of these inefficient practices are inevitably broad brush, but studies have identified the potential for major savings – 30 per cent in the cost of construction. Specifically by industry adopting a more collaborative approach strongly founded on a competitive process with appropriate risk sharing in which value for money is obtained by all parties through a clear understanding of the project’s requirements, transparency as to costs and profits, underpinned by clearly understood rights and obligations, and appropriate incentives. More attention to design and early involvement of the whole construction team could also improve the operational efficiency of the completed buildings resulting in potentially greater savings over the whole life of the building.
+NAO, Modernising Construction, 2001, p. 4
+Whilst the list is not exhaustive, it is still appropriate to review the recommendations contained within most of these major reports, which should contain the key criteria for change and enable identification of recommended best practice. This insight will help establish criteria and benchmarks against which the practices revealed by the case studies can be measured.
+The Latham (1994) and Egan (1998) reports in the mid-1990s were particularly significant and prompted a radical review of established practices and procedures in order to identify best practice. Unlike previous UK government reports on the construction industry, which were basically ignored, the Latham report Constructing the Team (1994) and the Egan report Rethinking Construction (1998) have had a profound impact on the UK construction industry. These reports, together with Egan’s follow-up report, Accelerating Change (2002), have challenged the industry to throw off the old adversarial practices and reinvent itself in order to become world class. More significantly they created a willingness to work together to consider changes and how they could be best implemented for the benefit of the industry and the clients on whom it depends.
+The UK Government, as a best practice client, has in response instigated major changes in procurement and project management practice. Case studies indicate that the new approaches are having a significant impact by increasing the client’s certainty of outcome and value for money.
+It is important that all those engaged in the construction process understand these changes as they come into effect through parliamentary statute, new forms of contract, new processes and codes of practice. All should be conscious of the changed responsibilities and liabilities that will arise and the opportunities as well as risks that they provide for their business.
+2.2  Post-war reports
+In 1949, whilst Britain was still experiencing chronic shortages in skilled labour, materials and construction equipment, a British Building Productivity Team visited America under the auspices of the Anglo-American Council on Productivity. The report of the team, published in 1950, identified the factors which were considered responsible for the higher productivity levels in America. These included complete pre-planning of the job; coordination of subcontractors’ work; adequacy of supplies of labour and materials; availability and use of mechanical aids; recognition of the importance of continuous research into the production of materials and into building techniques; and the positive attitude of the American workers.
+Significantly, the Anglo-American report concluded by stating that the ‘Building owner, architect, quantity surveyor, contractor and subcontractors should all cooperate more closely to reduce building costs’ (Anglo-American Council on Productivity 1950: The report also included a chapter devoted to tendering procedures and provided a comprehensive description of the two systems – American without quantities and British with quantities, commenting that ‘Consideration should be given to the simplification of the Standard Method of Measurement’ (Anglo-American Council on Productivity 1950:
+The Anglo-American report was typical of the numerous reports on the state of the UK construction industry published since the World War II. Murray and Langford (2003) catalogue these reports as follows:
+• Placing and Management of Building Contracts: The Simon Committee Report (1944) within which the ‘BofQ considered best basis for estimating the cost of the whole project and for valuing variations’;
+• The Working Party Report to the Minister of Works: The Phillips Report on Building (1948–1950);
+• Survey of Problems before the Construction Industry: A Report prepared by Sir Harold Emmerson (1962) which established that ‘efficiency in operations depends on the quality of the relationships and better co-ordination between the building owner, the professions
+(architect, surveyor, engineer) and the contractors and subcontractors’;
+• The Placing and Management of Contracts for Building and Civil Engineering Work: The Banwell Report (1964), which argued that ‘banding together of those who have suitable work in prospect is to be encouraged, which will allow construction to benefit from industrialisation and standardisation’, ‘a common form of contract for all construction work, covering England, Scotland and Wales, is both desirable and practicable’, ‘contractors should apply to the selection of subcontractors the same standards of fairness which they expect when they themselves are chosen’, ‘in order to achieve a firm price contract, for any scheme, all the critical details need to be worked out, thereby leaving as little as possible to chance’;
+• Tavistock Studies into the Building Industry: Communications in the Building Industry (1965) and Interdependence and Uncertainty (1996);
+• Large Industrial Sites Report (1970);
+• The Public Client and the Construction Industries: The Wood Report (1975) which concluded that ‘a project requires a sole senior representative, with sufficient expertise, authority and time, and public officials may need advice to enable them to play this role effectively today’; • Faster Building for Industry: NEDO (1983);
+• Faster Building for Commerce (1988).
+With the exception of the Tavistock Studies, these were all government-sponsored reports, produced by large committees. Most made recommendations for improvement but were mainly ignored due to poor client involvement and no follow-up legislation to reinforce their findings. Significantly, Banwell (1964) recommended that a common form of contract be used for all construction work. This only started to become a reality 30 years later – with the introduction of the new engineering contract (now referred to as the NEC contract).
+2.3  The Latham Report, Constructing the Team (1994)
+The terms of reference were to consider current procurement and contractual arrangements, and current roles, responsibilities and performance of the participants, including the client, with regard to:
+• the processes by which clients’ requirements are established and presented
+• methods of procurement
+• responsibility for the production, management and development of design •	organization and management of the construction process
+• contractual issues and methods of dispute resolution.
+The report makes 30 major points to which the industry has responded well. Perhaps most significant was the establishment of the Construction Industry Board (CIB), which all parties in the industry contributed to and supported. A number of working groups were set up under the aegis of the CIB to find ways to implement the report’s recommendations.
+Clients (government and private sector)
+• set up a new construction clients’ forum (see
+• be best practice clients (see  and
+• publish a Construction Procurement Strategy Code of Practice (see A Guide to Best Practice in Construction Procurement by Clive Cain published in 2001 by Construction Best Practice Programme);
+• promote a mechanism for selecting consultants on quality as well as price (see CIB Working Group 4 ‘Selecting consultants for the team: balancing quality and price’ published in 1996).
+
+• adopt target of 30 per cent real cost reduction by the year 2000;
+• improve tendering arrangements/registration (with Government) (see  co.uk);
+• draw up a code of practice for selecting subcontractors (see CIB Working Group 3 ‘Code of Practice for the selection of subcontractors’ published in 1997);
+• implement the recent reports on training and the education of professionals;
+• produce coordinated equal opportunities action plan.
+
+• develop standard contract documentation based on a set of principles;
+• include independent adjudication, pre-pricing of variations and trust accounts for payments (the Housing, Grants, Construction and Regeneration Act 1996 gave rights to the parties to refer a dispute arising under a contract to adjudication; pre-pricing of variations now included in standard forms of contract, e.g. JCT 11 and NEC3; trust accounts are now being introduced);
+• introduce recommendations for increased use of the New Engineering Contract; •	produce a complete standard family of interlocking contract documentation;
+• introduce legislation against unfair contracts (the Housing, Grants, Construction and Regeneration Act 1996 included terms on fair payments);
+• introduce legislation to underpin adjudication and trust account proposals (see comments above);
+• implement Department of Environment (DoE) working party proposals on liability legislation (this relates to suppliers’ exclusion clauses – not implemented);
+• introduce mandatory latent defects insurance (defects which cannot be seen as opposed to ‘patent’ defects which can be seen – not implemented).
+Sir Michael Latham also identified what a modern contract should contain, which is particularly relevant when considering the main contractor/subcontractor contract.
+Lord (2008) undertook a critical review of the principal provisions of the standard contracts produced by the Joint Contracts Tribunal (JCT), the Institution of Civil Engineers (ICE) and the New Engineering Contract (NEC). He concluded that:
+The JCT and ICE forms of contract were found to have retained the principal features more conducive to promoting an adversarial relationship as opposed to the modern requirements Panel 2.1 A modern contract
+The most effective form of contract in modern conditions should contain:
+1 a specific duty for all parties to deal fairly with each other, and with their subcontractors, specialists and suppliers, in an atmosphere of mutual cooperation;
+2 firm duties of teamwork, with shared financial motivation to pursue those objectives. These should involve a general presumption to achieve ‘win-win’ solutions to problems which may arise during the course of the project;
+3 a wholly integrated package of documents which clearly defines the roles and duties of all involved and which is suitable for all types of project and for any procurement route;
+4 easily comprehensible language, and with guidance notes attached;
+5 separation of the roles of contract administrator, project or lead manager and adjudicator. The project or lead manager should be clearly defined as the client’s representative;
+6 a choice of allocation of risks, to be decided as appropriate to each project but then allocated to the party best able to manage, estimate and carry the risk;
+7 all reasonable steps to avoid changes to pre-planned works information. But, where variations do occur, they should be priced in advance, with provision for independent adjudication if agreement cannot be reached;
+8 express provisions for assessing interim payments by methods other than monthly valuation, i.e. milestones, activity schedules or payment schedules. Such arrangements must also be reflected in the related subcontract documentation. The eventual aim should be to phase out the traditional system of monthly measurement or remeasurement, but meanwhile provision should still be made for it;
+9 a clearly set out period within which interim payments must be made to all participants in the process, failing which they will have an automatic right to compensation, involving payment of interest at a sufficiently heavy rate to deter slow payment;
+10 provision for secure trust fund routes of payment;
+11 while taking all possible steps to avoid conflict on site, provision for speedy dispute resolution if any conflict arises, by a predetermined impartial adjudicator/referee/ expert;
+12 provision for incentives for exceptional performance;
+13 provision where appropriate for advance mobilization payments (if necessary, bonded) to contractors and subcontractors, including in respect of off-site prefabricated materials provided by part of the construction team. Latham (1994)
+for a collaborative and trusting relationship. Some attempts have been made by the JCT and ICE to promote collaborative working and to incorporate the features of a modern contract but this relies heavily on overarching documents which in the main are not binding on the parties and simply exhort collaborative behaviour. The single, most notable exception to this was the JCT Constructing Excellence Contract.
+On the other hand, the NEC family of contracts were found to have embraced virtually all the requirements for a modern contract in an integrated way and, could be argued, were the most conducive to assisting with implementation of the various drivers for change.
+2.4  Levene efficiency scrutiny (1995)
+Although the Latham Report clearly tried to improve performance of the UK construction industry and provide a catalyst for change, further reforms were required especially in the way Government departments procured contracts. The Levene Scrutiny focused in greater detail on the role of various government departments and agencies in the procurement of construction work and how they would perform as best practice clients (Efficiency Unit Cabinet Office, 1995).
+The review was undertaken with two fundamental aims: to improve value for money in the procurement of public works and to improve the competitiveness of suppliers to government.
+The report concluded, as Latham had already stated, that the UK construction industry was in poor shape and that the performance of the government departments was a contributing factor. The report proposed five action points, developed into 22 recommendations that were designed to facilitate government departments’ more effective management of their projects and to encourage the industry to be more proactive and less adversarial.
+This series of guides were produced following the recommendations of the Latham Report (1994) and the Efficiency Scrutiny of Government Construction Procurement (1995). The guidance provided best practice advice at a strategic level and covered the client’s role in the procurement process; it was specifically aimed at encouraging a change in culture. The reports made up a family of documents comprising:
+Set out roles and responsibilities of the Investment Decision-maker, the Project Owner and Project Sponsor and the training they required.
+Set out a VFM framework (a structured list of activities undertaken in a project including approval gateways, risk and value management techniques and control procedures), where best VFM is the optimum combination of whole-life cost and quality to meet the customers’ requirement. The National Audit Office (NAO) does not consider that achieving VFM means accepting the lowest bid – they have not criticized a project on these grounds when other considerations were more important. It must be emphasized, however, that the intention is also not to stifle innovation through rigid adherence to mechanistic procedures.
+No. 3 Appointment of consultants and contractors
+Set out the consultancy roles and responsibilities, details of the appointment process and the structure of the project team.
+No. 4 Team working, partnering and incentives
+Embraced the concept of teamwork declaring that ‘Teamwork should be a core requirement for every element of a major project and partnering should be adopted as far as possible on all new and existing contracts. Incentives should be included to provide benefits to clients.’
+Recommended the following procurement strategies: Public Private Partnerships, design and construct (and, where appropriate, maintain and operate), prime contracting and framework agreements. Traditional forms of construction procurement should only be used where there is a very clear case that they will deliver better value for money than other procurement routes in terms of whole-life costs and overall performance.
+No. 6 Financial aspects of projects
+Provided information on preparing budget estimates and dealing with risk allowances.
+No. 7 Whole-life costs
+This guide identified that the primary purpose of whole-life costs is to provide the Investment Decision-maker with the information necessary to make the best decisions in terms of project strategy and procurement route.
+No. 8 Project evaluation and feedback
+• formal reviews at project gateways (including post-occupancy evaluation);
+• less formal ongoing evaluation and reporting (particularly during the development and construction stages);
+• evaluation and reporting of specific activities.
+‘The fundamental part of project evaluation and feedback is to make sure that lessons learned from one project are transferred effectively to other projects.’
+The guide considered that the primary purpose of benchmarking is to improve the performance of the organization. Benchmarking is a tool that allows organizations to help themselves. It is an essential part of continuous improvement and is a continuous and long-term process and not a one-off instant solution.
+2.6  Construction Industry Board (CIB) Working Groups (1996/97)
+Following Sir Michael Latham’s Report, Constructing the Team, the Construction Industry Board (CIB), representing the professions and consultants, main contractors, subcontractors, clients, materials suppliers and the Government, produced reports from 12 Working Groups as follows:
+WG1	Briefing the team
+WG2	Constructing success
+WG3	Code of practice for the selection of subcontractors
+WG4	Selecting consultants for the team: balancing quality and price
+WG4	Framework for a national register for contractors
+WG5	Framework for a national register for consultants
+WG6	Training the team
+WG7	Constructing a better image
+WG8	Tomorrow’s team: women and men in construction
+WG9	Educating the professional team
+WG10	Liability law and latent defects insurance
+WG11	Towards a 30% productivity improvement in construction
+WG12	Partnering in the team
+The document, WG1, Briefing the team, contains a checklist for construction productivity – this is essentially the solution to Latham’s challenge for the industry to make a 30 per cent real cost reduction:
+• change the industry culture
+• introduce clear, concise and comprehensive standards of briefing
+• ensure design and construction processes work as one
+• foster teamwork and partnership
+• establish industry standards for information technology
+• make quality the main requirement of all elements of the design and construction process
+• improve the understanding and effective application of risk management techniques
+• health and safety should be part of the cost-benefit analysis
+• develop standard products, components and processes
+• prefabrication and preassembly should be part of design considerations
+• improve designers’ knowledge and understanding of the performance of components and materials
+• designers need urgently to embrace new technologies
+• life cycles, and all-life costs of buildings and their fittings must be a principal part of design and maintenance considerations
+• quality and value must not be ignored in the pursuit of the lowest price
+• the management experience of buildings and projects, and the associated costs, should be constantly fed back to, and adopted by, designers in new designs
+• benchmarking must be used to measure improvements in practice and productivity
+• shared construction experience must be given to trainees during their education
+• focus research and innovation; integrate current research projects; improve information flow; invest in implementation
+• establish public relations channel; focus on productivity gains; highlight successes.
+2.7  The Egan Report, Rethinking Construction (1998)
+Rethinking Construction is the name of the report produced by Sir John Egan’s Construction Task Force. The report, commissioned by John Prescott, the Deputy Prime Minister, was published in July 1998. The central message of Rethinking Construction is that, through the application of best practices, the industry and its clients can collectively act to improve their performance.
+The Rethinking Construction report proposed the creation of a movement for change which would be a dynamic, inspirational, non-institutionalized programme to champion radical continuous improvement within the construction industry. The report led to further action to facilitate cultural change, with particular emphasis on the need for involvement of the whole of the supply chain. Another such change was the launch of the Movement for Innovation (M4i) in November 1998, which since 2004 has been part of Constructing Excellence.
+The report also encouraged recognition that the industry can and indeed must do much better. This led to M4i capturing 180 demonstration projects submitted by clients and contractors, which exemplified some of the innovations advocated in Sir John Egan’s report. Many of the demonstration projects did exceed Sir John Egan’s targets in productivity, profits, defects and reduced accidents.
+The report identified what can be summarized within the ‘5: 7 mantra’ as: five drivers which needed to be in place to secure improvement in construction; four processes that had to be significantly enhanced; and seven quantified improvement targets.
+Drivers for change
+1 committed leadership
+2 focus on the customer
+3 product team integration
+Improving the process
+2 partnering the supply chain
+3 product implementation 4	production of components.
+Construction time
+Predictability
+
+Productivity
+Turnover and profits
+To enable the construction industry to achieve the targets, radical changes were identified within the Egan Report. One such change was the replacement of traditional contract strategies with integrated supply chain-led strategies, such as design and build, alongside long-term partnering relationships based on clear measurement of performance and sustained improvements in quality and efficiency, which continued the theme from the earlier Latham Report.
+Key recommendations within the Egan Report were summarized by Bennett and Baird (2001) as follows:
+• The industry and its major customers need to rethink construction so as to match the performance of best consumer-led manufacturing and service industries.
+• Integrated processes and teams should be introduced as a key driver for change.
+• The industry should organize its works so that it offers customers brand-named products, which they can trust to provide reliably good value.
+• The industry should work through long-term relationships using partnering, which aims at continuous improvements in performance.
+• Benefits from improved performance should be shared on an openly fair basis so that everyone has real motivation to search for better answers.
+• Project teams should include design, manufacturing and construction skills from day one so that all aspects of the processes are properly considered.
+• Decisions should be guided by feedback from the experience of completed projects so that the industry is able to produce new answers that provide even better value for the customer.
+• Standard products should be used in designs wherever possible because they are cheaper and, in the hands of talented designers, can provide buildings that are aesthetically exciting.
+• Continuous improvements in performance should be driven by measured targets, because they are more effective than using competitive tenders.
+• The industry should end its reliance on formal conditions of contract, because in soundly based relationships in which the parties recognize the mutual interdependence contracts add significantly to the cost of projects and add no value to the customer.
+Indeed, this latter point was one of the more controversial comments made within the Egan Report:
+The Task Force wishes to see: an end to the reliance on contracts. Effective partnering does not rest on contracts. Contracts can add significantly to the cost of a project and often add no value for the client. If the relationship between a constructor and employer is soundly based and the parties recognize their mutual interdependence, then formal contract documents should gradually become obsolete. The construction industry may find this revolutionary. So did the motor industry but we have seen non-contractually based relationships between Nissan and its 130 principal suppliers and we know they work.
+In reality, this may be a step too far for many within the construction industry.
+The targets set by Rethinking Construction have been met by several major construction clients. However it appears that the benefits are not cascading down the supply chain. After achieving the necessary cost and time reduction for several years running without the anticipated increase in turnover and profits, there comes a time when contactors begin to wonder whether it has been worth the effort (comment from commercial manager of major contractor in 2004).
+The UK government policies have now increased the need for all public sector clients to fully implement the principles of Rethinking Construction which are now firmly established and recognized as best practice.
+Key performance indicators
+A key feature in the promotion and implementation of improvement targets demanded by Sir John Egan in his report, Rethinking Construction, was the creation of Construction Industry Key Performance Indicators (KPIs) in 1999. Over the years, the number of KPIs has grown considerably. Different suites are available for Consultants, M&E Contractors and Product Manufacturers. The Centre for Construction Innovation (CCI) through its ‘KPIzone’ also provides an economic suite with separate subsets of the data for New Build Housing, New Build Non-Housing, Repair and Maintenance and Refurbishment (Housing and Non-Housing), and Infrastructure. A separate suite of ‘social’ KPIs called ‘Respect for People’ are also available which evaluate organizational elements such as Health and Safety and Equality and Diversity. An Environmental suite measures KPIs such as Mains Water Use, Waste and Impact on Environment (see CCI website).
+The construction industry KPIs are published each year by Constructing Excellence using performance data collected from across the UK construction sector by the Department for Business, Innovation and Skills. The ‘KPIzone’ suite of products provide organizations of any size and from all sectors of the construction industry with an easy way of measuring and benchmarking performance against this national data (see kpizone within CCI website). The ‘KPI Engine’ allows users to benchmark their company and project performance against the construction industry KPI and, additionally, allows them to access a more sophisticated set of benchmarking and reporting options such as comparing their performance over time, between projects and against averages.
+2.8  Modernising Construction, National Audit Office (2001)
+This report identified how the procurement and delivery of construction projects in the UK could be improved. Its recommendations were made to four key groups: the Department of the Environment, Transport and the Regions; the Office of Government Commerce; line depart- ments commissioning construction projects; and the construction industry itself. The main recommendations are summarized as follows:
+The Department of the Environment, Transport and the Regions
+• provide more coordinated direction to initiatives to promote better performance by the construction industry;
+• use its influence as a member of the Movement for Innovation Board to ensure that demonstration projects are truly innovative;
+• develop more sophisticated performance measures; for example, indicators need to measure:
+• the operational – through-life – running costs of the completed building;
+• the cost effectiveness of the construction process; •	quality of completed construction;
+• health and safety indicators.
+The Office of Government Commerce
+• disseminate good practice more widely.
+• actively measure improvements in construction performance;
+• train more staff to be effective construction clients.
+The construction industry
+•	make greater use of innovation to improve public sector construction.
+The Modernising Construction report contained a number of case studies from different sectors which identified the following lessons learned: importance of pilot projects/client’s briefing and PM structures; integration of the supply chain from the outset; continuous improvement; change in staff attitudes; development of new processes and procedures; open policy/open book accounting; understanding each party’s objective; milestone payments can help; clearly understood problem resolution – bottom up; importance of skilled staff; keeping the project team together; partnering can reduce costs; importance of risk management, value management and value engineering; performance measurement; joint bonuses; modern methods of construction – prefabrication/just in time; involving contractor early in design process; site meetings should be more creative; and collaborative working produces better solutions.
+Appendix 4 of the Modernising Construction report contains an excellent review of partnering by Norman Fisher and Stuart Green from the University of Reading entitled ‘Partnering and the UK construction industry: the first 10 years – a review of the literature’.
+Better management of	Better integration of all stages in construction supply  	the construction process design, chains for example: planning and construction to designers, subcontractors,	remove waste and inefficiency 	Much more consideration specialist consultants,	of end users in design and
+materials suppliers 	construction of buildings
+Better Construction
+Performance
+Develop a learning culture	Move away from adversarial
+• Construction meets user on projects and within	approaches between the
+requirements and is fit for a organizations 	industry and clients
+• Lower through-life and
+Experience has shown that
+Better health and safety	operational costs	accepting the lowest price
+record 	•	Greater certainty over projects’	cost bid does not provide
+costs and time value for money and more
+• Elimination of waste in labour
+Longer-term relationships	consideration needs to be
+and materials between clients and	given to the costs and value contractors to promote	of a building over its whole
+continuous improvements	life and the quality of the
+in time, cost quality	Partnering between clients and 	contractors
+contractors to resolve problems collaboratively, to reduce project slippage and cost overruns and eliminate waste in labour and materials
+Figure 2.1 Better construction performance: what is needed?
+National Audit Office analysis of Latham, Levene and Egan Reports, reported in Modernising Construction (2001)
+2.9  The Second Egan Report, Accelerating Change (2002)
+Four years on from the Egan Report the Strategic Forum for Construction produced a followup report Accelerating Change. This report tackled some of the barriers to progress against the Egan targets and identified ways of accelerating that change.
+The vision of the authors was for the UK construction industry to realise maximum value for all clients, end users and stakeholders and exceed their expectations through consistent delivery of world-class products. The vision is being taken forward by the Strategic Forum for Construction (SFfC), a cross-industry/government body.
+The four key areas on which the SFfC focused were:
+2 integrating teams and supply chains
+4 enhancing the value of the product.
+Six headline targets were identified by the SFfC:
+20 per cent of construction projects (by value) should be undertaken by integrated teams and supply chains by the end of 2004, rising to 50 per cent by the end of 2007.
+20 per cent of clients should embrace the principles of the Clients’ Charter by 2004; target to increase this to 50 per cent by 2007.
+By 2006, 300,000 qualified people should be recruited and trained in the industry.
+By 2007, there should be a 50 per cent increase in applications to built environment higher and further education courses and by 2010 an increase in the annual rate of apprentice completions to 13,500.
+By 2010, there should be a fully trained, qualified and competent workforce on all projects.
+By the end of 2004, 500 projects should have used the Design Quality Indicators (DQIs). By the end of 2007, 60 per cent of all publicly funded PFI projects (having a value in excess of £1 million) should use DQIs and 20 per cent of all projects (having a value in excess of £1 million) should use DQIs.
+In essence Accelerating Change reinforced the challenges set out in Rethinking Construction calling for a most ambitious year-on-year improvement.
+2.10  Achieving Excellence in Construction Procurement Guides, Office of
+Government Commerce (2003)
+Achieving Excellence was launched in March 1999 to improve the performance of central government departments and other public bodies, following major failures in time and cost overruns. It aimed to provide a step change in construction procurement performance and value for money achieved by government on construction projects, including maintenance and refurbishment.
+The key thrust of Achieving Excellence was the delivery of value for money. This is not the lowest cost, but the optimum combination of whole-life cost and quality to meet the users’ requirement.
+The Achieving Excellence suite of procurement guides replaced the 1996 Construction Procurement Guidance series. The new series reflected developments in construction procurement and built upon government departments’ experience of implementing the Achieving Excellence in Construction initiative.
+The suite consists of 11 core guides together with two high-level documents. Electronic versions have hyperlinks across the set and to related products, such as the OGC Successful Delivery Toolkit and external websites. The significant OGC Gateway Process model is described in detail in the Achieving Excellence Guide 3 – Project procurement lifecycle.
+A – High-level guides
+Checklist for managers: supplements the Gateway Checklist for Managers. Provides a checklist of key questions that investment decision-makers should ask before approving a project and during its implementation.
+Pocketbook: provides step-by-step outline of the procurement process together with a summary of tools and techniques.
+01 Initiative into action: provides an overview of Achieving Excellence and the new procurement guides.
+02 Project organization – roles and responsibilities: provides detailed explanation of the key roles,responsibilities and skills required.
+03 Project procurement lifecycle: provides step-by-step description of the decision points andprocesses involved in the management of construction projects. It sets the project management procurement process in the context of Gateway Reviews. It explains what is done and when, who is usually involved and the information required to manage the project (especially the Project Execution Plan).
+04 Risk and value management: provides practical detail on risk and value management asessential tools for project success.
+05 The integrated project team – team working and partnering: provides a detailed descriptionof what needs to be done when selecting the team.
+06 Procurement and contract strategies: provides advice and recommendations on integratedprocurement routes (PFI, Prime Contracting and Design and Build) explaining when to use a particular procurement strategy.
+07 Whole-life costing and cost management: provides advice on producing whole-life cost modelsand explains what needs to be done to keep costs under control at key stages in the project.
+08 Improving performance – project evaluation and benchmarking: explains how to measureproject performance throughout the life of a project and explains how to use KPIs to measure and improve performance.
+09 Design quality: highlights the importance of good design in achieving value for money.
+10 Health and safety: identifies how clients’ decisions and activities impact on health and safetyissues.
+11 Sustainability: sets out the future strategy on the practicalities of sustainable constructionprocurement.
+The OGC (Achieving Excellence) case studies include the Birmingham Construction Partnership, Lincolnshire County Council Highways framework and the Derby Hospitals £333 million PFI scheme, details of which are available via the UK Government Web Archive.
+2.11  Improving Public Services through Better Construction, National Audit Office (2005)
+Part 3 of the report and the supporting case studies set out examples of good practice which have enabled organizations in both the public and private sectors to improve their construction delivery. The good practices have allowed the completed projects to be delivered on time and to cost, and have helped improve the quality of the final built asset.
+In addition the report recommended that government departments:
+1 create more certainty in the market, with longer-term funding and programme planning;
+2 strengthen their leadership of construction programmes and projects and put in place strategies for developing construction project management capabilities;
+3 engage fully with the Gateway process and obtain independent advice and challenge at the concept and business case stages when considering potential construction projects;
+4 consider the development of a sustainability action plan to cover all aspects of their construction activity;
+5 make decisions about construction projects based on sustainable whole-life value;
+6 make more transparent to suppliers the criteria for tender evaluation and make the most of their funding and purchasing power to influence suppliers’ behaviour;
+7 keep competitive tension in framework and partnering arrangements to provide greater assurance that construction costs represent fair value, and improve the effectiveness of contract strategies to manage better risk and maximize the opportunities for improved performance;
+8 encourage collaborative working through collaborative forms of contract and fair payment practices, and seek opportunities to pursue the case for project-wide insurance where appropriate and in agreement with their suppliers;
+9 evaluate the post-completion and occupancy performance of projects in terms of the Achieving Excellence strategic targets, whole-life value, including financial performance and the delivery of better services and sustainable development, and embed the lessons in future activity;
+10 should consider where relevant developing quantifiable cross-government strategic targets focused on sustainable construction.
+Additional recommendations were made to the erstwhile Office of Government Commerce advising them on the leadership and support that they should provide to all public sector organizations. The report also included a useful self-assessment tool in the form of a maturity grid enabling public sector clients to assess their readiness and capability to tackle construction projects and to target areas for improvement.
+2.12  “Never Waste a Good Crisis”, Constructing Excellence (2009)
+The subtitle to this report neatly conveys its aim: A review of progress since Rethinking Construction and thoughts for our future. The report concluded that there had been some progress since the Egan Report of 1998, but nowhere near enough. The 500 or so demonstration projects monitored by Construction Excellence and their predecessors did indeed show superior performance relative to the rest of the sector. However, this was against a backdrop of fairly entrenched behaviour, with many stating that the benefits of partnering did not reach the supply chain. Data from the Construction Industry’s KPIs introduced in 1998 overall showed some improvement to performance. However, on predictability the 2009 KPI data still showed only a 50: 50 chance that a project would come in on cost or on time, with client-approved changes accounting for half this variation.
+The ‘Executive summary’ challenged the industry to adopt a new vision for the industry based on the concept of the built environment and highlighted the importance of understanding how value is created over the whole life cycle of an asset, rather than simply looking at the building cost. The report considered that it was now time for the supply side of the industry to demonstrate that it can create additional economic, social and environmental value through innovation, collaboration and integrated working – in short, the principles outlined in Rethinking Construction.
+2.13  “Government Construction Strategy”, The Cabinet Office (2011)
+On 31 May 2011 The Minister for the Cabinet Office, Francis Maude, published the UK Government’s new Construction Strategy.
+It is claimed that the strategy will reform the way in which government procures construction across all sectors and, in doing so, will reduce costs by up to 20 per cent by the end of the parliamentary term, helping both the government and the construction sector. It will replace adversarial cultures with collaborative ones and will demand cost reduction and innovation within the supply chain.
+The report identifies that the right model for public sector construction procurement in the UK is one in which:
+• clients issue a brief that concentrates on required performance and outcome;
+• designers and constructors work together to develop an integrated solution that best meets the required outcome;
+• contractors engage key members of their supply chain in the design process where their contribution creates value;
+• value for money and competitive tension are maintained by effective price benchmarking and cost targeting, by knowing what projects should cost, rather than through lump sum tenders based on inadequate documentation;
+• supply chains are, where the programme is suited, engaged on a serial order basis of sufficient scale and duration to incentivize research and innovation around a standardized (or mass customized) product;
+• industry is provided with sufficient visibility of the forward programme to make informed choices (at its own risk) about where to invest in products, services, technology and skills;
+• there is an alignment of interest between those who design and construct a facility and those who subsequently occupy and manage it.
+Significantly, the report also indicated a commitment to embrace Building Information Modelling (BIM) for all Government projects by 2016. BIM is essentially value-creating collaboration through the entire life cycle of an asset, underpinned by the creation, collation and exchange of shared 3D models and intelligent, structured data attached to them (see BIM task group website). It is considered that BIM technologies, process and collaborative behaviours will unlock more efficient ways of working at all stages of the project life cycle.
+Use of BIM in construction
+BIM adoption in the construction industry varies quite widely. It is considered that there are broadly four stages on the adoption/maturity continuum. Bew (2011) identifies these as:
+unmanaged CAD (2D) with paper-based information exchange, resulting in poor data capture and analysis, which detract from performance improvement.
+where 2D or 3D CAD drives process with some degree of online collaboration providing a common data environment which helps with information consistency. Significantly, from a cost manager’s perspective, even at this level of maturity commercial data is still managed traditionally as stand-alone.
+which appears to be the highest level of adoption in the UK currently, is a 3D shared environment but with separate BIM models held by the different participants. Even in this shared environment, commercial data is still managed by a separate Enterprise Resource Planning (ERP) system with little integration to the BIM model;
+described as the ‘Holy Grail’ refers to a fully open process and data integration between all current systems, enabled by the industry standard IFC (Industry Foundation Classes) file format.
+Cost management under Stages 0 and 1 is largely traditional. However, as project teams progress towards the ‘Holy Grail’ more data will be at the disposal of the cost manager, implying more precision in assessments of cost. The full transparency and certainty that BIM provides on proposed developments implies more accurate quantities and elimination of risk, which in theory means that contractors would not have to price an extra margin for ‘unknown unknowns’ (Knutt, 2011). Ray Crotty in the April 2012 edition of Construction Manager also offers further insight on the impacts of Stage 3 BIM adoption. He refers to how perfect, complete, trustworthy and computable tender documents will result, which will drive efficiency in construction where bidders are compelled to compete on the basis of their ability to do construction work, not on their (mis)interpretation of incomplete documentation. In this environment every line item can be directly linked with a component in the model and priced explicitly, and every price can then be compared automatically and challenged as appropriate with no claims opportunities. Crotty suggests that this is what will drive Design for Manufacture and Assembly (DFMA).
+Clients’ requirements are also likely to be more long term in nature, with greater emphasis on maintenance, upkeep and refurbishment planning (Knutt, 2011), all of which implies that whole-life value is likely to become a prime concern of cost management practice.
+Some of the issues arising in this quest to be ‘BIM-enabled’ that will be of interest to the quantity surveyor/cost manager include the implications for professional indemnity insurance, project insurance, contracts, plans of work, information overload, challenges of cultural change, roles of data managers, and tendering and prequalification procedures. Some pilot projects and research initiatives are currently being implemented from which lessons are to be extracted with regard to key performance indicators, contracts, cost management and cultural changes required. However, significant progress has already been made in respect of some of these issues. For instance the Construction Industry Council (CIC) has developed a unified plan of work that is BIM compliant with data drops specified (indeed, the new RIBA plan of work also has a BIM overlay). What is also clear is that the need to adopt BIM and to ensure its effective deployment will mean moving away from traditional contracting that reinforces silo mentality, towards wider use of collaborative contracting strategies involving frameworks, target cost contracting and gain/pain share mechanisms which are supportive of a BIM environment (Knutt, 2011). Publicly Available Standard (PAS) 1192-2: 2012, which documents the delivery of BIM-enabled design and construction information, is also being introduced.
+Significantly BIM capability will be a feature of prequalification questionnaires, implying that the quantity surveyor will need to know how to differentiate between different levels of BIM maturity/capability and match these to the project needs.
+These are some of the key challenges that will confront the quantity surveyor.
+2.14	Infrastructure in the New Era, Constructing Excellence and Pinsent
+Masons LLP (2011)
+In 2011 Constructing Excellence ratified a ‘seamless team approach’ and confirmed three overriding principles for project success: (1) common vision and leadership; (2) collaborative culture and behaviours; and (3) collaborative processes and tools. Six critical success factors were also identified: (1) early contractor involvement; (2) selection by value; (3) aligned commercial arrangements; (4) common processes and tools; (5) performance measurement; and (6) longterm relationships. The findings of the report are shown in Figure 2.2.
+2.15  Reflections
+Many reports have been and will continue to be published on the construction industry. Indeed, as at the time of writing, a new report had been commissioned in the UK by an All Party Parliamentary Group for Excellence in the Built Environment on the performance of public sector clients in construction procurement, calling for a desperately needed ‘revolution’. All these reports have made a substantial contribution to the construction best practice body of know- ledge; they have identified the following key issues in order to improve the project management process:
+• leadership and commitment from the client’s senior representative;
+• involvement of the key stakeholders throughout the project;
+• roles and responsibilities clearly understood by everyone involved in the project, with clear communication lines;
+‘Working together in a seamless team to common objectives that deliver
+benefit for all through mutually beneficial (i.e., including commercial) alignment’
+Common vision and 	Collaborative cultures 	Collaborative
+leadership	and behaviours	processes and tools
+An absolute focus on the end 	Collaborative behaviours 	Adopting the processes and
+purpose based on a clear 	include teamwork and joint 	tools which support the understanding by all 	problem-solving. 	development of the
+
+participants of what represents Participants demonstrate 	collaborative culture and
+overriding	value for the client and end 	values such as trust, 	deliver benefits, such as
+Leadership needs to establish 	blame, honesty and 	platforms, open book
+this common vision and then 	transparency.	costing, lean and waste constantly relate progress by 	elimination, and project the project to this vision to 	bank accounts. reinforce the team’s goal.
+From the start, engage with all those who have a value contribution to Early 	make, including specialist contractors, manufacturers, commissioning involvement	consultants, facilities managers, etc. and pay for their input. Ensure no party has to implement decisions which they have had no part in discussing and developing.
+Select on quality, especially of the potential relationships, whole-life costs and benefits. Avoid historic (‘traditional’) procurement routes such Selection by 	as design-bid-build with lowest price tendering focused on upfront value	capital reduction. Appoint the best not ‘cheapest’’ and focus on out-turn cost and whole-life legacy value.
+Adopt commercial arrangements that underpin all the above principles: collaborative forms of contract (NEC, PPC, JCT CE), risk management
+and risk sharing, incentivization such as open book cost management,
+critical	commercial 	target cost with gain share, fair/prompt payment mechanisms (e.g. success	arrangements	single project bank accounts), project insurances. Avoid historic risk factors 	dumping forms of contract, exploiting suppliers on price, or late payments.
+Avoid duplication of roles and effort through e.g., co-location,
+
+extranets, Building Information Models and management.
+processes and 	value management and other lean techniques to eliminate all waste. tools	Pay on milestones, not monthly valuations, which are a wasteful process.
+Adopt client-focused Key Performance Indicators. Measure and review
+Performance 	throughout the project to indicate progress towards success and use a yardstick for continuous improvement activity. Include measures and
+measurement	reviews of behaviours as well as hard processes.
+Look for benefits of teams who have learned to work together efficiently Long-term 	by using standard supply chains, frameworks and similar tools rather relationships	than tendering every package every time. Minimize waste by working with people who have developed a culture of trust and inclusivity while understanding the need to continually question, challenge and improve.
+Figure 2.2 Collaborative working principles, Constructing Excellence, June 2011
+reported in Infrastructure in the New Era, 2011
+• an integrated project team consisting of client, designers, constructors and specialist suppliers, with input from facilities managers/operators;
+• an integrated procurement process in which design, construction, operation and maintenance are considered as a whole;
+• design that takes account of functionality, appropriate build quality and impact on the environment;
+• commitment to excellence in health and safety performance;
+• risk and value management that involves the entire project team, actively managed throughout the project;
+• award of contract on the basis of best value for money over the whole life of the facility, not lowest tender price;
+• commitment to best practice in sustainability.
+These factors challenge the industry to produce projects which achieve best value, with a need to understand the balance between quality and whole-life cost. The corollary to this is that cost management must also evolve to respond effectively to this challenge. Some of the emerging issues are considered in the chapters that follow.
+Identify the purpose of a contract.
+How do the contracts used within your organization score against Sir Michael Latham’s recommendations for a modern effective contract? Consider employer/contractor and contractor/ subcontractor.
+An international contractor wins a £50 million project for construction of a fast-track high rise city centre tower block from a major financial institution with whom they’ve worked many times before. The relationship between the constructor and employer is soundly based. The contract is contained in 120 words on one page, including just the name of the client and contractor, their addresses, the project name and location, the design documents, the start and completion dates, contract sum and the payment schedule.
+The client introduces changes and acceleration instructions throughout. The final cost of the project to the contractor is £60 million. The contractor argues that the contract should be valued on a cost reimbursement basis. The client’s retort is that the £50 million quoted was on a guaranteed maximum price basis.
+After 3 years of bitter negotiating the parties have still not settled and agree to go to arbitration. The lawyer’s fees for each side are £5 million and rising!
+Is this scenario possible? And how should it be resolved? You decide.
+Critically compare and contrast the OGC Gateway Process with the RIBA Plan of Work.
+OGC framework for construction procurement: 20110601212617; pp. 6–7 – accessed 20 December 2012.
+RIBA Plan of Work: Letters/RIBAPlanofWork2013ConsultationDocument.pdf – accessed 20 December 2012.
+Identify the changes to practices and procedures which have been made within your own organization (either employer, main contractor, specialist contractor or consultant) in the past decade.
+The document, WG1 Briefing the team, contains a checklist for construction productivity (see section 2.6). With the benefit of hindsight see if you can think of any other relevant items which are not included in the WG1 report.
+Critically review the lessons that the construction industry can learn from other sectors (contained within Rethinking Construction).
+Review one of the five Movement for Innovation (M4i) demonstration projects included in Modernising Construction (Appendices 9 to 13) and make a 10-minute presentation to your peers on the key recommendations.
+Critically review and identify the key lessons learnt in one of the ten case studies in the National
+Audit Office Report, Case Studies: Improving Public Services through Better Construction, 2005 and make a 10-minute presentation to your cohort – see  downloads/071015%20-%20Milton%20Keynes%20Walk-in%20Centre%20-%20JC.pdf – cited 23 September 2012.
+2.17 References/further reading
+Achieving Excellence in Construction (2003) Procurement Guides 01 to 11, Office of Government Commerce. Bennett, J. and Baird, A. (2001) NEC and Partnering: The guide to building winning teams, Thomas Telford. Bew, M. (2011) ‘Preparing for BIM bang’, Construction Manager, March, p. 12.
+Cabinet Office (2009) ‘Never waste a good crisis’: A review of progress since Rethinking Construction and thoughts for our future, Constructing Excellence: id=10886 and  – accessed 20 October 2012.
+Collaborative working principles (2011), Infrastructure in the New Era, Constructing Excellence and Pinsent Masons LLP:
+Construction Industry Board (1996/97) Construction Industry Board Reports, Thomas Telford.
+Construction Manager (2012) ‘BIM briefing’, Construction Manager, April, pp. 16–21.
+Dixon, M. (Ed.) (2000) Project Management Body of Knowledge, 4th edition, Association for Project Management.
+Efficiency Unit Cabinet Office (1995) The Levene Scrutiny, HMSO.
+Egan, J. (1998) Rethinking Construction: The report of the Construction Task Force to the Deputy Prime Minister, John Prescott, on the scope for improving the quality and efficiency of UK construction, London, Department of the Environment Transport and Regions Construction Task Force: excellence.org.uk/news/article.jsp?
+Knutt, E. (2011) ‘Building BIM’, Construction Manager, March, pp. 14–18.
+Latham, M. (1994) Constructing the Team: Final report of the government/industry review of procurement and contractual arrangements in the UK construction industry, HMSO.
+Lord, W. (2008) Embracing a Modern Contract – Progression since Latham? , RICS Construction and Building Research Conference, COBRA 2008, Dublin Institute of Technology, 4–5 September.
+National Audit Office (NAO) (2001) Modernising Construction, Report by the Comptroller and Auditor General, HC 87 Session 2000–2001: 11 January, London, The Stationery Office.
+National Audit Office (NAO) (2005) Improving Public Services through Better Construction, The Stationery Office.
+Strategic Forum for Construction (2002) Accelerating Change: A report by the Strategic Forum for Construction, chaired by Sir John Egan, Rethinking Construction c/o Construction Industry Council.
+UK Government Web Archive: studies_all_construction_case_studies.asp – accessed 26 August 2012.
+– accessed 20 December 2012.  (Government Construction Strategy):
+
+asp – accessed 26 August 2012.
+– accessed 22 November 2012.
+(Construction Clients Group).  (identifies and disseminates best practice).  – accessed 28 February 2012.  (National Audit Office).
+3	Selecting the consultants and contractors
+3.1  Introduction
+The client is the key member of any team engaged in a construction project and will need to establish means of acting efficiently within the team to ensure the success of the project. Responsibilities of the client are both legal and contractual and include:
+• appointment of consultants and contractor(s);
+• health and safety under the CDM regulations;
+• defining and specifying the outcomes required from the project;
+• providing payment to contracted parties for services provided.
+The client may also wish to consider at the outset of the project how many of the client’s responsibilities they may wish to delegate to the consultant/construction team, e.g. through the appointment of a client’s representative, the delegation of design or cost decisions or the entire transfer to others by means of a financing agreement to construct and manage the project.
+It’s unwise to pay too much, but it’s worse to pay too little. When you pay too much, you lose a little money – that is all. When you pay too little, you sometimes lose everything, because the thing you bought was incapable of doing the thing it was bought to do.
+The common law of business balance prohibits paying a little and getting a lot – it can’t be done. If you deal with the lowest bidder, it is well to add something for the risk you run. And if you do that, you will have enough to pay for something better.
+It is now a UK Government requirement that all public sector procurement should be on the basis of value for money (VFM) and not lowest price alone; this philosophy applies to the selection of both consultants and contractors.
+The recommendations require that robust mechanisms should be developed to evaluate the quality and price, including whole-life costs, in a fair and transparent manner. Selection procedures are also required to comply with the EU procurement rules where these are applicable.
+There are three separate stages in the appointment process of consultants and contractors:
+Stage 1 – the initial stage
+During the initial stage it is necessary to identify what the consultant or contractor should do under the contract, consider the selection options – including open, selective or negotiated, identify specific health and safety requirements, develop the contract requirements and, in the public sector, consider the EU Procurement Directives.
+Stage 2 –the selection process
+The second stage involves setting the selection and award criteria, inviting expressions of interest, developing a longlist and reducing to a shortlist. In the public sector this will involve advertising in the Official Journal of the European Union (OJEU) – formerly known as the OJEC. On major projects this will normally involve the compilation of a pre-qualification questionnaire.
+The selection process will involve the following stages:
+• establishing the selection criteria;
+• developing the weightings for the selection criteria;
+• identifying, where appropriate, the thresholds for the selection criteria;
+• establishing the selection mechanism;
+• inviting expressions of interest/drawing up a longlist;
+• drawing up the shortlist.
+Stage 3 – the award process
+The third stage involves interviewing and inviting tenders, evaluating tenders, negotiating and awarding the contract and finally debriefing all tenderers.
+3.2  Selecting consultants
+Consultants and client advisers provide the foundation on which a successful project is constructed. Depending on the client’s in-house resource, selected consultants could provide the following functions:
+• design services (a single organization could be responsible for all design duties, with other designers appointed as subcontractors; alternatively different organizations could be appointed for each of the key disciplines, with the project manager responsible for managing and controlling them);
+The consultant’s brief should describe the services that the consultant is required to carry out precisely. These are dictated by the strategy adopted and whether the services are to be provided individually or in combination.
+The project sponsor must also ensure that any authority delegated to the project manager is carefully defined particularly in connection with:
+• ordering variations and making changes;
+• certifying interim payments;
+• granting extensions of time;
+• settling claims; and •	agreeing final accounts.
+Developing the model for selecting consultants
+Establishing VFM has as much to do with the quality of goods and services as with their price. But there must be a sound basis for evaluation and judgment.
+Sir Michael Latham in his 1994 report Constructing the Team stated that, ‘professional consultants should be selected on a basis which properly recognizes quality as well as price.’ Working Group 4 of the Construction Industry Board was established to choose and endorse a quality price assessment mechanism for appointing professionals – including architects, engineers, surveyors and project managers.
+The principal features of the quality/price mechanism recommended in this report are summarized as follows:
+1 The quality/price mechanism should be established by a formally constituted and fully accountable tender board before tenders are invited, and all tender documentation should be designed to ensure that appropriate responses are received to which the mechanism can be applied.
+2 A quality/price ratio must be agreed at the outset, representing the percentage weightings to be given to quality and price. The more complex the project, and the greater the degree of innovation and flexibility likely to be required from the consultants, the higher the ratio should be. Indicative ratios suggested for various types of projects are:
+Type of project	Indicative quality/price ratio Feasibility studies and investigations	85/15
+Straightforward projects	50/50
+3 Quality criteria should be grouped under four main headings and weighted. Recommended headings and suggested weightings are:
+Quality criteria	Suggested weighting range
+Practice or company	20–30% Project organization	15–25% Key project personnel	30–40%
+4 A quality threshold needs to be established (e.g. 65 out of 100). Tenders must achieve this minimum quality score before final interviews are held and prices considered.
+5 Submitted tenders are assessed for quality by marking each of the four quality criteria out of 100, multiplying each mark by the respective weighting percentage and then adding them together to give a total score out of 100.
+6 Consultants passing the quality threshold (ideally only two to three) are then interviewed, their quality scores are reviewed and their prices examined and marked. The lowest compliant bid scores 100 and others score 100 minus the percentage figure by which their bids exceed the lowest price (e.g. a bid 25 per cent above the lowest bid scores 75).
+Suggested weighting ranges for project-specific quality criteria are illustrated in Table 3.1.
+Table 3.1 Project-specific criteria
+Key aspects
+(marked out of 100)
+Practice or company
+Professional indemnity insurance
+Commitment and enthusiasm
+Workload and resources
+Ability to innovate

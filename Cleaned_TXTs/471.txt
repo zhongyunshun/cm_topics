@@ -1,0 +1,121 @@
+An analysis of contractors' approaches to risk identification in New South Wales, Australia
+To cite this article: D. Bajaj , J. Oluwoye & D. Lenard (1997) An analysis of contractors' approaches to risk identification in New South Wales, Australia, Construction Management & Economics, 15: 4, 363-369, DOI: 10.1080/014461997372917
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (1997) 15, 363± 369
+An analysis of contractors’ approaches to risk identi® cation in New South Wales, Australia
+Faculty of Design, Architecture and Building, University of Technology, Sydney, PO Box 123, Broadway, NSW 2007, Australia
+Received 3 December 1995; revised 17 October 1996
+This study addresses the process of risk identi® cation at the tendering and estimating stage, which is the ® rst stage of the risk management process, and for the risk management process be of bene® t and for the project objectives to be achieved, the risk identi® cation stage should be very detailed and thorough. The aim of this study is to identify, investigate and evaluate the process of risk identi® cation at the tendering and estimating stage for construction contractors in the NSW region. The data for this were collected during the months of December ’94 and January ’95 using a sample survey of a cross-section of 19 construction contractors, and the results were analysed using frequency distribution. The results show that the most frequently used methods of risk identi® cation are the top-down approach techniques, where the project is analysed from an overall point of view. Techniques based on top-down approach lead to guesswork in terms of contingency for risks accepted by the construction contractors. Bottom-up risk identi® cation techniques are not popular except for a questionnaire and check-list approach. Also, it was unlikely that the contractors would discuss risk allocation with the clients. All the contractors interviewed agreed that when a risk identi® cation process is followed it improves the accuracy of their estimates.
+Risk identi® cation, estimating, tendering, contractor
+Introduction
+This study addresses the process of risk identi® cation at the tendering and estimating stage, which is the ® rst stage of the risk management process, and for the risk management process to be of bene® t and for the project objectives to be achieved, the risk identi® cation stage should be very detailed and thorough. Al-Bahar and Crandall (1990) de® ned risk identi® cation as ©the process of systematically and continuously identifying, categorizing, and assessing the initial significance of risks associated with a construction projectº. Toakley and Ling (1991) reported that if a risk is not identi® ed it cannot be controlled, transferred or otherwise managed, and therefore risk identi® cation is a necessary ® rst step before risks can be analysed and an appropriate response can be determined. While it is true to say that most projects contain a number of reasonably standard and recognizable risk situations,
+each new project requires careful and individual consideration.
+A realistic estimate of the ® nal cost and duration of the project is generally required as early as possible. At that stage all potential risks/uncertainties which can affect these estimates, and act as constraints on the project, also should be identi® ed. The risk identi® cation process is bene® cial as it focuses the attention of project management on strategies for the control and detection of risk; this will highlight those areas where further design and development work is needed. Risk identi® cation is a dif® cult task, because there are no unerring procedures which may be used to identify construction risks. It relies heavily on the experience and insight of the key project personnel.
+Al-tabtabai and Diekmann (1992) state that the primary basis for identifying risks is historical data, experience and insight. However, each construction project is unique, and similar risks may not recur on similar projects. Toakley and Ling (1991) reported that to aid in risk identi® cation many ® rms have compiled checklists, which are simple catalogues to help prevent risks being overlooked. If such data are to be useful, they should be reasonably detailed.
+The risks have to be identi® ed and should be critical, otherwise the whole exercise is a waste of resources. If non-critical risks are identi® ed, analysed and responded to, the process is followed, but the critical risks have not been considered, and this could have a major impact on the project outcome. Thus the contractor is exposed to the risks without realizing.
+Hertz and Thomas (1983) described risk identi® cation as equivalent to risk diagnosis. During this stage, seek to reduce the uncertainty, in descriptive terms, about the identity and potential impact of the key variables that characterize risk in the problem situation under consideration. A number of approaches to cope with uncertainty, including ignoring its existence, have been successful up to a point, but all seem to fall short of the mark in one way or another.
+The process is said to be one-off for each project and the risks are unique too, depending on the circumstances. In order to cover a whole spectrum of risks that might be present during the execution of a construction project, there has to be some process by which the uncertainties relating to a particular project can be identi® ed at the estimating stage, keeping in mind the lack of information and lack of time as the biggest constraints.
+The risks could be identi® ed by a number of methods. Most risk identi® cation methods today rely on experience gained during similar projects in the past, and if no one has had experience of a similar project, then it is important to assemble a group of suitably quali® ed people for a brain storming exercise.
+There are some risks which are unique to a project. Historical records will not automatically imply new areas of risk (Ashley, 1989). This is where hindsight will not be of much use, and at this point it is foresight that is needed. The two should not be mixed. There is always a danger in the use of hindsight bias at the risk identi® cation stage (Ashley, 1989). Thus, when a decision is based on hindsight, the decision maker assumes that the situation was inevitable and the event could not have happened otherwise (Florovsky, 1969).
+For accurate analysis the identi® cation process is very important (Uher, 1993): in fact, it is believed that the main bene® ts of risk management come from the identi® cation rather than the analysis stage.
+Simister (1994) conducted research among expert state-of-the-art practitioners of project risk analysis and management (PRAM) in the UK during 1992. The principal purpose of the research was to provide project managers and their clients with practical information on PRAM. Practitioners were from a wide range of industries and used PRAM actively in their projects. The results showed that the simplest of all the techniques (checklists) is the most favoured, and is in heavy use.
+The present work aims to identify, investigate and evaluate the process of risk identi® cation at the tendering and estimating stage for construction contractors in New South Wales, Australia. Speci® cally, the objectives of the study are:
+to identify the in¯ uencing factors in the building contractors’ decision to bid or not to bid for a project, and also to identify the in¯ uencing factors in the building contractors’ markup size decision; to examine the building contractors’ approach to the process of risk identi® cation during the tendering and estimating stage; to examine the risk identi® cation techniques used by building contractors during the tendering and estimating stage; and to investigate the level of awareness of the bene® ts of risk identi® cation at the tendering and estimating stage.
+The data for this study were collected during the months of December 1994 and January 1995 using a sample survey of a cross-section of 19 construction contractors. The questionnaire was designed to be completed by appropriate chief estimators of the companies. The technique used by Farinan et al. (1994) was also applied to this paper, i.e. copies of the questionnaire were sent to construction ® rms selected from the Sydney region yellow pages telephone directory. The chief estimators of the companies were contacted ® rst by telephone to obtain their commitment, and later sent a copy of the questionnaire. An appointment for a face to face interview was then made. The responses of the selected contractors to a number of questions in a standard questionnaire were collected through face-to-face interviews with these chief estimators.
+Data analysis and result
+Company characteristics
+A summary of the company characteristics is shown in Table 1.
+Table 1	Characteristics of the companies surveyed
+
+Years of operation
+Annual turnover (A$M) 1990
+Company tender(%)
+Design and construction
+Construction only Scheduled rates
+Fixed price
+
+Of the 19 building contractors interviewed, the average time of operation was 36.7 years, with minimum time of operation being 6 years and maximum time of operation being 85 years.
+The average contract sizes executed by the respondent building contractors’ in NSW, expressed in millions of dollars, is shown in Table 2. An average contract size of A$1± 5 million was the most frequent, reported by about a third of the companies interviewed, and the maximum average contract size, of over A$20 million was reported by about one sixth of the companies. For half the respondent companies the average contract size was A$5 million or more.
+Table 3 shows the trends in company annual turnover for 1990± 1994. However, one can see that the average turnover of the companies is decreasing over the early part of the decade, which could be related to the recession and to increased competition for work by contractors based outside NSW.
+The 1990± 91 annual turnover of the respondents rose by 1.4%, but fell by 18.8% in 1991± 92, and by 10.67% in 1992± 93. The reasons for 1991± 92 are a slow down of the economy in building activity during 1990± 91, averting a recession and achieving a soft landing.
+Both the cyclical and long-term components of building activity are in¯ uenced by economic factors that affect the decline in the 1991± 92 annual turnover of NSW building contractors.
+Table 4 shows the percentage of work subcontracted on an average project and from this and Table 1 it can be seen that the majority of work subcontracted is within the 75± 100% range. However, one contractor was engaging directly employed labour and tradesmen to perform majority of work on site.
+To obtain a pro® le of the companies which participated in the research, company specialization details were asked for as part of the survey. As shown in Table 5, all of the respondent companies had one of the type of project in common: building (non-housing). There was no company as part of the survey which specialized only in industrial or engineering type projects, although there were companies which executed those projects as part of a diverse portfolio. The results are shown in Table 5. The other category of Table 5 is for all the four specializations, i.e. housing, building, industrial and engineering.
+Table 2	Average sizes of contracts undertaken by the companies surveyed
+
+(millions of A$)
+Table 3 Average turnov the companies surveyed
+Table 4	Details of work subcontracted
+Table 6 Method of estimate preparation at the estimating and tendering stage
+BOQ given by client
+BOQ prepared in house
+Percentage of work
+
+Table 5	Specialization of th
+No. of	% response
+
+Industrial (power plants, etc.)
+Engineering (highways, etc.)
+Housing and building
+Housing, building and industrial
+CM and PM consultancy
+half of the companies specialize only in building (nonhousing), which are those with a reduction in work due to the recession and more particularly to commercial building, due to oversupply of of® ce space.
+It is evident that in NSW about half of the contractors are in building (non-housing) construction, which is commercial building construction and about a third are in either housing or engineering in industrial type construction. The rest of the contractors are `others’, which all of the respondents mentioned being construction management and project management consultancy.
+On the question of how does the company prepare an estimate for a project at the estimating and tendering stage, most companies mentioned more than one response, because the selection of the process depends partly on the client as well. A summary of the estimating practices of the companies is given in Table 6, which shows the process of estimate preparation at the estimating and tendering stage. The research shows that about two thirds of the companies prepare an estimate based on the bill of quantities (BOQ) provided by the client. A similar two thirds of the companies prepare an estimate based on a BOQ prepared in house. These ® gures show that still there is no particular process for estimate preparation which has a consensus among the decision makers.
+A BOQ prepared by the builder’s consultant and the preparation of builder’s bill was the response of about two thirds of the companies.
+Cost plan (elemental) as one of the methods of estimate preparation at the estimating and tendering stage that would integrate and provide better understanding of the project complexities and bottlenecks. As can be seen from Table 6, based on the survey this method is the least popular approached. About half the respondents have used the approach on some projects. With an elemental cost plan approach the risks relating to the construction phase could be quanti® ed with more con® dence, both in terms of time and cost, which is the objective.
+Comments by respondents
+The following are samples of the many comments that were made by the respondent companies interviewed, and have been selected to re¯ ect the respondents’ description of the in¯ uencing factors with regard to the bidding decision making process. Data for Tables 7, 8 and 9 were collected through open ended questions in the questionnaire survey used during the interviews, and the researcher grouped the responses into categories. Data for Tables 10 and 11 were collected by respondents ticking pre-de® ned categories in a questionnaire survey.
+The respondents were asked to indicate in¯ uencing factors that they thought were affecting their company’s decision to bid/not bid. Some of the factors they mentioned are:
+3. type of project, 4. management, and
+Table 7 reveals that the type of project and tender are the most important factors that affect a company’s decisions to bid or not bid and have the most important ranking.
+The respondents were asked about the in¯ uencing factors that affect the company’s decision on whether to bid for a project or not. A summary of the results, with ranking of the factors, is shown in Table 7.
+Table 7	Factors in¯ uencing a company’s bid/no-bid decision
+
+Type of project
+Among the factors listed the type of project, including suitability of project to the company business plan, and tender related issues, including tendering procedure, number of tenderers, time to tender and load of the tendering department, tender selection criteria, tendering organization or client, ranked the highest in terms of the number of respondents mentioning them.
+Finances, was ranked second, which includes the client ® nance guarantee, the ® nancial status of the client, project funding, and the amount for security or guarantee by the contractor.
+Contract related issues including contract conditions and quality of the documentation were ranked third with management related issues including current workload, availability of the key construction personnel within the company, and management experience on the type of project.
+In Table 8 the respondents were asked also to indicate factors affecting percentage markup decisions. The following comments have been selected to re¯ ect the respondents’ description of the factors in¯ uencing the markup decision making process. The factors are:
+3. type of project,
+Finance was ranked number 1, while risk taking was ranked number 4.
+The factors in¯ uencing the company’s project markup size decision are shown in Table 8. Finance is the most important factor in terms of number of respondents mentioning the factor, while contract is the second in the ranking, followed by type of project, client and risk taking. It should be noted here that risk taking factor is generally based on guesswork and the experience of the decision maker, and not on any scienti® c method in the majority of the cases.
+The current process of risk identi® cation at the estimating stage is by risk review of the project by senior company staff, with the number of staff depending on the size of the project. Risk review includes all different sources of risk being assessed, and is the ® rst rank among the different processes. Table 9 below shows the different processes and their ranking.
+Risks are identi® ed also by contact, which implies discussion with subcontractors on the pricing and speci® c dif® culties, the architect and also the client on the requirements of the project.
+Research is another means of risk identi® cation, with research on specialized trades for inside information. Research also involves client information and personnel supervising the project, construction industry based general research, economic climate, etc.
+Site visit received equivalent ranking to research. However, one can see that a site visit report is important in risk identi® cation, because during the site visit a lot of problems can be resolved. Furthermore, a site visit also clears up issues relating to traf® c problems, ease of access, obstructions, location, etc., which will have some bearing on the pricing and contingency allowance.
+Finance was ranked fourth in the list; it consists of ® nancial issues regarding payment and obligations, etc.
+Table 10, lists the results of the company procedure for the process of risk identi® cation. As implied in the results in Table 9, risk review is performed internally by senior staff of the company. The result is reinforced by the company approach to risk identi® cation, as shown in Table 10, where the opinion of one or two experienced persons within a company was the method used by over three quarters of the respondents. Circulation of information of tender to a team of persons was the second highest response (also over Table 8 Factors in¯ uencing a company’s markup decision
+
+Type of project
+Table 9	How risks are id
+enti® ed by the comp
+
+Table 10	Company procedure for risk identi® cation
+
+By circulating information about tender to team of persons
+Judgement of the estimator only
+Opinion of 1 or 2 persons experienced within company
+Opinion of external consultant(s)
+Brainstorming
+Tender review by departments and their joint meeting
+
+three quarters), and about two thirds of the companies left it to the judgement of an estimator alone. The opinion of external consultants, brainstorming and tender review by departments and their joint meeting were used by half the companies. The results show that there is no single or preferred approach by any company: methods vary with the circumstances.
+Of the risk identi® cation techniques used by the companies, the two top-down approaches were ranked the highest (Table 11). Among the bottom-up approaches, the questionnaire plus check-list approach and scenario building were the most likely to be used, and just over half the companies use them. This is in line with Simister’s (1994) ® nding that a checklist approach is the most favoured PRAM technique among expert practitioners in the UK.
+Table 11	Risk identi® cation technique used by the companies
+Financial statement method
+Flow chart approach
+Top-down approach
+Case based approach
+Summary of the main results
+Most of the ® ndings of this survey are not unexpected, but some of them are important and need to be emphasized. The two most important ® ndings are as follows.
+An annual turnover with a low coef® cient of variation equates with a low risk per year; the probability is that the more a company’s coef® cient of variation increases the greater will be the risk exposure of the company.
+General contractors are heavily dependent on the performance of the subcontractors for long term success, and they spend a great deal of effort to obtain good reliable subcontractor bids. They also try to maintain good relationships with responsible subcontractors.
+All the techniques of risk identi® cation rely on historical information and any previous similar experience of the person/company involved. Most authors on the topic have emphasized that no matter which technique is used for risk identi® cation, it should be a group exercise rather than conducted by an individual, as the experience of an individual can be limited: if the person concerned has had experience mostly of incident-free projects then the risk identi® cation will tend to be optimistic, and vice versa.
+In choosing which approach to take, it would be important to employ bottom-up techniques: these lead to a better detailed assessment of risks because they force the decision-maker to think the project through from the start and in ® ne detail. However, it could be that some of the techniques in a bottom-up approach would fail to lead to suf® ciently comprehensive risk identi® cation, and then a combination of techniques would be needed.
+The ® nancial statement method can warn of the possible losses based on a single experience, but therefore would not help in any detailed risk identi® cation, unless all the ® nancial information could be stored up to the activity level of detail, which is outside our present interest.
+A ¯ ow chart approach can have the advantage of looking at the processes in which the company is involved, identifying the risks within each process, and then relating them back to the project. It could be applied to any type of project.
+The questionnaire and check-list approach utilizes the experience of the experts as a collective group approach, or as a Delphi approach where each expert is consulted individually. The possible risks are identi® ed in a questionnaire in which the items are based on previous projects or expert judgement. At the same time a check-list of possible bottlenecks or risks or processes to study can be prepared which serves as a backup to help ensure that we have not left out any risk(s). A combination of questionnaire and checklist is a good approach which should ensure that the risks are identi® ed: both from hindsight and from foresight. It will be a good approach for both normal and complex projects where there is a precedence of similar type. For ® rst-time projects (no preceding similar project) the questionnaire would have to be of a generic type and so would the check-list.
+Scenario building is again an approach where the risks will be identi® ed from past experience. The difference between this approach and the others is the way the risks are identi® ed and treated. The project process is looked at from two extreme scenarios, which will hopefully cover the full range of variation in project outcome. This way the risk consequences are looked at in the whole scheme of the project or whole process.
+The authors express their gratitude to the referees for their helpful comments regarding the structure and content of this paper.

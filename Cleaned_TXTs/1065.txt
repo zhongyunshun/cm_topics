@@ -1,0 +1,148 @@
+﻿Construction Management and Economics, 1991, 9, 383—400
+Relationship between value and duration of construction proj ects
+AMMAR KAKA and A.D.F. PRICE
+Department of Civil Engineering, Loughborough University of Technology, Loughborough LEI 1 3 TU, UK
+A strong relationship exists between the cost and duration Qfconstruction projects. This relationship can be used in contractors' budgeting systems and the corporatefinancial model developed at Loughborough University (Kaka, 1990). The client can use this relationship to estimate the approximate duration of a project and compare it with the proposed ones.
+Two samples were collected to model this relationship. Sanzple 1 contained 661 building projects with u total value exceeding {695 million, which included all types Q/ commercial, industrial, residential and public projects. Sarnple 2 included 140 road contracts with a total Dalue exceeding fl 20 million.
+The arerage ratio Qfactual time to the agreed timefor road work is } .0351. The ratio varies between a maximum value 2 and a minimum of 4. The following stage Qf the analysis involved modelling the relationship.for civil engineering and d$fferent types ofbuilding contracts. The r wo samples were classified according to type ofprqject,.form of contract and type of competition. Seven groups were modelled and tested visually.jör the difference in these relationships. The type Q/competition was.found to have no effect on the relationship. Finally. six groups were modelled and the results d the constants of the relationships arc listed. Public buildings and civil engineering projects were shown to accurately, while private buildings varied considerably. Interesting conclusions were drawn on the logic behind these differences.
+Cash flow, construction, time, performance, duration, regression, budget, cost.
+Introduction
+The corporate financial model developed at Loughborough University predicts future cash flow by simulating the number of contracts expected to be won during the coming years. The contracts are dcfined by several criteria, including thc total value and duration.
+A strong relationship exists between the cost and duration of a construction project. This relationship has been investigated and is used in the corporate financial model. The relationship is also useful for thc budgeting system of any construction company. The contractor can classify projects based on value and the model will evaluate duration based upon the corresponding factor.
+There are other potential applications for the relationship between the cost and duration of construction projects. Investors can utilize this relationship in their financial appraisal and budgeting. Also, estimates of project cost could be used to derive the expected duration and vice versa. These can then be compared with proposed durations and used as a basis for negotiations.
+Finally, it is interesting to compare the duration performancc of different types of projects and possibly identify the causes of delays.
+0144 6193/91 $03.00+.12	1991 E. & F.N. spon Ltd.
+Previous work
+The need for the evaluation of pcrformance of buildiii± contracts arose in the late 1960s. In 1967, the Commonwealth Scientific and Industrial Research Organization undertook a pilot study on the perfornnance of building contracts. This was the first step in a largc: • programme o! research into thc structure of the building industry, The results published in the Annual Report of the Division of Building Research (1968) showed that thc extent of change, as uneasured by constructioü d'_lration, costm numbcr and value of variations. was in fact larger than had previously been supposed. A fuRer  a larger number of projectsn subsequcntly pcrforme,d- [n 1969. Bromilow published thc results, and the first rclationship bcqween cost and dura_tion or building contracts appeared. A total of 329 building projects with a total value exceeding 270 milli_0ü Australian dollars (AS) were analyscd. Thcsc projccts werc conducted in Australia during the period betwccn Junc 1964 and June 1967. First, the expected duration of each project was compared with thc actual, The projects we(S classified according to the typc of building and the arca in which they wcrc to be built. ("ne Tcsults showed that only onc contract in eight was completed on or before the date originally expected and thc overall average extra time taken exceeded 40% of thc original. This was far worse than expected. The second oart of the work was thc build-up of the relationship between thc actual construction cost of the building and the time taken. The equation describing the avcrage construction duration as a function of project value w•as found to be:
+where 7'—duration of construction period from  of site to practical completion measured in working days; C —final projec! value in AS millions adjusted to a cost index; K — a constant describing the general level of duration performance for a ASI million project; and 8 constant describing 110M,' the duration perfonnancc is affected by project size as measured by value. Ali of the projects were analysed together and K swas found to have a value of 350 working days. -31ue of 0.3?
+A tneasure of the extent to which the petforrnance of individual projects has departco from the mean trend was shown in the fogrn of quartile limiis. By dcF,aition, 50% of projects fall within this ba_nd. Of the remainder, half took less than 0.8 of thc average duration and half took Il .3 times longer than the average duration. T ile effect of the type of building or thc location of the buildings was evaluated by ana}vsäng  in morc detail. It was concludcd that the tilne actually taken to construct buildings of a givea valuc did not depend very strongly on the typc of building or its location. However, this conclusion conflicts with the report Faster Building for Commerce (NEDO, 1988), which showed thÜt for commercial projects of the 'Rame value, the duration performance for different types of projects varicd significantly
+Broiniåow et al. (1980) re-studied the relationship betv,cen the value and duration performance of building contracts in order to determine whether the above relationship hcld. The survey, conducted by the Anstralian Institute of Ouantity Surveyors, was carried out on building projects completed in the period 1970--76. The number of projects analysed was 408, of which 290 were government. projects and 118 were private oncs. Thc results showed that the relationship between construction uucation and 13T0ject cost in thc 1960s still holds.
+The amount of timc Fequired.	gneasured by values of K, increased markedly from an
+average of 248 working days before 1969 to 288 during 1970—76; C was measured in AS millions at 1979 prices. The time required for government projects as a whole averaged 22% longer than expected and private projects averaged 10% longer.
+Values of B did not change significantly, indicating that the rate of change in duration as projects got bigger was still much the same as it was previously. The extent to which projects varied above and below the trend lines did not change significantly, although there was some suggestion of greater variability than before.
+Bromilow et al. (1980) concluded that the industry should take note of the reported changes, but the high degree of industrial instability over the observed period suggests that their practical use calls for some care in their interpretation.
+New information
+In order to build the corporate financial model to a standard that could be applied and tested in a present British construction company, a new relationship was required. The outdated information involved in the aforementioned work and the problem of different countries and currencies, undermine the use of these models. In order to reduce the possibility of systematic errors in the model, other criteria were proposed to classify projects into several groups. The effect of these criteria on the relationship was evaluated and several relationships were modelled. Four criteria were proposed:
+Type of client  public,  private.
+Type of project
+• open competition,
+• selected competition,
+There were no data available on cost plus tenders and no further classifications were needed, as the corporate financial model does not classify contracts in more detail. For the other explicit uses of the value vs duration relationship, the data may be classified further, but with the cost of having less numbers of contracts in each group. The decision on where to collect the data from took some time. There was a large and tempting source, of data available through the Building Cost Information Service produced by the Royal Institute of Chartered Surveyors. More than 600 different building projects were available and classified according to several criteria including the four proposed above. However, these data were based on the stipulated and agreed durations of the contracts but not the actual durations. All the figures presented were based on tender values. Further study
+was required in order to decide Q'dhcther to use thcsc data or to choose another source that could take Knore effort while achieving srnailer samples and possibly similar resultsInvestigations of the two previous studies sho»jc-d tha' the major cause of the high variation between actual and expcctcd duration performance •pvas associated with clients failing to make up their quickly cnougli. Obvionsly. most variations involved time delays, in addition to higher costs. Thus, as timc pacreascs. the other side of the eauation (vall_le) will also increase.
+Consultations with quantity surveyors indicated that the agreed duration of a contract will not change unlcss thcrc are significant variations to the project. delays that arc caused by the contractor or su_lbcontractors arc usually liable to penalties. f herc also suggestions that tirnc delays, such as those associated in thc past with claims and disputes, are not as emerious today it was decided to use this source of data t,üt at the samc collect another sainp\! that included the actual and the agrocd (tender) values. As the present sample includcd only building projccts. engineering projects were col! cctcd for the second sample. A test. on thc diffcrcuce between actual ana estimated valueiö roy civil engineeriug. Drojects should eva; uate, the reliability of using cs•lnnatcd valucs and durations for both
+Building projects are more accurate to prcdict than civil cagineering orojccts. which are more badly affected by weathc: e" and ground conditions.
+'l'he survcy was conductcd on projects starting within the r•eriod 1984--89. Actual values mav not rc•ftect thc true total cost or some projects due to outstanding claimsn etc. Hence, only contracts completed without maior outstanding cla_ims were collected. 'l'his reduced thc size of thc samplc- as the collected projects wcre all recent
+Tcn county councii offices participated in providing the required data A totåå of 140 projects were collected from their departments of Hizhways end Plannino or Planning and Transportation, zwith a total value exceeding €1 20 million.
+The first sample contained 66! building projects With a total valuc exceeding €69 s million. which included all types of coma-„ercial, industrial, residential and public work• Projects starting bcforc January 1984 rejected. The structure of the sa-rnphcs in tcitns of value and Yiilrnbcr of pf0jects by type of clicnt and type of tender is show-a iü are also shovvri in percentage f0fi7. and Fig. 1 . Negotiated tenuers also included two-stage tenders. as the processes are and the nurriber too small to bc considered separately.
+The adiusted forms of contract included all types of formulae of full and single indices. Comparing this with thc Wood Repoit (NEDC. 1975) (Tal-dc 3) rcveals that in both Deriods the most  way for lender is the selected terider. especially for civil en Tineering projects. This is not surprising, considering all public sector clicrts folhn • the code of ter.dcr_ing practicc issued by the NJC'C. which rccommends selective tender i n; However, negctiated and two-stage tendcrs are shown to have bccn more in the 1970s than in the 1980s.
+The va_lve of the projects investigated has been totalled for cach type and the results compared with the value of all orders for that type over the samc pt%0d (Royal I n stituic of Chartuzd Surveyors, 984--88 Tab! e å sli0€vs that sample includes a proportion of PUNic projects thar\ privatc- "f'hc survcy conducted on sample 2 achieved a rca.sonablc portion of the industry. Although the total number of projects invcstigated represents aporoximatcly 0.81 0/0 of contractors' total ordcrs, thc saniples acc random and considered to represent a wide varicty of types arid locations throughoat the UK.
+Values and numbers of projects for different forms and types of tender
+
+Public buildings
+Public housing
+Private housing
+Public civil (roads)
+Values and numbers of projects (percentages) for different forms and types of tender
+
+Public buildings
+Public housing
+Private housing
+
+As the projects analysed were all tendered for during the period 1984—88, the effect of inflation and competition had to be eliminated. The tender pricc index available in the Building Cost Information Service manual was used to adjust the values of contracts to 1988 prices.
+Fixed	Ad}usted
+Privaie industrial	PubGc housing
+Public buildings
+Fig. 1. (a) Proportions of form of tender in sainples I and 2. (b) Proponions of type of tender samples I aud 2
+Copyright 	Rights
+Private commercial	Private housing
+Open 	Selected Negotiated
+Selected Negotiated
+Public housing
+Open 	Selected Negotiated
+Selected Negotiated
+Public buildings
+Open 	Selected Negotiated
+Type of tender	Value %	Type of tender
+CopWight 	Rights
+Table 3 Values and numbers of diffcrent types of projects (percentages) for different forrns of contracts (from N EDO, 197 S)
+Education	61	28	15	20
+Public housing	47	41	22	55	23
+Other building	10	78	12	12	77
+Roads	3	95	19	77
+Other civil	10	81	9	14	79	7
+V ah-me of projecls investigated compared with total value of projects of the same Rypc ordered (January 1984 to January 1989 only)
+Typc of project
+Public buildings	3.44
+Public housing	022.22
+Private housing	27 8	0.10
+
+The first stage of the analysis was to eva\uate the difference between {he agreed and actual construction durations. The test was conducted on sample 2, which involved calculating the ratio of the actual duration over the agreed one regardless of the value of the contract. The objectivc of this test was to dctcrmine the accuracy cf the forecasted duration performance and, to some extent. the reliability of the figures in sample l .
+The second test examined thc relationships between duration and 'actual cost and agreed values. The possibility of a time delay in a contract associated with an incRase, in cost was evaluated. The second sample -was used to determinc the consistency of this increasen A limited difference between the two rclationships would open the way to a comprehensive analysis all the building projects available in sample l .
+The third step was to evaluate these, relationships within the mode! application. Previous work showed that neither the type of project nor the had a significant effect on thc relationship: therefore, only the four criteria proposed earher were considered. for thc analysis. A test was rcquired to establish whether these criteria had a significant effect on the relationship. A visual test was considered to be the simplest and most desirable, as the number of criteria was smffll and could be compared easily. In addition n the equations representing the relationships were determined with their corrcla_tion coefficient (R).
+groups werc established and plotted in a unified scale. Thcse wsre.
+Public buildings fixed prices.
+Public buildings adjusted prices.
+Public buildings open competition.
+Public buildings selected competition.
+Public buildings negotiated competition.
+Private buildings fixed prices.
+Civil roads fixed prices.
+These groups were used to identify the effect of each of thc four criteria on the relationship between the value and duration of construction projects. The first test was conducted on the first two groups in order to determine whether the form of tender affects the relationship. The process of 'filtering' the data (to eliminate the effect of type of tender from the analysis) was not required in this casc, as there was no correlation between the form of tender and the type of tender (see Table 5).
+Distribution of type of competition in different forms of tender
+Type of competition
+Selected	Negotiated
+Public adjusted	29	72
+The visual test involved plotting the scatter points of the agreed duration (y axis) against value of contracts (x axis). The most revealing way of plotting construction duration against value is to use logarithmic scales. This avoids a crowding of the relatively large number of 10 000—1 000 000 contracts in the lower left-hand corner of the figure, and shows the mean trend line to have a linear shape. The actual form of the trend line is: T=KCB (as presented earlier)
+The two constants are determined by the following process:
+which is also equal to
+This is a linear equation from which K and B can be determined through linear regression of the transformed (logarithmic transformation) data. Alternatively, some software performs this process directly, e.g. the 'cricket graph' on the Macintosh. Hence, comparisons can be conducted between the trend lines in order to identify the differences in the levels and sensitivities (slopes) of the relationships. The scatter points and the correlation coemcient (R) were used to determine the variability of points within each group and between groups.
+Comparisons were also undertaken between groups 3, 4 and 5. The results showed that no significant difference was found and hence the type of competition was ignored. Groups 1, 6 and 7 werc also compared in the same manner. The type of client and type of project were tested together. The following step in the analysis involved grouping the data into several categories according to the effective criteria. Two groups were added to the four groups remaining from the analysis: private adjusted prices contracts and civil adjusted prices
+A line was fitted through each of the two groups and plotted 'R'ith the qcattcr (see
+T'he difference between the actual and the agreed durations me presented in ratio terms. i average ratio of the actual duration to the agreed duration is 1.0351. The estimated ratio varica between maximum value of 2 and a minimmn of l. If a comparison is made between these values and the duration performance of Australian building contracts in the late 1960s the average ratio waq 1.478 and the range was 0.73—3.93. Because sample 1 included only tendered and agrecd values. 110 comparison was inade on the performance of building contracts. Hovvcver, thc results obtained frol"fi the road contracts confirm strongly that the trend has changed and delays associated with contracts executed in the past a-re not present at this point in time.
+The results of the second test are shown in Fig. 2. The values ofthc constants B and K of the fitted lines are listed in Tablc 6. The two fitted line; can be shown to have almost tb_c same shape. The scatter points for the two groups are simil_ar (sec R valuee and all of the data camc from one group. This is strong support for the hypothesis that even when there is a significant variation it) the duration performance of estimated and actual values, the relationship between value and duration remains the samcm
+The results of the third test arc shown in Figs 4 and 5. The constants of thc fitted lines were calculated and are listed in Table 7. Thc first comparison between fixed price contracts and adjusted price contracts is shown in Fig, 3. The value/duration relationship for the tv.,'t forms of contract arc signifi_cantly different. '1%e difference is recognized in both the shapc and the levd_ of thc lines. Fixed price contracts have a more sensitive relationship and the level of the line is lower. The scatter points of the two forms of tendcrs are locatcd differently: therefore, the data should be treated separately
+The second comparison is shown in Fig. 4. The trend lines of the three types of competition have close shapes, especially for open and selected cornpetition. Negotiated tenders arc sensitive. However, more detailed observation of the scatter points shows that thc three, groups are si milar and can be related to one group. It was thcrefore concluded that the type cojnpetition did not affect the considered relationship.
+The two remaining critcria (type of client and type of projcct) were compared. as shown in Fig. 5. fixed contracts '.vere included in thv test. 'f he results showed. that the three graphs are significantly different. Private buildings have the lowest slopcr with almost thc samc starting levcl as the public buildings. Civil engineering contracts (roads) are shown to have a significantly lower starting level, while maintaining the highest sensitive relationship. Thus, it caki be concluded that both the type of client and the type of project influence the value/duration relationship.
+The following stagc of the analysis was to establish the final groups of the model upon which the relationships are significantly different. Six groups were modelled.
+Public buildings fixed price
+Privatc buildings adjusted price.
+2. 	of duration 	in civil engineering projects.
+Table B and K values for tendered and actual road contracts
+Civil engineering fixed price.
+Civil engineering adjusted price.
+'I lhe final modelling involved fitting thc function through the private buildings and the civil engineering projects. both of which are adjusted price contracts. )'hc two plots and the filled trends arc shown in Figs 6 and
+The constants for the fitted functions for all the group', are listed il'l 'i"able -m Although the number of projects used is limited, the effect of the forni of contract is consistent with the previous tests. The level of the adjusted contracts is higher than that of thc fixed contracts. Also. the sensitivity (slope) can be shown to be lowcr. '[he differences betweeli the types of clients and types of projects are also consistent with previous comparisons.
+The analytical side of the results showed a significant variation within certain groups. 'I'hc fitted function proved to bc a. good average of the trend. However, a -.2! explanati0ii of thc results is required to draw conclusions on the reliability of thc- analysis.
+The difference betwccn actual and tender values for civil  (roa_d contracts was limited. The duration performance varicd betwccfi the ratio of 2 and 00333 on average of 1 .0351 . Thc, significant variation in the duration perfornvance is attributed to the high uncertainty in civil engineering projccts. However. the average assessment of these factors was accurate,
+Comparisons ef these values with a study bu i ldint' work ili the late 1960s revealed ' hal duration expectations in the past werc significantly undercst_imated and variaG0fi from the expected duration reached three times. No date were available cn the actual duration perfonnance for building work: however. thc trend is expected to be more with smaller variations. This is due to thc lesser uncertainty involved in building works as opposed to civil engineering.
+The form of contract, type {f client and thc typc of project shown to have an effect on the investigated relationship. Adjusted price contracts tended to bc the largec ones, They gcnerally took longer than fixed price contracts, as shown Trolli the previous p: Thu durations were less scnsitive to the values of the contracts. F'or a public building fixed pricc contract, the average duration takcn to execute a El million fixed price contract was 399 days. Thc corresponding figure for an adjusted price contract wa rn 487 days. The logic behind this is that adjusted pricc contracts arc used for projccts which are expect'd to take a relatively long time to complete, thus eliminating the risk incorporated in assessing future inflation. In other words, contracts which cost between ESC) 000 and El rrlillion and expected to t.akc longer are likely to pursue the adjusted pöcc formula. Note that sorne e! the scatteipoints within the fixed price plot intersect with that of the adjusted price plot- This shows that
+(A) Fixed price contracts
+* 398.8 • CA 0.318 R = 0.76
+T = 486.7 • CA 0.205 R = 0.68
+3. 	of duration 	in public building projects:
+
+(A) Open competition
+(C) Negotiated competition
+Standards of duration performance realized in public building projects:
+Copyright 	Ri hts
+(A) Public buildings
+274.4 • CA 0.212 R =
+5.	of duration
+
+VBlue in fixed price contracts.
+
+Public index
+Standards of duration performance rcalizcd in private building projects (adjusted price)
+larger and more timc-•consuming projects arc oot solely adjusted price contracts. "l'hcy couVd well be fixed, espccially during periods of kow inflation like the one investigated.
+The typc of client within building works does influencc the duration/value relationshio The results showed that public buildings take longer on average, than private buildings*- The construction period for public buildings was generally more scnsitivc to the contract value than the private ones. Projects with values of less than €100 000 took similar durations for both types- It was the larger ones which differed noticeably. Thc practical explanation behind this is that privatc clients are more concerned with time than public organizations. Private clients. like retailers, hotel companies or manufacturing firms. have to complete their projects as soon as possible in order to start operating that part cf the business and get returns on their invcstmcnts- Moreover, private clients tcnd to leave thc duration of thc contract open for competition; hence, the contractor with the shortest submitted duration is likely to head the shortlisi
+The reswlts also showed that private projects had a -wider scattef of points than public
+T = 436.3 ' CA 0.437	R	0.97
+Standards of duration performance realized in civil engineering projects (adjusted price).
+This was due to the fact that private clients include a wider range of types of sophistication. A five-star hotel which contains 150 rooms with all sorts of luxurious furniture and fittings could well cost more than €5 million. At the other extreme, a similarsized three-star hotel may cost considerably less but the time to complete the two projects should not differ that much.
+Public clients are significantly controlled by government spending, and therefore the class of thc finishing does not vary considerably. Whatever thc type of building, it will include floors, walls, columns and a consistent level of finishing.
+The type of project (building or civil engineering) affected thc relationship considerably. Civil engineering contracts do not involve the number of walls and floors that building projects do. They involve more earthworks and heavy plant. The sample of data analysed contains all sorts of roads and bridge contracts. The time taken for a civil engineering contract to be executed was generally less than that for a building project of similar value. •rhis diffcrencc increases when contracts arc below El million.
+The reason behind this is that most civil engineering contracts involve high transportation costs for heavy plant and equipment. The premium cost of transportation for small works is considerably higher with respect to the actual direct cost. Moreover, once the plant is operating, the actual work can be conducted quickly. For higher values of contracts with longer durations, the cost of transporting plant and operating them is relatively small compared to the value of the contract. Hence the difference between building and civil engineering projects decreases.
+In all cases, the fitted function was shown to have an average of the scatter points, although the scatter points are shown to have a wide rangc especially in private building projects. Public buildings and civil engineering projects produced encouraging values of R (0.76 and
+Public authorities and organizations may use these relationships reliably.
+
+buildings varied significantly 0.49) and the mode! fitted the data poorly. This is to bc expected in such a highly volatile and unpredictable industry. Furtlaa•- classification o, projects may be required to enhance the accuracy of the relationship; however, this shon! d bc associated with an increase in the amount of data utilized. It should also be realized that when classifying projects in more depth, the model becomes morc difficult, especially wher. working at a corporate level. As far as thc corporate financial model is concerned, thc fitted relationships should produce accurate results. The corporate financial model is recommended for large, contractors simultaneously execute large numbers of contracts. The most important findi_ng was the identification of significantly differcnt relationships within different groups. Therefore, as long as the scatter points are randomly distributed over the fitted functions, the application of such functions are reliable.

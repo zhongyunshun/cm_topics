@@ -1,0 +1,109 @@
+﻿Available online at  ScienceDirect
+Procedia Engineering  172 ( 2017 )  270 – 276
+Decision Making in Construction Management: AHP and Expert Choice Approach
+a,b,cDepartment of Construction Technology and Management, Faculty of Civil Engineering, Vilnius Gediminas Technical University,Saulėtekio al. 11, 10223 Vilnius, Lithuania
+The term and content of construction project management are outlined in this article. The main problems of construction management were identified and possibilities to solve them are discussed. The model for decision making in construction management by using multi-criteria methods was created and applied to real case study. AHP method and “Expert Choice” computer program was employed for calculations.
+© 2017 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license © 2016 The Authors. Published by Elsevier Ltd.
+Peer-review under responsibility of the organizing committee of MBMST 2016. Peer-review under responsibility of the organizing committee of MBMST 2016
+construction, project, management, assessment, multi-criteria decision making, contractor, expert choice, AHP.
+Introduction
+Construction management and technology are the two key factors influencing the development of the construction industry. Over the past 40 years, although several new and advanced technologies have been applied to construction projects, the efficiency of the industry has remained quite low [1]. Prior researchers suggests that digital technologies enable rapid, flexible forms of project organizing [2]. The construction project management process begins with identification of the user requirement, project constraints, resource needs, and establishment of realistic objectives to meet the strategic goals. It is an iterative process as new information becomes available through efforts by various professionals involved in the project. Today, mobile hardware, cloud computing and integrated software are becoming
+* Corresponding author. +370 5 274 5245; +370 5 274 5016. E-mail address: jonas.saparauskas@vgtu.lt
+1877-7058 © 2017 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (
+Peer-review under responsibility of the organizing committee of MBMST 2016 doi: 10.1016/j.proeng.2017.02.111
+used for storage and retrieval, automated search, and prototyping and simulation functions. The objectives of project management are to execute a project so that deliverables can meet scope requirements on budget and schedule, and at acceptable risk, quality, safety, and security levels [3].
+Problems of construction management
+One of the most important tasks in construction is selection of the right contractor. Choosing the proper contractor from numerous applicants that are available today in market is a complicated problem for clients. In dealing with the long-term assets, it is crucial to select a proper contractor, which could ensure the quality of the constructed building. The achievement of this aim largely depends on the efficiency of the performance of the contractor that is selected [4]. Contractor selection studies have dated back to as early as 1960s. Few of the more referred papers of that era due to their classical contribution are those by Busch, Dickson, Hakansson and Wootz, and Dempsey. These studies established the importance of quality of products and delivery are important factors for supplier selection [5-7].
+All construction processes are risky. Contractual risk management forms only one part of the companies’ legal risk management and, in this way, it is part of companies’ comprehensive general risk management. The goals of contractual risk management do not restrict the management of legal risks in contracting. Contractual risk management also covers other risks in business by using methods of contractual planning and management [8-9]. More problems in construction management are identified in developing countries. Mohamed [10] defined most important construction management system problems:
+All issues of construction management must be solved as soon as they are identified. Senaratne and Sexton [11] highlights that in the information age, organization theories have addressed problem-solving as an informationprocessing activity. However, in this era, with the realization of knowledge-based views of the organization, shared problem-solving is increasingly recognized as a knowledge creation trigger. During shared problem-solving, stakeholders bring different types of knowledge into the problem situation and it is captured, created and shared by the team members. In construction projects, shared problem-solving often takes place through pragmatic problemsolving on site, in particular, through managing project changes.
+Multi-criteria methods and construction management
+MCDM refers to making decisions in the presence of multiple, usually conflicting, criteria. Each different criterion may have different units of measurement, quality characteristic, and relative weight. It is possible that some criteria can be measured numerically and other criteria can only be described subjectively. Foundations of modern MCDM were developed in 1950s and 1960s. There are dozens methods available for solving MCDM problems. The MCDM methods are able to provide solutions for a wide range of management problems.
+Development of MCDM researches accelerated during the 80s and early 90s, and seems to have continued its rapid growth. Köksalan et al. [12] and Kahraman et al. [13] provided a brief history of the development of MCDM methods. Zavadskas and Turskis [14] and Zavadskas et al. [15] presented detailed studies about MCDM methods application in different fields of economics and management. Saaty [16] published a detailed study on the AHP applications. Recently, development of hybrid and modular methods is becoming increasingly important. They are based on previously developed well-known methods and their modification, by applying fuzzy and grey number theory. Relatively recently are developed MCDM methods, such as Complex Proportional Assessment (COPRAS) [17-18], Additive Ratio Assessment (ARAS) [19-20], Multi-Objective Optimization on the basis of Ratio Analysis (MOORA),
+MOORA plus Full Multiplicative Form (MULTIMOORA) [21-22], Step-Wise Weight Assessment Ratio Analysis (SWARA) [23], Weighted Aggregated Sum Product Assessment (WASPAS) [24], KEmeny Median Indicator Ranks Accordance (KEMIRA) [25] are developed and applied to solve real life problems. It is important to mention that multi criteria decision making methods have different issues when used in different context.
+An owner who selects a contractor using the low-bid method should be aware of several possible consequences. First, the competitive bidding process assumes that all firms (including general contractors, subcontractors, and material suppliers) bid the work as cheaply as the designer’s specifications and drawings can reasonably be interpreted.
+Second, a common misconception among laymen is that professional drawings and specifications automatically guarantee that each contractor must or will provide the identical results as every other bidder, and that those eventual results will be according to the owner’s expectations. Finally, it should be mentioned that without a contractor’s input during design, the eventual low-bid amount remains unknown until the design is completed and bid. So the owner and architect must uneasily wait until the design phase and bidding phases are completed before they know whether their project was designed on budget, under budget, or, as is too often the case, over budget.
+When making decision based on multi criteria method, certain steps should be made. The model for multi-criteria decision making is developed.
+Firstly, alternatives of the solution should be defined. For example, when choosing contractor in construction process- all possible contractors for the project should be identified.
+Secondly, criteria of those alternatives should be set. It means that factors that are important and have influence on choice of contractor should be identified.
+Thirdly, system of criteria evaluation should be established. Each criteria is evaluated differently, so the system should be defined. For example, experience of contractor could be evaluated as outstanding, very good, average, below average or unsatisfactory whereas profitability could be defined as high, average or low and etc.
+Fourthly, criteria weights should be defined. In this step important and less important criteria should be identified. The more important the criteria is, the bigger weight it should have.
+Then each criteria of each alternative should be evaluated. Finally, counting with the help of computer software should be made and the best alternative chosen.
+Case study: decision making in Turkish construction project management
+Description of project and problem under consideration
+Seven storey 3 star hotel is being built in the southern part of Turkey, near Mediterranean Sea in the region of Antalya. Stakeholders of the hotel decided to build a swimming pool. The main measurements of the pool are as follows: Length - 25 metres; Max depth - 2.2 metres; Width - 10 metres; Shape - Oval.
+The construction project is in its last stage of building. However, some works should still be done. Project manager needs to select contractor for building swimming pool in the area of the hotel.
+So the main goal is to choose the right contractor for building the swimming pool. The main objectives of contractor choice are as follows: to achieve good quality; to achieve good design; to select optimal financial options.
+Formation of alternatives
+In this case as an example contractor’s selection will be analysed according to multi criteria method. Choice of contractors is one of the most important decisions of construction manager, because it influences the success of all project greatly. Contractor will be chosen for building swimming pool in the area of hotel.
+Totally 5 contractors will be analysed for building swimming pool in hotel area. Contractor is chosen according to counting of multi criteria method, where subjective and objective factors of contractors are evaluated. All contractor are Turkish companies set in the biggest cities of country - Ankara, Istanbul and Izmir.
+Set of criteria system and estimation of values of criteria
+Choice of contractor for construction project works depends on many different factors. Some factors are more important like technical experience or safety record, others less important like safety record.
+So when choosing contractor it is important to evaluate: 1) technical experience, 2) performance records, 3) financial stability, 4) management and employees qualification, 5) capacity, 6) safety record, and 7) operation and
+These are main criteria when choosing contractor. Also sub-criteria should be taken into account. For example, when evaluating capacity, number of projects on which contractor is currently working should be evaluated as well as capacity to add this exact project. Based on the literature overview, and questioning of experts and stakeholders the criteria set was determined. So there are two levels in this model criteria and sub criteria.
+TE - Technical Experience - indicates how much experience contractor has in doing technical, civil, electrical, mechanical works and landscaping. The number of projects is considered. The evaluation of technical experience can be outstanding (if contractor completed more than 20 projects), very good (if contractor completed 15-20 projects), average (if contractor completed 10-15 projects), below average (if contractor completed 5-10 projects) and unsatisfactory (if contractor completed less than 5 projects).
+PE - Performance Record - indicates whether contractor completes projects on time, evaluates quality and cost control systems as well as quality of already finished projects. Sub criteria of performance record, for example, quality of finished products can be evaluated as outstanding, very good, average, below average and unsatisfactory. This sub criteria is evaluated qualitatively not quantitatively so it is not based on any numbers.
+FS - concerns Financial Stability of the contractor. It evaluates contractor‘s profitability, availability of credit as well as dept volume. It can be high, average or low.
+ME - Management and employees qualification - evaluates number of contractor‘s projects that experienced failure, experience of manager and labour force.
+CA – Capacity - evaluates number of projects contractor works on at the moment, capacity to add this project and status of current projects.
+SR - safety record - concerns strength of safety program, number of accidents in the last 5 years, availability of safety training for new employees.
+OE - operation equipment - evaluates capabilities of technical field personnel and suitable equipment resources. Its sub criteria, for example capabilities of technical field personal, is evaluated qualitatively according to competences of employees.
+Criteria are evaluated according to its origin.
+Calculation according to the model
+„Expert Choice“ software which is based on AHP method was used to determine criteria weights. Factors of level one from the model – criteria - were as an input of the matrix, which was counted with the help of computer software.
+First of all criteria weights of the main criteria were determined.
+If CR is less than 0.1, then it is assumed that expert is consistent in his evaluations.
+In the similar way weights of sub-criteria were determined for each criteria group. The summarizing of determined weights of criteria and sub-criteria are presented in Table 1.
+Weights of criteria and sub-criteria.
+
+Civil works
+
+Performance record
+Completing project on schedule
+Effectiveness of quality control system
+Effectiveness of cost control system
+Quality of finished products
+Profitability 	0.017
+Availability of credit 	0.052
+No. of projects that experienced failure in last 10 years
+Experience of manager
+No. of projects contractor works on now
+Capacity to add this project
+Status of current projects
+Safety record
+Strengths of safety program
+No. of accidents in the last 5 years
+Availability of safety training for new employees
+Operation and equipment
+Capabilities of technical field personal
+Next, information on evaluation of each criteria and subcriteria of each of five contractors was collected. Criteria evaluation was chosen according to their performance record and other information.
+Based on Saaty [16] scale, decision making matrix for problem solution was prepared.
+Finally, Table 2 provides overall scoring of each contractor on different criteria. Scoring of each contractor based on different criteria was counted with „Expert Choice“. In the Table 2, all optional values are the biggest values:
+
+wi - weight of sub criteria; xij - evaluation of i-th contractor according to the j-th criterion;
+number of criteria; n - number of contractors.
+Overall scoring of contractors.
+
+
+Civil works
+
+Performance record
+Completing project on schedule
+Effectiveness of quality control system
+Effectiveness of cost control system
+Quality of finished products
+Profitability
+Availability of credit
+No. of projects that experienced failure in 	0.011 	0.06 	0.06 	0.005 	0.06 last 10 years
+Experience of manager
+Labor force
+No. of projects contractor work on now
+Capacity to add this project
+Status of current projects
+Safety record
+No. of accidents in the last 5 years
+Availability of safety training for new employees
+Capabilities of technical field personal
+According to Table 2 most suitable contractor would be contractor No. 3 as it scored the highest rate (0.551), the least good contractor for building swimming pool would be contractor No. 4 as it scored the lowest rate (0.149).
+Most of construction management problems are MCDM problems. Countering complexity of a problem to be solved four optimization methods can be used: multi-criteria, oriented cost, mono objective, multi objective. Elimination, optimization and probabilistic methods could be used by project managers when making decisions. Multi-criteria aspect is significant when making construction management decisions.
+The nine-stage model for solving decision making problems in construction have been suggested. Based on the literature overview and opinion of experts set of criteria was determined: a) technical experience; b) performance recourses; c) financial stability; d) management performance and employees qualification; e) capacity; f) safety record; g) operation and equipment.
+The proposed model was used to choose contractor for construction of swimming pool. After analysing all alternatives, the best contractor with total score 0.551 had been chosen.

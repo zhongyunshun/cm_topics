@@ -1,0 +1,160 @@
+Final contractor selection using the analytical hierarchy process
+To cite this article: Patrick Sik-Wah Fong & Sonia Kit-Yung Choi (2000) Final contractor selection using the analytical hierarchy process, Construction Management and Economics, 18: 5, 547-557, DOI: 10.1080/014461900407356
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (2000) 18, 547–557
+Final contractor selection using the analytical hierarchy process
+PATRICK SIK-WAH FONG1 and SONIA KIT-YUNG CHOI2
+1Department of Building & Real Estate, Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+2Levett & Bailey Chartered Quantity Surveyors, 18-20/F, Eastern Central Plaza, 3 Yiu Hing Road, Shaukeiwan, Hong Kong
+Received 20 January 1999; accepted 8 July 1999
+Some contractor selection methods currently in existence are criticized as incomplete and biased, and lacking consideration in terms of the contractor’s ability to achieve simultaneously, time, cost, quality and safety standards. This research examines an alternative contractor selection model called the analytical hierarchy process (AHP), which will help construction clients to identify contractors with the best potential to deliver satisfactory outcomes in a  nal contractor selection process which is not based simply on the lowest bid. The AHP comprises three parts: hierarchic structure, prioritization procedure, and calculation of results. This model is tested by a hypothetical scenario where three contractor candidates are evaluated. The criteria used for contractor selection in the model have been identi ed, and the signi cance of each criterion has been arrived at by conducting a questionnaire survey in public organizations in Hong Kong. Comparisons are made by ranking the aggregate scores of each candidate with regard to their performance against each of the criteria, and the candidate associated with the highest scores is the best contractor on this occasion.
+Analytical hierarchy process, contractor selection, prequali cation,  nal selection, tender price
+Introduction
+Selecting a capable construction contractor is one of the most important tasks faced by a construction client who wishes to achieve successful project outcomes. Often this task is challenging, because the construction industry is volatile and competitive. Kangari and Bakheet (1994) agrees that the probability of construction failure is quite high for individual contractors, and it is important for project owners to confront and manage these risks if they wish to achieve good project results.
+The selection process should identify a contractor to whom the client can con dently entrust the responsibility to execute the project satisfactorily, but unfortunately this is not always possible. The majority of current selection methods over-emphasize acceptance of the lowest bid, and the lowest tender price is usually described as being the key to winning a contract. Table 1 shows sample attitudes cited by researchers since 1967 concerning the in uence of the tender price on the  nal selection of a contractor. According to these, the key may not be as important as it is usually believed to be.
+Two points summarize the view of the various researchers. (i) Apart from the acceptance of the lowest tender price, there should be a trade-off between cost, time and quality in the  nal selection of contractor. (ii) However, in public projects, the tender price still dominates over other factors in tender assessment (contractor selection). Because the funding for government projects comes from the taxpayer, and prior assessments of contractors are made before inviting tenders, offering projects on the basis of the lowest tender can dispel suspicions of corruption. On the other hand, there is evidence from news reports in Hong Kong that
+Construction Management and Economics
+ISSN 0144–6193 print/ISSN 1466-433X online © 2000 Taylor & Francis Ltd
+548	Fong and Choi
+Table 1	A sample of attitudes cited by researchers concerning price
+Author (year)
+‘Although the client will normally seek a low price this must be done with discretion as a price that is too low may inhibit the attainment of the client’s other objectives of quality and speed’
+‘This price is based upon the successful tender which, in most cases, is the lowest tender received. This tender, however, will not necessarily re ect the “true cost” of the project’
+Pearson (1985)
+‘Upon receipt of tenders, it will immediately be obvious that the contractor submitting the lowest  xed fee is not necessarily the one representing the best value for money to the client’
+Merna and Smith (1990)
+‘Indeed, the majority of current selection methods exhibit constraint and over-reliance on principle of acceptance of the lowest bid’
+‘The aims of selection are to  nd a contractor who can supply a product for the lowest possible price, and can demonstrate the following:
+A reputation for good quality workmanship and ef cient organization
+The ability to complete on time
+A strong  nancial standing with a good business record
+The expertise suited to the size and type of project’
+‘While two fundamental factors exist in selection (price and suitability), price often dominates – at times to exclusion of suitability’
+‘Choice of consultant or contractor should be made on a value for money basis, with proper weighting of criteria for skill, experience and previous performance, rather than automatically accepting the lowest in all cases’
+Smith (1995)
+‘As owners become more sophisticated, the traditional process will be seen for what it really is: usually high risk for all unacceptable levels of service. It is therefore necessary to examine how the ‘best buy’ can be chosen where more than one variable is involved’
+‘Emphasis presently directed towards encouraging lowest bid should be redirected towards establishing contractor ability for achieving client satisfaction project performance, quality of completed project, etc.’
+‘The exercise also supports the contention, that examination of contractor should aim to establish project performance potential and rely less on estimated project cost (tender sum)’
+‘Public Sector clients are most often constrained to select the lowest (evaluated) bidder, other than in exceptional circumstances, which makes short-listing all the more important. However, it is increasingly recognized that the lowest bid is not necessarily the most economical solution in the long term’
+‘Selection of contractors involves more than merely opting for the lowest evaluated bid’
+the lowest bidders have failed to complete projects due to  nancial dif culties or other common grounds. If there is an objective approach that can prove to the general public that projects are awarded based on the best possible combination of a variety of criteria, they will be more receptive to this approach. Logically, the failure of a contractor to complete a project will cost the taxpayers more money in the long run.
+Hatush and Skitmore (1998) believe that the acceptance of the lowest price in bid evaluation is the prime reason for project delivery problems, as contractors desperately quote low prices by reducing their quality of work, and hope to be compensated by submitting ‘claims’. They further comment that ‘reliance on bid prices alone as a discriminating factor between bidders is, however, somewhat risky and shortsighted’. They also say that in many countries, such as Denmark, Italy, Portugal, Peru, South Korea, Saudi Arabia, Canada, the USA and France, certain procedures have been adopted that will do away with the dominance of the lowest tender price in contractor selection.
+The  nal selection of a contractor involves criteria for which data are qualitative, subjective and imprecise. Whatever the selection method is, the signi cance of three criteria, namely time, cost and quality, should be considered. In this research, we propose a new alternative selection tool for a more comprehensive evaluation of a contractor’s all-round performance potential.
+Reviewing a representative sample of the existing literature, 11 models of prequali cation and 4 models for  nal contractor selection were found. These are listed in Tables 2 and 3. Two special considerations are taken into account in this research. 1, The de nition of a successful project depends on many entities throughout the whole building process. This research was concerned only with the client’s view. 2, It was not our intention to identify the best or most popular contractor selection method. Evaluation of the performance of existing methods should be studied thoroughly, and the uniqueness of a country’s construction industry should also be taken into account.
+Analytical hierarchy process (AHP)
+The analytical hierarchy process (AHP),  rst introduced by Thomas L. Saaty, is described by Partovi (1992) as ‘a decision-aiding tool for dealing with complex, unstructured and multi-attribute decision’. Nydick and Hill (1992) describe the AHP as ‘a methodology to rank alternative courses of action based on the decision-maker’s judgment concerning the importance of the criteria and the extent to which they are met by each alternative’.
+Muralidhar et al. (1990) support the belief that the AHP caters speci cally for decision making with multicriteria. Apart from this, the high precision of relative priorities in the calculations enhances the effectiveness of this technique. In our work, the relative priority of each criterion was counted to three decimal places.
+There are three basic steps in using the AHP: hierarchic structure, prioritization procedure, and calculation of results.
+A complex decision problem is expressed as a hierarchy. The overall objective of the decision lies at the top of the hierarchy, the criteria (elements affecting the decisions), sub-criteria and decision alternatives are on each descending level of the hierarchy. Saaty (1994) emphasizes the fact that the hierarchic structure is bene cial to a decision-maker. It provides ‘an overall view of the complex relationships inherent in the situation and in the judgment process and it also allows the decision-maker to assess whether he or she is comparing issues of the same order of magnitude’.
+The next step is to de ne the priority (or weight) of each criterion. Elements in each level are compared pairwise with respect to their importance to an element
+Authors (year)
+Models	Authors (year)
+Performance assessment
+at a higher level, starting at the top of the hierarchy and working down. With reference to Muralidhar et al. (1990), the advantage of using a pairwise method is that it allows the decision-maker to focus on a comparison of two objects, and the observation can be made free from extraneous in uences. For pairwise comparisons, a matrix is the preferred form.
+Calculation of results
+The relative weights of the elements of each level with regard to an element on the next level are computed as the components of the normalized eigenvector associated with the largest eigenvalue of their comparison matrix. The composite weights of the decision alternatives are then determined by aggregating the weights throughout the hierarchy.
+One of the advantages of the AHP is that it provides consistency checking on judgments. According to Saaty (1995), consistency is de ned as when ‘the intensities of relations among ideas or objects based on a particular criterion justify each other in some logical way’.
+Not much research or published data about  nal selection exist. Four  nal selection models and eleven prequali cation models were found in our literature
+Existing selection practices exhibit an inherent weakness, and this may result in an incomprehensive evaluation of contractors performance. The development of a better selection tool is essential for successful projects. The proposed contractor selection technique using the analytical hierarchy process should be able to overcome the tradeoffs in tender price, time and quality, and both quantitative and qualitative criteria can be considered. Our research concentrated on reviewing the different contractor selection methods available, examining the dominance of tender price in selection, and applying the AHP to contractor selection. We concentrated on the  nal stage of selecting a contractor, the forming of prequali cation lists being beyond the scope of the study.
+Sixty-eight criteria involved in contractor selection were collected from the literature review and grouped into major underlying factors. A questionnaire survey was conducted with frequent public sector construction procurers in Hong Kong. The survey was used as an instrument: (a) to  nd out the attitudes of public sector construction clients towards the signi cance of tender price in  nal contractor selection; (b) to  nd the level of client satisfaction with existing selection methods and contractor performance; and (c) to prioritize the criteria responsible for the overall signi cance in the  nal selection of contractor within those organizations. These priorities are incorporated also into the application of the AHP in contractor selection. 13 replies were received from 40 questionnaires sent out to clients of public works in January 1998, a response rate of 33%.
+The relative importance of each criterion used in the AHP was collected through the questionnaire survey. The format of the questionnaire was synthesized with reference to Saaty (1996a). Our review of the literature suggests different ways of working out the collective decision, arithmetic mean, and geometric mean. Saaty (1996b) points out that one method is to ‘see what alternative has the most votes, followed by the one with next highest vote, and so on’. For the sake of simplicity and reliability, Saaty’s suggestion was adopted in this study. Whenever two priorities got the same number of votes, the arithmetic mean was taken.
+Analysis of survey response
+All of the respondents to the questionnaire have been involved in the decision making process of contractor selection. Suf cient practical experience was guaranteed from this survey. Respondents were asked
+to identify the criteria necessary for contractor selection. The superior signi cance of tender price was challenged (Figure 1). As expected, less than 100% (91%) of respondents accepted tender price as one of the criteria in  nal selection of contractor. Financial capability, past performance and past experience were ranked as the top selection criteria.
+82% of the respondents agreed that their contractor selection processes were systematic, so clearly 18% disagreed. 36% of those who disagreed thought a more satisfactory decision would be achieved through a more systematic practice, 18% of the sample did not support the suggestion, while 46% gave no comment.
+Hypothetical case application
+In this section a detailed hypothetical example of how the AHP can be used in contractor selection is provided.
+Overall objective, criteria and subcriteria must be identi ed. In this section, the overall objective is ‘selecting the most capable contractor’, the main aim of our research. 68 criteria of contractor selection raised in 10 publications (Ministry of Public Building and Works, 1966; McCanlis, 1967; NJCC, 1974; Baker and Orsaah, 1985;
+Russell and Skibniewski, 1988; Grif th, 1992; Brook, 1993; Holt et al., 1993; Smith, 1995 and Hatush and Skitmore, 1997) were collected and analysed. Among these criteria, which criterion will become an element in the hierarchy is a problem. The de nitions and rationales of the criteria are discussed. The reasons for choosing the criteria are explained in Table 4. The selection of the most capable contractor is broken up into a hierarchy. The criteria and the subcriteria are as follows.
+In Figure 2 the overall objective ‘selecting the most capable contractor’ lies at the top of the hierarchy, and
+Figure 1	Factors considered by clients in contractor selection
+Table 4	Rationale for the choice of criteria for questionnaire survey – contractor selection
+The lowest tender price tends to attract a client’s interest as superior to other criteria
+It focuses on the  nancial stability and backing of contractors. Insuf cient  nancial standing of a successfully selected contractor can lead to late completion and unsatisfactory quality of work
+Ratio analysis accounts and turnover history are tools of ratio analysis aimed at assessing the  nancial standing of a contractor
+Apart from these,  nancial ratios such as liquidity ratio deserve to be analysed
+Other relevant  nancial ratios from various  nancial statements should be included
+Financial references, including credit reference and credit rating, are all evidence to show the degree of a contractor’s  nancial stability for loan
+C. Past performance
+Past performance is a guide to likely future performance, and illustrates a contractor’s ability to execute a contract
+Failure to have
+The reasons for failure to complete a contract are complicated, but this is an apparent
+warning of the reliability of a contractor
+Late completion induces rental loss and additional interest
+Client may not be able to afford overruns in cost
+Actual quality achieved
+Good quality outcome is a result of comprehensive quality control (QC) programme and QC policy
+Accumulated experience in tackling dif culties is an asset of an entity, since unanticipated problems will be encountered during construction
+Scale of projects completed
+Types of project completed
+Technical skill, size, image and reputation are re ected by the scale and type of projects carried out or completed
+Length of time in business shows a contractor’s experience, but experience in foreign projects may not be advantageous to a local project
+Adequate and suitable physical and human resources help to foresee whether a
+Physical resource
+Human resource
+contractor is likely to satisfactorily carry out the contract
+Whether the resources will be available for a particular project depends on the workload during construction duration
+relationship
+information and willingness to compromise are weakened
+H. Safety performance
+Poor safety awareness, safety precautions, and policy are huge costs, and may result in delays
+the 8 criteria include tender price,  nancial capability, past performance, past experience, resources, current workload, past client–contractor relationship and safety performance. Some of the criteria are broken down into subcriteria, giving a total of 15 ‘criteria’.
+The de nition of the priority of each criterion is obtained by conducting a questionnaire survey. The elements on the second level (tender price,  nancial capability . . .) are arranged into a matrix, and the decision-makers make judgments about the relative importance of the element with respect to the overall goal of selecting the most capable contractor.
+Does tender price dominate over  nancial capability or does  nancial capability take  rst place? All of the questions concerning the weighting are collected from the questionnaire survey. The judgments are entered using the fundamental scale for pairwise comparisons (see Table 5). First, the verbal judgment is indicated on the scale, then translated into corresponding numbers. The vector of priority is the principal eigenvector of the matrix.
+Pairwise comparison is used, because only two elements are involved in the comparison at same time. Saaty (1995) describes pairwise comparison as ‘the element that appears in the left-hand column is always compared with the element appearing in the top row, and the value is given to the element in the column as it is compared with the element in the row. If it is regarded less favourably, the judgment is a fraction. The reciprocal value is entered in the position where the second element, when it appears in the column, is compared with the  rst element when it appears in the row’.
+An element is equally important when compared with itself, so where the row A and column A meet in position (A, A) insert 1. The main diagonal of a matrix must consist of 1’s. If an individual, using the
+Table 5	The comparison scale as used by Saaty (1995)
+Intensity of importance
+Explanation
+Two activities contribute equally to the objective
+Weak importance of one over another
+Experience and judgment slightly favour one activity over another
+Experience and judgment strongly favour one activity over another
+Demonstrated importance
+An activity is strongly favoured and its dominance is demonstrated in practice
+The evidence favouring one activity over another is of the highest possible order of af rmation
+When a compromise is needed
+If activity i has one of the above nonzero numbers assigned to it when compared with activity j, then activity j has the reciprocal value when compared with i.
+
+
+Table 6	Normalized matrix
+
+workload	contractor
+relationship
+Past performance
+Past client/contractor relationship
+Safety performance
+a This entry is obtained by dividing the tender price entry result in the criteria comparison matrix by the tender price column total. b This entry is obtained as follows: {210/449 + 1890/2483 + 75/209 + 140/419 + 63/293 + 49/204 + 28/153 + 7/39}1/8 = 0.342.
+Table 7	Relative priorities of criteria
+Past performance
+Past client/contractor relationship
+Safety performance
+recommended scale, enters the number 4 in the (B, C) position, he thinks A is between more ‘weakly’ and ‘strongly’ important than C. The reciprocal value 1/4 is automatically entered in the (C, B). The normalized eigenvector shown in Table 6 represents the relative importance of the criterion. Based on the above calculation, the relative priorities of criteria in the  nal selection of contractor are shown on Table 7.
+Summary of priority of each criterion
+Saaty (1996a) points out that ‘if there are more than two levels, the various priority vectors can be combined into priority matrices, which yield one  nal priority vector for the bottom level’. Local priority is the priority relative to its parent. Table 8 shows the priority of each criterion in the  nal selection of a contractor. Global priority, also called  nal priority, is the priority relative to the goal.
+Calculating the results
+Three contractors (bids 1, 2 and 3) are supposed to be interested in bidding for a construction project. These three contractors must be compared pairwise for each criterion. This process is almost identical to the procedures that are used to develop the normalized eigenvector of criteria. Bids 1, 2 and 3, three alternatives, are compared with respect to each criterion. This is repeated for the rest of the criteria. There are  fteen criteria in total in the hierarchy. The weightings of each criterion are determined using the steps previously described. These weightings are hypothetical, and are shown in Figure 3. Table 9 provides the relative priority of the selection by criterion type, and the scores of the three alternatives. For instance, the normalized eigenvector of the tender price criterion is calculated and shown in the tender price column. Larger values of the eigenvector reveal greater importance of selection with respect to the criterion. Bid 3 best addresses the tender price criterion, followed by bids 1 and 2.
+Fong and Choi
+At present, the list of criteria has been de ned, their relative importance has been determined, and the scores of the three contractors according to the criteria have been assigned. The next step is to determine the priority of bids 1, 2 and 3. Table 10 illustrates the  nal overall prioritization of the three alternatives. The order of prioritization is bid 2, 1 and 3 (from best to worst). Bid 2 has the highest scores of (0.375) and is considered the best for this illustration.
+Conclusions
+Contractor selection has been a much-debated issue over the past few decades. Some construction clients are used to accepting the lowest bids from prequali ed contractors, and it is undeniable that the tender sum is a major consideration because of the instability and competitiveness of the construction industry, but should the potential to deliver an acceptable project on schedule with adequate quality standards be sacri ced? Quality, time and cost should not be under- or overweighed, so an effective selection process is crucial for clients wishing to strike a balance for successful project outcomes. The de nition of success is both objective and subjective, and varies according to clients, designers and contractors. Contractor selection can be divided into two phases: prequali cation and  nal selection. Our research aimed at the latter stage:
+selecting a contractor to whom to award a contract.
+68 criteria were collected from 10 publications, summarized, and grouped into a smaller number of
+Table 8	The priority of each criterion in  nal selection of contractor
+Past performance
+Failure to have contract completed
+Actual quality achieved
+Scale of projects completed
+Type of projects completed
+Physical resources
+Human resources
+Current workload
+Past client/contractor relationship
+Safety performance
+a Local priority is derived from judgement with respect to a single criterion. b Global priority is derived from multiplication by the priority of the criterion. c This entry is obtained as follows: 0.245 3 0.900 =0.221. The global priority of the subcriterion is obtained by multiplying the local priority of the subcriterion by the priority of the criterion.
+Figure 3	Hypothetical illustration of the scores of the three contractors
+556	Fong and Choi
+Table 9	Final overall prioritization of the three bids
+Failure to have
+

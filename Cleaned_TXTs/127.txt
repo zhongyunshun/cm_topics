@@ -1,0 +1,125 @@
+Experience of the game theory application in construction management
+To cite this article: Friedel Peldschus (2008) Experience of the game theory application in construction management, Technological and Economic Development of Economy, 14: 4, 531-545, DOI: 10.3846/1392-8619.2008.14.531-545
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Received 12 August 2008; accepted 25 November 2008
+The game theory allows mathematical solutions of conflict situations. Besides the fairly established application to economical problems, approaches to problems in construction operation have been worked out. An overview of applications is given. Solution strategies for such engineering problems are collected. Furthermore, concrete application examples are presented and an overview of further potential applications is given. Solutions of two-person zero-sum games are discussed as well as approaches to fuzzy games.
+construction management, selection of variants, game theory, two-person zero-sum games, fuzzy games.
+Reference to this should be made as follows: Peldschus, F. 2008. Experience of the game theory application in construction management, Technological and Economic Development of Economy 14(4):
+Introduction
+Complex decisions based on incomplete information about influence factors, relations and possible events are needed in construction operation. Engineering work is aiming at planning in advance the necessary actions for solving such problems. Machines, tools, processes are chosen and concepts for their coordination are made.
+Looking in detail at typical decisions in construction operation it can be observed that this incompleteness of the information is often neglected. Either the most favourable parameters are used and a over-dimension or other economical disadvantages are seen as given, or simplified deterministic models are applied, possibly modified according to experiences but not representing the situation precisely enough. This approach, in general, leads to a feasible solution but not necessarily to the most favourable one.
+The investigation of principles is aiming at the elimination of information incompleteness. The application of principles allows to assess decisions with respect to the necessary actions and to give an orientation for selecting them.
+A simple assessment for all possible results of decisions is not always sufficient, because for every decision different, mutually exclusive results can be obtained. As it is not known beforehand, which result is actually going to occur, decision criteria considering the totality of all possible results are needed.
+As a solution to this problem, the application of the Game Theory is proposed. The Game Theory deals with the representation of conflict situations and their resolution. Thus, it allows choosing the most favourable one out of a set of different behaviours. Application examples for problems of construction operation, that have been solved by this theory, are presented.
+Theory of the matrix games
+For solving engineering problems matrix games (Peldschus et al. 1983a; Peldschus 1986) are used. These games are two-person zero-sum games (Peldschus and Zavadskas 1997; Zavadskas et al. 2004; Hollert 2006).
+Γ = (S S1, 2 , A) , 	(1) with
+S2 j for j = 1, ..., n strategies of player II, and the pay-off function for players I and II:
+For these games ideally a saddle-point solution (simple min-max principle) or a strategy combination (extended min-max principle) is obtained.
+If α = β = γ, a saddle point with pure strategies (one optimal strategy for each player) is obtained as solution – trivial solution.
+An equilibrium point with mixed strategies is calculated (combination of strategies) as:
+Further specific solution methods for games against nature were discussed in detail in Zavadskas et al. (2002, 2003, 2004), Zavadskas and Sivilevičius (2005).
+Applications
+Selection of variants
+The main application of matrix games is the selection of variants, which is a problem of multi-criteria decisions (Peldschus et al. 1983b, 2005, 2007a; Antuchevičienė et al. 2006; Meszek, 2001, 2004, 2007; Ustinovichius et al., 2007; Zagorskas and Turskis 2006; Zavadskas and Kaklauskas 2007; Zavadskas and Turskis 2008).
+For describing the problem the variants are assigned to the strategies of player I and the criteria to the strategies of player II. For the pay-off function dimensionless evaluation numbers are used in simple cases. Such numbers describe the situation only coarsely. It is therefore sensible to use real characteristic values. As such values have different dimensions, their effectiveness is not comparable. In order to compare the characteristic values they are mapped on the interval [1, 0] or [1, ~0]. Depending on the kind of problem, there are several options for transforming the characteristic values. Generally, a distinction can be made between linear and non-linear transformations (Peldschus 2007a; Brauers and Zavadskas 2007; Ginevičius 2008; Migilinskas 2003; Zavadskas et al. 1994; Zavadskas and Kaklauskas 2007; Zavadskas and Turskis 2008).
+Variants with one variable
+For the selection of variants, m variants and n criteria can be used. The variants are grouped for solving of the problem. Labelling the variable with X the following variants are given:
+When generalised, this can be written as:
+For these variants the results
+with respect to the criteria K j ∈{K1 ,,Kn } are calculated and added to the decision matrix:
+With the variants VAR.i = VAR (Xi)  as strategies of player I, the criteria K j ∈{K1 ,,Kn } as strategies of player II and the transformed values aij = ai (Xi ) as pay-off function, a solution as two-person zero-sum game is possible.
+Multiple-criteria analysis in the construction of motorways
+The steady growth of road traffic in Germany requires the extension of roads and motorways network. In addition to the construction of new routes, the upgrading of the existing network is of a particular importance. This includes the refurbishment of damaged motorway segments and the expansion from 4 to 6 lanes.
+The following variants for the 6-lane expansion of a motorway in Thuringia were analysed:
+Variant 1 – Reconstruction with a concrete surface, modified axis position  and gradient;
+Variant 2 – Reconstruction with an asphalt surface, modified axis position  and gradient;
+Variant 3 – Reconstruction with a concrete surface, modified axis position  and identical gradient;
+Variant 4 – Reconstruction with an asphalt surface, modified axis position  and identical gradient;
+Variant 5 – Reconstruction with a concrete surface, identical axis position  and identical gradient;
+Variant 6 – Reconstruction with an asphalt surface, identical axis position  and identical gradient.
+The selection was made according to the criteria: construction costs, construction period, durability, environmental protection and economic efficiency. It was aimed at finding the optimal solution that fulfils the mentioned criteria best.
+The values for the criteria costs, construction period, length of the route, noise protection originate from operational documents. For the durability, statistical data were collected in a diploma thesis. The following values were used:
+Multiple-criteria analysis in the construction of motorways
+Length of route
+Construction period
+The numerical solution was performed by the software LEVI which has been developed in a co-operation with HTWK Leipzig and VGTU Vilnius. The values of Table 1 are mapped onto a dimensionless interval using the non-linear transformation (Peldschus):
+The solution is made according to the extended min-max principle formula (3). The obtained solution vectors are:
+S₁ = ( 0.254; 0 ) and S₂ = ( 0 ;
+Variant 3 gets the highest rating and can therefore be declared as the optimal variant. A comparative calculation with the Laplace criterion, treating all criteria as equally important, confirms this result. The game-theory equilibrium is formed by the criteria durability and construction period. Other criteria are of minor importance (Peldschus 2005).
+The calculation of the optimal number of partial assembly lines for work-cycle production (Peldschus 1975), the selection of wall structures in residential construction (Peldschus et al., 1983b), the estimation of retail centres influence on the city structure (Zagorskas and Turskis 2006), the selection of buildings’ maintenance contractor (Zavadskas et al. 2005) are examples of game theory applying in construction.
+If the problem cannot be addressed to by a formation of variants with one variable, there is the possibility to include several variables in the formation of variants. m variants and n criteria can be considered. The formation of variants is performed for all combinations of the considered variables. With the variants being X 1, , X k and the possible values for X l being vl ∈{1,...,zl} , the following variants are obtained: VAR.1 = VAR (X , X , , X1k), VAR.2 = VAR (X 21 , X12 , , X1k), ..., VAR.M = (X 1Z1, XZ22 , , XZkk ). The variant i is derived from
+In total, the following variants are obtained
+For these variants the results aij for the criteria K j ∈{K1 ,,Kn } are calculated and added to the decision matrix. Similarly to the formation of variants with one variable, this decision matrix is transformed into a two-person zero-sum game by considering the variants VAR.i as strategies of player I and the criteria K j as strategies of player II. The values of the pay-off function are obtained by transformation to dimensionless values.
+Consideration of the frequency of the variants
+If the calculation is to be made for a serial production with different constructions, the matrices for each construction can be multiplied with their frequency. With t ∈{1,...,e} constructions, the matrices At are obtained. With the frequency gt this gives:
+Adding all matrices At′ and dividing by the number of constructions, the weighted matrix A* is obtained:
+
+After transformation to dimensionless values this weighted matrix A* can be used as pay-off function for a two-person zero-sum game. A production variant, taking into account the frequency of the different constructions, is obtained as a result. This method has been applied to dimension of the technological line for producing pre-fabricated concrete parts (Altmann and Peldschus 1987).
+Calculation of correction values
+Providing informative numbers for planning is an important problem in construction preparation. These values (parameters) are determined by analyses. Such analyses are, however, associated with uncertainties, which influence planning and lead to differences between planned and actual efforts. They can influence the capacity assignment, material consumption planning and structural parameters. When the performance is to be increased due to deviations from the planning, then the capacity of the dimensioned system is exceeded. A lack of labour or material can be given as an example. When the output is to be decreased, the intended productivity cannot be achieved.
+An increase of the planning efforts can only partly compensate these uncertainties. The problem is very obvious in the reconstruction of buildings. In general, problems for which differences between planned and actual efforts are found should be interpreted in this context.
+In order to compensate for differences between planned and actual efforts, reserves have been foreseen by construction companies. These reserves are based on estimations, which can, however, be not satisfactory. Therefore attempts were made to determine this variable mathematically. As a result, the amount of the reserve is considered as a planning strategy. The uncertainties of the analysis of the building conditions are forming the opposing side. A pay-off function has to be determined for both according to the game theory. If the amount of the reserve equals the performed construction efforts, the target is reached. In this case the value of the pay-off function is set to 1. In all other cases there is a diminution by a quotient smaller than 1.
+Pi – planning reserve; Z j– difference; m – number of the analysed strategies (strategies of player I); n – number of difference classes (strategies of player II).
+This, the two-person zero-sum game is defined. It is solved according to the Bayes criterion (Peldschus 1986).
+Plumbing in reconstruction of buildings in Leipzig
+For the numerical calculation, the required range is defined. As indicated in Table 2, in this case the range was set from a shortfall of – 20% to an exceedance of 50% based on statistical investigations.
+Plumbing in reconstruction of buildings in Leipzig
+The calculated planning reserve is 20%. Such correction values may be also calculated for other crafts (Höher and Peldschus 1981).
+The complex assessment is feasible with a game-theory model, if single evaluations for the defined criteria are available and if the evaluation of the interrelation cannot be performed by summation or by multiplication due to lacking validity.
+A weighting of the analysed variants in terms of a global goal is obtained with the gametheory model. This result may be interpreted as a ranking and it is valid in the sense of shares. The game value may be understood as grade of effectiveness with respect to the global goal and may be assigned to a defined classification.
+The quality of the results depends on the validity of the pay-off function. In the simplest case it can be defined by evaluation numbers (point system) or in case of a more detailed input by effective values.
+Nine comparable buildings were chosen for this survey, outliers have not been considered. These buildings are characterized according to water consumption [m³/m²], heat requirement [kWh/m²] and electricity consumption [kWh/m²]. Heat requirement and electricity consumption have got the same unit of measurement. But their values cannot be summed up, because prices for heat requirement and electricity consumption are not the same. Thus, the addition would distort the statement. The consumption costs also are not relevant because of the partly considerable price difference in various regions.
+As non-monetary criteria, exemplary elements of use were considered which express customer and employee friendliness.
+Air conditioning
+Consumption of electricity
+
+Heat consumption
+District heating
+District heating
+The numerical processing is done with the help of the computer program LEVI 3.0
+(Peldschus et al. 2002; Zavadskas et al. 2002, 2004; Zavadskas and Sivilevičius 2005; Zavadskas and Turskis 2008) jointly developed by VGTU Vilnius and HTWK Leipzig. There, air conditioning/ventilation was taken into account with 50%, automatic doors with 10%, and elevator with 40% respectively.
+Because of the different dimensions or statements, the values in the matrix cannot be compared. Therefore a transformation is performed to an interval with dimensionless values, the interval [1; The computer program LEVI 3.0 allows the following transformations: normalization of vectors, linear transformation, relative variance and non-linear transformation. For the task in question the non-linear transformation (formula 7) was chosen. This decision is justified because of the values range of the criteria examined. With values for the range ≤ 2 min the other transformations are only applicable to a certain extent or not at all.
+The game-theoretical equilibrium point (formula 3) of the game is formed from the evaluation of the buildings 1, 5 and 9. Of these, building 1 yields the best valuation. However, the difference to building 5 is insignificant. Therefore both buildings can be considered as approximately equal. With regard to criteria, the equilibrium point arises from the effect of the criteria water consumption, heat consumption and electricity consumption. Because of their functional course, equipment and furnishing are not included in the solution.
+The calculated value of the game is υ= 0.434, and can be rated as quality level of the group of buildings. The value can be used for comparison between several groups of buildings (Peldschus and Reichelt 2002).
+This method has also been applied to assessing the obstructions of construction works in the reconstructed buildings of the chemical industry (Simon 1982), the assessment of noise control measures (Peldschus 1986) and the sensitivity analysis in land evaluation (Meszek 2004).
+Theory of fuzzy games
+New approaches can be developed by applying the theory of fuzzy sets to the game theory. Thereby it is feasible to develop numerical solutions to problems which cannot be defined exactly.
+A fuzzy set A in X is a set of ordered pairs.
+Hereby µA ( )x is the degree of association of X with the fuzzy set A. The entirety of the values µA ( )x for all potential elements x of X constitutes the association function. This association function µA ( )x can reach all values of non-negative real numbers. Generally it is oriented to the interval [0; 1], 0 ≤ µA ( )x ≤1.
+The association function µA ( )x can be interpreted as:
+– degree of the contentedness of x in A;
+– degree of association of x with A;
+– degree of the possibility of incidence of x;
+– degree of compatibility of x with a given characteristic; – degree of the engagements of x for a target;
+– degree of comprehension of x in an issue;
+– degree of concordance of x with a given statement.
+The interpretation of the association function is task dependent. Hence it has to be re-defined for every problem. For a fuzzy decision association function µA ( )x indicates to which grade each element x complies with the given requirements.
+An element x∈ X represents an optimal fuzzy decision, if x has the maximum degree of association to A.
+Different concepts for determining the association function are known. Piecewise linear functions are often used. Functions of an S-shape are more suitable for solving engineering problems. The interpolating cubic spline function has proven to be suitable for practical problems of multi-criteria decisions (Omran 1988).
+With  the  nodes (x0; 1) and  the  boundary  conditions µ′A (x0) = µ′A (xM ) = 0 and µ′′A (xD ) = 0 two third-grade polynomial are obtained. These are attached continuously in xD in a way that they can be differentiated twice. Thus for xm > x0 the following approach is obtained:
+The coefficients (A,... , H) are calculated from an equation system (14), which is defined by the requirements to µA ( )x of continuity, existence of the first and second derivatives, and the selection of the nodes.
+The equation system (G1), ..., (G8) is not singular and possesses a unique solution. In order that µA ( )x ⊂ [0; 1] and it is also monotone in xi , the following condition must be fulfilled, which is usually the case:
+Complications only arise, if xD is near a0 or xM .
+For the combination of the theory of matrix games and the theory of fuzzy sets a threestep model was proposed (Omran 1988). The fuzzy game Γµ, which contains partly or wholly fuzzy information, can be described as follows:
+strategies of player I ;
+association function for the strategies of player I;
+strategies of player II;
+association function for the strategies of player II
+with respect to strategies of player I ;
+pay-off function j = 1, ..., n;
+association function for the pay-off function j = 1, ..., n.
+The transition from game Γ to game Γµ is done in 3 steps:
+On the set of strategies of player I a fuzzy set is defined. The set of the strategies and the set of the criteria, which quantitatively describe the set of the strategies, are known. For each criterion the association function (15) is calculated, i.e. the norm values are transferred to association values. Thus, for each strategy of player I an association value for several criteria is obtained. As compensation between the criteria is admitted, a summation is done by calculating the arithmetic mean (Laplace-criterion).
+In the second step the strategies of player II are considered. Also, on the set of strategies of player II fuzzy sets are defined and association values are calculated according to (15). The mapping of sets is done in matrix format. This first gives a basic matrix for the game Γµ to be solved. In contrast to the first step, this matrix is interpreted with respect to the game theory.
+The third step is combination of step 1 and 2. Thus, it is an intersection of the strategies of players I and II.
+A widely accepted approach is based on Bellmann and Zadeh (1970), in which the fuzzy decision is defined as the intersection of the fuzzy sets for the fuzzy goals Z and the fuzzy set of the restrictions R. For the average of the fuzzy sets Z and R the association function is defined point wise by the operator
+As a result, the actual fuzzy game matrix is obtained. For the solution, the min-maxprinciple, adopted from the classic game theory, is used.
+Applications
+The developed algorithm for fuzzy matrix games is a fuzzy concept for multi-criteria decisions. This concept was developed for considering internal and external influences.
+Internal influences have the character of experiences and they apply until the system comes in use, i.e. in the construction or production phase. External influences describe a new quality. They have the character of prognosis and represent the utilisation phase. Thus an algorithm is available to aggregate also quality characteristic with a hierarchical structure, hereby admitting different phases.
+For practical applications the construction variants become the strategies of player I. All real construction variants, which could be discussed for the problem to be solved, are considered. These construction variants are evaluated with respect to several parameters. The parameters represent the internal influences and relating to the construction phase. As specific parameters, the following examples can be given: the required space, the construction time, the construction costs, the required capacity etc. For these criteria values, association values are calculated according to (13). Compensation between the parameters is admitted, so that the application of a compensatory parameter (17) is appropriate. With the calculation of the association values for the strategies of player I, their effective share is expressed. The strategies of player II contain the influences from the use of the building. These include: the resistance against failure of the construction, the amortisation, the operational and energy costs. They represent the external influences. The interrelation of the strategies of player II with the strategies of player I are described with the minimum operator (18). A matrix, which describes the fuzzy game, is obtained as a result. The solution is found using the min-max principle (3). It has a strategical character.
+Specific investigations have been performed for variant evaluation of cable routes in the chemical industry and for water supply systems (Peldschus and Zavadskas 2005) as well as for multiple-criteria decisions in risk management (Reichelt and Peldschus 2005).
+The game theory applications show new possibilities of the solution of conflict situations in construction, which are constituted by the consideration of several, partly contradictory, objectives. These serve the attempt for gaining maximum benefit in conducting construction works. It is known which difficulties are associated with such a task, even in case of a number of comparable situations. Therefore approaches, which are achieved by the application of mathematical methods, are shown. These methods differ substantially from those applied so far. The result of these investigations is the selection of the optimal variant in consideration of several criteria and the compliance with practical conditions associated uncertainty, lack of information and fuzziness. With fuzzy games a lot of new solution possibilities for problems from technical fields, economical fields, investment planning, etc. arise. The solution of fuzzy games forms a new quality of decisions, which represent a high degree of complexity.
+The application of the theory of matrix games may seem simple. It was, however, proven, that every real conflict situation is difficult to be analysed due to many, also complex, influences. Every formal description of a matrix game exhibits particularities, which need to be considered in the solution as well as in the formalisation of the pay-off function. The purpose of the results is always the decisive element. Here a clear and unambiguous definition of the problem is necessary. This issue becomes more and more important in the light of increasing complexity of construction preparation, and the need for objectiveness gains new dimensions. The application of the theory of matrix games will contribute to the improvement of the objectiveness in construction preparation.

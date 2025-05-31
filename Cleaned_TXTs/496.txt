@@ -1,0 +1,385 @@
+Factors affecting the bid/no bid decision in the
+To cite this article: Abdulrahman Salem Bageis & Chris Fortune (2009) Factors affecting the bid/no bid decision in the Saudi Arabian construction contractors, Construction Management and Economics, 27: 1, 53-71, DOI: 10.1080/01446190802596220
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (January 2009) 27, 53–71
+Factors affecting the bid/no bid decision in the Saudi Arabian construction contractors
+ABDULRAHMAN SALEM BAGEIS1* and CHRIS FORTUNE2
+School of the Built Environment, Heriot-Watt University, Edinburgh EH14 4AS, UK
+School of the Built Environment, University of Salford, Salford M5 4WT, UK
+Received 10 December 2007; accepted 28 October 2008
+The bid/no bid decision requires an understanding of a company’s assessment in relation to factors affecting the decision. Different companies might have different assessment values. The aim is to investigate how bid/no bid decisions are influenced by different characteristics of contractors. Various factors are identified and then analysed in order to investigate their influence and relative significance. A questionnaire survey was used to identify and rank the factors affecting the bidding decision and then analyse them in terms of differences between the returned responses with respect to the differing respondent characteristics. The findings have established the ranking order of the factors affecting the bid/no bid decision and identified their weights of importance. In addition, the influence of these characteristics upon the different weights of importance given by the survey respondents is found to be statistically significant. The most influential characteristics that affected their assessment of the weight of importance are contractor size, classification status of the contractor and the main client type. Different contractors’ characteristics should be reflected in the way that the bid/no bid decisions are modelled. Also, the data collected should be categorized with regards to contractors’ characteristics before starting the data analysis and modelling processes.
+Bid/no bid decision, decision making, project selection.
+Introduction
+One of the main features of the Saudi Arabian (SA) construction industry is the existence of a contractor’s classification certificate. Obtaining a classification certificate is one of the principal requirements of a contractor bidding for government projects, as it is stipulated as being necessary in the reports of the Ministry of Municipal and Rural Affairs (2008). One of the aims of the contractor classification system is to help contractors to bid for projects that are appropriate to them. In fact, selecting the right project to bid for is a principal feature of business success. The bid decision is crucial, in this context, to allow contractors to evaluate their proposed projects or their invitations to bid before accepting them and committing themselves to the bid-preparation processes. Researchers have been concerned with the problems of bidding strategy since the time of Friedman (1956) to explore the bidding decisions
+and to establish methods by which the bidding decisions can be modelled. As a result of such research, six bid/no bid models were developed by Ahmad (1990), Abdelrazig (1995), Wanous et al. (2000, 2003), Lowe and Parvar (2004). All of these models have depended on the weight of importance given to each factor considered and the contractors’ assessment of each factor in order to complete the modelling procedures. None of the previous models have specified the model user—instead, they have developed a general model for all types of contractors. The previous models have not investigated the influence of different types of contractor on the way of modelling the bid/no bid decision.
+The aim is to investigate how bid/no bid decisions are influenced by different contractors’ characteristics. In particular, to investigate if different contractors’ type has different weights of importance assigned to each factor considered as being important in the bid/no bid decision. Such an investigation will result in adjustments upon the methods and procedures of modelling
+*Author for correspondence. bageis111@gmail.com
+the bid/no bid decision.
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2009 Taylor & Francis
+A small number of qualitative studies have examined models of how actual bidding decisions have been made in practice (Wanous et al., 2000). Generally, it has been found that the focus of such research was on the mark-up decision. The thrust of this work is that the bid/no bid decisions are equally significant to industry and yet this decision process gets less attention from the researchers in the field. Relatively few models for the bid/no bid decision have so far been established. Many researchers have identified factors that affect the bid decision in their studies, e.g. Ahmad and Minkarah (1988), Chua and Li (2000), Egemen and Mohamed (2007), Lowe and Parvar (2004), Shash (1993) and Wanous et al. (2000). These studies have identified factors affecting the bid/no bid decision and mark-up determination factors. It is found that these factors differ in the level of importance assigned to each factor for each decision (Egemen and Mohamed, 2007). It is also found that each study has identified factors that are associated with the construction industry under investigation, and these identified factors are not mentioned in other studies. Also, it is found that most of the studies relied on the identification of factors explored in the study of Ahmad and Minkarah (1988). This necessitates a revision of the identification of these factors. This provided an opportunity to re-examine and identify these factors and establish their importance index with respect to the bidding environment in SA.
+Regarding the bidding environment in SA, AbdulHadi (1990) identified 37 factors affecting the bid/no bid decision from the point of view of contractors operating in SA. These factors came from a literature review. The identified factors were ranked according to their importance to SA contractors. However, most previous studies have mentioned the importance of doing exploratory studies with qualitative interviews in order to identify the potential factors associated with the industry under investigation and thereafter using a quantitative method to rank their importance.
+Since Abdul-Hadi’s study, many studies have been published, which have identified more potential factors than the factors he picked up. The results of those studies differed in terms of the factors’ weights of importance and in the number of listed factors in the questionnaire survey, as a result of the different countries that the surveys covered. Also, it is found that there are slightly different names for similar factors. The factors were also categorized differently: some studies categorized them as internal and external factors, some categorized them as positive and negative factors, and some of them as groups of factors; each group has factors that related to each other.
+The review of the literature resulted in identifying 100 potential factors affecting a contractor’s bid/no bid decision (see Table1). The factors identified were then divided into 10 groups. The groups were developed on an intuitive basis, including project characteristics, business benefits, client characteristics, contract, project finance, company characteristics/situation, firms’ previous experience, bidding situation, economic situation and competition.
+Ahmad and Minkarah (1988) conducted a survey into two sets of criteria, one for the bid/no bid decision and the other for mark-up decisions. Their work was aimed at discovering the factors that characterize the bidding and decision-making process in the USA. That research identified 31 factors: it can be seen that some of the identified factors were considered to be very important at the mark-up decision stage but not at the bid/no bid decision stage, while other factors were considered important at both stages. This finding is important, as it reveals that the bid/no bid and the mark-up decisions are separate activities which may share the same factors. Ahmad and Minkarah’s (1988) work is the first that considers the factors affecting the bid/no bid decision.
+Shash (1993) identified 55 factors that influence the bid/no bid and mark-up decisions by top UK contractors. The findings of that study support the findings of Ahmad and Minkarah (1988) in opposing the assumption that competitiveness and profitability are the basis of current bidding models. In both studies, there was no attempt to test the different responses of the respondents with regard to the weights of importance given by them to the factors listed for scoring. It is posited that investigating the respondents’ characteristics and their assigned scores for the importance of the factors will lead to better model accuracy. Accuracy of the model is affected by the weights of importance that are incorporated within it. In this sense, weight of important of each factor is important and should be applicable to the user of the model, which means it should be applicable to the user type, size, etc. Such an approach would establish weights of importance of each factor in line with the contractors’ characteristics and strategies.
+Shash and Abdul-Hadi (1993) studied the differences between small, medium and large contractors with regard to the importance of the factors affecting their decision on the size of project mark-up in SA, and found that different-sized contractors had different factor weighting. It was found that nine factors among the 37 listed were the greatest contributors to the discrimination between the responses of small, medium and large contractors. The same conclusion was
+Table 1	The factors identified from the literature review
+Factors identified from the intensive literature review
+Shash factors UK
+Wanous	Chua and Li
+factors Syria	factors Singapore
+(Wanous, 2000)	(Chua and Li,
+Lowe and Parvar factors UK
+(Lowe and Parvar,
+1	Size of contract in SR
+(size of the project)
+2	Duration of the project
+Project timescale and penalty for non-completion
+3	Location of the project
+4	Project cash flow
+5	Current work load
+6	Past experience with
+
+Risk expected
+Risk involved due to the nature of the project
+8	Risks expected
+(availability of work)
+Risk in fluctuation labour prices Risk in fluctuation material prices
+9	Type of equipment
+Availability of equipment owned by the
+Type and number of equipment required
+Internal resources (managerial and technical) to support the project
+Type and number of
+supervisory persons required Type and number of
+Availability of skilled labour
+Internal resources (managerial and technical) to support the project
+11	Type of project
+Project timescale and penalty for non-completion
+Identity of owner/ consultant
+14	Availability of required cash
+Financial resources to support the implementation of the
+(Ahmad and	1990)	2000)	2004)
+Availability of qualified human resources
+Availability of qualified staff
+Internal resources (managerial and technical) to support the project
+Uncertainty in cost estimate
+General (office) overheads
+Strength in industry
+Strength of the firm
+Required bond capacity
+Internal resources (managerial and technical) to support the project
+Fulfilling the to-tender conditions imposed by the client
+Availability of equipment and materials
+External resources (plant, material and subcontractor) to support the implementation of the
+Quality of available labour
+Availability of skilled labour
+Availability of qualified labour
+owned by the
+technical) to support the project
+Tender procedure
+Are the bidders equal, or are they similar contractors with similar overheads?
+Competitiveness of competitors
+Competence of estimators
+Type of contract
+Need for work
+Reliability level of subcontractors
+Time allowed for submitting bids
+Availability of labour
+External resources (plant, material and subcontractor) to support the implementation of the
+41 Availability of other	Overall	?
+
+42 Confidence in workforce	?
+43 Site clearance of	? Site space obstruction	constraints 44	Completeness of	? drawings and
+45 Degree of difficulties	?
+46 Prompt payment habit	Delay or shortage	? of the client	on payment
+47 The client financial	?
+49 Degree of difficulties in	? Financial resources to obtaining bank loan	support the
+implementation of the project
+50 Availability of qualified	? External resources subcontractors	(plant, material and
+subcontractor) to support the implementation of the project
+51 Rate of return	? 52	Contingency	?
+54 Supervisory persons	? Type and number of
+55 Time of bidding (season)	?
+57 Design team	? Designer/architect/
+building resources
+Percentage of insurance premium
+Method of construction
+Specific feature that provide competitive advantage
+Relation to other contractors and supplier
+Original price estimated by the client
+Expecting date of commencing
+Public objection
+Degree of buildability
+Adequacy of resource market price information
+Possession of qualified staff
+Possession of qualified labour
+Possession of qualified subcontractor
+Degree of subcontracting
+Consultants’ interpretation of the specification
+Familiarity with site condition
+Company ability with respect to design involvement and innovation
+Past experience in managing similar project
+Project timescale and penalty for non-completion
+The benefits expected in terms of the company reputation
+Promotion of company reputation
+Need for continuity in employment of key personal and workforce
+Degree of technological dif-
+Economic contribution of the project
+Ability of executing the project
+Internal resources (managerial and technical) to support the project
+derived from a study looking at contracting organizations from the Northern Cyprus and Turkish construction industry (Egemen and Mohamed, 2007). They found that smaller contractors assigned higher-thanaverage importance scores to 10 of the sub-goals compared to medium-sized contractors. These results test whether the factors’ weights against differing contractor characteristics (e.g. the contractors’ classification status, size, the type of work and the main type of client (public or private sector)) is significant in order to provide a framework that facilitates the modelling stage of bid/no bid decision.
+All the above-mentioned studies used a questionnaire technique to generate the weights and ranking order of the factors. Other studies have used other methods for generating the weights of the factors found to influence the bid/no bid decision-making process. For instance, Lowe and Parvar (2004) generated the factors’ weights from data from historical projects, which had been collected from a collaborating organization. Their study aimed to predict the bid/no bid decision by investigating the relationship between the factors affecting the bid/no bid decision and the decision made by the company.
+Correlation found in Lowe and Parvar’s study (2004) showed that only eight of the 21 listed factors had a significant linear relationship with the decision to bid. This number of factors seems small in comparison to the number of factors thought to affect the bid decision highlighted in previous studies. This was because functional decomposition was used to organize and classify the factors. This technique emphasizes the importance of the existence of a recording mechanism in the construction company, which proved to help in modelling the bid/no bid decision. Many companies in SA have no recording mechanism that allows the company to revisit its past bid/no bid decisions and to identify the reasons that were behind accepting or rejecting an invitation. This makes it difficult for this technique to be adopted.
+Four studies have already considered the bid/no bid decision. First, Abdelrazig (1995) used the 37 factors identified from Shash and Abdul-Hadi (1993) to develop a model. The analytic hierarchy process (AHP) was used in Shash and Abdul-Hadi’s study and with the use of a computer program named ‘expert choice’ they produced a bid/no bid decision aid. One real-life example was used to demonstrate the application. This technique seems more appropriate for evaluating alternatives rather than for the evaluation of a single tender. Most of the problems in applying the AHP occur in the priority-setting stage of the listed factors. Particularly when the process is being used for the first time, the number of factors being compared and the order in which the pair comparisons are made
+should be carefully monitored. This is characterized as being a highly complicated process. As a result the structure of the AHP and its related weights should be updated and reviewed according to the current situation of the company by repeating the pair comparison again. This process is time consuming and duplicates effort by the contractor, in that the judgement on the importance level of each factor must be reassigned again at the start of each project’s evaluation.
+The other three models were introduced and developed (by Wanous et al., 2000, 2003) and an artificial neural network (ANN) technique on the bid/no bid and the neuro-fuzzy ‘bid no/bid’ model were tested on reallife projects to generate the weights of the factors considered. These two techniques are based on the input data obtained from the contractors regarding their assessment of the factors affecting the bid/no bid decision and linking it with the actual output data, which forms the final decision. Then by using its knowledge base, the (ANN) technique generates the connections between the input and the output, and this weighted connection will be used to develop a simple computer program called Smart Bidder to help in the bid/no bid decision-making process. The problem with these techniques is that they are less understandable to the users due to the ‘black box’ nature of their processes. The third model (a parametric solution model) used the weights of factors that were generated from a questionnaire survey that was distributed among Syrian contractors. That research generated the weights and the rank order of the listed factors from results of quantitative analysis. Wanous et al.’s research was the first on the topic to use parametric analysis to solve the problem of the bid/no bid decision. The decision framework is user friendly and it gives reasons behind the recommended decision, but this solution does not specify characteristics of the user (the contractor) of the model. This means it adopts a ‘one solution fits all’ approach irrespective of the types of contractor. In addition, the focus of Wanous et al.’s studies (2000 and 2003) is the contractors in Syria, whereas this study’s focus is the contractors in SA. Furthermore, Wanous et al.’s studies (2000 and 2003) considered only 38 factors, while this study is concerned with a much larger number (see later). As a result it was decided to use a questionnaire survey to collect the data and then analyse the data in terms of differences between the returned responses with respect to the differing respondent characteristics.
+The final output of the reviewed model(s) is used not only to generate the weight of importance for each factor but also to recommend a bid/no bid decision for unseen bidding situations. It could be argued that there are dangers in using decision makers’ opinions (contractors’ assessment) on the relative importance of the factors/variables to derive an effective decision tool. As the work of Lowe and Parvar (2004) shows, there is a discrepancy between what is perceived to influence the decision and what actually does impact on the decision. The rational basis of making this decision is anticipated to improve the accuracy level of the contractors’ assessment. Risk is in place where the rational basis is absent, hence the possible consequences of such a decision may result in prevention of the contractors from fulfilling contractual obligations and subsequent losses may be involved.
+A generalized model/framework seems to be a more appropriate solution in this case, as an individual model would help the beneficiary’s organization only: inexperienced contractors would not benefit directly from the developed model. The individual model would consider only the case of the cooperating company and would not necessarily correspond with other companies’ positions, especially as the literature review shows that the bid/no bid decision is influenced by a company’s strategy and current situation.
+The findings from the literature reviewed and a preliminary study conducted in SA resulted in 92 potential factors affecting contractors’ bid/no bid decisions being identified. Following inspection it was resolved to remove 29 factors due to their ‘nonapplicability’ to the SA construction industry. The literature reviewed and the pilot interviews conducted revealed a further 24 factors. As a result, the final number of factors considered in the questionnaire survey was 87. The second phase of the research considered the importance level of these factors with regard to the SA construction industry, and then investigated the influence of contractors’ characteristics upon the bid/no bid decision.
+The data were collected primarily from construction and maintenance contractors in SA. The managers and project managers involved in the bidding decision were the key respondents, who provided all the necessary information. The method used for the collection of the data was a written questionnaire survey. The survey design and format was based on a survey undertaken by Ahmad and Minkharah (1988) and updated and modified to suit the bidding environment in SA in order to achieve the study objectives.
+The records of the SA Ministry of Commerce and Industry indicate that there are 584314 registered construction firms in SA, of which 174276 are contractors working in the field of building construction and maintenance (Ministry of Economy and Planning, 2004). A more authoritative source, however, is that of the Ministry of Municipal and Rural Affairs. This ministry has a contractor’s classification office which has complete records that include the contractor firms’ status, names, addresses, degree of classification and speciality. The number of contractor organizations listed on the Ministry of Municipal and Rural Affairs database, whether classified or not, was 3612 in 2004. The list of these companies was obtained from the contractor’s classification deputy in order to select the research sample.
+The size of the sample was determined by using the following formula (Kish, 1965; Shash and Abdul-Hadi, 1993):
+N5total population53612; V5the standard error of sampling distribution50.05;
+S5the maximum standard deviation in the population elements;
+Total error50.1 at a confidence level of 95%; S25(P) (12P)5(0.5) (0.5)50.25; P5the proportion of population elements that belong to the defined class.
+Substituting the pre-defined variables a sample size of n597 was determined.
+Data analysis and results
+The total number of questionnaires distributed was 240, of which 91 were returned, giving a 38% response rate. The analysis considered the differences in response of the main group’s variables. The respondent was asked to answer four questions in order to identify their company characteristics. These four questions considered the four groups of variables as being: the size of contractor; the company’s main client type; the company’s type of work; and the classification status of the contractors. Each one of these groups has further sub-groups as shown in Figure1.
+The main characteristics of the respondents were investigated, as it was suspected that differences in respondents’ answers were a result of differences in their organizational characteristics. The percentage of each category is shown in Figure1. The main results of the survey are summarized in Table2.
+The general statistics in Table2 are seen to provide evidence for the need for the research. An indication of the importance of practising the evaluation of proposed projects before making the decision to bid was obtained. Also, confirmation of the gap between theory and practice was shown, pointing out the need for the development of a user-friendly decision support framework, as the industry relies more on negotiations with inhouse experts and company historical data to produce bid decisions, and relatively, existing model/decision support frameworks received a much lower score.
+The importance level of the factors affecting the bid/ no bid decision was identified. The respondents were requested to assess the effectiveness of 87 identified factors that in their judgment and experience related to the bid/no bid decision. The rating scale used was 0 to 6, where 0 indicated the lowest effect and 6 the highest. Using scores given by the contractors for each factor produced an importance index for each factor. The level of importance of the factors used was calculated using the following formula:
+Importance index where:
+a5constant expression—the weight given to the factor in each response (0(a(6); N5Total number of responses; S (a*X)5the weight average of (a).
+Each factor’s rank was generated from the above formula. The highest rank should be closest to 100 and the lowest rank should be closest to 0. The factors’ ranking order is shown in Table3.
+From the output shown above, the highest ranked factor was 95, and the lowest ranked factor was 50. As the cut-off score was 50 (the cut-off point is the mean value that separates the factors from being important, neutral to unimportant), this indicates that none of the 87 factors were considered unrelated and/or
+Agreed that consideration of the project selection phase was important, the mean score was 4.19 out of the top score of five
+Evaluated their potential project before accepting the invitation to bid
+Depended on negotiations with in-house experts and the company historical data records to produce the decision to bid for a project or not
+The actual use of an existing model/decision support framework received a much lower score
+Agreed that construction process knowledge—regarding the proposed project—is significant in the bid/no bid decision-making process
+Agreed that they were in need of an aid to solve the bid/no bid decision problem
+Stated that they are not in need of an aid to solve the bid/no bid decision problem
+Stated they are not sure of their need for an aid to solve the bid/no bid decision problem
+Agreed that the consideration of the project selection stage would enhance their company business performance
+Table 2	General statistics results of the survey
+unimportant. None of the respondents added any more factors. This supports the view that the construction industry in SA has a different weight and ranking order regarding the importance level of each of these factors. This conclusion has been drawn after a comparison conducted between the obtained results and ranking order with the previous studies’ results and ranking order. As an example of this comparison, the five factors with the highest ranking for importance revealed in the study of Abdul-Hadi (1990), which was conducted on the SA construction industry, were: project cash flow; availability of required cash; type of contract; availability of required staff; and experience in similar projects, whereas it was found that the highest ranked five factors were different as they were: client’s financial capacity; prompt payment habit of the client; the project payment system; clarity of the work; and specifications and project cash flow.
+In order to be able to select the most important factors (i.e. those factors that are the most informative and important in affecting the contractors’ perception of the bid/no bid decision) a factor analysis was conducted. As the aim is to select those factors that keep the most relevant information, and not to uncover hidden variables in the given factors, it was decided to use principal component analysis (PCA) rather than principal factor analysis (PFA).
+PCA is in general ideal for reasons of data reduction, while common factor analysis is in general ideal when the research aims to discover data structure or causal modelling (Wilkinson et al., 1996). PCA was used to discard some indicators in order to arrive at the smallest possible set rather than attempting to group indicators as the clustering methods do. A clustering method was not used as it will result in components that include more than correlated factors, which seems difficult for contractors to assess. Instead, breakdown of the components into more specific factors was pursued, as using general names of the components may be seen
+Table 3	The factors’ ranking order
+The factors
+Industry index
+The factors
+Industry index
+The client financial capacity
+Availability of equipment and materials
+Prompt payment habit of the client
+The ability of modifying the contract
+The project payment system
+Seriousness of the client
+Clarity of the work and specifications
+The possibility of work extension
+Project cash flow
+Overall economy (availability of work)
+Ability of project execution
+Required bond capacity
+Availability of required cash
+Quality of available labour
+Work capital required to start the project
+The project matches the company’s strategy and future vision
+Size of client
+The client honesty
+Sufficiency of project’s information
+Past experience with the client
+Type of labour required
+Reliability level of subcontractors
+Past experience with similar project
+The benefits expected in terms of the company reputation
+Type and number of supervisory and labour required
+Familiarity with site condition
+Availability of qualified human resources
+Uncertainty in cost estimate
+Size of contract in SR
+Degree of difficulty in obtaining bank loan
+Availability of required equipment
+The procedure of dispute resolution
+Current work load
+Are the bidders equal, or are they similar contractors with similar overheads?
+Client’s reputation with contractors they had previously worked with
+How many bidders will there be?
+Original price estimated by the client
+Confidence in workforce
+Location of the project
+Use of nominated subcontractor
+The ability of portion subcontracted to others
+Time of bidding (season)
+The benefits expected in terms of the project management experience
+The cost of preparing the bid
+Availability of labour
+General (office) overheads
+Who else is likely to bid for this job?
+The benefits expected in terms of the general relationship
+Time allowed for submitting bids
+The contract special requirements
+Establishing long relationship with the client
+Degree of possible alternative design to reduce cost
+The benefits expected in terms of the equipments assets of the company
+Will be there many unknown factors such as labour rates, materials prices or other prevailing economic conditions which may upset the project?
+The receipt of the work and work measurement
+Past experience with the management consultant
+Completeness of drawings and specification
+Design team
+Duration of the project
+The client’s experience of the construction industry
+Table 3	(Continued)
+The factors
+Industry index
+The factors
+Industry index
+Past experience with the design team
+The responsibility of issuing the work permits
+The classification class required
+The project supervision procedure
+The benefits expected in terms of the labour experience
+Company ability with respect to design involvement and innovation
+Type of contract
+The possibility of project extension
+Need for work
+The possibility of additional work	72.59
+as an obstacle for the contractors, making their assessment on the factors less efficient than it should be.
+Factor name
+Factor name
+1	The client financial capacity
+Past experience with the management consultant
+2	Project cash flow
+Duration of the project
+3	Ability of doing the project
+The project supervision procedure
+4	Availability of required cash
+Type of contract
+5	Work capital required to start the job
+The possibility of additional work
+6	The project is matching the company
+strategy and future vision
+Size of client
+7	Previous experience with the client
+Sufficiency of project’s information
+Type of required labour
+9	Past experience with similar project
+10	Size of contract in SR
+Familiarity with site condition
+Uncertainty in cost estimate
+12	Current work load
+Degree of difficulties in obtaining bank loan
+13	The client reputation among other
+Are the bidders equal, or are they similar contractors with similar overheads?
+14	Original price estimated by the client
+Use of nominated subcontractor
+15	Location of the project
+Time of biding (season)
+16	The benefits expected in terms of the project management experience
+General (office) overhead
+17	Availability of labour
+18	The benefits expected in terms of the
+general relationship
+19	Degree of possible alternative design to reduce cost
+20 The benefits expected in terms of the equipments assets of the company
+The number of factors presented in the questionnaires was 87, while the returned questionnaires were 91; however, in an attempt to run PCA over the whole of the factors, the missing values, which have to be excluded list-wise, caused the sample size to be reduced to 65. As this was less than the number of factors, it did not make sense to run the procedure. Therefore, it was Table 4 The factor ranking for the retained factors
+decided to run partial PCAs on each of the defined groups of factors.
+Much research has been done using factor analysis to make decisions on the bid/no bid process. It was resolved not to include details of the PCA procedures, hence the focus is on how the bid/no bid decisions are influenced by the different contractors’ characteristics and not on how the PCA was conducted. Table4 shows the results of analysis and the remaining 39 factors.
+Contractor characteristics and the bid/no bid decision
+These differences were suspected to provide meaningful guidance for understanding the behaviour of the company regarding the factors affecting the bid/no bid decision. The following sections present the differences in the responses and their statistical analysis as appropriate. The sections are named by the question subject that the tests were run on, and the statistical significance of the result was established.
+The importance of project selection
+Ninety-four per cent of the respondents agreed that consideration of the project selection phase is important. This result supports the research purpose, as a high mean score was obtained. It was resolved to investigate whether there was a statistical relationship between the importance of project selection and the main group’s variables and the differences in the respondents’ answers. In this case the appropriate statistical test to use is the analysis of variance test (Pallant, 2004).
+The test examined whether respondents from different-sized contractor’s characteristics groups had different opinions regarding the level of importance given to the project selection stage. It was found that contractors’ with differing classification status were responding differently. This result was tested in terms of its significance, which was 0.025 which can be considered to be significant (Table5).
+This result showed that the classified contractors are more appreciative of the importance of the project selection stage. This is not surprising, as they have to consider projects that would help them to retain their classification certificate more than the non-classified contractors. The classification division in SA requires detailed information about its registered construction contractors and their completed and ongoing projects for an assessment to be made on them under the respective classification degree.
+Also, statistical significance was found between respondents on the group of different contractor size regarding the same question, and this result was tested in terms for significance (significance50.008) (Table6).
+These results show statistical significance, therefore it can be claimed that there is direct (positive) correlation on the level of importance given to the project selection stage and respondents’ organizational size. The mean score of large contractors was 4.55, while the mean score of medium and small contractors was 4.00. This result supports the case that the project selection phase is more important to the larger contractors than to the small and medium-size contractors. The high mean score for large contractor size could be a result of the fact that the project selection process requires more effort and consumes more time, so it requires specialists in the company. This would support the view that small and medium-size contractors are in need of a model or a decision aid to help them become more expert in making decisions on the processes involved in project selection.
+Evaluation of projects
+Projects were evaluated by 84% of respondents before accepting the invitation to bid, indicating that the majority of respondents do appreciate the importance of this stage. The test chosen to be applied here was the chi-square for independence, as it can determine whether two categorical variables (like the ones involved) are related. However, the test showed non-significant differences for the main groups of variables (apart from significance found in the group of contractor size with contingency coefficient50.013, which is therefore statistically significant) (Tables7 and 8).
+Table 6 ANOVA test, the importance of project selection vs. contractor size
+Within groups	73.677
+accepting the invitation
+uation of project before
+Table 5	ANOVA test, the importance of project selection
+
+Within groups
+Contractor size	Evaluation of project before	Total accepting the invitation
+Large contractors 23 4 5 32 Medium and small 53 0 6 59
+Linear-by-linear association
+No. of valid cases
+a3 cells (50.0%) have expected count less than 5. The minimum expected count is 1.41.
+This result is surprising as the previous question (on importance of project selection) identified significant variance in the responses regarding contractor group size. The previous result suggests that the large contractors are the companies who practise project evaluation at the bid stage as they appreciate its importance more, while this result shows the contrary. The result shows that none of the medium-sized and small contractors have answered ‘No’ for this question, whereas 12.5% of large contractors have answered ‘No’. This result indicates that the small and mediumsized contractors have to ensure that the proposed project is within their capacity, so they evaluate the project before it is accepted.
+The need for a bid/no bid decision aid
+To test whether respondents with different contractor characteristics have different opinions on the need for a bid/no bid decision aid, the data were tested using a chi-squared test for independence, in the form of the contingency coefficient. This test was chosen because the variables were categorical. However, the test showed no significant differences for the main group variables (apart from significance found in the responses from the group of respondents with a
+different classification status, which had a contingency coefficient50.033, and is therefore statistically significant) (Tables9 and 10).
+This result shows that the non-classified contractors are more certain of their need of a decision aid. That is surprising, as the classified contractors are more appreciative of the importance of project selection than the non-classified contractors, as shown earlier.
+Linear-by-linear association
+No. of valid cases
+a1 cells (16.7%) have expected count less than 5. The minimum expected count is 4.31.
+result conflicts to some extent with their responses to this question. This may be due to whether they think they have adequate experience to make this decision, or due to a general resistance to change.
+Importance of the consideration upon project selection stage
+To test whether respondents with different contractor characteristics had different opinions on the importance level of consideration of the project selection stage, the data were tested using a chi-squared test for independence, in the form of the contingency coefficient. This test was chosen because the variables were categorical. However, the test revealed non-significant differences for the main groups of variables (apart from significance found in the responses from the contractors involved in different types of work, which had contingency coefficient50.019, and was therefore found to be statistically significant) (Tables11 and 12). This result suggests that the contractors involved in construction work are more certain in their responses than the contractors involved in maintenance work. That is because the bid/no bid decision for construction work could be more critical than the bid/no bid decision for maintenance work, in terms of project process and project development.
+The importance level of the factors affecting the bid/no bid decision
+Table2 shows that all 87 factors can be considered important to the contractors operating in SA. If the
+Table 9	The need for a bid/no bid decision aid vs. contractors classification
+Table 11	Importance of the consideration upon the project selection stage vs. type of work
+Construction work
+Maintenance work
+Do you think that the consideration upon the project selection phase will enhance the company business performance?
+Linear-by-linear association
+No. of valid cases
+a4 cells (66.7%) have expected count less than 5. The minimum expected count is 1.80.
+broad categories of respondents (main group variables) are considered, the degree of importance of the 87 factors assigned by the main four variables can be seen to differ as the respondents’ characteristics changed.
+Regarding the main variable ‘contractor classification’, respondents’ answers were found to differ significantly in the degree of importance allocated to 11 of the 87 factors listed in the questionnaires. That means the classified contractors’ responses differ in comparison to the non-classified contractors’ responses. A one-way ANOVA test was run over the 87 factors as an independent list, with the contractor classification as the categorical variable. This showed where differences among the groups occur. However, the results illustrated in Table13 show the factors that scored less than 0.05, and so can be considered as statistically significant.
+Table 13	ANOVA test, 87 factors (main variable: contractors classification)
+2	Location of the project
+5	The benefits expected in terms of the company reputation
+6	Type of contract
+7	Project cash flow
+8	The project mark-up size
+9	Availability of required cash
+10 Confidence in workforce
+11 Required bond capacity
+Regarding the main variable of ‘contractor size’, respondents’ answers differed significantly in the degree of importance allocated to 21 factors among the 87 listed factors. This result means the large size contractors’ responses differ in comparison to the medium-sized and small contractors’ responses. The results are illustrated in Table14 and it can be seen that the factors that scored less than 0.05 can be considered as being statistically significant results.
+Regarding the main variable of ‘type of work’, respondents’ answers were found to differ significantly in their degree of importance for four factors among the 87 listed factors. That means the construction contractors’ responses differ in comparison to the maintenance contractors’ responses. The results are illustrated in Table15 and show the factors that scored less than 0.05 can be considered as being statistically significant results.
+Regarding the main variable of ‘type of client’, respondents’ answers were found to differ significantly in their degree of importance to 18 factors among the 87 factors listed. That means there are differences in responses according to the type of main client (public, private, both sectors). The results are illustrated in
+Table16 and show the factors that scored less than 0.05 can be considered as being statistically significant.
+
+The findings have established the ranking order of the factors affecting the bid/no bid decision and identified their weights of importance. It is found that there are different weights and ranking order regarding the importance level of each of the factors affecting the bid/no bid decision. The weight of importance given to each of these factors is inconsistent, and is affected by the characteristics of the company and the contractors’ type. In addition, the analysis shows that the influence of contractors’ characteristics upon the differing weights of importance given by the survey respondents is statistically significant.
+The four main groups of variables were statistically tested to investigate whether their opinions differed in a
+Factor name
+2	Location of the project
+3	The responsibility of issuing the work permits
+7	The cost of preparing the bid
+8	Work capital required to start the job
+9	Original price estimated by the client
+10	Degree of difficulties in obtaining bank loan
+11	Availability of required cash
+12	Ability of doing the job
+13	Availability of required equipment
+14	Availability of qualified human resources
+15	Need for work
+16	General (office) overhead
+17	Reliability level of subcontractors
+18	Required bond capacity
+21	Availability of labour
+Table 15	ANOVA test, 87 factors (main variable: type of work)
+Factor name
+1	Duration of the project
+2	Confidence in workforce
+3	Time allowed for submitting bids
+Factor name
+1	Size of contract in SR
+2	Location of the project
+4	The project supervision procedure
+5	Safety hazards
+6	Completeness of drawings and specification
+8	The benefits expected in terms of the equipments assets of the company
+9	Type of contract
+11 The cost of preparing the bid
+12 The project mark-up size
+13 Past experience with the design team
+14 Past experience with the management consultant
+significant way. The view that suggests that different contractors’ type have different weights of importance of the 87 factors is statistically supported. This suggests that at the stage of modelling the bid/no bid decision, the model user must be specified in terms of his/her characteristics. The most influential characteristics of the contractors that affected their assessment of the factors’ weights of importance were contractor size, classification status of the contractor and the main client type. Also, in the stage of collecting data that helps to build the bid/no bid model, the collected data must be categorized up to the contractor types in order to be used later only with the specified model that applicable to the user. Producing general model without specifying the model users proved to result in inaccurate decision recommendation.

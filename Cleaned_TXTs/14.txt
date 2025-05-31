@@ -1,0 +1,258 @@
+﻿Engineering, Construction and Architectural Management 2001 8 | 5/6. 403—417
+UK and US construction management contracting procedures and practices: a comparative study
+Helsinki University of Technoloo, Construction Econonzics and Managen,tent, PO Box 2100, 02015 HUT, Finland
+Abstract This study provides a framework for comparing construction management contracts in the UK and the US construction practices. It starts by reviewing previous studies on UK and US contracting practices and explores the main delivery methods, inform of comparison with construction management contracting systems. It examines construction management contracting types, processes and procedures and interaction between the construction manager and other stakeholders.
+was based on a literature review and the result shows the similarities and differences between the American and British CM systems within each practice and between both practices; the distribution of responsibilities and risks both in pre-construction and during the construction stages; and allocation of responsibility in both practices.
+Keywords compensation structure, construction management, first-tier contractor, management contract, risk and responsibilities distribution, stakeholders
+Previous comparative studies made on the UK and US contracting practices show their differences and similarities. Cox & Townsend (1998) made a comparison of international procurement, among the highlighted differences are markets, industry structure and supply chain characteristics. Flanagan et al. (1986) compared the performance of the UK and the US building industries on the basis of cost, speed of construction and quality of the finished product. Sanvido & Konchar (1999) comparison offers a performance-based, empirical investigation of the three principal project delivery systems based on the University of Reading Design and Build Forum study. Both studies show similar result in the area of unit cost, construction speed and delivery speed. Oyegoke (2001a) argues that the difference in US, UK and Japanese practices can be seen in user's requirement, project finance, internal construction process, and feedback and learning information in a form of research and development. Nahapiet & Nahapiet (1985) comparison show different patterns of responsibilities and relationships between client and other stakeholders by combing expertise, risk, flexibility and costs. Their findings show that contractual arrangement varies according to project characteristics and the circumstance surrounding each project, in terms of the type of client, project time and cost requirement.
+The institutional context of contracting system in UK practice shows that the structures of traditional
+construction supply chains are fragmented and dysfunctional, with too many 'non-value-adding' costs. With the creation of the Construction Clients' Forum (CCF) and the Construction Round Table (CRT), the demand side of the industry has become less fragmented (Cox & Townsend, 1998). The supply side of the industry continues to be fragmented both in terms of the professions and the constructors, e.g. project cost management is carried out by quantity surveyors. "Ihe US construction industry structure is characterized by liberalistic tendencies or market oriented, where barriers to entry in general contracting is generally low. The design professional's supply chain is in the form of multidisciplinary architectural/engineering practices. There is no core of quantity surveyors or independent cost managers, as re-measurement of completed work is generally not carried out (Cox & Townsend, 1998). Therefore, either the bill of quantities are given or not, the contractors make their own quantity takeoffs (Clough & Sears, 1994). The Business Round Table is the largest organization representing client interest (Cox & Townsend, 1998).
+Dorsey (1997) asserts that the success or failure of any delivery system is heavily dependent upon performance, trust and co-operation among the parties. Chua et al. (1999) identify key factors for construction project success in accordance with the project objective of budget, schedule and quality. The evolution of project delivery systems show that in the early 1900s, most projects were completed under lump sum
+contracts, which is now viewed as the 'traditional system'. Exceptions developed in the private sector to improve costs and in both the public sectors to improve schedules. Construction management emerges in the 1960s, consultative design and build in the 1970s, and programme management in the 1980s as owners sought more efficient ways to complete complex project (Dorsey, 1997).
+Seeley (1997) categorized procurement systems under four headings: lump sum either sequential or accelerated; design and build either direct, competitive or develop and construct; design and manage either by contractor or consultant; fee construction, i.e. management method either management contracting or construction management. Dorsey (1997) emphasizes that lump sum, cost-plus a fee/svith or without a guaranteed maximum price, design-build and construction management are the basic delivery systems plus numerous hybrids. Konchar & Sanvido (1998), and Haltenhoff (1999) categorize project delivery methods in US as: construction management; design/build; design/bid/ build with many variation and modification of these forms.
+Cornick (1991) asserts that there are four main procurement routes in UK: general contracting (GC), design-and-build (DB), management contracting (MC) and construction management (CM). The survey of building contracts in use in the UK since 1984—1998 by Langdon & Everest (2000) also supported the argument that management contracting and construction management have little share in UK practice. Kumaraswamy (1998) referring to Dowd (1996) linked the development, 'Design and Build', 'Management Contracting', and 'Construction Management' in the UK to particular periods of recession in the UK economy and corresponding depressions in construction demand.
+The construction management concept was based on the idea that teamwork can reduce or eliminate the adversarial conflicts inherent in traditional design-bidbuild. The beginning of construction management as a project delivery system was in the 1960s but it •was known as Professional Construction Management (PCM) (Naoum & Langford, 1987). When the owners were forced to seek for alternative delivery system to traditional general contract.
+Tenah (2001), Haltenhoff (1999) and Dorsey (1997) emphasize the reason why owners were forced to seek an alternative delivery system to the traditional general contract. There was thus a need to develop an alternative contracting system, one that retained the positive attributes of general contracting and included the positive features of design-build contracting but provided more contracting flexibility. The construction management contracting system was developed fully in the 1970s in response to owner requests for improved construction industry performance.
+Construction management is better for projects which take an extraordinary amount of time to complete and are technically complex, such as stadiums and arenas, etc. and other facilities involving diverse technologies and subsystems. The management contract emanates from the US and evolves in UK at the beginning of the 1970s with the aim of building more complex projects in a shorter period of time and at a lower cost (Seeley, 1997). Naoum & Langford (1987) postulate that in the UK, management contracting is similar to construction management. Cox & Townsend (1998) have highlighted the differences between the CM in the US and UK. They concluded by referring to Construction Management Forum (1991) that the construction management recognizes the role of management as an explicit professional function separate from contracting, and the forum sets out conditions for the use of CM from client's perspective.
+The aim of this study is to examine the differences and similarities in construction management contracting systems in the UK and US practices within each practice and between both practices. The aim of the paper is not to compare the UK and US construction industries or practices. The scope of this study is limited to a comparative analysis of CM practices in the UK and US, in terms of activities, types, contractual processes and procedures, etc., via a literature survey. A model was developed for the comparison and the results show the differences and similarities in the context of contractual links, contractual arrangements, information links, contractual responsibilities in preconstruction and construction phases, construction manager's involvement in construction activities, provision of special facilities, and contractual co-operation between the stakeholders.
+AND MANAGEMENT CONTRACTING
+Konchar & Sanvido (1998) define designJbid/buiId as a traditional project delivery system in the US construction industry where the owner contracts separately with a designer and a contractor. The owner normally contracts with a design company to provide 'complete' design documents. The owner or owner agent then usually solicits fixed price bids from construction contractors to perform the work. One contractor is
+usually selected and enters into an agreement with the owner to construct a facility in accordance with the plans and specifications. Haltenhoff (1999) termed this form as general contracting in US practice, while Franks (1992) referred to this system as traditional approach in UK practice. Seeley (1997) and Dorsey (1997) referred to this approach as lump sum contract in UK and US practice, respectively.
+the owner contracts with a single entity to perform both the design and construction under a single designfbuild contract. Portions or all of the design and construction may be performed by a single design/build entity or selected speciality work or, in some cases, all may be sub-contracted to other companies. Design and Build Forum of the University of Reading categorized design and build in UK practice as traditional design-build, consultant innovation and develop and construct. A newer approach of design-build uses a feebased management approach (Sanvido & Konchar, 1999).
+Haltenhoff (1999) defines agency CM as a contracting structure that consists of several prime contracts: (l) an agency contract between an owner and an NE (architect/engineer); (2) an agency contract between an owner and agency construction manager; and (3) several independent contractor contracts between an owner and trade contractors. Konchar & Sanvido (1998) define construction management at risk as a project delivery system where the owner contracts separately with a designer and a contractor who has
+contracts with a design company to provide a facility design and selects a contractor to perform construction management services and construction work, in accordance with the plans and specifications for a fee.
+Ashworth (1991) referred to management contract as a situation where the main contractor provides the management expertise required on a construction project in return for a fee to cover the overheads and profit. The contractor does not participate in the profitability of the construction work, i.e. not involve in direct construction or employ labour and plant directly. Except with the possibility of setting up the site and those items normally associated with the preliminary work. The appointment of management contractor can be made early on in the design process. %erefore he will be able to provide a substantial input into the design. Each trade section required for the project is normally tendered for separately by sub-contractors, either on the basis of measurement or a lump sum.
+The responsibility allocation in the four contracting systems show that project essential elements, e.g. design, project supervision, project management, safety and quality management, etc. (see Table l) are required for successful completion of every project no matter what type of procurement type used. The performance of project responsibilities are assigned to one of the stakeholder or shared by the two stakeholders or jointly managed by project team. Risks and responsibilities are assigned and managed by the principal participant that has larger contribution in a task. For instance, construction risks and responsibilities are assigned and managed by the contractor/constructor
+significant input in the design process. The 0',vner
+Table 1 Responsibility allocation in contracting systems.
+as applicable.
+
+Contracting system
+
+
+
+
+Contracting GCo CMc MC Construction GCTC CMc wc
+Project co-ordtnat.on GCCMa CMc MC Project supervision AECMa CMc MC
+
+Performance
+
+
+
+
+General contractor; design-build; management contractor; architect/engineer; project team; trade contractors; works contractors; construction manager agency; construction manager constructor.
+Ltd. 	and 	8 |
+In terms of comparative definitions of the four systems the GC and D-B contracting make use of a single prime contractor that is hired as an independent contractor. Construction management and MC contracting uses multiple prime contractors, hired as an independent contractor, who has a financial stake in the construction phase of a design-bid-build project sequence. General contracting contractor has a financial stake in the construction phase of a design-bid-build project sequence while D-B contractor has financial stake in both the design and construction phases of the bid-design-build project sequence.
+In essence, variation and hybrids of all the four contracting systems will depend on compensation structure, assignment of responsibilities, allocation and distribution of risks between the stakeholders combined with particular project characteristics.
+Comparison based on price competition and contractual co-operation for the four contracting systems made by Oyegoke (2001b) shows that contractual co-operation is a major determinant factor in selecting project consultants, while price competition serves as a minor determinant in all contracting systems. The contractual relationship between the consultant on behalf of the owner with the contractors, and the contractors with the sub-contractors, and sub-contractors with sub-sub-contractor are based on price competition while contractual co-operation serves as a minor determinant in all contracting systems. In general contracting, price competition and contractual co-operation as a determinant are equally important between the main contractor and nominated sub-contractors (Fig. 1).
+Construction Management Association of America (CMAA) defines CM as a discipline and management system specifically created to promote the successful execution of capital projects for owners. Halpin & Woodhead (1998) describe the CM type contracts as a situation where one firm is retained to co-ordinate all activities from concept design through acceptance of facility. The firm represents the owner in all CM activities.
+Construction management is a variation to the cost plus contract, involving consulting in development stage and management during the construction stage. The overwhelming advantage is that the owner's interest is the manager's interest and the work can be subcontracted piecemeal with the owner participating in the buying. Also the probable cost of the work is budgeted and monitored by experienced people, alternatives can also be selected to effect economy, and long lead time items can be designed and purchased early (Bush, 1973). Construction management is also useful in a contract situation in which multiple or general contractors are involved (Mulvey, 1998).
+Dorsey (1997) emphasizes that the construction manager's works span through various phases of a project (planning, design, construction and post-construction) and co-operates with the owner and the designer in achieving the owners' project objectives. Because most clients do not have sufficient expertise to manage the works contractors, the services of a CM firm are employed, on a fee basis. This firm may be a contracting firm or a professional consultant.
+Seeley (1997) defines management contracting as a system whereby a main contractor is appointed, either by negotiation or in competition, and works closely with the team of professionals. All physical construction is undertaken by sub-contractors (work contractors) selected in competition. He furthers postulates that the management contractor provides common services to the sub-contractor such as welfare facilities, or any plant or equipment not confined to one sub-trade. The management contractor is remunerated based on a fee for his services and, in addition, the cost of his on-site management, common services and the cost of all the work undertaken by the sub-contractor. In the practice note (Joint contracts tribunal, 1987), suitable conditions have been outlined for the use of a management contract.
+In a construction management contract in the UK, the construction contracts are made directly between the client and construction contractor (works contractor), with a construction manager acting as the client's agent. As the contracts are made between the client and the construction contractor (works contractor) the conventional allocation of risks remains unchanged. The extent of risk and liability carried by a construction manager can vary considerably and their definition has, so far, been a matter of negotiation at the time of the construction manager's appointment (CIRIA, 1983).
+In the US, CM as a delivery process is practised in two general forms: agency CM and at-risk CM. Agency CM (ACM) is a fee-based arrangement in which the construction manager is responsible exclusively to the owner and acts in the owner's interests at every stage of the project. In this approach, the construction firm
+General contracting system
+Design and build contracting system
+assumes the role of agent to the owner in a relationship parallel to that of an architect or engineer, and primarily administers the work of other construction entities. The principal construction and design entities are agent to the owner and function at equal levels in providing
+
+When it involves pure administrative role it is referred to as 'pure' agency (Dorsey, 1997) (Fig. 2).
+The main role of agency construction manager is to provide leadership and administration for the project, from planning and design (in co-operation with the
+In-house D-B
+Agency construction rn anagern ent (ACM)
+A t risk construction rnanagerncnt
+Price conpetition as a major determinant
+Figure 1 Price competition and contractual co-operation in contracting systems. Application of Kiiras, J. Lectures at Helsinki University of Techonology.
+Contractors/
+Supplier of goods and materials
+Agency CM	At-risk CM
+Figure 2 Agency and at-risk contractual arrangement (US). cat Consulting agreement; CA, contracting agreement; ICI independent contract; CM, construction management firm; NE, architect/engineer.
+designers) to construction completion and building start-up. As agent, construction manager render services to expedite the project, including fast tracking, i.e. phased construction, scheduling, procurement, and division of work to trade contract. The construction manager also monitors costs, time, quality and safety, but does not take responsibility for them. Therefore the risk lies with the owner and the owner holds the contract (Dorsey, 1997). It is worth to note that the subcontractor in general contracting practice will be a main contractor in ACM contracting system thereby eliminating one complete contracting tier (Haltenhoff, 1999).
+While in at-risk CM, the construction firm is also the contractor of the project, acting much like a general contractor during the construction phase. At-risk construction management begins with the construction firm in an agency role for pre-construction services. Prior to construction the firm assumes the risk of delivering the project, with a set price as an option for guarantee maximum price (GMP). When a construction manager is bound to a guaranteed maximum price, the most fundamental character of the relationship is changed. In addition to acting in the owner's interest, the construction manager also protects him/ herself (CMAA, 2001).
+At some juncture in the development of contract documents, construction manager and owner usually agree on a guaranteed maximum price with all the traditional provisions regarding: (1) drawings, specifications, addenda, and general, supplementary, and other conditions on which the GMP is based; (2) assumptions and clarifications made in preparing the GMP; (3) alternates; (4) unit prices; (5) allowance items; (6) date of substantial completion; (7) statement of the estimated cost organized by trade categories including the fee and contingencies (Dorsey, 1997).
+In AIA document A121/CMc general information section A2, the construction manager in addition to acting as an advisor to the owner during the design period assumes financial responsibility for the construction of the project. Construction Management Association of America document No. GMP-3 (1988) article 6.1 states that the construction manager has the right to perform work related to the project at site by his own forces and to award separate contracts or allow utility owners to perform some works on site. This indicates that in addition to construction manager's consultant role in development and design phases, the construction manager engages in actual construction work at construction phase. Therefore his liability is like that of constructor/contractor, in respect to project quality, time, and cost.
+Haltenhoff (1999) refers to ACM as the root form where three sub-forms evolve by changing the vested
+responsibilities of the ACM team members. The subforms are Extended service CM (XCM), Guaranteed
+Maximum Price CM (GMPCM), and Owner-CM (OCM). Merging sub-forms and further combining services responsibilities can create additional variations in the three sub-forms. Dorsey (1997) has highlighted two main types of CM contracts: agency and construction manager at-risk, with many hybrids depending on services rendered by construction manager, assignment of responsibility, price and time determination. Fisk (1997) categories CM as a design/construction manager (D/CM) contract and PCM contract. Although agency and at-risk CM are two basic forms but CM agreements can include special clauses, which define in detail, how' both the design team and construction team '..vill serve each other.
+Basically, there are t%.vo types of CM contracting systems in UK: management contract and construction management (US ACM type) (Table 2). In a management contract the permanent works are constructed under a series of construction contracts placed by the management contractor after approval by the client. Management contracts have been used in the UK by the building industry, but rarely in civil engineering. The majority of firms who offer the service are construction contractors (CIRIA, 1983). CIRIA (1983) report 100 differentiates four different types of management contracting systems: management contract; construction management contract; design and management contract; and project/management services contract (used in offshore and process engineering industries).
+The NEDO publication (Thinking about Building) stated that the management contracting '.vas where the contractor did guarantee the cost and time, if not the workmanship of the work contractor. The alternative version available in the management route was 'construction management' in which the works contractors' route had direct contracts with the client and it was obvious that the manager was not ultimately responSible for the works contractor's workmanship, cost and time (Cornick, 1991) (Fig. 3).
+The management contractor plans, co-ordinates, organizes, supervises and generally manages and secures the construction of the employer's building project. The management contracting concept implies the early appointment of the management contractor, at an early date after the appointment of the professional team and while the project drawings and specification are being prepared or immediately after their preparation (Joint contracts tribunal, 1987). Ashworth (1991) emphasizes that because the works are tendered for separately by trade contractors, it will lead to the least expensive cost
+0 2001 Blackwell 	Ltd, 	and 	8 |
+for each of the trades and thus for construction work as a whole. On the other hand, it is an open-ended method because the price can only be firmed up after the final works package quotation has been received. Cox & Thompson (1998) listed several disadvantages with the use of JCT MC/87 from the client's perspectives. In 1991 guidance for construction management was released by Centre for Strategic Studies in Construction. Seeley (1997) emphasizes that the works contractors engaged directly by the client carry out the construction work, and hence the client assumes the contractual position of the main contractor (Table 3).
+For the success of any construction contract the risks must be acknowledged and clearly allocated between project stakeholders. fte risks should be carried by the party W'hich is best able to assess, evaluate and control them. There must be awareness for incentives in allocating risks, to ensure that all parties perform efficiently such incentives can be bonds, suitable insurances, retentions, bonus/incentives, liquidated damages, defect/ maintenance periods, warranties, etc. (CIRIA, 1983). The primary burden of risk on a construction project falls between the contractor and the client, and insurers will often carry low probability, high impact risks, such as fire or collapse (Flanagan & Norman, 1993).
+In US CM practice, risk distribution varies between agency CM and at-risk CM, depending on who holds the contracts and whether the construction manager is acting as a constructor during the construction phase. In agency CM system the A/E is assigned responsibility for design, project management (in part) and contract administration (in part). The construction manager is assigned responsibility for project management (in part), contract administration (in part) and construction co-ordination. The contractors are assigned responsibilities for construction and the owner retains responsibility for contracting (with the help of the construction manager and AYE) (Haltenhoff, 1999). In a situation where the construction manager holds the sub-contracts, with or without a GMP, then the construction manager is responsible for control of the project including sub-contractors, construction means and methods and all related details (Dorsey, 1997).
+In UK CM practice, the management contractor accepts a single point of responsibility to the client and separately sub-lets the various works contracts, or in other words the client is not privy to the agreements. Management contracting is relatively risk free for a management contractor except for professional negligence. The management contractor does not normally accept construction risks nor the risk of default or incompetence on the part of construction contractors (CIRIA, 1983). In construction management contract in UK, the construction manager manages the process and acts as the client's agent for each of the works packages that are let between the client and the individual trades contractors, i.e. the client is privy to the contracts. Therefore the client has considerable
+exposure to the burden of risk and reward potential (Cox & Thompson, 1998).
+In Fig. 4, the inner-core is divided into US and UK practices and sub-divided into CM basic forms/types. The middle-core shows the construction manager's major responsibilities and risk while the outer-core shows the party that carries out the responsibilities and bears the risk.
+In agency form (US) and CMC (UK) the risk on price and contract duration lies writh the owner because the construction manager is responsible for contract administration and supervision, i.e. project management. In that approach, the construction manager acts as a consultant in a way parallel to NE without carrying out construction ".vorks. In at-risk CM form (US), the responsibilities of administration, supervision and construction and the overall risk of price, quality and contract duration are placed on the construction manager. This is partly because the construction manager gives a GMP and fixed contract time as an option and acts like a general contractor at construction phase. In MC form (UK), the management contractor bears the risk on cost and time but not on the works contractor's workmanship. Therefore the risk of cost and time lies with the management contractor and quality risk lies with the owner/works contractors. Risk in this context can be defined as associated risks (i.e. uncertainty that results to negative consequences) during contractual processes from project inception to completion in terms of project cost, time, quality, etc. Table 4 shows the responsibility distribution in CM contracts in both practices.
+Construction management's contractual process will be determined by the CM form and variation selected by the owner. The building owner hires the CM firm at approximately the same time as the NE. This is to permit exposure and compatibility checks. Six basic functions have been highlighted in CMAA documents: project, cost, time, quality, project/contract and project safety programmes (CMAA, 1999). These functions are related and are integral components of the CM process. Haltenhoff (1999) has established 12 areas of CM body of knowledge, some of these areas are highly specific and technical, such as scheduling and value management while others tend to be obscure and more general, such as decision management, although all 12 areas are essential to a successful CM practice.
+0 2001 Blackwell 	Ltd, 	and 	8 |
+AIA B141/CMa (1992b) articles 1, 2 and 3 highlight architect's responsibilities, basic services and additional services. CMAA NO. A-4 (1993) highlights the relationship of the project parties in regard to design, etc. It is stated in AIA A201/CMa (1992a) article 4 that the construction manager and the architect will provide administration of the contract as described in the contract document and will be owner's representative.
+In AIA A121/CMc-AGC (1991) document 565, and AIA B801/CMa (1992c) the construction manager shall expeditiously review design documents during their development and advise on proposed site use and improvements, selection of materials, building systems and equipment and method of project delivery. The construction manager should also provide recommendations on relative feasibility of construction methods, availability of materials and labour, time requirements for procurement, installation and construction, and factors related to construction cost including, but not limited to, costs of alternative designs or materials, preliminary budgets, and possible economies.
+The construction manager must recommend to the owner and architect a schedule for the procurement of long-lead time items which will constitute part of the work as required to meet the project schedule. In a project where the construction manager is also a
+constructor, he will propose a GMP and contract time. AIA A131/CMc (1994) listed construction manager's responsibility in a project where the construction manager is also the constructor without GMP. The construction phase will commence if the owner accepts the GMP proposal and issues a notice to the construction manager to proceed; or an owner's authorization to the construction manager to award a sub-contract;
+Figure 4 Risk distribution in construction management contracting system (US and UK).
+undertake construction work with his own forces; or issue a purchase order for the materials or equipment required for the work. Either in at-risk CM or agency CM the construction manager will be involved in the general administration of work in the form of scheduling meetings, payments, safety, etc.
+Management contracting (UK)
+At the beginning of the management contract, the employer will appoint a professional team that prepares project drawings and a project specification, which describes generally the scope of the project (first recital). Usually the head of the team is the architect; drawings, specifications and bills of quantities are then prepared at appropriate times by the professional team for use in the various works contract (article 7). 'Ihe management contractor tasks cover two distinctphases: a pre-construction period and a construction period (Joint Contracts Tribunal, 1998a).
+The works contractor can also have contract with nominated sub-contractors and suppliers. The works contractor shall not without the written consent of management contractor assign the works contract. Also the works contractor must not without the written consent of the management contractor sub-let any portion of the works, in any case (sub-let or not) he will be wholly responsible for the works contract (Joint contracts tribunal, 1998). Management contractor receives payment by interim certificates during the construction period and these certificates include payment in respect of the various works contracts. When practical completion has been achieved the architect is required to issue a certificate of practical completion
+Table 4 Responsibility distribution in
+contracting (US and UK).
+
+
+
+Construction
+
+Trade/works/ sub-contracts
+Selection process
+Project supervision/ co-ordination
+
+Quality risk
+Hazardous materials on site
+Construction means and methods
+
+Dispute resolution owner-CM
+Advise on VE and VM, and constructability Design team
+Trade contractors are agent of the owner, held by CM
+CM recommends/ advises, owner selects the trade contractors
+Supervise, co-ordinate and administer project (CM)
+(agent/advisor A201/CMa)
+Owner to CM (fee); owner to trade contractors
+CM to owner; owner to CM; trade contractors to owner and CM
+General liability by each stakeholder; builder's risk by owner
+Professional liability by the designer
+Advise on VE and VM, and constructability
+CM holds sub-contractors or owner holds sub-contractors and is assigned to CM CM decides/selects subcontractor with owner approval
+Directly controls the work
+Optional (with GMP)
+
+CM's risk with subs. Owner's risk
+CM responsibility
+Owner to CM (fee);
+CM to owner; sub-contractors to owner and CM
+General liability by each stakeholder; builder's risk by owner
+Professional liability by the designer
+Advise on VE and VM, and constructability
+MC holds works contractors
+Professional team,
+CMC and owner
+Provide management services in conjuction with professional team (CMC)
+Administer and supervise contracts
+Owner to CMC (fee); owner to works contractors
+CMC to owner; owner to CMC; works contractors to owner and CMC
+Professional liability by the designer
+Advise on VE and VM, and constructability
+MC holds works contractors (JCT Works
+Contract 3) and agreement with the owner
+Professional team, MC and owner
+Provide management services in conjuction with professional team (MC)
+Administer contracts and provide special facilities
+Work contractor's risk
+Owner to MC; MC to works contractors
+MC to owner; owner to MC; works contractor to MC and owner
+liability by each stakeholder; alt risk insurance by owner and MC insurance of existing structure and contents by owner; injury to persons and property and indemnity to employer; insurance against injury to persons or property by MC and works contractors
+O Emerald Backfiles 2007
+and during the defect liability period, the management contractor must secure the rectification of defects. All work contracts contain a provision requiring the works contractors to carry out rectification of defects not only after their ot.vn work has been practically completed but also during the management contractor's defects liability period (Joint Contracts Tribunal, 1987).
+Seeley (1997) states that there are distinct similarities between CM and MC but the major difference is that all work packages are treated as a direct contract between the client and the various package contractors in the CM approach. This arrangement is more confrontational, expensive and carries a greater degree of risk for the client, works contractor and management contractor (Fig. 5).
+Construction Management Forum — Report and Guidance (1991) attests to the fact that the duties of the participants in both CM and MC are essentially the same (Tables 5 and 6).
+CONCLUSIONS
+It is pertinent to note that construction management contracting systems use the same construction industry resources as the other contracting systems, and requires the same services to complete a project. The differences between the contracting systems are the contractual ties and assignment of responsibilities of the parties, the contracts within the system, and their legal performance requirements.
+The CM contracting systems can be categorized into four different types in US and UK practice, namely agency CM and at-risk CM (US), and CMC and MC (UK). Primarily, both types are based on the
+Contractual links or arrangemnent,s Infornzation links
+Construction activities/works
+Figure 5 Comparison of the UK and US construction management contract by types.
+contracts in UK and US
+Table 5 Comparisons between ACM, MC and at-risk CM contracting practices.
+
+
+First tier or prime contractors
+Construction contractor
+Contractual links with the first tier contractor
+Provision of construction facilities
+Risk distribution in terms of cost, quality and workmanship
+Professional team + owner's legal counsel
+Price received from lowest qualified bidders in workscope division
+Administration and co-ordination
+Pure consulting,
+
+CM +/sub-contractors Owner — CM firm
+By CM certified by notary public or AE
+Professional team + owner's legal counsel
+CM price scrutinized by the owner, professional team and third party
+Pre-contract administration and co-ordination + postcontract construction
+Consulting (PM) and construction
+Works contractors
+Works contractors
+Owner — works contractors
+Professional team + owner's legal counsel
+Price received from lowest qualified bidders in workscope division
+Administration and co-ordination
+Works contractors
+Professional team
+For general use by works contractors
+LS MC's risk
+Provision of special facilities + administration and ccyordination
+Table 6 Analysis of comparison of UK and US construction management contract by types.
+Theme	ACM/CMC	CMC/MC	MC/At-risk
+philosophy of applying management skills to co-ordinate the design and construction process. In both practices, agency CM (US) and CMC (UK) are entirely the same: functionally and operationally. The only difference is the term used to describe some of the activities or stakeholders. For instance first tier contractors are known as trade contractors in ACM while they are called works contractors in CMC. "Ihis approach is a more flexible system and its variation or types are limitless depending on the role and the responsibilities of the party that bears thc risk.
+0 2001 Blackwell Science Ltd, Enginccring, Construction and Architectural Management 8 | 5/6. 403—417
+In contrast with MC, the CMC recognizes the role of management as an explicit professional function separate from contracting. The construction manager has the same status in the procurement process as the designer. Their contractual risk differs because the owner holds the contract in CMC while the management contractor holds the contract in MC. Their contractual responsibilities in the pre-construction stage are similar, i.e. project management, and neither engages in actual construction work on site. Specifically, the management contractor will provide special facilities that are
+not common to any sub-trade and also bears the risk on the time and cost but not on workmanship. In the CMC, however, the construction manager bears no risk in the project cost, time and workmanship.
+Comparison of MC and at-risk shows that they have similar contractual arrangements, contractual responsibilities in the pre-construction stage, contractual co-operation with constructors and suppliers and similar information links. "Ihey both have contractual risks but of a different magnitude. Nonetheless, the management contractor will not participate in actual construction work but oversees the sub-contractors, and will provide special facilities for the use of all works contractors. The at-risk CM constructor on the other hand, will participate in actual construction and oversees sub-contractors but will not provide any special facilities for the sub-contractors. At-risk and ACM are both US types, their only similarity being their contractual responsibilities in the pre-construction stage. Their differences stem from the fact that the at-risk constructor has a direct link with the sub-contractors and participates in the construction work.
+To safe guard owner interest in at-risk CM, the mvner must determine the level of vigilance and service to be provided by the owner's staff, the design professionals, and other third parties. In order to have a good cost management system, it is advisable to have a separate contract for the pre-construction and construction stages to maintain checks and balances.
+In all four types, it is important to have a clear division of work scope to avoid overlap in activities. Local practice must be a major determinant on how the work scope should be divided. It is advisable to divide the work scope according to the building trade, activities or elements. In essence, construction management enables the designer to design, the construction manager to manage and/or construct, the trade or works contractor to produce the elements and the client to direct the project. Finally, every project has unique requirements and the construction manager's role on different projects may also vary considerably.
+Special thanks to National Technology Agency of Finland as well as many private contracting and consulting Finnish firms, which are too numerous to mention, for providing the fund for the study that this paper is based on. I also wish to thank Prof. Juhani Kiiras, Senior Assistant Pekka Huovinen and Lic.Sc (Tech.) Juha-Matti Junnonen, Helsinki University of Technology for their constructive comments.
+AIA (1992a) General conditions Of the contract for construction — 1992, construction manager-adviser edition, AIA document A201/CNfa.
+AIA (1991) Standard form of agreement benveen owner and construction manager where the construction manager is also the constructor, 1991 edn, A121/CiMc-AGC document 565.
+AIA (1992b) Standard form of agreement between owner and architect — 1992, construction manager-adviser, AIA document B141/CIMa.
+ALA (1992c) Standard form of agreement between owner and construction manager 1992 edn, AIA document B801/ CMa.
+AIA (1994) Standard form of agreement between owner and construction manager where the construction manager is also the constructor and where the basis of payment is the cost of the work plus a fee and there is no guarantee of cost A131/CMC, 1994 cdn.
+Ashworth, A. (1991) Contractual Procedure in the Construction, 2nd edn. Longman Scientific & Technical Series.
+Bush, V.G. (1973) Construction Managenzent: A Handbook for Contractors, Architects and Students, 1st edn. Reston Publishing.
+Chua, D.K., Kog, Y.C. & Loh, P.R. (1999) Critical success factors for different project objectives. Journal of Construction Engineering and Managenzcnt, 125, 142—150.
+CIRIA (1983) Managenzent Contracting. CIRIA report 100. Construction Industry Research and Information Association, London.
+Clough, R.H. & Sears, G.A. (1994) Construction Contracting, 6th edn. John Wiley & Son, New York.
+Ch.IAA (1988) General conditions of construction contract between construction manager and contractor (CMAA no. GMP-3), CMAA.
+CMAA (1993) Standard form of agreement between owner and design professional (CMAA No. A-4), CMAA.
+CBIAA (1999) Standard Construction Afanagenzent Services and Practice, 3rd edn. CBfAA documents.
+Construction Management Forum (1991) Construction Afanagenzent Forunz: Report and Guidance. Centre for Strategic Studies in Construction, University of Reading, Reading, MA.
+Cornick, T. (1991) Royal Institution of Chartcrcd Surveyor Invcsunent Procurenwnt and Perfornzance in Construction, 1st edn. E & FN SPON.
+Cox, A. & Thompson, I. (1998) Contractingfor Business Success, 1st edn. Thomas Telford Publishing.
+Cox, A. & Townsend, B.f. (1998) Strategic Procuronent in Construction, 1st Cdn. Redwood Books, Great Britain.
+Dorsey, R.\V. (1997) Project Delivery Systenzs for Building Construction, 1st edn. Associated General Contractors of America, USA.
+Dowd, V. (1996) The effect of economic cycles on the development and use of alternative Procurement systems in U.K. construction industry during the period. 1965-1995.
+Journal of Construction Procurenwnt, 2, 3-10.
+Fisk, E.R. (1997) Construction Projects Adnzinistration, 5th Cdn. Prentice-Hali.
+Flanagan, R. & Norman, G. (1993) Risk Management and Construction, 1st Cdn. Blackwell Scientific Publications.
+Flanagan, R., Norman, G., Ireland, V. & Ormerod, R. (1986) A Fresh Look at the U.K. & U.S. Building Industrics. Building Employers Confederation.
+Franks, J. (1992) Building Procurentent Systenzs, 2nd edn. Blackfords of Cornwall.
+Halpin, D.W. & Woodhead, R.W. (1998) Construction Managcment, 2nd edn. John Wiley & Sons.
+Haltenhoff, C.E. (1999) The CM Contracting Systenz,• Fundanzentals and Practices, 1st edn. Prentice-Hall.
+Joint Contracts Tribunal (1987) Managcnzent Contract Docutnentations 1987, Practice Note MC/I. RIBA Publications.
+Joint Contracts Tribunal (1988a) Standard Fonn of Afanagenunt Contract. RIBA Publications.
+Joint Contracts Tribunal (1998b) Works Contract Conditions (IVorks Contract/2). RIBA Publications.
+Konchar, M. & Sanvido, V. (1998) Comparison of US project delivery systems. Journal of Construction Engineering and Managenzent, 124, 435—444.
+Kumaraswamy, M.M. (1998) Industry development through creative project packaging and integrated management. Journal of Engineenng, Construction and Architectural Manage,nent, 5, 228-237.
+Langdon, D. & Everest (2000) A survey of building contracts in use during 1998, web page  visited January
+contracts in UK and US
+Mulvey, D.L. (1998) Project delivery trends: a contractor's assessment. Journal of Afanagenwnt in Enginecring, 14, 51-54.
+Nahapiet, J. & Nahapiet, N. (1985) A comparison of contractual arrangements for building projects. Journal of Construction Managcnzcnt and Econonzics, 3, 217—231.
+Naoum, S.G. & Langford, D. (1987) Management contracting — the client's view. Journal of Constntction Engineering and Managenzent, 113, 369—384.
+Oyegoke (2001 a) Developing strategies for improving owners' investment and contracting procedures in a construction project. Procccdings of 2001 International Conference on Project Cost Afanagenænt. Proceedings of the Beijing International Conference on Project *fanagcnzcnt, 2001, pp. 246—259.
+Oyegoke (2001b) Features and Classification of Construction Mauagenzent. Helsinki University of Technology TKK-RTA-193, Otamedia.
+Sanvido, V. & Konchar, 1M. (1999) Selecting Project Delivery Systenzs, 1st edn. The Project Delivery Institute.
+Seeley, I.H. (1997) Quantity Surveying Practice and Contracting Procedure, 2nd edn. Bfacmillan Press Ltd.
+Tenah, K.A. (2001) Project delivery systems for construction: an overview. journal of Cost Engineenng, 43, 30—36.
+0 2001 Blackwell Science Ltd, Engineering, Construction and Architectural Management 8 | 5/6, 403—417
+Construction 	contracts in UK and US
+0 2001 Blackwell Science Ltd. Engineering. Construction and Architectural Management 8 5/6, 403-417
+O Emerald Backfiles 2007
+0 2001 Blackwell Science 	Engineering. Construction 	Architectural Management 	5/6, 403—417
+O Emerald Backfiles 2007
+Construction 	contracts in UK and US
+0 2001 Blackwell Science Ltd. Engineering. Construction and Architectural Management 8 5/6, 403-417
+Science 	Engineering, Construction 	Architectural Management 	5/6. 403—417
+Construction 	contracts in UK and US
+Science 	Engineering, Construction 	Architectural Management 	5/6. 403—417
+0 2001 Blackwell Science Ltd. Engineering. Construction and Architectural Management 8 5/6, 403-417
+O Emerald Backfiles 2007
+0 2001 Blackwell Science Ltd. Engineering. Construction and Architectural Management 8 5/6, 403-417

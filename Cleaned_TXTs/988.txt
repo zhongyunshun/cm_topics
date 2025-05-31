@@ -1,0 +1,178 @@
+﻿Construction Management and Economics (1994) 12, 413—422
+A perspective of material management practices in a fast developing economy: the case of Malaysia
+HAMZAH ABDUL-RAHMAN and M.N. ALIDRISYI
+Department of Civil Engineering, University of Malaya, 59100 Kuala Lumpur, Malaysia
+Many management-related problems exist amongst local contractors in developing countries. Problems vary in nature and intensity but are usually associated with ineffcient management of construction resources including materials, labour, plant and subcontractors. This paper deals with material management practices in the construction industry in Malaysia. A questionnaire survey and interviews were conducted with local practising public works contractors to examine the management of materials and to identify the nature of problems associated with material management. Problems identified included delay in the delivery of materials, the lack of use ofadvanced planning techniques, material variances and computers. There is a need for an improved material management approach by contractors in a developing country.
+Material management, Malaysia, contractors, developing country.
+Introduction
+The development of construction projects is given an important priority by the Malaysian government in its national plans. In most cases, local contractors participate in the construction of public development projects such as buildings/housing, roads, irrigation, bridges and harbours. From the authors' observations the number of contractors has been continually increasing and due to the competitive nature of the industry, only the 'fittest' will survive. The effect of the recession in the early 1980s slowed down physical development in the public and private sectors. The recession also affected local contractors and many ceased to operate.
+Management has an important role in determining the effciency of resource utilization on construction sites to meet the quality, cost and time requirements of a project. One area a contractor needs to focus on is the management of materials on-site. The authors feel that the objectives of an effective management system include establishing a more organized and systematic flow of materials, ensuring that materials are used and managed effciently and improving/maintaining profit margins.
+This paper addresses material management issues from a study on material and labour management practices among public-sector contractors in Malaysia based on a questionnaire survey and interviews. The objectives of the study were
+l . to determine the material management approach present in the local construction industry;
+3. to suggest recommendations to alleviate the prevailing problems associated with material management.
+
+Material management has been an issue of interest in the construction industry. The need for effcient and effective material management in construction is apparent when one considers
+1. that the estimated surplus averaged 1.8% of the total project material cost (Cll, 1986);
+2. the problem of unnecessary material wastage (Illingworth and Thain, 1988).
+Material management is a planned procedure that includes the purchasing, delivery, handling and minimization of waste with the aim of ensuring the requirements are met (Illingworth and Thain, 1988). Stukhart (1989) advocates the importance of a materials quality management system that requires the same degree of planning, prevention, appraisal and corrective action as design and construction. He stressed that non-conformances need to be identified and eliminated at the supplier's level to avoid unnecessary cost and schedule impact.
+Bell and Stukhart (1987) investigated a total concept for a material management system (MMS) which combined and integrated the take-off, vendor evaluation, purchasing, expediting, warehousing and distribution functions of materials. The system resulted in improved labour productivity, reduced material surplus, reduced material management manpower and cost savings. They pointed out that when final take-off is being prepared before final design drawings are available and when an ineffective system is in place, the bulk material surplus may be as high as 10 0 An effective material management system reduces bulk material surplus of between 5 and 10 0 0 to approximately 1—3 0 An MMS has been shown to improve vendor performance in overcoming shortages of materials. Steps such as an annual meeting with the vendors, carefully written vendor contracts and personal meetings with the president of the vendor firms promote improvement in the vendors' performance. These steps can help assure vendors' delivery of materials exactly on time to minimize material shortage on-site. Further, storage charges are reduced as lesser storage space is needed because materials are controlled by the contractor.
+Material management is sometimes regarded as either the cost control or the coordination of materials with programme and physical control. Brech (1971) and Pilcher (1992) encourage the use of a graph that indicates material usage versus materials delivered to the site for control purposes. Pilcher (1992) recommends that the control system for material consumption should be carried out in terms of units of measurement, not cost.
+McCaffer and Harris (1977) indicate two types of variance used in controlling materials, i.e. price and quantity variances. However, for variance to be economically viable, there is a need to balance between the compilation of a comprehensive material recording system and the cost of collecting this information. They suggest that an overall material variance suffces.
+Fellows et al. (1983) showed that an insuffcient allowance in the estimate for waste of materials can completely erode anticipated profit. Brech (1971) noted that although material control is not always the area where variation of performance is the greatest, it sometimes can be a very important element in determining profitability. He recommended that control of materials should include a detailed quality control rather than a detailed cost control. Another study showed that contractors suffer losses in productivity resulting from ineffcient material management (Thomas et al., 1989). Loss of productivity directly affects a contractor's profit margin.
+A detailed material schedule and the coordination of the requisition and order of materials are important in assuring material availability (Calvert, 1986). Kavanagh et al. (1978) classify materials into key materials and commodities. Key materials are those with long delivery times or custom ordered while commodities are those that can be delivered within a week or less. Kavanagh et al. (1978) illustrate the use of the critical path method to locate activities with key materials for the purposes of coordinating and expediting orders and delivery. According to Kavanagh et al. (1978) this is particularly crucial in fast-tracked construction.
+Antill (1970) argues that all the principal factors in the purchasing of materials, i.e. price, quality and delivery are equally important. He recommends physical control that has to begin when construction starts to minimize material wastage, deterioration and loss. Oppenheimer (1971) stressed the need to monitor materials on site to ensure their availability and to protect against spoilage, pilfering and theft and breakage.
+Oguri (1988) described the success of a computerintegrated material management system used by one of the largest Japanese construction firms. The system is able to track and help management control material flow from take-off to its use. Sites implementing the system experience less material shortage, surpluses, idle time and delays. Tavakoli and Kakalia (1993) developed a computer material management system that supplements contractors' material management capacity to improve the effectiveness and effciency of material utilization and company profit.
+Material quantity variances are normally caused by wastage and breakage, theft and losses, remedial work, delay in recording and inaccurage measurement of completed work (McCaffer and Harris, 1977).
+Only one local study (Abdullah, 1985) on construction material wastage was found. Abdullah (1985) indicated that such wastage was usually due to one or a combination of the following factors:
+l . poor workmanship •
+3. orders not meeting specifications;
+4. excessive use of material, especially concrete;
+To overcome the above problems, Abdullah 1985) recommended
+Table 1 Regulation and pre-qualification of contractors for public sector contracts
+
+Limit of project cost in
+1. visual inspection to reveal instances of damages and deterioration of materials;
+2. better documentation in the issue and reconciliation oforders, receipts, issues and uses, and stocks;
+3. measurement of work to quantify the amount of material used.
+The cost of materials can exceed 50% of the cost of construction, depending on the type of construction. Thus, the effcient use and management of materials have an important influence on a company's profit and can delay construction,
+Most literature on material management is based on investigations and observations in a developed economy. A perspective on these issues in developing countries would provide an overview of the current practices and a baseline for improvement.
+Investigation of material management practices
+To obtain an industry-wide perspective of how local contractors manage materials, a questionnaire survey was conducted among construction contractors participating in public works in West Malaysia. All public work contractors are required to register with the Contractor Service Centre (CSC) of the Prime Minister's Department in one of eight categories, namely A, B, BX, C, D, E, Ex and F. The categories reflect the size of the firms, A being the biggest and F the smallest. Contractors are classified according to the limit of project cost they are qualified to participate in, the minimum capital available, organization resources and their level of experience. Table 1 shows all the CSC classifications and the pre-qualifications for each class.
+Six categories of contractors were covered in the survey, i.e. A—E. Contractors from classes EX and F were excluded from the study because they often act as subcontractors and the rate of the companies' turnover (entering and leaving the industry) is high — indicating their vulnerability and instability.
+A sample of 1304 contractors was proportionally stratified and randomly selected from the CSC list. Each contractor was mailed a questionnaire in late 1989. A total of 152 completed questionnaires were returned, representing a response rate of 13.35%. The low response implies
+1. the lack of interest among local contractors in such a survey;
+2. the diffculty of obtaining information when there is no tangible mutual benefit;
+3. the need to further verify the results of the survey.
+Nevertheless since the survey sample was obtained through proportional stratified random sampling the result of the survey provides an indication of the problem among public-works contractors.
+The questionnaire was developed based on the results of an earlier pilot study amongst contractors to identify typical problems experienced at work sites, with the emphasis on material and labour management. The pilot study also sought suggestions on how to improve the current labour and material management systems.
+The survey questionnaire has five major sections, namely, general information on respondents, material management and problems, labour management and problems and miscellaneous. This paper presents only the material management section of the survey.
+In addition to the questionnaire survey, interviews were conducted to reaffrrn the responses of the survey. These semi-structured interviews placed a greater emphasis on project management aspects in construction, especially the management of materials and labour.
+Much diffculty was encountered at the initial stage of the interviews. Out of 12 contractors who were willing to
+Table 2 Number of respondents from each class
+
+Number of firms
+Alidrisyi (1991
+be interviewed initially, only nine finally agreed. Two were from class A contractors, one from class B, one from class BX, two from class C, one from class D and two from class E.
+The first section of the questionnaire identified the categories of respondents and the types of construction work they performed.
+The second section focused on the use of material schedules, experiences in shortage and surplus of materials and on the types of security systems employed. Other questions included material recording methods, material variance analysis, the use of computers to manage inventory and steps taken to ensure the availability of materials.
+Research findings
+Table 2 shows the breakdown of respondents in their respective classes. Approximately 17.1 0 0 of the respondents were from class A, 10.50 0 0 from class B, 14.50 0'0 from class BX, 21.10 0 0 from class C, 25 0 0 from class D and 11.80% from class E. From the total, approximately 26.2 0 0 were engaged in civil engineering works, 13.6 in building works and I I .7 0 in the construction of general steel concrete works. Figure I shows the different types of construction the respondents were involved in and some of these were involved in more than one type of construction. The following results and discussions are presented under headings corresponding to Table 3.
+Scheduling method
+Table 3 indicates that a majority of respondents (74.9 0 0) prepare and monitor material schedules. Another 18.1 00 prepare schedules but do not monitor them while the remaining 7.0 0 do not prepare material schedules at
+1	2	3	4	5	6	7	8	9	10	1 1	12 Types of Construction
+Alidrisyi (1991).
+Figure 1 Type of construction performed by respondents. (I ) General civil engineering work, (2) bridge, jetties, airports, highways, (3) dam and water-retaining structures, (4) sewerage systems, (5) irrigation and drainage works, (6) railway track works, (7) maintenance, (8) building work excluding reinforced concrete, (9) prefabricated buildings, (10) steel/ reinforced concrete, (l l) water treatment plant installation, (12) other specialist civil engineering works.
+Reasons for not having a material schedule included lack of personnel and knowledge.
+Interviews confirmed that bar charts are used for the allocation and scheduling of materials. Generally contractors used bar charts as a reference in the preparation of a material schedule and not drawings as recommended by Calvert (1986
+A contractor from class BX explained that managers right down to the supervisor level had no diffculty in comprehending information in a bar chart and, thus, this serves as a useful communication tool. Information on material requirements, shortages, surpluses and other relevant matters were always written on bar charts. The application of network programming techniques is lacking because employees on-site are not familiar with these techniques. Another interviewee said that his company did not even make use of bar charts; it relied only on the bill of quantities to note dates of material requirements and deliveries. A class B contractor revealed that he did not prepare any material schedule because of the lack of staff.
+The survey and authors' personal observations indicate the lack of modern planning techniques used in project management by local contractors, especially those in the lower classes. Every project requires a programme for the purposes of planning and controlling work. Cost estimates must also be tied into the work programme to obtain an insight into the project's cash
+
+Number of respondents responding to question on material schedule 26
+(a) Prepare and monitor MS
+(b) Prepare but not monitor MS
+Reasons for not preparing MS
+(b) No budget allocation
+(c) No need of MS
+(d) Other reasons
+Number who responded to the problem of shortage of materials Frequency of shortage
+(a) Very often
+Common reasons for shortages (number)
+(a) Late purchase
+Number responded to issue of bulk material surplus Frequency of surplus
+(a) Very often
+Number who responded to percentage of bulk material surplus
+(a) More than 10%
+(b) More than 5—10%
+(c) More than 3—5 0
+(d) More than 1—3 0 0
+Whether a security method is employed (number)
+
+Whether material management system (MMS) approach is orderly (number)
+
+Perceived use of MMS (number of respondents)
+(a) To record material purchase
+(b) Assist in material stock checks
+(c) As material usage record for activity
+(d) As a record of overall material usage
+(e) Assist in variance analysis
+(f) As an indicator of price fluctuation (g) Other
+Whether material variance analysis is performed
+
+Use of computer in managing material (number)
+
+Alidrisyi (1991
+flow, especially resources. During the planning stage a contractor has to check the availability of material, quantities, the quality of construction required, the allocation of material to various parts of the project, material purchase and delivery, the size and dimensions of the required materials, communication methods and interpretation of drawings and specifications.
+Any discrepancies or ambiguity in the information must be cleared in the first instance. Emphasis should be given to critical activities where late delivery means increased cost and time. It is advisable to check frequently with the supplier on the availability and deliverability of materials to avoid delay.
+Material shortage
+Approximately 55 0 of the respondents experienced material shortage 'sometimes'. The main causes of shortage include late delivery by vendors, credit and financing problems, late purchase and failure to check the site inventory. The single largest contributing cause for a shortage of materials was the failure of the vendor to supply the materials on time. A majority of the respondents (80 0 0) do not have a formal rating programme for vendors. The remaining 20 0 ) who implemented such a programme reported to have reduced the staff time in handling materials by 1 1—50 0
+All interviewees agreed that the main reason for material shortage was delay in delivery caused by either
+1. problems associated with transportation of materials — tramc jams, the weather and other factors ;
+2. an unexpected increase in demand — due to poor planning and coordination between subcontractors resulting in a temporary shortage of materials.
+A class C contractor used a contract and a bank guarantee to facilitate transactions with his materials supplier. According to him, this arrangement promotes punctuality and reduced the risk of price increase. However, the contract did not cover all types of material, for example, steel bars which always fluctuated in price.
+A contractor from class B experienced material shortage due to credit- and finance-related problems. The use of a credit agreement is common and it provides a trouble-free project cash flow. A credit agreement permits credit purchase. However, problems arise when the bank does not grant credit in time or grants less than the required amount. This situation compels the contractor to be selective in the purchasing of materials. The same contractor admitted shortages due to delays caused by credit-related problems.
+Another contractor accounted for the material shortages in his firm to delay in reporting by site managers.
+According to him, there were times when the main offce was not furnished with an up-to-date material inventory. Even though the firm maintained bar charts for material management, variations and changes in daily works rendered the bar chart ineffective.
+A class C contractor experienced materials shortages caused by
+l. the additional time needed to load and unload materials at the supplier venue which sometimes took longer than that allocated for it;
+2. delays in transporting materials which occurred when materials could not be transported all at once;
+3. poor handling of documents for the order and delivery of materials due to
+(ii) mismatching of information resulting in the delivery of the wrong materials,
+(iii) supplier's delay in processing the order documents.
+Table 3 also shows the frequency of surplus bulk material being on-site. The two most common frequencies were 'sometimes' (38.1 0 0) and 'seldom' (45.9 0 D. Approximately 37.6 0 ) experience between 1 and 3 0
+25.8 0 between 3 and 5 0 and 25.3 0 0 a material surplus at the end of construction.
+To ensure the availability of materials, most (62.8 0 0) respondents planned for materials to be ordered before a work activity started. Approximately 15 04) stocked as much material as possible for convenience while approximately 9.5 ( o ordered materials when needed.
+The results of the interviews indicate that all firms agreed their present material scheduling approach is sumcient to control material surpluses. Purchases were made in stages and delivery times were planned. The amount of purchase was always regulated and 1—5 0 ( of the amount was usually allowed for wastage.
+Material purchasing is mostly based on schedules and inventory checks. On some sites material is stockpiled for convenience. Materials need to be available before an activity begins, but it is not economic to store more than necessary at any time. Overstocking involves unnecessary capital outlay, which otherwise can be used for more critical purposes. Whilst most respondents in the questionnaire claimed that they prepared material schedules, not all monitored and updated these schedules.
+Security systems
+Approximately 60 0 of the respondents used some form of security measures to protect materials on-site. The most common method is the employment of security personnel on-site.
+There was a general consensus among the interviewees that when materials are left on-site there is a need for some security measures. The two most common methods used were the security fence and stationing of security personnel on site. A class C contractor confidentially appoints a number of employees to monitor and report the flow of material resources on-site. For example, when materials delivered to the site are accepted if they do not meet requirements, then the representative in charge would report the incident to their superior. The representatives are rewarded for information leading to cost savings. This was necessary because of the high frequency of abuse and pilferage onsite. Another class C contractor insured his materials on-site, especially when working in remote areas.
+A class BX contractor explained how he stored all construction materials in a central store. Any material required for current projects were taken from this store and any material surplus at the end of a project was brought back to the store. According to the contractor, each project was provided with a small store and the storekeeper communicated with the central store for any order. The central store also received orders from the site for ready-mixed concrete.
+Material recording methods
+Approximately 75% of the respondents claimed that they implement a systematic approach in the recording and monitoring of the flow of materials during construction. Amongst the methods used are recording of material purchase (25.3%), checking of stock (18.9 0/0) and comparing material usage with the original estimate (22.5%).
+Both contractors in class A applied several methods to record material order, stock and usage. Methods included recording of material purchase, inventory checks, recording material usage and analysis of material price trends. Contractors in the other classes did not apply as many methods as their class A counterparts but maintained that their current approaches were suffcient.
+When a purchase order is made, it should clarify the quantity, quality, dimensions, timing of delivery, location and type of packaging required. Records should be kept and reports updated routinely for convenience of further orders. Procedures should be established to ensure outdated reports and drawings are all withdrawn from circulation.
+Poor record keeping or information systems of materials may result in construction delay. Records include the loading and off-loading, transit and handling of materials. It is recommended that arrangements be made for materials to arrive on time. Reference to the overall project programme is essential in achieving a realistic timing.
+When a construction material is delivered to a site, it should be checked for damage, quantity and specification. The off-loading method is also important since carelessness in off-loading increases wastage.
+Material variance analysis
+When asked if material variances were used, only 42.2 0o performed a material variance analysis whilst the remaining 57.8% did not. This statistic indicates the lack of material variance usage among local contractors.
+Most interviewees felt that analysis of material variance was not necessary because current use of material schedule and recording methods were suffcient to control the material usage. Another reason for its lack is associated with the type of work involved, that is, many contracts did not involve the use of many types of materials. Lack of knowledge and shortage of personnel to analyse material variance also contributed to the deficiency. The responses suggest the lack of understanding in the use of variance analysis and insuffcient control in material management.
+The absence of variance analysis indicates that a majority (58 0 /0) of respondents did not have the opportunity to compare actual material usage against the estimate. It also means that they are unable to track and examine the variability on material cost, quantity and wastage.
+The use of computers
+In managing material inventory and costing, 78.2 0o indicated they did so manually. The remaining 21.6 0o use mainly spreadsheet and database software. This signifies the lack of computer applications in material management amongst local contractors.
+Interviewees from all classes indicated that the use of computers in project management, especially in material management, is not necessary as manual methods are suffcient.
+According to interviewees from the lower classes (C, D and E) the use of computers in managing material inventory and usage was economically unjustified. Contractors in the higher classes (A, B and BX) showed a keen interest in computers and had begun to use them. This was limited to general matters such as noting the entry and exit of materials in and out of warehouse, recording material stock and reporting of material shortage and surplus. Most respondents
+l. felt that computers were too expensive to be maintained and operated;
+Figure 2 Material control flowchart. working lines; reporting lines.
+2. did not have the manpower to operate and manage computer systems.
+Contractors in the lower classes indicated that they could manage material inventory and costing manually.
+There is a lack of computer usage in construction compared to its widespread usage in other industries. The authors feel that the main problem is the lack of technical expertise. The authors agree with Bell and Stukhart (1986) that the use of computers can improve project management including material control by allowing information to be retrieved readily to minimize material-associated problems, such as shortages and surpluses of material, delay and cash flow problems.
+Although the use of computers is not widespread in local construction management, there are signs of an increased use in the near future especially among the middle and higher class contractors. The lack of use of computers among local contractors in project management can be attributed to the lack of expertise in this area. Computers can be used as a material management planning tool, as a database to keep track of materials required and to store and retrieve information on material inventory. Local contractors should keep abreast of their counterparts in other industries who benefit from the use of computers.
+Material control flow charts
+A flow chart is developed to show the activities involved in the management of material on a construction site as depicted in Fig. 2. The activities in the flow chart are derived from relevant literature Abdullah, 1985; Bell and Stukhart, 1986; Illingworth and Thain, 1988) and Preparation of material purchase — this involves the description, quantity and quality of material to be used. It should consider the schedule for order and delivery, the location, the type of transportation and packaging and the payment method.
+Order of materials — the preparation of a purchase order that describes the quantity, quality, dimensions, time and location of delivery.
+Transportation — this covers the loading and transit, handling and off-loading of materials.
+Delivery — site management should check the material delivery order against the purchase order. Damages during transit have to be spotted upon the arrival of the material.
+Site material management— a record of the performance of the material vendor, providing information on the materials needed and which manages the warehouse and distribution of material. Other responsibilities include administering stock, protection of materials on-site against losses and deterioration and monitoring surplus material, the security system and the quality of available material. The use of a computer is recommended.
+Comparison and evaluation — this activity involves comparing material receipt against orders and records on material usage.
+Material handling — the duty of the foreman to oversee workmanship, overall handling of materials and protection of completed structures.
+Work implementation and monitoring — this includes supervision of work, the use of proper instrument and checks against wastage.
+Work completed and acceptance — examination of completed work, inspection and the request for remedial work. Once a task is completed and satisfactorily accepted by the client, an evaluation should be made to assess wastage surplus and stock.
+A face-to-face questionnaire survey was conducted to achieve a maximum response to validate the material flow model. A sample of 62 contractors from classes A, B, BX and C were contacted to comment on the practicality and sumciency of the activities in the flow chart. A 100 0 0 response rate was achieved because each of them was personally visited.
+All the 62 contractors agreed that the activities and their flow reflect those in construction. More than 98 acknowledged that the activities are complete and 90 0 indicated that the flow chart is applicable on their sites.
+The full response obtained in validating the flow chart indicates the effectiveness of the method when dealing with busy construction personnel. The results confirm the usefulness and applicability of the flow chart in material management.
+Material management affects the profitability and performance of a construction contract. This paper shows the different approach adopted in managing material and some latent problems amongst contractors in Malaysia. The principal research findings are summarized as follows.
+One-quarter of the contractors either do not use or prepare material schedule. The preparation of a material schedule is based on the use of a conventional approach; very often the bar chart is used.
+Material shortages experienced by contractors are usually caused by delay in delivering by vendors often associated with poor communication between the two parties.
+Bulk material surplus happens sometimes although not very often. The mean surplus percentage is within 1—5 0o of the total cost of the materials.
+Physical forms of security measure on construction sites are used by approximately 60% of the contractors.
+In general, there is a lack of systematic methods to record and control materials during construction. Manual methods are mainly used but there is an indication that large-size contractors are turning to computers for this purpose.
+Material variance analysis is apparently lacking amongst all classes of local contractors.
+Some of the basics of material management found lacking could be improved if contractors
+1. prepare, monitor and update material schedules on all projects;
+2. record the usage and inventory of materials during construction ;
+3. perform material variance analysis;
+4. establish a better working relation with material vendors to improve planning and coordinating of material orders and transportation and delivery of materials.
+Contractors, especially the middle- and small-sized ones, should consider the use of advanced planning and resource allocation techniques, computers in project management and the establishment of a good working relation with vendors. Middle and small-sized firms lack knowledge about the use of network planning techniques and computers which deprives them of the benefits of both, for example, simulating contract models for resource usage and distribution in decision making. With modern computer technology contractors can use their experience to develop several alternative models and decide on the most suitable one to achieve better effectiveness and emciency. To implement these management practices requires appropriate education and training amongst employees in the areas of project management and computer application. Local universities, public agencies and professional bodies can play a part in disseminating knowledge and modern technology to local contractors.
+The problem of delay in material delivery exists due to poor communication and can become worse when there is a monopoly. Delay in the delivery of materials to site should be overcome at both the site and supplier levels. Project participants in both developed and developing countries need to be sensitive to the changing needs of their clients and to take measures in responding to these needs.
+The implementation of modern quality management techniques amongst project teams can improve project performance. Clients can initiate the move towards project-wide quality management (Abdul-Rahman, 1993) to improve overall effciency and effectiveness at construction sites covering material management. This includes the use of a quality system, just-in-time (JIT) management technique, quality function deployment QFD) and other techniques under the umbrella of total quality management (TQM). An effcient management of materials means increased productivity and profit to the contractor and makes the fulfilment of project requirements easier to achieve.
+The authors would like to record their appreciation to the Contractors Service Centre (CSC) which provided links with the respondents and the contractors who participated in the questionnaire survey and interviews. We would like to express our thanks and appreciation to I.L. Whyte, Dr M.N.H. Al-Halaby, A. Haroun and the two anonymous referees for their comments.

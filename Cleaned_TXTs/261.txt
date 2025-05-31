@@ -1,0 +1,328 @@
+﻿See discussions, stats, and author profiles for this publication at:
+Factors affecting construction labour productivity in Yemen
+Article  in  International Journal of Construction Management · October 2019
+CITATIONS	READS
+Sana'a University
+3 PUBLICATIONS   152 CITATIONS
+Prince Sultan University & Sanaa University
+20 PUBLICATIONS   269 CITATIONS
+Some of the authors of this publication are also working on these related projects:
+Assessment of the Quality Assurance and Accreditation in the Architectural Departments in Yemeni Universities. View project
+Human factors affecting in construction projects performance in Yemen View project
+All content following this page was uploaded by Wael Alaghbari on 03 December 2017.
+The user has requested enhancement of the downloaded file.
+Factors affecting construction labour productivity in Yemen
+aArchitectural Department, Faculty of Engineering, Sana’a University, Sana’a, Yemen; bCivil Engineering Department, Faculty of Engineering, Sana’a University, Sana’a, Yemen; cEngineering Management Department, College of Engineering, Prince Sultan University, Riyadh, Saudi Arabia
+Construction is a labour-intensive industry. As poor productivity of construction labour is one of the causes of cost and time overruns in construction projects, it is of critical importance to the performance and profitability of construction projects and the overall economy of any country. This paper aimed to identify and rank factors affecting construction labour productivity in Yemen. A survey questionnaire was structured and distributed to architectural and structural engineers who were working on construction projects. The questionnaire included 52 predefined factors, which were categorized into four primary groups: human/labour, management, technical and technological, and external. The relative importance index (RII) was determined and the factors were ranked. The results showed that the group of technical and technological factors ranked first among the four groups. The top five factors identified were the most significant in their effect on construction labour productivity in Yemen: (1) labour’s experience and skills, (2) availability of materials in site, (3) leadership and efficiency in site management, (4) availability of materials in the market, and (5) political and security situation. The findings of this study will provide awareness and a better understanding of factors affecting labour productivity in construction projects in Yemen.
+Introduction
+Construction industry plays an important role in the economy of any country. One of the main factors influencing the construction industry growth is productivity and it is mainly associated with the labour performance (Hafez et al. 2014). Productivity is the dominating aspect in the construction industry as it encourages cost savings and effective utilization of resources. It is the most important concern in both developed and underdeveloped countries (Tahir et al. 2015). Attar et al. (2012) noted that construction is a key sector of the national economy for countries all around the world, as traditionally it takes up a big portion in the nation’s total employment and its significant contribution to a nation’s revenue as a whole.
+In addition, productivity is one of the important aspects for construction industry, which helps its survival and growth. Therefore, improving the productivity of construction industry is of critical importance considering its significant contribution to the GDP (Hafez et al. 2014).
+According to Mahamid et al. (2013), labour productivity plays a key role in determining the success of a project. However, it might be affected by many unexpected variables. These variables may include factors related to labour, materials, tools and equipment, construction methods, political, financing, and environment. Poor labour productivity is one of the main causes of cost and time overruns in construction projects. Accordingly, high attention should be given to this factor in construction industry.
+Improving productivity is a major concern for any profit-oriented organization, as it represents the effective and efficient conversion of resources into marketable products and it determines business profitability (Wilcox et al. 2000). In the context of construction, labour productivity has become a big problem in the construction industry. In most countries, labour cost comprises 30%– 50% of the overall project’s cost (Guhathakurta and Yates 1993; McTague and Jergeas 2002).
+© 2017 Informa UK Limited, trading as Taylor & Francis Group
+Similar to many developing and underdeveloped countries, the construction industry in Yemen confronts many development constraints such as the inadequate implementation of appropriate building material and labour construction technologies. These constraints have become challenging conditions in Yemen. Moreover, the inadequacy in implementing appropriated building material, labour and construction technologies are affecting the efficiency of the construction process (Sultan and Alaghbari 2014).
+The major pressure in Yemen’s construction industry is still ongoing because of the rapid pace of change from the traditional to modern and conventional building methods and materials. The construction boom and rapid urbanization have also resulted in a shortage of skilled labour and construction materials. The inadequacies of building materials as well as inadequacies in design and project management potential have been a further hindrance. A lack of any approved national system of codes or standards has only compounded the problems (World Bank 1984; Sultan and Kajewski 2006). More specifically, Sultan and Alaghbari (2014) explained the several challenges faced in the Yemeni construction industry as of those in several developing and underdeveloped nations, and they highlighted that the top among them is labour productivity. Evidently, every construction project faces some difficulties and challenges relating to material, money, tools, management, and local contractors’ construction cost, among others. The authors provided that aside from political and economic challenges, the top factors that are faced in relation to labour productivity in the context of Yemen are lack of managerial skills, considerable material costs that constitute up to 61.6%, unskilled labour that constitutes 83%, and inefficient resources.
+In brief, the construction activities in Yemen are experiencing excessive waste and high costs. The abundance of labour is not been taken to the full extent; moreover, the reliance on imported materials is mounting. The industry is also increasingly relying on imported materials owing to the ambiguous and inefficient construction practices and technology strategies (Sultan and Kajewski 2003; Sultan and Alaghbari 2014). Additionally, there is a shortage of adequately professional and skilled personnel at all levels of management and field operations amongst clients, contractors and consultants in the construction industry in developing countries and Yemen (Sultan and Kajewski 2003; Mir et al. 2007). In other words, in the current Yemeni construction industry, challenges are primarily caused by delays and cost overruns indicating productivity issues (Alaghbari et al. 2012; Sultan and Alaghbari 2014).
+According to the international reports (BBC 2016; Sharp 2017), Yemen was in a complicated political crisis since 2011, but the civilian war started before that in 2004 in Sa’ada governorate and in some areas of Hajjah, Al-Jawf and Amran governorates. Currently, many governorates of Yemen are more suffering from civilian war after Al-Houthi Militia controlled Sana’a City in September 2014. Military operations have affected some governorates with varying impacts. For example, the war has had a major effect in the governorates of Sa’ada and Aden, while it has affected almost completely in some governorates such as Taiz, Hajjah, Al-Dhale and Al-Jawf. In addition, parts of some other governorates are affected, such as Hodeidah, Sana’a, Amran, Shabwah and Marib. Sana’a city (municipality) and many cities in Yemen are attacked by airstrikes and bombing. The war has affected negatively all sectors in Yemen, economic, social, health and others, but the great affect was in the economy which includes the construction industry. The high impact on construction industry is in the cost and time of project implementation. The worst impact of the war in Yemen is because of the economic blockade and the closure of ports and airports after the coalition intervention and airstrikes in March 2015. This caused the lack of liquidity and currency crisis and the difficulty of importing materials. Consequently, costs increased not only in construction industry but also in the cost of life requirements.
+In this research, the impact of the war was taken into account because the research was started during civilian war which reached Sana’a City in September 2014. Moreover, the civilian war started in 2004 between Yemeni army and Houthi movement, which continued until 2010. Then, Yemen has slipped in a complicated political crisis since 2011. Many times these crises have caused military clashes in different parts of Yemen in which the capital Sana’a was took over by one of the armed political parties (Houthi militia) in 2014. The worst was the intervention of coalition forces which have been carrying out airstrikes in Yemen since March 2015. Thus, the impact of the political crisis and military clashes was among the questions and respondents took this into consideration when they answered the questionnaire.
+Yemen is a country that is described as underdeveloped, with its construction industry experiencing growth but faced with innumerable issues in projects relating to cost, time, quality and low productivity. Hence, this study endeavours to determine and rank the factors that affect the construction labour productivity in Yemen. The study findings can contribute to the industry players in developing an extensive and in-depth perspective of the factors that influence the operation efficiency and guide the construction managers to effectively utilize their labour force. They are expected to achieve a reasonable degree of competitiveness characterized by cost-effective operation.
+Productivity definitions
+Considerable effort has been directed to understanding the productivity concept, with the different approaches taken by researchers resulting in a wide variety of definitions of productivity (Lema 1995; Pilcher 1997; Oglesby et al. 2002). Many definitions of the word ‘productivity’ exist. Although there are endless definitions for productivity, they all refer to productivity as a comparison of input versus output. The following is a review of some definitions of productivity.
+The origin of the term productivity can be traced back to 1766 when it was first mentioned in an article by Quesnay (Vaggi 1987; Jarkas and Bitar 2012). Later, in 1883, Littre defined productivity as the ‘faculty to produce’, that is, the desire to produce (Jarkas and Bitar 2012; Jarkas 2015). In the early twentieth century, a more precise definition, ‘the relationship between output and the means employed to produce that output’ was developed (Jarkas and Bitar 2012). In 1950, the Organization for European Economic Cooperation (OEEC) introduced a formal definition of productivity as ‘a quotient obtained by dividing output by one of the production factors’ (Sumanth 1984).
+Added to the above definitions, Peles (1987) defined productivity as ‘the performance accomplished by operatives’, whereas Handa and Adballa (1989) defined productivity as ‘the ratio of outputs of goods and/or services to inputs of basic resources (e.g. labour, capital, technology, materials and energy)’. Moreover, Finke (1998) defined productivity as ‘the quantity of work produced per man-hour, equipment-hour, or crew-hour’. The American Association of Cost Engineers defined productivity as a ‘relative measure of labour efficiency, either good or bad, when compared to an established base or norm’ (Allmon et al. 2000).
+Meanwhile, Arditi and Mochtar (2000) referred to productivity as ‘the ratio between total outputs expressed in Dollars and total inputs expressed in Dollars as well’, and Horner and Duff (2001) described productivity as ‘how much is produced per unit input’.
+In this research, and as on the basis of the preceding reviews, various researchers defined productivity as the ratio of output to input. Consequently, construction productivity can be regarded as a measure of outputs that are obtained by a combination of inputs. The definition for productivity with regard to construction is the measurement of the output of construction goods and services per unit of labour (McTague and Jergeas 2002).
+Factors affecting construction labour productivity
+Over the years, the factors affecting construction labour productivity have been the subject of inquiry by many researchers. Table 1 summarizes some of the most important factors affecting construction labour productivity, obtained by studies conducted in different countries.
+Classification of factors affecting construction labour productivity
+Various factors affecting labour productivity have been identified and classified by many researchers in different countries as presented in the previous section. The frequencies and importance of these factors vary from one country to another and from one project to another. In an effort to classify the factors into global main groups, which can best encompass and relate to the various corresponding factors, several approaches have been adopted. However, a consensus among research on the classification schemes of such groups is yet to be reached.
+Talhouni (1990) classified four categories responsible for affecting productivity on construction sites: (1) management, (2) site, (3) design, and (4) weather, whereas, Herbsman and Ellis (1990) reported two-group main divisions of influencing factors: (1) technological and (2) administrative. Heizer and Render (1996) sorted productivity factors into three major groups: (1) labour characteristics, (2) project conditions, and (3) non-productive activities.
+Moreover, Sugiharto (2003) further allocated the key factors impinging upon construction productivity in Indonesia into the following three categories: (1) characteristics of contractors, (2) inadequate management strategy, and (3) organization’s focus.
+Also, Enshassi et al. (2007) surveyed 45 factors affecting labour productivity of building projects in Gaza Strip, and distributed such factors under the following 10 major groups: (1) materials/tools, (2) supervision, (3) leadership, (4) quality, (5) time, (6) manpower, (7) project, (8) external, (9) motivation, and (10) safety.
+The extensive 10 groups provided by Enshassi et al. (2007), furthermore, can reasonably be presented under the following four major group categories: management, technical, labour, and external. More importantly, factors influencing labour productivity are different in different countries, across sites, and possibly within the same job site, depending on circumstances (Olomolaiye et al. 1998).
+There is semi-compatibility on a global categorization scheme, which can be used to classify factors affecting labour productivity. Thus, the researcher assumes the possibility of achieving that. These groups can keep their strength and indefensible, regardless of geographical and environmental areas although the construction sites make factors differ in their effect. Therefore, Table 2 displays a list comprising the 52 factors collected from the literature and previous researches, which are classified
+Summary of factors affecting labour productivity in some developing countries.
+
+Top five factors in some countries
+Poor communication and coordination between construction parties
+Bad relations between labour and management team
+Payments delay by owner
+Misuse of time schedule
+Lack of labour experience
+Low amount of pay
+Working 7 days per week without break
+specifications alteration during execution
+Poor relations between labour and supervisors
+Availability of the material and ease of handling
+Leadership and competency of construction
+Competency of labour supervision
+Shortage of experienced labour
+Lack of labour supervision
+Motivation of labour
+Tools and equipment shortages
+Delay in material delivery on site
+Undisciplined labour
+Material shortage
+Productivity increases as experience increases
+Financial incentives increase productivity
+Trust and communications between management and workers
+Clarity of technical specifications
+The extent of variation/ change orders during execution
+Lack of labour supervision
+Proportion of work subcontracted
+Errors and omission in design drawings
+Changes to orders during execution
+Delay in responding to requests for information
+Clarity of project specifications
+Lack of labour supervision
+Delay in responding to requests for information
+Lack of materials
+Materials shortage
+Weather and site conditions
+Lack of proper tools and equipment
+Lack of materials
+Absenteeism of operatives
+Lack of suitable tools
+
+Lack of material
+Incomplete drawings
+Lack of tools and equipment
+Shortage of material
+Non-payment to suppliers causing stoppage of materials delivery to sites
+Change orders by consultants
+Late issuance of construction drawings by consultants
+Lack of tools/equipment
+Poor construction methods
+Unavailability of material
+Late payment of salaries and wages
+Suitability/adequacy of plant and equipment
+Supervisory incompetence
+Unavailability of material on time at workplace
+Delayed material delivery by the supplier
+Strikes called by political parties or hartal
+Frequent revisions of drawing/design result of additional work/ rework
+Unavailability of drawings on time at the worksite
+Classification of factors affecting construction labour productivity in Yemen.
+Human/labour factors
+Leadership and efficiency in site management
+Clarity of instructions and communication on the site
+Managing and follow-up subcontractors
+Absence from work (labours/supervisors)
+Strength and physical structure of labours
+Availability of materials in site
+Provides all drawing details during works
+Choose an adequate staff and site supervision efficiency
+Provide the necessary tools and equipment on site (cranes/bulldozers
+Planning and the flow of works continuity (planning during heavy works in site)
+Total hours to complete the project (project duration)
+Services provided in site (water/electricity/WC …)
+Nature of the ownership of work (private/government …)
+Contracting system to work (daily wage/lump sum/unit price …)
+Daily hours of rest during work (two hours)
+Give labours some incentives and rewards
+Overtime (additional 4 hours and more a day)
+Nature of work management (individual or companies …)
+Services provided to labours (social security/insurance/Medicare …)
+Technical and technological factors
+Interruption of the work (change designs/specifications)
+Architectural and structural designs (simple/advanced)
+The accuracy and the level of project specifications
+Equipment required for work on the project (heavy, simple or hi-techequipment)
+The quality and nature of materials used in the project
+Type of structure (concrete/steel/load-bearing walls …)
+Ease of processing and preparation of materials for the work (cutting/chopping …)
+Quantity of work available every day (daily workloads)
+Specialized nature of the work (concrete, masonry, tiling, plastering
+Project type (residential/ infrastructure/ investment/ industrial …)
+Availability of materials in the market
+Political and security situation (demonstrations/political issues …)
+Economic condition in the country (the price rises/inflation …)
+Ease of delivery to the site (labour and materials)
+Muslims’ month of fasting (Ramadan)
+Working under pressure (working in a difficult work environment) especially in projects of political and military nature
+The nature of project site (remote areas/highlands/deserts …)
+Social condition in the country (poverty/illiteracy/migration …)
+Availability of labour in the market and competition between them11. Temperature (intense heat or frost)
+Environment around project site and the impact of neighbourhood
+The impact of the availability of labours – and the ability to work (in the case of shortage of availability of labour in the market)
+Public holidays
+The impact of the availability of labours – and the ability to work (in the case of the availability of redundant labour in the market)
+into four primary groups/categories: (1) human/labour (8 factors), (2) management (17 factors), (3) technical and technological (12 factors), and (4) external (15 factors).
+Research methods
+This study used a qualitative approach and data were collected using a questionnaire approach. The questionnaire was built around factors affecting labour productivity collected from previous studies and comprised both open-ended and closed-ended questions. The survey presents 52 productivity factors generated on the basis of related research works on construction projects productivity. These factors were categorized into four groups, which are human/labour, management, technical and technological, and external factors. The structured questionnaire was composed of two sections:
+– The first section included general information about the respondents (qualifications, specialization, position, and work experience), whose primary purpose was to describe the respondents to effectively ensure reliability and strengthen research results.
+– The second section included four tables for four groups, which represent 52 factors affecting construction labour productivity in Yemen. The questions in this section were measured using a five-point Likert scale comprising ratings from 1 to 5; 1 indicates the least impact while 5 indicates the greatest impact. The respondents were asked to tell the extent to which a particular factor affected labour productivity in their construction projects.
+Before distributing the questionnaire, a pilot test was performed to confirm that the questionnaires were phrased appropriately. The questionnaire was sent by email to 10 academic staff members who are specialists and professionals in structural and architectural construction engineering. Respondents to the pilot testing process were asked to comment on the readability, accuracy and comprehensiveness of the questionnaires.
+The target population included engineers and consultants, who are working in construction firms. These responses represented a wide range of consultants who have been involved in construction projects, as well as
+experienced engineers worked in medium to large size consultancy works.
+To obtain a statistically representative sample of the population, the formula shown in Equation (1) was used (Hogg and Tannis 2009; Alaghbari and Sultan 2015):
+where n, m, and N are the sample size of the limited, unlimited, and available population, respectively. The m is estimated by Equation (2):
+where z is the statistic value for the confidence level used (i.e. 2.575, 1.96, and 1.645) for 99%, 95%, and 90% confidence levels, respectively, p is the value of the population proportion that is being estimated, and e is the sampling error of the point estimate.
+Because the value of p is unknown, Sincich et al. (2002) and Alaghbari and Sultan (2015) suggested that a conservative value of 0.50 be used so that a sample size that is at least as large as required be obtained. By using a 95% confidence level (i.e. 5% significance level) of the unlimited sample size of the population, m is approximated as follows:
+Data for this research were collected from 100 of consultants companies registered in the Yemeni Association of Consulting Engineers Offices in Yemen – YACE (2013). In addition, data were collected also from 50 academic staff members who are working in architectural and civil engineering departments in public and private universities. The sample selected from engineers and consultants had very good experiences for more than 10 years in consultancy works in construction projects.
+Accordingly, from the total number of samples selected (i.e. N = 150), the representative sample size of the population required is determined by the following equation:
+Therefore, to ensure that the sample size required was obtained, a total of 150 samples were distributed the questionnaire by email and surveyed. Only 103 questionnaires usable feedbacks were received by the cut-off date and this represented about 68.67% of total 150 emails sent. Twelve questionnaires were discarded for being incomplete, making it a total of 91 complete questionnaires (60.67% of 150 questionnaires).
+For analyzing data, the relative importance index (RII) technique was used based on the following formula (Lim and Alum 1995; Enshassi et al. 2007; Jarkas and Bitar 2012; Hafez et al. 2014; Hickson and Ellis 2014; Alaghbari and Sultan 2015):
+where n1, n2, n3, n4 and n5 are the number of respondents who selected: (1) very low effect/non-effect, (2) low effect, (3) medium effect, (4) high effect, and (5) very high effect. The weighting given to each factor by the respondents ranged from 1 to 5.
+Answers of the first section are obtained by the appropriate choice of answer. In the second section, respondents were required to rate the factors affecting labour productivity on Likert- scale from 1 (very low effect/non-effect) to 5 (very high effect). The RII was used to rank the factors affecting labour productivity as perceived by respondents and thus comparative analysis is possible. According to Hickson and Ellis (2014), the RII technique is a proven system for analyzing employee satisfaction, thus making it suitable for this research. Lundby and Fenlason (2000) assert that the RII technique can expose specific elements that contribute most to management and labour concerns and assist decisionmakers in allocating organizational resources. Nyoni and Bonga (2016) used the RII technique to measure attitudes with respect to surveyed factors. Additionally, the groups’ RII was calculated by taking the average of factors RII in each group.
+The Cronbach’s alpha coefficient (a) was used to determine the questionnaire reliability and because items were measured through a scale (Likert scale), construction at the group level and reliability of each item at the individual level were evaluated. For the pilot test, Cronbach’s alpha (a) of 0.911 was achieved, and the corrected scale composed of 52 structural survey questions, which represented 52 factors that constrain the construction
+productivity of Yemen.
+Results analysis and discussions
+In this research, two software applications were used to examine the results, which were SPSS 20 and MS Excel 2010. The results of each group/category are presented below.
+Human/labour factors affecting construction labours productivity.
+
+Leadership and efficiency in site management
+Clarity of instructions and communication on the site
+Managing and follow-up subcontractors
+Absence from work (labours/supervisors)
+Strength and physical structure of labours
+This group included human/labour factors for both (labours and supervisors) that influence construction labour productivity in Yemen. As shown in Table 3, eight human/labour factors were identified and ranked in terms of their effect on the efficiency of labours and supervisors on construction projects. With a RII of 88.6%, ‘labour’s experience and skill’ is ranked first in this group and also among all factors investigated. Thus, it is considered the most significant factor affecting construction labour productivity in Yemen. With a RII of 87.6%, ‘leadership and efficiency in site management’ is ranked second in this group and third among all factors. ‘Clarity of instructions and communication on the site’, with a RII of 81.4%, is ranked third within this group, and 12th overall. With RII of 69.6% and 58.4%, ‘labour’s age’ and ‘labour’s education level’ are ranked sixth and seventh in the end of this group, and 35th and 40th overall, respectively. Finally, ‘labour’s education level’ is ranked last among all factors affecting construction labour productivity in Yemen.
+The relative importance indices and ranks of the 17 factors classified under the management group are shown in Table 4. With a RII of 87.8%, ‘availability of materials in site’ is ranked first in this group and second among all factors. With a RII of 87.6%, ‘provides all drawing details during works’ is ranked second in this group and sixth among all factors. ‘Choose an adequate staff and site supervision efficiency’ is ranked third with a RII of 83.6% within this group, and 11th overall.
+However, with RII of 66.4% and 63%, factors ‘nature of work management (individual or companies)’ and ‘services provided to labours (social security/insurance/ Medicare)’ are ranked 15th and 16th within the group, and 37th and 39th in terms of overall factors, respectively.
+Technical and technological factors group
+The relative importance indices and ranks of the 12 factors classified under the technical/technological group
+Management	factors	affecting	construction	labours productivity.
+
+Availability of materials in site
+Choose an adequate staff and site supervision efficiency
+Provide the necessary tools and equipment on site (cranes/bulldozers …)
+Planning and the flow of works continuity (planning during heavy works in site)
+Total hours to complete the project (project duration)
+Services provided in site (water/electricity/WC …)
+Nature of the ownership of work (private/government …)
+Contracting system to work (daily wage/lump sum/unit price …)
+Daily hours of rest during work (2 hours)
+Give labours some incentives and rewards
+Overtime (additional 4 hours and more a day)
+Nature of work management (individual or companies …)
+Services provided to labours (social security/insurance/ Medicare …)
+are shown in Table 5. With a relative importance index (RII) of 85%, ‘interruption of the work (change designs/ specifications)’ is ranked first within the group and sixth among all factors. ‘Architectural and structural designs (simple/advanced)’ is ranked second within this group and seventh among all factors with a RII of 84.8%. However, two factors are ranked third within this group and both of them ranked eighth among all factors with a RII of 84.4%. These factors are ‘the accuracy and the level of project specifications’ and ‘building technique and technology (traditional/ advanced/ panellized...)’. Moreover, with RII of 64%, factor ‘project type (residential/infrastructure/investment/industrial …)’ is ranked 9th within this group, and 38th among overall factors.
+Technical and technological factors affecting construction labours productivity.
+
+Interruption of the work (change designs/specifications)
+Architectural and structural designs (simple/advanced …)
+The accuracy and the level of project specifications
+Building technique and technology (traditional/advanced/ panellized …)
+Equipment required for work on the project (heavy, simple or hi-tech equipment)
+The quality and nature of materials used in the project
+Type of structure (concrete/steel/load-bearing walls …)
+Ease of processing and preparation of materials for the work (cutting/chopping …)
+Quantity of work available every day (daily workloads)
+Specialized nature of the work (concrete, masonry, tiling, plastering …)
+Project type (residential/infrastructure/investment/ industrial …)
+External	factors	affecting	construction	labours productivity.
+Ranking groups of factors affecting construction labour productivity.
+
+Technical and technological factors
+Management factors
+Human/labour factors
+
+Availability of materials in the market
+Political and security situation (demonstrations/political issues …)
+Economic condition in the country (the price rises/ inflation …)
+Ease of delivery to the site (labour and materials)
+Muslims’ month of fasting (Ramadan)
+Working under pressure (working in a difficult work environment) especially in projects of political and military nature
+The nature of project site (remote areas/highlands/deserts
+Social condition in the country (poverty/illiteracy/ migration …)
+The area of project location (urban area/rural area/ uninhabited area)
+Availability of labour in the market and competition between them
+Temperature (intense heat or frost)
+Environment around project site and the impact of neighbourhood
+The impact of the availability of labours – and the ability to work (in the case of shortage of availability of labour in the market)
+Public holidays
+The impact of the availability of labours – and the ability to work (in the case of the availability of redundant labour in the market)
+External factors group
+The relative importance indices and ranks of the 15 factors classified under the external group are shown in Table 6. Three factors with relative importance indices of 86.2%, 85.8%, and 84.2%, namely, the ‘availability of materials in the market’, ‘political and security situation (demonstrations/political issues …)’, and ‘economic condition in the country (the price rises/inflation...)’, respectively, are ranked first, second and third, respectively, within this group. Moreover, these factors are ranked fourth, fifth and ninth among all factors, respectively. In addition, with a RII of 67.6%, factor ‘the impact of the availability of labours and the ability to work (in the case of the availability of redundant labour in the market)’ is ranked 14th within this group and ranked 36th among all factors influencing construction labours productivity.
+Ranking groups of factors affecting construction labour productivity
+As Table 7 shows, the results obtained demonstrate that all groups have approximate average relative importance indices. The technical and technological group is ranked first with the highest average RII score of 79.15%. This is followed closely by external factors group, ranked second with an average RII score of 78.46%. Moreover, the management group is ranked third with an average RII score of 76.53. Surprisingly, the human/labours group is ranked fourth with an overall average RII score of 76.33%. Furthermore, the impacts of both factors ‘labour’s experience and skills’ and ‘leadership and efficiency in site management’ came in first and third, respectively, in overall ranking among factors affecting construction labour productivity in Yemen.
+The top ten factors affecting construction labours productivity in Yemen
+The overall perceived effects of the 52 factors surveyed are summarized in Table 8. As shown, the first ten factors listed in the ranking indicate their corresponding RII. The participants to the survey claimed that the listed factors are integrated and their effect has to be conceptualized in combination. For example, the factor of ‘labour’s experience and skills’ is related to ‘human/ labour group’, and it is the top significant factor affecting Yemen’s labour productivity. This outcome is supported by the findings reported by Horner et al. (1989), with skill of labour listed first in its significance to labour productivity in the context of the UK. This is also supported by findings obtained by Mahamid et al. (2013) in Saudi Arabia, Jarkas (2015) in Bahrain, El-Gohary and Aziz (2014) in Egypt, and Tahir et al. (2015) in Pakistan.
+In other researches, the skilled labour is ranked second and these include findings reported by Alinaitwe et al. (2007) in Uganda, and Lim and Alum (1995) in Singapore. In the context of Jordan, ‘productivity increases as experience increases’ took first rank, where a direct relationship was found between the variable and productivity by Hiyassat et al. (2016). Skilled labour is a factor that has been categorized by some authors into two, namely, ‘shortage of experienced labour’ and ‘lack of labour experience’. The former was ranked third in Trinidad and Tobago (Hicksona and Elli 2014), and the latter was ranked fourth in the context of Palestine (Mahamid 2013). Meanwhile, in Kuwait, the ‘skill of labour’ factor took second rank in its category (Jarkas and Bitar 2012).
+Lack of skilled or experienced labour is an antithesis of the construction productivity. In regards to this, Jarkas and Bitar (2012) stated that unskilled workers are characterized with low outputs and high inputs as well as costs. Added to this, their outputs
+Overall ranking of factors affecting construction labour productivity in Yemen.
+
+Availability of materials in site
+Leadership and efficiency in site management
+Availability of materials in the market
+Political and security situation (demonstrations/political issues …)
+Interruption of the work (change designs/specifications)
+Technical factor
+Architectural and structural designs (simple/advanced …)
+Technical factor
+The accuracy and the level of project specifications
+Technical factor
+Building technique and technology (traditional/advanced/panellized …)
+Technical factor
+Economic condition in the country (the price rises/inflation …)
+Equipment required for work on the project (heavy, simple or hi-tech equipment)
+Technical factor
+Choose an adequate staff and site supervision efficiency
+The quality and nature of materials used in the project
+Technical factor
+Clarity of instructions and communication on the site
+Provide the necessary tools and equipment on site (cranes/bulldozers …)
+Ease of delivery to the site (labour and materials)
+External factors
+Muslims’ month of fasting (Ramadan)
+Working under pressure (working in a difficult work environment) especially in projects of political and military nature
+Planning, and the flow of works continuity, and planning during heavy works in site
+Working hours (work for 8 hours per day)
+Total hours to complete the project (project duration)
+The nature of project site (remote areas/highlands/deserts …)
+Social condition in the country (poverty/illiteracy/migration …)
+Technical factor
+Type of structure (concrete/steel/load-bearing walls … .)
+Technical factor
+Ease of processing and preparation of materials for the work (cutting/ chopping … .)
+Technical factor
+Quantity of work available every day (daily workloads)
+Technical factor
+Managing and follow-up subcontractors
+Absence from work (labours/supervisors)
+Availability of labour in the market and competition between them
+External factors
+Services provided in site (water/electricity/WC …)
+Temperature (intense heat or frost)
+Environment around project site and the impact of neighbourhood
+Nature of the ownership of work (private/government)
+Specialized nature of the work (concrete, masonry, tiling, plastering …)
+Technical factor
+The impact of the availability of labours and the ability to work (in the case of shortage of availability of labour in the market)
+Strength and the physical structure of the labours
+Contracting system to work (daily wage/lump sum …)
+Daily hours of rest during work (2 hours)
+Give labours some incentives and rewards
+Overtime (additional 4 hours and more a day)
+The impact of the availability of labours and the ability to work (in the case of the availability of redundant labour in the market)
+Nature of work management (individual or companies …)
+Project type (residential/infrastructure/investment/industrial …)
+Technical factor
+Services provided to labours (social security/insurance/Medicare)
+are often wholly or partially rejected by the supervision team, leading to extensive and expensive rework, reconstruction or repairs. Contrastingly, experienced workers are characterized by sound intellectual abilities, practical solutions to resolve issues, and high technical and motor skills – all of which contribute
+to greater level of productivity, lower labour costs and optimum quality outputs.
+Furthermore, the study findings showed that ‘availability of materials in site’ under the management group took second rank among all the factors. The same factor was ranked first in Nigeria, Iran, Indonesia, Thailand and Malaysia in the findings respectively revealed by the authors, Olomolaiye et al. (1987), Zakeri et al. (1996), Kaming et al. (1997), Makulsawatudom et al. (2004) and Abdul Kadir et al. (2005).
+Meanwhile, the ‘leadership and efficiency in site management’ factor categorized under human/labour category took third rank in the present study similar to the results of the studies conducted by Aliabouni et al. (2009) in the UAE, Horner et al. (1989) in the UK, and Makulsawatudom et al. (2004) in Thailand. The authors classified the factor among the significant factors that influence labour productivity. Meanwhile, in Singapore and Uganda, the factor took first rank in the studies by Lim and Alum (1995) and Alinaitwe et al. (2007), respectively.
+The next ranked factor, taking fourth place in the list, is ‘availability of materials in the market’. Several prior studies revealed that materials shortage is an important factor that influences the labour productivity but it was ambiguous whether or not such shortage is in project site or in markets. Hence, if the shortage of materials is in the former, the factor should be categorized under management factors and if it is in the latter, then it should be categorized under contractor’s responsibility. In prior studies, the most unexpected result was reported by Mahamid (2013) who reported that ‘shortage of materials’ factor was missing from the top five significant factors in Palestine, specifically the Gaza Strip, with the area being under siege and unable to import materials to be employed in its construction industry.
+In the context of Yemen, particularly since February 2011, the factor ‘political and security situation (i.e. demonstrations, political issues)’ took fifth rank in the overall factors. Contrastingly, in Gaza Strip, Palestine, Mahamid (2013) revealed that the factor obtained the first rank among the other factors.
+As for the sixth ranking factor, two factors occupied the position in Yemen as the findings indicated. They are ‘provides all drawings and details during works’ and ‘interruption of the work (change/designs/specifications)’. The former factor was ranked second by Makulsawatudom et al. (2004) in Thailand, and fourth by Zakeri et al. (1996) in Iran. Other factors in prior studies were also highlighted which included ‘the extent of variation/change orders during execution’, which was found by Jarkas and Bitar (2012) to rank second in the case of Kuwait, the factor ‘change orders by consultants’ which was revealed by Abdul Kadir et al. (2005) to rank third in Malaysia, and, finally, the factor ‘drawing deficiencies/ change orders’ that was found by Zakeri et al. (1996) to rank fourth in the case of Iran.
+The seventh ranked factor among the other factors in the present study is ‘architectural and structural designs (simple/advanced…)’. In prior studies, only the specifications under technical factors were included and not other factors like type of projects, design and construction methods. This was an exception in Horner et al.’s (1989) in the context of Britain, who included factor related to design and project management technique to review the construction processes. The factor was referred to as ‘build ability’ and it took the second rank.
+Similar to the sixth ranking, the eighth rank was occupied by two factors namely ‘the accuracy and the level of project specifications’ and ‘building technique and technology (traditional/advanced/panellized)’. The only study that obtained similar findings is Alinaitwe et al. (2007), who found ‘poor construction methods’ to rank fifth in the case of Uganda. The rest of the studies, like the seventh factor in this study, found the eighth ranked factor to be insignificant in their influence of labour productivity in various contexts. Some of the reviewed studies presented factors of clarity specifications instead like Jarkas and Bitar (2012), while others focused on providing specifications and equipment such as Mahamid (2013), Gerges et al. (2016), Olomolaiye et al. (1987), Zakeri et al. (1996), Kaming et al. (1997), Alinaitwe et al. (2007), and Chigara and Moyo (2014).
+The factor that took the ninth position in the present study in the context of Yemen is ‘economic condition of the country (the price rises/inflation…)’. This factor’s influence on labour productivity stems from the fact that poor economic conditions are incentives for many people to obtain extra income to cover their life expenses – majority of them are construction labourers lacking sills and experiences. Moreover, as mentioned, lack of skill or experience of labour is the antithesis of the production in the construction process (Jarkas and Bitar 2012). Hence, the factor is interrelated with the first ranked factor in the present study.
+The factor that obtained the tenth rank from the other factors in this study is ‘equipment required for work on the project (heavy, simple or hi-tech equipment)’. In comparison to Egypt, Gerges et al. (2016) found the factor ‘tools and equipment shortage’ to rank first among all the factors included, while in Gaza Strip, Palestine, Mahamid (2013) revealed the factor ‘equipment shortage’ to rank second. In the second study, the result was expected as the Gaza Strip is under siege, preventing its import of new equipment, equipment accessories and spare parts. In the context of Nigeria, the factor ranked third as reported by Olomolaiye et al. (1987), and in Thailand and Uganda, the factor ‘shortage of equipment and tools’ was ranked fourth by Makulsawatudom et al. (2004) and Alinaitwe et al. (2007), respectively. Meanwhile, in Iran, the factor was found to occupy the fifth rank. Moreover, the factor ‘suitability/ adequacy of plant and equipment’ was found to occupy the third rank in the case of Zimbabwe by Chigara and Moyo (2014).
+In the present study, the most unexpected result came from the fact that the factor ‘choose an adequate staff and site supervision efficiency’ took 11th rank from all the factors in Yemen. Prior studies stressed on the significance of the factor that is related to adequate staff and efficiency in site. For instance, the factor ‘lack of qualified supervisors’ and ‘incompetent supervisors’ found themselves in the first rank in Singapore (Lim and Alum 1995) and Uganda (Alinaitwe et al. 2007). In Great Britain (Horner et al. 1989), the factor ‘quality of supervision’ and in Thailand (Makulsawatudom et al. 2004), the factor ‘incompetent supervisors’ were ranked third among all the factors. In Gaza Strip, Palestine (Mahamid 2013), Malaysia (Abdul Kadir et al. 2005) and Trinidad and Tobago (Hicksona and Elli 2004), the same factor took fifth place among all the factors examined.
+Added to the above findings, some of the factors were found to have a significant impact in prior studies and these include old and inefficient equipment, labour absenteeism, and low pay. Although these factors were ranked among the five top factors that affect productivity in other countries, in Yemen, they were all found to have an insignificant effect.
+The obtained findings in this study indicate that the technical and technological factors category ranks first and it influences the efficiency of the construction process and productivity in Yemeni construction industry. This is an expected outcome in Yemen, similar to developing and underdeveloped countries owing to the lack of infrastructure, skilled labour and professional staff within these countries (Sultan and Alaghbari 2014). This result is also revealed by Jarkas and Bitar (2012) in the case of Kuwait. Nevertheless, the relative importance indices obtained of management and external groups took second and third place, while human/labour factors category took fourth rank. This is surprising as the fourth-ranked category includes the most significant factors ranking first and third in overall factors that affect construction labour productivity in Yemen.
+Conclusions and recommendations
+This study managed to identify a total of 52 factors affecting the construction labour productivity in Yemen, which were categorized into four groups that are human/labour, management, technical and technological, and external factors.
+The most significant factors affecting construction labours productivity of construction projects in Yemen are: (1) labour’s experience and skills, (2) availability of materials in site, (3) leadership and efficiency in site management, (4) availability of materials in the market, (5) political and security situation (demonstrations/ political issues). However, the technical and technological group is ranked first among all groups. Contrastingly, the most interesting findings that are out of the top 10 factors, five factors were from technical and technological group and three factors from the group of external factors, while the two other groups have two factors in the top 10 factors affecting construction labours productivity in Yemen.
+On the basis of the results, the findings are expected to contribute to the construction sector in Yemen by informing the parties of the positive and negative impact of factors. This could assist them in saving time and costs in construction projects and to mitigate the delay and stalled projects in the country. Based on the findings, the following are recommended to enhance the labour productivity in the country:
+(1) In a country like Yemen, it is important to invest in people as the proportion of youth in the population is relatively high indicating an abundant potential of manpower. Government policy is recommended to focus on technical education and apprentice programmes.
+(2) In the construction industry, labour input has to be enhanced through the adoption of technologies that are invaluable and appropriate to the local resources and skills.
+(3) The industry should focus on efficient labourintensive management or human resources as these could be the key to successful construction projects.
+(4) The government is recommended to invest in local building materials industry and to encourage research in the use of materials and the ways to develop them.
+(5) It is pertinent for the Yemeni government to work towards a comprehensive development of administrative and human resource. It is also significant to promote the function of effective management of labours and human resources as this could lead to successful management of construction projects and initiatives.
+(6) In the construction industry, management skills should be improved through training programmes in order for the workforce to adapt to strategies/ policies that are needed to mitigate the influence of unemployment and to leverage excessive local labour.
+(7) Attention should be placed in managing drawings and specifications, particularly during the work process. This could promote interaction among clients, owners, designers, and management from the design stage for cost minimization relating to drawings/design errors and revisions. It could also lead to proper coordination between designers and project management that would guarantee the availability of the drawings in the worksite in a timely manner.
+(8) More research should be conducted to enhance the productivity of the entire parties involved in the construction industry.
+No potential conflict of interest was reported by the authors.

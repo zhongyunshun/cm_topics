@@ -1,0 +1,204 @@
+Reasons for adopting Public–Private Partnership
+(PPP) for construction projects in Ghana
+To cite this article: Osei – Kyei Robert, Ayirebi Dansoh & J. K Ofori – Kuragu (2014) Reasons for adopting Public–Private Partnership (PPP) for construction projects in Ghana, International Journal of Construction Management, 14: 4, 227-238, DOI: 10.1080/15623599.2014.967925
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+International Journal of Construction Management, 2014
+Reasons for adopting PublicPrivate Partnership (PPP) for construction projects in Ghana Osei  Kyei Roberta*, Ayirebi Dansohb and J. K Ofori  Kuragub
+Department of Building and Real Estate, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong; Department of
+Building Technology, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana
+Over the past decade, PublicPrivate Partnership Policy has increasingly been adopted by governments over the world and the Ghanaian Government is no exception. This paper explores the key reasons for adopting PPP for construction projects in Ghana. In an empirical questionnaire survey respondents were invited to rate their perception on 17 reasons identified from literature. The results show that five most important reasons for adopting PPP are: ‘reduces public sector administrative cost’, ‘allows for shared risk’, ‘reduces the problem of public sector budget constraint’, ‘private sector possess better mobility’ and ‘private sector has ability to raise funds for project’. A significance test using one  way ANOVA indicates that ‘offers benefit to local economic development’, ‘increase access to the public sector market’, ‘provides tax exemption and reduction’ and ‘provides incentives to new market penetration’ receive different views from the public and private organizations as reasons for adopting PPP policy. Factor analysis also shows that the factor groupings for the 17 reasons are: innovation enhancement and economic benefits, private sector efficiency, opportunities for market penetration and innovation, effective project risk management and business growth incentives for the private sector.
+Public Private Partnership; construction projects;
+Introduction
+The definition of Public Private Partnership (PPP) varies from country to country (Chan et al. 2006) but in spite of the varying definitions similar features of PPP in various jurisdictions could be identified. In the Ghanaian context PPP is defined as;
+a contractual arrangement between a public entity and a private sector party with clear agreement on shared objectives for the provision of public infrastructure and services traditionally provided by the public sector. (MOFEP 2011)
+In the Ghanaian PPP definition, three clear features are articulated.
+Firstly, it must be a partnership and a contractual arrangement between two parties where one party is a Public Entity. Most often, the public entity is referred to as a Contracting Authority. The Contracting Authorities include; Metropolitan, Municipal and District Assemblies, Ministries, Public Agencies and Departments. The Ministry of Finance and Economic Planning (MOFEP) through its Public Investment Division (PID) offers assistance to the Contracting Authorities throughout the PPP process.
+The second feature of Ghana’s PPP is the sharing of responsibilities and risk. In fact the Government of Ghana has indicated that any transaction or partnership without a shared risk over a period of time cannot be considered as PPP (MOFEP 2011).
+Finally, a transaction can be considered to be PPP only if the private partner executes a public infrastructure project whose provision is traditionally deemed to be done by the public sector. Thus, public infrastructure projects are considered as PPP only when they are financed and executed by the private sector. The main form of PPP concession adopted in Ghana is the Design, Build, Finance and Operate (DBFO) but other forms of concession contracts are adopted depending on the aim and objectives of the Contracting Authority.
+Global reasons for adopting PPP
+Many governments across the world are seeking to adopt PPP policy but the question is ‘why do they prefer the PPP approach in procuring public construction projects’ (Cheung et al. 2009)?
+What actually drives governments to adopt PPP seems to differ. Some PPP commentators are of the view that most developing countries accept the PPP policy as a condition on loans from International Organizations (Jamali 2004;
+*Corresponding author. oseikyeirobert@yahoo.com
+et al. 2006; Appuhami et al. 2011) while others raise the argument that some engage in PPP to alleviate poverty in their countries (Bhatia & Gupta 2006). In spite of the controversy about PPP policy in developing countries, most developing economies actually have huge infrastructure deficit and excessive government debts which in a way has led to poor economic development and lower standards of living. This makes it more important for PPP to be explored in these developing countries to boost infrastructure development and improve the living standard of the people.
+The concept of PPP was previously only considered to allow for the participation of the private sector in the provision of public services and facilities (Grimsey & Lewis 2004) in order to reduce the strain on governments’ finances (Cheung et al. 2009). In recent times it has become obvious that the reason for governments’ adopting PPP policy goes beyond relieving the government from its financial burden. Walker and Smith (1995) indicated that governments are driven to adopt PPP because the private sector is better organized than the public sector. Generally the private sector possesses better resource mobility than the public sector. The private investor is able to utilize resources more efficiently and effectively (Skietrys et al. 2008).It is the goal of every private investor to minimize project cost and maximize revenue therefore they tend to manage available resources well and use them effectively to achieve the stated goal (Hambros 1999; Askar & Gab-Allah 2002).
+Walker and Smith (1995) observed that the private sector has the ability to raise massive funds for large-scale construction projects thus reducing the host government’s financial burden. The huge infrastructure gap in many countries cannot be provided by the government alone from the national budget. This will put lots of pressure on the financial status of government. It is therefore important for governments to engage the private investors who have the capabilities of raising substantial funds for large-scale infrastructure projects.
+Private investors are known to provide better services to the public and have the ability to manage a good business partnership (Walker et al. 1995; Ghobadian et al. 2004). The private sector is able to provide better quality services than the public sector because it tends to adopt better technologies which improve the quality of project and service delivery. Moreover they give better resources in terms of knowledge, skills and technology (Ghobadian et al. 2004).
+Li et al. (2005b) summarized reasons for governments’ attraction to PPP as; better project technology and economy, greater public benefit, avoidance of financial constraints by government and lots of savings on transactions by the government.
+PPP brings essential public benefits in the local region where the facility is built or service is delivered. Employment opportunities in the local regions are enhanced where local people can be engaged during the construction and operational stages. The private investor is also best known to provide technological innovation and furthermore employ several methods and means of providing facilities and services at a reduced cost.
+Partnership with the private sector enables the public to adopt the knowledge and technology of the private investor (Nielsen 1997; Chan et al. 2006). This mostly applies in the developing economies where foreign companies dominate the private sector. In this regard local practitioners tend to adopt the foreign investors’ method of delivering projects.
+The private sector is known to better manage risk than the public sector. In fact private investors normally adopt more efficient ways of procuring asset and delivering service thereby controlling many risks. This is one reason governments would want to engage the private sector to share any risks associated with public projects (Jefferies & McGeorge 2009). It is, however, necessary for the public sector to provide comprehensive information on the allocation of risk to the private sector during the contract procurement process for the PPP project (Li et al. 2005a).
+Time certainty is achieved when the private sector is engaged in the construction and operation of public infrastructure over an extended period (Chan et al. 2006). In most PPP projects if the private partner completes the project before schedule, it is able to recoup its revenue earlier. On the other hand any delays affect the company’s profit. In situations where the delay in construction is due to the company’s inactions, it is subjected to liquidated damages. The private partner is therefore motivated to complete on or before schedule. Cost certainty is mostly achieved in PPP projects as well. The private partner is responsible for designing, financing, constructing and operating the facility therefore saving cost would be a great step towards maximizing profit. PPP investors are therefore eager to manage their expenditure very well (Corbett & Smith 2006).
+The private sectors’ participation in public infrastructure provision reduces public money which is tied up in capital investment (Jones et al. 1996). With the participation of the private sector, governments can free up some funds to develop and support other sectors of social and economic priority (Efficiency Unit 2002). This in the long run is expected to enhance growth of the economy and improve the living standard of the people.
+Sometimes, governments adopt PPP policy believing that public infrastructure is better maintained and operated by the private sector (Boussabaine 2007; So et al. 2007). In a PPP project the private consortium is mostly responsible for maintaining the public infrastructure over the concession period. Since the maintenance and operating cost is borne by the private partner, it is motivated to ensure better design and construction, to reduce maintenance cost during operation.
+Although governments are the initiators of PPP Policy and tend to benefit more, private investors are keen to enter the PPP market because PPP arrangement provides an opportunity to access the public sector market and also give them access to government assistance and financial support (Chan et al. 2010b). Projects in the public-sector market are mostly largescale construction projects which if properly priced and costs are effectively managed would yield the private partner reasonable profits and returns (Grimsey & Lewis 2004; Boussabaine 2007).Often as incentives, private investors benefit from tax rebates on imported equipment and machinery for construction. This reduces the private investors’ cost of production and therefore would provide effective returns on the investment.
+Table 1 shows a summary of the global reasons for adopting PPP by governments and private investors.
+Research survey design
+An empirical questionnaire survey was undertaken to explore the reasons for the implementation of PPP for construction projects in Ghana. Questionnaires were administered on target industrial practitioners from both the public and private sectors. Industrial practitioners were identified in assistance with the United Nations Development Programme (UNDP)  Ghana and
+Summary of the reasons for PPP.
+
+
+Private sector possess better resource mobility
+Private sector has ability to raise funds for project
+Walker and Smith (1995)
+Enhances technology transfer to the local enterprise
+Allows for shared risk
+Corbett and Smith (2006);
+Facilitate creative and innovative approaches
+Reduces the total project cost
+Grimsey and Lewis (2004);
+British Columbia (1999);
+Liu and Wilkinson (2011);
+National Audit Office (2001)
+Enhances government integrated solution capacity
+Increases access to the public sector market
+Grimsey and Lewis (2004)
+Reduces the problem of public sector budget constraint
+Reduces public money tied up in capital investment
+Efficiency Unit (2002)
+Provides incentives to new market penetration
+Provides government assistance in financing
+the PID of the MOFEP as these institutions are the key organizations involved with the development of PPP Policy for infrastructure development in Ghana.
+The selection of respondents were based on three criteria viz; respondents must have closely followed the development of PPP in Ghana, have adequate knowledge of the PPP concept and must have been involved in PPP projects either at the planning, tendering, construction, operating or maintenance stages. Similar selections criteria were adopted by Cheung et al. (2012) in a similar study. Target respondents were asked to rate the 17 identified factors on a Likert Scale (1  not important and 5  extremely important). A total of 81 target respondents were identified and survey questionnaires were administered on them. A total of 45 completed questionnaires representing response rate of 56% were collected. This response rate is higher than the response rate of a similar study conducted by Cheung et al. (2012) in Hong Kong which had rate of 36% (34 out of 95). Therefore the response rate for this study was found suitable for analysis. Data collected were presented in tables and were analyzed using the reliability test (Cronbach’s alpha) and mean score ranking. Moreover factor analysis through the Statistical Package for Social Sciences (SPSS) was used to identify a small number of groupings that could represent the 17 identified reasons.
+Hypothesis testing
+From literature it is anticipated that the public and private sectors might have different opinions as to a particular reason for the adoption of PPP for construction projects in Ghana. In this regard a hypothesis testing using one way ANOVA was conducted to identify the differences in views for adopting PPP. If the F value calculated at 95% confidence interval is greater than the tabulated F value then the Null Hypothesis (H0) is rejected.
+Null Hypothesis (H0)  There is no difference the public and private organizations’ reason for engaging in PPP construction projects.
+4.1 Respondents information
+Table 2 shows balanced information on respondents. The table indicates that 51% of respondents are from the public sector while 49% of the respondents are from the private sector. This shows a balanced incorporation of both the public and private sectors in the study and therefore a more balanced perception were obtained.
+From Table 2, majority of the total respondents are managers and heads of departments in their organizations respectively. This makes them the principal decision makers in the partnership deals therefore information from them is highly reliable. In addition 33% of the total respondents are operational staff who are mostly exposed to the partnership intricacy and are also responsible for handling the technicalities of the partnership deals.
+Over half of the respondents have between 6 and 10 years of PPP experience. It is not surprising that most respondents experience in PPP project is between 6 and 10 years as PPP policy was introduced in Ghana in 2004 (MOFEP 2011) and since then some projects have been undertaken at the various central and local levels.
+Respondents information.
+Sectors of Respondents
+Head of dept
+
+On the other hand 11% of the total respondents have PPP experience between 11 and 15 years. However, given that this policy was introduced in Ghana in 2004, it is expected that these respondents had engaged in PPP projects outside Ghana. The profile of respondents therefore assures the value and reliability of responses.
+4.2 Reliability test
+Prior to the detailed analysis, a reliability test using the Cronbach’s Alpha was carried out to determine the internal consistency of the survey variable data. Nunnally (1978) suggests that in the early stages of research on hypothesis measures of a construct, a reliability of 0.70 or higher will suffice. Cronbach’s Alpha for this study is 0.838. This Cronbach’s Alpha Reliability is greater than 0.7 of the Nunnally’s (1978) guideline. This implies that the data from the survey is adequately inter related and reliable (Norusis 1992) therefore good for further analysis.
+4.3 Ranking of reasons for adopting PPP
+Respondents were asked to rank the 17 reasons identified from literature. As respondents were asked to rate these factors according to a Likert Scale from 1 to 5 (1  not important and 5  extremely important) therefore a mean value above 3.00 indicates that the factor is important. This approach was adopted by Li et al. (2005b) in a similar study.
+As indicated in Table 3 the mean values for the 17 factors range from 4.267 to 2.4. Five factors displayed mean values greater than 4.00, 11 factors displayed mean values between 4.00 and 3.00 and only one factor scored mean value between 3.00 and 2.00.
+The five very important reasons for adopting PPP in Ghana are ‘reduces public sector administrative cost (mean value 4.27), allows for shared risk (mean value 4.22), reduces the problem of public sector budget constraint (mean value 4.09), private sector possess better mobility (mean value 4.04) and private sector’s ability to raise funds for project (mean value 4.02)’.
+In delivering public infrastructure through the traditional procurement means, the public sector spends a lot on the administration of such projects. Traditionally, the government engages consultants and project managers to supervise public projects. Notwithstanding that after construction, public clients employ personnel to take care of the maintenance of the new facility. In this regard adopting PPP shifts the cost of any administrative work to the private investor thereby relieving the public sector from the administrative burdens (Walker et al. 1995).
+Another very important factor is ‘allows for shared risk’. PPP as a partnership enables risk to be shared between parties. The private sector is well known for its ability to better manage risk through efficient asset procurement and service
+Mean ranking of the reasons for adopting PPP.
+Reasons for adopting PPP
+
+Public Sector
+
+
+Allows for shared risk
+Reduces the problem of public sector budget constraint
+Private sector possess better resource mobility
+Private sector has ability to raise funds for projects
+Offers benefit to local economic development
+Improves public infrastructure management and maintenance
+Facilitate creative and innovative approaches
+Enhances government integrated solution capacity
+Provides government assistance in financing
+Enhances technology transfer to the local enterprise
+Provides tax exemptions and reduction
+Provides incentives to new market penetration
+Increases access to the public sector market
+Reduces public money tied up in capital investment
+Reduces the total project cost
+The Government of Ghana emphasizes that a partnership deal with the private sector cannot be considered as PPP unless there is considerable shared risk (MOFEP 2011). It must be emphasized that risks must be identified and allocated to the party that can best manage it (Li et al. 2005a).
+Another very important factor in adopting PPP is its effects in easing constraints on the public sector budget. Financing public infrastructure projects is a huge bottleneck for many governments’ in the developing economies. Given the limited funds available to governments in developing countries, they are driven to adopt PPP schemes to reduce pressure on the national budget. This enables the government to channel funds to other important sectors of the economy. It is not surprising that both private and public sector fully recognize this factor as very important for adopting PPP scheme.
+The other two very important factors relates to the private sectors’ efficiency and capabilities. They are ‘private sector possesses better mobility’ and ‘private sectors ability to raise funds for projects’. It is recognized internationally that the private sector possesses the ability to mobilize resources well and is able to use limited resources efficiently and effectively (Skietrys et al. 2008). It is always the goal of every investor to minimize project cost and maximize revenue thereby managing available resources well and use them effectively to achieve its goal (Askar & Gab-Allah 2002), this is in no doubt why private investors possesses such efficiency in project delivery. Moreover many public agencies and departments lack the ability to raise funds for large-scale infrastructure projects (Walker et al. 1995). Therefore engaging in a partnership deal with the private sector help mitigate such inadequacies
+There are 11 factors with mean values between 4.00 and 3.00 which can be regarded as important factors in adopting PPP scheme for construction projects. Four of these factors relate to the benefits that the private sector gains from PPP deals; these are ‘provides government assistance in financing’, ‘provides incentives to new market penetration’ and ‘increases access to the public sector market’. In PPP arrangement not only the public sectors are attracted to enter into such partnership but the private sectors are also driven to enter into PPP schemes because of the associated benefits and guarantees from the government. Government most often in PPP schemes provides guarantees and financial support to the private investors. Notwithstanding that, for the private investor PPP offers a way of gaining access to the public sector market, and a means of earning reasonable profit and return on investments on a long-term basis provided costs are managed effectively (Cheung et al. 2010).
+Also three of the 11 important reasons relate to the economic benefits expected from the PPP project. These are ‘offers benefit to local economic development’, ‘enhances technology transfer to local enterprises’ and ‘improves public infrastructure management and maintenance’. PPP promotes local economic development through the creation of jobs and business opportunities. Moreover it allows public infrastructure to be better managed and maintained which out of this would provide multiple advantages to the end users. PPP also has great impact on local practitioners’ technological know  how as it allows local practitioners to be exposed to the technologies employed by the private partner who are almost always foreign investors.
+The remaining four important reasons relate to the potential for innovation and productivity. These are ‘facilitate creative and innovative approaches’, ‘enhance government integrated solution capacity’, ‘reduce public money tied up in capital investment’ and ‘saves time in delivering public project’.
+PPP as a procurement method offers both the public and private more room to select innovative approaches in infrastructure procurement and management. As the private investor is responsible for designing, financing, constructing, operating and maintenance, the private investor adopts a more innovative approach in delivering PPP projects which mostly saves time and ensures early completion. Moreover with the innovative approaches employed by the private sector, public money which would have been tied up in capital investment is however relieved.
+Furthermore, PPP scheme allows the public sector to develop incorporated solution capacities within the PPP process. For instance government can expand the project scope to reflect a broader context such as bundling several small contracts from different departments into a single contract.
+The only factor which is fairly important for the adoption of PPP is ‘reduces of the total project cost’. In spite of the private sector’s efficiency and effectiveness (Skietrys et al. 2008), the cost of financing and bidding of PPP projects cannot be underestimated. In fact the cost involved in the bidding of PPP project is very high (Grimsey & Lewis 2007). This results in a high total project cost rather than it reducing the total project cost. It is not surprising that both private and public sectors recognizes this as a fairly important factor for adopting PPP scheme.
+4.4 Hypothesis testing
+Null Hypothesis (H0)  There is no difference the public and private organizations’ reason for engaging in PPP construction projects.
+Table 4 reveals the One-Way ANOVA of responses with respect to hypothesis testing.
+ANOVA Test results of the reasons for adopting PPP procurement.
+
+private sector possess better mobility
+private sector has ability to raise funds for projects
+enhances technology transfer to the local enterprise
+allows for shared risk
+reduces the total project cost
+offers benefit to local economic development
+enhances government integrated solution capacity
+increases access to the public sector market
+reduces the public sector budget constraint
+reduces public money tied up in capital investment
+provides incentives to new market penetration
+provides government assistance in financing
+As indicated in Table IV, out of the 17 factors, four factors received significantly different perception by the public and private sectors. These four factors are; offers benefits to local economic development, increases access to the public sector market, provides for tax exemptions and reduction and provides incentives to new market penetration.
+Three of the four disparity factors namely; increase access to the public sector markets, provides tax exemptions and reduction and provides incentives to new market penetration were ranked 6th, 7th and 7th (Table 3) by the private sector while these factors were ranked 15th, 13th and 14th, respectively (Table 3) by the public sector. These three factors directly relate to the benefits the private sector gains in PPP deals. With the other disparity factor; offers benefit to local economic development, this factor was ranked 5th (Table 3) by the public sector and 8th (Table 3) by the private sector. It is obvious this factor is directly related to the multiple benefits that the public sector gains when engaged in a partnership deal with the private sector. This suggests that the public and private sectors are separate bodies with different ideology and each of these parties has its own reasons for engaging in PPP deals. As the public is more concerned with the social benefits, the private is also more concerned with commercial benefits the consortium would gain out of the partnership deal.
+On the contrary, for 13 factors there is no significant difference in the perception of public and private as to the reasons for adopting PPP. This is presumably due to the fact that the factors are more concerned with benefits that are mutually received by both parties in a partnership deal.
+4.5 Factor analysis
+Factor analysis issued to identify a small number of factor groupings that can be used to represent sets of many interrelated variables (Norusis 1992). The survey response data was subjected to this technique to examine the underlying structure between the 17 reasons identified in this study.
+In considering the appropriateness of factor analysis for this study, Lingard and Rowlinson (2006) suggested sample size of the ratio 1: 5 (number of variables involved to sample size) for factor analysis. However, studies conducted by Li et al. (2005b, 2005c) and Hardcastle et al. (2005) with sample size (61 respondents) not in accordance with the recommended sample size ratio but satisfied all the appropriate statistical tests was accepted and has been considered worthy (Chan et al. 2010a). Similarly, the requirements for the appropriate statistical tests (Correlation matrix, KMO, Bartlett’s Test and Reliability) prior for the satisfactory use of factor analysis was achieved for this study despite the non conformance of the sample size for this study with the recommended sample size ratio. Owing to this, it can be concluded that factor analysis is therefore considered appropriate for this study and therefore can proceed with full confidence and reliability
+Prior to factor extraction, statistical tests were conducted to ensure the appropriateness of survey data for factor analysis. In this regard a correlation matrix of the 17 variables indicated that the factor ‘reduces the problem of public sector budget constraint’ has very low correlation values with other variables because all the partial correlation values are less than 0.30.An anti  image correlation matrix was calculated which reaffirmed its elimination before factor extraction.
+After eliminating the rogue factor, the recalculated correlation matrix had a Kaiser  Meyer  Olkin (KMO) statistic of 0.689 which according to Kaiser is satisfactory for factor analysis as it is greater than 0.5 (Norusis 1992). Bartlett’s test is another indication of the strength of relationship among variables. It tests the null hypothesis that the correlation matrix is an identity matrix. In this study, the value of the test statistic is large (Bartlett’s test of Sphericity, Chi square D 258.746) and its associated probability is less than 0.05 (p D 0.000) therefore the null hypothesis is rejected and suggest that the correlation matrix is not an identity matrix. Moreover, the internal consistency (reliability) is 0.84 which is greater than the recommended 0.70 (Nunnally 1978), therefore the measurement scale adopted is reliable and the internal consistency is good.
+Table 5 shows the Initial Matrix and Rotated Matrix of the factors. The first four columns represent the initial matrix and last three columns composed of the rotated matrix which only shows Eigenvalues greater than 1.00 as the Eigenvalues less than 1.00 are less influential.
+From Table 5 it is noticeable that 66.57% of the cumulative variance is attributable to the first five factors which satisfy the basic requirement of 60% advocated by Malhotra (1996). This is further shown in Figure 1, which shows the Scree Plot of the total variance of the underlying grouped factors. This figure indicates that a five component factor is sufficient for the model. Therefore five factor groupings can be used to adequately to represent the data.
+The factor grouping based on Varimax rotation was adopted and this is indicated in Table 6. Varimax is undoubtedly the commonly used orthogonal rotation (Abdi 2003) which has been used in similar studies by numerous researchers (Hardcastle et al. 2005; Li et al. 2005b, 2005c). However, Varimax was used because it simplifies the interpretation of factors as compared to the other rotations methods; with Varimax each variable associate with one of the factors and each factor represented only a small number of variables which was interpretable. Each of the variables is therefore loaded heavily on only one of the principal factor while the absolute value of the loadings exceeds 0.50. The five component factors are interpretable as:
+Innovation Enhancement and Economic Benefits
+Factor 2 represents
+Private Sector Efficiency
+Effective Project Risk Management
+Business growth incentives for the Private Sector
+Factor 1	Innovation enhancement and economic benefit
+This principal component accounts for 30.830% of the total variances and contains five specific factors, viz;
+Reduces public money tied up in capital investment
+Enhances technology transfer to the local enterprise
+Initial matrix and Rotated Matrix of drivers in adopting PPP procurement.
+Extraction Sums of Squared Loadings	Rotation Sums of Squared Loadings
+% of Variance
+% of Variance
+Innovation Enhancement and Economic Benefit
+Private Sector Efficiency
+Business growth incentives to the Private Sector
+Extraction Method: Principal Component Analysis.
+Scree Plot of Component factors.
+Reasons for adopting PPP grouping results after rotated factor matrix (loading).
+Factor 1 Innovation Enhancement and Economic Benefit
+Reduces public money tied up in capital investment
+Enhances technology transfer to the local enterprise
+Reduces the total project cost
+Factor 2 Private Sector Efficiency
+Private sector possess better mobility
+Private sector has ability to raise funds for projects
+Reduces public sector administration cost
+Provides government assistance in financing
+Factor 3 Opportunities for innovation and market penetration
+Provides incentives to new market penetration
+Saves time in delivering public project
+Facilitate creative and innovative approaches
+Factor 4 Effective Project Risk Management
+Allows for shared risk
+Enhances government integrated solution capacity
+Factor 5 Business growth incentives to the Private Sector
+Increases access to the public sector market
+Extraction Method: Principal Component Analysis. Rotation Method: Varimax with Kaiser Normalization. a. Rotation converged in 13 iterations.
+PPP scheme allows the private sector to adopt a more innovative ways of delivering projects. As the private sector is responsible for financing, designing, construction, operating and maintenance, a more technological and sophisticated approaches are adopted to better maintain the public infrastructure, reduces the cost of delivering the PPP project and also reducing public funds always tied up in capital investment.
+Economic benefits are also enhanced where the private sectors technological know  how is transferred to local practitioners and enterprises. PPP actually offers the opportunity for local practitioners to adopt the skills and technology of foreign investors as in Ghana most of the PPP investors are foreign companies who are experienced in delivering PPP projects. One Economic benefits also reflect in the economic development at the local communities as more jobs and business opportunities are created through PPP scheme.
+Factor 2	Private sector efficiency
+This principal factor accounts for 11.20% and consists of four detailed factors, viz;
+Private sector possesses better resource mobility
+Private sector has ability to raise funds for projects
+Provides government assistance in financing
+Both the ‘private sector possesses better mobility’ and ‘private sector’s ability to raise funds for projects’ received high loadings of 0.752 and 0.724 respectively. Internationally the private sector is well noted for its efficiency and effective use of limited resources (Skietrys et al. 2008). The private investor would always want to adopt a more innovative means to reduce cost and maximize revenue. It is in no doubt that with this attribute of the private sector, governments around the world are keen to engage the private sector in the delivery of public infrastructure and services (Grimsey & Lewis 2002).
+Public sector administrative burdens are relieved when public projects are given out to the private sectors. This reduces the cost that could have been incurred by the public clients. Moreover since the private sector always has effective and efficient means of delivering public projects such administrative costs are better managed and reduced. Governments also provide some assistance in financing to the private investors due to their efficient and effective way of managing and spending public funds. When public funds are in hands of private investors it is better utilized and managed.
+Factor 3	Opportunities for market penetration and innovation
+Principal factor 3 accounts for 10.33% of the total variance of driver factors and consist of three sub factors. Provides incentives to new market penetration
+Of the three sub factors ‘provides incentives to new market penetration’ has a high loading of 0.828 with the other two sub factors 0.593 and 0.538, respectively.
+PPP as a new market in developing countries offers a lot of incentives and multiple benefits to stakeholders and practitioners. Both the public and private sectors benefits from this incentives and associated advantages this new market offers. Mostly incentives in the form of grants are given by international financial institutions to support the new market and ensure its sustainability.
+PPP also offers both public and private sectors potential for creativity and innovation. PPP would facilitate creativity in delivering public infrastructure when specifications are in a form of description of the desired outcome rather than detailed definition of inputs (Li et al. 2005b). This enables the private investors to be more creative and develop unique approaches to the delivery of the desired project (Birnie 1999).
+Factor 4	Effective project risk management
+This component covers 7.45% of the total variance and consists of two sub factors. Allows for shared risk ii. Enhances government integrated solution capacity
+A higher loading is given to the component ‘allows for shared risk’ of which the significant value is 0.801 and the other sub factor gives 0.552. PPP procurement offers both public sector and private investor opportunity for risk in delivering public infrastructure projects to be shared unlike other procurement methods where either the public or private sector takes up all the risks associated with a project. Risks are effectively managed when it is allocated to the appropriate party and PPP scheme offers such advantage (Fourie & Burger 2000). It is therefore important for risk to be properly identified and allocated to the party that has better mitigation techniques to manage such risks (Arndt 2000).
+Moreover effective risk management reflects in government adopting a more integrated approach to project delivery. For instance government may bundle smaller projects from different departments into a single contract to ensure a more effective and efficient risk management rather than dealing with smaller individual project risk.
+Factor 5	Business growth incentives for the private sector
+This principal factor covers 6.75% of the total variance and consists of two sub factors which are;
+Increases access to the public sector market
+In PPP schemes not only the public sector benefits but also PPP offers the private investors great incentives and opportunities. Tax exemptions, rebates and reductions are mostly given to private investors which therefore reduces their cost of production. Similarly for the private sector the effective means to access the public sector market is through PPP schemes. Where large projects would be executed, effective cost control would offer long-term profit to the private investors.
+Conclusion and future work
+The paper concludes that five major reasons for the adoption of PPP for construction projects in Ghana are ‘reduces public sector administration cost’, ‘allows for shared risk’, ‘reduces the problem of public sector budget constraint’, ‘private sector possess better mobility’ and ‘private sector has ability to raise funds for project’. However the result of the one way ANOVA indicates that offers benefit to local economic development, increases access to the public sector market, provides tax exemptions and reduction, and provides incentives to new market penetration receive different views as reasons for adopting PPP for construction projects in Ghana. Furthermore a factor analysis on the same survey data showed that the 17 reasons considered in the study can be grouped into five principal factor groupings; innovation enhancement and economic benefits, private sector efficiency, opportunities for market penetration and innovation, effective project risk management and business growth incentives for the private sector.
+These identified reasons should be considered by government when reviewing PPP policy guidelines and laws to ensure effective implementation of PPP for construction projects in Ghana.The paper further recommends a comparative study of reasons for adopting PPP in Ghana and other countries using the questionnaire template developed for this study in order to draw from international practice of this new procurement.
+The Authors would like to express their sincere gratitude to the Public Investment Division (PID) of the Ministry of Finance and Economic Planning (MOFEP) and the UNDP  Ghana for their assistance during the study. Further appreciation goes to all respondents (Public and Private Organizations) for their contribution and knowledge to this study.

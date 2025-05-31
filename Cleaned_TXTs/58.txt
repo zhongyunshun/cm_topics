@@ -1,0 +1,282 @@
+Problems causing delays in major construction projects in Thailand
+To cite this article: Shamas‐Ur‐Rehman Toor & Stephen O. Ogunlana (2008) Problems causing delays in major construction projects in Thailand, Construction Management and Economics, 26: 4, 395-408, DOI: 10.1080/01446190801905406
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (April 2008) 26, 395–408
+Problems causing delays in major construction projects in Thailand
+SHAMAS-UR-REHMAN TOOR1* and STEPHEN O. OGUNLANA2
+Department of Building, National University of Singapore, 4 Arch Drive, SDE, NUS, Singapore, 117566 Singapore
+School of Engineering, Asian Institute of Technology, Bangkok, Thailand
+Received 11 June 2007; accepted 9 January 2008
+Delays are frequent and recurring in construction projects in developing countries. Although the principal reasons for construction delays are comparable across developing countries, several factors pertaining to local industry, socio-economic and cultural issues and project characteristics also contribute to construction delays. Questionnaire surveys and interviews were conducted on a major construction project in Thailand to explore the most significant problems causing construction delays. Factors related to designers, contractors and consultants were rated among the top problems. Issues such as lack of resources, poor contractor management, shortage of labour, design delays, planning and scheduling deficiencies, changed orders and contractors’ financial difficulties were also highlighted during the interviews. Notably, problems such as ‘multicultural and multilingual environment causing ineffective communication’, ‘large number of participants of project’ and ‘involvement of several foreign designers and contractors’ were rated among the bottom 10 problems in the 75-item problem inventory. These findings can be helpful for project managers to mitigate the construction delays in Thailand. In order to effectively overcome the construction delays in developing countries, suggestions are made for fundamental and large-scale reforms in procurement systems, value chain management and stakeholders’ management.
+Delays, major projects, developing country, Thailand.
+Introduction
+Studies in various developed as well as developing countries have shown that construction delays are common (Arditi et al., 1985; Long et al., 2004; Sambasivan and Soon, 2007) and one of the most recurring problems in construction projects (Faridi and El-Sayegh, 2006). Construction delays do not only result in cost overruns and poor quality but also greater disputes (Al-Khalil and Al-Ghafly, 1999), even total abandonment and protracted litigation by the parties (Aibinu and Jagboro, 2002). Assaf and Al-Hejji (2006) note that delay means loss of owner’s revenue due to unavailability of production and other commercial facilities in time. Contractors may also suffer from higher overheads, material and labour costs. Previous research has pointed out various problems that usually result in delayed completion of construction projects.
+Particularly in the developing countries, studies over the last decade have shown a range of problems that have consistently resulted in construction delays and cost overruns in almost all types of construction projects (Ogunlana et al., 1996; Kaming et al., 1997; Mezher and Tawil, 1998; Faridi and El-Sayegh, 2006). Major problems which construction projects face are usually due to inadequate procurement system, lack of resources, discrepancies between design and construction, lack of project management practices, variation orders, communication lapses, cultural issues, and different interests of the participants (e.g. Odeh and Battaineh, 2002; Arain and Low, 2003; Abdul-Rahman et al., 2006; Sambasivan and Soon, 2007). Some others also identify poor labour productivity and lack of contractors as major problems (Kaming et al., 1997). Many of these studies found that the pattern of problems causing construction delays seems to be somewhat identical across various developing countries. Further, problems such as shortage of skilled
+*Author for correspondence. shamas@nus.edu.sg
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2008 Taylor & Francis
+complexity are similar in both developing and developed countries.
+Where globalization and internationalization of the construction industry have benefited the developing economies, challenges have also equally soared (Ogunlana et al., 1996; Raftery et al., 1998; Wang, 2000; Chan et al., 2001). The volume, complexity and requirements of construction projects have also grown over time. Scarcity of construction materials and human resources has intertwined with existing socioeconomic and political problems of developing countries resulting in added pressure on the construction sector. Companies have been finding it difficult to deliver on time not because of lack of financial resources but mainly due to the fact that they are facing enormous pressure of multiple jobs and parallel deadlines with less than adequate human resources. With the growing boom of construction in developing countries, clients are increasingly concerned about time schedules and are using prime contractorship to pass time-risk on to the contractor along with heavy liquidated damages for late completion (Williams, 2003). In such circumstances, construction stakeholders must have a comprehensive understanding of the factors that result in delays and the measures that can avoid such problems. Delivering the construction facility faster does not only serve as a competitive advantage but also serves in bringing innovation in construction method. Considering the issue at macroscale, savings from increased time efficiency can be significant and used in further business expansion. Focus on reducing the delays can also help to reduce resources spent on heavy litigation processes in the construction industry which is known for its adversarial relationships (Phua and Rowlinson, 2003). Therefore, to achieve more time efficiency on construction projects in developing countries, comprehensive studies on common problems resulting in routine delays seem much more urgent (Long et al., 2004). Such studies need to pinpoint the most relevant causes of delay that have to be monitored carefully in order to avoid the construction delays (Faridi and El-Sayegh, 2006). Although there is reasonable research carried out in the area, only few studies attempt to identify the problems in managing major projects which are usually carried out in multiple projects environment (Elonen and Artto, 2003). Particularly, there is a dearth of such studies from the perspective of the construction industry in Thailand. To cover this knowledge gap, the current research attempts to address the following objectives: (1) to examine the causes of delay in major construction projects in Thailand; and (2) to explore the perception of various construction stakeholders (client, consultants, designers, contractors) about the problems causing delays.
+Problems causing construction delays
+One of the earlier studies examining problems causing delays on construction projects was conducted by Baldwin and Manthei (1971) who cited 17 delay factors which resulted in delays in the US. These factors include: weather, labour supply, subcontractors, design changes, shop drawings, foundation conditions, material shortage, manufactured items, sample approvals, jurisdictional disputes, equipment failure, contracts, construction mistakes, inspections, finances, permits and building codes. Other factors contributing to construction delays are labour–management relations, strikes, poor organization, scheduling, coordination, deteriorating quality of workmanship, productivity, lack of skills in craftsmen, quality of training, delivery delays and the high cost of financing (Baldwin and Manthei, 1971). The next available study in the literature was conducted by Arditi et al. (1985) who observed the following causes of delays in public projects in Turkey: shortage of materials, difficulty in receiving payments from agencies, contractors’ difficulties and the organizational characteristics of contracting companies and public agencies.
+Following these initial works, studies were conducted in various developed as well as developing countries. In order to examine the problems causing construction delays, research projects were carried out in the UK (Sullivan and Harris, 1986), Nigeria (Okpala and Aniekwu, 1988; Dlakwa and Culpin, 1990;
+Mansfield et al., 1994), Thailand (Ogunlana et al., 1996), Indonesia (Kaming et al., 1997), Hong Kong (Chan and Kumaraswamy, 1997; Kumaraswamy and Chan, 1998), Lebanon (Mezher and Tawil, 1998), Saudi Arabia (Assaf et al., 1995; Al-Khalil and AlGhafly, 1999; Assaf and Al-Hejji, 2006), Malaysia (Lim and Mohamed, 2000; Abdul-Rahman et al., 2006; Sambasivan and Soon, 2007), Ghana (Frimpong et al., 2003; Frimpong and Oluwoye, 2003), Vietnam (Long et al., 2004), Kuwait (Koushki et al., 2005) and UAE (Faridi and El-Sayegh, 2006). Most research studies examining problems causing construction delays employed the questionnaire approach—and occasionally interviews—to elicit problems causing delays in construction projects. Not only are their findings quite comparable across various geographical regions, these research studies have mostly emphasized a collaborative or partnering approach, continuous involvement throughout the project development, and increased use of value engineering to overcome the problems resulting in construction delays. They also put a strong emphasis on thorough planning, realistic scheduling and continuous monitoring to avoid construction delays. An important lesson from these studies is that construction planning, scheduling and management of the projects should be well in accordance with the actual skill levels, available resources, probability of unexpected events, efficiency of work time, and mistakes and misunderstandings that are likely to occur during various stages of the project (Lock, 1996). Early prediction and a thorough diagnosis of the problems can help avoid construction delays and complete the projects within time, budget and expected quality.
+The top problems causing construction delays in selected studies are shown in Table1. These selected studies represent a range of various countries where the research was conducted, different kinds of construction projects using different procurement systems, and different periods during the past two decades. It seems as if problems causing delays are nearly the same in developing countries with minute contextual differences. Common problems of delays in most studies include: lack of resources (material, labour, finances, etc.); lack of adequate communication; poor contractual management; design delays; changed orders; deficiencies in public agencies’ organization; deficiencies in planning and scheduling; inadequate site planning and control; lack of experienced subcontractors and nominated suppliers; poor judgement in estimating resources. However, Table1 also shows some emergent problems in the research studies published during the past five years. These problems include: lack of contractor’s experience; slowness of the owner’s decision-making process; owner’s lack of experience; escalation in material prices; lack of construction labour; complex and constantly evolving legal systems; and lack of standardization in design.
+To address the objectives stated above, a detailed case study on Suvarnabhumi International Airport was carried out by adopting questionnaires and interviews as sources of evidence. The case study method has been well supported and used by several researchers while exploring various research problems in the construction field (see Fellows and Liu, 1997; Jefferies et al., 2002). Case studies result in deep but narrow findings (Fellows and Liu, 1997); however, such findings are very insightful if the case in question represents a unique case (Yin, 1984). In order to develop a comprehensive inventory of problems for the questionnaire survey, a detailed literature review was carried out. Several problem inventories were found useful in the extant literature on delays in construction projects (see Chan and Kumaraswamy, 1997, 1998; Mezher and Tawil, 1998; Long et al., 2004; Assaf and Al-Hejji, 2006; Sambasivan and Soon, 2007). Preliminary interviews and pilot surveys were also conducted with academic experts and construction professionals to check the inclusiveness of the problem inventory. This procedure generated a list of 75 problems under 10 sub-groups shown in Table2.
+Questionnaire surveys and interviews were conducted during September 2004 and February 2005 on the project site of the Suvarnabhumi International Airport, the largest construction project in the history of Thailand. This approach ensured that all respondents had hand-on experience of major construction projects. This data collection approach has also been used by several researchers and has produced reliable results (see, for example: Kaming et al., 1997; Kumaraswamy and Chan, 1998; Mezher and Tawil, 1998; Abdul-Rahman et al., 2006; Faridi and ElSayegh, 2006).
+The final list of the problems in the form of a questionnaire was distributed to a total of 80 managers who showed their willingness to participate in the study. These managers were occupying various managerial positions in different organizations involved in the project. The client organization also sent e-mails to all available consultants, designers and contractors requesting them to participate in the study, interviews and questionnaire surveys. This endorsement from the client resulted in a high response rate. A total of 76 completed questionnaires were received which yielded a response rate of over 95%.
+All respondents were males and a majority of them were civil engineers by training. A few were mechanical or electrical engineers and some belonged to commerce, computer science and social sciences. A considerable majority (over 65%) of the respondents had an average working experience of more than six years as project manager while over 35% of the respondents had held the position of project manager for more than 10 years in their career. Over 75% of respondents were working in joint ventures. Few were working in consortiums (12%) and even fewer were still working with independent organizations (11.5%). The respondents belonged to 10 different nationalities including 48 (61.5%) Thai, 12 (15.3%) English, 5 (6.4%) Japanese and 4 (5.2%) Americans. More than 90% of the respondents were engineers by training while others came from commercial, economics and computer science backgrounds. Based on their affiliation, the respondents were divided into five groups: client, project management consultants (PMC), construction supervision consultants (CSC), design consultants (DC) and construction contractors (CC).
+In addition to the questionnaire surveys, 35 face-toface interviews were also carried out to elicit opinions
+Table 1	Top 10 problems causing construction delays in previous studies
+Lim and Mohamed (2000)	Frimpong et al. (2003)	Long et al. (2004)
+UK	Nigeria	Thailand
+Large construction projects Public sector projects	High-rise projects
+Waiting for information
+Contractors’ difficulties in	Materials procurement receiving interim payments from public agencies
+Cash flow problems faced by contractor
+Contractors’ financial	Waiting for information difficulties
+Unforeseen ground conditions
+Delay in the preparation of contractor submission
+Ground problems/site inspection
+Inadequate planning
+Delays in design information
+Difficulties in obtaining work permits
+Bad weather
+Deficiencies in contractors’	Labourers/tradesmen organizations	shortages
+Locational restriction of the project
+Lack of communication between consultant and contractor
+Government tendering system requirement of selecting the lowest bidder
+Design complexity
+Deficiencies in planning and Waiting for information scheduling
+Skilled labour shortage
+Delay in progress payment by the owner
+Frequent variation/changed orders
+Low speed of decision making involving all project teams
+Effects of subsurface conditions of soil
+Difficulties in obtaining construction materials
+Planning and scheduling deficiencies
+Materials shortage
+Construction plant shortages
+Inaccurate prediction of equipment production rate
+Necessary variations of works
+Changes in the scope of
+Contractors’ unrealistic tenders
+Inaccurate prediction of craftsmen production rate
+Delays in subcontractors’ work
+Ineffective planning and scheduling of the project by the contractor
+Unrealistic contract durations imposed by public agencies
+Inaccuracy of materials estimate
+Shortage of manpower
+Lim and Mohamed (2000) Frimpong et al. (2003)
+Faridi and El-Sayegh
+Electrical transmission	Groundwater projects lines
+General (construction industry)
+Different projects
+General (construction industry)
+Lacked experience	Monthly payment difficulties Slow site clearance
+Preparation and approval of drawings
+Difficulties in financing project by contractor
+Lacked site supervision	Poor contract management	Slow government permits Inadequate early planning of the project
+Lacked appropriate skills	Material procurement	Inaccurate time estimating Slowness of the owner’s decision-making process
+Shortage of labour
+Table 3	ANOVA for various demographical groupings
+
+Problem	Problem category and description	Type of	Firm structure	Experience as	Educational code
+Problems of client
+PClient2	Improper project feasibility study
+PClient3	Lack of owner’s representative
+PClient4	Lack of clear bidding process
+PClient5	Delay of payment by client
+PClient6	Too many scope changes and constructive changed orders
+PClient7	Slow responses from the client organization
+PClient8	Wrong choice of contractor or consultant
+PDesign1 Low constructability of design
+PDesign2 Over-design increasing the overall cost
+PDesign6 Lack of involvement during construction
+Problems of PM
+Inadequate experience of staff
+Slow response
+Lack of consultation with client
+Lack or responsibility
+Failure to utilize tools to manage the project symmetrically
+Poor leadership on part of the project manager
+Lack of timely decisions and corrective actions
+Large number of participants of project
+Poor project planning and control
+Bureaucracy at the workplace
+Lack of top management commitment
+Lack of project manager’s experience
+Unreasonable risk allocation
+Problems of contractor
+Lack of competent subcontractors/suppliers
+Lack of necessary machinery, tools and automation available for project
+Poor efficiency of supervisor or foreman
+Using obsolete technology
+Inappropriate construction methods
+Lack of good relationship with client/consultant Problems of labour
+Unavailability of local labour
+Problem	Problem category and description	Type of	Firm structure	Experience as	Educational
+
+PLab5	Severe overtime and shifts
+Problems of finance
+PFinanc1 High interest rate
+PFinanc2 Increased cost due to high inflation during the project
+PFinanc3 Interference in owner’s decisions
+PFinanc4 Shortage of funding
+PFinanc5 Unforeseeable financial and economic crises
+Problems of contract
+PContct3 Lack of cooperation from local authorities
+PContct5 Inappropriate method of dispute resolution
+Problems of communication
+PComm1 Unclear lines of responsibility and authority
+PComm2 Lack of communicating the requirements
+PComm3 Lack of effective inter-organizational communication
+PComm4 Lack of coordination among project team members
+PComm5 Multicultural and multilingual environment causing ineffective communication
+PComm6 Lack of IT use for information, coordination
+and interface management
+Problems of site and environment
+Unforeseen ground conditions
+Poor site access or availability
+Lack of temporary facilities on site (buildings, phones, electricity, etc.)
+Severe weather problems (hot, cold, rainy)
+Poor site storage capacity
+Difficult site terrain to work
+Poor site management and slow site clearance
+Poor safety conditions on site
+Problems due to other factors
+Force majeure and acts of God
+Poor quality control over project
+Fraudulent practices and kickbacks
+* F 5(found variation of the group averages/expected variation of the group averages).
+ˆP reports the significance level.
+reduce the chances of any partiality while drawing conclusions at the end. Moreover, these results also show that respondents were impartial in their opinions and did not adhere to any bias.
+Table4 shows the mean perception ratings (M) and ranking (R) of problems as ranked by various groups of respondents on a five-point Likert-type scale (where 1 5 not at all a problem and 5 5 very big problem).
+Lack of standardization in design
+Lack of contractor’s experience and control over project
+Inadequate experience of staff
+Lack of competent subcontractors/suppliers
+Lack or responsibility
+
+Poor efficiency of supervisor or foreman
+Delay of payment by client
+Shortage of funding
+Low constructability of design
+Lack of timely decisions and corrective actions
+Slow responses from the client organization
+
+Unclear lines of responsibility and authority
+Lack of necessary machinery, tools, and automation available for project
+
+Wrong choice of contractor or consultant
+Poor project planning and control
+
+Lack of effective inter-organizational communication
+Poor leadership on part of the project manager
+Lack of project manager’s experience
+Too many scope changes and construction change orders
+
+Lack of communicating the requirements
+Lack of owner’s representative
+
+Lack of coordination among project team members
+Interference in owner’s decisions
+Inappropriate construction methods
+Unforeseeable financial and economic crises
+Unavailability of local labour
+Improper project feasibility study
+Lack of consultation with client
+Lack of involvement during construction stage
+Poor safety conditions on site
+Lack of good relationship with client/consultant
+Lack of top management commitment
+Lack of standardization in design, lack of contractor’s experience and control over the project, inadequate experience of staff, lack of competent subcontractors/ suppliers and an unrealistic project schedule are the top five problems.
+It is noticeable that the top 20 problems belonged to eight different categories of problems (in Table2) which were originally categorized under 10 categories in all. However, four designer-related problems, five contractor-related problems, four project management and consultant-related problems, and three clientrelated problems appeared among the top 20 problems. Only one related to site and environment was rated among the top 30 problems (see Table4). Similarly, three problems related to communication, one related to finance, and no problems related to labour were
+Poor site management and slow site clearance 3.91
+Lack of temporary facilities on site (buildings, phones, electricity, etc.)
+Over designing increasing the overall cost
+Unforeseen ground conditions
+Increased cost due to high inflation during the project
+
+
+Legal issues arising due to local government rules and regulations
+Fraudulent practices and kickbacks
+Unreasonable risk allocation
+High interest rate
+Poor site storage capacity
+Using obsolete technology
+
+Lack of cooperation from local authorities
+Severe weather problems (hot, cold, rainy)
+Failure to utilize tools to manage the project symmetrically
+Severe overtime and shifts
+Bureaucracy at the workplace
+
+
+Lack of IT use for information, coordination and interface management
+Large number of participants of project
+Difficult site terrain to work
+Involvement of several foreign designers and contractors
+Force majeure and acts of God
+rated among the top 30 problems. Table4 also shows some problems have been rated among the bottom 10 for causing delays. These include: ‘multicultural and multilingual environment causing ineffective communication’, ‘large number of participants of project’, and ‘involvement of several foreign designers and contractors’. It illustrates that working with cross-cultural stakeholders is no longer novel to the construction industry. Owing to large-scale internationalization of the industry, foreign designers, multicultural environment, and large number of participants in the project are not perceived as problems causing delays.
+In order to examine the severity of rating received by each category for causing delays, the average of the mean ratings of all problems under each category was computed. Table5 illustrates that the categories of designers, contractors, client, finance and project management and consultants received highest average scores. It can be seen that the client has given highest average scores to the categories of contractors, designers and finance. Also, PMC and CSC have rated the categories of contractors, client and designers at the top. The designers have given top ratings to the categories of client, finance and contractors. The contractors have given highest average rating to the categories of client, designers and contractors. Notably, all respondent groups have given low average rating to the categories such as ‘contracts’, ‘communication’ ‘site and environment’, ‘other factors’.
+Similar trends were noticed during the interviews where most interviewees raised concerns regarding incomplete design, errors in design, insufficient details and over-design. For example, one project manager working in a construction joint venture observed:
+I think the major issue here is incomplete design, large number of variations, and lack of communication about these variations. You look at the size of the project, it is so big. We have to struggle to incorporate the design changes at this stage when construction is more than half way through.
+Financial difficulties and lack of competence on the part of contractors, subcontractors and suppliers were also mentioned several times. Unrealistic deadlines for the completion of tasks, lack of communication and coordination interfaces on construction sites, and slow decision making were some issues mentioned about the consultants. Confusing requirements of clients, slow responsiveness, and delayed payments by the client were also emphasized by some interviewees.
+A construction manager belonging to a CSC articulated the above issues, saying:
+I am afraid to say that we are facing too many physical interfaces, too many deadlines, and too many variations. No one is ready to accept the responsibility for variation orders and it is resulting in delays … sometimes we do not even know what is exactly expected from us. There are no clear guidelines and this is the main reason of slow decision making. How can you expect the project to complete in time under these conditions.
+These findings are similar to the results of Ogunlana et al. (1996) on problems causing delays on high-rise building projects in Thailand. Their study also showed that most of the problems on major construction projects related to lack of resources, poor contractor management, shortage of labour, design delays, planning and scheduling deficiencies, changed orders and contractor’s financial difficulties.
+Discussion and implications
+Table6 shows the top 20 problems in the current study and mention of these problems in studies from other countries (Table1). This comparison shows that some problems causing delays in the construction projects are recurring (see Lim and Mohamed, 2000; Faridi and El-Sayegh, 2006). Also, there seems to be a similar pattern of problems in all developing countries. Inexperienced clients, incompetent and inexperienced contractors and subcontractors/suppliers, lack of resources, lack of contractual knowledge, complex and confusing government regulations, lack of strong financial packaging by the contractor, impractical, incomplete or too complicated designs, lack of project management best practices, and socio-political and economic problems are common factors that result in delays of the construction projects (see Table1). However, Table6 shows a notable trend that some problems are occurring only after 2000 that can be regarded as an year when Asian economies started to recover from the financial crisis and construction volumes slowly started growing—even booming in recent years. With growing construction spending all
+Table 5	Average ratings received by each category of problems
+Problem category	Average rating of all problems under each category
+
+
+Problems related to client
+Problems related to contractors
+Problems related to labour
+Problems related to finance
+Problems related to contracts
+Problems related to communication
+Problems related to site and environment
+Problems related to other factors
+Table 6	Comparison of top problems with previous studies
+Current study
+Previous studies (before 2000)
+Previous studies (after 2000)
+Lack of contractor’s experience and control over project
+Inadequate experience of staff
+Lack of competent
+Unrealistic project schedule
+Lack or responsibility
+Arditi et al. (1985)*; Al-Khalil and Al-Ghafly (1999)*; Mazher and Tawil (1998)*
+
+Poor site access or availability
+Sullivan and Harris (1986); Chan and Kumaraswamy (1997); Mazher and Tawil (1998)*;
+Poor efficiency of supervisor or foreman
+Lim and Mohamed (2000)*; Faridi and El-Sayegh (2006)*; Assaf and Al-Hejji (2006)*
+Delay of payment by client
+Shortage of funding
+Sullivan and Harris (1986);
+Confusing and ambiguous requirements
+Low constructability of design
+Sullivan and Harris (1986)
+Lack of timely decisions and corrective actions
+Faridi and El-Sayegh (2006)*
+Slow responses from the client organization
+Faridi and El-Sayegh (2006)*
+Sullivan and Harris (1986)
+
+Unclear lines of responsibility and authority
+Lack of necessary machinery, tools, and automation available for project
+Sullivan and Harris (1986);
+* Studies conducted in developing countries.
+around the world, there is a rising dearth of experienced contractors, subcontractors, suppliers, and skilled or semi-skilled labour. Owing to the involvement of designers from various countries, the need for design standardization has also emerged as a concern in major construction projects.
+In order to gain financial returns as early as possible, time constraints have increased; the ability to deliver a project fast is becoming an ever more important element in winning a bid (Williams, 2003). Cheung et al. (2000) note that the problems and obstacles, if not solved swiftly, can cause delays and cost overruns in projects, harm cooperative relationships, reduce efficiency, lead to claims and disputes, and probably invoke litigation proceedings (Bubshait and Manzanera, 1990). Delays result not only in financial setbacks but also in a bad reputation for the contractors. Therefore, time efficiency should be looked at as a long-term competitive advantage.
+Li and Love (1998) argue that construction problems are mostly ill structured and ‘the theory of construction problem solving must consider the nature of construction problems, the problem solvers, as well as the construction industry within which problems transpire and individuals seek solutions’ (p.722). Proper understanding of the problems and adequate use of management tools can help in mitigating the delays
+(Abdul-Rahman et al., 2006). However, this integrative approach of problem solving is largely absent in developing countries. In order to overcome the problems causing construction delays in developing countries, fundamental and large-scale reforms are required in procurement systems, value chain management and stakeholders’ management. The majority of the interviewees in this study agreed that innovative procurement systems and the involvement of designers and contractors right from the project conception stage could avoid many overwhelming issues at later stages of the projects. Other common suggestions to avoid problems include: comprehensive design preparation; adoption of realistic and agreed-upon time schedules by all parties; minimization of change orders; provision of adequate compensation to contractors and consultants; formulation of a robust risk mitigation plan; continuous involvement of stakeholders in constructive dialogue; more frequent site meetings involving all parties; and thorough resource planning and development of the project concept.
+Discussions with project managers also suggested that experienced construction managers and seasoned site supervisors played a key role in avoiding many siterelated problems. Some interviewees also proposed that all construction stakeholders (client, consultants, designers and contractors) should form an independent commission for performance evaluation on major construction projects. Comprising the representatives of related stakeholders, this stakeholders to take commission can prepare independent reports, anticipate problems and risks, and advise the necessary measures to overcome the problems. The role of such a commission should be purely advisory and it should hold regular meetings to present its impartial reports. Such a proposal, if implemented properly, would not only result in savings of resources but also increase the overall efficiency on the projects.
+Conclusions and recommendations
+An inventory of 75 problems categorized under 10 groups was used to examine the most significant problems causing delays in the major projects in Thailand. The findings showed that most problems related to designers, clients, contractors and finance were rated among the top problems; whereas a multicultural and multilingual environment, large numbers of project participants and the involvement of foreign designers were perceived as not very significant problems. Among many problems that construction projects face worldwide include shortage of human resources, machinery and equipment and construction materials. However, there are additional factors causing delays in developing countries such as lack of finance, technically incompetent and less experienced local companies, an underdeveloped business environment, complexities in legal and regulatory systems, and distinct socio-cultural issues. A literature review and findings from the analysis show that the factors causing construction delays in construction projects are mostly identical across developing countries. Nevertheless, the findings of this research should be interpreted in the context of the Thai construction industry. This is because different countries and geographical locations have their own set of socio-economic and political factors, their own structure in the construction industry, local construction practices and, more importantly, the project characteristics which together influence the problems that usually occur on a given project. While interpreting the results, one should also note that the data were collected from a single major project which was chosen as a case study because it was the largest project in the history of Thailand’s construction industry. Also, data were collected over a limited period of time while the project was near its expected completion. This may have influenced respondents’ perceptions about which problems were causing delays on the project.
+Research in the field of procurement has shown that procurement of construction projects in developing countries involves a significant amount of bureaucracy, several administrative levels, approval checks, fragmentation of laws on procurement, high levels of corruption, and lack of coherence between procurement systems and local culture and administrative systems and authority structure. All these factors result in inefficiencies, high cost and construction delays. In order to improve efficiency in construction, large-scale procurement reform is urgently needed in developing countries. Hence it would be useful for future research to focus on innovative, culture-specific, national-level and project-related procurement reforms. An integrated approach to studying problems causing delays with critical success factors, key performance indicators, procurement methods, and socio-cultural and economic issues can also provide a broader understanding of the issue which seems to have existed for a long time. Future research can also focus on how the perception of research participants—about problems causing delays—varies over the different stages of a construction project. Last but not least, many delays occur because of failure to anticipate the problems in the first place and to solve the problems when they have arisen. Therefore, developing countries need to invest in attracting more talent and develop the existing human resources to cope with mounting construction demand.

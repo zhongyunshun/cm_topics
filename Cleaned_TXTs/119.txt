@@ -1,0 +1,417 @@
+
+Construction
+ABOUT THE AUTHORS
+JAMES J. O’BRIEN, P.E., PMP, CVS, is the former vice chair of the board of O’Brien-Kreitzberg & Associates, Inc., the construction management fi rm that handled projects as diverse as the renovation of San Francisco’s cable car system, the scheduling/prudence auditing of six nuclear electric power plants, and program management for the redevelopment of JFK International Airport. Mr. O’Brien is the author or editor of many other books, including Contractor’s Management Handbook, Second Edition; Construction Management:
+A Professional Approach; Value Analysis in Design and
+Construction; Scheduling Handbook; and Construction Change Orders, all published by McGraw-Hill. He is a registered professional engineer in New Jersey, Pennsylvania, and many other states. Mr. O’Brien is a Fellow of the American Society of Civil Engineers, the Project Management Institute, the Construction Management Association of America, and the Society of American Value Engineers International. He is also an active member of the Association for the Advancement of Cost Engineering International. Mr. O’Brien is a charter member and a vice president of the PMI College of Scheduling.
+FREDRIC L. PLOTNICK, Ph.D., Esq., P.E., is CEO and principal consultant of Engineering & Property Management Consultants, Inc., handling the scheduling needs for projects from highways to railways, water treatment facilities to coal- and nuclear-fueled power plants, sports stadiums to airports. He is a registered professional engineer in Pennsylvania, New Jersey, Florida, and Maryland. He is also an attorney admitted to the bars of Pennsylvania, New Jersey, Florida, and the Supreme Court. Dr. Plotnick is an adjunct professor of engineering at Drexel University, and has been on the faculty since 1979. He is a past-president of the Philadelphia chapter of the Pennsylvania Society of Professional Engineers, and an active member of the state society, as well as of the
+American Society of Civil Engineers, the Association for the Advancement of Cost Engineering International, and the American Bar Association Forum on Construction. Dr. Plotnick is also a charter member and a vice president of the PMI College of Scheduling.
+
+Construction
+Seventh Edition
+New York  Chicago  San Francisco  Lisbon  London  Madrid
+Mexico City  Milan  New Delhi  San Juan  Seoul Singapore  Sydney  Toronto
+Cataloging-in-Publication Data is on fi le with the Library of Congress
+Copyright © 2010, 2006, 1999, 1993, 1984, 1971, 1965 by The McGraw-Hill Companies, Inc. All rights reserved. Printed in the United States of America. Except as permitted under the United States Copyright Act of 1976, no part of this publication may be reproduced or distributed in any form or by any means, or stored in a data base or retrieval system, without the prior written permission of the publisher.
+P/N 978-0-07-163662-9 of set 978-0-07-163664-3 MHID: P/N 0-07-163662-5 of set 0-07-163664-1
+Editorial Supervisor   Stephen M. Smith
+Production Supervisor
+Deepti Narwat, International
+Typesetting and Composition
+Eina Malik, International Typesetting  and Composition
+Surendra Nath, International
+Typesetting and Composition
+Art Director, Cover
+International Typesetting and Composition
+Printed and bound by RR Donnelley.
+McGraw-Hill books are available at special quantity discounts to use as premiums and sales promotions, or for use in corporate training programs. To contact a representative, please e-mail us at bulksales@mcgraw-hill.com.
+This book is printed on acid-free paper.
+Information contained in this work has been obtained by The McGraw-Hill Companies, Inc. (“McGraw-Hill”) from sources believed to be reliable. However, neither McGraw-Hill nor its authors guarantee the accuracy or completeness of any information published herein, and neither McGraw-Hill nor its authors shall be responsible for any errors, omissions, or damages arising out of use of this information. This work is published with the understanding that McGraw-Hill and its authors are supplying information but are not attempting to render engineering or other professional services. If such services are required, the assistance of an appropriate professional should be sought.
+Acknowledgments	xxi
+Part 1 Introduction to CPM Planning and Scheduling
+Introduction to CPM Planning and Scheduling
+1.1 Scheduling Is for Everyone
+1.2 We Teach Carpentry—Not “How to Use Your New Power Saw”
+1.3 History of Scheduling Systems
+1.4 The Ordered “ToDo” List
+1.5 Gantt Charts and Bar Charts
+1.6 Development of the Critical Path Method of Scheduling
+1.7 Development of the PERT Method of Scheduling
+1.8 Comparison of CPM and PERT
+Project Control Systems Evolve in Academia
+2.1 1960–1965: Logic Systems Gain Acceptance
+2.2 1966–1970: The Fight between CPM and PERT
+2.4 SPERT and GERT
+Project Control Systems Evolve in the Marketplace
+3.3 Early Legal Recognition
+3.4 The Advent of the Personal Computer 1980–1990
+3.5 Maturity of Personal Computers 1990–2000
+3.6 Emergence of Enterprise Systems 2000–2010
+3.7 Projections for Scheduling Software 2010–2015
+Part 2 The Theory of CPM Planning and Scheduling
+Your New Tool—Read Before Using
+4.1 Primavera and Your Power Saw—Useful But Dangerous Tools
+4.2 How Does Primavera (or Other Scheduling Software) Work?
+4.3 Input to Scheduling Software Products
+4.4 The Logic of the Logic Network
+Network Construction
+5.1 Form and Format
+5.3 Problems with Multi-Sheet Networks
+5.4 Form and Format for Networks in PERT
+5.5 Form and Format for Networks in PDM
+5.6 Form and Format for Networks in RDM
+5.7 Summary
+The Durations of the Logic Network
+6.1 Defi nition of an Activity
+6.2 Setting a Minimum and Maximum Duration
+CPM versus PERT Durations
+6.5 Lags in PDM and RDM—Durations between Activities
+Output of Calculations
+7.1 Attributes of an Event
+7.2 Attributes of an Activity
+7.3 The Forward Pass—TE, ES, and EF
+7.4 The Backward Pass—TL, LF, and LS
+7.5 The Backward Pass—TF, FF, and IF
+7.6 Calculating the Attributes of an Event or Activity
+7.7 The Forward Pass—TE, ES, and EF
+7.8 The Backward Pass—TL, LF, and LS
+7.9 The Backward Pass—TF, FF, and IF
+Cranking the Engine
+8.1  Manual and Computer Solutions for PERT and ADM—The Matrix
+8.2  Manual and Computer Solution for PERT and ADM—The Intuitive
+8.3 Activity Start and Finish Times 	101  8.4 Critical Activities 	103  8.5 Total Float 	104  8.6 Free Float 	107  8.7 Independent Float 	110  8.8 Time Scale Network 	111  8.9 Computation Time 	112  8.10 Writing Your Own CPM Software 	113  8.11  Manual and Computer Solution for PDM with Durations
+8.12 	Summary 	118
+Adding Complexity 	119
+9.1 Enhancements to the Basic System 	119  9.2 Original versus Remaining Durations 	120  9.3 Percent Complete 	120  9.4 Defi ned Subtasks and Check-Off Updating 	121  9.5 Calendar versus Work Period Conventions 	123  9.6 Multiple Calendars 	124  9.7 Multiple Starting and Ending Activities 	127  9.8 Artifi cial Constraints to Dates 	129  9.9 Artifi cial Constraints to Algorithms 	132  9.10 Negative Float 	132  9.11 Defi nition of Criticality 	133  9.12 Continuous versus Interruptible Performance 	138  9.13 Actual Start and Finish Dates 	138  9.14 Retained Logic versus Progress Overrides 	139  9.15 Events and Milestones 	139  9.16 Hammocks and Summary Network Logic 	141  9.17 Summary Activity Bars 	142  9.18 User-Defi ned Code Fields 	145  9.19 Adding Resources to Activities 	145  9.20 Adding Costs and Cost Codes to Activities 	146  9.21 Resource Driven Scheduling 	148  9.22 Master Schedules Local versus System-Wide Updating 	149  9.23 Activity Types 	151  9.24 Hierarchical Codes 	153  9.25 Summary 	155
+Chapter 10. PDM and Precedence Networks 	157
+10.1 Precedence Logic 	158  10.2 Work Package Calculations 	162  10.3 Computer Calculation 	163  10.4 Project Example 	166  10.5 Summary 	169
+Chapter 11. Respecting the Power of PDM
+11.1 Durations between Activities: Percent Lead/Lag Relationships
+11.2 Defi ning Overlapping Activities: Durations between Activities
+11.3 Negative Durations between Activities
+11.4 Remaining Durations between Activities
+11.5 Impact of Percent Complete upon Durations between Activities
+11.8 Undefi ned Subtasks and Relationships to Other Activities
+11.10 Retained Logic versus Progress Override
+Chapter 12. PERT, SPERT, and GERT
+12.4 Computers Add Power
+Chapter 13. RDM Networks Restore the Promise
+13.1 Relationship Logic
+13.2 Design of the Methodology for Calculation
+13.3 Additional Attributes of RDM—TJ, JLF, JLS, and JTF
+13.4 The Backward Pass—TJ, JLF, JLS, and JTF
+13.5 Implementation by Oracle Primavera Pertmaster Risk Analysis
+13.6 The Road Ahead for RDM
+Chapter 14. Overview of Prevalent Software Products
+14.1 Overview of Primavera Project Planner P3
+14.2 Overview of SureTrak Project Planner
+14.3 Overview of Primavera
+14.4 Detailed Instruction for P6
+14.6 P6 Refl ection Change Maintenance Feature
+14.8 P6 Enterprise Functionality and Administration
+14.9 Overview of Primavera Contractor and P6 Professional
+14.10  Overview of Primavera Pertmaster aka Oracle Primavera
+14.11 Overview of Microsoft Project Professional 2007
+Project Management Software
+14.13 Summary of Overviews
+Part 3 The Tools of CPM Planning and Scheduling
+Chapter 15. Measure Twice—Cut Once
+15.1 Preparing to Collect the Input
+15.2 The Pure Logic Diagram
+15.3 A Team Effort . . . on the Blackboard or Sketch Pad
+15.4  Format for Ease of Data Collection versus for Ease
+of Data Entry to Chosen Software
+15.5 Bar Chart: May Be Based upon Logic, but Is Not a Logic Network
+15.6 Logic Restrained Bar Chart
+15.8 PERT, GERT, PDM, and RDM
+15.9 Summary
+Chapter 16. Choosing Codes
+16.2 Deliverable and Responsible Entity: SHT1, SHT2, RESP, and SUBC
+16.3 Key Resources: CRTY, CRSZ, MHRS, SUPV, and EQUIP
+16.4 Overtime, Night Work, Special Supervision, and Inspection
+16.5 Quantities and Rates of Productivity
+16.6 Location, Location, Location
+16.8 A Word about Codes Tied to the Activity ID
+16.9 A Word about Aliases
+Chapter 17. Acquiring Information to Initial Schedule
+17.1 The Activity Description—a Gross Abbreviation
+17.2 Activity ID, Activity Codes, and Logs
+17.3 The Activity Further Defi ned by Resources Assigned
+17.4 The Activity Further Defi ned by Predecessors and Successors
+17.5 The Checklist of Subtasks
+17.6 The Checklist of Subdeliverables (Events)
+17.7 Summary
+Chapter 18. Acquiring the Durations
+18.1 Best Estimate with Utilization of Resources Envisioned
+18.2 Compare with PERT Durations: Optimistic, Most Likely, Pessimistic
+18.3 Schedule Durations versus Estimating Durations
+18.4 Estimated Durations versus Calculated Durations
+18.5 Do We Add Contingency Here?
+18.6  Estimated Durations versus Expected Completion Dates:
+“As Good as the Promise”
+18.7 Productivity
+18.8 Durations and the Project Calendar or Calendars
+18.9 Durations between Activities
+Chapter 19. Specifying Restraints
+19.1 Mandatory and Discretionary Physical Restraints
+19.2 Mandatory and Discretionary Resource Restraints
+19.3 Mandatory and Discretionary Timing Constraints
+19.4  The Misuse of Restraints and Constraints:
+the Bar Down Where It Belongs”
+19.5 The Need to Document the Basis of Each Restraint and Constraint
+19.6 Choosing the Type of Relationship between Activities
+19.7 The Case for Restricting Relationships to Traditional
+“FS” without Lag
+19.8 The Need for Nontraditional Relationships
+19.9 The Desire for Nontraditional Relationship and Resulting Misuse
+19.10 Nontraditional Relationships Supported by Popular Software
+19.11 Minimum Restrictions for Proper Usage of PDM
+19.12 Review the Strengths of ADM: Expand the Defi nitions
+19.13 Start of Each Activity Must Have Predecessor
+19.14 Finish of Each Activity Must Have Successor
+19.15 Real World Relationships between Activities
+19.16 The Final Forward Pass
+19.17 The Final Backward Pass
+19.18 Choosing the Algorithm for the Initial Schedule
+Chapter 20. Example Project: The John Doe Project
+20.1 Acquiring Information to Initial Schedule
+20.2 Choosing Appropriate Codes
+20.3 Activity List
+20.4 Could We Prepare a Bar Chart?
+20.5 Network Logic in ADM
+20.7 Network Logic in PDM
+20.8 Network Logic in RDM
+20.9 Populating the Codes
+20.10 Checking the Output
+Part 4 The Practice of CPM Planning and Scheduling
+Chapter 21. Equipment and Workforce Planning
+21.1 Workforce Leveling
+21.2 Computerized Resources Planning
+21.3 Resource Leveling and Smoothing
+21.4 Limitations of Algorithms
+21.5 Driving Resources
+21.7 Practical Solutions
+21.8 Summary of Resource Leveling
+21.9 Turnaround Application
+21.10 Examples of Resource Loading on John Doe Project
+Chapter 22. Procurement
+22.2 John Doe Example
+22.3 Summary
+Chapter 23. Preconstruction
+23.3 Summary
+Chapter 24. Evolution of the Project Schedule
+24.1 Preliminary Schedule
+24.2 Preconstruction Analysis
+24.3 Contractor Preconstruction Analysis
+24.10 Contingency
+Chapter 25. CPM and Cost Control
+25.2 Progress Payments
+25.3 Cost Forecasting
+25.4 Network Time Expediting
+26.2 Multiproject Leveling
+26.3 Summarization by Enterprise Organization
+26.4 The Dashboard
+Part 5 The Practice of CPM Scheduling
+Chapter 27. Converting the Team Plan to the Calculated Schedule
+27.3 First Run and Debugging the Logic
+27.4 Loop Detection and Correction
+27.5 Technical Review: The Primavera Diagnostic Report
+27.6 Beyond the Primavera Diagnostic
+27.7 First Review of Calculated Output: Reality Check 1
+27.8 Detail Views of Output of Schedule Calculations
+27.10 Tailoring Initial Output to the Chosen Audiences
+27.12 “You Can’t Always Get What You Want, But . . .You Get
+What You Need”
+27.13 Reports and Views for the Foreman Performing the Work
+27.14 Reports and Views for the Contractor’s Superintendent
+27.15 Reports and Views for the Contractor’s Upper Management
+27.16 The Narrative Report for Each Audience
+Chapter 28. Engineer’s Review of the Submitted Initial CPM
+28.1 Legal Aspects of a Review
+28.2 Reviewing the Plan
+28.3 Technical Review
+28.4 Reschedule and Review the Diagnostic Report
+28.5 But Is the Logic Realistic? The Smell Test
+Chapter 29. Updating the Schedule
+29.1 Why Update the Schedule?
+29.2 Acquiring the Data for an Update
+29.3 Distinguishing Updates from Revisions
+29.4 Purpose of an Update
+29.5 The Purpose of a Revision
+29.6 Who Should Collect Data for an Update?
+29.7 Who Should Prepare Data for a Revision?
+29.8 Information Required for Schedule Control:
+29.9 Determination of Actual Start and Actual Finish Dates 29.10  Determination of Remaining Duration of Activities:
+Repeat the Steps of the Master
+29.11 Expected Completion and Renewing Promises
+29.13  The Forgotten Step: Determination of Remaining Duration
+29.14 Save and Rename: Naming Strategies
+29.15 Reports and Views to Assist Acquiring Data for an Update
+29.16 Electronic Tools to Assist Acquiring Data for an Update
+29.17 Choosing the Correct Algorithm for Updates
+29.18 Scheduling the Update: Interpreting the Results
+29.19 Technical Review: The Primavera Diagnostic Report
+29.20 What to Look for When Reviewing the Update
+29.21 Tailoring Update Output to the Chosen Audiences
+29.22 The Narrative Report for Each Audience
+Chapter 30. Engineer’s Review of the Submitted Update
+30.1 Is This an Update or a Revision?
+30.2 The Technical Review
+30.3 The Critical Path
+30.4 What to Accept and What to Reject
+Chapter 31. Revising the Logic Network
+31.1 “What If” versus Committed Changes
+31.2 Changes: Approved, Constructive, and at Contractor’s Cost
+31.4 Update Then Revise
+Chapter 32. Engineer’s Review of the Submitted Revision
+32.1 Minor Revision
+32.2 Major Revision
+32.3 Recovery Schedule
+Chapter 33. Case Histories
+33.1 Chicago Courthouse
+33.2 Times Tower
+33.3 Airport Construction
+33.4 High-Rise Construction
+33.6 Housing
+33.8 SEPTA Rail Works
+33.9 New Jersey Turnpike Authority 1990–1995 Widening Program
+33.11 Toronto Transit’s “Let’s Move” Program
+33.15 Port Authority of New York and New Jersey
+33.16 Maricopa County Jail Design and Construction Program
+33.17 Summary
+Part 6 Advanced Topics
+Chapter 34. Specifying CPM
+34.1 Attorney’s Viewpoint to Writing a CPM Specifi cation
+34.2 Pure Logic Drawing
+34.3 Content of the Logic Network
+34.4 Updates and Revisions
+34.5 Standard References
+Chapter 35. CPM in Claims and Litigation
+35.1 Introduction
+35.2 Evidentiary Use of CPM
+Chapter 36. Delay Analysis
+36.3 As-Planned Logic Network
+36.7 As-Built Logic Network
+36.8 Causative Factors
+36.9 As-Impacted Logic Network
+36.10 As-Impacted Schedule
+36.12 Zeroing to a Collapsed As-Impacted Logic Network
+36.13 Zeroing Out to an As-Should-Have-Been CPM
+36.14 Limitations of the TIE Methodology
+36.15 TIE Example of John Doe Project
+36.17 Zeroing Out within the Windows Analysis
+36.18 Windows Example of John Doe Project
+37.2 CPM Out-of-Sequence Methodology
+37.3 Adoption by the Industry
+Chapter 38. Other Claim Methods
+38.3 Comparison of 3 Methods for John Doe Project
+36.5 The 50 Ways
+38.6 Summary of Other Delay Claim Methodologies
+Chapter 39.
+for Preparing Your Own Specifi cation
+Appendix C. Navigating the CD-ROM
+
+This page intentionally left blank
+The original purpose of this book, in 1965, was to present and discuss the Critical Path Method (CPM) and its use in the construction industry. At that time, CPM was a young but proven technique—usually considered to be optional. When the 2nd edition was published in 1971, the network approach to scheduling was becoming a regular requirement in construction contracts. The 3rd edition, published after 25 years of experience in the application of CPM, described highlights of that experience and its signifi cance to the practical use of CPM.
+The basic strength of CPM continues to be its ability to represent logical planning factors in network form. One reviewer noted: “Perhaps the most ironic aspect of the critical path method is that after you understand it, it is self-evident. Just as an algebra student can apply the rules without full appreciation of the power of the mathematical concepts, so can the individual apply CPM or its equivalent without fully appreciating the applicability of the method.”
+The book fi rst describes the development of CPM and its practical use in the construction industry. The basic technique is described in suffi cient depth for the reader to apply it to practical construction situations. The John Doe case study is used throughout the book to describe basic CPM network techniques and then to illustrate such special functions as updating, cost control, resource planning, and delay evaluation. Optimum methods of specifying the use of CPM are described in suffi cient detail to be incorporated directly into construction specifi cations.
+Since the 2nd edition, CPM has become widely utilized as an analytical tool in the evaluation, negotiation, resolution, and/or litigation of construction claims. This aspect is thoroughly explored in the current edition. Legal precedents for the use of CPM during litigation are provided.
+In the 1980s, computer calculation shifted from mainframe programs to personal computers (PCs). PCs were the wave of the past two decades. The ubiquity in the 2000s of the internet and the wave of additional
+interconnectivity linking individual PCs now has the appearance of coming full circle and bringing back to CPM many of the strengths and weaknesses of the era of the mainframe. However, the approaches and procedures suggested in the fi rst six editions are, almost without exception, still valid.
+Network techniques are basic and logical, but assimilation of the network concept does take time. Further, an effort is required to build an experience level, which in turn builds confi dence. This book aims to be a useful element in the development of that conceptual experience and confi dence on the part of new users of CPM techniques.
+I was introduced to the concepts of CPM as a student in college for 2 weeks in a course covering many aspects of construction management. It was a revelation and led to additional independent study, including a grant of computer time (on the giant mainframe) from Drexel University’s Computer Center (Philadelphia, PA), on which my fi rst CPM software program was written. It was at this time that I realized the potential value of CPM to resolve disputes involving delay that planted the seed for my future legal education.
+Several years past, during which I worked for several construction and consulting fi rms, and a stint as assistant corporate counsel for a large fi rm involved in international construction. In 1983, I formed EnProMaC (Engineering & Property Management Consultants, Inc.). Interestingly, in 1983 Joel Koppelman and Dick Faris formed Primavera Systems. One of my fi rst efforts was to rewrite my CPM software program to run on my Osbourne I (a pre-IBM PC with 64KB of RAM and 90KB of fl oppy disk storage) running as a routine under dBASE II (a database program by Ashton Tate). At that time, I never dreamed that a market might exist for such software—assuming such could be rewritten for user-friendliness.
+The success that Messrs. Koppelman and Faris achieved in launching Primavera is largely based upon their attention to making their software user-friendly—and in giving their customers that which is asked for. CPM theory has a number of limitations, as does any system that attempts to model reality. Bending the rules of CPM analysis can, in some instances, circumvent these limitations. In many cases special features have been added to Primavera, which have legitimate uses in very limited situations, but which should be used with extreme care. The many competitors of Primavera also have added features that extend and modify the basic concepts of CPM—each in their own fashion—and each that differ subtly from each other. One of my contributions, upon
+being added as a co-author to the 5th edition, was to address these special features and their proper use.
+In 1982, Drexel University asked me to create a course on CPM. This was a major factor in deciding to form my own consulting fi rm, so as to have more control over my time to pursue research and teaching. Over the years, I have had the opportunity to teach—and that is to share discussion with my students on—CPM, as well as courses on contracts and specifi cations, engineering law, and project administration. Considering the means of best teaching CPM led to many of the organizational changes of the 6th edition. In 2003, ENR featured Jim O’Brien and me in an article “Off the Critical Path” on issues relating to the legitimacy of CPM analyses. This too forced me to take time to think and to push the envelope.
+The result was RDM, or Relationship Diagramming Method, outlined as an academic idea in the 6th edition. Much to my satisfaction, this idea has been well received. After converting my notes and comments of this text to the form of a dissertation, Drexel University conferred upon me the Ph.D. degree. And Primavera embraced the concept by requesting that I assist their implementation of RDM functionality to their line of software, starting with their high-end Pertmaster Risk Analysis product.
+I, in turn, have been happy to provide my RDCPM® certifi cation of proper implementation to Pertmaster. And thus many of the additions to this 7th edition relate to the evolving standard for Relationship Driven CPM. Other additions relate to how other entities and organizations have similarly responded to the call for greater transparency raised in that 2003 article. The continuing evolution of software, from both the viewpoint of computer code and the consolidation of vendors to enterprise software providers (Welcom to Deltek, Primavera to Oracle), is also addressed.
+It continues to be my hope that my contributions to this 7th edition will bring the confl uence of the basic theory of mathematics, the applied discipline of engineering, and the framework for collaboration by adversarial parties provided by the study of law, all to assist the practitioner of planning and scheduling.
+This page intentionally left blank
+Acknowledgments
+The writing of this 7th edition has involved the assistance of numerous individuals who have provided technical advice on the computer software products discussed, feedback from the fi eld for the case studies discussed, editorial review to combine the writing styles of the two authors into one more readable style, and moral support throughout the process of writing and rewriting and editing and proofreading and publishing. Special recognition is accorded the following individuals:
+Joy Bramble Oehlkers, Pamela Pelton, and Larry Hager of McGraw-Hill
+Deepti Narwat of International Typesetting and Composition
+Ludovic Hauduc, Eric Zenz, and Doc Doctermann of Microsoft
+The many volunteers and members of PMICOS and AACEi who have contributed content and constructive criticism
+Jim and Fred dedicate this 7th edition to the memories of:
+This page intentionally left blank
+
+Construction
+This page intentionally left blank
+Introduction to CPM Planning and Scheduling
+This page intentionally left blank
+Introduction to CPM
+This introduction discusses some factors that make the case for why planning and scheduling is best performed by the Critical Path Method (CPM). It covers some of the history behind its development and relays some thoughts on where the process may be going in the future. The interplay between the theory of mathematics that underlies the methodology and the modifi cations needed to make the methodology more practical are themes that continue throughout the text. It is hoped that the conclusion drawn by the reader will be that it is the Scheduler who must balance these two ideals, mathematics and engineering, to provide a useful and user-friendly tool to the users of CPM in construction management, manufacturing, software design and other users in the world of projects that must be fi nished on time and within budget.
+1.1 Scheduling Is for Everyone
+Scheduling is a discipline that is performed by every person, every day. Should you fi rst shave or brush your teeth in the morning? If you are scheduling for one person only, the process is rather simple. You can prepare a “ToDo” list and then choose in what order the items on it are to be performed. However, the choice of what to do fi rst is not completely random. Perhaps there are physical restrictions, such as “shower before dressing” or “cook breakfast before eating.” Perhaps there are logistical restrictions, such as combining one trip to buy milk, pick up the dry cleaning, and refuel your car, rather than making three trips to accomplish these three items on your “ToDo” list. Perhaps the order of performance is pure personal choice, such as put on right shoe before left shoe.
+Even at this simple level, not all is what it seems to be. If you are in a hurry, you might begin eating a portion of your breakfast while still cooking the rest. If your dry cleaner is open only from 10: 00 AM to 6: 00 PM and if your car is very low on gas, you may have to refuel on your way to work, pick up your dry cleaning at lunch, and buy milk on the way home from work. If you have a foot or leg injury, you may need to put on your left shoe fi rst.
+If you want to schedule the tasks of two or more persons or the work fl ow of two or more machines (even if both are under the supervision of one person), the process becomes much more complex.
+1.2 We Teach Carpentry—Not “How to Use Your New Power Saw”
+If the process of scheduling were a simple matter, requiring merely rote actions without the need for thought, perhaps good schedules could be created by a software Wizard. After clicking your way through a preset series of screens, you would have your schedule. Perhaps then, the request of an old client for a device where building blueprints are fed in one end and a schedule is printed out the other end would be feasible. Alas, it is not so–scheduling is a complex process and the mathematical underpinning is at the level of rocket science.
+Scheduling is an application of special knowledge or judgment of the mathematical, physical , or engineering sciences to the conception or implementation of creative work. Scheduling, formally or informally, good or bad, is practiced in the planning, progress, and completion of designs, analyses, or implementation performed in connection with utilities, structures, buildings, machines, equipment, processes, systems, works, projects, and industrial or consumer products or equipment of a mechanical, electrical, electronic, chemical, hydraulic, pneumatic, geotechnical, or thermal nature. The wording of the preceding sentence is taken from the statute defi ning Engineering for a reason: scheduling is a branch of engineering.
+Implicit in the teaching of engineering, or of the supporting fi elds of science and mathematics, is the need to understand the process and not merely trust the black box. It is important to understand the mathematical underpinning of modern CPM software rather than to merely begin clicking away. Children are still taught how to add and how to spell even though they have access to calculators and computer word processing software aided with spell-check. One reason is that even the best spell-check software can leave errors uncaught. Another reason is to understand what the numbers on calculators mean. Many of us may remember a freshman physics class where we were taught that 2.5 × 3.01 is not equal to 7.525, but rather to 7.5, since the result will never be more accurate than the least accurate input (for those who have not taken freshman physics, 2.50 × 3.01 = 7.53 and 2.500 × 3.010 = 7.525).
+Even the terminology can be misleading. CPM was once noted as a tool in the process of Planning and Scheduling. First we must plan, then we can use the computer to perform the rote calculations (that we understand and could perform given time) to generate the schedule, and then we must read the output with a knowledge of the assumptions and tolerances involved. Today, however, we can purchase software that includes a Wizard to simplify or ignore the need for planning, perform the calculations while allowing user overrides to generate the “correct” or “desired” result, and provide killer report and graphics applications to display the schedule results.
+It is the purpose of this text to teach carpentry and not merely the features and benefi ts or, “how to use” your new power saw. It is the purpose of this text to teach the process of planning and scheduling by means of the Critical Path Method of Analysis. We can best start by reviewing how this fi eld of mathematics and engineering was developed.
+1.3 History of Scheduling Systems
+CPM was developed specifi cally for the planning of construction. The choice was fortuitous, since construction accounts for more than 10 percent of the annual gross national product. Almost every activity and every person is affected to some degree by new construction or the need for it. Most projects are started well after the need has been established, seeming to follow the whimsy, “If I’d wanted it tomorrow, I’d have asked for it tomorrow.”
+The construction industry is a heterogeneous mix of companies ranging in size from the large operations to one-person operations. No matter the size, construction companies face similar situations and, to some degree, similar pressures. Many factors, such as weather , unions, accidents, capital demands, and work loads, are either beyond individual control or diffi cult to control. New problems in project approvals due to increased public awareness include pollution and ecological controls. CPM does not offer clairvoyance, but it does assemble all the information to the project managing team.
+Initially, CPM spotlighted construction and the contractor. The owner, architect,  engineer, and public agencies involved in a project are like the backer, producer, and director of a Broadway show. Without them, the show cannot go on, and any lack of competence, motivation, or interest on the part of any one of the team members can delay a project. However, the contractor is the performer who ultimately makes or breaks the construction show.
+The typical contractor is a planner who generally uses instinctive methods rather than formal scheduling. Prior to 1957, contractors had little choice than to operate this way because no comprehensive, disciplined procedures for planning and scheduling construction projects existed. And prior to the mid 1980s, contractors desiring to utilize the benefi ts of the newer methods had to rely on outside consultants, who in turn had to rely on computer service bureaus and their large mainframe computers.
+One of the keys to the success of CPM is that it utilizes the planner’s knowledge, experience, and instincts in a logical way fi rst to plan and then to schedule. CPM can save time through better planning, and in construction, time is money.
+The Egyptians and Romans worked construction miracles in their day, and surviving ruins attest to the brilliance of their architecture, but little is known of their construction planning and scheduling. Other historical project managers include Noah, Solomon, and the unknown architect who designed the tower of Babel. Again, history records much about the construction details but little about the methods of control.
+1.4 The Ordered “ToDo” List
+Many of us make lists of things to do (i.e., a “ToDo” list). Those who are well organized may make the list in a logical order–for example, a shopping list based upon the layout of a store or supermarket. Perhaps a fanatic to organization may fi rst make a list of activities (or, from our example, items to be purchased) and then copy it a second time to the preferred order that it is to be performed. The use of word processing or organizing software adds a modern wrinkle to this age-old method of planning and scheduling. However, there are no rules widely published to guide the development of “ToDo” lists.
+1.5 Gantt Charts and Bar Charts
+In the mid-nineteenth century, at least one writer discussed a work versus time graphical representation very similar to today’s bar chart s, but it remained for Henry L. Gantt and Frederick W. Taylor to popularize their graphical representations of work versus time in the early l910s. Their Gantt charts were the basis for today’s bar graphs, or bar chart s.
+Taylor and Gantt ’s work was the fi rst scientifi c consideration of work scheduling. Although their work was originally aimed at production scheduling, it was readily accepted for planning and recording the progress of construction. Today, the bar graph remains an excellent graphical representation of activity because it is easy to read and understood by all levels of management and supervision.
+If the bar graph is so well suited to construction activity, why look for another planning aid? Because the bar graph is limited in what information it can retain. In preparing a bar chart,  the Scheduler is infl uenced almost necessarily by the desired completion dates, often working backward from the completion dates. The resultant mixture of planning and scheduling is unfortunately no better than wishful thinking.
+When a bar graph is carefully prepared, the Scheduler goes through the same thinking process as the CPM planner. However, the bar graph cannot show (or record) the interrelations and interdependencies that control the progress of the project. And, at a later date, even the originator is often hard pressed to explain the plan by using the bar graph.
+Figure 1.5.1 is a simplifi ed bar chart of the construction of a one-story offi ce building. Suppose, after this 10-month schedule has been prepared, the owner asks for a 6-month schedule. By using the same time for each activity, the bar chart can be changed as shown in Figure 1.5.2. Although the chart looks fi ne, it is not based on logical planning; it is merely a juggling of the original bar graph.
+The general contractor usually prepares the overall construction plan, which is sensible because the schedules of the other major contractors depend on the general contractor’s schedule. Note that in Figures 1.5.1 and 1.5.2, the general contractor’s work is broken down in some detail, with both the mechanical and electrical work shown as continuous lines that start early and end late. In conformance with the bar graph “schedule,” the general contractor will then often push the subcontractors to staff the project as early as possible with as many mechanics as possible. Conversely, the subcontractors want to come on the project as late as possible with as few mechanics as possible. The result is that the general
+Figure 1.5.1 Bar chart for a one-story building.
+Figure 1.5.2 Revised bar chart for a one-story building.
+contractor will often complain that the subcontractors are delaying the project through lack of interest. At the same time, the subcontractors will often complain that the general contractor is not turning work areas over to them, forcing them to pull out all the stops to save the schedule.
+As in most things, the truth lies somewhere between the extremes. CPM offers the means to resolve these differences with specifi c information rather than generalities. The bar chart often suffers from a morning glory complex: It blooms early in the project but is nowhere to be found later on. We can suppose some general reasons for this disappearing act. Prior to the construction phase, the architect,  the engineer, the owner, or all three are trying to visualize the project schedule in order to set realistic completion dates. Most contracts will require the submission of a schedule in bar graph form soon after a contract is awarded. Once the project begins to take shape, however, this early bar chart becomes as useful as last year’s calendar because it does not lend itself to planning revisions.
+Although progress can be plotted directly on the schedule bar chart,  the S curve has become popular for measuring progress. The usual S curve consists of two plots (Figure 1.5.3); the scheduled dollar expenditures versus time and actual expenditures versus time. Similar S curves can be prepared for labor hours, equipment and material acquisitions, concrete yardage, and so on. Though this presentation can be interesting, it does not provide a true indication of project completion. For instance, a low-value critical activity could delay the project completion far out of proportion to its value.
+Misuse of bar charts  does not prove that they should be discarded. To throw out bar charts  is like throwing out the baby with the bathwater.
+1.6 Development of the Critical Path Method of Scheduling
+In 1956, the E. I. DuPont de Nemours Company set up a group at its Newark, Delaware, facility to study the possible application of new management techniques to the company’s engineering functions.1 The planning and scheduling of construction projects was one of the fi rst areas studied. The group had a UNIVAC I computer (the third unit built) at its disposal, and they decided to evaluate the potential of computers in scheduling construction work. Mathematicians worked out a general approach; they theorized that if the computer was fed information on the sequence of work and the length of each activity, it could generate a schedule of work.2
+In early 1957, the Univac Applications Research Center, under the direction of Dr. John W. Mauchly,  joined the effort with James E. Kelley , Jr., of Remington Rand (UNIVAC ) and Morgan Walker of DuPont in direct charge at Newark, Delaware. The original conceptual work was revised, and the resulting routines became the basic CPM. It is interesting that no fundamental changes in this fi rst work have been made.3
+In December 1957, a test group was set up to apply the new technique (then called the Kelley- Walker method s). The test team (made up of six engineers, two area engineers, a process engineer, and an estimator) and a normal scheduling group was assigned to plan the construction of a $10 million chemical plant in Louisville, Kentucky.
+As a control, the new scheduling team worked independently of the normal scheduling group. This is the only documented case of a comprehensive comparative CPM application. The test group had not been part of the development of the CPM method, but members were given a 40-hour course on the technique before starting the test.
+The network diagram for the project was restricted to include only the construction steps. The project was analyzed beginning with the completion of its preliminary design. The entire project was subdivided into major areas of scope, and each of the areas was analyzed and broken down into the individual work activities. These activities were diagrammed into a network of more than 800 activities, 400 of which represented construction activities and 150 design or material deliveries.
+The ability of the fi rst team was such that a larger-capacity computer program had to be developed for support. By March 1958, the fi rst part of the network scheduling was complete. At that time, a change in corporate outlook, plus certain design changes, caused a 40 percent change in the plan of the project. Both planning groups were authorized to modify the plan and recompute schedules. The revisions, which took place during April 1958, required only about 10 percent of the original effort by the CPM test team, substantially better than the normal scheduling group.
+One signifi cant factor involved the determination of critical delivery items. The normal scheduling group arbitrarily assigned critical categories, while the CPM group determined critical activities from its network analysis. From the analysis, it was determined that only seven items were critical, and three of these were not included in the normal scheduling group’s list.
+The initial test scheduling was considered successful in all respects. In July 1958, a second project, valued at $20 million, was selected for test scheduling. It also was successfully scheduled. Since the fi rst two projects were of such duration that the complete validity of the system could not be established, a shorter project, also at DuPont in Louisville, was selected for scheduling.
+The third project was a shutdown and overhaul operation involving neoprene, and one of the materials in the process was self-detonating, so little or no maintenance was possible during downtime. Although the particular maintenance effort had been done many times, it was considered to be a diffi cult test of the CPM approach.
+In the fi rst CPM plan, the average shutdown time for the turnaround was cut from 125 to 93 hours, and in later CPM applications, it was further cut to 78 hours. The resultant time reduction of almost 40 percent far exceeded any expectations.4
+1.7 Development of the PERT Method of Scheduling
+The development of CPM was enhanced when the U.S. Navy Polaris program became interested in it. The Polaris program staff had developed its own network system known as Performance Evaluation and Review Technique (PERT) . The DuPont work is considered antecedent material for the development of PERT .
+The Polaris fl eet ballistic missile (FBM) system was initiated in early 1957. To manage the program, a Special Projects Offi ce (SPO) was established under the direction of Admiral Raborn. The Offi ce is generally credited with having developed the PERT system.
+One of the key people involved in the development of PERT was Willard Fazar, who noted that the various management tools available for managing the Polaris program did not provide certain information essential to effective program evaluation. In particular, they did not furnish the following:
+Appraisal of the validity of existing plans in terms of meeting program objectives
+Measurement of progress achieved against program objectives
+Measurement of potential for meeting program objectives
+The search for a better management system continued throughout the fall of 1957. At that time, the Navy was cognizant of the development of CPM at DuPont.  In January 1958, the SPO initiated a special study to determine whether computers could be used in planning and controlling the Polaris program, and on January 27, 1958, the SPO directed a group to undertake the task of formulating the PERT technique.5
+The goal of the group was to determine whether improved planning and evaluating research and development work methods could be devised to apply to the Polaris program, which involved 250 prime contractors and more than 9000 subcontractors.
+The PERT program evolved, and included the development of detailed procedures and mechanics phases, which were reported in formal documents. The PERT method, as described in the phase II report , was designed to provide the following (in addition to the three on the previous page):
+Increased orderliness and consistency in planning and evaluating
+An automatic mechanism for identifying potential trouble spots
+Operational fl exibility for a program by allowing for a simulation of schedules
+Rapid handling and analysis of integrated data to permit expeditious corrections
+The PERT system, programmed at the Naval Ordinance Research Calculator, was implemented in the propulsion component, which was followed by an extension to the fl ight control and ballistic shell components, and fi nally, to the reentry body and guidance component.
+About a year after the start of the PERT research, the system was operational. This was outstanding considering the typical 36 percent time overrun for developing other weapons systems.
+Following its success in the Polaris program, PERT was incorporated voluntarily in many aerospace proposals in 1960 and 1961. In some proposals, PERT was added principally as window dressing to make the proposal more attractive to the government. But thanks to its basic soundness and the acumen of the engineering staff members involved, PERT often stayed on as a useful planning tool even though it had entered some companies through the backdoor.
+1.8 Comparison of CPM and PERT
+The key difference between CPM and PERT is that one identifi es activities of fi nite and reasonably estimated duration while the other identifi es events of zero duration separated by “some form of activity” only loosely understood to be performed within a range of possible durations. This range of durations varies from an optimistic estimate (or shortest time until the next event will occur) to a “most likely” estimate to a pessimistic estimate. This dichotomy was understandable since the duration of an activity, relating to a known quantity of work, was fairly capable of estimation; the duration between events, based upon a scope only vaguely understood, was much more a “guestimate.”
+The theory behind the PERT method was based upon the interplay between these estimates of duration and the statistical likelihood of a project outcome as the actual duration experienced may fl uctuate among the three. However, the early computers of the 1950s and even the 1960s did not have the necessary speed or memory to fully utilize the theory and the three estimates were usually combined into one (often by separate calculation by hand alongside the computer)  using the formula
+where O = Optimistic
+The important distinction to remember, before considering the newer offshoots of CPM, is that CPM measures performance of defi ned activities and the durations of defi ned activities, while PERT m easures the reaching of defi ned events and the passage of time between these events. Another important difference is that CPM durations are of defi ned events, while PERT d urations are of undefi ned activity between events.
+1 Hayward and Robinson, Preliminary Analysis of the Construction Scheduling Problem, internal paper, Engineering Department, DuPont C ompany, December 1956.
+2 James E. Kelley a nd Morgan R. Walker, “Critical Path Planning and Scheduling,” Proceedings of the Eastern Joint Computer Conference, pp. 160–173, December 1–3, 1959; see also James E. Kelley, “Critical-Path Planning and Scheduling: Mathematical Basis,” Operations Research, vol. 9, no. 3, pp. 296–320, 1961.
+3 James E. Kelley, “Computers and Operations Research in Road Building,” Operations Research, Computers and Management Decisions, Symposium Proceedings, Case Institute of Technology, January 31–February 1 and 2, 1957.
+4 Hayward and Robinson, “Preliminary Analysis of the Construction Scheduling Problem,” Engineering Department, DuPont C ompany, December 1956.
+5 D. G. Malcolm et al., “A Network Flow Computation for Project Cost Curves,” Rand Paper P-1947, Rand Corporation, March 1960; D. G. Malcolm, J. H. Roseboom, C. E. Clark, and W. Fazar, “Applications of a Technique for Research and Development Program Evaluation,” Operations Research, vol. 7, no. 5, pp. 646–699, 1959; and W. Fazar, “The Origin of PERT,”  The Controller, vol. 30, p. 598 ff., December 1962.
+4    Introduction to CPM Planning and Scheduling
+Introduction to CPM Planning and Scheduling    5

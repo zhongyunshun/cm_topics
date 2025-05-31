@@ -1,0 +1,161 @@
+﻿Construction Management and Economics, 1992, 10, 343—359
+Determinants of performance in the traditional building process
+R.A. MOHSINI I and COLIN H. DAVIDSON 2
+'Department of Architecture. School of Architecture and Planning, State University of New York at Buffalo, Buffillo, NY 14214 and 2 School of Architecture, University of Montreal. Montreal, Quebec, Canada
+Eyen though an estimated 80 0 Qfall building projects are procured by someform ofthe traditional building process. the project to project variations in performance are still subjectively and individually explained. The present paper addresses this particular domain. Using interorganizationai conflict among the project's task-organizations as a yardstick, the impact of a number (21 conflict-inducing organizational variables upon project cost, time and quality is measured and significant determinants ofperformance at these three levels are identified.
+Building procurement, building process, project performance, regression analysis.
+Introduction
+As the main product of the building industry is normally purchased before it is designed or built, the usual methods of evaluating and selecting 'off the shelf' products cannot be applied. Instead, the building client is expected to initiatc and organize a project procurement process that will ultimately deliver the desired building. To do this successfully, however, the building client has to deal with an industry that is frequently described as a 'multi-industry', referring to its characteristic that for each project a large number of independent specialist organizations — ranging from professionals to businesses — have to be brought together within the framework of a temporary project organization.
+The process of assembling the project organization is akin to that of organizational design in other industrial situations. Here, as elsewhere, the central problem remains the same: how to set up an organizational and management system that will allow for the highest overall project performance to be achieved? However, to attain this, the building client needs answers to questions such as: 'does this form of organization allow the basic operations of the process to be realized more effectively than any other? ' or 'which aspects of the organization are critical for achieving the desired end product? ' Or again 'what level of performance may be expected from a particular organizational or managerial intervention?
+As yet, very little concrete information is available to a building client that could be of assistance in designing the project organization. Traditionally the building industry has opted for a generic approach to organizational design. That is, a limited number of generic prototype organizational arrangements are identified, their advantages and disadvantages based upon prior experience are listed, and the prospective building clients are encouraged to .match their requirernents and constraints with these models as closely as possible (Haviland,
+Al A, 1981; NEDO, 1985). However, a serious difficulty with this approach has been
+6193 (C) 1992 E. & P.N. spon
+Co ri ht 	Rights
+'d , tif.cd. they sutler Aron-I problcük7•; oi a {corn bifiii-ig ileins) alid over (leaving out ilCi7iS that do fit j. z. allow pad-tial evahua and ve: -v little idenlirying thosu . pa iäiculnr aspects of the which i-nav he ncuonal ( requiring rvn-joval )
+'170Tiitor11i* b. „ systeraatl'-• a ncl exha st ive ol' the deteav,iiiant.s of the Pi"OJCCt organization is necessan•
+Onlv recently have soi7,e systcü'iatic invesugations into the of projccl organuat101i starle.cl a.rticles i-eporl the : hat diffcrcnt contractua: Oli t-isks„ f'.cxibiltty and costs in bl.lildiiig projec., and Na hapict, 1 98.5 h. or the inn pal: ast-lrnck rocthods of consu•uction Oil the design of buildings ( Y al.'	sliütc'dle..s
+The presc•.nt study also 'ifs ili a to the impact of sotne orp.anrzational va bles upon the formallc•e of the Dro; ect. this studv. is constrained (actors. Firstly, since procured by i71eans of thv ional bui! ding process (as de? the 'ocUs here on this pariicu\ar way of org',iüiKinp the buildiiju Second hypoi
+CFIY'ing I his study contends thal an organized a nd building induces ipt.erorganiz.ational : jmonü ihe participatifl'& task-oruaniza! -ions and thal such conflicts inverse.lv affect the (Mohs; ni, 1 98,1 •. MCihSiiii Davidson, 1 986', Pretorius and 1 Davidsoi'l and 1987:
+1989) Starling froiii i his prenuse. the present has identified a L,cr e' organizational factors which h%lve been found (0 conflict in other industries. and iT1'.• their ijnpa_ct {he traditional indic; t f or.s of proiccl perf0fmancc in (he hi_iilding industry. nan•teåy•, the cost, time Rind
+Traditional building process
+The traditional buildine_ is defined as 'lhc desigll. orga: , of buildiiiö n•'hich have con-mc as normal pi-acl-lce over
+In any counti"Y or I eg,'.0ü. it is characterized by the % : 'ha( all oper: ytions {Ollow set participants he building operation. (: cncndenc.c on skilled craftsnnanship for of insl ructions a nd execution ol' (UN. 1 959} Most commonlv. however, this icicrs; 10 tbc practice upon perceiving ? neea for a neve facility, a building clicv."i d.. . to process to design. procure and construct a I-juilding 10 meet his/hc; - he proces• asifits of the project grouD and the group,
+The design gronp„ typically. is an orchitcct: Depending upon the the proiect at hand. it may also incli_lde ano srøccnalists such as cnginec: -s. estimators. quantity surveyors and so on. i fie principal fl_mcti0ii of this grout) is to prepar r,_: t UI the and technv.Ydl and contractual (IOCUiüCfiiS. T bc nucti0ü group. c hand. is coordinated by Ibe contractor and COiiSiStS of a hoq( sue,contractors and
+-Copyright.O.2QQ4....All.RightsR.eseved:
+suppliers/manufacturers of building materials, components, hardware and subsystems. This group is primarily responsible for the construction of the building project.
+Characteristics Q/' the traditional building process
+The organization of the traditional building process is greatly affected by the competitive tendering system and the sequential arrangement of work. Under the competitive tendering system, contractors are invited to bid for the project on the basis of documents such as scalc drawings, bills of quantities, general and particular specifications. and so on. Generally the contractor who can undertake to execute the work for the lowcst price is selected.
+The seq uential arrangement of works. on the other hand, leads to the general build-up of thc projcct organization. From the time the building client makes the initial contact with the architect/engineer to the completion of the project, a large number of task-organizations become temporarily, though not simultaneously, part or the project organization, contributing to the materialization of the project. The temporary multi-organization thus created, however, is continuously confronted with disparities between two levels of organizational objectives: The temporary objectives of the project and the organization that is set up to build it; The permanent objectives of the participating task organizations.
+"I'he first level of objectives in building projects is generally defined by the client system (i.e. the client in his/hcr socio-economic context). Various requirements and constraints are imposed upon the project jointly by the client and the cnvironment within which he/she operates and within which he she must build; the project organization is obligated to meet them. The second level of objectives includes those which are typical of all permanent organizations, namely, their survival in the market place, enhancement of their domains and their position in it, and so on. '[he architectural firms, the consulting engineers, the general and specialty contractors arc all permanent organizations in their own right and as such have their own perrnancnt organizational objectives.
+Independent organizations, however, enter voluntarily into multi-organizational arrangements only under circumstances which they perceive as conducivc to the enhancement of their organizational objectives. Accordingly, each interacting task organization has an issueoutcome interest on any given issue, that is to say, an interest in seeing that the issue is resolved in such a way that the outcome is Inost advantageous to its own organizational objectives. Where the issue-outcome interests converge, the interaction is likely to cooperatively ensure attainment of the mutually desired issue-outcome. On the othcr hand, where issue-outcome interests of the interacting task organizations diverge, their interaction generates contest processes to attain desired but mutually exclusive issue-outcomes (Tuite et al., 1972).
+The impact of the contest, however, must be put in perspective. In situations where single and independent organizations are competing for desired but exclusive issue-outcomes, such as in design competitions, the contest processes may actually be beneficial to the final outcome. On the other hand, on building projects where task-organizations have to work interdependently, the contest processes stemming from the diverging issue-outcome interests frequently lead to interorganizational conflicts and as a result have an adverse effect upon task performance.
+From this point of view, for a project organization to function successfully it is necessary for each task-organization to be able to justify its issue-outcomes from its own independent
+Determinarats of csrflici in
+I contiict, three 	01 'v'	dotrüìiiû consensus.
+access informatic,'.k ano interdependencc of tasks found to have the atLainmcnt of objet.: tives by lask-organjzatlons ( et ala, 1972: Mcyer, 1975). To test t hey alsn arrect bilildiûü thc followinp tbcorctical: /propübìtiûû?
+l . consensu: con.SCiiSUS is defined as the: for the mrmbcr.-: task-orgnïijzaiion f0ï thc ey about what the task-organization Will not do- the role : tatuons afC not arbitraçi\y or a clairn (c, tnose can provide it	Ci: lil ci particular role concept.	boui)ükiüie.s) are establishcd. they havc } .r.ining th: ' orga the vari01ts task-oreani7.ations for therr,selves. ln nroject orgavjizations tl'? adminjstrative violate the role boundargt' the objectivcs ther•c inuepe.ndeül organization,s arc a,so re _ e nd COiûSa„ confl!
+is introduced.
+ln the bui! adustry. for exan-ip!
+(dornain,s) 	and	the,i l
+Historically, these 	e	, defincd
+rukcs, that tbc design actillre and of ordinated at all stages by buildings -e pr.ocured
+a conscaueiice th.
+bounuaries within the building	frAlr,h a
+tch 	it leads to
+jurisdictional anilxgu; ttcs	• uh in 	illd uee
+situations is 	to 	credii or
+Thus it 	be assun: cd that in DF{Mcct organ;
+pan i 'c.spation, l.c. the
+. 	and clear!
+undcrstood by t! little chance
+'unsdicticnal ambigu.it_ics. (t mav also be 	t	. he increas_lng_ d{.x specielizatiori	process 	IS ne	t he 	01 iï,any	cc,fistit in the building ind	the role expectaii0i3,s can	'71 V (de.\i1Alcat-ed ? ì.S 	3 ._S 1-i•iCji'C
+closcly• matched
+
+
+
+
+
+then, the domain consensus category can be represented by two factors: The clarity of the scope of participation, and b. The degree of specialization.
+Regarding the conflict arising from these two factors, it can be proposed that [X 1] The greater the clarity of the scope of participation, the less the interorganizational conflict will be, and hence the higher the project team's performance, and [X2] The greater the degree of specialization of task-organizations, the less the deg.ree of interorganiz,ational conflict between them will be, and consequently, the higher the team's performance.
+'üilahility and access to it! formation.• It has been noted that in multi-organizational situations any obstaclc to intcrorganizational communications are conducive to conflicts because decision making which involves several indcpendent organizations presumes an exchange of information and when this exchange is unsuccessful, co-operation between them can break down (Tuite et al., 1971 ). Obstacles to exchange of information can be either because of unsuccessful transmission of information, or due to systematic blocking of information by one party in order to prejudice the other party in the achievement of its goals.
+Unsuccessful exchange of information is generally caused by systematic misunderstandings, insufficiency of information or noise. Thc inter-organizational conflicts arising due to the unsuccessful cxchange of information, however, should be regarded as pseudo conflicts because these situations in themselves need not give rise to any conflict if the parties manage to exchange information more effciently.
+Blocking of infornvation. on the other hand, can give rise to very dysfunctional conflicts. Since inforrrration is a vital resource, especially in interdependent and sequcntial perfornmncc of tasks as on building projects, where one organization's task performance may entirely depend upon the information about the preceding task, its availability can have a determining effect upon the performance of thc participants in the project. The blocking may be intentional or unintentional. For example, manufacturers of windows may withhold test data about the deterioration of the air tightness of their windows over several years of service; this is an intentional denial of information which can lead to expensive retrofit bills and result in conflict. On the other hand, a delay in relaying information by an architect may be quite unintentional but can also have detrimental effect upon the performance of other participants, also resulting in conflict.
+Thus, information can be scen as a source of interorganizational conflict leading to negative effects upon the project's performance when it is unsuccessfully exchanged, unavailable or its procurement takes excessive time. It may therefore be proposed that [X3] The greater the sufficiency of information. the less the chance of interorganization conflict will be. and hence the higher the level of the team's performance, and [X4] The greater the time needed to acquire the necessary information, the greater the chance of conflict will be, and hence the lower the level of the team's performance.
+Interdependence of tasks: This refers to the extent to which two independent organizations depend upon each other for assistance, information, compliance or other coordinative acts in the performance o! their respective tasks. Interdependence can be symmetrical or asymmetrical (i.e. both or only one of the two concerned organizations has an incentive to co-ordinate), and it can range from high to low. It has been associated with high probability of conflict and is also seen as the root cause of lower project performance and even organizational breakdowns in the building industry (Crichton, 1967).
+If the task performance of a unit depends on the task performance of other units and is accepted as such, then it is expected that the system is most likely to perform without any external controls. However, studies indicate that task interdependence, while it provides an
+upon the architectural fiFiiG .
+
+
+has little or no
+
+of the irjuepcodc.'*.'
+
+F he u 	ass'] m
+organvzal 	is orca 	it "Fill bch? ni0ine co-ooeratively by supplying
+may achieve its purpose. . acts noaA•' ceas r freq Ll.cnt\y Intcrfcrence elicits a respotlse
+In surnrnary•. of {l iCls in Ih osc situations where the re,alionshin	met fic„,
+Since seq ucr, {jal processes re I nhe ally asynmu. • •a I ( Eirsi s oil 113 1.1 1 is tlu.-• asvmrncti'ical	CO 	It 	OC asswnne,o thai where zrcatcr task intcrorganizatior,al con." -	, c. rd cpenucncc	ITiii i 1C1 1 EO P_ process vecn_nrcs that cilect ; vc	of these tasks IS 	it I-I-i ki S: DC assumed that	cf 	(and task' -ori2Q 	i 	the cha nce.s of interoruanizauonal cor,fiicts. Il may thcrcfore bc Pi 	th?
+intcrdeocr,dencc of tasks	Oi ga 	t io al condit ions, the
+
+and Quality	are adootcd	no at ternpt is 	10 pjc•cis n l'	In
+uh	fronl its
+bul mav evaluatc in- nce as ncz on its time pcrformayjce aq highly
+framework developed ca i-%cr. this i7cay be in so egesting that the iTieüSUFC. lilierdepcndeucc of organization
+perforrr,anc.e (i.e. A's cost relate 31 S performancc was highly , cd leading to in
+Thus- traditiona- indicators of pc ncc red at the for all vanao! cs in the ortse.nt st lidv. [X 70 Rcicrs to the project's ill or ( ost:
+Four building projects in the Toronto Metropolitan Area werc selected on the basis of being procured by the traditional building process, covering a wide spectrum of types, sizes and the level of technical complexity (Residcntial condominium, $22 million: Concert Hall, $39 million; Retail/Off1ce complex $61 million; Hospital Expansion, $35 million), to provide data to test the above propositions. Within these, 21 task-organizations consisting of four categories architects, consulting engineers. general and subcontractors, were asked to evaluate:
+Project conditions reflecting the concerns in the above propositions, (Example: Xl Scope of Participation
+How clearly was the scope of your participation defined?
+()n a scarc of 1 to 7, where: I — Extremely clearly, 7= Extremely unclearly.)
+The impact of these project conditions upon the cost, time and quality performance of their work.
+Please indicate to what extent the above ambiguity, if any, created uncertainties about: (a) Your cost estimates, (b) Your time estimates, (c) Your quality of work.
+For cach performance variable on a scale of I to 7, where 1 = To
+The following model (Fig. 1 ) was used to measure interorganizational conflict and its impact upon the attainment of performancc objectives.
+The data thus collected is analyscd in two steps. First, the multiple regression technique is used to regress the indepcndent variables, Xl to X6, upon each of the dependent variables cost, time and quality. In principle, the multiple regression equation is constructed to assess the simultaneous effect of several independent variables upon the dependent variable. Usually, in the general multiple regression equation, the dependent variable is seco as a linear function of Inore than one independent variable. Such a general form is expressed as:
+where Y represents the dependent variable and the Xs the independent variables. bl to lh, designated as the partial regression coefficients, are the slopes of the regression linc for each independent variable, controlling for the eflécts of the other. Thus, bl , reflects the amount of changc in Y associated with a given change in xI . holding all other variables constant. ao designates the intercept point on the Y axis for all variables, and E designates the error component. Thc interpretation of the intercept, ao , is fairly straightforward. It is the average value of Y when each independent variable equals zero. Thus, the value of the dependent variable will be equal to ao when the independent variables xI to Xk register zero. The interpretation of the slope, bk the average change in Y associatcd with a unit change in Xk, when the other variables are held constant, requires more attention. By this means of control, .it is possible to separate out the eflC'Ct of Xk itself and free it of any distorting influences by the Mohsiiii
+
+rvlcasurcnr.e.n.t Don-,am cor.ser; A' | of the X Extent of specialization iask organization:
+Performance. Measurement conststs of: _ ost per a: X8 = Time aerfocmance. X9 • performancl-•,_
+other independent variables. Such a slope .s slope, or parti? regression A . •T "hus- according to aoove rcgreas; .on. slop-• . a es that th a unit Incr,.. in the pnauniiudc of th'.- va rtablc dependent variable wo
+Finally, to assess tuc goodncqs of fit of a n-tu\up l coefficient 01 detenriination is employee. a multiü! e regressuon equation incnc,ate.s the proportion of variation in Y	For exani01e,1 — Q) 75 indicates that all of the variables, X'l to Xk , togethex aCC011fii for 75% ef the variance thc „ependcnt 1980. for a good introductovv discussion to •,nezrcssiorl analysis.]
+Obvi0i1Gay, it is desirable to have a high R 2 , for it implies a inore com,plcte explanatic» the phenomenon tinder study _ Nevecthelesy; . if a high then one coup; do it by adding inore v? r•z blC,s to the ha_t is additional variable annot lower the R 2 and it is virtuallv ccrtain to increase it at least The inclusion va-fkalr: -v, I-an s , howevcr should be zuidcd by bronde.,•• m, •orencal c.onsvaeratxons as well as by a conccrn for the efficiency of the glatistical analyqis.
+
+This brings us to the second step of the analysis, where, the three regressions are subjected to stepwise regression analysis to determine thc most significant determinants for each of the performance variables. The SYSTAT statistical package was used for all statistical analyses.
+Results and discussion
+As the effects of organizational variables (Xl-X6) upon the three performance variables are separately measurcd, the results and their discussion is also presented in three sections. Furthermore, since the focus of this paper rests upon identifying the most significant determinants of performance and evaluating their rela_tive importance rather than their predictive powers, the results are also presented in the form of standardized partial slopes (b-weights).* These estimates indicate the average deviation change in Y associated with a standard deviation change in X, when the other independent variables are held constant. The B-weights thus allow the relative values of different variables, even when measured on different scales as in the present study, to be determined and compared. Finally, as the directions of the relationships between the independent and the dependent variables is indicated a priori in the propositions, only one-tailed significance of the regression variables need to be tabulated.t
+Determinants of cost-performance
+The results of multiple and stepwise regression of the six independent variables upon cost-performance are presented in Table 1. The six variables accounted for over 81 % of the variance in the project organization's cost performance. This is a very high proportion of the total variance and the probability of it occurring due to chancc is less than 0.001. Nevertheless, it is important to note that only three variables, X3 (sufficiency of given information), X4 (time taken to procure further information), and X5 (Task's dependence upon others) have statistically significant impact upon the cost-performance in the traditional building process.
+In terms of relative importance, the two independent variables comprising the 'domain consensus' (Xl + X2) are the least important organizational factors as far as the projects' cost-performance is concerned. The projects' two variables jointly account for only 8.1 % of the total variance.
+The 'interdependence of tasks' group (X5 -h X6) accounts for 17.1 % of variance; however, X5 ('tasks' dependence upon others') alone accounts for 15% and therefore can bc considered to be a significant determinant of cost performance. The variables representing the 'Availability and access to information' (X3 + X4), on the other hand, account for over 55 0 of variance (X3 = 27.1, X4=28.1) and hence are the most significant variables.
+It is obvious that with half of the variables in the model being insignificant, it is not a very efficient model. The stepwise regression removes the three insignificant variables — Xl, X2 and X6 — from the model and re-evaluates the impact of the remaining three variables.
+*A standard score is a standard deviation score. If deviations from the mean, .x= X X, are divided by the standard deviation of the set of scores, s, standard scores are obtained.
+$1n propositions where no direction or the relationship between the independent variables and the dependent variable is given, cwo-tailed significance values must be computed.
+MohsiFi and l)evid€on
+Clarity of scope of participation
+Availability 'lccess to information
+Sufficiency of information
+Extent of cn -ordination required
+ANOVA Rcgu)t in Appendix I
+Notice thai with {hr help ol' A'S, X4. and X5 go or •. n Ibe cost pertea-ntancc can still bc accounted for. The two inform2tio.n variables now over 62% (X/ = suiiic: encv of given informatien--= 30.1 1 %). time takcn to procure further inrorjnation— 0 thc vanancc and the 'tasks' dcpcndcf"ce epon others' (YÄ ), the loss in the explanatory e! thc new  is moa than compensated for bv its cflicienc.y.
+It is clear from this analysis that in the traditional building process higher pcrformancc is vcry sigmjicant}y clcpendcnt upon the  of and speedy access to needed Information. and that greater interdependcnce of tasks oerformed by different organizations has a performance lowcring effect
+co ri ht.o.2Q01. . % Righ. 	tsReseved
+Results of the impact of six organizational variables are tabulated in Table 2. The six variables jointly account for 74.1 % of the variance in the projcct organization's timeperformance. Again, the size and the significance of the variancc (p =0.002) indicates that the
+Determinants of time-performance
+Clarity of scope of participation
+Sufliciency of information
+0.201 •rime required Ito procure further information I'ask interdependence
+Extent of co-ordination req ui red
+ANOVA Results in Appendix 2.
+selected organizational variables are very well able to explain the variation in time performance in the traditional building process. It is important to note that while the costperformance was predominantly influenced by the information variables, time performance is by all three categories of variables. The information variables still account for over 40% of the variance. but the others 'domain consensus' (13.5%) and 'interdependence'
+fare o tiite	of tasks). as predicted. is ncgatively corre! alcd with time Jk-fornv_! of .-oject, the fact A
+(extent c,. also correiated 'A'! th swrpu-islng result. It scct•ns to suggcs: (very ho' result is statistic: • not significant end therefore have to chance. ! coof tasks in the traditiona, buildin„ process has an performancc t -ie task-oe-ganizations. . variab! es undevs'....availi d'.e unsuitability of the trauitional budding. prc,ccSR for projects ' interdependence of tasks is cxn-„ctcd.
+Thc also inc varva three In the At a loss of 2 0 n in accounting for valiance, four dctctiiiiiiants of titne pecformalice are identified They arc: ot the of 'sufficiency cn given inform; _. tilt'. 'Iken to procure
+(X4 — I R 8 0 0 ) , and 'tasks' upon othci•s ( X_S — • Whilc the import-ance DI' availability and Of ? lCCe.S.S (O IS S inclusion of Xl as signincanl dtncüü\iiai-n the negative direction of X5 are discussion.
+In a truly traditional building process, thc cl•afity of the scope or parlicipaii0Fi ih'0111d not probdbiv b, significant	as all the. pa  are expected to kli0W tne.ced know 	is expec,ee.	them. That A" I (clan ty of t he scope pa •c: acipation ) reu; sters sign "tu: iiüt	•,e.. iüi-nnance 	signals Il-cat 	the traditional t-njiådlnv oroccss as	no longer assunqe: thal evccvonc k iiovs: s what he or she is v_xpectcd to do. •I his 	be a result of the connp\•	of 	proiccls wh.erc a large number 	i: contribtite and are nol preciselv delineated _ That these uncertainties do not 	as ajicætiilg the cost.pcrf0fiTia_ncc is probably attributae.'..	o the 	ncc	r lum D-Siliäi coni facts t hat underlic the traditional c aiionship bet! .vec	others' and hand, could Inc 	to 1110' casuitability of the building process for large and COiTrP.•v .	as the traditional	process cha	lacks a sine! c co-nrdiliatlng a	ndate to building project.
+r he results of rnuliip: e and sicou•isc regres of the orsrcitll/.ätional variat)les the q lii Two asoccts arc lately rjotlc•eaunc
+also reflected in thc	()38 for t fic tncans t! ', -afi '- l selected va-fiabkc: s do not completely cxplaiü thc quality-pet'iormanre arid that
+The sccono •anportanl aspect of the res
+
+of per.fornzance
+Detcrminants of quality pcrformance
+Clarity of scopc of participation
+Availability access to information
+Sufficiency of information
+Time required to procure further information
+Tasks' dependence upon others
+Extent of co-ordination rcq uired
+ANOVA Results in Appendix 3.
+decisions to the quality-performance. The inclusion of X2 (extent of specialization) and A'3 (sufficiency of information) but not of X4 (time required to procure more information) suggests that the quality-performance is primarily aflécted by the earliest layouts of the process. In other words. if highly qualified task-organizations are selected and provided with sufficient information about their tasks, then high quality-performance would result. That such highly specialized task-organizations' work also needs to be integrated by some overall co-ordinative mechanism — a characteristic absent in the traditional building process evident in the inclusion of X5 as the most important determinant of quality-performance. It suggests here, just as for cost and time performances, that the high interdependence of tasks in the traditional building process is highly dysfunctional to the quality performance.
+An aggrcg_ation of the above rev, . Int crestliig IMitteiTi is presenied in k*'irslly, the results iiidica.tt that level the aggrepate the traditional building proccss IS ad K by two factocs.
+ntormation, and 2 	he e.xtcni of tasks' interdependence I t is Imgjovtanl to note. howr evc. . L	incrent partici n ts
+(he Bl.lildir,g orocess. T hect is evidence and Mohsmi. 1 0 9()) thal whik_: 'he frontC]'id. design-related, task-orea h rive upon Inorc Inn.
+do not. the second vai'ia h i i iiterdepeae.ei-,ce of t ask s reiatcd project It ords. that the traditional billi(iinp process without ccntral liltegrallnp is suita ble for largc and e.ovnpJcx building orojects.
+Beyond the the results sugge,t in-ipo ot is gcrcil specific. If the cost eiiiUicncv is hc_ svstenaa lie inforvnat; on nvanagcmcnt ( .\'3 and ) and a good in leri{tcc syr slefii ll.st be Cacv: sed. imc ciTicicncv. on the othc; • hand. rccuirt.'s I addition to the required for cost control. tae procr,.hi.s a iso ha ve u defined
+And, finallv. if qila_lity considerati0ki< ai-e the c of specialization by the task organizations is the
+can be from thena a: tempts are 10 ! raditional p f irstlv, as innovative techniQl.l.• of building. and nove l.
+accompaliY chem.	the rcq	(reiiiexnoer lhc
+UN.ECE definition of buildinp. anoteo and acc,css to inforn'lation will even tnore pronou• emer2i1iE procurv processes. A systemafijc effort a prerequisite for successful int rod [Lcil('• afinnovation eh an ze :
+Secondly, a practical level. negative irnpa.c' of 'taqk i
+Copyright 	.
+where design and manufacture is under a common responsibility, or where the use of complex components and assemblies has eliminated Inany on-site operations the interdependencc between the task organizations is already a less prominent factor. In other instances where these conditions do not exist. careful integrative and co-ordinative mechanisms must be created.
+Thirdly, the importance of specialists should not be ignored. As the building industry is moving into an era of rapid absorption of innovations and has to deal with increasing demands of higher quality, the importance of the degrec of specialization as a determinant of performancc is likely to increase. Thus, we appear to have a blue-print for innovation and change in the traditional building process, where information (its quality and availability, along with process aggregation and greater specialist intervention) can lead to improved time cost and quality performance.

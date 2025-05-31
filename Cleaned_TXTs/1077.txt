@@ -1,0 +1,113 @@
+﻿Construction Management and Economics, 1991, 9, 97—112
+An agenda for cost modelling research
+Design Computing Unit, Department ofArchitectural and Design Science, University of Sydney, New South Wales 2006, Australia
+There is little order or formal direction to current cost modelling research. This paper proposes a basic classification system with which both to set out the overall topology ofcost modelling as a distinct subject, and to provide the much needed points of reference on which individual research contributions can be located. The taxonomy is used to review over 50 reported cost models. The analysis ofthis review highlights that current emphasis lies with non-specific, macro, price models which use abstract units ofmeasurement, and are intended to be used at the sketch design stage. These models generally use simulation techniques based on functional dependencies, with implicit assumptions and a deterministic outcome. On current trends, the preferred models of the future will use as-built units of measurement, and make considerably more use ofstochastic techniques. One criteriafor which there appearsfar too little concern, is in making the assumptions within the model more explicit.
+Cost modelling, research, classification, review
+Introduction
+The human is a neat and tidy world-builder. There is a need in everything we do for some order and purpose (what Katz, 1986, refers to as a 'pattern'), otherwise our mind will begin to reject it. Where is the pattern in current cost modelling research ? On what common structure are those consigned with understanding cost modelling, both as a science (theory) and a technology (practice), supposed to orientate their creative thinking?
+This paper is an attempt to identify an appropriate pattern from the mist of current research activities. It is intended to proffer a framework of pegs which both set out the overall topology of cost modelling as a subject, and provide the points of reference on which individual research contributions can be located. It is in this sense an ambitious undertaking. The pattern being proposed will undoubtedly need to change over time. The point of an agenda, however, is not to act as a straight-jacket, but as a way of promoting a more ordered progress.
+Previous agenda
+Previous authors have recognized the need for some kind of structure and direction for cost modelling research. Some have produced position papers in this regard. (It should be noted,
+0144-6193/91 $03.00+.12 0 1991 E. & F.N. spon Ltd.
+however, that the particular aspect of 'structure' may not have been the singular regard of each paper.) Because the proposed agenda draws from those papers, and because their different perspectives might tend to blur some of the issues, some key position papers will be reviewed first.
+The subject of building cost modelling became demonstrably of age with the Building Cost Research Conference held at Portsmouth Polytechnic in September 1982. In the editorial to the conference proceedings Brandon (1982) addressed the need for some research direction, calling for what he termed (after Kuhn, 1970) a paradigm shift.
+Brandon argued for 'a more substantial body of theory, and better models, upon which to base our practice'. The case was made that progress had 'arisen largely from the refinement of current models', built on an unsatisfactory collection of theory. A shift away from current models was called for, representing a fundamental change in the nature of cost models. The impetus for the shift would come from advances in the various computer technologies, the goal being a more widespread application of 'realistic' simulation techniques.
+Without establishing a specific agenda for future research, the paper does act as an emergency flare; to draw attention to an impending problem and floodlight a potentially fruitful direction of response. It falls short both of describing the limitations of the existing paradigm (compare this, however, with Ferry and Brandon, 1980), and ofconsidering in any real depth a possible replacement.
+Bowen and Edwards (1985)
+The two shortcomings in Brandon's paper stimulated a response paper by Bowen and Edwards (1985). Their much fuller consideration of the existing paradigm concluded that its strengths lay in being structured to parallel the design process, and being relatively easy to understand and follow. It 'may begin with a relatively crude model such as the rate per m progress through the ascending order of the elemental cost planning system; and conclude with the quantity surveyor's pricing of the bills of quantities'. What the authors considered a predominantly 'historical-deterministic' approach.
+The so-called 'new' paradigm was seen as evolving through such mathematically-based techniques as regression (termed 'inferential-relational' methods), towards a concept of 'stochastic simulation'. The goal being 'to incorporate more explicit considerations of the uncertainty and variability' in cost estimating. Expert systems were considered as the key to stochastic simulation.
+Raftery (1984)
+In an alternative approach, an attempt was made by Raftery (1984) to produce a conceptual framework for the assessment of model performance. From an essentially 'systems' point of view, models were defined in terms of their data, data/model interface, model technique, interpretation of output, and decision making process. Later the framework was used to describe a selection of cost modelling approaches (Raftery, 1987). Unfortunately, while the framework establishes useful criteria (the basis on which a particular model might be judged), it fails to give any specific guidance on what possibilities exist within each
+It is left to the individual to determine how data, data/model interfaces, etc., might be classified. The descriptive power of this approach is thereby limited when placed in the context of an overall paradigm.
+Just how disadvantaged cost modelling research has been, by having no formal means of describing one cost model relative to another, is highlighted in a paper by Skitmore (1988). In this paper Skitmore examines the current state of research in bidding. (Arguably bidding should be a subset of cost modelling, but in reality it tends to be kept separate and distinct.) The range of descriptive primitives available in that domain is well established. (A 'descriptive primitive' is some generally accepted label or term.) Using such a base, the existing paradigm can be better described, and targets for future research are more easily determined.
+On the other hand, what we have summarized in the first two papers (and these are fairly representative) are agendas which focus too closely on individual techniques and systems. (The unfortunate trend towards a 'technique-bound' problem domain has been discussed elsewhere — see for example Newton, 1987.) Regardless of how appropriate an individual technique or approach might actually be, its supporting argument is considerably diluted when the technique is presented as a paradigm within itself. Individual techniques, a paradigm do not make.
+In fairness, authors have had little room to manoeuvre. The only descriptive primitives available to them, have been the labels given to particular techniques and systems. This has had a stultifying effect on cost modelling research. Without some means of describing cost modelling in an abstract, or commonly recognized way, the only recourse possible is to adopt the language of a specific technique, or invent some set of temporary labels. Naturally, over the course of time certain, more abstract descriptors have evolved. Terms such as deterministic, or inferential, for example. However, there has been no previously published attempt to combine or relate these primitives as a general classification for cost modelling. Such is the intention of this paper.
+The descriptive primitives being proposed in this paper are the 'pegs' referred to in the introduction. They are intended to give some formal basis to the way in which alternative approaches to cost modelling might be classified.
+For the purposes of this paper, the descriptive primitives are categorized under the following nine headings:
+(1) Relevance — whether it relates to a specific design proposal.
+(2) Units — the units of measurement.
+(3) Cost/price — how the model is intended to be used.
+(4) Approach — the level at which modelling is applied.
+(5) Time-point — when during the design process it is applied.
+(7) Technique — the specific classification.
+(8) Assumptions — whether they can they be accessed or not.
+(9) Uncertainty — how it is treated.
+These nine criteria are used to classify alternative approaches to cost modelling, and are described in more detail below. In addition, importantly, a basic taxonomy of classifications for each criteria is also presented in the headings, following the form 'criteria (classifications)'.
+This describes whether the cost data being used are intended to relate specifically to an individual project, or to be more descriptive of some 'standard' proposal. It provides some judgemental feature which helps the model builder/user to evaluate the robustness of the model.
+All cost data are based on historical information of some sort, and are therefore arguably to some degree non-specific. However, there is an important distinction between cost data generated for an actual design proposal, and cost data generated for some characteristic design proposal. In the former case, design would have progressed past a description in generic terms, such as omce, high quality, cladded external walls, stud partitions, and so on.
+Thus the data criteria speak largely of the transition from adopting general design descriptions, to the quantification of a particular and uniquely distinguishable proposal. They indicate, in broad terms, the general level of design detail at which the model operates.
+Units (abstract, finished work, as-built)
+These describe whether the units of measurement which the user enters are abstract descriptors, units of finished work, or units which describe the actual construction process.
+An abstract descriptor would use something like cost per student place, number of hospital wards or cost per m 2 of restaurant. It does not deal with a tangible building product. The constituents of student place, hospital ward or restaurant are rarely completely defined.
+Units of finished work are those which cost in terms of the items left behind when construction is complete. It is the original bill of quantities approach. Cost is equated directly to the final product: area of external wall, number of windows, and so on. Temporary items, such as scaffolding, large items of plant, etc., are deemed to be included.
+As-built refers to operations as they occur on-site. Thus the costing structure would follow such activities as might appear on a construction programme: raising brickwork to the damp proof course, dismantling and removal from site of the tower crane, and so on.
+This describes whether the estimate produced is intended as a basic cost, or a basic cost plus mark-up.
+The bidding process is usually held to comprise two stages:
+(1) the basic cost estimate — which is intended to establish the cost to the builder.
+(2) the mark-up — which is an amount added to the basic cost to cover items such as overheads, profit and variations in market conditions.
+The basic cost and mark-up together comprise the bid price. Because of the added complexities of estimating potential mark-up, certain models target solely on the basic cost.
+Not all models are intended to address an estimate in its totality, at the macro level. Certain models target at the micro level of an individual cost element, such as external walls, tower crane or lift installation. There are considerable differences in approach, and philosophy, between the two alternative views.
+Time-point (feasibility, sketch, detailed, tender, throughout, non-construction)
+To a certain degree, this reflects the criteria on data. As the requirements of the model move from non-specific to specific project data, so the application of the model must generally come later in the design process.
+The classification within this criteria comes largely from the RIBA Plan of Work (RIBA, 1967). In addition, however, some models are intended for use throughout the design process, and others are non-construction related. The non-construction related cost models come principally from the chemical and industrial engineering fields, and tend to have less relevance to design problems in the building arena.
+This particular classification of models is non-standard — for a more detailed explanation, see Newton (1988).
+The simulation model provides only a formal representation of how a particular problem might be structured. (In this sense, structure refers to how the problem is conceptualized in terms of problem boundary, the variables considered, and the inter-relationships between variables.) The better a problem is understood, the 'more' it can be simulated. The user provides a set of inputs, and has then to evaluate the outcome based on a range of other considerations.
+As more of the problem is understood, however, and the model contains more and more of the linkages between variables, so also does the use of the model become largely mechanical. For a range of starting values, the model is capable of generating an entire collection of potential solutions. In effect, the model both simulates the structure of the problem, and provides a range of alternative candidate solutions. Note, that in this sense, the technique of Monte Carlo Simulation would be classified as a 'generation' model because it 'proposes' many, many candidate solutions.
+It is usual that when a candidate solution to some problem is evaluated, it is compared with other candidate solutions to establish if it is in some way 'better'. An extension of this would suggest that when there exists a large number of candidate solutions, some will indeed be better than others. Further, there is likely to be one, or at least a much smaller subset, which can be described as the best, or optimum solution. Optimization models are those which seek to identify, from a set of candidate solutions, that which best fits some given criteria (Wilson, 1987).
+Naturally, the intention of any model would be to promote the best solution. This, however, is informal optimization. In the formal modelling sense, simulation represents the structure of a problem, generation also produces a set of candidate solutions, optimization also evaluates the set of solutions.
+Within the general classification of model, there are a variety of techniques applied. Those considered here include:
+(2) Expert systems (Lansdown, 1982)
+(3) Functional dependency (Newton and Logan, 1988)
+(4) Linear programming (Cohen, 1985)
+(5) Manual — where the model is applied manually
+(7) Networks (Harris and McCaffer, 1977)
+(8) Regression analysis (Bathurst and Butler, 1977).
+A model carries with it considerable baggage. Baggage in the sense of a set of assumptions about problem boundaries, about what is or is not significant, about how the user might best conceptualize the problem. The more a model is expected to analyse, evaluate and appraise, the more critical it becomes that users have access to, and appreciate (in order to question and understand), those assumptions.
+Where the assumptions are built into a model, as computer coding or unstated assumptions, that critical access is denied. Certain technologies, such as spreadsheets or expert systems, enable assumptions to be made more explicit. One alternative is extensive documentation, such as in the case of the BLCC model (Petersen, 1984).
+Uncertainty (deterministic, stochastic)
+The nature of cost is known to be uncertain. The only question is whether that uncertainty is best formally assessed in the model, or dealt with intuitively by the user.
+The classification here distinguishes between those models without a formal measure of uncertainty (deterministic) and those with (stochastic). Formal measures of uncertainty may be such metrics as the associated coemcient of variation (as in regression analysis) or the cumulative frequency distribution (as in Monte Carlo simulation)
+Using the descriptive primitives proposed above, it is possible to review the literature on cost modelling research to date (i.e. the beginning of 1989). The review is arranged in chronological order, and classified on this author's own interpretation of the individual models. (Note: for those less familiar with the full range of literature, a thumbnail description of each model included in the review is provided with its citation in the references section at the end of this paper.)
+The review is not intended to be exhaustive of every cost model ever proposed. Especially c 20öh .
+in the engineering fields, a variety of cost models have been developed, but are considered of limited relevance to building construction. Further exclusions include models where capital cost is but one consideration, such as life-cycle costing, value engineering and time management. Similarly, most bidding models have been excluded to maintain some degree of generality (see alternatively Skitmore, 1988). Finally, purely conceptual models of cost have also been excluded — the papers reviewed all describe some tangible product. Making these exclusions here, does not preclude their inclusion in some later system of classification.
+The review uses the following, highlighted abbreviations of the descriptive primitives:
+— Non-specific
+
+— Finished work
+
+
+— Throughout
+— Non-Construction
+— Dynamic Programming
+Uncertainty
+Gould (1970)
+Braby (1975)	 F	S	Reg	1	s
+Wilson and Templeman (1976)		S o 	I D
+Moore and Brandon (1979)
+Russell and Choudhary (1980)
+
+Powell and Chisnall (1981)
+Holes and Thomas (1982)
+Wilson (1982)
+Newton (1983)
+Sidwell and Wootton (1984)
+
+
+Berny and Howes (1987)
+
+The review of cost models is summarized in Figs 1—9. These graphs indicate clearly where the emphasis has lain in cost modelling research to date. No doubt there has been good reason for this particular pattern. It remains to consider if certain aspects might provide more fruitful grounds for research in the future.
+Cost/price	Fig. 4.
+The relative weightings illustrated in Figs 1—9 indicate that the most likely cost model is currently one which applies non-specific data; using abstract units of measurement; prices the project; at the macro level; applied at sketch design; using a simulation model; based on functional dependencies; with implicit assumptions; and a deterministic outcome (N A P Ma S S Func I D). (It transpires that actually only one model matches this classification completely.)
+There is nothing to suggest that the most likely classification is necessarily also the preferred approach. Indeed on current trends, the preferred models of the future will use as-
+Assumptions	Fig. 9. Uncertainty
+built units of measurement, and make considerably more use of stochastic techniques. (See Fig. 10 for an analysis of the popularity of techniques over time.)
+It is the author's opinion that the existing focus on non-specific, price models, at the macro level, is well founded. As the cost problem is better understood there will be a natural drift from simulation towards optimization models, and this will reflect in the choice of formal techniques.
+The criteria for which there appears far too little concern, is in making the assumptions explicit. At this stage in the development of cost modelling research it is critical that model builders begin to focus on the various assumptions being made. Focus should be made on the tangible assumptions, such as the functions used to link rate to quantity. Perhaps more importantly, focus on the inherent assumptions about model validity, links between cost and other measures of design performance, professional liability, and so on.
+The agenda for future research in cost modelling is thus structured around the descriptive primitives proposed above. The review highlights where current emphasis lies, and where a potential switch in focus might be made. Moves to achieve certain of those switches are already evident. Conversely, for others, there would appear little justification in promoting change. There is reason for some concern that basic assumptions remain largely implicit.
+Concluding remarks
+Each of the cost models reviewed in this paper have proven diffcult in some way to classify under one primitive rather than another — the primitives undoubtedly fall short of being mutually exclusive. In other ways, one might argue for a further expansion in the available primitives, better to describe each model uniquely. For the present, however, such issues are considered incidental.
+There is often a thin line between a supporting framework and one which overly restricts expression. The descriptive primitives proposed in this paper are intended to act as a supporting framework; to give some order to the way in which we classify and talk about cost
+Functional/
+Cases of particular techniques, analysed over time
+It may be only one of the many possible ways in which to classify cost models; but it is intended, at least, to set the ball rolling.
+The formative work for this paper was undertaken during a Visiting Senior Research Fellowship at the University of Technology, Sydney. The author wishes also to thank Brian Atkin, Peter Brandon, Peter Edwards, Denny McGeorge, John Raftery and Martin Skitmore for their comments on earlier drafts for this paper.

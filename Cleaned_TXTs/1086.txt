@@ -1,0 +1,123 @@
+﻿Construction Management and Economics, 1990, 8, 301—313
+An evaluation of the relationships between bricklayers' motivation and productivity
+Department of Civil Engineering, Loughborough University of Technology, Loughborough LEI 1 3TU, UK
+Before a theory ofconstruction operative motivation can be proposed it is imperative that the relationship between motivation and productivity is established. This paper describes investigations aimed at establishing this relationship with particular reference to bricklayers. The investigations revealed that there is an element ofmotivation in every bricklayer regardless ofhis working environment and also confirm the nineteenth century optimal motivation theory by Yerkes and Dodson. No relationship was found between motivation and work rate but motivation has a significant influence on the proportion of working time bricklayers spend productively.
+Motivation, productivity, bricklayers, motivators, demotivators
+Introduction
+Reconstruction necessary after the Second World War, resulted in a surge in construction activities throughout the United Kingdom. To cope with this surge, several incentive schemes were devised. These incentive schemes were used to stimulate greater production from the operatives. However, after a short while, observations showed that these incentive schemes were not effective. At best they worked only when newly introduced and as stated by Herzberg they were merely 'kicks in the ass' in the motivation process.1
+Construction practitioners' understanding and application of the motivation concept has remained largely the same; new schemes are being devised in a seemingly endless continuum. On the average, construction firms in the UK change or review their incentive schemes every 2 years. 2 Could the ineffectiveness of these incentive schemes not have been due to a lack of empirical establishment of the relationship between motivation and productivity? Mcfillen and Maloney, in their investigation into construction operative motivation in the US, found that some of the preconceived relationships between motivation and performance do not hold when empirically tested. 3 Had there been an empirical confirmation of these relationships, it would have been possible to devise a more responsive system to motivating construction operatives. Management would have known how much attention to direct to the subject. It is this omission that is the main stimulus for this investigation. Other reasons abound for evaluating the operative motivation concept at this point in time.
+The construction industry's fortunes fluctuate with that of the general economy. Its organizational patterns change with time, and at times become so varied that they are
+* Present address: School of Construction, Engineering and Technology, Wolverhampton Polytechnic, Wulfruna, Wolverhampton, UK.
+0144-6193/90 S03.00+.12 C 1990 E. & F.N. spon Ltd.
+diffcult to comprehend. Few people would disagree that the variety of organizational patterns in the industry are the results of a changing socioeconomic environment. One of the most apparent changes in the industry today is the move away from directly employed labour to subcontract labour with a subsequent decline of the influence of trade unions. This has changed the loyalty base of the operatives and could consequently have changed the relative importance of the different motivating variables. It would therefore be erroneous to devise new incentive schemes based on old assumptions. This new working environment needs to be evaluated and motivation patterns checked for congruence with old assumptions.
+The current shortage of skilled manpower is posing problems of coping with the full workload that most construction firms now have. 4 One may ask, what is the link between skill shortage and motivation? Because of the organizational change mentioned above, the training function by main contractors has been neglected. The subcontractors who would have been expected to take it up have not. Coupled with the exodus of traditional craftsmen from the industry because of the recession of the 1970s, it is not surprising that the industry now lacks the adequate number of men to do its work. The level of traditional apprenticeships has fallen too low to meet today's requirements. 5 Because of the lack of skilled men, those remaining need to be retained and one way of doing this is to use our knowledge of what motivates them.
+Construction operative motivation literature is replete with an identification of the levels of importance of different motivation variables. While this has been very necessary, more insight into the attitudes ofconstruction operatives would have been achieved by an in-depth study of the relationship between motivation and productivity. These and other reasons made it urgent to evaluate construction operative motivation with a view to understanding its salient characteristics and relationship with productivity.
+The decision to focus on bricklaying in preference to other trades lies in the predominance of bricks as one of the main construction materials in the UK. A bulk of construction manpower still goes into bricklaying as it remains highly labour-intensive. While the need for a more comprehensive study across all construction trades is recognized, 'a step at a time' approach is needed if past mistakes are not to be repeated; hence this investigation was specifically designed to be exploratory.
+The investigation
+Studies which could have been of immense value to construction operative management have had their value eroded by many limitations or too much dependence on subjective measures of motivational situations by the operatives. For example, Borcherding's studies concentrated only on productive workers,6 while investigations by Mcfillen and Maloney (1988), though sound in methodology, rely too much on a self-evaluating technique to measure the impact and interrelationships between motivation, quality, effort and performance. 7 The approach taken in this research recognizes that these deficiencies could produce biased results. Therefore, two techniques were combined — one objective, the other subjective — using a random population of 157 bricklayers on 12 sites in the United Kingdom. Let us now describe these techniques.
+An attempt at determining the relationship between two variables is an attempt at modelling. If we define a model as an imitation of a real-life situation which makes it possible to simulate the life situation, it would be necessary to know how the real-life situation works of
+(in our situation, how a bricklayer works on site in a working day, what he achieves and the drive behind the achievement, i.e. motivation). To do this, one needs to record what he does, how he does it and probably why he does it in a particular way or at a certain rate. This will provide a detailed account of how he spends his working day and the production level attained (or attainable) at the end of the day.
+This was done with the aid of a computer-aided activity sampling package developed at Loughborough University. 8 Activity sampling was used to quantify the proportion of the working day spent in four broad classifications of the working day (see Fig. 1). The four classes are 'Productive Time', 'Unproductive Time', 'Auxiliary Time' and 'Supervision Time'. All of the 157 bricklayers were activity sampled on their respective sites. Activity sampling observations in each classification of the working day were converted into percentages of the total number of observations taken in all classes. Production outputs over the whole observation period were also recorded. With the knowledge of how workers spend their working day and their actual production output, it became possible to have scientifically based measures of the rate of production, percentage productive time, percentage unproductive time, percentage auxiliary and percentage supervison time.
+Classification of construction working day
+An operative questionnaire survey helped in collecting information for quantifying motivation based on technique which derives from the Newman and Morganen9 subjective equation of motivation. The equation states:
+As conceived by Newman and Morganen, the strength of SEU (the subjective expected utility) is equivalent to the summation of the degree of probability of the different motivational tendencies in an individual. This is the basis of the expectancy theory. On this basis, SEU can be interpreted as a measure of the total motivation content in an individual at a particular time in a certain environment.
+In this research the strength of each component of motivation depends on the product of the subjective importance (P) of that variable and the subjective level of gratification (U) of that component. The motivating variables on British sites have been earlier identified by Olomolaiye and Price 10 (see Table 1 for these variables).
+Motivating and demotivating variables used for data collection
+Good relations with mates
+The work itself
+Level of pay
+Recognition on the job
+Accurate description of work
+Good supervision
+
+Job security
+Choosing workmates
+Disrespect by supervisor
+Little accomplishment
+Discontinuity of work
+Incompetent workmate
+Poor inspection programme
+Hot weather
+Cold weather
+Not enough work
+Borrowing a leaf from the Michigan Organizational Assessment Rating Techniques, 1 1 P and U in the above equation were assessed in four and three rating zones, respectively. If in a particular variable an operative rated P with high value (4) and U with a medium value (2), his total score in the variable would be 8. This is converted into relative index by dividing this score by the total score obtainable; very high (4) x high (3) which is 12. The relative index for this operative will therefore be 0.66 (8 divided by 12).
+A simple addition of the scores in each variable is indicative of an operative's motivation content at that time and in that environment. However, because not all the variables identified will be relevant to every operative, a relative motivation index was devised; in which an operative's total score is converted to a proportion of achievable score in his relevant variables (see example in Table 2).
+
+Good relations with mates
+The work itself
+Level of pay
+Recognition on the job
+Good supervision
+
+Job security
+Disrespect by supervisor Little accomplishment
+Discontinuity of work
+Non-recognition of effort
+Incompetent workmate
+Poor inspection programme
+Hot weather
+Cold weather
+Total summation of PiUi attainable = number of relevant motivators x 3 x 4= 14 x 3 x 	168
+Attained summation of Pi U. 	75
+Motivation index —	— = 0.45
+Attainable summation of PiUi ¯ 168
+Attained summation of P U 	44
+Demotivation index —	= 0.33
+Attainable summation of P U ¯ 132
+Total motivation = Motivation index— —Demotivation index = 0.78
+Since we construe motivation not only as a function of motivating variables but also demotivating variables, a relative demotivation index was devised for each operative following the quantifying procedure just described. An index of total motivation, the total motivation index, is derived by deducting the demotivation index from the motivation index. In mathematical terms the total motivation in an operative can be expressed as:
+
+P m = importance ratings of each motivating variable,
+Um = gratification ratings of each motivating variable,
+Pd = importance ratings of each demotivating variable,
+Ud = gratification ratings of each demotivating variable,
+Umax = maximum gratification rating,
+Nm = number of relevant motivating variables,
+Each of the indices above (motivating index, demotivating index and total motivation index) have values ranging from 0 to 1. Because these indices are proportions, comparative analysis becomes easy. These indices originate from an interval scale (i.e. no true zero) which has been found adequate in analysing psychological variables. 3 Converting them into relative indices, which are ordinal scales, puts them on a continuous scale which makes comparison easier.
+To construct productivity indices we use the emciency eq uation which is widely recognized as the measure of productivity.
+Output in this investigation is the number of bricks laid and input is the time spent by the bricklayer to produce this output. The time input as earlier explained is classified under four main sub-headings (Productive Time, Unproductive Time, Supervision Time and Extra Break). Unproductive time is subdivided into idle time and time spent on auxiliary activities (see Olomolaiye 2 for a full discussion of these time classifications). The productivity equation can have any of these time classifications as the denominator but the most reasonable denominator is productive time. The reason for this being that it is the actual time spent working that influences output. This will measure the ability of the worker to convert this portion of the day into physical outputs. In this investigation each time classification is related to motivation; the total time spent working and the productive portion being different denominators of the productivity equation above.
+The relationships
+Correlation analysis was done to test the strength of linear dependency between the different working day classifications, the two measures of productivity, the motivating indices, demotivating indices and the total motivation content indices. Table 3 shows the correlation matrix, with the significant relationships (at 95%) asterisked (* ) as the basis of our discussion.
+There is no significant relationship between any of the two productivity measures and any of the motivation-related indices (see Table 3). This is rather surprising. The measure of productivity in relation to the total time spent is less related than the second measure, which uses productive time as the denominator. An inference can be drawn about the nature of these two measures — they are simply measures of the rate of production, i.e. bricks laid per minute. Motivation does not influence the rate of working. What influences or determines how fast a worker produces is more a function of his skill and equipment.
+The most significant positive relationship is between motivating indices and percentage productive time with a correlation coemcient of 0.455 and a logical negative relationship —0.513) with percentage unproductive time. The higher significant relationship with unproductive time signifies that motivation has a higher bearing in reducing percentage productive time than it does with increasing percentage productive time. Its relationship with the two classes of unproductive time logically follow the general relationship with unproductive time. With polynomial and logarithmic transformations, the strength of these relationships become firmer, reinforcing the base of the relationships (see Figs 2 to 7 for these
+relationships). The third-order polynomial relationship between percentage productive time and motivation is of the form:
+Y = Percentage productive time
+X = Motivation index
+The coeffcient of correlation R improves with a normal logarithmic transformation of the entire data to 0.68. The equation of the relationships then becomes:
+From Figs 2 and 3 it is clear that there is an amount of motivation in the workers regardless of the situation on any of the sites. Based on this observation it can be said that every bricklayer has a little amount of motivation in him regardless of site. This is in line with literature on the subject, especially with McGregor's theory Y 12 proposition that human individuals like to work. As motivation rises from this base, the percentage productive time rises steeply before optimizing on a plateau confirming Yerkes and Dodson's nineteenth-century conception of optimal motivation.13
+There is no significant relationships between the demotivation indices and percentage productive time or percentage unproductive time. The total motivation content is only barely significantly related to productive and unproductive time, which shows that motivation is not simply a straightforward deduction of demotivation from motivation. The relationship is more complex than that.
+Relationship between motivation and % productive time
+% Productive time increases with motivation until it stabilizes at about 70% motivation level
+
+Relationship between motivation and % unproductive time
+% Unproductive time decreases with increases in motivation. The relationship is not linear
+Relationship between motivation and % idle time
+% Working time spent idly decreases with increasing motivation
+Relationship between motivation and % auxilary time
+Time spent on auxiliary activities decreases with increasing motivation. This shows that bricklayers can omit some of them and still get the work done if well motivated. They may decide to spend unnecessary lengths of time on them just to give the impression that they are working if not well motivated
+From the correlation matrix in Table 3, it is clear that the main variable of real and consistent significance to production is the motivating index. Where the motivating variables are positively activated, they override the influence of the demotivating variables. This is demonstrated in Fig. 6 with the demotivating index declining as the motivating index increases. This observation contradicts the norm in construction operative motivation literature, 14 where the emphasis has been on first removing the demotivators before applying motivators.
+As revealed by the analysis above, motivation is not significantly related to the rate of production. It first influences the percentage productive time and then the output. It is skill that determines the rate of production. A 70% motivated but 60% skilled bricklayer may not necessarily produce as much as another 60% motivated but 70% skilled worker. How much influence does motivation really have on percentage productive time?
+Dependencies between percentage productive time and motivators
+In light of the significant relationship found between percentage productive time and motivation, the dependencies between percentage productive time and individual motivators was determined by correlation analysis. Significant individual relationships exist between percentage productive time and 'fairness of pay' (with a correlation coeffcient of 0.302),
+
+Row Numbers
+The motivation band
+Motivation index
+Demotivation index
+Although very gradual, there is the tendency for lower levels of demotivation in better motivated bricklayers. This is further explained in Fig. 7.
+'accurate description' (0.399), 'participation in decision making' (0.330), 'challenging task' (0.367) and 'bonus' (0.354).
+A stepwise regression analysis was conducted on the motivating variables to predict percentage productive time. This was done in order to know how much a knowledge of these motivating variables can help in predicting percentage productive time, i.e. the percentage variance that will be accounted for by motivating variables in predicting percentage productive time. This analysis also helped to pinpoint which of the motivating variables had the most significant influence on percentage productive time. Table 4 shows the results of the stepwise regression.
+The F statistic was tested for significance at each subsequent addition of 'job security', 'accurate description of work' and 'challenging task' to the most significant motivating variable — 'good supervision'. Although they increased the percentage variance that can be explained by motivation in percentage productive time, the increases were not significant. Because of this increase in percentage variance and the randomness of the graph of residuals at this point, it can be rationalized that these are the variables which most influence percentage productive time. If we limit ourselves to the significant variable — Good Supervision we will only be able to explain 14.7% of the variation in percentage productive time. The four variables collectively account for 25.3% of the variance in percentage productive time. It is thus clear that motivation level is not the only variable influencing percentage productive time. Other factors, such as site supervision problems, lack of materials, equipment and tools account for the remaining 74.7%.
+Relationship between motivation, demotivation and motivation content
+E] Demotivation index
+The more the motivation the lower the demotivation and the higher the total motivation content
+Predicting % time with motivators
+Good supervision
+Job security
+Motivation does not influence the rate of working. Rather it influences the percentage of working time spent productively.
+There is a basic motivation to work in every bricklayer which confirms one of the main assumptions of McGregor's theory Y on human motivation.
+Good supervision is the most significant variable influencing percentage productive time. The other variables contributing, though not significantly, to percentage variance explained by motivating variables in percentage productive time are: 'Job Security', 'Accurate Description of Work' and 'Challenging Task'. We can thus conclude that
+
+fluctuations in productivity are primarily the responsibility of on-site management. Individuals simply respond to organizational performance with their level of input.
+Motivation is not the only variable influencing percentage productive time. It accounts for 25.3% of the variation in percentage productive time. Other factors such as site supervision problems, lack of materials, equipment and tools account for the remaining
+Because motivation is a continuous function it is diffcult to evaluate its relationship with productivity. An individual's motivation can change several times in a particular working day. Taking time and environment as research controls, however, we have been able to observe some of these relationships in bricklayers. The developed model was validated with 20 other bricklayers but still needs to be tested on other construction operatives for wider application.

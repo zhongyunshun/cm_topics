@@ -1,0 +1,233 @@
+Modelling and assessment of critical risks in BOT road projects
+To cite this article: A. V. Thomas , Satyanarayana N. Kalidindi & L. S. Ganesh (2006) Modelling and assessment of critical risks in BOT road projects, Construction Management and Economics, 24: 4, 407-424, DOI: 10.1080/01446190500435275
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (April 2006) 24, 407–424
+Modelling and assessment of critical risks in BOT road projects
+A. V. THOMAS1*, SATYANARAYANA N. KALIDINDI2 and L. S. GANESH2
+Faculty of Technology, Dharmsinh Desai University, Nadiad-387001, India
+Indian Institute of Technology, Madras, Chennai – 600 036, India
+Received 24 February 2005; accepted 6 October 2005
+Over the years, many private sector participation (PSP) models have been evolved for infrastructure procurement and the Build-Operate-Transfer (BOT) model is one of the most common approaches used for the same. Private infrastructure projects under BOT arrangement have a complex risk profile and to a considerable extent, the success of any BOT project is influenced by the degree to which various project risks are managed. The major steps involved in risk management of a project are risk identification, risk assessment and the processes of prioritization and response to the risks. The conventional risk assessment approaches may not be effective in privatized infrastructure projects because of the fact that, they have very long project lifecycle with many country and sector specific risk factors. The assessment of complex risks is often a difficult task when past data on similar risks are not available. In this research, a risk probability and impact assessment framework based on fuzzy-fault tree and the Delphi method is proposed. The framework includes extensive scenario modelling of critical risks in projects and systematic processing of professional judgement (subjective knowledge) of experts and is developed and demonstrated in the context of critical risks in Indian BOT road projects. Detailed scenario modelling of most critical risks such as traffic revenue risk, delay in land acquisition, demand risk and delay in financial closure are also presented. The proposed risk assessment framework is generic and can be applied with appropriate modifications to suit any complex developmental project where past data is inadequate for risk assessment.
+BOT projects, risk modelling, risk assessment, fuzzy sets, possibility distribution
+Introduction
+Over the last 10 years, there has been an accelerating global trend towards the execution of major public infrastructure projects on a privatized basis. Over the years, a number of private sector participation (PSP) models have been evolved ranging from simple management contracts to complex concession based legal structures (ADB, 2000). Among all, BuildOperate-Transfer (BOT) model is the most commonly adopted approach for privatized infrastructure procurement. Private infrastructure projects under BOT arrangement have a complex risk profile due to several factors like lumpiness of huge investment, long pay back period, high developmental efforts and upfront cost, length of term of the loan, susceptibility to
+political and economic risk, low market value of the security packages, non-recourse/off balance financing, complex contract mechanism involving many participants with diverging interests and limitations on enforcing security. To a considerable extent, the success of a BOT project is influenced by the degree to which various project risks are identified, assessed and allocated.
+The introduction of new procurement methods like Build-Operate-Transfer (BOT) system necessitate organizations to rethink their approach to risk in their projects (Tah and Carr, 2000). The major steps involved in risk management of a project are identification of risks, the measurement/assessment of risks, and the process of prioritizing and responding to these risks. Among the three, risk assessment is perhaps the most difficult task. It involves evaluation of the
+*Author for correspondence. avt1962@yahoo.com
+probability of occurrence of risk events and their impact
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2006 Taylor & Francis
+Table 1	Review of project risk assessment models
+Basic tool/theory
+Author/researcher
+Cost impact assessment under varying risk allocation between owner and contractor
+Decision analysis
+Incorporates differing risk perceptions, incentive to perform, value of controllable risks and differing preferences towards accepting risk
+Multi-attributable utility theory & Bayesian probability
+Ibbs and Crandall
+Complexity of the model increases with increase in number of attributes
+Cost assessment framework for political risks in international construction.
+Ashley and Bonner
+Model facilitate for identification of primary political risk sources and their impact on three project cash flow elements: labour cost, material cost and overhead cost
+Microcomputer based model which accepts subjective data input from experts
+Assessment of project risks during the bidding stage
+Analytical hierarchy process (AHP)
+Incorporates both subjective and objective inputs.
+Bid mark up for construction risk
+Risk associated consequences are estimated as fuzzy numbers
+Fuzzy sets and neural networks
+Neural network is trained using fuzzy risk profile for various risk scenarios and associated expert limit selections
+Decision analysis,
+Influence diagrams and their combination
+Facility for incorporating subjective expert opinion. Demonstrated for liability assessment in environmental cleanup project.
+Influence diagramming and Monte Carlo simulation method
+Modelled for internal and external risks. Influence diagramming for external risks and simulation for internal risks
+Evaluation of project life cycle risks
+Fault tree and
+reliability graph analysis
+Objective data is required for each risk factor as input. Sensitivity of risk factors and effectiveness of risk management strategies can be evaluated
+Decision analysis in conjunction with a hypertext information system
+Mulholland and
+Christian (1999)
+Incorporate knowledge and experience from experts, project specific information,
+Developed by Baker and McKenzie,
+Project investment decision model for international projects
+Risk-based normative decision theory, cross impact analysis
+Effective for describing conditional relationship between variables subjectively. Scenario and sensitivity analysis can be carried out for various decision options
+Risk assessment for international projects (ICRAM-1)
+Analytical hierarchy process (AHP)
+Provide a structured approach for evaluating country level, market level and project level risk indicators of international projects
+Assessment of construction project risks
+Tah and Carr (2000) Project risk exposure in terms of time, cost, quality and safety using linguistic inputs from experts
+Table 1	(Continued.)
+Basic tool/theory
+Author/researcher
+Event tree and expedience probability
+Developed for water distribution system but can be extended for other systems. Component vulnerability is subjectively assessed and scenario analysis was done through event tree approach.
+Evaluation of investment decision in infrastructure
+Monte Carlo simulation method
+Ye and Tiong (2000) Decision criteria as NPV-at-Risk (measure of minimum expected return at a given confidence level) by combining weighted average cost of capital and duel risk return methods. Difficulty in obtaining input probability density functions
+on project objectives such as time, cost, quality and safety. Decision analysis (Ahmad, 1990; De Neufville, 1990; Jeljeli and Russel, 1995), stochastic simulation (Hertz, 1964; Holland et al., 1974), sensitivity analysis (Woodward, 1995) and conceptual models/artificial intelligence (AI) analysis are the different approaches that have been used in probability-impact evaluation of project risks.
+Recently, a number of models/frameworks based on the above approaches have been proposed for project risk assessment. The previous research works in project risk assessment have been briefly reviewed and presented in Table1. Most classical/conventional approaches for project risk assessment do not adequately capture the intricacies of all risk factors and their inter-relations.
+In most of the infrastructure BOT projects, simulation and sensitivity analysis are used for technical and financial risk assessment (Woodward, 1995; Malini, 1997; Lam and Tam, 1998; INFRISK-WBI, 1999; Ye and Tiong, 2000). The use of simulation is often constrained by the absence of reliable probability density functions for many input variables and also for their inter-relationships. Non-availability of past data from similar projects often leads to inadequate modelling of important risk factors while applying such methods in BOT projects. The life cycle of BOT projects can be as long as 30 years, and project risk assessment must involve long-term forecasting. Many risk-inducing factors in BOT projects could be country and sector specific in nature. Uncertainty emanating from a project itself or its external factors will always be present and needs to be captured in risk assessment models. Risk analyses for such projects are often done without appropriate risk identification and detailed scenario modelling of the project specific environment. Quantitative and non-monetary risk issues/factors (social, environmental, political and legal) are often considered to lie outside the risk assessment process (Mohamed and McCowan, 2001). To provide for the effects of these qualitative risk factors, a majority of organizations attempt to estimate contingencies without appropriate quantification of the combined effects of monetary and non-monetary factors. Concepts of long-term forecasting, based on subjective information provided by project experts, can be effectively incorporated in the risk assessment process of such projects. A risk probability and impact assessment framework based on fuzzy-fault tree and the Delphi method is proposed here as a generic and analytic framework. The proposed framework is based on extensive scenario modelling and systematic processing of professional judgement (subjective knowledge) of experts to assess complex risk events.
+The proposed risk assessment model consists of three main components, viz. scenario modelling, fuzzyDelphi probability prediction and risk impact evaluation. The general framework of the model is given in Figure1.
+Scenario modelling of risk with the fault tree approach
+Scenario modelling enables clear structuring of risk patterns by depicting risk categories, their relationships, and their occurrence structure. In case of risk events, which are rare and complex, probabilistic modelling (modelling the probabilistic structure of a sequence of events, which leads to final event) is generally more effective than direct coding of final event. The probability assessment of a higher-level complex risk event is more easily made with greater confidence if a model that relates the final event to underlying variables is constructed (Spetzler and Holstein, 1975).
+In fault tree, an undesirable event is first defined and causal relationships of the failures leading to that event are then identified (Aven, 1992; Wang and Roush, 2000; Bedford and Cooke, 2001). In fault tree analysis, one attempts to develop a deterministic description of the occurrence of the top event in terms of the occurrence (or non-occurrence) of other lower order events. A generic fault tree model of a risk is presented in Figure2. In the proposed model, the complex risk events (RE1, RE2….) are further decomposed into risk factors. The risk factors, which lead to the occurrence of complex risk events, are modelled as component events (CE1, CE2…), and then as terminal events (TE1, TE2….) in the fault tree. The events for which further decomposition is not possible are treated as terminal events. The lower level events (component events and terminal events) in the risk tree are characterized with their probability of occurrence. Since all the logical operators used in the risk tree are of the same nature i.e. logical operator OR, conventional symbols of fault tree construction are not used here.
+Assumptions for the risk fault tree approach
+The events leading to any component event are assumed collectively exhaustive at any level. Terminal events (TE) are assumed to be independent. The probability of occurrence of risk events (RE) and component events (CE) at any level are influenced by:
+(1) Probability of occurrence of the causative events (it could be component events at a lower level or terminal events);
+(2) The probability strength of the cause-effect link between its causative events and the component event which is under consideration;
+(3) The logical operator used for the event structuring at that level.
+The cause-effect relationship is introduced in the risk tree model to add more flexibility to the system. The conventional fault tree approach used in systems reliability analysis does not consider the concept of flexibility in cause-effect strength (which is normally assumed to be 100%). Unlike in machine system environment, the effect of a cause on an event can be different with respect to time and place in the construction project environment. For example, the death of a construction worker due to an accident may or may not lead to stoppage of work depending up on the place and/or prevailing project environment. The probability of causative events and their strength relationships with higher component events can theoretically vary from zero to one.
+Modelling of BOT road project risks
+Though the Government of India has taken many initiatives for improving the investment environment in the road sector, private sector participation in the road sector development programme has been far from encouraging. In a survey of 1800 investors from all over the world, risk has been identified as the most deterring factor for poor foreign direct investments (FDI) flow to Indian infrastructure sector (FDI Confidence Audit: India, 2001). In another study, authors have identified eight risks as ‘very critical’ in Indian BOT road projects. In the descending order of criticality, they are: (i) traffic revenue risk; (ii) delay in land acquisition; (iii) demand risk; (iv) delay in financial closure; (v) completion risk; (vi) cost overrun risk; (vii) debt servicing risk; and (viii) political risk (Kalidindi and Thomas, 2002; Thomas, 2003).
+In this research, flexible fault tree modelling of the first four ‘very critical’ risks in Indian BOT road project environment has been discussed. Information collected from literature, interviews and case studies were used to model the very critical risks. The data collected include all risk events, risk factors and their inter-relationships in the Indian BOT road project environment. Each risk category modelled consists of one or more discrete risk events, each with a probability of occurrence and a range of impact. The BOT road project risk tree models developed were validated through 12 most experienced locally available experts. Since the modelled risks are of a diverse nature, experts from different domains were asked to evaluate the adequacy and correctness of the contents. The risk trees developed for the first four ‘very critical’ risks in Indian BOT road projects are shown in Figure3 to Figure6. Demand risk is modelled as one of the major risk events in the traffic revenue risk tree (Figure3). However looking to the importance of demand fluctuation in traffic revenue risk, it is separately modelled (Figure4) to give greater accuracy in the demand risk analysis.
+Quantifying judgmental variables is generally difficult. Fuzzy sets provide a convenient way to model linguistic variables. Many researchers have applied fuzzy sets for risk management in construction projects. Peak et al. (1993) proposed a bidding price model for construction projects using fuzzy sets. Kangari and Riggs (1989) used fuzzy sets in an expert system environment to evaluate perceived severity and sensitivity of project risks. Tah and Carr (2000) demonstrated the concept of fuzzy association and fuzzy composition to identify the relationships between risk sources and the consequences on project performance.
+Risk analysis, in general, deals with vague, fuzzy, and uncertain systems. The uncertainty of variables can be expressed as probabilities or as fuzzy numbers. Probability theory can be a powerful tool in appropriate circumstances. However, many times the type of uncertainty encountered in construction projects does not fit the axiomatic basis of probability theory, because uncertainty in these projects is usually caused by the inherent fuzziness of parameter estimates rather than randomness (Choobineh and Behrens, 1992). Another limitation of using probability analysis is that the influence of non-monetary/qualitative aspects on projects is often difficult to quantify. For overcoming the above difficulties, possibility theory could be used as an alternate approach.
+Possibility theory is based on the concept that all values within a range are possible, with an exact value being unknown. A range of values, or an interval is assigned subjectively, but the individual values in the interval are not assigned a relative belief value. If an event is not possible, it is also improbable. Thus, in a way, possibility is an upper bound of probability. Possibility theory has been used in a wide range of engineering and scientific fields including project scheduling, network analysis and contract decision making (Wong and So, 1995; Lorterapong and Moselhi, 1996). In a risk fault tree model, where failure probabilities of basic risk events are not available, classical probability cannot be used for evaluating the
+probability of occurrence of the top risk event. In the proposed framework, fuzzy mathematics is used to estimate risk probabilities, which are difficult to measure using traditional approaches. Probabilities of basic events are considered as possibility functions (fuzzy numbers), and failure possibility of the top event is evaluated. In the earlier researches in system reliability analysis using fuzzy fault tree approach, the variations in the strength of cause-effect relationships between lower events and upper events were not considered (Singer, 1990; Yang, 2000). In the proposed model, the possibility of occurrence of the top risk event (resulting fuzzy set) is calculated by using the possibility distribution functions of basic events as well as the strength of cause-effect relationships among various events/factors obtained from experts through heuristics. In the proposed method, the possibility of occurrence of each event is defined as a fuzzy set [0, 1].
+~ fuzzy restriction is introduced. For example, let F be
+a fuzzy set of the universe U characterized by a
+~ membership function mF~ð Þx , where F is a fuzzy res-
+triction on the variable X (here, probability of occur-
+~ rence of an event). F acts as elastic constraints on values that may be assigned to X in the sense that the assignment	of	the	values	x	to	X	has	the	form
+mF~ð Þx , where mF~ð Þx	is the degree to which the
+~ constraint represented by F is satisfied when x is assigned to X. The fuzzy restrictions assumed in the proposed model are given in Table2. The seven fuzzy probability subsets modelled as possibility distributions with their probability values on x-axis and membership functions on y-axis are given in Figure7. A straight-line variation between ‘Extremely Low’ and ‘Extremely High’ fuzzy probability subsets is assumed (Tah and Carr, 2000). Triangular fuzzy sets are used for this model except the ‘Extremely Low (EL)’ and ‘Extremely High (EH)’ probability fuzzy sets. In the case of these extreme sets, the non-symmetric fuzzy sets are used. Triangular fuzzy sets are very popular and very commonly used, where membership functions of a fuzzy set are not known (Bojadziev and Bojadziev, 1998).
+A linguistic modifier based on the confidence level of the judgement of experts is used to modify the membership function of the fuzzy set proposed by the experts. Three levels of confidence, incorporated in the model are given in Table3. When the confidence
+level of the expert with respect to their judgement is high, the initial triangular fuzzy set is modified to a parabola with a decrease in the fuzziness. The details of the modified possibility distributions (fuzzy sets) are shown in Figure8.
+Evaluation of fuzzy-probability of component event (at any level)
+Let t1, t2…..tn be N events influencing the component event c1 (Figure9). Without any loss of generality, let us consider two causative events t1 and t2 affecting c1.
+Table 2	Classification of fuzzy probability sets
+Linguistic explanation
+Extremely low
+
+
+
+Extremely high
+Figure 7	Fuzzy probability sets as possibility distributions
+The chance of occurrence of t1, i.e. P(t1) is a fuzzy set (possibility distribution function selected from Figure7). Based on the confidence level at which the above information is given, P(t1) is modified. For example, if P (t1) is Very High and the confidence level is high, then the above possibility distribution is modified as per m9(x)5[m(x)]2 and became P9(t1). The chance of realization of event c1 in case t1 occurs (cause–strength relation between t1 and c1)5P (c1|t1). Its corresponding modified fuzzy set is P9(c1|t1). Similarly, subjective information on the chances of occurrence of terminal variables and cause-effects for component events are elicited from experts and
+Modification of membership
+
+modified based on expert’s confidence level of evaluation. Let the modified possibility distributions for t2 and t22c1 are P9(t2) and P9(c1|t2).
+The chance for the realization of c1 route t12c1 is P (route t12c1)5P9(t1) * P9(c1|t1) The chance of realization of c1 route t22c1 is P (route t22c1)5P9(t2) * P9(c1|t2)
+For logical relation OR (the occurrence of c1 is due to realization of route t12c1 OR route t22c1):
+{fPðroute t1{c1Þ  P routeð	t2{c1Þg
+The resulting possibility, P (c1) is a fuzzy set, which can be de-fuzzyfied to get the crisp value for the chance of occurrence of c1. The probability of a fuzzy event A in Rn is given by, P(A)5#RnmA (x) dp, where mA(x) is the membership function for the fuzzy set. The expected value of possibility distribution will give the probability of the fuzzy event.
+Figure 9	Fuzzy processing of fault tree
+The conventional fuzzy operator union mAUB(x)5 Max (mA(x), mB(x)) for aggregating the effects of various causative events produces an average of all events and dilutes the predominant events with high probability and is thus not suitable for risk calculation. Any other fuzzy union aggregation also produces an average value when resultant fuzzy sets are de-fuzzified. The central problem with the use of max is that they assume a particular correlation/association structure. There is no logical reason in risk assessment to assume that the risk which is affected by two factors, one with low and other with High is subject to less risk than a risk affected by a single factor with high magnitude (Tah and Car, 2000). In this model, algebraic sum/ probabilistic-OR (more recently it is known probabilistic sum method) i.e. mA+B (x)5mA(x)+mB(x)2(mA(x)* mB(x)) is used in the possibility distribution calculation of component events (Zimmermann, 1991). Since basic fuzzy sets are defined with in the probability range of 0 and 1 and probabilistic sum method is used, the problem of averaging will not take place in the present approach. The resulting fuzzy set will be slightly higher than the maximum fuzzy set but much higher than average. Under the assumption of independence, it is both reasonable and appropriate to use probabilistic sum as the model of union. Also it tends to imply that its operands are fundamentally probabilities (even if fuzzy numbers are used to represent the uncertainty about the probability). The probabilistic-OR (probabilistic sum) equation can be simplified and expressed without repeated variables i.e. X+Y2XY512(12X) (12Y). The intermediate component events are calculated using above method in fuzzy form and will interact with terminal events (if any) at same level until it reaches the top to get the possibility distribution of top events (RE1, RE2…). The entire fault tree calculations are done through step-by-step fuzzy processing of modified fuzzy sets representing terminal events and/or component events at appropriate levels.
+Operations on triangular fuzzy numbers
+The elements of two fuzzy numbers A and B whose membership functions entirely lie between interval [0,1] are shown in Figure10. The function F(x) is an infinite-level interval number (ILIN). Any a-level interval number Aa5[a(l), a(r)]a, Ba5[b(l), b(r)]a of fuzzy numbers A and B represents an a-cut of the ILIN, ag[0, 1]. Since the probabilities of risk events in the model are convex, normalized, enclosed and limited fuzzy sets, they are assumed to be identical to fuzzy numbers A and B i.e. m(x)5F(x) or m5a. For convex, normalized, enclosed and limited fuzzy sets, the extended algebraic operations applicable to triangular
+Figure 10	Elements of fuzzy number
+fuzzy numbers can be applied to the fuzzy probability sets (Bojadziev and Bojadziev, 1998; Yang, 2000). The fuzzy arithmetic operations of two fuzzy sets A and B used in the present analysis are fuzzy number addition, subtraction and multiplication and are as per standard fuzzy number arithmetic operations (Bojadziev and Bojadziev, 1998).
+By de-fuzzifying the possibility distribution of risk events at top level, the probability of occurrence of those events can be obtained because it is assumed that the expected value of possibility distribution will give the probability of the fuzzy event. De-fuzzyfication or decoding the fuzzy outputs produce a non-fuzzy control action, a single crisp value Zc*, that adequately represent the membership function magg (z) of an aggregated fuzzy control action. For a membership function of a fuzzy output set Z with interval [Zo, Zq], the aggregated membership function magg (z), zg[Zo, Zq] can be calculated by subdividing the interval [Zo,
+Zq], in to q equal sub intervals by points Z1, Z2,……Zq-1. The Crisp value Zc* based on centroid is given by:
+In this risk assessment framework, standard MATLAB function ‘defuzz’ based on centroid principle was used for de-fuzzification of the possibility distribution of risk events.
+Computer implementation of the fuzzy processing and probability evaluation
+The fuzzy based probability evaluation of critical risks in Indian BOT Road projects has been implemented through a computer aided probability assessment module. The module was developed using MATLAB Version 6.0.0.88 Release 12 software. Separate graphical user interfaces (GUI) using MATLAB have been developed for all the eight risks. The input GUI also has provisions for giving the possibility of occurrence of any terminal events and its cause-strength relation as zero value. For a specific BOT road project, if any one of the terminal event modelled in the fault tree is irrelevant, the experts can give those inputs as zero and the module will ignore the effect of such variables on the probability evaluation of risk events.
+A risk event R modelled as a flexible fault tree is shown in Figure11. Data inputs (possibility distributions of various terminal events, strength of cause-effect relationships with upper-level events and corresponding confidence level of experts’ estimates) along with the process of probability evaluation of a risk event R modelled through the fault tree approach are given in Table4. The possibility distributions for higher-level events (both C and R) are obtained by step-by-step fuzzy processing from the lower level. For the sample given input data, the possibility distribution complex risk event R is obtained and de-fuzzified to get the probability of occurrence, i.e. P(R) is 0.57.
+Determination of risk impacts
+In case of risk impact, direct encoding at the risk event level is proposed because the basic assumption used here is that only risk events would have a direct impact on the project objectives. Intermediate risk factors will have only an indirect impact (Tah and Carr, 2000). Moreover, the discussions with project experts revealed that in comparison to probability judgement, impact assessment at a higher level through direct encoding is easier. In the proposed framework, the fuzzy Delphi method is used for determination of risk impacts. The Fuzzy-Delphi method is a generalization of the Delphi
+In the Delphi method, it is more appropriate to present data as fuzzy numbers instead of crisp numbers (Bojadziev and Bojadziev, 1998;
+Possibility of occurrence of terminal
+Confidence level of
+
+Possibility strength of
+Confidence level of
+
+Top complex risk Event
+Possibility distribution for strength
+of 2nd Level
+Confidence level of
+Of 2nd Level
+
+Fuzzy-fault tree processing for probability determination
+Terminal events (T )
+possibility distribution of terminal
+Cause–effect link (first level)
+possibility distribution for strength of cause-effect link
+Possibility Distribution of intermediate component event c
+Modified possibility distribution for strength of cause-effect link
+Possibility distribution of top complex risk event R
+P(R)5P (C)6P(C2R)
+OR P(t3)6P(t32R)
+De-fuzzified value of possibility distribution50.57
+t1 and t2 are terminal events leading to component event C where as terminal event t3 component event C are leading to Risk event R.
+and Gupta, 1988). The method consists of the following steps:
+(1) Impact values of each risk event, RI(i) (consisting of three values – optimistic, most plausible and pessimistic estimates) are elicited from each expert E(i) and are considered as triangular fuzzy numbers. ð Þi ~rioð Þi , rimpð Þi , ripð Þi , i~1, 2..., n ð2Þ RI where n is the number of experts
+(2) The average RI for all RI	is computed by
+The fuzzy distance between the average impact
+RI and RI(i) is calculated using the formula,
+The initial estimate of each risk impact RI(i), the averages of the three estimates, and the fuzzy
+distance between RI and RI(i), are presented again to each expert E(i) for re-consideration and revision. Each expert E(i) presents a new 3-point estimate for the triangular fuzzy numbers to be used in further stages of the Delphi process.
+(3) The process starting with step 2 is repeated again until two successive means became reasonably close. In the present research work, the coefficient of variation corresponding to the different expert estimates serves as the criterion for deciding the number of Delphi stages.
+Validation of risk assessment framework
+Project background
+Risk assessment of an actual BOT road project is carried out to test the validity and also to demonstrate the use of the proposed risk framework. As a part of this research, a major construction organization in India was approached to use the proposed risk assessment framework for evaluating the project risks in one of their BOT road projects. The Public Works Department (PWD), Government of Maharashtra, had invited tenders from prospective private sector investors to implement the road project (construction of an 11.37km bypass road and construction of a 0.75km bridge) under the BOT arrangement. The estimated cost of the project was Rs.1.3412 billion. The organization (for which the risk assessment demonstration was carried out) perceived the whole BOT project as highly risky. Some of the reasons for their apprehensions about the project were its location, large amount of urban land acquisition, unexpected ground conditions for the bridge across the creek, availability of parallel roads, toll enforcement problems due to leakages, inadequacy of toll acts, possible delay in financial closure and cost overrun risk.
+Process of risk assessment
+A team of six experts having adequate background knowledge of the prevailing BOT road project environment in India as well as specific information on the above BOT road project was identified by the organization for the purpose of assessing the project risk. As a part of the assessment, a half-day workshop was arranged at the organization’s office. In the briefing session, the leader of the expert team gave a brief overview of the project and also the organization’s perception on the overall risk exposures in the project. A research team from the Indian Institute of Technology, Madras (which co-ordinated the risk
+assessment exercise) explained the concept of the proposed model framework, details of the risk variables modelled, and the essence of the Delphi process in terms of its suitability for evolving a consensus using the independent assessments made by the experts.
+In the second session, experts’ opinions on the project risks were elicited for the four top-ranked risks, i.e. (i) traffic revenue risk, (ii) land acquisition risk, (iii) demand risk and (iv) delay in financial closure. Each expert was requested to give his/her subjective opinion (separately and independently) on the realization of the risk variables/factors and their impact on risk events in a formatted data sheet. In order to compare and evaluate the efficiency of probability determination of BOT risks using the proposed fault tree-fuzzy processing approach, the probabilities of occurrence of all complex risk events were also elicited directly from the experts. These directly elicited probabilities were used only for comparing with the results obtained from the risk models.
+Fuzzy-fault tree and the Delphi process for probability determination
+Based on the subjective inputs provided by the experts for various risk factors, the probabilities of occurrence of risk events were calculated using the MATLAB based probability evaluation module. These values along with the statistically processed average estimates of probabilities (of all the six experts) are made available to them again for their re-consideration and revisions, if any. The statistical averages enabled each expert to analyse his initial estimates and judge if any revisions are needed. Since the variations among experts in the assessment of risk probabilities were very low in the first round itself, significant convergence (coefficient of variation less than 0.2) could be obtained in the second round of Delphi process. Average risk probabilities through Delphi Process and their comparison with direct encoding are given in Table5.
+The results clearly show that the use fault tree risk models lead to significant reduction in the variation of probability assessment (among the experts) in comparison with those probabilities obtained through direct encoding at higher level. Moreover, the low variation in assessment was helpful in arriving at a consensus much faster. The low variation substantiates the efficiency and consistency of the proposed fault tree risk models for determining the probabilities of risk events without any past data.
+All the directly elicited probability values are under estimated in comparison to the values obtained through fuzzy processing. Further investigation of this issue (analysing the experts’ input values and the discussions with them) revealed that, while giving probability values directly at the top level, the experts ignored many important risk factors specific to the project. Since a combination of internal and external factors affect the risk probabilities it was difficult for them to account for all the issues and risk factors.
+Fuzzy-Delphi process for forecasting impact of risk event
+Three-point estimates of impact values for all the risk events belonging to the ‘very critical’ risk category were obtained separately from the experts using standard input data sheet. For delays in financial closure and land acquisition, the risk impacts were elicited in terms of days (defined as delay in days above the normal risk free estimate), whereas for traffic revenue and demand, the risk was defined and elicited as a percentage impact below the normal traffic revenue/ demand estimate. The three-point impact assessments of risk events made by the experts are assumed to be fuzzy numbers and processed as per Equations2, 3 and 4. The initial estimates of risk impacts, the average estimate of all the experts and the fuzzy distance between the average and individual estimates were fed back to each expert for their re-consideration and revision.
+Based on the above statistics, each expert revised his/ her earlier estimates and new three-point estimates (represented as triangular fuzzy numbers). In total, three rounds of the fuzzy-Delphi process were carried out until the revised estimates were reasonably close to each other. The criteria used for arriving at the final impact values are: (i) the coefficients of variation in expert judgements should be minimum and (ii) the successive differences between their averages should be close. The average values of risk impacts and the respective coefficients of variation for the final round of Delphi process are given in Tables6. Though the coefficients of variation for risk impacts were high in first round, a considerable reduction in the variation could be obtained in subsequent rounds of fuzzyDelphi process. In a few risk events, the risk impact estimates did not converge to the expected level (coefficient of variation about 0.2 to 0.25) because of the firm perception of participants with respect to the possible impacts.
+Preparation of risk evaluation worksheet
+The probabilities of occurrence of risk events obtained through the fuzzy-fault tree-Delphi approach and the impact values from the fuzzy-Delphi technique were used for preparing the final risk evaluation worksheet. The assumptions used in the evaluation of the expected values of risk impacts are: (i) the risk events as well as risk factors are not mutually exclusive and (ii) the impacts of risk events are assumed to belong to a beta distribution (three-point estimates as defined). The work sheet prepared from the demonstration exercise is shown in Table7. The expected value of a risk impact E (I |R) calculated from three-point estimates is, the risk impact of an event given that the risk event has occurred. Since realization of event is not certain and a probability P(R) is associated with its occurrence, expected impact of risk event is calculated from the equation, P (occurrence of risk event) * E (impact|risk occurred).
+In case the events are not mutually exclusive, P(A U B)5P (A)+P (B)2P (A>B) which is always less than P (A+B). Total risk exposure to the project from a risk category can be approximated as sum of the expected impacts of risk events from that particular risk category. However the effect/impact of simultaneous occurrence of risk events, (P (A>B)) cannot be evaluated from the analysis. For the demonstration project, the sum of expected values of three risk events, of the category of ‘delay in financial closure’ (79 days) could be assumed as the upper bound of the total expected ‘delay in financial closure’.
+Table 5	Average risk probabilities through Delphi process – comparison with direct encoding
+Risk category	Risk event	Probability of occurrence of risk events
+Direct encoding	Through Fuzzy-fault	Delphi process # at top level	tree model assessment	(Second round)
+Average	Coefficient	Average	Coefficient	Average	Coefficient Probability* of variation probability* of variation probability *	of
+Failure to manage equity in time
+Delay in Debt Syndication
+Traffic revenue risk
+(other than demand
+Recession induced demand reduction
+Due to Government/action/ changes in policy
+Demand reduction due to unwillingness to pay
+Land	Delay due to litigation/agitation acquisition Delay due to non availability of risk	land after formal acquisition
+* Average of six experts.
+# The first round was eliciting indirect information about risk factors in fuzzy form.
+The final risk evaluation worksheet prepared for the validation purpose shows that the risk exposure of this project with respect to land acquisition, traffic revenue and demand risks is quite high. Along with the revenue loss on account of demand fluctuations, the total traffic revenue risk is substantial in the project. The results obtained from the application of the proposed risk assessment framework to the BOT road project match well with the overall project risk perception of experts from whom the subjective risk information was obtained. The demonstration of the proposed methods
+shows that the process involved is quite simple and the information on expected risk impacts leads to a good amount of insight into the overall risk exposure of BOT road projects.
+Scenarios modelling for four ‘very critical risks’ in Indian BOT road projects using fault tree approach provide insight into the various factors influencing risk
+Table 6	Average risk impact through Delphi process (third round)
+Delay in financial closure (defined as delay in days above normal risk free estimate)
+Traffic revenue risk (defined as % impact below the normal traffic revenue)
+Demand risk (defined as % impact below the normal traffic demand)
+Loss due to poor toll enforceability
+Due to inadequate service quality Recession induced demand reduction
+Error in estimation of demand
+Demand reduction due to due to inadequate linkage
+Due to Government actions/ change in policy
+Demand reduction due to unwillingness to pay
+Delay due to non-availability of land in time for construction
+(after formal acquisition)
+Delay due to increase in cost of land acquisition (fund management)
+* Average of six experts.
+events and their inter-relationships. Several known non-monetary risk factors are included under each risk category.
+A flexible fault tree model with varying strengths of cause-effect relationships has been proposed for determining probabilities of occurrence of risk events. The concept suits general as well as BOT construction project environments where the influences of lower level risk factors on the realization of upper level risk factors or risk events are likely to vary with other external factors.
+Demonstration of the proposed risk assessment framework shows that fuzzy-fault tree based risk assessment reduces the variability among the experts in the probability estimation of complex risk events. The variability among the different experts’ estimates is considerably low compared to direct probability encoding at the top-level of the fault tree. The Fuzzy-Delphi technique is appropriate for determination of risk impacts in projects, where long term forecasting is needed.
+The expected risk impact obtained for risk events gives only the upper bound of a particular risk category. The effect/impact of simultaneous occurrence of risk events cannot be evaluated from the analysis. The risk trees proposed in this research are applicable for prevailing BOT road project environment in India. With change in time, country and sectors, the risk tree models are to be re-structured to suit the environment. The accuracy of scenario models and the level of expert opinion on the risk factors will influence the reliability of the results.
+Table 7	Risk evaluation worksheet
+Defined as days above normal risk free estimate
+Traffic	Loss due to adverse Government revenue risk	decisions/policy
+(Other than	Loss due to agitation/resistance to demand risk)	pay
+Defined as % impact below the normal traffic revenue
+Loss due to poor toll enforceability
+Recession induced demand reduction
+Error in estimation of demand
+Demand reduction due to Due to inadequate linkage
+Defined as % impact below the normal traffic demand
+Due to Government actions/change in policy
+Demand reduction due to unwillingness to pay
+Delay in land acquisition
+Defined as days above normal risk free estimate
+Delay due to increase in cost of land acquisition (fund management)
+O – Optimistic, ML – Most Likely, P – Pessimistic.
+*Part of traffic revenue risk-but separately modelled with greater details.

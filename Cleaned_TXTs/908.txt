@@ -1,0 +1,105 @@
+﻿Bond University
+Research Repository
+The application of case-based reasoning in construction management research: An overview
+Skitmore, Martin;
+Published in:
+Automation in Construction
+Link to output in Bond University research repository.
+Recommended citation(APA):
+Hu, X., Xia, B., Skitmore, M., & Chen, Q. (2016). The application of case-based reasoning in construction management research: An overview. Automation in Construction, 72(Part 2), 65-74.
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+For more information, or if you believe that this document breaches copyright, please contact the Bond University research repository coordinator.
+Download date: 29 Apr 2025
+The application of case-based reasoning in construction management research: an overview
+1PhD Candidate, School of Civil Engineering and Built Environment, Queensland University of
+Technology, Garden Point Campus, 2 George Street, Brisbane QLD 4001, Australia.
+2Senior lecturer, School of Civil Engineering and Built Environment, Queensland University of
+Technology, Garden Point Campus, 2 George Street, Brisbane QLD 4001, Australia.
+3Professor, School of Civil Engineering and Built Environment, Queensland University of
+Technology, Garden Point Campus, 2 George Street, Brisbane QLD 4001, Australia.
+4Researcher, Statistical Society for Foreign Economic Relations and Trade of Shenzhen, 6013
+Yitianzhong Road, Futian District, Shenzhen 518035, China. richard.q.ch@gmail.com
+Case-based reasoning (CBR) has been widely adopted in construction management (CM) research due to the similar mind-sets of CBR and CM problem solving. However, to date, there has been no systematic review of CBR applications in previous CM studies, raising the question of What is the current status quo of CBR applications in CM research? By using the method of content analysis, this study provides a comprehensive literature review of CM CBR articles published between 1996 and January 2015. It is found that the popularity of CBR applications in CM research is increasing, especially after 2006, with a majority emanating from South Korea. In addition, 17 CBR application fields are identified, with the primary research interests focusing on construction cost estimation, construction tendering, bidding and procurement, and environment and sustainability management. Issues in previous CBR model developments are also identified, mainly related to model hypothesis-testing, reuse of case outcomes, selection of model development methods, use of derivational analogy and automated implementation, together with future research suggestions and directions. This study helps provide CM academics and practitioners with a more comprehensive understanding of the development of CBR applications and implications for future studies.
+Case-based reasoning, overview, construction management
+Introduction
+Soft computing techniques have been widely adopted to solve engineering issues, mainly because they can address problems intelligently through mimicking the human mind [1-6]. In the specific construction management (CM) domain, frequently used techniques comprise the genetic algorithm (GA), fuzzy techniques, artificial neural networks (ANN), case-based reasoning (CBR) and their various combinations [7-10]. Of these, CBR provides decision-makers with a framework for solving current problems through recalling and reusing knowledge and experience stored in prior occurring similar situations [11]. CBR has various advantages over other techniques. In particular, it is easier for to employ CBR to address unstructured issues (e.g., CM) by using historical cases instead of predefined rules, as defining such rules are hard and time-consuming [12]. Another advantage is that CBR can be used even if certain fields are not completely understood by users [13]. This makes CBR particularly suitable for CM novices.
+CBR is a suitable technique for dealing with CM issues given the similar mind-sets of CBR and CM problem-solving. CM problem-solving is experience-oriented, and practitioners address CM issues by using their accumulated professional experience and knowledge [14]. Similarly, CBR mines established experience and knowledge to provide solutions to new situations [11]. Moreover, despite the unique features of each construction project, their used methods and procedures are similar [9], which suggests that successful CM practices adopted in prior projects can be applied in new projects, providing important opportunities for the application of CBR. As a result, CBR has attracted various research interests in CM applications such as construction cost estimation [15].
+Despite the suitability of CBR in solving CM issues, its applications in the CM domain are still not clear. For example, its application trends, model development activities, application fields and problems are still largely unknown. Understanding these issues provides useful insights into the implications for future CM-CBR applications. However, no work to date has attempted to address this research gap. Therefore, this paper aims to bridge this gap by providing a comprehensive review of CM-CBR applications based on a robust content analysis of prior published studies. It should be noted that these studies were retrieved from peer-reviewed journals, and unpublished studies conducted in laboratory conditions are not included. First, the CBR mechanism is introduced followed by the content analysis research method. Based on the identified articles, CBR application trends and activities in model development are next described, and the identification and use of CMCBR application fields expounded in detail. Finally, application issues are identified, together with suggestions for future research directions. This review provides CM stakeholders with valuable information on the CBR approach and its applications in the CM domain.
+Case-based reasoning
+CBR solves a new problem by remembering a prior similar situation and by reusing information and knowledge of that situation [16]. The term ‘case’ means a prior concrete situation, and accumulated cases combining with an appropriate organization structure constitute a case-base [11]. As shown in Fig. 1, the use of CBR refers to a set of activities, mainly including case representation, indexing, case storage and a CBR cycle. Case representation refers to the information to be included about cases and identifying an appropriate structure to describe cases. Indexing assigns indices to cases to facilitate case retrieval. Case storage refers to organizing an appropriate case-base structure for the collected cases to enable their effective retrieval.
+Case-based reasoning process.
+Adapted from Aamodt and Plaza [16] and Watson and Marir [11]
+The CBR cycle comprises four sub-phases of retrieval, reuse, revision and retention [16]. It begins with the emergence of a new case/problem followed by case retrieval which involves measuring similarities between the new case and historical cases. This is the core stage of the CBR cycle, and its accuracy is heavily impacted by predetermined similarity assessment criteria [17]. Case retrieval results in the identification of similar cases. If the current case and retrieved cases are sufficiently similar, solutions of retrieved cases can be reused directly without any modification. Otherwise, the solutions should be revised by taking differences between the new case and retrieved cases into consideration. Finally, the new case and its solutions can be retained in the case-base for future reuse.
+In this sense, CBR is a self-learning system.
+The first CBR system, CYRUS, was developed by Janet Kolodner, a question-answering system with rich knowledge of travelling and meetings [18,19]. Since the introduction of this system, various CBR-based systems have emerged, including those aimed at addressing CM issues such as EQUAL for contractor prequalification [20] and CONPLA-CBR for construction planning and scheduling [21].
+Research method
+Although different methods/techniques are available for reviewing literature, content analysis is used because of its fit for the research purpose. Content analysis can be used to systematically and objectively to make valid inferences based on collected data so as to describe and quantify specific phenomena [22], which helps disclose central and natural aspects of prior CM-CBR papers to depict the whole picture of CM-CBR applications. Its robustness in CM literature review has already been confirmed [8]. Compared with other methods, one of its advantages is that it allows for both qualitative and quantitative operations [8]. When content analysis is used qualitatively, it can be used to record and categorize specific phenomena in a systematic way to reflect the main features of the prior literature [22]. In addition, it can also be used to provide a quantitative analysis of qualitative data. This involves transforming features identified by qualitative content analysis into a quantitative format that helps disclose the latent contents of prior literature by presenting an objective account of events that are not immediately apparent [22]. Thus, content analysis can provide the comprehensive disclosure of CM-CBR applications and ensure results of this study are reliable and valid. Collection of samples and determination of content analysis forms are important tasks in undertaking content analysis. Fig. 2 shows the content analysis procedure of present study.
+Content analysis procedure.
+The collection of samples is to identify materials that will be analyzed. In this study, it refers to the search and selection of peer-review journal articles. An appropriate way of doing this is by collecting articles based on popular academic databases [23]. The article search and selection process of the current study comprised the following four steps,
+Determining the academic databases used for article search and selection. The main academic databases, including the Web of Science, Scopus, Engineering Village, Science Direct, ASCE Library, Emerald, Wiley Online Library and Taylor & Francis Online, were used. These databases not only cover mainstream CM journals but also mainstream artificial intelligence (AI) journals such as Expert Systems in Application.
+Determining the academic journals used for article search. The identified academic databases were searched by adopting the searching strategy: “case-based reasoning” AND
+(“construction industry” OR “construction management” OR “construction project” OR “construction project management” OR “project management” OR “civil engineering management” OR “civil engineering project management” OR “construction and project management”). This led to the identification of 319 academic journals with the potential of publishing CM-CBR application articles.
+Obtaining preliminary search results. The individual websites of the 319 journals were searched using “case-based reasoning” during Dec 2014 to Jan 2015. A total of 5,963 candidate academic articles were identified.
+Formulating article selection criteria and identifying used articles. The criteria include (1) CBR is the main research method AND (2) the application is CM related. In accordance with these criteria, a two-round article selection strategy was used following Yang, et al. [23]. The first round selection checked the articles’ Title, Abstract and Keywords information to determine if they met the criteria. This was followed by a second round selection conducted by reading and analyzing the whole article to double check articles. The first round of selection helps in the speedy exclusion of un-related articles. In addition, based on the second round assessment, it can ensure all selected papers are closely related to the research objective. Moreover, it also helps in understanding the research topics and findings of prior studies, which facilitates the following analysis such as the identification of CM-CBR application fields. Finally, 91 articles from 33 journals were selected and used in this study.
+Both qualitative and quantitative analyses were conducted. The qualitative content analysis was used to identify publications in journals, years and geographical areas, identify CM-CBR application fields, and deeply analyze these fields. The quantitative content analysis was employed to determine the number of publications in journals, years and geographical areas, the percentage of activities described in model development, and the frequency of CM-CBR application fields. These allow CBR application issues to be identified, and future research suggestions and directions to be proposed.
+Overview of CM-CBR research
+4.1.1 Distribution of Articles
+Table 1 shows the distribution of the 91 articles on journals, with the majority of these journals being from the engineering domain. Nearly half of identified articles are contained in four journals, namely Automation in Construction (AIC, 12), Journal of Computing in Civil Engineering (JCCE, 11), Journal of Construction Engineering and Management (JCEM, 11) and Expert Systems with Applications (ESA, 8). Of these four top targeted journals, AIC, JCCE and JCEM are viewed as prominent and influential within the area of construction engineering and information technology by the research community [24]. In addition, articles were also popularly published in ESA, partly as ESA is one of the most influential AI journals.
+Distribution of the articles
+Journal title
+Number of articles
+Automation in Construction
+Journal of Computing in Civil Engineering
+Journal of Construction Engineering and Management
+Expert Systems with Applications
+Construction Management and Economics
+Advanced Engineering Informatics
+Computer Aided Civil and Infrastructure Engineering
+KSCE Journal of Civil Engineering
+Canadian Journal of Civil Engineering
+Building and Environment
+Advances in Engineering Software
+Journal of Asian Architecture and Building Engineering
+Journal of Environmental Management
+Australasian Journal of Construction Economics and Building
+International Journal of Construction Information Technology
+Tsinghua Science and Technology
+Engineering Construction and Architectural Management
+Iranian Journal of Science and Technology Transactions of
+Civil Engineering
+International Journal of Strategic Property Management
+24 Journal of Civil Engineering and Management 	1
+25 Information and Management 	1
+26 Safety Science 	1
+27 Energy and Buildings 	1
+28 Journal of Infrastructure Systems 	1
+29 Journal of Advanced Research 	1
+30 Journal of Cleaner Production 	1
+31 Logistics Information Management 	1
+32 Journal of the Chinese Institute of Engineers 	1
+4.1.2 Publications in Years
+Fig. 3 depicts the trend in CM-CBR publications over time. The average number of publication during 1996-2014 is around 4.74, and the largest publication number reached 11 in 2014.
+It is clearly shown that the average annual number before 2006 was less than 4 and has increased since 2006. An independent-samples t-test was conducted to further examine whether there has been a significant increase in the number of CM-CRB publications each year since 2006, As only the January data could be obtained in 2015, the analysis interval of the t-test is 1996-2014. The result of is highly significant (t = -5.963, Sig. = 0.000), indicating that the number of CM-CBR publications during 1996-2014 has increased significantly since 2006. This is taken to imply an increasing interest in using CBR to address CM issues since 2006.
+Publication trend in years.
+4.1.3 Applications in Geographical Areas
+Table 2 shows the distribution of CM-CBR publications by countries/regions. The classification is based on the geographical locations of the research data for each study. As many studies involve coauthors from different countries/regions, this classification can better reflect the distribution of CMCBR applications in geographical areas than simply analyzing the locations of the authors themselves. The research findings show that 34 articles are conducted in the South Korean context, accounting for 37.4% of all articles, followed by Taiwan (7), Australia (6), Canada (6), and United Kingdom (6). In addition, 3.3% of articles are multi-country based, and 9 publications do not clearly indicate their research context.
+Distribution by countries or regions
+Country Or Region
+Number of publications
+Percentage of publications (%)
+South Korea
+United Kingdom
+United States
+16 Multi-country 	3 	3.3
+17 Unspecified 	9 	9.9
+CBR model development involves different activities. These are summarized in Table 3 in order of their frequencies of occurrence in the articles. As is indicated, most research clearly describes the case retrieval method used, the information included in historical cases and indexing method, while relatively less attention is paid to the methods used in case retention (4.4%), case storage (20.9%), and case representation (37.4%). The ranking of these activities clearly reflects their importance, with case retrieval methods, information included in historical cases, indexing methods and case reuse and revision methods being indispensable in CBR.
+Activities described in the development of CM-CBR models
+Case representation (determination of case information)
+
+Case reuse and revision
+Case representation (method determination)
+4.3 Applications
+17 CM application fields are identified (Table 4), showing CBR to be most popularly used in Construction Cost Estimation (28), followed by Construction Tendering, Bidding and Procurement (12), and Environment and Sustainability Management (11). These are described in detail in the following subsections.
+CM-CBR Applications fields
+Application Fields
+No. of Publications

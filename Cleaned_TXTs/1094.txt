@@ -1,0 +1,123 @@
+﻿COVER SHEET
+Akintoye, Akintola S. and Skitmore, Martin R. (1990) A Conceptual Model of Construction Contractors' Pricing Strategies. In Baxendale, A., Eds. Proceedings 6th Annual Conference, Association of Researchers in Construction Management, pages pp. 31-47, Salford University.
+Accessed from:
+University of Salford, Salford M5 4WT, UK
+Pricing objectives, economic conditions, profitability,  	cost estimating, knowledge acquisition.
+Contractors have to bid competitively for most of their work and at the same time deal with risks and uncertainties connected with bid submission. This paper examines the factors involved in tender pricing and how they relate to each others. From this, a conceptual model of contractors' pricing strategy is developed.
+Contract pricing is not a simple matter. The construction industry is extremely fragmented and highly competitive. Contractors have to bid competitively for most of their work and at the same time deal with risks and uncertainties connected with bid submission. The high level of price competition and low capital intensity which characterizes the industry, often combine to cause depressed profit margins. A great deal of current information is needed together with forecasts of demand, cost, competition, etc., to enable bids to be set and adjusted to desired profit levels.
+In commerce, compared to the construction industry, a lot of research has taken place into the processes and stages involved in pricing decisions. Tellis (1986), for instance, defines a pricing strategy as a reasoned choice from a set of alternatives prices (or price schedule) that could aim at profit maximization within a planning period in response to a given scenario. In relation to marketing, Assael (1985) considers the pricing decision approach to involve:
+1. establishing pricing objectives
+2. considering factors influencing pricing decisions
+3. examining pricing strategies and competitive responses
+4. attention to methods of price determination
+Conceptual models of this type are expected to enhance our understanding of the factors involved in project pricing by construction contractors. The aim of this paper is to present a pricing framework for construction work in a similarly logical and systematic way.
+The development of the model is based mainly on an extensive literature search (most of which cannot be reported in this short paper) of standard textbooks materials, proceedings and transactions of conferences, and referred journals. Figure 1 was developed as an approach to the development of the conceptual model.
+The literature relating to marketing activities continues to report pricing objectives as the logical starting place for price determination. Goetz (1985) notes how a firm's overall objectives determine its pricing objectives which, in turn, establish the parameters of pricing policies. Shipley's (1981) investigation of objectives of firms showed the importance of objectives of firms in their pricing policy and method, while Davis (1978) earlier reported that price should be chosen in order to achieve a company's objective. Within this field numerous pricing objectives have been identified. For example Oxenfeldt (1973) specified a list of twenty pricing objectives. However empirical work by Lanzillotti (1958), Hague (1971) and Pass (1971) have specified that the types of pricing objectives usually specified by businessmen or corporations are limited to seven.
+Assael (1985) identified three major types of setting pricing objectives to be:
+- to pursue a target return on investment
+- to recoup costs over a particular time period.
+Competition-oriented objectives
+- to provide a barrier to entry by other firms
+Demand-oriented objectives
+- to meet the expectations of clients and the industry.
+Govindarajan (1983), on the other hand, claimed that firms' pricing objectives are related to expected profit levels, and usually concerned with either profit maximization or profit satisficing.
+Abratt and Leyland's (1985) empirical study found a correlation between the pricing objectives of construction firms and their pricing strategies, the objectives being restricted to target returns on investment and market share. They also realised that most of the firms with a target return on investment operated a cost based pricing strategy.
+It may be expected that a firm's pricing objectives will have different weighted effects on its bid price decisions.
+These entail gathering information about the various factors that should be taken into consideration when making a bid price decision. Four broad areas have being identified as follows.
+Decision makers often assess a unique set of economical factors in course of project development. These include important macroeconomic variables encompassing the economical, political, social and technological circumstances of a project.
+These factors determine to a great extent the market situation in the construction industry. For example, Southwell (1970) indicated how general economic conditions could determine the climate for tendering and market price level. In addition, Koehn and Navvabi (1989) have used the relationship between economic and social factors to develop their construction cost index, whilst Hutcheson (1990) identified some of these factors for use in forecasting changes in the building market.
+The economic, social or political situation can dictate the level of demand for construction work, the number of construction firms registered and the degree of competition for construction works. In times of economic uncertainty firms may switch from cost based to market oriented pricing strategies. In boom conditions it is possible that construction firms settle for cost based pricing and therefore make target returns on investments.
+Environmental factor specifics could include the combination of the following:
+Geographical location of construction demand
+Competitive market conditions
+General state of inflation or deflation
+Local tendering customs
+Capacity and facilities available in the industry
+Level of taxation
+Economic well being of a nation
+Profitability in the construction industry is generally rather low compared with other industries. At the project level, profitability could be described as the trade off between winning a tender and making a reasonable profit, expected profitability on a project bearing a close relationship with the mark-up value.
+Runeson and Bennett (1982), for example, have emphasised the importance of mark up in tendering strategies. Also, Flanagan (1980), Beeston (1987) and Raftery (1987) have identified factors involved in the construction contractors' mark-up.
+Profitability factor specifics are mainly related to
+Level of risk and uncertainty in a project
+The first purpose of a cost estimate is always to provide knowledge of likely cost of construction work. In the construction industry, a bid price is traditionally formulated by combining this cost estimate with a mark up value.
+However queries have persistently being raised about the reliability of this process. For example Shaw (1973) notes that estimators cannot really estimate costs because they have no reliable means of knowing what their actual costs are. Skoyles (1977) also points out that few builders know the accuracy of their cost estimate due the lack of reliable feedback created by a combination of the competitive tendering system and variable site performance levels. However, empirical work by Azzaro et al (1988) suggests that cost estimates continue to provide the basis for most contractors' tender pricing.
+Cost estimate factor specifics consist mainly of design and construction variables. These determines the level of complexity of project, the use of plant, specification and buildability of construction work as follows:
+
+Storey height of project
+Number of storeys
+General project arrangement including layout
+Degree of repetition within building
+Environmental needs - need for natural daylight
+- need to meet some regulations
+Extent of services and external works
+Construction form
+Degree of repetition with building
+Complexity of task
+Level of interdependence of construction operations
+System of construction
+Extent of experience on the type of construction
+Contractor's work programme
+Weather/ground conditions
+Time overlap of design and construction
+Procurement systems are concerned with the execution of construction contracts and the factors involved in this. The factors specifics in this case are:
+Tendering procedure
+Intensity of competition
+Contractor's cash flow manipulation
+Quality of project information
+The designers involved
+Quarter of the year that the bid is submitted
+Drastic contract provisions
+Level of use of subcontractors
+Quantity of expected variation on a project
+Method of cost estimating
+Level of adequacy of cost data
+Type of client
+Remoteness of project and distance from contractor base
+In order to meet specific objectives, and within the content of factors that influence pricing decision, firms have to adopt some type of pricing strategy. For example, a construction firm that is targeting a particular construction market could do this by tendering for such jobs at a low price level. Fellows and Langford (1980) suggest that firms may adopt low profit level pricing in times of economic recession in order to maintain market share or to penetrate a new market. Skitmore (1987) also has investigated market oriented pricing strategies of construction firms submitting bid prices aimed at what the market will bear.
+Different pricing strategies have evolved in other industries. Kotler (1976) and Assael (1985) identified three major strategies to be:
+1.Cost-oriented - methods based on cost plus mark-up, break-even, and target rate of return.
+2.Competition-oriented - entailing following the prices of competitors. This involves pricing in relation to competitors' expected reactions
+3.Demand-oriented - pricing based mainly on the going price or customers perceived value.
+Gabor (1977) on the other hand classified pricing policies into two basic approaches - cost-based pricing and market-oriented pricing. Costbased pricing encompasses profit oriented and government-controlled prices, while market-oriented pricing includes customer-oriented and competitive-oriented pricing. Skitmore (1987) produced an argument to show that the structure of the construction industry and the nature of the process lends itself more to market-oriented pricing than cost-oriented pricing.
+Experience and observation of the construction industry clearly indicates that the following are relevant to the construction bid pricing:
+1.Cost based - Two approaches here are relevant. They are - cost estimate plus variable mark-up - cost estimate plus flexible mark-up. The construction literature has emphasised the importance of market conditions on mark-up values.
+2.Market-based - This is relates to a construction firm's perception of the 'going price' of a project considering the general level of competition, workload in the industry, clients bid price consciousness, etc.
+3.Standard rate table based - This is based on extracts from standard construction price books like Spon's, Laxtons, Wessex database, etc.
+4.Historical price based - In this case previous bid prices are adjusted for effects of time, location, current economic conditions, variations in design and construction, etc. This is more relevant to serial tendering where a firm is bidding for a similar project executed for the same client in the past, at the same or different site location(s).
+5.Subcontractors' bids based - If a contractor can guarantee the quality and integrity of his subcontractors, and the ability to adhere to schedule and stay within estimates, subcontractor bids may constitute a huge proportion of the prime contractors bid price. In this case, the contractor may treat these bids as a cost to him and upon which to base his mark-up. Hillebrandt (1985) has emphasised that the more work a contractor subcontracts to others the lower will be his risk and thus the lower the potential mark-up on the total value of the contract.
+6.Cover price - Many reasons prompt a contractor to quote a cover price in competitive tendering. Lack of desirability for a job and lack of time to prepare detailed cost estimating or market studies are very important.
+Individual firms' pricing objectives and perception of the factors influencing the pricing decision will to a great extent determine or dictate the pricing policy to adopt on bid pricing.
+Figure 2 models a general framework for contractors' pricing strategy. This suggests that the pricing objectives of firms which can be broadly categorised into profit maximization and profit satisficing determines the pricing policy of firms. For example, a firm that adopts "target return on investment" as pricing objective could be regarded as having satisficing profit rather than maximizing the profit (Simon, 1959). Such firms set prices by adding a standard mark-up to costs and are therefore not profit maximizers (Hall and Hitch, 1951). On the other hand, a firm whose pricing objective is sensitive to competition, workload and price consciousness of clients could be regarded as a profit maximizer and generally adopts market oriented pricing policy.
+Factors influencing pricing are factors that influence estimating and allocations of risk and uncertainty. To a great extent, project profitability depends on the expected risk and uncertainty involved in a contract. A firm that intends to spread risk and uncertainty may settle for a subcontractors' bids based pricing policy. In essence, the sub-contractor's pricing process will be central to the overall pricing process (Flanagan and Norman,1989).
+The procurement system determines the contractual relationship between the client and contractor. The level of confidence a contractor has in this system will determine whether to adopt a flexible mark-up or fixed mark-up pricing policy. A firm that has least confidence in a contract procurement system may bid based on a cover price.
+Environmental factors determine the workload available for the industry. Turbulent environmental conditions characterised by sluggish construction demand, intense competition, fluctuating interest rate, high corporation tax, harsh government regulation etc, lead to quick changes in firms' pricing policies. In essence, pricing policies are fine turned to prevailing economic condition, such that a firm changes cost based pricing to market oriented pricing -that pays more attention to environmental dynamics- in time of economic uncertainty, and when there is a need to break-even or penetrate into a new construction market.
+Figure 3 proposes a model for construction contractors' detailed pricing strategies. It indicates the detailed pricing objectives of firms and factors specific to profitability, environmental conditions, cost estimating and procurement system that are known to influence pricing policy decisions of firms. In the development of the model all the stages in the development of pricing strategies identified in Figure 2 have been taking into consideration. The model identifies the links or relationships between the different stages of price determination. The figure, for example, shows that cost plus fixed mark-up in tender price determination is based on a profit satisficing objective. The figure identifies the factors related to cost estimating and mark-up. The figure establishes a link between mark-up and profitability, type of work, location, and procurement system. For other pricing policies, that is, market oriented, sub-contractor bids based, historical price based and cover price based, the linking factors can also be traced in the model.
+In essence, the firm's pricing objective is central to a pricing strategy. Pricing strategies are expected to be flexible and change with the circumstances of a construction project. Factors influencing the pricing decision have a prominent importance and provide a pointer to the risk level involved in a contract.
+
+This paper describes a conceptual model of construction contract pricing strategies and has identified the links between all the stages involved in bid price formation.
+However, rigorous research is necessary in identifying of the strength of these relationships. The tender success rates of these strategies need investigation while the contribution of each of the strategies to project profitability is a further important area. Research is also necessary to assess the dynamics involved in terms of changes in strategy and strategy type through changing market conditions, company resource levels, etc., and particularly the transition from cost-based to market-oriented strategies as the market price of construction becomes less certain.
+Although based mainly on a literature review, it is expected that the conceptual model could be very helpful in the development of computer aids for construction contractors pricing strategies, while at the same time, enrich our understanding of the pricing decision process of construction firms.
+The influence of macroeconomic factors on the pricing strategies of individual construction firms is also seen to be an important area of future research.
+Abratt, R., Pitt, L.F., 1985, Pricing practices in two industries, Industrial Marketing Management, 14, pp. 301-306. Assael, H., (1985) Marketing Management: Strategy and Action, Kent Publishing, Boston
+Azzaro, D., Hubbard, J., Robertson, D., 1988, Contractors Estimating Procedures - An overview, RICS, Surveyors Publications.
+Beeston, D., 1987, A future for cost estimating, in P.S.Brandon (ed) Building cost modelling and computer, pp. 17-24. Davis, J.R., 1978, Determining the 'Plus' in cost-plus pricing, Management Accounting, May, pp. 198-201.
+Flanagan, R., 1980, Tender prices and time predictions for construction PhD.  thesis, University of Aston, Birmingham.
+Flanagan, R., Norman, G., 1989, Pricing Policy, in Hillebrandt, P.M. and Cannon J. (eds), The Management of Construction Firms - Aspect of Theory, Macmillan, pp. 129-153.
+Gabor, A., 1977, Pricing: Principles and Practice, Gower publishing company. Geotz, J.R. Jr., 1985, The pricing decision: A service industry's experience, Journal of Small Business Management, April, pp. 61-62.
+Govindarajan, V., Anthony, R.N., 1983, How firms use cost data in pricing decisions, Management Accounting, July, pp. 30-36.
+Hall, R.L., Hitch, C.J., 1951, Price Theory and Business Behaviour, in Wilson, T., Andrews, P.W.S., (eds), (Oxford Studies in the Price Mechanism, Oxford University Press, Oxford.
+Hillebrandt, P.M., 1985, Economic Theory and the Construction Industry, 2nd Ed.
+Hutcheson, J.M., 1990, Forecasting the building market, Proceedings, CIB 90 Congress, Vol.1, March, pp. 135-143.
+Koehn, E., Navvabi, M.H., 1989, Economic and social factors in construction, Cost Engineering, 31, No. 10, Oct., pp. 15-18.
+Kotler, P., 1988, Marketing Management: Analysis, Planning and Control, 6th ed., Prentice-Hill, Englewood Cliffs.
+Lanzillotti, R.F., 1958, Pricing objectives in large companies, American Economic Review, 48, pp. 921-940.
+Oxenfeldt, A.R., 1973, A decision-making structure for price decision, Journal of Marketing, 37, Jan. pp. 48-53.
+Pass, C., 1971, Pricing policies and marketing strategy: An Empirical note, European Journal of Marketing, 5, Autumn, pp. 94-98.
+Raftery, J., 1987, The state of cost/price in UK construction industry - a multi criteria approach, in P.S.Brandon (ed), Building cost modelling and computers, pp. 49-72.
+Runeson, K.G., Bennett, J., 1983, Tendering and price level in the New Zealand building industry, Construction papers, 2, No. 2, pp. 29-35.
+Shaw, W.T., 1973, Do builders estimate? or Do they price? Surveying Technician, 8 Aug., pp. 16-18.
+Shipley, D.D., 1981, Pricing objectives in British manufacturing industry, The Journal of Industrial Economics, XXIX, June, No. 4, pp. 429-443.
+Simon, H., 1959, Theories of Decision Making in Economics and Behaviourial Science, American Economic Review, 49, pp. 253-83.
+Skitmore, R.M., 1987, Construction Price: the Market Effect, University of Salford, Civil Engineering Department, Salford.
+Skoyles, E.R., 1977, Prices or costs? , The Quantity Surveyors, April,pp. 165-168.
+Southwell, J., 1970, Building cost forecasting, Selected papers on a systematic approach to forecasting building cost, RICS Publications. Tellis, G.J., 1986, Beyond the many faces of price: An integration of pricing strategies, Journal of Marketing, 50, Oct., pp. 146-160.

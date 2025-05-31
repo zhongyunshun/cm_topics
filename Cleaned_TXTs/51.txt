@@ -1,0 +1,332 @@
+Management of construction waste in public housing projects in Hong Kong
+To cite this article: Chi Sun Poon , Ann Tit Wan Yu , Sze Wai Wong & Esther Cheung (2004)
+Management of construction waste in public housing projects in Hong Kong, Construction
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (September 2004) 22, 675–689
+Management of construction waste in public housing projects in Hong Kong
+CHI SUN POON*, ANN TIT WAN YU, SZE WAI WONG and ESTHER CHEUNG
+Department of Civil and Structural Engineering, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong
+Received 23 October 2003; accepted 11 March 2004
+Waste management in the building industry in Hong Kong has become a major environmental issue in recent years. Of particular concern is the increasing amount of construction and demolition (C&D) waste being dumped at landfill sites. Greater consideration must be given to waste generation and management at the planning stage of a building development to reduce wastage levels. The causes and quantities of building construction waste generated on public housing building sites in Hong Kong have been analysed. Five public housing construction sites were selected for the study by regular site visits. Timber boards used in formwork were the most significant waste type requiring disposal followed by waste derived from wet trades. Waste generation could be significantly reduced by the use of precasting and system formworks. The major causes of wastes were improper preparation and handling, misuse, and incorrect processing. In general, little on-site waste sorting was carried out. Appropriate planning including the preparation of a detailed waste management plan is essential for effective waste minimization. At the construction stage, better house keeping and more vigorous on-site sorting of inert from non-inert materials are necessary. Waste indices calculated from waste monitoring data should be publicized and used for future waste estimations.
+Hong Kong, construction waste, waste recycling, waste management plan, on-site sorting
+Introduction
+Like many other urbanized cities, the construction industry is the major solid waste generator in Hong Kong (Kibert, 1994; Ferguson et al., 1995; Graham and Smithers, 1996; Faniran and Caban, 1998; Guthrie et al., 1999; Symonds Group Ltd, 1999; Lawson and Douglas, 2001). The extensive building and infrastructure development projects as well as redevelopment of old districts have led to a significant increase in construction & demolition (C&D) waste generation in the last decade.
+Currently in Hong Kong, little consideration has been paid on the control of generation of C&D waste in building projects. This can be attributed to the availability of relatively inexpensive (currently free) means of waste disposal and the generally low environmental awareness of the construction industry in Hong Kong
+*Author for correspondence. cecspoon@inet.polyu.edu.hk
+(Poon et al., 1996). Also, labour is generally much more expensive than the building materials cost (Yau and Wong, 1997; Wong, 2000). Therefore, contractors tend to allow considerable amount of material loss or wastage on site rather than put more human resources in managing the materials or educating the workers to minimize waste and loss.
+According to the Environmental Protection Department (EPD, 2000a), a daily average of about 37 690 tonnes of C&D waste was generated and 20% (approximately 7480 tpd) of this waste material was disposed of to landfills whilst the remaining 80% (approximately 30 210 tpd) was disposed to public filling areas every day (EPD, 2000a).
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online © 2004 Taylor & Francis Ltd
+To manage such a huge quantity of C&D waste, Hong Kong has adopted a strategy of depositing the inert useful portion of C&D waste, comprising sand, bricks, rocks, asphalt, rubble, stones, earth and concrete at public filling areas (PFA) as they are suitable for sea reclamation and land formation works. Some may also be recycled for use in construction works. The noninert part of C&D waste comprising plastics, bamboo, wood, paper and packaging material are often mixed and contaminated. They are, therefore, not suitable for reuse in reclamation works or recycling as construction materials and have to be disposed of at municipal solid waste landfills. The strategy aims at reusing the C&D materials and minimizing the amount of disposal so that the life span of the landfills can be extended (The Hong Kong SAR Government, 1998). However, the recent public objections to public filling, especially for those within Victoria Harbour areas, have greatly reduced the disposal outlets of C&D waste. Approved reclamation projects will only provide outlets for inert C&D waste until 2002 (Legislative Council, 2000). The ultimate chain effect is that all inert materials may finally be diverted to the landfills. If the situation remains unchanged, Hong Kong landfill space will be exhausted in 10–15 years (EPD, 2000b). This calls for the construction industry to look for new ways of avoiding, minimizing, reusing, recycling and handling C&D waste.
+It is generally accepted that material control and avoidance of waste on building sites present particular problems due to the nature of the construction process and the involvement of a wide range of construction personnel. It is recognized that materials delivered to construction sites are not always used totally for the purpose for which they were intended, and that considerable quantities are destroyed or otherwise lost. A major proportion of construction waste generated can be related to both design and operation activities. There are two main kinds of building construction waste, structure waste and finishing waste (Skoyles and Skoyles, 1987). Concrete fragments, reinforcement bars, abandoned timber plate and pieces are generated as structure waste during the course of construction. Finishing waste (including a wide range of waste materials) is generated during the finishing stage of a building. For instance, surplus cement mortar arising from screeding scatters over the floors inside the building. Broken raw materials like mosaic, tiles, ceramics, paints and plastering materials are wasted because of careless use. The packaging of public and household facilities, such as gas cookers, bathtubs, washtubs and window frames, are also parts of the finishing wastes. Waste research data from the Netherlands indicated that 9% (by weight) of the totally purchased materials ended up as waste, and from 1% to 10% of every single purchased construction material leaves the construction site as solid waste (Bossink and Brouwers, 1996). In a study conducted in Palestine, 5–11% of the purchased materials were not used well and ended up as waste (Enshassi, 1996).
+This paper is the result of a research study carried out by the Hong Kong Polytechnic University to study construction waste management in Hong Kong public housing projects. The research study focused on analysing the causes and quantities of building construction waste generated, as well as the current waste handling methods used in public housing projects in Hong Kong with a view to recommend ways to reduce waste generation for future building projects.
+The research was conducted in collaboration with the Hong Kong Housing Authority. Five public housing construction sites were selected for the study with three sites were at the superstructure stage while the others were at finishing stage. Regular site visits were carried out from September 2000 to May 2002. For the superstructure stage, the main research areas included formworking, reinforcement fixing, in-situ concreting and installation of precast elements. For the finishing stage, the main research areas included brick work, screeding, plastering, painting, tiling, installations of sanitary fittings, kitchen joinery, dry wall, doors and gates.
+Before the site visits, a set of checklists was prepared for data collection. These included (Hong Kong Polytechnic University, 2002):
+• operational document checklist;
+• stage of superstructure checklist;
+• stage of finishing checklist;
+•· truck record form;
+• materials wastage level checklist;
+• on-site sorting form;
+• concreting form;
+• sanitary fitting form; • screeding form;
+An example of the flow-chart describing the work process is in Figure 1. The quantities of waste were estimated by visual inspections, tape (i.e. volume) measurements and trunk load records. Apart from site observations, interviews with construction managers and site foremen were conducted. The following issues were covered in the interviews:
+• Sequence of site processes and activities;
+• Responsibilities of sub-contractors on waste management;
+• Problems of waste management;
+Figure 1	Flow chart showing waste management and working process of in-situ concreting
+• Waste reduction measures;
+• Limitations of on-site sorting; and • Suggestions to avoid and minimize waste.
+A detailed case study is included in this paper to illustrate and support the findings of this study.
+Research findings
+Causes and quantities of construction waste
+Based on site observations and interviews with building professionals, it was noticed that a significant amount of building materials ended up as waste on the sites studied, including timber, metal, concrete, brick, sand, etc. There are many contributory factors to this, including human and mechanical, and these are identified in Table 1. The observations showed that timber boards from timber formworking was the most significant waste type requiring disposal (50%), and steel from metal formworking had the highest recovery level (100%). Improper preparation and handling, misuse, and incorrect processing were the major causes of material wastage on construction sites. Generally speaking, more management attention was given to the materials that have a significant impact on the project cost, for example, steel reinforcement, and little attention was paid on controlling wastage of other materials.
+Waste handling method
+Generally, inert and non-inert waste on building sites was delivered to the ground floor refuse compound through the refuse chutes mixed up, then transported by trucks and disposed of at landfills without sorting. Figure 2 shows a flowchart representing the general waste handling method on building sites. It was found that metal was the only waste material worth recycling after comparing separation costs with premium paid for the material by the recycler. There is little premium for recycled wood, gypsum drywall, concrete and most other building materials. Therefore, most contractors generally do not have the practice of reuse / recycling of these materials nor on-site sorting.
+The calculation of the waste index aims at helping the project manager of a building project to anticipate the quantities of waste that will be produced in projects in order to establish awareness of waste management, to develop good planning on resources and environmental management and to reduce wastes generation during all stages of a construction project (Poon et al., 2001a). The methodology of calculating the waste index is as follows:
+(2) N = total no. of trucks for waste disposal;
+(3) W = total waste generated from the project (m3) = V × N;
+(4) C = Waste index = W/ GFA (i.e. construction of 1 m² gross floor area (GFA) generates C m³ of waste).
+Table 2 shows the waste index calculations for the two sites that were completed and the average was
+0.176 m³/m². Although more sites should be considered
+Table 1	Causes and disposal level of building waste generated from various trades at the surveyed sites
+Cause of Wastage
+
+formworking
+Striking of formwork
+
+Left over on the truck after unloading
+Cutting waste
+Damage due to careless handling of
+workers during bricks and blocks work
+Abortive work
+Damage due to careless handling of
+Cutting waste
+Wall and floor
+Broken bags due to careless handling of
+
+of workers during transportation to working levels Left-over
+Lost while applying
+Wall and ceiling
+Broken bags due to careless handling of
+Broken bags due to improper stacking
+Broken bags due to careless handling of
+Lost while applying
+Damage due to careless handling of
+Damage due to careless handling of
+workers during transportation to working levels
+Cutting waste
+Abortive work after quality checking
+(e.g. cracking due to poor workmanship)
+Cause of Wastage
+
+Installation of
+Sanitary fittings
+Damage due to careless handling of
+Damage due to careless handling of
+Damaged by workers from other trades after installation
+Figure 2	Flowchart showing current waste handling method of Hong Kong Public Housing Site
+Table 2	Waste index of two completed projects
+
+for a more representative figure, these calculations can be used to estimate quantities of waste that may arise as a result of a building project.
+The ISO 14000 standards lay out tools and systems for the management of various environmental obligations and the conduct of product evaluations, without prescribing what goals an organization must achieve (Midgelow, 2001). The ISO 14000 series, taken as a whole aims to provide guidance for developing a comprehensive approach to environmental management and for standardizing some key environmental tools of analysis, such as labeling and life cycle analysis. It is becoming more of a common practice for construction companies in Hong Kong to be required to give evidence of their environmental credentials and to be accredited under ISO 14001 (Chan and Li, 2001). This acts as a process of achieving continuous environmental improvement.
+Table 3 compares two sites studied, one contractor with and one other without ISO 14001 certification. The study showed that the two companies were quite different in terms of their management systems (for instance, aspects of structure and responsibility, training, communication, document control, records keeping etc were much better established, organized and controlled in the ISO 14001 certified company). However, no significant differences were noticed in their waste management practices. It is suggested that in order to achieve a sound waste management and a reduction of the waste produced, apart from ISO14001 certification, a detailed waste management plan is needed.
+A waste management plan (WMP) puts the waste issue on the map, making it the first step to identify whether potential waste problems exist. In general, a WMP lists specific wastes and identifies the amounts to be targeted for reduction, salvage, reuse or recycling (McDonald and Smithers, 1998). The inclusion of a timeline in the plan allows it to identify when in the construction process specific wastes will be generated (e.g. packaging waste from interior finishing). In addition, by means of prior planning, waste prevention goals for specific materials can be established, as well as arrangements for its storage, reuse, transportation and disposal. It is a cyclical process incorporating planning, acting, reviewing and improving. The following aspects should be included to form the structure for a waste management plan:
+• Analysis of waste generated – types/quantities/ time;
+• Alternatives to disposal – reduction of waste, sorting of waste;
+• List of materials for reuse, salvage, recycling;
+• Material/waste handling procedures;
+• Designation of on-site waste management manager by the contractor;
+• Waste sorting and handling facilities; and • Special handling and disposal of hazardous waste.
+The effectiveness of three WMPs on three of the sites were studied in details to identify whether or not certain requirements stated in the WMP were complied with (Table 4). It is suggested that the following points should be included and emphasized in future WMPs: • Include names and contacts of salvagers, reusers and recyclers. It is important that these should be identified to ensure that the outlet of materials is known. Contacts of other alternatives should also be included in cases of emergencies to be sure that waste materials are not abused if their original outlet cannot be used.
+• The on-site sorting technique used for separating inert from non-inert waste should be included. As the sorting technique is one of the most important factors for waste recycling.
+• Descriptions for sorting, segregation, labelling, storing, protecting and disposing procedure should be described more fully.
+• It is useful to include a site plan showing the location of all waste management facilities on site.
+Evaluation of the feasibility of on-site sorting of building waste
+The best way to reduce impact upon landfill once we have adopted waste reduction practices in design and construction is to sort the waste on-site before disposal. This will ultimately open up recycling and, therefore, business opportunities for recyclers. On-site sorting should be an integral part of construction waste management.
+In this study, three alternative methods for on-site sorting were studied and compared as follows:
+Table 3	Comparison between companies with and without ISO14001 certification
+Company without ISO 14001 certification
+Company with ISO 14001 certification
+Find ways to minimize the environmental hazards
+Carry out the construction works according to
+arising from the activities and effectively tackle
+specification and by taking into consideration
+the problems of noise, dust, wastewater, waste,
+impacts to the environment and comply relevant
+chemical waste, site appearance etc on site
+Achieve continual improvement on quality and
+prevention of pollution by adapting and
+continuing suitability and effectiveness in
+satisfying the company’s stated environmental
+technologies that will minimize pollution,
+policy and objectives
+wastage,  and sustain effective utilization of
+Comply with relevant environmental legislation
+and regulations and fulfill the special
+Educate staff to be environmental consciousness,
+aware of their quality and environmental
+their clients
+responsibilities, and communicate objective to
+Dare to apply new environmental technology to protect the environment and reduce pollution
+Set environmental objectives and targets and review their performance
+Accept the opinions, criticism and comments from customers, government, public and stark holders sincerely and face them in an active manner Publish Environment Protection Report to the public annually
+Build up environment protection culture among staff, workers and sub-contractors. Urge them to fulfill environmental protection obligations and commit environment protection works
+Keep close communication and contact with the
+Environmental Protection Department, Labour Department, clients, sub-contractors, suppliers, staff and the public and to improve the environment together with joint effort
+the general public
+Objectives and
+Establish waste control scheme and waste
+Establish awareness of waste management, to
+reduction scheme
+develop good planning on resources and
+Keep wastage of reinforcement, concrete and tiles
+in 8%, 5% and 6% respectively
+generated during all stages of a construction
+Collection and recycling of recyclable materials
+Buying or manufacturing recycled products
+Yes. Environmental Department, Health Safety
+Safety Officer
+Yes. Awareness training of environmental aspects
+training program for all employees and sub-contractors
+is provided to all staff and newcomer
+Media used to
+Posters, but only related to the issues inside the
+EMS Manual is available for inspection at any
+inform employees
+time by all staff and customers
+and sub-contractors
+The Environmental Policy is displayed at the
+organization and sites for viewing of all staff and
+general public. It is also located in the company’s web site
+All new employees are informed of the
+Environmental Policy and objective within the first week of their employment
+Company without ISO 14001 certification
+Company with ISO 14001 certification
+Monitor of the
+Yes. But not regularly and not
+Project Manager review the waste expense every
+conformance of the
+6 months for achievement
+Project Manager review and evaluate compliance
+with relevant environmental legislation and regulations every 6 months
+Project Manager carries out monthly review on the EMS system and monthly site walk to review the status of implementation and seek for correction, preventive measures and further continuous improvement
+Yes. Monthly Environmental Site Inspection
+/ Site inspection record
+
+Waste recycling and
+Yes. But only on concrete,
+reinforcement and tiles
+that comprise the recycling and minimization
+and associated documents
+plan of all site activities
+Procedures or
+Yes. But only on concrete, reinforcement and
+which focus on all site activities
+Yes. Truck record
+Yes. Truck record
+Yes. Only on concrete, reinforcement and tiles
+Yes. Focus on concrete, reinforcement, tiles, sanitary fittings, and dry wall
+Waste forecast
+Waste indexes developed from the past projects are used to anticipate the total waste generated and total waste handling cost of the current project
+On site sorting of
+Reuse of C&D
+Timber formwork, pallets, bamboo scaffolding
+Timber formwork, pallets, bamboo scaffolding will
+will be reused
+Recycle of C&D
+Reinforcement scrap, large panel formwork are
+Reinforcement scrap, large panel formwork are
+Except pallets are returned to the suppliers, all
+Except pallets are returned to the suppliers, all are
+are disposed of at landfill
+disposed of at landfill
+Allowable wastage levels of materials like
+Allowable wastage levels of materials like concrete,
+reinforcement, tiles are developed from the past
+from the past projects. The wastage levels of
+The wastage levels of materials are
+materials are audited periodically to ensure it
+audited periodically to ensure it is within the
+is within the allowable wastage level
+allowable wastage level
+
+semi-slabs, prefabricated joinery on kitchen,
+large panel formworks on typical floors, metal
+on typical floors, metal falsework. Site C has also
+falsework.Note: The company is investigating the use of prefabricated bathroom in future projects currently
+adopted sprayed plaster
+Destination of disposal of waste
+Table 4	Assessment of WMPs prepared
+Types and quantities of waste to be generated
+Some WMP may include the types of wastes generated but the quantities are not included
+Materials to be salvaged/reused/recycled and quantities
+Name of salvagers/reusers/recyclers to be used and alternative contacts for emergencies
+Detail of maintaining records salvaged/reused/recycled
+Method statement of implementing the trip ticket system location of final outlet of waste and frequency
+None of this information is ever mentioned
+Detail of on-site sorting technique for inert and non-inert waste
+Rarely are these included in the WMP
+Description of methods for sorting/segregation/labeling/storing/protecting/disposing
+Rarely are these included in the WMP
+Description of sorting/storage areas
+These are rarely mentioned
+Description of waste flow on-site
+These are rarely mentioned
+Organizational chart with responsibilities, names and contact details
+Most WMP’s include a organizational chart with responsibilities dedicated to each position but the names and contact details of the person taking up the role is hardly ever mentioned
+• Two refuse chutes for each block of building, one for inert waste and the other for non-inert waste;
+• Separate collection of inert waste and non-inert waste from the two refuse chutes;
+• Inert waste and non-inert waste are cleared by different trucks and disposed of at public filling area and landfill respectively.
+• One refuse chute for each block of building;
+• Only one type of waste, either inert or non-inert waste would be collected and removed within a period of time (e.g. every couple of days).
+Pit and protective shelter for manual sorting
+Refuse chute – 1 m2 per floor and area around will be reserved
+Refuse compound 19 m2 per block at ground floor
+Extra space is required on each floor to store the waste temporarily
+220 m2 / at Finishing stage.50 m2 at Super structure stage
+• One refuse chute for each block;
+• A sizable pit for waste storage on the ground level; • Manual sorting of waste at the pit;
+• Separate removal of sorted wastes.
+A previous study conducted by the authors (Poon et al., 2001b) indicated that the factors affecting the choice of a sorting scheme are as follows, from the most important to the least important: (1) site space, (2) management effort, (3) labour, (4) cost, (5) interference with normal site activities and (6) waste storability.
+Based on the on-site surveys in this study and interviews with the building professionals, the feasibility of the above schemes is discussed as follows:
+• Scheme 1: the contractor should schedule the removal the sorted waste by trucks. There should be clear notices to show the locations of separated chutes to avoid mixing of wastes.
+• Scheme 2: a well-planned schedule has to be set up such that the construction waste can be sorted and cleared at the specified times. Also, management should give proper instructions to workers to avoid mixing of sorted wastes.
+• Scheme 3: extra effort has to be provided for managing a waste sorting area on-site and providing safety measures to protect the workers.
+Labour and cost
+• Scheme 1: this scheme incurs low labour cost, but the operation costs of installing and dismantling additional refuse chutes and compounds are higher. Also, additional running cost may be included to maintain additional chutes.
+• Scheme 2: low additional operation cost and running cost.
+• Scheme 3: this scheme incurs costs for installing the sorting area and the related equipment and tools. Additional running cost is required for employing workers for manual sorting.
+Interference with normal site activities
+• Scheme 1: site activities at working levels are affected, as additional chutes require more space. Also, extra ground floor space is required for the additional refuse compound; additional trucks for carrying recycled materials may cause inconvenience to site activities.
+• Scheme 2: additional space is needed at working level for storing wastes, as those waste may be required to store near the refuse chute for 1 or 2 days.
+• Scheme 3: it requires ground floor space for sorting manually; site activities such as unloading and storage of additional materials and site excavation works will be affected.
+Waste sortability
+• Scheme 1: high waste sortability;
+• Scheme 2: more effort is needed to ensure high sortability;
+• Scheme 3: more effort is needed to ensure high sortability
+It has been concluded that due to congested and limited site areas in most building sites in Hong Kong, site space is the most dominating factor affecting the choice of an on-site sorting (Poon et al., 2001b). Therefore, Scheme 2 was found to be the most feasible option for on-site sorting in most public housing projects in Hong Kong as it requires the least additional space. However, for sites which have adequate site space for setting up an additional refuse chute, Scheme 1 is considered to be the most efficient method to sort building waste. Under any circumstances, Scheme 3 should be the last resort unless minimum interventions with the site activities become predominant.
+
+Tseung Kwan O, Area 73A Phase 2 was one of the many Hong Kong Housing Authority’s building construction projects constructed to deal with the growing demand for low-cost public housing due to the increase in population. It consisted of two 40-storey harmony blocks and an eight-storey primary school. The site is situated on an area of 1500 square metres, with a gross floor area of 96 440 square metres. The project was completed in mid 2002.
+Distinctive features
+The project used a number of precast concrete elements that could significantly reduce the amount of waste produced. These included precast façade, prefabricated kitchen façade, prefabricated bathrooms, precast staircases, precast claddings and semi-precast slabs. Of these, the precast bathroom and precast cladding were used for the first time in Hong Kong. The use of precast elements eliminated the use of wet-trades that tended to cause the highest proportion of wastage on building construction sites. Moreover, the use of precast elements shortened and enabled prediction of the project time more accurately. Although the use of the precast bathroom and precast cladding were both estimated to be slightly more expensive (about 10–15%) than using the more traditional methods, the other precast elements were estimated to be approximately the same in price compared to the traditional methods. The price comparison between precast and traditional methods depended mainly on material and labour costs. The cost of traditional methods attributes to roughly 80% labour and 20% materials, whereas for the precast elements it is roughly 50% labour and 50% materials. Hence, the more expensive the labour, the better value it is to use precast elements (usually the case in more developed cities such as Hong Kong). It was estimated by the project engineer of this project that the use of these precast elements could reduce wastage by 30–40%.
+Other features of this project included the use of aluminium formwork for the construction of the floor slab, use of steel scaffolding and large panel steel formwork. The use of steel scaffolding and aluminium formwork had also reduced wastage levels as steel and aluminium can be reused many more times compared to bamboo and wood. In fact, only one set of steel and aluminium formwork was required for the whole building block compared to 4–5 sets of timber formwork that would have been required for a typical 40 storeys block. Also, steel and aluminium formwork could be reused/ recycled after the project was completed.
+Methodology of on-site sorting
+In this project, the second on-site sorting scheme (scheme 2) described previously was used. During construction, waste was sorted into different piles of (1) inert, (2) non-inert waste and (3) recyclables, reusable and returnable materials. This site used a one chute per building approach due to the limitation of space (a common problem on construction sites in Hong Kong). This was found to be sufficiently effective in this case. Two chutes to separate inert and non-inert waste would probably be too demanding in terms of site space and costs due to installing, dismantling and operation. At regular intervals during the day the piles of sorted wastes were transferred from each of the floors to the ground via the chute. The site used a system similar to traffic lights where a light was used to indicate which type of material went through the chute. The site workers on the ground floor would sort the wastes into their respective containers (refer to Figure 3 for detailed explanation of the sorting system). The waste collected from the two blocks would then be transported to the storage areas by wheel barrels. The contractor gave instructions concerning on-site sorting and waste management to the subcontractors. The subcontractors were largely able to comply with the requirements of the contractor on matters concerning waste management as part of their contract conditions.
+The contractor believed that on-site sorting had no effect on the overall construction costs. Due to keen competition, sub-contractors were willing to take on the additional responsibilities of waste management at the same price. The same principle also applied to the subcontractors, as they would employ labourers who were willing to take on the additional waste management duties involved. In this project, on-site sorting did not show any interference with normal site activities and waste sortability was not seen as a problem for workers on-site. This is believed to be just a matter of habit before the site workers accept waste management as part of their work.
+The submission of a WMP for this project was not compulsory, but the main contractor still produced one, with parts of it in the local language to convenient the workers. The WMP was referred to frequently. The management of the contactor required its site staff to carry out monthly reviews with checks to ensure that operations on-site follow the plan provided. The site staff were monitored and reminded continuously of their duties as specified in the WMP. Overall, the contractor found that the WMP was useful and effective.
+Wastes were sorted and stored separately as inert waste, non-inert waste, wood, metal and chemical waste. The majority of the wastes from the chutes would either fall into the categories of inert waste or non-inert waste. Additionally, different refuse bins were conveniently located around the site to encourage workers to perform on-site sorting. This site relied on a number of different salvagers for the collection of different materials. These included paper, wood, metal, aluminium cans, plastics, etc. Each of the salvagers visited the site approximately twice a week depending on needs. When the storage areas were full the contractor would contact the respective salvager to collect. Records of salvaged material were kept as some of the salvagers had to pay the contractor for the material they took away. However, in cases where money was not involved, records tended to be vague.
+According to the contractor 25% of the waste generated on site was recycled, reused or returned. Records of the quantities of timber waste, wood waste and metal waste recycled were kept. An average of six trucks per month of timber waste was salvaged. Each truck can hold approximately 12 m³ of wood waste, but no exact weight was available as there was no money involvement, due to its low price. The market price recycled of timber in Hong Kong can range from HK$0.20 to HK$0.40 per kg (HK$7.8 = US$1) depending on the quality and form. Approximately, paper was recycled at the average rate of 660 kg per month, and mixed metal at 12 500 kg per month. Obviously these figures can only be used as a rough guide, as at different stages of work the waste levels would also be different.
+Recommendations for minimization of building waste
+Preventive actions for waste generated from different construction trades
+Based on the findings of this study, recommendations for minimizing waste generated from different construction trades are shown in Table 5.
+Dissemination of waste indices
+It is suggested that contractors should provide the client with the waste indices (in m³/m² GFA) of their completed projects as a contract requirement. The client or developer can carry out periodic audits and disseminate the waste indices to the public regularly. These waste indices can be used as a reference for future projects to promote waste minimization.
+Figure 3	Flowchart showing the waste management procedures and on-site sorting for Tseung Kwan O Area 73A Phase 2
+A major barrier to the recycling of waste is the level of processing required to produce what is essentially a low value product. This could be overcome if the level of source separation of waste can be improved. It is highly recommended to include on-site sorting of waste as a contract requirement or a legal requirement.
+Regular site inspection and review of the WMP periodically
+Site inspection should be carried out on a regular basis. It is essential to consider reduction of construction
+Table 5	Recommendations for minimizing waste generated from each trade
+Likely reason of waste
+Preventative action
+
+Instruct workers about proper materials handling
+and stacking methods, e.g. maximum height of stacked materials, tidy working and storage environment
+Store materials on a firm, level base, especially when they are stacked
+
+Excessive ordering for dry wall is provided for
+Better material protection and site supervision can
+estimated damage of materials at site
+reduce the amount of damage
+
+Ready-mix cement has longer drying out period
+(approx. 2 days) than on-site mixed cement.
+Tidy and clean floor and working environment can
+However, material is wasted as holidays and typhoon may stop normal construction process
+Also, materials are lost while applying as the wall screeding cement will be wasted when they dropped on dirty floor.
+help reducing waste loss while applying
+Broken bags due to improper stacking and handling.
+Instruct workers about proper materials handling
+Over-mixed plaster will become useless as the
+materials are dried out at next day
+materials in separate stacks, tidy working environment
+Mixing less plaster before the end of each day and better storage is needed
+Instruct workers about proper materials handling
+Cutting waste
+and stacking methods, e.g. avoid over supply to the working area, always stored on a firm and level base
+Packaging is designed to protect the materials and may also provide integrity to load, so only remove it when the tiles are required for use.Improve size co-ordination and better material utilization is needed. Stored and reused the cut off waste
+Installation of
+protection and site supervision can reduce wastage caused by workers and damages after installation
+waste and awareness of environmental protection as basic requirements in site inspection records. Presently, different contractors use different kinds of selfmonitoring system, so it is difficult for the Housing Authority to evaluate their effectiveness. The client should provide a detailed and formal checklist for the contractors’ reference. The contractor should also review the Waste Management Plan periodically to identify additional waste reduction alternatives.
+Training and education
+It is important that all levels of the contractor, subcontractor and site workers are provided with the necessary training to cope with the waste management procedures throughout the construction process. It is also suggested that the Housing Authority should consider developing guidelines in both Chinese and English about waste handling and minimization to provide a more reliable and consistent means to educate site workers.
+Recycled materials should be stored in a designated area that is clearly labelled and the wastes should be kept free from contamination that may make them unsuitable for recycling. The Housing Authority may provide guidelines to the contractor, e.g. the correct handling and storage method of the potentially reusable or recyclable materials. In addition, a list of recycling companies should be provided to the contractor as a reference.
+Good housekeeping, including better material ordering and storage, plays an important part in maintaining a more efficient and safer site and helps to reduce material losses and damage.
+The contractor should co-ordinate with the designer and specification writer to use alternative materials instead of timber, to adopt low-waste technologies and to ensure dimensional co-ordination of building design with materials and components to minimize cutting waste.
+Contract conditions may require the sub-contractor responsible for both the purchase of their materials and the disposal of their wastes. This provides a dual incentive to keep wastage of their materials to a minimum. Contracts may also set a limit on the amount of waste that a subcontractor is allowed to generate, and include penalty clauses for losses above the limit and bonus clauses for less waste.
+
+It has been a pressing issue in Hong Kong since the last decade due to the running out of both reclamation sites and landfill space for the disposal of C&D waste. A lot of resources can be conserved and the amount of C&D waste required to be disposed of should be greatly reduced if better waste management is practiced on building sites.
+The causes and quantities of building construction waste generated have been identified and the waste handling methods were closely examined. Observations showed that timber boards from timber formworking was the most significant waste type requiring disposal and steel from metal formworking had the highest recovery level. Improper preparation and handling, misuse, and incorrect processing were the major causes of material wastage on construction sites. Due to congested site areas in most building sites in Hong Kong, site space is the most dominating factor affecting the choice of on-site sorting. Scheme 2 (one refuse chute for each block of building; only one type of waste, either inert or non-inert waste would be collected and removed within a period of time) was found to be the most feasible option for on-site sorting in most public housing projects.
+In order to reduce waste generation in future public housing building projects certain measures need to be adopted. They include measures at the planning stage to avoid and minimize waste generation, such as preparation of a detailed Waste Management Plan. Measures at the construction stage include good house keeping and on-site sorting of inert from non-inert materials, which enable reuse and recycling. At the end of construction the waste indices should be calculated and used for future waste estimations.
+The authors wish to acknowledge the financial support from the Hong Kong Housing Authority and the Hong Kong Polytechnic University (Project A212). Thanks are also due to the contractors for their assistance and co-operation in providing information.

@@ -1,0 +1,159 @@
+Lowest price or value? Investigation of UK construction clients' tender selection process
+Chee H. Wong , Gary D. Holt & Patricia A. Cooper
+To cite this article: Chee H. Wong , Gary D. Holt & Patricia A. Cooper (2000) Lowest price or value? Investigation of UK construction clients' tender selection process, Construction Management and Economics, 18: 7, 767-774, DOI: 10.1080/014461900433050
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (2000) 18, 767–774
+Lowest price or value?
+Investigation of UK construction clients’ tender selection process
+CHEE H. WONG, GARY D. HOLT and PATRICIA A. COOPER
+Built Environment Research Unit, School of Engineering and the Built Environment, University of Wolverhampton,
+Received 19 March 1999; accepted 25 June 1999
+There is a growing urge for a shift from ‘lowest-price wins’ to ‘multi-criteria selection’ practices in the contractor selection process. The rationale is to achieve best value (for money) for the client. Earlier investigations have found that the tender price (i.e. capital cost) still dominates the  nal selection decision despite increased emphases on the need for contractor selection based on ‘value’. This paper provides insights into the evaluation of contractors’ attributes, particularly for project-speci c criteria (PSC), that is, criteria against which tendering contractors may be considered. The importance attached by clients to the ‘lowestprice wins’ philosophy is also reported. The perceived importance of PSC (i.e. their in uence on  nal selection choice) is determined through a structured questionnaire survey of UK construction clients. The results show an increasing use of PSC. It is also found that ‘lowest-price’ is not now necessarily the client’s principal selection criterion, but rather, the realization that cost has to be tempered with evaluation of PSC in any attempt to identify value for money.
+Contractor selection, lowest-price tender, multi-criteria selection, project-speci c criteria, tender evaluation
+Introduction
+Good practice guidance is designed to encourage practitioners to adopt judicious contractor selection methodologies (CIC, 1993; Latham, 1994; CIRIA 1998). This paper concentrates speci cally on the interaction of project-speci c criteria (PSC) and tender price, to highlight the need for selection by ‘value’ during the evaluation of tenderers. It emphasizes PSC as an essential element of this particular client decision task. PSC represent an important component in deciding who is the best contractor for a given project. The term ‘value’ in this context is a function of contractors’ positive characteristics (technical; managerial; health and safety; plant and human resources; and past performance) in providing scope for achieving the client’s objectives.
+The study is unique in that the  ndings provide insight into the evaluation of tenderers’ attributes, along with clients’ perceived importance of the ‘lowest-price wins’ philosophy. The main objectives are: 1, to observe multi-criteria selection tendencies in evaluation of tenderers; 2, to review ‘lowest-price wins’ tender practice; and 3, to aggregate the foregoing  ndings (and data from the survey) to demonstrate current tenderer evaluation options and the possible future research use of these data for improving this particular decision making process.
+A detailed literature review revealed (basic) con rmation of contractors’ evaluation criteria. These criteria
+Construction Management and Economics
+ISSN 0144–6193 print/ISSN 1466-433X online © 2000 Taylor & Francis Ltd
+formed the basis of a UK nationwide questionnaire survey. Data from the survey were analysed using SPSS Version 8.0 and the conclusions are based on these analyses. Simple Relative Index (RI) and Spearman Rank Correlation Coef cient (SRCC) techniques identi ed the level of importance and degree of association (respectively) between PSC rankings for given types of (i) project, and (ii) client. Finally, comparison is made between the ‘lowest-price wins’ principle and PSC for the evaluation of tenders in each category of works.
+Numerous researchers have highlighted ‘essential’ contractor selection criteria. For brevity, these criteria are not repeated in full here. However, the literature cited provides de nitive listings in this respect. Such literature includes good practice guidance for the evaluation of tenders for building and civil engineering works (see IOB, 1979; NJCC, 1985, 1991, 1994a,b; CIRIA, 1998). Identi cation of tenderers’ evaluation criteria (i.e. PSC) may be observed also from the recommendation of construction commentators. Here, the interested reader is directed to Hunt et al. (1966), Helmer and Taylor (1977), Samelson and Levitt (1982), Bent (1984), Bastidas (1984), Moore (1985a,b), Horgan (1987), Birrell (1988), Russell et al. (1989), Merna and Smith (1990), Holt et al. (1994), Kumaraswamy (1996),
+Housing Authority List of Building Contractors (1997), Hatush and Skitmore (1997), CIDBS (1998), and Lo et al. (1998).
+Clearly contractor evaluation (as a ‘generic’ subject) continues to receive close attention by construction researchers and practitioners. Despite this, evaluation criteria themselves largely remain unchanged. This can be seen from the consensus towards contractors’  nancial, managerial, technical, health and safety, quality and past performance aspects. For example, see Helmer and Taylor (1977), Samelson and Levitt (1982), Moore (1985a,b), Kumaraswamy (1996), Holt et al. (1994), and Hatush and Skitmore (1997). Most of these commentators have incorporated these criteria into various contractor evaluation methods.
+The research survey
+Perceptions regarding the role of PSC were observed initially from the literature review. Nine main PSC categories were identi ed. These categories are: manpower resources; equipment resources; project management capabilities; geographical location knowledge; location of home of ce; contractor’s capacity; project execution capabilities; technical-economic analysis; and other relevant PSC (for particular types of work). Thirty-seven PSC (project-speci c criteria) attributed to these nine categories, are listed in Table 1.
+To investigate these criteria, a sample of 250 public and 200 private clients were targeted, and 51 (20%) and 35 (17.5%) completed questionnaires were returned, respectively. Respondents were asked for their perception of the importance attached to these criteria, in respect of three types of works i.e. building, civil engineering and ‘other’. Responses were analysed with respect to these three work categories and with respect to both public, and private clients (i.e. six subsets in total).
+Survey data were analysed using the RI and SRCC techniques. The RI ranking technique is used extensively in construction research for measuring attitude (perceived level of importance in this context) with respect to the surveyed variables (see Holt, 1997). An ordinal scale was used for the measurement of each variable, each respondent being asked to assign a level of importance from 1 to 5, where 1 = least important and 5 = extremely important. From this, the magnitude of the RI for each criterion was calculated. This was followed by rank ordering of the variables based on the RI, where the highest RI = highest rank and vice versa. The ranked variables gave insight as to a set of ‘universal’ PSC for (i) building, (ii) civil engineering works, and (iii) other types of work. A summary of derived Relative Indices and ranks for all these criteria, in respect of the six subsets are given in Tables 1, 2 and 3.
+An SRCC test was performed on the pairs of ranks. Strong association between the ranks of criteria used or considered important for both building and civil engineering works was found amongst both public and private sector client groups (Tables 1 and 2). The results are rPublic = 0.95 and rPrivate = 0.93 (p < 0.01). For brevity of comparison amongst public and private clients, two sets of ‘top- fteen’ PSC were identi ed: the most prominent  fteen PSC, i.e. the highest averaged RI ([RI Building + RI C.Engineering ]/2) from both public and private sectors, were arranged in descending order of importance for comparison (see Table 4).
+The top  fteen project-speci c criteria
+Comparison of this top- fteen for public construction (i.e. among both building and civil engineering work groups) revealed that 14 of the criteria appeared in both work classi cations. The private sector response shows similarity in this respect also. Comparison of these two sets of top- fteen PSC (i.e. highest  fteen averaged RI) from public and private
+Table 1	Project-speci c criteria for public building and civil engineering worksa
+Ability to complete on time
+Site organization, rules and policies (health and safety etc.)
+Maximum resource and  nancial capacity
+Actual work quality achieved on similar works
+Ability to deal with unanticipated problems
+Quality and quantity of human resources
+Quality and quantity of managerial staff
+Proposed construction method
+Amount of key personnel for the project
+Comparison of client’s estimate with tender price
+Experience with speci c type of facility
+Actual schedule achieved on similar works
+Current workload
+Relationship with local authority
+Type of project control and monitoring procedures
+Number of professional personnel available
+Suitability of the equipment
+Comparison of client’s and proposed direct cost
+Amount of decision-making authority on site
+Cost control and reporting systems
+Contractor’s errors – proposed construction method and procedure
+Condition and availability of equipment
+Productivity improvement procedures and awareness
+Engineering coordination
+Comparison between proposed and average tender prices
+Contractor’s familiarity with geographic area
+Contractor’s familiarity with local labour
+Communication and transportation – of ce to job site
+Contractor’s familiarity with local suppliers
+Availability of project management software
+Contractor’s familiarity with weather conditions
+Home of ce location relative to job site location
+a Spearman’s rank correlation coef cient, r Public = 0.95, correlation is signi cant at the 0.01 level (2-tailed).
+clients shows that 14 of the 15 criteria consistently match (Table 4). Results of a similar analysis for ‘other’ construction work also shows signi cant correlation:
+rPublic & Private = 0.80 (p < 0.01) as in Table 3. These  ndings con rm that despite the nature of the work, the clients’ preferences for PSC show signi cant agreement. This  nding lends further weight to the objective of achieving a ‘universal’ set of PSC, for future research, i.e. standard contractors’ attributes/selection model(s) for use in the evaluation of tenderers.
+Tender evaluation has long emphasized tender price; less attention has been placed on quantitative evaluation of contractors’ attributes (Baker and Orsaah, 1985; Merna and Smith, 1990; Holt et al., 1995; Jennings and Holt, 1998). Therefore, the next aspect of the investigation looked at clients’ preferences for lowest tender price and/or evaluation of PSC. The questionnaire asked that respondents considered such a preference based on their past two years selection experience. As shown in Table 5, 66% of public clients
+Table 2	Project-speci c criteria for private building and civil engineering worksa
+Ability to complete on time
+Ability to deal with unanticipated problems
+Actual work quality achieved on similar works
+Actual schedule achieved on similar works
+Quality and quantity of managerial staff
+Amount of key personnel for the project
+Type of project control and monitoring procedures
+Comparison of client’s estimate with tender price
+Experience with speci c type of facility
+Maximum resource and  nancial capacity
+Proposed construction method
+Quality and quantity of human resources
+Site organization, rules and policies (health and safety etc.)
+Amount of decision-making authority on site
+Engineering coordination
+Cost control and reporting systems
+Comparison of client’s and proposed direct cost
+Comparison between proposed and average tender prices
+Contractor’s errors – proposed construction method and procedure
+Productivity improvement procedures and awareness
+Contractor’s familiarity with local suppliers
+Relationship with local authority
+Suitability of the equipment
+Contractor’s familiarity with local labour
+Contractor’s familiarity with geographic area
+Condition and availability of equipment
+Availability of project management software
+Home of ce location relative to job site location
+Communication and transportation – of ce to job site
+Contractor’s familiarity with weather conditions
+a Spearman’s rank correlation coef cient, r Private = 0.93, correlation is signi cant at the 0.01 level (2-tailed).
+and 62% of private clients chose Option (B) (i.e. tender price more important than PSC). Comments from both public and private respondents choosing Option (B) stated that they assigned more than 60% of importance on ‘lowest-price’ and a maximum of 30% importance on PSC. One possible reason for this might be that by assigning a maximum of 70% on tender price (while still investigating PSC to some extent) they can ‘defend’ themselves from public criticism and accountability.
+Twenty-two percent of public and 32% of private clients reported that the tender price was of equal importance to PSC. In this respect, public clients are more compelled to select the lowest price due to public accountability. This may have in uenced these results. Option (A) (i.e. lowest-price wins) was found to have least favour, with only 4% and 3% of public and private sector respondents, respectively, basing  nal selection on tender price alone. The ‘lowest-price wins’ principle was far from the best-perceived option. No respondents in respect of civil engineering and ‘other’ construction projects reported a contract being awarded based on ‘lowest-price’ alone. This may indicate that stricter and closer scrutiny is applied as the nature of the work differs away from building construction towards these other classi cations. This may be attributed to the use of different types of procurement for these latter work types.
+Table 3	Project-speci c criteria for public and private clients other construction worksa
+Proposed construction method
+Ability to deal with unanticipated problems
+Actual schedule achieved on similar works
+Site organization, rules and policies (health and safety etc.)
+Maximum resource and  nancial capacity
+Comparison of client’s estimate with tender price
+Amount of key personnel for the project
+Quality and quantity of managerial staff
+Type of project control and monitoring procedures
+Ability to complete on time
+Actual work quality achieved on similar works
+Quality and quantity of human resources
+Cost control and reporting systems
+Amount of decision-making authority on site
+Number of professional personnel available
+Suitability of the equipment
+Relationship with local authority
+Experience with speci c type of facility
+Productivity improvement procedures and awareness
+Engineering coordination
+Communication and transportation – of ce to job site
+Comparison for client’s and proposed direct cost
+Contractor’s errors – proposed construction method/procedure
+Contractor’s familiarity with local labour
+Contractor’s familiarity with local suppliers
+Contractor’s familiarity with geographic area
+Availability of project management software
+Contractor’s familiarity with weather conditions
+Home of ce location relative to job site location
+aSpearman’s rank correlation coef cient, r Public & Private = 0.80, correlation is signi cant at the 0.01 level (2-tailed).
+Figure 1 illustrates the clients’ selection preferences in each category of works. As can be seen, the selection of a contractor based on the ‘lowest-price’ principle alone was far from other options. Option-(B) was the most favoured choice in all types of work reported. It shows an increased tendency towards the use of the ‘judicious selection’ and ‘multi-criteria selection’ (MCS) approach. This is a very important  nding because the observed result contrasts with the earlier  ndings of Baker and Orsaah (1995), Merna and Smith (1990) and Jennings and Holt (1998). The bar chart shown in Figure 1 also picks up some of the important features. Comparison between public and
+private respondents in Option-(C) alone in all types of work shows that private respondents placed more emphasis in this option. This  nding re ects different policies and preferences for the  nal evaluation. One possible explanation is that the private sector clients preferred the MCS approach in tenderer evaluation more than the public sector, whereas public sector behaviour could be attributed to the factors cited by EUCO (1995), which are: (a) being too defensive on public scrutiny and criticism (i.e.  nancial accountability); and (b) de ciencies in public procurement systems (i.e. too rigid, inef cient and unremedied policies).
+Table 4	Comparison of top- fteen project-speci c criteria for public and private building and civil engineering works
+Public Building and civil engineering works
+Private Building and civil engineering works
+aAbility to complete on time aMaximum resource/ nancial capacity aAbility to deal with unanticipated problems aSite organization, rules and policies
+(health and safety etc.) aTraining or skill level of craftsmen aActual work quality achieved on similar works
+aComparison of client’s estimate with tender price
+Finance arrangements aProposed construction method aQuality and quantity of managerial staff aQuality and quantity of human resources aExperience with speci c type of facility aAmount of key personnel for the project aActual schedule achieved on similar works aType of project control and monitoring procedures
+aAbility to complete on time aAbility to deal with unanticipated problems aQuality and quantity of managerial staff aType of project control and monitoring procedures
+aActual work qualtity achieved on similar works
+aAmount of key personnel for the project aActual schedule achieved on similar works aMaximum resource/ nancial capacity aSite organization, rules and policies
+(health and safety etc.) aExperience with speci c type of facility aQuality and quantity of human resources aComparison of client’s estimate with tender price
+aProposed construction method
+Amount of decision-making authority on site aTraining or skill level of craftsmen
+a Project-speci c criteria consistently matching in public and private building and civil engineering works.
+Table 5	General overview of client’s preferences in tender evaluationa
+Other construction works	0
+Other construction works	0
+(A) tender price, (B) tender price more important than PSC, (C) tender price and PSC equally important, and (D) no comment. bOption (D): missing data (who participated in the survey but did not offer an answer), serves to round up the percentages, no relation-
+ship to Options (A), (B) and (C). See also Figure 1.
+
+Findings from investigation into the use of PSC and/or the ‘lowest-price wins’ principle during evaluation of tendering contractors, reveals that the industry is moving to a more MCS approach. This shows that choice of contractor is being made on a ‘value’ rather than ‘lowest-price’ judgment and is therefore in harmony (to some extent) with the aspirations of CIRIA (1998). This concept has been cited also in Latham (1994) and CIC (1993). The  nding con rms earlier signals for achieving value in Holt et al. (1995), and in Jennings and Holt’s (1998) investigations, albeit the latter found that price still dominated selection. This survey reveals that clients want the best possible ‘value’ from contractors and there is a realization that lowest-price does not necessarily achieve this.
+Maximum ‘value’ can be measured only from contractors’ attributes (i.e. selection criteria) during either prequali cation or  nal tenderer evaluation stages.
+The survey evidence also points toward construction clients having been in uenced to some extent either by good guidance documents and/or industry commentators, that tender price is not the ‘ultimate’ choice (Option A), but rather, should remain a ‘consideration’ while simultaneously looking for an MCS approach (Option B). These in uences inevitably encourage construction clients to make an effective transition, i.e. implement equal preference (Option C).
+A comparison of the top- fteen PSC shows strong correlation between public and private sector clients, and for both building and civil engineering works. The  ndings point towards ‘universal’ criteria, and show potential for developing a contractor classi cation
+indicator, based on standard criteria able to identify good and bad contractors. In summary, these observed PSC are vitally important, in de ning good and not so good contractors. They should be observed in developing a contractor classi cation model built on the most prudent selection criteria model(s). Such model(s) embracing ‘standard’ criteria will inevitably lighten the selection burden for both clients and contractors, and increase both objective evaluation and contractor selection.

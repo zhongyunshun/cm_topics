@@ -1,0 +1,28 @@
+Metaheuristics for project and construction management – A state-of-the-art review
+Department of Construction Management and Industrial Engineering, Louisiana State University, Baton Rouge, LA 70803, United States
+b Department of Construction Engineering, National Taiwan University of Science and Technology, Taipei, Taiwan
+a b s t r a c t
+Article history:
+Accepted 11 December 2010 Available online 14 January 2011
+Ant colony optimization
+Evolutionary algorithm
+Genetic algorithm
+Particle swarm optimization
+This paper carries out a detailed review of previous studies that employed metaheuristics to address problems/issues encountered in the life time of a construction or engineering project. The review is organized around critical problems/issues including engineering, cost estimation, planning, scheduling, and monitoring and control of project operations, with the objectives to optimize cost and time through the efficient uses of constrained or unconstrained resources. Metaheuristics are emphasized because they are especially suitable when approximate solutions are good enough in the case that the global optimum is either unknown or computationally too expensive to obtain it; both are characteristics of a typical large scale project. Based on the review, we offer our view of this research area and their potential for practical use. An attempt is also made to identify project management related topics where further advancement needs to be made.
+© 2010 Elsevier B.V. All rights reserved.
+Introduction .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	492
+Site layout and floor layout	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	495
+Site layout with predetermined locations.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	495
+Site layout without predetermined locations .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	495
+Routing of on-site vehicles and people .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	496
+Supply chain and logistics .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	497
+Resource unconstrained scheduling.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	497
+Realistic project scheduling	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	498
+Time-cost tradeoff analysis	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	498
+Single objective time-cost tradeoff .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	498 6.2.3. Multi-objective time-cost tradeoff .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	499
+Resource allocation .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	500
+Resource leveling .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	501
+Project monitoring and control .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	502 8. Discussion .	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	502
+⁎ Corresponding author. +1 225 578 5365; +1 225 579 5109. E-mail address: ieliao@lsu.edu (T.W. Liao).
+0926-5805/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 503 Acknowledgement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 504

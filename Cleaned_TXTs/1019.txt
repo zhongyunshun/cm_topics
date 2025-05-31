@@ -1,0 +1,236 @@
+﻿Factors influencing construction time and cost overruns on high-rise projects in Indonesia
+Peter F. Kaming, Paul O. Olomolaiye, Gary D. Holt & Frank C. Harris
+To cite this article: Peter F. Kaming, Paul O. Olomolaiye, Gary D. Holt & Frank C. Harris (1997)
+Factors influencing construction time and cost overruns on high-rise projects in Indonesia,
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (1997) 15, 83± 94
+Factors in¯ uencing construction time and cost overruns on high-rise projects in Indonesia
+2University of Wolverhampton, School of Construction, Engineering and Technology, Wulfruna Street, Wolverhampton, WV1 1SB, UK
+Received 31 July 1995; accepted 6 May 1996
+Many variables have an impact upon construction time and cost overruns in Indonesia. A questionnaire survey was undertaken of project managers working on high-rise construction projects in two Indonesian cities: Jakarta and Yogyakarta. The variables identi® ed were ranked according to their perceived importance and frequencies of occurrence. In¯ ationary increases in material cost, inaccurate material estimating and project complexity are the main causes of cost overruns. The predominant causes of delay are design changes, poor labour productivity and inadequate planning. Using factor analysis techniques, delay and cost overrun variables were grouped into factors, and their relationships analysed. Although Indonesia speci® c, the results re¯ ect construction management problems common to developing countries.
+Delays, cost overruns, productivity, high-rise, Indonesia
+Introduction
+The Indonesian construction industry contributes less to the country’s economy than do manufacturing or other service industries. Of® cially, construction accounted for only 5.5% of the annual gross domestic product (GDP) in 1993 (Langdon, 1994). However, the growth of the Indonesian construction industry has greatly in¯ uenced the country’s economic development. As de® ned in developed countries (Hillebrandt, 1985), construction is considered unique in that it can stimulate the growth of other industrial sectors. Hence to consider growth of the construction industry in terms of its contribution to GDP in isolation is somewhat misleading: that is, to do so understates the crucial role played by construction. Therefore, improving construction ef® ciency by means of cost-effectiveness and timeliness would certainly contribute to cost savings for the country as a whole. Effort directed to cost and timeeffectiveness were associated with managing time and cost, which in this study was approached via investigat-
+ing time and cost overruns of high-rise construction in Indonesia.
+Like other developing countries, such as Nigeria (Okpala and Aniekwu, 1988; Elinwa and Buba, 1993; Mans® eld et al., 1994), Saudi Arabia (Assaf et al., 1995) and Malaysia (Yong, 1988), Indonesia suffers from construction time and cost overruns. The intentions of this paper therefore are:
+1. to identify variables in¯ uencing construction time and cost overruns;
+2. to group these variables into factors;
+3. to analyse the relationship of these factors and thereby enhance understanding of construction delays and cost overruns.
+Although the research concentrates on Indonesia, the ® ndings should be relevant to all developing countries, as they face similar problems in terms of time and cost overruns on construction and infrastructural development projects (Morris and Hough, 1987).
+The paper is presented in the following format: ® rst, a literature review investigates the causes of delay and cost overruns, as well as problems in¯ uencing craftsmen’s productivity in Indonesia and other developing countries. Second, the method of data collection, the participants in this study, and structure of the questionnaire employed are described. Finally, the variables identi® ed as in¯ uencing time and cost overruns are grouped into factors, and their relationship examined.
+Causes of time and cost overruns
+According to Antill and Woodhead (1989), time overruns (delays) can be divided into three categories:
+1. those over which neither party to the contract has any control;
+2. those over which the construction owner (or his/her representative) has control;
+3. those over which the contractor (or any subcontractor) has control.
+It is generally recognized that delays of type 1 are part of the contractor’s normal and legitimate monetary risk, and hence should give neither party grounds for monetary recompense, but that the contract completion date should be extended in order to protect contractors from liquidated damages claims for late completion. Alternatively, in the extreme a contract may be repudiated due to `frustration’. It is also recognized that for delays of type 2 the contractor should receive fair and reasonable recompense (cost and time), whereas for type 3 delays the contractor must bear full responsibility.
+A project may be delayed in part or whole because of a seemingly endless list of variables. These include: inclement weather; inaccuracy of materials estimates; inaccurate prediction of craftsmen’s production output (especially in developing countries, where outputs are yet to be standardized); inaccurate prediction of equipment production rates; materials shortages; equipment shortages; skill shortages; locational project restrictions; inadequate planning; poor labour productivity; and design changes. Some of these variables may result in late project completion, whereas others may have no effect on construction time. However, all delays usually cost money.
+The prime variables of cost overruns have been commonly identi® ed as: unpredictable weather, in¯ ationary material cost, inaccurate materials estimates, complexity of project, contractor’s lack of geographical experience, contractor’s lack of project type experience, and non-familiarity with local regulations.
+
+Construction is exposed to climatic extremes, which vary with the geographical location of the project. Indonesia is located in a tropical zone with only two climates: hot and wet. Temperature during the working day for the entire year can vary between 30 and 35°C. Rain would de® nitely stop works, especially in foundation and substructure works. Hot weather is by no means problem free, as indicated by Mountjoy (1975): a hot climate is not conducive to mental and physical energy; tropical climates do not favour muscular activity, which generates body heat and subsequent discomfort. As a result, operatives’ output in hot climates is certainly lower.
+Accurate estimates concerning materials, equipment and labour outputs depend on reliable cost data. The Ministry of Public Works, through its Centre for Building Information, publishes (as a guide for public works) quarterly cost data, which include the unit price of materials and labour wages. However, the data are useful only as a bidding guide, and are not consistent enough for effective construction planning. Reliable cost data such as the Wessex (1995), as found in the UK, do not exist in Indonesia. Contractors have to maintain their own historical cost data.
+Resource shortages
+Resource management has been extensively studied in many developed countries (Illingworth and Thain, 1988; Harris and McCaffer, 1989; Tavakoli and Kakalia, 1993), but less so in developing countries (Abdullah, 1985; Olomolaiye, 1988; Abdulrahman and Alidrisyi, 1994). Materials planning embraces quantifying, ordering, and scheduling. Productivity will suffer if the materials planning process is not executed properly. Another issue (which is sometimes beyond management control) is materials shortages. For example, yearly cement shortages have long been a topic of debate within the Indonesian construction industry (Kwik, 1994; Wibisono, 1994). Cement shortage escalates the cost of other materials, being a constituent of many. Because materials account for some 65% of the overall cost of high-rise construction (Kaming et al., 1995), their impact on cost overruns can be very high.
+There have been dire shortages of skilled manpower to cope with the boom in construction activities in Indonesia. In fact, `skilled’ operatives are often not really skilful, having only gained their experience on the job site and learning construction skills through trial and error! Training institutions that could produce construction craftsmen are still limited in the country.
+A lack of contractor experience with regard to particular types of project is typical in Indonesia. The subsequent lack of technological knowledge causes delays and cost overruns. How can schedulers plan the duration of activities if they are not familiar with the method of construction and optimal sequencing of works? How can estimators budget equipment and operator/labour costs if they do not know the outputs of equipment and wage costs for operators? Furthermore, lack of environmental data with regard to geographical problems (such as soil types and groundwater levels) creates delays and additional costs.
+The construction of nearly all civil engineering and building projects will witness a number of changes in volume, nature, and order or duration of work to be performed, after the contract has commenced. The magnitude of these changes depends upon a number of variables, not least important of which are: the thoroughness of the pre-design site investigation; the completeness of working drawings available at the time of estimate or proposal; and unpredictable circumstances during construction. Design changes inevitably lead to variation in original cost/time programmes.
+Labour is part of, but distinct from, other resources, because it has speci® c characteristics. The production output of labour is a function of skill and motivation (Olomolaiye, 1988). Poor labour productivity has been investigated intensively in developing countries and problems have been identi® ed (Olomolaiye et al., 1987). Indonesia has similar problems. A majority of the Indonesian construction labour force are selfemployed, and usually farmers from rural areas. They are often recruited through friends or relatives (typically the foremen), and are low skilled, earn low wages, and are hence less productive.
+From the existing literature on construction productivity in other developing countries, it was possible to identify the major variables causing delay and cost overruns. In total, ten variables for construction delays and seven for cost overruns, were selected (Okpala and Aniekwu, 1988). The survey questionnaire was designed to enable respondents to add any further variables that they considered necessary for inclusion to the list of 17 variables. The questionnaire survey was supported by follow-up interviews.
+Thirty-one project managers working on high-rise construction projects were successfully questioned/ interviewed. The questionnaire gave each respondent an opportunity to identify variables that they perceived as likely to contribute to overruns by responding on a scale from 4 (very important) to 1 (not important). Participants then rated the frequency of occurrence for each variable on their present construction sites on an ordinal scale: high (3), medium (2), or low (1). For each variable, the mean value of the respondents’ importance rating was named the importance index. Subsequent importance indices were then used to rank the perceived importance of all variables. Secondly, the mean value from respondents’ frequency rating was named the frequency index and used to rank the frequency of occurrence of variables on their sites. Finally, an overall measure, derived from multiplying the importance index by the frequency response, was named the severity index. These severity indices were used to rank the overall impact of the variables upon time/cost overruns for high-rise construction sites.
+The pro® le of the projects investigated in this study is presented in Table 1. On average, the project managers (PMs) surveyed have 10 years’ experience in the construction industry. They were asked to state the proportion of all projects that they had been involved with that were completed on time or delayed, and had experienced cost overruns. Results are presented in Table 2.
+Eighteen PMs (55%) indicated that they completed more than 90% of their projects on time. Ten PMs (30%) indicated that less than 70% of their projects were completed on time, and ® ve PMs (15%) said that 70± 90% of their projects were completed on time. On the other hand, 15 PMs (52%) indicated that
+70± 90% of their projects were completed within budget, while eight PMs (28%) said that less than 70% of their projects were to budget, and only six PMs (20%) claimed that 90% of their projects were completed within budget.
+Table 1	Characteristics of the projects investigated
+Type of building
+
+
+
+
+
+
+
+
+
+Overall, cost overruns were found to be more common than delays on high-rise projects in Indonesia. The results indicate the PMs claiming comparatively higher success ® gures than shown by studies in other countries (Morris and Hough, 1987). While it is recognized that most high-rise projects in Indonesia are fasttrack, trying to cope with the growing demand for of® ce space, the results are still suspect. Perhaps the ® gures in Indonesia can be traced to the inherent bias of PMs, who would normally support their employers ± the contractors. A survey of clients may give a clear picture of the delay and cost overruns situation in the country. It is, however, undesirable that delays and cost overruns do occur in signi® cant proportions in Indonesia.
+In this survey, delay was de® ned as the extension of time beyond planned completion dates traceable to the contractors. Ranking the importance, frequency and severity of delay variables by the 31 project managers enabled identi® cation of the most important factors that in¯ uence time and cost; secondly, the most frequently occurring variables; and ® nally, the overall severity of each variable.
+Eleven construction delay variables were identi® ed, (Table 3). `Design changes’ ranked the most important (0.93) followed by `inadequate planning’ (0.88) and `inaccuracy of materials estimating’ (0.88). `Design changes’ (0.98), `poor labour productivity’ (0.74), and `equipment shortages’ (0.63) were respectively
+Table 2 Response rate of projects completed on time and within budget
+Number and percentage of projects successfully completed by project managers
+
+Within budget (number)
+identi® ed as the most frequently occurring delays on sites surveyed. On the severity scale, `design changes’ (0.91), `poor labour productivity’ (0.65) and `inadequate planning’ (0.55) were identi® ed as the most severe delays causing problems. With a severity index of 0.91 (out of 1), the ranking of `design changes’ would seem to con® rm the reasons that underpinned research into design effectiveness by the Construction Industry Research and Information Association (UK) and the Construction Industry Institute (USA) (Stewart, 1989).
+A summary of the causes of cost overruns on projects
+(regardless of which party is at fault) by the contractors is presented in Table 4. Considered most important were `inaccuracy of quantity take-off (0.80), `materials cost increases due to in¯ ation’ (0.78) and `cost increase due to environmental restrictions’ (0.71), which were ranked as ® rst, second and third respectively. Similarly, these three causes also ranked as the top three most frequently occurring causes of cost overruns in Indonesia. In terms of overall severity, the highest-ranking variables were found to be `materials cost increases due to in¯ ation’ (0.68), `inaccuracy of quantity take-off’ (0.49) and `cost increase due to environmental restrictions’ (0.37).
+The mean importance, frequency and severity indices for all variables of construction delays on highrise construction in Indonesia are 0.78, 0.59 and 0.48 respectively, and for cost overruns are 0.66, 0.51 and 0.37 respectively (Tables 3 and 4). These indices will prove particularly useful as benchmarks, for comparison with other types of construction in future studies.
+Factor analysis of time and cost control determinants
+Initial examination
+To understand further the variables identi® ed as in¯ uencing construction time and cost control, and to explore further the structure of the data, the principal component factor analysis (PCFA) technique was employed. To use this technique, ® rst the data had to be tested for suitability, involving an examination of the determinants of the correlation matrix as shown in
+Table 3	Variables of delays and their importance, frequency, and severity in construction in Indonesia Variables/causes
+
+Unpredictable weather
+Inaccuracy of
+of craftsmen production rate Inaccurate prediction of
+equipment production rate Materials shortage
+Skilled labour shortage
+Locational restriction
+of the project
+
+The scale of indices for importance, frequency and severity ranges from 0 to 1.
+Table 4	Variables of cost overruns and their importance, frequency and severity in construction in Indonesia
+Unpredictable weather
+Materials cost increased
+by in¯ ation
+Inaccurate quantity take-off
+environment restriction Lack of experience of
+Lack of experience of
+Lack of experience of
+
+The scale of indices for importan
+Table 5	Correlation matrix of var
+ce, frequency and severity range from 0 to 1.
+ables of delays
+Unpredictable weather
+Inaccuracy of materials
+Inaccurate prediction of	±
+Inaccurate prediction of
+Material shortage
+Skilled labour shortage
+Locational restriction
+of the project
+Poor labour productivity	±
+cDeterminant of correlation matrix = 0.035 > 0.000 01; Kaiser± Meyer± Olkin measure of sampling adequacy = 0.56; and Barrett test for
+sphericity = 91.5. Signi® cance = 0.0015
+Table 5 (causes of delays) and Table 6 (causes of cost overruns). The coef® cient are 0.035 and 0.18 respectively, considered as being adequate (> 0.000 01), indicating that neither matrix suffers from multicollinearity or singularity (Kinnear and Gray, 1994). The Kaiser± Meyer± Olkin measure of sampling adequacy was found to be 0.56 and 0.54 (> 0.50) for delays and cost overruns respectively, as well as signi® cant at 0.05 level for the Bartlett test of sphericity (test of identity matrix). These measures con® rmed the suitability of the data for proceeding with factor analysis (Norusis, 1994).
+Extraction of factors
+PCFA was conducted using the SPSS package. The total number of common factors that can be extracted from any factor analysis is equal to or less than the number of variables involved. In this case, Tables 7 and 8 show all possible number of factors extractable from the analysis for both time and cost variables. The eigenvalues, percentage of variance and cumulative percentage of variance of factors are also shown. However, the important factors are those whose eigenvalues are greater than or equal to 1, because an
+Table 6	Correlation matrix of variables of cost overrun
+Variables of cost overrunc
+Unpredictable weather conditions
+Materials cost increased
+by in¯ ation
+Inaccurate quantity take-off
+Lack of experience of	±
+Lack of experience of	±
+Lack of experience of local regulation
+cDeterminant of correlation matrix = 0.18; Kaiser± Meyer± Olkin measure o Signi® cance = 0.0036.
+Table 7	Initial statistics of factor analysis for delays
+f sampling adequacy = 0.5
+t for sphericity = 42.54.
+
+of variance
+Unpredictable weather
+Inaccuracy of materials
+Inaccurate prediction of
+craftsmen production rate
+Inaccurate prediction of
+Material shortage
+Locational restriction
+of the project
+Inadequate planning
+Commonality of all variables of delay is set equal to 1.
+eigenvalue is a measure of how a standard variable contributes to the principal components. A component with an eigenvalue of less than 1 is considered less important than such an observed variable and can therefore be ignored (Kim and Mueller, 1982). For example, the initial statistics of factor analysis for delays generate four factors, with descending order from 2.89 for factor 1 to 1.08 for factor 4 (Table 7). For cost overruns, three factors were generated, with eigenvalues from 2.27 for factor 1 to 1.11 for factor 3 (see Table 8).
+Based on eigenvalues greater than 1, three delay factors and four overrun factors were extracted from the data (Tables 9 and 10). The tables also show factor loading (except those less than 0.5) and commonalities (h2) of the determinants of time and cost control. (Factor loadings are simply the correlation coef® cient between an original variable/determinant and an extracted factor.) For example, the factor loading of the determinant `unpredictable weather condition’ (Table 9) is 0.55; the factor loading of the determinant `materials cost increased by in¯ ation’ (Table 10) is 0.58. The higher the absolute value of the factor loading, the more the variable contributes to that factor. Commonalities describe the variance in the variables that have been accounted for by the factors extracted. For example, 70% of variance in `unpredictable weather condition’ is accounted for by
+Table 8	Initial statistics of factor analysis for cost overruns
+Variables of cost overrun
+
+of variance
+Unpredictable weather conditions
+Materials cost increased by in¯ ation
+Inaccurate quantity take-off
+Labour cost increased due
+Lack of experience of project location
+Lack of experience of project type
+Lack of experience of local regulation
+Commonality of all variables of cost overruns is set equal to 1.
+Table 9	Factor loading of determinants of time control ± extracted
+Unpredictable weather conditions
+Inaccuracy of materials estimate
+Inaccurate prediction of equipment production rate
+Materials shortage
+Inaccurate prediction of craftsmen production rate
+Inadequate planning
+Skilled labour shortagea
+Locational restriction of the projecta
+aFactor loadings with values less than 0.50 are not shown in the table.
+the factors extracted; only 50% of variance in `inaccurate prediction of craftsmen production rate’ is accounted for delays determined by the four extracted factors. Similarly, 87% of variance in `lack of experience of project type’ is accounted for by the factors extracted, whereas only 51% of variance in `inaccurate quantity of materials estimate’ is accounted for cost overruns determined by three extracted factors.
+Rotation of factors
+To achieve factor loadings that are easier to interpret, a varimax rotation was conducted on the factors, i.e. to minimize the number of factors on which the determinants have high loading. The rotated factor loadings are shown in Tables 11 and 12. Table 11 exhibits the factors subsequent to grouping of the determinant:
+Factor loading of determinants of cost control ±
+Variables of cost overrun
+Lack of experience of project location
+Lack of experience of local regulation
+Unpredictable weather conditions
+Materials cost increased by in¯ ation
+Inaccurate quantity take-off
+Lack of experience of project type
+Table 11	Factor loading of determinants of time control ± rotated
+
+Inaccurate prediction of equipment production rate
+Unpredictable weather conditions
+Inaccuracy of materials estimate
+Inadequate planning
+Inaccurate prediction of craftsmen production rate
+Locational restriction of the project
+Material shortages
+Skilled labour shortages
+Table 12 Factor loading of determinants of cost control± rotated
+Variables of cost overruns
+
+Lack of experience of project location
+Lack of experience of local regulation
+Unpredictable weather conditions
+Inaccurate quantity take-off
+Lack of experience of project type
+Material cost increased by in¯ ation
+for example, `inaccurate prediction of equipment production rate’, `unpredictable weather condition’, and `equipment shortages’ were grouped in factor 1 (DF1), only with factor loadings of 0.88, 0.76 and 0.66 respectively.
+Similarly, the determinants `cost increase due to environmental restriction’, inexperience in type of project’ and `inexperience with local regulations’ are substantially loaded in factor 1 (CF1); only `unpredictable weather condition’ and `inaccurate quantity of material estimate’ are loaded on factor 2 (CF2); `materials cost increase due to in¯ ation’ and `lack of experience of project type’ are loaded on factor 3 (CF3) only for the cost overruns (see Table 12).
+Remarkably, each of the three highest rankings of the cost overrun variables (see Table 4) were distributed among each of the three factors. For instance, `materials cost increases by in¯ ation’ (® rst ranking) stayed with factor 3 (DF3); `inaccurate quantity of materials estimate’ (second ranking) occupied factor 2 (CF2); `labour cost increase due to environment restrictions’ (third ranking) occupied factor 1 (CF1). This indicates a trend of diverging important ranking variables to the factors. The absence of `cost data’ (CF1) affects the capability of contractors to produce an accurate cost estimate, and re¯ ects the point made previously concerning no reliable cost data in the country. No effort has been made to collect cost data systematically by either the constructor association in Indonesia or other construction industry participants.
+For clarity, the variables that were grouped into factors were given new headings. Under delay factors:
+factor 2 (DF2) as `resource estimates’; factor 3 (DF3) as `buildability’; factor 4 (DF4) as `human resource shortages’.
+Under cost overrun factors:
+factor 1 can be regarded as `environment’;
+factor 2 as `cost data’; factor 3 as `in¯ ation’.
+Labelling the factor groupings in this manner is subjective, and can be challenged as inappropriate. However, it is a means of naming the extracted factors. This is necessary, particularly if further analysis is to be carried out on these extracted factors.
+Extracted factors of delays and cost overruns
+Taking the eigenvalue as a measure of importance of the factor groupings, it is evident that `equipment usage’ is the most important to construction time control, having the highest value of 2.89, followed by `resource estimates’ at 2.14, `buildability’ at 1.14, and `human resource shortages’ at 1.08. The four factors extracted indicate different dimensions and determinants of time control. Each may be discussed, as follows.
+Equipment usage. This is due to ineffective equipment utilization. On high-rise construction in congested urban areas, local transportation equipment, such as the tower crane and vertical hoist, are needed. Other supporting equipment includes concrete pumps and batching plant
+(the majority of high-rise buildings are reinforced in situ concrete structures). This equipment is available on rental, or contractors may own it. However, the capacity of the equipment available cannot always meet the need, because there are limited hire outlets. Generally, contractors install whatever equipment is available and ignore its capacity, or they may not fully appreciate the capacity of the equipment in terms of its maximum production rate. In some instances, plant operators may tire easily because of the extremely hot weather, or may be forced to stop working because of heavy showers. This can perhaps explain why `unpredictable weather’ is in the group.
+Resource estimate. Inadequate planning of construction activities includes inaccurate material estimates as well as inaccurate estimation of manpower production rates. As there is no reliable source for material estimating (such as Wessex in the UK), nor any recognized form of certi® cation for construction operatives, contractors may not easily assess the capacity of construction craftsmen. Such errors in estimating may subsequently cause delays in production.
+Buildability. Design changes and local restrictions on projects impact upon buildability. Design changes may be due to the client’s need (e.g. when they think that something has been omitted from the existing design), or they may be due to poor original designs, which turn out to be dif® cult to build. For instance, design of a building in a congested urban area may require a method that allows it to be constructed in several stages, to provide suf® cient working space.
+Resource shortages. This includes human and materials shortages, which often lead to poor productivity. Unskilled workers do not produce good results, and workers’ running out of material may slow down their output in anticipation of a delivery (Thomas et al., 1990).
+Similarly for cost control factors: `experience’ (CF1) has the highest eigenvalue of 2.27, followed by `in¯ ation’ (CF2) with an eigenvalue of 1.66, and `cost data’ (CF3) with an eigenvalue of 1.11. The derived factors together explained 72% of the variance of the determinants of construction cost control. The three factors explain different dimensions of determinants of contractor cost control ability, as follows:
+Environment. This may be due to project location restrictions, such as lack of working space
+in a congested urban area. Noise and other inconvenience for neighbours may cause restrictions, such as having to work only at night. Local regulations (e.g. the restricted use of obtaining water from a deep well) will impose extra cost on contractors. Poor ground conditions, such as a high watertable, may also increase cost during substructure works.
+Inaccuracy of cost estimates is primarily due to the absence of standard cost data. Also, the in¯ uence of weather, especially during the hot season, can cause fatigue to construction workers, and rain can stop the works completely. These two conditions impact upon construction productivity, and therefore in¯ uence time and cost.
+Materials cost increases due to in¯ ation are common. Indonesian contractors are generally employed on lump-sum ® xed-price contracts. With average in¯ ation currently running at 10% per annum, contractors may suffer from in¯ ation if clients do not meet payment commitments on time. When demand outstrips supply, the price in¯ ation can be signi® cantly higher than 10%. For example, the price of cement increased by more than 70% in 1994, because of the unprecedented boom of work that year.
+Correlation of delays and cost overruns factors
+Table 13 exhibits a correlation matrix from Spearman correlation analysis, for delay factors and cost overruns factors. The table indicates that between the two groups, only two factors ± `equipment usage factor’ (DF1) and `environment factor’ (CF1) ± were signi® cantly correlated with a coef® cient of 0.56. Contractors working in a certain environment or geographical area of which they have little experience may encounter problems with regard to procurement of equipment. Such problems could be due to inaccurate prediction of equipment production rates, unpredictable weather conditions, and equipment shortages, as well as to transportation problems from suppliers to construction site.
+Production can be affected by installing incorrect or undersized site transportation equipment, such as a tower crane, hoist, or concrete pump. Workers slow down their work rate waiting for material to arrive. Also, equipment breakdowns cause delay. PMs who have no experience of a particular type of project may underestimate the capacity of the cranes to carry a certain weight of prefabricated component. In some instances, local regulations prevent materials delivery
+Table 13 Correlation between the rotated cost overrun factors and delay factor
+CF = cost overrun factor: DF = delay factor. asigni® cant at 0.01 level.
+Table 14	The indices of variables in¯ uencing time, and/or cost control
+during the daytime, and so on.
+From the results of interviews carried out with the project managers, a number of strategies aimed at eliminating construction delays and cost overruns, especially by the larger contractors, were identi® ed as follows:
+Avoid earthwork and substructure construction activities during the rainy season.
+Keep an updated historical database of cost data, including prices of materials, unit prices for work packages, and activity production rates.
+Provide facilities and accommodation for workers to avoid or minimize trade absenteeism.
+Enter into long-term contracts with construction material suppliers, especially cement distributors, in order to prevent price hikes.
+Enter into long-term contracts with subcontractors, including labour-only subcontractors, to ensure the availability of equipment and skilled craftsmen.
+
+From the projects and project managers surveyed, it would seem that cost overruns occur more frequently and are thus a more severe problem than time overruns on high-rise construction in Indonesia. The predominant factors in¯ uencing time overruns/delays are design changes, poor labour productivity, inadequate planning and resource shortages. In the case of cost overruns, the most important factors are material cost increases due to in¯ ation, inaccurate materials estimating and degree of project complexity. Considering both time and cost overruns together, the most important factors that in¯ uence them are: materials cost increases due to in¯ ation, inaccuracy of estimates, and lack of experience of project type.
+While the data on which these ® ndings are based are speci® c to Indonesia, the results generally agree with earlier studies in developing countries, and con® rm the reasons underpinning recent studies on buildability/constructability in both the UK and the USA. By reducing the in¯ uences of the identi® ed factors, time and cost overruns on high-rise construc-
+Experience of project location
+Accurate prediction of equipment production rate
+Weather conditions
+Variables of time controls
+Level of planning
+Accuracy of materials estimate
+Accurate prediction of craftsmen production rate
+Locational restriction of the project
+Variables of cost controls In¯ ation of material cost
+Accurate quantity take-off
+Experience of project type
+tion projects in developing countries can be carefully controlled.
+While conceding that the experience of project managers should not be discounted, labour outputs need not remain in the realm of guesswork; they can be determined through time study techniques. However, it would be quite expensive for each contractor to carry out separate time studies on different construction operations. A way out, as suggested by Olomolaiye and Ogunalana (1989) for Nigeria, would be for the Association of Contractors in Indonesia, or other interested bodies in Indonesia, to sponsor further research to establish output ® gures on various construction sites. The research should be done with particular reference to methods and equipments that have been found to have a signi® cant in¯ uence on production outputs. There is a need for method studies and dissemination of research results, to both large and small ® rms, so that the most productive working methods can be adopted by all operatives, with resultant increases in output, without necessarily exerting more physical effort.
+The authors wish to thank the University of Atma Jaya Yogyakarta, Indonesia, for funding this study. Participating contractors within Indonesia are also acknowledged. The authors are also grateful to the anonymous reviewers of the paper for their constructive comments.

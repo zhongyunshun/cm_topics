@@ -1,0 +1,267 @@
+﻿Construction management for tall CLT buildings: From partial to total prefabrication of façade elements
+To cite this article: Eugenia Gasparri, Angelo Lucchini, Gabriele Mantegazza & Enrico Sergio Mazzucchelli (2015) Construction management for tall CLT buildings: From partial to total prefabrication of façade elements, Wood Material Science & Engineering, 10: 3, 256-275, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Wood Material Science & Engineering, 2015
+Construction management for tall CLT buildings: From partial to total prefabrication of façade elements
+Department of Architecture, Built environment and Construction engineering (ABC), Politecnico di Milano, Via Ponzio 31,
+Cross-Laminated Timber is one of the most widely used engineered wood products, thanks to its numerous advantages, among which construction speed is the most appreciated, both by clients and by designers. However, construction scheduling compression refers exclusively to CLT structures, while the rest of the construction process still requires a longer phase to complete vertical enclosures. The aim of the research work presented in this paper is to outline advantages brought about when the degree of envelope prefabrication of tall timber buildings is increased. Results are presented in two sections. The first includes the definition of a case study together with an overview of possible technical details for entirely prefabricated façade solutions, ready to be installed without the need to work via scaffolds. The second deals with construction site management analysis for the case study building, where the determination of specific factors having an influence on time and costs is achieved by varying the prefabrication degree of the various façade configurations and repeating the analysis process. The main findings of this research work demonstrate that comprehensive façade prefabrication allows not only consistent compression of construction scheduling to be achieved, but also for immediate protection of wooden elements from weather agents.
+CLT timber construction, façade prefabrication, time/cost optimization, construction site management, technical details, case study building.
+Introduction
+In the last decade, timber construction has achieved an increasingly larger consensus within the construction market panorama, striving competitively with other building materials, such as concrete and steel, even in the case of large-scale projects. Achievements and more recent developments in the field of engineered timber products have raised new insights and possibilities for the design of tall buildings using wood as the main construction material (Timmer 2011, Abrahamsen and Malo 2014). Comprehensive studies on this issue illustrate how building at height with wood is nowadays not only possible, thanks to its excellent mechanical properties and new products’ structural performances, but also safe, efficient, economically and environmentally sustainable (Bryan 2012). In addition, the opportunity to speed up construction time represents the main reason why clients and designers are more and more often directing their choices towards timber building systems (Gardino 2010). This, for instance, has been the case in two very well-known buildings in the field of timber construction: the Stadthaus in London (2009) and The Forté building in Melbourne (2012). For both projects, Cross-Laminated Timber technology was preferred to on-site cast concrete according to a preliminary evaluation of project development that highlighted advantages of the CLT system in terms of environmental aspects (CO2-equivalent emission reduction) and construction time saving (see Anonymous 2009, 2014).
+(Received 15 March 2015; revised 19 July 2015; accepted 20 July 2015)
+Contraction of scheduling is also one of the main reasons why, in the timber construction field, advanced prefabricating systems are consistently gaining market share (Lehmann 2013, Mikkola 2014). In fact, wood is characterized by certain
+intrinsic features, such as low weight and simple manufacturing, which make it suitable for the realization of prefabricated components for the construction industry (Smith 2014). Moreover, computer-aided design and production applied to new timber technologies allow even higher quality standards to be reached and enhance possibilities for product customization, according to the specific needs of individual buildings (see Figure 1 (a) and (b)) (Staib et al. 2008, see Research Report 2009).
+Prefabrication of envelope components for timber buildings is a very debated and constantly evolving field of research, which attracts interest from manifold sectors of expertise (Lehmann 2013, Mikkola 2014, see Research Report. 2011). However, published studies in this field concern mainly the use of timber frame technologies, light weight and inexpensive, usually applied to low or mid-rise constructions (Kapfinger and Kaufmann). Other timber technologies have not been the object of detailed research on this issue so far.
+CLT, for instance, has gradually been spreading across international markets across the world, thanks to the potential it offers from very different points of view, as an example structural performance, seismic behaviour, sustainability rate and so on (Zumbrunnen and Fovargue 2012, Laguarda Mallo and Espinoza 2014). Construction speed is one of the principal “sources of pride” of this technology, nevertheless, state of the art in the CLT construction system presents rather unbalanced work phases. The completion of façades through outer layers installation from scaffolds requires much longer time than structure construction. In most cases, timber structure is exposed to weathering agents during this period. Thus, the extremely systematized construction of the building’s structural skeleton is followed by a much more traditional construction phase for façade completion from the outside, causing consistent disadvantages in terms of site management. Moreover, on the basis of past construction site experience, it is possible to affirm that working teams dedicated to scaffolds installation often do not cope well with the consistently more efficient CLT structural panels installation, causing time slippage or logistic interferences (Presutti and Evangelista 2014), as shown in Figure 2 (a) and (b).
+The research work presented in this paper aims to investigate advantages brought about by the increase of envelope prefabrication degree for tall timber buildings, using Cross-Laminated Timber as structural system (Falk 2013). It is meant to be a preparatory study for a wider research project focused on the development of fully prefabricated façade systems based on CLT technology.
+As a general rule, it can be stated that the design effort needed from the start of product, component or building conception is higher when the prefabrication level increases (Sarja 1998, Lessing 2006, Smith 2015). So, it is fundamental to examine the convenience, in terms of both time and costs, at the earliest possible phase of the design process and determine the most appropriate approach for an efficient product or project development. A construction management analysis is carried out through a case study building, to give evidence of the hypothesized benefits and provide thorough results from both a qualitative and a quantitative point of view. Despite output from calculation is related to the analysed case, conclusive results offer interesting starting points for further research development and provide the order of magnitude of a system convenience over the other.
+Figure 1. (a) Manufacturing phases of prefabricated timber frame housing elements at the production site. (b) Storage of prefabricated timber frame walls ready for the transportation phase.
+Figure 2. (a) Aerial view of a timber structure with scaffolds (Eng. Presutti). (b) CLT panel positioning through crane (Eng. Presutti).
+Preliminary considerations
+The first step carried out in order to carefully guide work development has been a qualitative analysis of the main advantages that the prefabrication of façade elements brings about within a CLT building construction process. The shifting of a large amount of manufacturing operations from the construction to the production site not only guarantees a higher matching between design and product, but contributes to enhance construction process quality and control (Johnsson and Sardén; Velamati 2012).
+Off-site prefabrication of large parts of a building, including all necessary layers needed to ensure timber protection during service life, certainly represents a consistent advantage for the risk of weather agents exposure during the construction phase as well. This is certainly another important issue that needs to be carefully addressed within the design phase, in order to prevent wooden products from being afflicted by future mould problems, due to incorrect humidity levels (AITC 111-2005). Changes in the moisture content also cause wood swelling and shrinkage, which represent a particularly relevant concern for tall wood buildings (FP Innovations 2013). Furthermore, most of the weather protection systems commonly used in the construction field are insufficient to guarantee adequate shelter and protection to building components. Should temporary roofing structures be applied, their higher efficiency is counterbalanced by high realization times and costs (Serrano 2009, Mahlum 2014). One example of such structure is shown in Figure 3.
+Temporary protective roofing at the Limnologen Vaxjio construction site, Sweden.
+Table I. Comparison of the main advantages related to façade prefabrication and construction without use of scaffolds.
+Construction without scaffolds
+
+Less storage areas (a reduced footprint could be a	• relevant issue in urban areas)
+Less work teams and construction site fluxes
+(materials, machinery and workers) to be coordinated
+Waste minimization (e.g. scraps reduction)
+No storage space needed neither work teams to be coordinated
+Higher installation efficiency within the production site • Time saved for storage procedures (e.g. insulation,
+Time saved within the design phase, as scaffold design and safety measures are often required for tall or complex buildings Time saved for storage, installation and dismantling procedures
+Reduced cost of risks	•
+Very short return of investment cost (m2 available for	• sale in record time)
+Cost saving for labour and rent (transportation, installation and dismantling)
+Major safety for workers due to manufacturing in the	• production workshop
+Minimization of weather variability related risks • Reduction of time slippage risk due to materials supply problems
+Lower probability of mistakes during work execution
+Less contractors to cope with
+Major safety for workers due to the consistent reduction of work on height
+Reduction of time slippage risk due to lack of coordination among scaffold and CLT installer
+Table I includes a comprehensive list of the main advantages related to façade prefabrication and the absence of scaffolds, according to four different topics: quality, time, cost and risk.
+Case study definition
+A case study building has been developed in order to verify the feasibility of the research project based on a dimensional model. The design phase has been characterized by the research of the maximum level of simplicity and reproducibility, in order to obtain results that could be generalized or extended to other project having similar characteristics.
+The layout of the building has been determined through the “universal floor plan” (see Figure 4) method by using a design formula (Timmer 2011) based on the definition of the following data:
+. the shape of the floor plan (w × w) of the case study building, considering that rectangular and square shapes are common shapes for
+tower buildings;
+. the core dimension (c), designed according to Italian fire regulation (see DECRETO MINIS-
+TERIALEn.246/97)forresidentialusebuilding;
+. the floor span (d), predominately defined according to daylighting requirements; . the gross-net floor ratio (Rf).
+In particular, considering a floor span fixed equal to 7.10 m, the main plan dimension of the case study building can be easily calculated. So, the square plan results in a side length of 23.6 m and vertical connections (stairs and elevators) with a square footprint of 9.50 m each side. To facilitate the evaluation processes, every floor is characterized by the same layout (see Figure 5(a) and (b)).
+Italian regulations and standards have been used to define architectural requirements, such as room sizes and collocation, windows sizes and number, storey height and so on. The latter is 3.40 m, resulting from a height of 3.20 m between two consecutive floor slabs plus 20 cm of the floor slab thickness. Panels’ main dimensions have been determined in order to minimize material waste, according to Stora Enso/Austria production line. The building is nine storeys high: the ground floor is 4 m high and is the only storey that differs to the others, as it is
+Figure 5. (a) Typical floor layout. (b) Typical floor structural layout.
+assumed to be made of reinforced concrete. The building height is equal to 34.80 m.
+Since structural analysis is not within the scope of the present work, a simplified approach has been adopted to define horizontal and vertical structural component sizes. However, structural design has been necessary to evaluate volume and weight of each considered panel, in order to be able to make practical considerations about site logistics and transportation systems, as shown in the following. Table II summarizes thickness values for both horizontal and vertical structural elements of the case study.
+This paragraph includes an overview of the façade options to be analysed, as far as the definition of the executive size and the number of panels the façade is made of. This classification has been carried out to define specific boundary conditions and provide all data needed to perform the quantitative analysis of the construction process.
+Table II. Collection of horizontal and vertical structural elements thicknesses for the case study building.
+It is important to note how such an elaboration is a common characteristic for every project involving CLT technology, as the production process is totally mechanized. Size definition criteria and final outcome are illustrated in this work to allow easier understanding of the adopted evaluation method, but might differ from case to case. In fact, they have an influence on the final outcome only under an “absolute” point of view, while relative results are supposed to have the same percentage relevance for both options A and B.
+As a design assumption, the platform framing approach has been used for the case study development, thus external walls are intended to be positioned in between floors for the analytical process.
+Option A – nonprefabricated wall elements. This is intended to consistently represent the current state of the art with respect to CLT constructions. More specifically, CLT panels are transferred to their final position directly from the truck, through the help of a crane. All other layers of the cross-section are installed on-site, working from scaffolds. Two different cases will be detailed for this first option.
+Large-size Panelling (A-LP): it helps to push construction speed and save on costs for vertical connections between consequent panels. It consists of six different panels, as shown in Figure 6. Just one front of the case study building, which serves as a sample application of the proposed method, is reported here.
+Small-size Panelling (A-SP): it has never been comprehensively investigated, according to the reviewed literature. Clearly, a number of small
+Option A/B – Large size Panelling (LP) – north/south front.
+panels are sometimes necessary even in the previous case. For this option, anyway, small panels are designed according to the decomposition of the façade in modular elements, as it happens for instance in the case of glazed unitized façades. Partitioning large panels in smaller sub-elements can provide the designer and the system with a higher architectural freedom. Moreover, this option can be favourable in specific contexts, due to transportation and handling advantages provided.
+The Small-size Panelling option consists of 12 different wall elements, as shown in Figure 7. Every panel, except for M and N, have the same size, that is, to say, 2.95×3.20 m. Most of them are different from the standard element because of window size and position, but this aspect does not imply any waste of resources because of the production line characteristics.
+Option B – entirely prefabricated wall elements. This option refers to the solution proposed in this work, where external wall elements are completely preassembled off-site, as shown in Figure 8(a) and (b). In this case, they arrive at the construction site loaded on trucks and ready to be installed on their final position by workers operating from the designated floor. Façade elements are provided with insulation and finishing layers, doors, windows and all of the necessary connection predispositions. This implies that no further works on the exterior wall surface are needed to complete façades through scaffolds. Anyway, according to the specific case, it is
+Option A/B – Small size Panelling (LP) – north/south front.
+possible to install on site some vulnerable edge parts before handling façade elements to their designated floor.
+As for the previous option, two further detail cases have been analysed:
+For both solution, the same panel size as Option A has been taken into account, in order to achieve comparable results.
+Table III shows the main work phases characterizing the defined case study, in order to outline relevant macro-differences between the two options, A and B.
+The definition of all outer wall layers needed to satisfy performance requirements has been carried forward before going further into the study of joint technical solutions between façade panels. This design phase has been developed following two main steps: functional analysis of the solution and energy performance validation.
+Chosen materials and layer positioning have been established both in accordance with prescriptive requirements identified for vertical enclosure design and builders’ experience. Hygrothermal and acoustic behaviour analysis have been performed, according to boundary conditions referred to the city of Milan, Italy. The wall cross section (see Figure 9(a)
+Figure 8. (a) External view of totally prefabricated façade (binderholz X-LAM BBS_1 ©  (b) Internal view of totally prefabricated façade (binderholz X-LAM BBS_1 ©
+and (b)), from the interior to the exterior, consists mainly of:
+. double layer of wood fibre insulation layer, thickness equal to 6+4 cm
+. breathable waterproofing membrane
+Thechoiceofthefinishingshouldnotbeconsidered fixed, as many possible solutions could be further developed. The presence of a vented façade represents one of the best solutions in order to keep the wall dry, guarantee the best thermal performance, allow wide architectural flexibility and confer a pleasant aesthetical result according to the studied prefabricated system (FP Innovations 2013, Lucchini 2013).
+Technical detailing. A preliminary study of the technical solution has been considered an interesting step to go through, in order to outline the main issues to be tackled within the design phase and, on the other hand, what perspectives an extensive study of this subject would be able to offer.
+It is fundamental to specify that technical detailing solution has been developed after the analysis of the proposed system benefits, which will be illustrated in the next paragraph. This choice was made to avoid establishing fixed borders for the numerical analysis. In fact, assumptions made for the comparative time/cost analysis allowed to perform a lighter and more repeatable calculation process, which can be easily and efficiently applied to other projects, despite a non-significant loss of precision for the obtained values.
+For the purpose of this work, 2-D horizontal and vertical sections of a planar joint between two contiguous panels have been represented. In this context, façade elements such as balconies, eaves and so on have not been considered. The first step has been the construction details design as far as the traditional way to build CLT construction is concerned, that is, to say, Option A (see Figure 10(a) and (b)). Layers needed to complete the technical solution from the inside have not been taken into account in time and cost analysis, as they do not have any relevance within the scope of this work.
+The study of the newly proposed preassembled system has followed two parallel design paths.
+Table III. Work phases for the two proposed design options.
+
+
+Excavation for foundations
+Excavation for foundations
+Reinforced concrete foundations construction
+Reinforced concrete foundations construction
+Reinforced concrete loadbearing walls construction
+Reinforced concrete loadbearing walls construction
+Concrete slab construction
+First and second level of scaffolding installation
+Vertical load-bearing CLT panels installation
+Vertical load-bearing CLT panels installation
+Repetition of e, f, g phases n −1 times, where n is the building storey number
+Repetition of f, g phases n−1 times, where n is the building storey number
+Thermal insulation installation
+Waterproof canvas installation
+External finishing installation
+Figure 9. (a) Vertical cross section. (b) Horizontal cross section.
+The first one aims to mimic window functioning, so interrupting the movement of fluids from indoor to outdoor and vice versa. This is why this has been defined as a “geometrical method”, as it uses shaped wooden elements in order to prevent air/ water exchange between the indoor and outdoor environments, as shown in Figure 11(a)–(c). This method has been used for the evaluation of benefits in the case of both B-SP and B-LP.
+In a platform framing approach, the use of an OSB panel positioned at the edge of the floor slab to guarantee a continuous contact at the wall–floor interface has been considered a good way to stiffen, protect and contain the thermal insulation layer. As far as the installation sequence is concerned, it proceeds storey after storey, as in Option A.
+The second approach has been developed after results of the process analysis had been processed. In fact, as demonstrated in the next paragraph, the weakness of the entirely prefabricated solution using small size panels is the high number of vertical joints. This fact not only implies an increase in construction costs due to the higher number of fasteners, but also to a higher air leakage risk through panel joints.
+To address this issue, an implemented version of the previously proposed solution has been studied. The ambition is to introduce an innovative technical system, imitating the functioning of unitized glass façades (Rigone 2014), which guarantees air and water tightness through the use of gaskets (see Figure 12(a)–(c)). This allows, at the same time, full compatibility of opaque elements with an all height glass modular element, providing designer with a higher freedom level as far as façade texture design is concerned.
+In this case, panel connection in the vertical section is realized at the floor slab extrados. This design choice makes panels less vulnerable during the load/ unload onto and from the truck handling phase.
+Results and discussion
+The technical solution introduced in Figure 9 has not to be considered in any way as executive. Many other factors are worth investigating thoroughly before thinking about launching the proposed system on the market, from both a performance and an architectural point of view.
+In the case of Option B, for instance, air and water tightness through joints are fundamental aspects to be tackled, preferably by means of a thorough laboratory testing program. Moreover, it is necessary to face structural issues like interaction of different components depending on both thermal expansion and shrinkage, or floor deformation due to wood floors compression stress perpendicular to grain. Fire safety is also an important issue to be fully addressed. Concerning architectural flexibility within the design phase, it would be extremely interesting to investigate more in depth different possibilities offered by the system. This would imply studying the analysis of the briefly summarized following issues:
+. building types and different uses;
+. system compatibility with different kinds of structures;
+. system layers diversification both for the external wall wood technology and for the cladding system, in order to give designers and clients the chance to customize their projects. As an example, should the load-bearing function no longer exist, it could be more convenient to take into account cheaper timber-based solutions, such as timber frame walls or LVL panels.
+The work presented by the authors makes a step further in the timber prefabrication field, introducing a load-bearing massive system which allows for the construction of high rise buildings. In addition to this, it also has the aim to solve panel joints through the sole element positioning with no need to work from the external side of the building. The common practice in such systems is to complete external finishing and panel joints on site through the use of fixed or mobile scaffolding (Kobler 2011, see Anonymous 2012). The use of finished façade elements would avoid the presence of open storeys on site, offering immediate protection to CLT horizontal and vertical elements as the construction rises.
+Construction management analysis
+The determination of all system boundaries through the definition of the case study, together with possible façade options, represented a propaedeutic phase necessary to perform the construction management analysis. Within the scope of this work, the computation process has taken into account external wall components, discounting all other construction elements such as floor slabs, internal walls, building services and systems. For these reasons, final results are not to be considered representative for the entire construction process of the defined case study. They intend to only provide relative results by quantifying the convenience, in terms of time and costs, brought about by the proposed façade solutions.
+Work Breakdown Structure
+As a first step, the Work Breakdown Structure (WBS) has been developed in order to correctly organize the evaluation process and, at the same time, to identify every component to take into account within both the bill of quantities and the length of works calculation.
+The splitting of the external wall element into its sub-components has been carried out according to the Italian voluntary standard UNI 8290-1, which provides the following classification rank:
+. classes of technological units (e.g. structure)
+. classes of technical elements (e.g. vertical elevation structure)
+Categorization for CLT technology follows a slightly different approach when compared with other construction systems. In fact, CLT panels have a load-bearing function and, at the same time, they are also part of the building envelope (together with other components for each functional layer),
+Table IV. WBS example for Option A – LP.
+Classes of technical elements
+2.1.1 Vertical external wall
+thus belonging to two different classes of technological units for both options A and B (see Table IV).
+Differences between the two options become evident from classes of technical elements breakdown level because, in the totally prefabricated cases of Option B – LP/SP, windows have not been separately classified but included within the external wall category.
+This fact needs to be acknowledged from the very beginning, as it represents the starting point to go through the analysis process. Hereafter, if in the case of the non-prefabricated solution every different material is taken into account individually in order to evaluate its installation cost directly from quantities, the same approach could not be followed for the prefabricated systems as far as the totally preassembled solution is concerned, given that the external wall arrives at the construction site ready to be installed in “one-shot”. This aspect will be further illustrated within the following paragraphs.
+Cost analysis
+The realization of a detailed WBS served as a basis for the bill of quantities elaboration.
+Data involved in the calculation have been mainly deduced from Italian price lists, which indicate the cost of a particular work according to a workrelated unit price, including a specification on the percentage cost to be assigned to manpower.
+When a work was not available in the Italian price list or the description was judged to be too far from the actual design needs, a detailed price analysis through work splitting has been performed. Therefore, starting from unitary costs of material and the amount of manpower needed to complete the examined work, the prices were calculated €according to Equations (1) and (2) (Gottfried and Di Giuda 2011):
+where Pu is the unitary price, Cu is the marginal unit cost, CM is the manpower cost, Cm is the material cost, GE is the general expenses (15%), PR is the profit (10%).
+Where needed, cost of machinery will be evaluated separately.
+However, when considering the hypothesis of totally prefabricated elements, a new parameter has been introduced: increased productivity. This accounts for the fact that wall assembling work takes place in a controlled and fully organized environment, so unforeseen events and downtime are extremely reduced. Moreover, workers are supposed to enjoy the best possible working conditions, as far as both comfort and safety are concerned, so their productivity will be definitely higher.
+Option A – LP/SP
+For the cost evaluation of every technical element reported within the WBS, the following layers have been analysed:
+CLT panel (for each different thickness value);
+. thermal insulation; . water-tightness canvas; . vented façade.
+The total price for the installation of each layer in its final position is derived from the product between the unitary price, including both cost of material and work, and the computed quantity. Each listed element reports a unique identification code directly related to the reference price list.
+As evident from the sample codes reported in Table V, the only two cost voices that have been computed by performing a price analysis are vented façade installation (which required a project customized evaluation) and CLT panel installation. In this latter case, the detailed cost analysis has been useful to highlight differences between big and small panels, showing that manpower cost incidence on total cost is in a ratio of one to three (Mantegazza 2014).
+The iteration of the analytical process demonstrated in Table V for all works related to each defined technical façade element reveals the final price for the case study vertical enclosure. In order to better outline differences among the analysed cases, some partial results have been extracted out of the total price estimation. This is the case of vertical joints and scaffolds.
+Table V. Panel A (CLT 18 cm) –- cost analysis example for Option A – LP.
+Air-tightness canvas
+Thermal insulation
+Water-tightness canvas
+In Tables VI and VII results from Option A cost analysis have been reported, respectively, for Largesize and Small-size Panelling solutions.
+As far as the cost analysis for joints is concerned, assumptions related to their quantities estimation can be briefly summarized as follows:
+. specific screw prices have been determined, thanks to the information provided by certain manufacturers, as they were not available on
+Italian price lists;
+. vertical connections between consecutive panels requires a total of 10 screws along the entire joint length (45° inclination);
+. horizontal connections consist of angle brackets fixed to the floor through screws and to the wall through nails. Two connection points per meter have been taken into account.
+Finally, the cost estimation for scaffolds has been developed considering the use of a pipe-joint-type scaffold for the entire on-site work period. At a first step, the outcome value has not been included within the final cost as the price reported has to be considered per month. This issue will be addressed in the Result section, after timing considerations have been presented.
+Option B – LP/SP
+A different approach has been followed in evaluating the final price of installation as far as the totally prefabricated option is concerned. In fact, applying the same methodology to this case would have meant performing an overestimation of costs as, despite material cost being the same for both options,1 manpower incidence needs to be calibrated taking into account the higher productivity a worker can achieve in a factory.
+This consideration has led to the development of a simplified price analysis by applying the inverse formula of Equation (1) for each designed preassembled panel, in order to calculate the actual marginal unit cost, excluding general expenses and profit. Once Cu is available, it is possible to determine the cost of manpower only, according to the percentage incidence suggested in national price lists or derived from price analysis. Finally, this cost (CM) has been decreased by a reduction factor equal to 0.5,2 applied to the specific works which will benefit from the shifting of working location from the construction site to the factory, that is, to say, all wall outer layers which would normally be installed through the use of scaffolds. On the other hand,
+Table VI. Cost analysis outcome for Option A – LP.
+V. Junctions (€)
+Scaffolds (€/month)
+t analysis outcome for Option A – SP.
+V. Junctions (€)
+Scaffolds (€/month)
+Table VIII. Panel A (CLT 18 cm) – Cost analysis example for Option B – LP.
+
+Thermal insulation
+Water-tightness canvas
+
+
+
+manpower contribution related to CLT panel installation and their connections would not experience any substantial variation between the two analysed options, A and B. As in the previous case, Table VIII summarizes calculation results.
+It is important to emphasize that an extremely accurate and detailed evaluation of costs related to each specific option would be necessary to develop a price analysis for each single work of the WBS, based on close collaboration with manufacturing and construction companies to obtain the exact data from previous project experiences. This would allow for the definition as to which parameter has a consistent influence on cost and it would be easier to keep it under strict control according to the specific project case.
+This very detailed works factorization would have required a significant analytical effort and a very timeconsuming data search phase, which could not justify the scope of this work, whereby the aim is to produce an approximate estimation to evaluate the order of magnitude of a system convenience over the other.
+As well as for Option A, some partial results have been extracted out of the total cost and reported in Tables IX and X, respectively, for Large-size and Small-size Panelling solutions. In this case, however, the diversification of the external wall element and window would have not made sense.
+As far as the cost analysis of joints is concerned, assumptions made for Option A are also valid in the case of the totally prefabricated off-site option too. This choice allows comparable results between all different cases. On the other hand, scaffolding will not be considered anymore.
+Results and discussion
+Results from the cost analysis confirmed that prefabricating façade elements off-site allows for a significant reduction in costs (see Figure 13(a) and (b)). It is noteworthy that this is also true without considering the expenses derived from scaffolds.
+Table IX. Cost analysis outcome for Option B – LP.
+V. Junctions (€)
+Scaffolds (€/month)
+Table X. Cost analysis outcome for O
+ption B – SP.
+V. Junctions (€)
+Scaffolds (€/month)
+Moreover, outcome have shown how differences in terms of cost among Large- and Small-size Panelling solutions, in the case of both A and B options, are equally significant (see Tables VI, VII, IX and X) as it makes no sense to take into account the second one without rethinking production and installation process according to a
+Figure 13. (a) Partial price graphic comparison for the four proposed design options. (b) Total price graphic comparison for the four proposed design options.
+more sustainable strategy. The most relevant differences are determined by manpower incidence related to panels load on truck, on-site handling through crane and installation (see Table VIII). These phases clearly need to be repeated for the high number of designed panels, causing a consistent time and cost increase. In this case, a more coherent solution would imply studying new wall element dimensions in order to allow for superimposed pallet transportation, as it already happens for unitized glass façades, which are commonly used for the major part of high-rise building façades nowadays. The adoption of such a system would also foster a quick and simple truck unload and on-site storage phase (or at the foot of the building) and agile handling/installation phase through the use of a reduced radius operating crane (Friblick et al., Mantegazza 2014).
+Another factor which has an influence prices raising is the higher number of fasteners needed to structurally connect two consecutive walls (see Table XI). Anyway, this issue can be easily addressed by using a heavy-duty connection system preinstalled on panel edges during the factory assembling phase.
+Scaffolding prices have been computed according to work durations obtained from the project Gantt diagram, for each of the considered options.
+Savings generated from the preassembly of the offsite façade can easily be reported as a unit price dividing the specific saving value by the analysed façade area, that is, to say, 824 m2 into four fronts. For instance, the comparison between Options A and B, as far as the B-LP case is concerned, shows how the unit price saving may be substantiallyreduced, in this case equal to 31.83 €/m2, but it can reach consistent amounts if the involved surfaces are large enough (see Table XII).
+Finally, it is fundamental to outline how this analysis deals with direct costs only, that is, to say, from resource savings in terms of material, manpower and tools. However, including all indirect costs mentioned within the advantages analysis illustrated at the beginning of the present paper (see Table I) would make cost reduction even more significant. Starting from this main finding, it would be useful and extremely interesting to perform a life-cycle cost analysis as further development of the present work.
+The analysis of the four different defined solutions as far as time effort is concerned has been carried out through two main steps: the duration determination for each work included in WBS and scheduling through different on-site phases in order to obtain a realistic work estimation of hypothesized options.
+The approach used to perform the first goal is based on statistical/probabilistic prevision (Gottfried and Di Giuda 2011) and makes use of empirical data from operators’ experience. The evaluation method is strictly related to the closed bill of quantities estimation phase, as the manpower percentage incidence in terms of costs is the starting point to determine every work median duration. Calculations have been developed based on Equation (3) and (4), which are briefly explained below.
+where CM is the manpower cost, Cu is the marginal unit cost (for each work), %M is the percentage incidence of the manpower, CMday is the manpower cost per day, CMh is the manpower cost per hour, nh is the working hours per day.
+Table XI. Numeric results comparison for all different options.
+Option A – SP
+Option B – SP
+Option A – LP
+Option B – LP
+V. Junctions
+Oncehavingeasilyfixedwiththesedata,itispossible to go further through the determination of a fictitious indicator,representingtheamountofworkersrequired inordertobeabletocompleteaworkofanysortinonly one day (see Equation 5). This parameter, together with the definition of the standard operating team for the examined work, allows to evaluate the duration of the work itself through Equation (6).
+wherePdayistheperson-days(seeCOUNCILDIRECTIVE 92/57/EEC), ST is the number of workers making the standard operative team, Dn is the work normal duration.
+Finally, the outcome duration value has been considered by defining both optimistic and pessimistic scenarios, in terms of percentage of occurrence, in order to take into account various unforeseen events that might affect the ordinary progress of the construction process (see Equation (7)–(9)):
+where DO is the optimistic duration, %O is the optimistic percentage, DP is the pessimistic duration, %P is the pessimistic percentage, Option A – LP/SP. Following the process described above, each work duration for both Option A – Large- and Small-size Panelling – solutions has been evaluated. As in the case of cost estimation, this analysis has also been performed for each work included in the WBS. Table XIII reports evaluation outcomes as far as the necessary time for work completion on a certain level is concerned.
+It is important to underline that, on a real construction site, with the increase in the level height, some works will naturally require a longer time to be performed. As an example, it is possible to consider the CLT panel transportation path on the crane from the ground floor to a constantly increasing level of the building. In addition, many works require stricter safety procedures, which are likely to make work proceed at a slower pace to guarantee workers’ safety. However, this aspect produces differences that are not so significant and may be not taken into account within the scope of this work (Mantegazza 2014). Thus, durations in Table XIII, related to the first floor, have simply been multiplied by the number of storeys of the case study building.
+Figure 14 (a) and (b), which show the percentage duration divided according to the installation of various components, clearly highlights that the impact in terms of time related to façade installation (CLT panels) is significantly more in the case of small panels than in the case of large panels.
+Option B – LP/SP
+Table XII. Cost savings related to each option compared to the other alternatives.
+Option A – SP
+Option B – SP
+Option A – LP
+Option A – SP
+Option B – SP
+Option A – LP
+Option B – LP
+The same approach has been followed to carry out the construction site works length calculation insofar as the entirely prefabricated façade solution is concerned. In this case, the only activity needed to be taken into account concerns the installation of preassembled external walls, thus the starting value for durations estimation has been manpower incidence related just to CLT panel installation. Results are summarized in Table XIV.
+When performing the calculation, a 15% increased value has been considered in order to consider the desirable longer time needed for the preparation, handling and installation phase due to both higher vulnerability of the system itself and precision required to ensure façade surface planarity.
+Manpower incidence cost for the façade outer layers has been useful in order to obtain the total costs for the solution proposed, but they have not been taken into account within on-site scheduling determination, as their installation durations do not belong to the analysed construction phase.
+If the actual works duration, as far as the only façade completion on the four building fronts is concerned, would come from the algebraic sum of single works contributions, the prefabricated and nonprefabricated options would show a huge difference. As an example, in the traditional large panels option, façade completion through scaffolding would require around 7.5 months.
+For this reason, a general work program for the considered solutions has been developed, allowing for the performance of an effective and coherent comparison among the various solutions, considering the contemporary works in each of the cases.
+Gantt chart. The final construction time analysis for the case study building has been developed through a bar diagram, currently used in the field of project management to arrange various project activities and guarantee a proper and well-balanced use of resources. Once more, it is useful to underline that work duration is only related to the four fronts façade completion. Therefore, final duration outcomes have to be intended as relative values, with the aim of allowing a reasonable comparison between the various options of the case study.
+The diagram construction is performed according to the typical project development for these kinds of buildings, one storey after the other. Scheduling analysis was based on the following assumptions:
+. works on the façade, if needed for the specific case, are supposed to begin when the structure installation has already reached the third level. The presence of an intermediate storey without any type of work has been guaranteed in order to avoid any eventual interference;
+. scaffolding installation grows up together with structural CLT panels in order to provide protection from “fall from height” to workers operating on various storeys;
+Table XIII. Sum of durations in days for option A – LP/SP.
+
+Air-tightness canvas
+Thermal insulation
+Water-tightness canvas
+V. Junctions
+Figure 14. (a) Large Panelling, work duration distribution according to components installation. (b) Small Panelling, work duration distribution according to components installation.
+Table XIV. Sum of durations in days for option B – LP/SP.
+
+All storeys
+V. Junctions
+Table XVI. Comparison between the sum of partial durations and the Gantt chart output for each option.
+
+
+
+
+
+. links of precedence between different activities have been determined according to construction time logic and experience.
+Analysis results for each solution in terms of working days are reported in Table XV.
+Results and discussion. Results from on-site scheduling elaboration show how component prefabrication can achieve significant time savings. Unfortunately, construction schedule and cost reports related to best practice case studies are not easily made available by design firms or general contractors companies, making analytic comparison and research results validation hard to perform. In fact, most of the studies concern already built project or patented construction systems, whose specific data sheets are very seldom made public or published. Thus, only qualitative information on these case studies is available (Waterfront Auckland, Miloni et al. 2011).
+Table XVI collects outputs from both analytical steps followed within scheduling estimation. It is interesting to note how, in the case of Option B, there are no differences in terms of works duration compared to the mere sum of each activity duration. This is quite a predictable result considering the fact that façade panels arrive at the construction site ready to be installed in their final position and no additional work is needed. As such, only the following activities have been considered for each panel:
+. truck preparation, lifting to the floor, vertical positioning and horizontal connection to floor slab (all included under V. Enclosure, see Table XIV);
+Despite both prefabricated solutions perform more strongly compared to non-prefabricated ones (see Figure 15), time saving guaranteed from Option B – SP, within the defined boundary conditions, is not large enough to justify this choice compared to the traditional construction way.
+Thus, as demonstrated for the cost estimation phase, outcomes from time analysis also prove how prefabricating façade elements off-site could bring about lots of advantages to the construction process of a tower building. This issue is even more relevant when dealing with timber-based structure, where minimizing exposure to weather agents could become a crucial aspect to take into account during on-site works. Moreover, it is necessary to underline how construction speed concurs widely in saving money as well and it is often the key factor which drives clients to choose timber as construction material for their investments.
+This paper presented the results of a study of the influence of envelope degree of prefabrication for tall CLT buildings, in terms of cost and time savings but also concerning on-site work quality and safety issues. The analysis was carried out through the use of a case study building, demonstrating that comprehensive façade prefabrication not only allows consistent compression of construction scheduling to be achieved, but also for the immediate protection to wooden elements from weather agents. In addition, it also guarantees more efficient construction site organization. The latter is a main concern when dealing with timber construction.
+Results prove that off-site prefabrication of façade
+
+
+
+
+elements allows a significant reduction in costs. It is particularly interesting that this also applies without considering scaffolding costs. Moreover, the outcome showed how differences in terms of cost among Large-size and Small-size Panelling solutions, in the case of both Options A and B, are equally significant. However, it would certainly be possible to optimize production and installation processes in
+Construction cost and time comparison for the four proposed options.
+favour of a more sustainable strategy for the latter option. In fact, the most relevant differences were encountered in manpower incidence related to panels load on truck, on-site handling through crane and installation. Changing the system to allow for a more efficient transportation and handling phase could be a very promising research line for the next years.
+Furthermore, within the frame of this work, cost analysis focuses only on direct costs, that is, to say, those derived from resource savings in terms of material, manpower and tools. In addition to this, indirect savings derived from better construction site organization and other related aspects would certainly further reduce total costs. Analysis carried out outlined how a prefabricated envelope strategy applied to tall timber constructions brings about numerous advantages. Moreover, it is easily inferable how benefits become even more consistent by increasing building height. On the other hand, the use of the proposed system for smaller buildings needs to be investigated further to better verify its cost effectiveness. In this case, a partial prefabrication of the envelope is likely to be more convenient, as it is certainly possible to solve joints between wall elements from the outside through the use of aerial platforms.
+Finally, results from detailed construction site scheduling outline how components’ prefabrication permits consistent savings in terms of time and costs and, more generally, improves construction process quality. In particular, the issue of time reduction is even more relevant when dealing with timber-based structure, where minimizing exposure to weather agents is certainly among the main concerns. In addition to this, construction speed concurs widely in saving money and is often the key factor driving clients towards the choice of wood as construction material for their investments.
+The development of this work has been supported by our research partner the institute for Construction Management and Economics of the Technical University in Graz/ Austria, where parts of this research was specifically carried out. Special thanks to Prof. Dr Detlef Heck and Dipl.-Ing. Joerg Koppelhuber of the department for their kind collaboration and useful suggestions. Further acknowledgments go to Stora Enso Wood Products GmbH for the technical information provided. The corresponding author wants to thank Annalisa Andaloro for providing comments that greatly improved the manuscript and for her friendly support.
+No potential conflict of interest was reported by the authors.
+
+In the case of prefabricated solution, additional pieces (e.g. OSBframe) have been computed but are not reported to facilitate an effective comparison. However, graphs summarizing results consider also their contribution.
+The exact value of this factor is currently under study at theConstruction Management Department of TU Graz, Austria.
+CLT panel surface is larger as manufacturers compute thewhole surfaces, including windows cutting.
+Average on the working days number obtained from the Ganttanalysis (Microsoft project).
+Calculated for total prices of each option.

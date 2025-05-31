@@ -1,0 +1,126 @@
+﻿i	An update to this article is included at the end
+Linear programming applications in construction
+Civil Engineering Department, College of Engineering, University of Business and Technology, UBT, Jeddah, Saudi Arabia Math. and Phys. Engineering Department, Faculty of Engineering, Alexandria University, Egypt
+Received 23 January 2018; revised 28 September 2018; accepted 3 November 2018 Available online 28 November 2018
+Linear programming;
+Optimization model; Contractor selection and decision making
+Abstract More issues in construction management were found especially for decision making that related to the Arabian construction management office requirements. Operation research especially linear programming models considered one of the most important tool used in optimization applications at many fields of production engineering and mass production, also linear programming applications was developed to construction engineering field. This paper presents a linear programming technique to spotlight decision making application for optimizing competitive bidding strategy to select best tender as shown in real case study. Therefore, project manager or decision maker can use this concept for getting the best project cost. This paper give linear programming concepts that are reviewed to describe recent linear programming component which had large focus on related time-cost and time problems for studied project. Linear programming models are formulated to solve various cost and time problems by using LINDO software. The developed models had many limitations and restrictions for studied project. Construction managers can use it to explore more possible opportunities to predict influence of decision for construction to facilitate preferred different management objectives. Linear programming implementation shows the practice of wide variety for construction problems especially cost with time issues and it is more applicable to generate a shortest computational effort and time with low cost.
+2018 Faculty of Engineering, Alexandria University. Production and hosting by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (
+Introduction
+Linear programming method is the recent method during Second World War. The Applications of Linear Programming models includes for example but not limited to: (1) The Diet
+(2) Portfolio Optimization; (3) Crew Scheduling; (4) Manufacturing and Transportation; (5) Telecommunications; and (6) Traveling Salesman Problem. At linear programming model which is optimized is called objective function. The services, products and projects are sharing by limited resources which are named variables. The resources limitations
+Civil Engineering Department, College of Engineering, University of Business and Technology, UBT, Jeddah, Saudi Arabia. E-mail address: yasser@ubt.edu.sa.
+Peer review under responsibility of Faculty of Engineering, Alexandria
+are shown as inequalities which they are named constraints. Linear programming problem formulation as a mathematical function using following steps: (1) Define decision variables to be express and determined them as symbols such as xi; (2) Define all constraints as function of defined decision variables;
+University.
+1110-0168  2018 Faculty of Engineering, Alexandria University. Production and hosting by Elsevier B.V.
+This is an open access article under the CC BY-NC-ND license (
+and (3) Define objective function that is optimized as a function of decision variables (maximized or minimized). (SeeFig. 1., Fig. 2.)
+Many Scholars has researched and dealt with the Linear Programming and they have studied many applications of Linear Programming and Operation Research in several field [1]. presented a simplified linear programming model having many management restrictions and it was formulated to solve construction problems using LINDO software. The model developed represents of this project [2]. considered rectilinear distance location problem, which yields to capacitated facilities location, to decrease total project cost. The problem is reformulated as linear mixed integer problem related to linear programming relaxation [3]. applied mathematical programming methods by recognized widely limitations. This researcher proposed multi-mode technique depends on linear and/or integer programming for improving project cost and time. More modules were used for this study: (1) Duration, (2) Reduction, and (3) adjustment models [4]. reviewed linear programming as mathematical procedures that needed to obtain variables, constraints and feasible solutions [5]. presented workforce planning and operations research applications to explore general
+potential modeling. Operations research was applied four major techniques: (1) Simulation models, (2) Supply chain models (3) Optimization models and (4) Markov models,. It concerned with important theory that provides integer programming with optimizing decisions mechanism for complex systems [6]. was concerned with cost or/and time which are major criteria that must considered carefully for construction scheduling with pricing. Construction managers should trying to find optimal project duration corresponding with minimum project cost that is solved by LINGO 12.0 [7]. Proposed a new optimum technique especially in fuzzy environment cost and time trade-off problems. For goal programming problems, it was developed new solution technique [8]. got and analyzed linear programming problems that were solved by original simplex algorithm [9]. presented a simplex algorithm that gives more solutions and taking advantage of minimizing construction operations based upon rational arithmetic [10]. mentioned project important factors to provide skilled labor related to its requirements. Linear programming was done to achieve optimized solution [11]. Linear algorithms in linear programming are presented and they are applicable for other problems as quadratic programming [12]. applied fuzzy theory for more construction fields, and presented more new solving fuzzy methods for construction by linear ranking function [13]. solving nonlinear problems complexity were reduced by transformations actions from nonlinear to integer linear
+programming [14]. investigated a new teaching process which it will be considered by two different methods: (1) quadratic programming problems by linear models are solved and formulated by statistical methods; and (2) linear regression model solution with constraints can be use quadratic and linear programming by simplex techniques [15]. Concentrated on simplistic approach for real construction problems within multiple objectives and is high practice of operation research [16]. Focused on human resource planning and their needs that facing leaders and managers.
+Fig. 2	Flow Chart illustrates Construction of Operation Research Model.
+Research scope
+The primary research scope is to review solving method of The Linear Programming Models (Graphical Solution, Simplex Method, and Binary Variable) and discuss The Applications of The Linear Programming in The Project Management Office (PMO) to provide useful information for establishing data. Therefore, this study constitutes a wide review of literature including more cases of studies.
+This Research presents realistic Linear Programming models that define the variables and problem constraints also objective function for construction which are not straightforward. Firstly, it should understand what is Operation Research and Linear Programming where that it’s Mathematical modeling is a cornerstone to solve more Problems and making a decision before a final decision can be reached. All techniques include the following: (1) Non-Linear Programming (2) Dynamic Programming, (3) Network Programming, finally (4) Integer Programming. They are trying to find functional relationships between all variables and defining real World boundaries [17], The principal phases for the implementation of operation research model in practice include the following: (1) Definition, (2) Construction, (3) Solution, (4) Validation and (5) Solution Implementation.
+Linear programming applications
+Ready mix produces two types of paints, first one is interior paint and second one is exterior paint. They are produced from two raw materials. Following table give all limitations of problem:
+Interior paint maximum demand per day is equal to 2 tons. Also, interior paint daily demand cannot exceed by 1 ton than exterior paint. Ready mix wants to get optimal product mix from exterior and interior products that increase daily profit. The studied model had three items: (1) Decision variables, (2) Constraints and (3) Objective (maximize or minimize).
+It must be to get optimal feasible solution that maximizes the total profit and must be locate the optimum solution.
+Graphical method
+& Feasible area can be founded in Fig. 3. First, account the non-negativity constraints X1  0 and X2  0. Two axis x1 and x2 represent two variables. To plot all constraints, replace inequality to equation and plot it into graph. Any point inside or border of ABCDEF area is feasible solution. & Determination of Optimum Solution as shown in Fig. 3. Any point on area boundary of ABCDEF may one of them to can find optimum solution by solve profit function z = 5 X1 + 4 for maximizing objective function.
+& Optimum solution can be found at point C, X1 and X2 values corresponding to point C were calculating equations: 5.0 X1 + 4.0 X2 = 24.0 and 1.0 X1 + 2.0 X2 = 6.0.
+& The solution of point C (3, 1.5) give daily profit is equal to $21,000.
+& The benefit of optimum solution that is located at corner point only. (See Fig. 4).
+Properties of the linear programming model: (1) Proportionality: it requires every decision variable contribution in constraints and objective function which directly proportional to variable value. (2) Additivity: it requires all variables contribution constraints and objective function which directly each variable individual contributions summation. (3) Certainty: Linear Programming model constraint coefficients and objective were deterministic. 5.2. Software solution (TORA)
+Simplex method and sensitivity analysis
+Simplex technique was invented to solve problems that related to linear programming [18]. This technique had developed to solve complex problems using more variables with limitations and constraints. Simplex method begin from origin then moves from next corner point and so on for increasing objective function value, simplex method is used to optimize linear programming associated with complex problems using more decision variables number, it will be restricted the use of problems with
+Fig. 3	Feasible Space of The Ready mix Model.
+Fig. 4	Optimum Solution of the Ready mix Model.
+Fig. 5	Detailed Solution by TORA software.
+four variables or less based on sensitivity analysis to optimize project cost.
+Simplex method Form
+Converting inequalities to equations
+In less than or equal constraints, right-hand side present resource availability by using of model. To convert less than or equal inequality constrain into simplified equation, it must be add non-negative slack variable at constraint left-hand side. As shown in Table 1, it will be solved the illustrative example by using simplex method, then Table 4 shows the simplex equation forms. (See-Table 2., Table 3.)
+Three equations with five unknowns (X1, X2, S1, S2 and S3). If unknowns number more than equations number, there will be many solutions available at this model. It can be represented the initial Simplex Table as shown in Table 5.
+Table 6 was designed to specify Basic and Non-basic Variables and to provide at the origin (X1, X2) = (0, 0) starting iteration solution as (1) Non-basic variables: (X1, X2), 2) and Basic vars. are S1 & S2 & S3 and S4. In case of non-basic vars. are X1 = 0.0 and X2 = 0.0 then Z = 0.0 & S1 = 24.0 & S2 = 6.0 & S3 = 1.0 and S4 = 2.0. Objective function Z = 5.0 X1 + 4.0 X2 presents that any result can increase in case of increasing X1 or/and X2. While X1 is better than X2 because of its high positive coefficient inside objective function and it is selected as entering variable, then it will assigned to high negative coefficient at new objective function optimality
+Fig. 6	Graphical Solution by TORA software.
+X2 = daily interior paint production per tons 2- Objective function:
+3- Convert objective function.:
+X1, X2  0 (The non-negativity Constraints)
+5- Convert each constrain inequality into equation:
+6.0 X1 + 4.0 X2 + 1.0 S1 = 24.0 where Slack Variable S1  0 1.0 X1 + 2.0 X2 + 1.0 S2 = 6.0 where Slack Variable S2  0
+1.0 X1 + 2.0 X2 + 1.0 S3 = 1.0 where Slack Variable S3  0
+1.0 X2 + 1.0 S4 = 2.0 where Slack Variable S4  0
+Table 2	LP model for ready mix application.
+X2 = daily interior paint production per tons 2- Objective function:
+X1, X2 = <0 (The non-negativity Constraints)
+condition rule 1.0 Z – 5.0 X1 + 4.0 X2 = 0, (all vars. are switched to L.H.S). Leaving variable determining mechanics from simplex table calls computing equations right-hand side
+The Corner Point
+The Objective Function (in dollar)
+
+Simplex Optimality Condition.
+Entering	Ratio
+nonnegative ratios (Solution column) to corresponding coefficients of constraint under use of entering variable, X1, as the following Table 6.
+The minimum non-negative ratio automatically will convert leaving var. S1 with entering var. X1 with corresponding new value. Fig. 7. shows computed ratios using intercepts of constraints and entering variable (X1) axis. It can be produce following sets for Non-basic and basic variables: (1) Non-basic variables: (S1, X2), 2) Basic variables: (X1, S2, S3, S4). Basically it must be to determine column of entering var. as pivot column and row of leaving var. as pivot row. Intersection between
+Objective Function
+pivot column with pivot row is named aspivot element. Table 7 shows starting table with its pivot row and column highlighted.
+It is important to generate new basic solution which it include: (1) Pivot row: switch leaving var. at basic column with entering var. by new pivot row isequal to current pivot row divided by pivot element as shown in next calculations. (2) All next new rows and Z row as New Row is equal to current row minus its pivot column coefficient multiply to new pivot
+These calculations are used to as following steps:
+1- Replace	S1	in the Basic	column	with	X1.
+Fig. 7	Graphical interpretation of the ratios.
+Highlighted Simplex Pivot Row and Column.
+Fig. 8	TORA Simplex Input Wizard.
+Table	9	Simplex	Optimality	Condition	and	Feasibility
+
+Ratio (or intercept)
+The new basic solution is (X1, S2, S3, S4), and the new tableau as shown in Table 8.
+Highlighted Simplex New Basic Solution.
+Table 8 shows same properties as Table 5 and then it was set as new non-basic vars. X2 and S1 are equal to zero, also new basic solution of X1 = 4.0 & S2 = 2.0 & S3 = 5.0 & S4 = 2.0 and Z = 20, which is consistent with New Z = 0 + 4  5 = 20. Table 9 give X2 is entering var. as optimality with feasibility condition.
+Thus, S2 will leave basic solution after that X2new value is equal to 1.5. Then corresponding increase of Z is 2/3 and X2 = 2/3  1.5 = 1.0, that give new Z = 20.0 + 1.0 = 21.0.
+Replacing leaving var. S2 with entering var. X2, the following Gauss-Jordan row operations are done as: 1) New pivot X2-row = Current S2-row/(4/3). 2) New Z-row = Current Zrow – (-2/3)  New X2-row. 3) New X1-row = Current X2-row – (2/3)  New X2-row. 4) New S3-row = Current S3row – (5/3)  New X2-row. 5) New S4-row = Current S4-row– (1)  New X2-row. These computations produce the following Table 10:
+Simplex Final Decision.
+Daily exterior paint production per tons.
+Daily interior paint production per tons.
+$21,000 is equivelant to daily profit.
+According to optimality condition no negative coefficients for Z-row. Finally Table 10 is converted to optimal solution table, then optimal values for studied problem are shown in Table 11.
+Minimization of linear simplex technique
+For minimization problems optimality select entering var. as non-basic variable with objective function in most positive coefficient and opposite rule for maximization problems such as maximize of Z is equivalent to minimize of (-Z). In feasibility condition maximization or minimization problem is non-basic var. that had max negative or positive coefficient at z-row. Optimum at z-row coefficients iteration are nonnegative or non-positive. For maximization or minimization problems, basic variable (leaving) assigned with smallest non-negative ratio or positive ratio. Replace the leaving variable in the Basic column with the entering variable.
+New pivot row is equal to old pivot row divided by pivot element. Then the remaining rows, including z: New row is equal to old row minus (pivot column coefficient) multiply (New pivot row). Finally simplex steps are: (1) Determine starting solution of basic feasible. (2) Select entering var. using optimality condition. Stop in case of no entering var. and last solution is optimal. (3) Feasibility condition will select leaving var. (4) Determine new basic solution and repeat by go to step 2
+Project Selection with Competition at Limit Resource Using Linear Programming as Contractor View. Project Management Office has five bids and must make a decision to enter all of them or some of them or none of them with the note: (1) There is competition between the bidders. (2) Is the amount of existing resources enough or not enough. Table 12 gives problem basic data. The Bid Bonding is 0.2% of the amount of the tender and the Exposure Limit is 18 million. The following table provides the available resource which that Project Management Office Company has owned: 4 cranes, 3 aircompressors and 2 tractors.
+It is required to determine which projects the company can entering it to give maximum profit through their resource.
+It will be identified potential opportunities to win the likely price of each project can enter the bid as shown Table 13: Chance of Weighted Profit ‘‘CWP” = Profit  Probability of Winning.
+Table 12	Case Study Data.
+
+
+
+
+Table 13	Case Study Potential Opportunities.
+Project	(Chance of
+Cost	Amount
+Chance of Winning Profit
+
+
+
+For Example: Chance of Weighted Profit ‘‘CWP” = (11– 10.50) x 0.60 = 0.30.
+o Binary Variable, where that:
+Express, this value mustn’t entering the Bid with Value Equivalent.
+Express, this value must entering the Bid with Value Equivalent.
+o where that:
+Express, Number of Project, (i): Express, Number of Option (Project Cost). o It means that:
+Objective function
+Multiply by 1000
+
+
+
+House = 8.50
+School = 5.90
+Tractors Constraint
+Two Constraints Must be Verified at same time.
+Bonding Constraint
+Then, Optimum solution is shown in Table 14:
+Conclusion and recommendations
+This research imply explain the linear programming models and its applications in the field of Project Management, where in the first part talked about introduction and a quick review of the general applications of linear Programming in the real world, In the second part it was dealt talk about some research which addressed The Application of Linear Programming that nearby field, and it was discussed in part three it was explain Introduction to Operations Research as access to a Linear Programming models and it was dealt explain the Graphical Solution Method, The Simplex Method and The Binary Variables Method, and in the fourth Part it was dealt with one of Linear Programming Applications in tasks of Project Management Offices of Engineering projects which studies evaluation and selection of Bids that should entering and participate in it and how to determine the right price to enter this Bid and probability of gaining it, In part five has been mentioned the conclusions of this study, as well as some of the topics that scholars can complete their studies until it wasachieve the highest benefit and focus our effort and our thought.
+The main conclusions drawn from this study are taking advantage of the potential possibilities of a linear programming model to support decision-making processes and evaluate some tasks The Project Management Offices (PMO) of Construction Companies and also Offices of Projects Management and these tasks, for example, but not limited to: Determination and Evaluation The Bids which appropriated The Companies Resources, Determination and Evaluation The Optimal Resource for Projects and also, Determination and Evaluation The Optimal Time and The Optimal Cost for implementation Construction projects.
+Further studies are needed in the following subjects: (1) Performing similar studies to Applications the Linear Programming in The relation between The Time, The Cost and The
+Quality. (2) Performing similar studies to Applications the Linear Programming in The Cost Analysis of the Different Items. (3) Performing similar studies to Applications the Linear Programming in Allocated Resource in Construction Projects.

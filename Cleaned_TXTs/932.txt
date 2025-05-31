@@ -1,0 +1,233 @@
+﻿See discussions, stats, and author profiles for this publication at:
+Study on the impact of accidents on construction projects
+Conference Paper · December 2015
+CITATIONS	READS
+
+University of Moratuwa	University of Moratuwa
+3 PUBLICATIONS   63 CITATIONS   	113 PUBLICATIONS   916 CITATIONS
+All content following this page was uploaded by Asanka Waga Arachchige on 26 December 2015.
+The user has requested enhancement of the downloaded file.
+STUDY ON THE IMPACT OF ACCIDENTS ON CONSTRUCTION
+(Part1)”,TOA Corporation, Singapore
+2Senior Professor, Department of Civil Engineering, University of Moratuwa, Sri Lanka
+As the construction industry is carried out in hazardous environments, it experiences accidents in different levels of severity, some causing minor and major injuries with even some resulting in fatality. In addition to the human cost involved, it also causes bad publicity to the profession. Worldwide, authorities have tightened up safety standards, which have enhanced the performance in construction sites. However, accidents are still happening and there is a need for further research on this important subject.
+From construction organization’s point of view, accidents are unexpected events and unplanned costs. Some accidents may change the organizational goals or it could even make the company uncompetitive in the industry. A good understanding of accident forecasting is vital in construction project management. This research explores four questions that arise in accidents in construction sites. Namely, (1) What are the impacts of accidents on construction work? (2) What are the uncertain contributory factors in these accidents? (3) How are human and financial aspects linked to accidents? (4) What are the possible project performance enhancements under uncertainty factors of the accident?
+The objectives of this research paper are (i) to investigate construction site accidents to identify the critical causes and effects; and (ii) establish relationship of accidents with additional project cost, additional time, project scope, company reputation, and impact on national safety indexes. While human errors were identified as the main cause for construction accidents, negligence or mistakes can happen due to the uncertain circumstances. Hence, unavoidable accidents have to be expected in the construction industry. The commitment of all humans involved, from the project manager to the labourer towards good practices would enhance the safety performance in construction sites.
+Introduction
+1.1 Background
+Accidents are unforeseen events, which cause damages or injuries unintentionally and unexpectedly. In the construction sector, accidents are unavoidable and has higher risk compared to other occupations. Higher fatality rates for construction works around the world have been reported highlighting the industrial crisis due to accidents [1], [2].
+However, accidents can be mitigated by establishing proper safety management system (SMS) in construction sites. Authorities have tightened up their safety standards to mitigate accidents but still accidents are happening. As a construction organization, accidents are to be expected. Therefore, forecasting accidents for the future projects would be advantageous for the required pre preparations and budget allocations to minimise the overall damages to the organizations financial stability.
+This study explores four key questions; (1) what are the impacts of accidents in construction work? (2) What are the uncertain contributory factors in these accidents? (3) How are the human and financial aspects linked to accidents? (4) What are the possible project performance enhancements under uncertainty factors of the accident?
+Hence, the objectives of this study are to (1) investigate construction site accidents to identify critical causes and effects; and (2) establish the relationship of accidents with additional project cost, additional time, project scope, company reputation, and influence on national safety indexes.
+Accidents are a main disadvantage in the construction industry. During the last 20 years in the UK, 27% of fatal and 10% of major injuries were construction related [3]. Statistics of construction related accidents in US and Singapore show highest fatalities in 24-34 age group, 80% of skilled manpower, and 50% of just before or during the tea time [1].
+According to the South Australian construction industry, experienced workers have higher potential to cause accidents, while workers employed by small companies are unsecure than larger companies [4].
+The reported accidents are only a portion of the incidents that actually happen in construction sites. Some accidents may not be reported due to various reasons, such as geological location, communication difficulties, governmental interference, cultural barriers etc [2].
+Different countries have established various legislations to mitigate occupational accidents.
+Singapore, Ministry of Manpower (MOM) published Workplace Safety and Health Act in 2006 superseding the former factories act with new enforcements highlighting the reasonable practicable measures to be undertaken by organizations to minimise occupational accidents [
+However, accidents are still happening, Table 1 is showing the distribution of fatalities in construction sector, Singapore over the years.
+Table 1 - Fatality in construction sector, Singapore [
+Outcomes of safety related researches have contributed to enhance the safety performance to some extent. For example the Olympic infrastructure development project had award winning safety and health performance through careful planning and leadership [5]. Generally, the accident rates are still higher in the construction industry [1], [2].
+Research method
+The necessary information was collected from online sources in published media and research papers. The collected information was studied to identify the potential causes and effects in the construction industry.
+Some of the cost information was taken directly from the case studies and some have been predicted using available data sources.
+National safety indexes of Singapore have been taken in to consideration to find the effect of national safety indexes {
+Accidents cause construction delays, cost overrun and sometimes ruin the reputation of the organization, and losing the confidence among workforce [6] or banning from tendering by government authorities. It can cause dissatisfaction among stakeholders, be uncompetitive when tendering, financial losses due to property damages and penalties from authorities. Further studies need to be launched to investigate this global tragedy.
+Emphasizing the importance of the accidents, researchers have modelled the accidents in several ways [7] as,
+• Complex Socio-Technical Systems
+• Systemic Accident Models o Systems Theoretic Approach o Cognitive Systems Engineering Approach o Rasmussen’s Socio-Technical Framework o AcciMap Accident Analysis Technique o STAMP Approach
+• Formal Methods and Accident Analysis o Logic to Support Accident Analysis o Probabilistic Models of Causality
+Accident causation model is a systematic way of ascertaining the causes of accidents.
+Domino theory is the most influential accident causation theory, which was developed by Heinrich [8]. It has five metaphorical dominos, which cause accidents:
+• Social Environment and Ancestry
+• Fault of Person
+• Unsafe Acts or Unsafe Conditions
+Eliminating one of the dominos will prevent accidents.
+Heinrich,   believes that the human failure is the main reason for accidents by saying “man-failure” [9] and according to the outcome of his study of accident databases, 88% of accidents are due to unsafe act of workers, 10% are due to unsafe condition, 2% are Acts of God [8]. His concept was backed up by several other research works
+Though, Heinrich’s theory was understandable and perceptible, blaming only to personal is not practical without emphasizing responsibility of the management of the organization [12]. Due to this weakness, domino theory was expanded by introducing management competencies.
+Chronologically the expansions for the domino theory are,
+• Updated the domino sequence by Bird
+• Updated sequence by Adams [14]
+• Updated dominoes by Weaver in 1971  [14]
+These are some expansions of the managementbased concepts to domino theory [14]. Management errors [15], [16] and, task unpredictability and error management [17] in operational and work flow planning have significant effect on accidents.
+However, stair step model and multiple causation model were not domino theory, but management based accident causation theories [14]. Multiple causation model expressed that the accident is a result of many factors, causes and sub causes [14].
+4.2 Causes and effects
+Most accidents in the construction sector can be prevented by deploying proper management system. Human factors are the major causes of accidents but it is not the only reason for all the accidents.
+When considering the human factor, negligence is one of the most critical causes which has been identified by several researchers [1], [18], [19] and indirect cause of mental stress [14] is causing considerable effect on construction accidents.
+A study in UK found that the factors such as nature of project, method of construction, restrictions at site, project duration, design complexity, subcontracting, procurement system, level of construction contributed to cause accidents [12].
+Accident Root Causes Tracing Model (ARCTM) introduces three main root causes  [20],
+1) Failure to identify unsafe condition prior to the work;
+2) proceed with work even after identifying the unsafe condition;
+3) Neglecting the initial unsafe condition and proceeding with work.
+Uncertainties are everywhere, unpredictability or lack of knowledge can be taken as uncertain. Unique nature and the unfamiliar environment at the work sites usually create eventual uncertain feelings to construction employees.
+Unsafe method, human element, unsafe equipment, job site conditions, management, and the unique nature were concluded as main uncertainties in the research work based on Malaysian construction industry [18].
+Management 	exerts 	additional 	pressure 	on employees to increase the production to catch up delays due to other reasons. This can be a hazardous move which will cause accidents and increases the chances of being injured [21].
+Several studies on construction fatalities in Singapore and US have found that the age group (most in 24-34), skill level (20% accidents), education (95%), tea breaks (50% accidents), season (October before the rainy season) are main uncertainties in Singapore and the differences between US are age group (35-44), skill (33% accidents), and has no relationship with the season [1].
+Severity of the accidents are increased with the age, experienced workers are involved in more accidents, workers in smaller companies are at higher risk while the medium-sized firms are the safest, and outer suburbs are unsafe than inner suburbs [4].
+Contribution of the key factors to accidents are workers 	(70%), 	work 	place 	issues 	(49%) equipment 	shortcomings 	(56%), 	material conditions (27%) and risk management (84%) [22]. Education and training, competent personal, Construction 	management 	and 	planning, negligence, personal protection equipment (PPE), availability 	of 	regulations 	and 	knowledge, enforcement of Safety regulations, unique nature of 	the 	industry, 	Work 	environment,
+Machinery/equipment, work method, Supervision and Communication, which are recorded as uncertainties in Kuwait [23], USA [20], [24], and Thailand [25] that cause accidents.
+Design and planning stage plays a major role in uncertainty. A study of the accident causation model based on project conceptualisation had uncovered the relationship of the accidents with project concept, design and construction planning. The results shows that the accidents are related to inappropriate, Construction planning (28.8%), Construction 	control 	(16.6%), 	Construction operation (88.0%), Site condition (6.0%), Operative action (29.9%) [26].
+Accidents involve additional costs to the employer, individual and to the community to which the person belongs.
+Heinrich [8] has divided the total accident cost into direct and indirect cost with the ratio of 1: Simonds and Grimaldi [27] proposed insured and uninsured cost arguing that some of direct cost can be considered as indirect. For example, insurance cost is direct due to the financial accounts but it actually contains some extent of uncertainty. However, later studies re-defined the terminology insured and uninsured costs as direct and indirect [28].
+Direct cost is the tangible cash involvement in the accident (medical, insurance, compensation, etc..) [29], [30] and the indirect cost is all other costs, which has contribution to the incident or the victim or the costs not covered in the insurance premium [31], [32].
+Lost labour, Continuing payments to injured worker after accident, Insurance costs, Damage to equipment or material, Legal costs, loss of other employee time, cost of work delay etc can be taken as indirect costs [8], [29], [31], [33].
+Indirect cost is invincible but huge in amount as explained in the Bird’s [13] accident cost iceberg [34].
+In Singapore building projects, the average model development since they had previous experiences on this important subject.
+Cost modelling has two approaches called, incident approach and prevalence reproach. In the incidence approach, it considers the accidents happening on the reference year only but the prevalence approach considers all up to the given time [38]. Both approaches have been used in the Singapore cost model.
+Table 2 summarises the major considerations of the Singapore accident cost model. Similarly, European and Australian accident cost models are given in the Table 3 and Table 4.
+Cost bearer
+
+
+Staff Turnover Costs
+Training costs
+Loss of Output
+Net loss of future earnings  (future earnings less  compensations)
+Additional costs of medical
+
+
+Investigation / inspection costs Fatal loss of human capital medical subsidy
+Cost bearer
+
+Loss of gross family earnings (-)
+Income tax and National Insurance  saving reduction (+)
+Insurance receipts, net of legal costs (+)
+Monetised value of nonfinancial human costs
+Proportion of individual private health insurance premiums attributable to work related illness/injury (-)
+Administration of insurance, compensation and benefit claims (-)
+Insurance company profit margin costs on
+other insurance products (-)
+National Insurance  (-)
+Work reorganisation (-)
+Recruitment and induction costs for
+accident cost of insured, uninsured and the total are 0.15%, 0.1% and 0.25% of the contract sum of the project respectively [35]. The uninsured cost depends on company size, project size, and the percentage of the work completed by subcontractors. The motivation towards the safety is higher in Singaporean contractors’ due to their concern on cost [18] and the higher influence of government involvement.
+According 	to 	The 	International 	Labour
+Organisation (ILO) [36], global estimates of direct & indirect costs for accidents are USD 2.8 trillion, equivalent to 4% of the annual global GDP [37].
+WSH Institute (Singapore) has developed economic cost model for accidents with the aid of international collaboration. The advisers from Australia and Finland were engaged in the cost
+Proportion of corporate private health insurance premiums attributable to work
+related illness/injury (-)
+Administration of insurance and compensation claims (-)
+Investigation/prosecution - internal costs + legal costs (-) Fines paid (-)
+Income tax and National Insurance reduction
+Loss of profit on economic output individual absent from workforce (-)
+Treatment and rehabilitation costs  (-) Treatment and rehabilitation by private insurance claims (+)
+Administration of claims (-)
+Investigation / prosecution costs (-)
+Fines received (+)
+Australia is given in Table 5 with the comparison to different times and periods.
+Table 5 - Comparison of work related accident cost (Australia) [40]
+According to the records of Work Injury Compensation 	Department, 	the 	compensation payments for different injuries [41] can be summarised as in the Table 6.
+Table 6 - Amount of Work Injury Compensation
+Awarded ($ millions) 2012 to 2014  [41]
+
+Cost bearer
+
+Loss of income
+Overtime payments employer excess payments Sick leave staff turnover medial legal fines & penalties investigation costs
+Type of incident
+Industry Type
+
+Collapse of Crane
+
+Fall From Height
+
+
+Struck by Falling Objects
+(-) sign indicates losses and (+) indicates the gaining of the particular cost bearer.
+The detail direct cost estimation case study is shown in the Table 7 for understanding the cost variation with the industry type.
+Table 7 - Accident cost Case studies {
+Accident cost of Singapore is SGD 10.45 billion for the year 2011, which can be divided into different cost agents as SGD 5.28 billion (50.5%) for individuals, SGD 2.31 billion (22.1%) for employer, and 2.87 billion (27.4%) for community. Total loss is equivalent to 3.2% GDP, which is considerable amount. Work related accident cost of
+Against or Struck by Objects
+Struck by Falling Objects
+Contact with Electric Current
+Fall From Height
+Fall From Height
+CL-Construction and Landscape, GW-General Workplace, H&M-Hospitality and Entertainment,
+L&T-Logistics and Transport, Mf-Manufacturing, M&M-Metalworking and Manufacturing, and W&WM-Water and Waste Management
+Loss of man hours due to occupational accidents are given in the Table 8.
+Table 8 - Loss of Man hours due to accidents, Singapore {
+Loss of man hours
+Larger the projects, safer the employees, than that of smaller or limited scope projects [42]–[44], a study based on Australian construction industry revealed that small and medium projects (79.5%) has higher risk than larger (20.5%) [4].
+The loss of control events cause accidents [45]. Therefore, activities, which contain high-risk incidents or potential to loss control, should be minimised. According to Singapore statistics, top three incidents, which cause major and minor accidents, are given in Table 9. Proper assessment should be carried out over the project scope to minimise the activities which has higher potential to cause accidents.
+
+FFH-Fall from height, STF-Slips, Trips and Falls, CIBO-Caught In/Between Objects, SBMO-Struck by Moving Objects, SBFO-Struck by Falling Objects
+4.7 Safety Enhancements and Project Performance
+Project performance is enhanced with the safety improvements. There are several publications highlighting various methodologies about upgrading the safety standards [46]. Safety enhancements should be proposed at the design stage of the project unless the designers have adequate knowledge of the risk identification at design stage [47]
+Human resource development has a significant effect on safety enhancements. The highest organizational level influence towards accident is insufficient inspection, the second highest is training and the third is a lack of training plan [48].
+Supervisors are key persons in any safety management system as they are the immediate management staff for the workers. Their roles and responsibilities are vital for proper implementation and maintaining of safety [49].
+Forming a psychologically safe environment for humans has positive influence on safety enhancements [50]. Achieving this elimination would increase the reliability of the system and enhance the performance of the work flow [51].
+Reputation and accident free records can be valued in terms of long term business considerations in larger scale. When implementing the accident prevention measures, Hong Kong construction managers have exhibited their dedication with above average vigour [52].
+A recent research has been studied the influencing factors on the SMS to its success, Singapore and Malaysia uses four and twelve influence factors respectively while most of other countries uses eight. Selected five factors ( Resources Factor,
+Management Factor, Personal Factors, HRM/Incentive Factor Relationship) had been used in the study and concluded that personal commitment should be higher to obtain higher remarkable safety performances [53].
+Proper planning and monitoring has significant effect on SMS, IT based Safety related practices are found to be effective not only safety but quality of construction as well [54].
+A cognitive map based safety system has been proposed to analyse and prevent marine construction accidents. The proposed system could identify and eliminate human errors to enhance awareness [48].
+4.8 National Safety Indexes
+One consequence of the industrial revolution is consideration of worker’s health as labour issue and the workplace safety and health is relatively modern concept [55]. However, in the modern world, countries are more concerned about accident free workplaces.
+When comparing the global context, workplace injury rate (injuries per 100,000 workers), accident frequency rate (accidents per 1million Man-hours), accident severity rate (Loss of Man-days per 1million Man-hours) and Occupational decease incidence (occupational deceases per 100,000 workers) can be taken as important factors to determine the effectiveness of local safety standards. The safety of human capital is one of the leading factors to nominate a country as developed [56].
+According to the Singapore 2013 data one accident will contribute 12.2% increase in national fatality rate of construction sector (Total work force = 101,900). Some statics of Singapore and Australia are shown in Table 10.
+Workplace fatality rate of construction sector
+
+Through the identification of critical causes and effects of construction site accidents, this study established the relationship of accidents with additional project cost, time, scope, company reputation, and their impact on national safety indexes. The study explored the four issues, impacts of accidents, their contributory factors, link between human and financial aspects to accidents and possible performance enhancements under uncertainty factors of the accident to arrive at the conclusion.
+While humans were identified as the main cause for construction accidents, negligence or mistakes can happen due to the uncertain circumstances. Hence, unavoidable accidents have to be expected in the construction industry. The commitment of all humans involved, from the project manager to the labourer towards good practices would enhance the safety performance in construction sites.
+As future developments, this study will be extended to simulate occurrence of construction site accidents through the development of a model to predict accidents and develop performance enhancements under uncertainty. This development would facilitate decision making under uncertainty that will enhance safety in construction sites.
+[1].F. Y. Y. Ling, M. Liu, and Y. C. Woo, “Construction fatalities in Singapore,” Int. J. Proj. Manag., vol. 27, pp. 717–726, 2009.
+[3].HSE, 	“Construction 	Industry.” 	[Online].
+construction/index.htm. [Accessed: 25-Mar2015].
+[4].J. Dumrak, S. Mostafa, I. Kamardeen, and R. Rameezdeen, “Factors associated with the severity of construction accidents: The case of South Australia,” Australas. Econ. Build., vol. 13, no. 4, pp. 32–49, 2013.
+[5].H. Shiplee, L. Waterman, K. Furniss, R. Seal, and J. Jones, “Delivering London 2012: health and safety,” Proc. Inst. Civ. Eng. Civ. Eng., vol. 164, no. May, pp. 46–54, 2011.
+[6].W. C. Wang, J. J. Liu, and S. C. Chou, “Simulation-based safety evaluation model integrated with network schedule,” Autom. Constr., vol. 15, no. 3, pp. 341–354, May 2006.
+[7].Z. H. Qureshi, “A Review of Accident Modelling Approaches for Complex Critical Socio-Technical Systems,” Australian
+Computer Society, Inc, Adelaide, 2007.
+[8].H. W. Heinrich, Industrial accident prevention: a scientific approach. McGraw-Hill, 1931.
+_Heinrich. [Accessed: 14-May-2015].
+[10].D. Cooper, C.Psychol, and Afbp. C. RSP, “Human factors in accidents,” Inst. Quarr. North England- CoalPro Semin., vol. 59, no.
+March, pp. 856–864, 2002.
+[11].A. Hale, D. Walker, N. Walters, and H. Bolt, “Developing the understanding of underlying causes of construction fatal accidents,” Saf. Sci., vol. 50, pp. 2020–2027, 2012.
+[12].P. G. P. Sabet, H. Aadal, M. H. M. Jamshidi, and K. G. Rad, “Application of Domino Theory to Justify and Prevent Accident
+Occurance in Construction Sites,” IOSR J. Mech. Civ. Eng., vol. 6, no. 2, pp. 72–76, 2013.
+Control,” in Institute Press, Atlanta, 1974.
+[14].S. S. Hosseinian and Z. J. Torghabeh, “Major theories of construction accident causation models: a literature review,” Int. J. Adv. Eng. Technol., vol. 4, no. 2, pp. 53–66, 2012.
+[15].D. A. Weaver, “Symptoms of Operational Error,” Prof. Saf., vol. 51, no. 4, pp. 48–61, 2006.
+[16].E. Adams, “Accident Causation & The Management Systems,” Prof. Saf., vol. 21, no. 10, pp. 26–29, 1976.
+[17].P. Mitropoulos, T. S. Abdelhamid, and G. A. Howell, “Systems Model of Construction Accident Causation,” Journal of Construction Engineering and Management, vol. 131, no. 7. pp. 816–825, 2005.
+[18].A. Hamid, A. Rahim, and A. Majid, “Causes of Acidents at Construction Sites,” Malaysian J. Civ. …, vol. 20, no. 2, pp. 242–259, 2008.
+[19].Z. O. Kadiri, T. Nden, G. K. Avre, T. O. Oladipo, A. Edom, P. O. Samuel, and G. N. Ananso, “Causes and Effects of Accidents on Construction Sites (A Case Study of Some Selected Construction Firms in Abuja FCT Nigeria),” IOSR J. Mech. Civ. Eng., vol. 11, no. 5, pp. 66–72, 2014.
+[20].T. S. Abdelhamid and J. G. Everett, “Identifying Root Causes of Construction Accidents,” J. Constr. Eng. Manag. Am. Soc. Civ. Eng., vol. 126, no. 4, pp. 348–349, 2000.
+[21].S. Han, F. Saba, S. Lee, Y. Mohamed, and F. Peña-Mora, “Toward an understanding of the impact of production pressure on safety performance in construction operations,” Accid. Anal. Prev., vol. 68, pp. 106–116, 2014. [22].R. a. Haslam, S. A. Hide, A. G. F. Gibb, D. E. Gyi, T. Pavitt, S. Atkinson, and A. R. Duff,
+“Contributing factors in construction accidents,” Appl. Ergon., vol. 36, pp. 401–415, 2005.
+[23].N. A. Kartam and R. G. Bouz, “Fatalities and injuries in the Kuwaiti construction industry,”
+[24].T. M. Toole, “Construction Site Safety Roles,” J. Constr. Eng. Manag., vol. 128, no. 3, pp. 203–210, 2002.
+“Identification of root causes of labor accidents in the Thai construction industry,” in Proceedings of the 4th Asia Pacific Structural Engineering and Construction Conference (APSEC 2000), 2000, pp. 13–15.
+[26].A. Suraji, A. R. Duff, and S. J. Peckitt, “Development of causal model of construction accident causation,” J. Constr. Eng. Manag., vol. 127, no. 4, pp. 337–344, 2001.
+[28].L. Head and M. Harcourt, “The direct and indirect costs of workplace accidents in New Zealand,” in AIRAANZ Conference, Brisbane, AU, 1997, vol. 36, no. 2, pp. 46–58.
+[29].J. G. Everett and B. F. J. Peter, “Costs of accidents and injuries to the construction industry,” J. Constr. Eng. Manag., vol. 122, no. 2, pp. 158–164, 1996.
+[30].J. Hinze, Construction safety. Prentice Hall, 1997.
+[31].J. Hinze, Indirect costs of construction accidents. University of Texas, 1991.
+[32].R. Jallon, D. Imbeau, and N. De MarcellisWarin, “Development of an indirect-cost calculation model suitable for workplace use,” J. Safety Res., vol. 42, no. 3, pp. 149–164, 2011.
+[33].E. Leopold and S. Leonard, “Costs of construction accidents to employers,” J. Occup. Accid., vol. 8, no. 4, pp. 273–294, Apr.
+[34].F. E. Bird, Management guide to loss control. Industrial Accident Prevention Association, Ontario, 1984.
+[35].E. A. L. Teo and Y. Feng, “Costs of construction accidents to Singapore contractors,” Int. J. Constr. Manag., vol. 11, no. 3, pp. 79–92, 2011.
+[36].International Labour Office, “ILO introductory report: global trends and challenges on occupational safety and health,” in XIX World Congress on Safety and Health at Work: Istambul, Turkey., 2011, no. September, pp. 11–15.
+[37].J. LEIGH, “Economic burden of occupational injury and illness in the United States,” Milbank Q., vol. 89, no. 4, pp. 728–772, 2011.
+[38].WSHI, “WSH Institute Report: Economic Cost of Work-related Injuries and Ill-health in
+Singapore.” [Online]. 15-Jun-2015].
+[39].HSE, “Costs to Britain of workplace fatalities and self-reported injuries and ill health, 2012/13,” 2013. [Online]. 30-Jun-2015].
+[40].Australian Governement Safety and Compensation Council, “The Cost of Workrelated Injury and Illness for Australian Employers, Workers and the Community: 2008--09,” Canberra: Safe Work Australia,
+A/about/Publications/Documents/660/Cost of Work-related injury and disease.pdf. [Accessed: 20-Jun-2015].
+[41].“Amount of Work Injury Compensation Awarded ($million) 2012 to 2014,” 2014. [Online].
+05-Jul-2015].
+“Factors influencing the culture of a construction project organisation: an empirical investigation,” Eng. Constr. Manag., vol. 16, no. 1, pp. 26–47, 2009.
+[43].A. R. Atkinson and R. Westall, “The relationship between integrated design and construction and safety on construction projects,” Constr. Econ., vol. 28, no. 9, pp. 1007–1017, 2010.
+[44].C.-W. Cheng, S.-S. Leu, Y.-M. Cheng, T.-C. Wu, and C.-C. Lin, “Applying data mining techniques to explore factors contributing to occupational injuries in Taiwan’s construction industry,” Accid. Anal. Prev., vol. 48, pp. 214– 222, 2012.
+Baum, “Construction Job Safety Analysis,” Saf. Sci., vol. 48, no. 4, pp. 491–498, 2010.
+[46].E. A. L. Teo, F. Y. Y. Ling, and A. F. W. Chong, “Framework for project managers to manage construction safety,” Int. J. Proj. Manag., vol. 23, no. 4, pp. 329–341, 2005.
+[47].J. Gambatese and J. Hinze, “Addressing construction worker safety in the design phase designing for construction worker safety,” Autom. Constr., vol. 8, no. 6, pp. 643–649, 1999.
+[48].E. Akyuz and M. Celik, “Utilisation of cognitive map in modelling human error in marine accident analysis and prevention,” Saf. Sci., vol. 70, pp. 19–28, 2014.
+[49].D. Hardison, M. Behm, M. R. Hallowell, and H. Fonooni, “Identifying construction supervisor competencies for effective site safety,” Saf. Sci., vol. 65, pp. 45–53, 2014.
+[50].Y. Shen, M. M. Tuuli, B. Xia, T. Y. Koh, and S. Rowlinson, “Toward a model for forming psychological safety climate in construction project management,” Int. J. Proj. Manag., 2014.
+[51].U. 	Remy 	and 	C. 	C. 	Nwobi-Okoye,
+[52].I. W. H. Fung and V. W. Y. Tam, “Development of an Empirical Model for Selecting Accident Prevention Measures for
+Construction Managers,” Int. J. Constr. Manag., vol. 13, no. 1, pp. 39–51, 2013.
+[53].Z. Ismail, S. Doostdar, and Z. Harun, “Factors influencing the implementation of a safety management system for construction sites,” Saf. Sci., vol. 50, pp. 418–423, 2012.
+[54].S. Kumar and V. K. Bansal, “Construction Safety Knowledge for Practitioners in the Construction Industry,” J. Front.
+[55].Wikipidia, “Occupational safety and health.” [Online]. Wikipedia reference to be added  ety_and_health#History. [Accessed: 12-Aug2015].
+[56].Wikipidia, “Developing country.” [Online]. ping_country#Factors_stimulating_growth. [Accessed: 06-Nov-2015].
+View publication stats

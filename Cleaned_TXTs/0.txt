@@ -1,0 +1,109 @@
+﻿RESOURCE MANAGEMENT IN CONSTRUCTION
+Resource planning and management is one of the most important ingredients for competitiveness and profitability in today's construction industry. In order to control costs, equipment and labor should be utilized in the most efficient way possible. This can be achieved by minimizing the total cost of leased resources under the constraint of maximum and most efficient use of owned equipment and contracted labor force. This paper presents a mixedinteger linear programming model for the management of resources throughout the project life. Based on the Critical Path Method time analysis, the model derives the schedule for equipment rentals and transient resources, as well as the utilization scheme for owned equipment and other available resources. The model can be used as an estimating tool for multi-project resource planning and sharing, and as a means to implement the most efficient utilization of resources throughout the duration of the whole project.
+Most contractors use both owned and leased construction equipment, as confirmed by a recent study (3). The allocation of resources of different types to a construction project is a difficult managerial problem, particularly when construction equipment has to be shared among a number of project sites. Timing adequately the use of different pieces of equipment on a given project is an important cost control issue, since an inadequate allocation and scheduling of resources can lead to equipment idleness and consequently higher costs of leased equipment, due to the inefficient use of both leased and owned equipment.
+The purpose of this paper is to plan and schedule construction activities according to an optimal resource allocation scheme. This scheme is derived by using a model that minimizes the cost of leased resources (equipment, and possibly labor) over the project life, given a certain level of resources available, such as owned equipment. The model can be used by both private contractors and departments of public works, in that: (1) All resource types can be envisioned; and (2) the objective function and the constraints are relevant for the organization of any construction project.
+Scheduling and Resource Allocation in Construction.—The scheduling of construction activities in any fairly complex project is undertaken using the Critical Path Method (CPM). A comprehensive analysis of the method and its application in construction practice can be found in (1). Although the CPM is a time analysis method, the integration of 'Asst. Prof, of Civ. Engrg., Northeastern Univ.,.Boston, MA 02115.
+Grad. Student, Dept. of Civ. Engrg., Northeastern Univ., Boston, MA 02115.
+Note.—Discussion open until February 1, 1987. To extend the closing date one month, a written request must be filed with the ASCE Manager of Journals. The manuscript for this paper was submitted for review and possible publication on September 10, 1985. This paper is part of the Journal of Construction Engineering, Vol. 112, No. 3, September, 1986. ©ASCE, ISSN 0733-9364/86/0003-0346/$01.00. Paper No. 20866.
+resource allocation tasks has been previously achieved by simply scheduling construction activities in such a way that resource needs can be matched throughout the project life. This is usually done by heuristically and sequentially shifting activities the availability of resources "as needed," resource allocation is necessary to define a feasible schedule. The model presented hereafter uses the CPM time analysis as a starting point to a more comprehensive resource management and scheduling model.
+One of the major weaknesses of the Critical Path Method (CPM) is the fact that activities cannot be intermittent. It is often more cost effective to stop a specific activity for a certain period of time, thus allowing its resources to be used in another activity. This saves both time and money. By shifting activities within their allowable float, an optimal resource utilization schedule can be developed.
+Formulation of Model.—This comprehensive resource management model has a mixed integer-linear programming structure. It is based on the minimization of the total costs of leasing additional resources, under the time constraints obtained from the time analysis of the CPM.
+Resource analysis and allocation problems have been extensively studied in the literature. A feature common to these problems is the recognition that the resources involved in carrying out a project can influence scheduling either by their limited availability or by other kinds of restrictions. Four classes of resource analysis problems can be distinguished for project scheduling purposes:
+Resource loading, which produces, for a given project schedule, time charts regarding the usage of the various resources required by the project activities. These charts are then checked against resource availabilities to establish whether the project is feasible.
+Resource leveling, which focuses on the time pattern of resource usage. In optimizing scheduling decisions, no implicit costs are considered. Rather, it is implicitly assumed that varying the usage of a specific resource entails significant costs because of charges such as hiring, firing, overtime, and idle labor or equipment. For large networks, resource leveling requires the aid of a computer. Leveling procedures are generally heuristic.
+Resource constrained problems, which address the issue of allo-cating limited resources to competing activities in order to either achieve minimal project completion time or the minimal total cost schedule.
+The time-cost trade-off problem is centered on the idea that the duration of some activities can be cut down if additional resources are allocated to them.
+The use of quantitative methods in construction management is described in Ref. 2. Uses of linear optimization in construction management are also presented in Ref. 11. In Ref. 6, linear programming is used for sharing resources in linear construction where a fairly simple construction logic is repeated successively. This work was later discussed in Ref. 8. The optimization model presented herein uses the CPM output as an anchor for the selection of the most cost-effective schedule of construction operations.
+It is formulated as a problem combining resource-constrained, resource-leveling and time-cost trade-off themes in a structure that fits the reality of resource constraints in the construction industry. An assumption is made that the project duration required by the owner will be met.
+Objective Function.—The objective of the model is to minimize the cost of leasing additional resources, primarily in construction equipment. However, under the assumption of an open shop labor market, labor resources can be included in the set of resource types.
+For all resource types (r E R), activities (; ' E /) and days (; ' E I), the problem can be stated as
+_, = cost of leasing an additional unit of resource type r to use it in activity ; ' on day i; RRr,j,i = number of leased additional units of resource type r to be allocated to activity ; ' on day i; R = set of all types of resources; / = set of all activities; I = set of all days within the project duration; = earliest start of activity ; and LFj = latest finish of activity ;
+Resource Requirement Constraints.—It is assumed that daily resource requirements of any activity are predetermined. In Ref. 9, it was found that a "best" crew combination for construction operations can be selected.
+Resource constraints are defined differently for critical and noncritical activities.
+For critical activities: Critical activities (i.e., activities on the critical
+path), have a completely defined time schedule.
+The sum of the number of leased units of a given resource and the number of available units of the same resource to be allocated to a critical activity on any day, should equal the activity requirements on that day. For critical activity ; ', the following constraint is written on day i of the activity duration, and for resource type r required as
+RRr,iA + Rr,jj = nr,j 	(2) where Rr,j,i = number of available units of resource type r to be allocated to a critical activity ; ' on day i; - = total number of required units of resource type r to be allocated to a critical activity / on any day within its duration.
+For noncritical activities: Noncritical activities have a time "float," which
+is the difference between their earliest and latest start (or finish). They only need to be "active" for a certain number of days (activity duration) between the earliest start and latest finish. In order to control whether an activity is "active" on a given day, a binary integer variable which takes the value 1 or 0 to represent, respectively, an active or an idle day, is introduced in a constraint similar to Eq. 2. The resource requirement constraint for a noncritical activity ; ' on a day i between its earliest start and latest finish, and for any required resource type r, can be stated as
+(tt^-ING,,,) - RRTiji{ - RrJJ = 0 	(3) where ING; ,, = A (0/1) variable that controls the status of activity ; ' on day i.
+Time Constraint.—For any activity ; , LSj and LFj represent, respectively, its earliest start, latest start, earliest finish and latest finish days. Dj represents the activity duration.
+Again, it is necessary to differentiate between critical and noncritical activities.
+Critical activities: Since the duration of critical activities is indirectly
+implied in the preceding resource constraints, no additional time constraints are needed.
+Noncritical activities: The total number of "active" days for activity ; should be equal to D;
+Resource Availability Constraints.—The sum of all available resource units allocated to different activities on the same day should not exceed the total number of units available on that day. This can be stated as
+where AvTii = number of units of resource type r available on day i.
+Network Logic.—Network logic constraints are not required for the path(s) of critical activities since their network logic is implemented within resource requirements constraints of the type in Eq. 2. However, for those paths involving noncritical activities a catalyst integer variable is introduced to preserve the network logic (precedence relationships). In a precedence relationship, a leading activity is distinguished from a dependent activity.
+The idea behind this technique is to sequentially count the number of positive integers assigned to a leading activity at different points in time and compare it to the activity duration. As long as the leading activity /, is not completed, all dependent activities cannot start. In other words, as long as the sum of all integers from ESt to day m is less than D(, integer variables assigned to dependent activities for day (m + 1) have to equal zero (see Fig. 1).
+The following two groups of constraints related to every leading activity / make these conditions possible:
+£ INGU + B CAT,,,„+1 s D, 	(6)
+Leading activity 1 	\— m zone —H
+TABLE 1.—Network Logic Constraint
+Case of 	CAT,„„+1 = 	dGDepi
+2 	INGd,m+1 + B CAT,,,„+1 SB 	(7)
+for all leading activities and m such that m G M; , where ING; ,,- = integer variable of the leading activity / on day i; Mi = set of days that go from the earliest start day of all dependent activities minus 1 to the latest finish day of leading activity / minus 1 (ESd - 1 ... B = large positive number; ,„,+1 = (0/1) integer variable to determine whether ING ,}„,+! should necessarily be zero; Dep, = set of all activities dependent on the leading activity /; = duration of the leading activity; and INGd,„, = integer variable of the dependent activity d on day m.
+Eq. 6 states that if the sum of integer variables (ING; ,,) of the leading activity / until day m is less than its duration D; , the integer variable
+
+i,m+i n a s to equal /. This forces the sum of integer variables 2^eoep,
+However, once the leading activity is completed, (i.e., S^jss, ING;
+Dt), the integer variable CAT; ,,„+1 is released (i.e., it does not have to equal 1 anymore). This makes it possible for the integer variables INGd,m+1 related to dependent activities d on day (m + 1) to take the values zero or 1. However, a nonzero CAT; ,m+1 will restrict the dependent activities of /, due to Eq. 7.
+The summary of this relationship between integer variables is shown in Table 1.
+Constraints for Continuous Activities.—If all previous constraints are applied to a project the resulting schedule will fulfill resource requirements, time constraints, and network logic. Also, all activities (except critical activities) are allowed to be intermittent. However, some activities, such as pumping or dewatering, have to be continuous. The following two groups of constraints are used for the case of a continuous activity ;
+TABLE 2.—Continuous Activity Constraint
+Case of 	USE,,, =
+flexible in that it can be slightly modified to take into account variations
+from the underlying assumptions of the model.
+Nonuniformity of Production Rates.—Instead of assuming a constant daily rate of production, the model can be changed to control and vary the production rate, while preserving the general time frame for different activities.
+Updating Possibilities.—The model can be easily modified to take into account a change in available resources, due to project related conditions or to external conditions. Also, changes in the market prices of resources and change orders can be translated in a change in the affected constraints.
+Budget Limitations.—For financial and risk control purposes, a contractor might wish to limit the total daily or weekly expenditures to a certain level Bud, (Budget for day or week i). This constraint can be stated as
+Sensitivity Analysis.—The model makes it possible to evaluate the time and cost impact of such measures as increasing the labor force engaged in some activity, subcontracting some portion(s) of the work, using an equipment type or method, or varying the production rate for some particular activity. The CPM time analysis related to any such scenario can be used to generate the resource and activity schedule, as well as the costs involved. Such a step can be performed during the estimating stage, and subsequently during the planning and construction stages.
+"Floating" Whole Project.—If the project duration determined by the CPM analysis is shorter than the duration required by the owner, the difference could be used as overall float for the project. This float can be added to the latest finish of each activity. As a result of this additional float, critical activities cease to be critical and are treated, in the model, as noncritical activities. The advantage of the model is that critical activities can now be intermittent, uniform or nonuniform rather than simply continuous. This can lead to major savings in shifting resources, according to the minimum cost solution.
+Transportation Costs.—In the foregoing model, a constant daily leasing cost for resources, is assumed. In practice, transportation and mobilization costs are often considerable for heavy equipment. For this rea-
+son the objective function can be modified to include transportation costs. The modified objective function becomes
+The following constraint is added to the previous set of constraints:
+where Tr/, = cost of transporting one unit of resource type r on day i; and F*j and FJT, = two non-negative variables, which cannot be both strictly positive.
+Limitations of Model.—The limitations of the model are issues of problem dimension. As the project increases in complexity, the number of integer variables becomes too large to handle with existing branchand-bound/LP software capabilities. However, systems such as LINDO and MPSX have sufficient capabilities for the resource optimization of small networks.
+One way to solve the dimensionality problem is to decompose the network in subnetworks of activities between two major milestones. Also some of the activities might not require any resource scheduling, as their resource utilization scheme is fairly simple. The purpose of such measures is to structure the resource optimization model by selecting the activities, the relevant time frames and subdivisions, in order to reduce the dimensionality of the problem.
+SUMMARY AND CONCLUSIONS
+In this paper, a comprehensive resource management model was presented for scheduling construction projects based on an optimal resource utilization scheme. The model objective is to minimize the costs of leasing additional resources, given a certain level of resource availability. The model has the capability of mapping continuous, intermittent, uniform and nonuniform activities, and therefore preserves the integrity of construction operations.
+This model can be used as an estimating tool, since the logistics of the construction project are the output of the resource optimization. It can be used in multi-project planning, by running a number of projects as a single profit center. This is made possible by allocating available resources among different projects and evaluating and comparing different resource allocation schemes.
+The model can be used continuously in phased construction and can be updated as new information is gathered after the completion of successive milestones.
+In large projects, the model can be used to help plan the preliminary resource requirements and make lease versus buy decisions.
+Because of its fully defined resource schedules, the model can be used for cost control purposes, as durations can be tracked to any of the resource or time parameters, which makes it possible to correct and predict project cost changes.
+Adrian, J. J., Quantitative Methods in Construction Management, American Elsevier Publishing Co., Inc., New York, N.Y., 1973.
+Antill, J. M., and Woodhead, R. W., Critical Path Method in Construction Practice, 3rd ed., John Wiley and Sons, Inc., New York, N.Y., 1982.
+Arditi, D., "Construction Productivity Improvement," Journal of Construction Engineering and Management, ASCE, Vol. Ill, No. COl, Mar., 1985, pp. 1-
+Bradley, S. P., Hax, A. C, and Magnanti, T. L., Applied Mathematical Programming, Addison-Wesley Publishing Co., Inc., Reading, Mass., 1977.
+Frein, J. P., Handbook of Construction Management and Organization, 2nd ed., Van Nostrand Reinhold Company, Inc., New York, N.Y., 1980.
+Perera, S., "Resource Sharing in Linear Construction," Journal of Construction Engineering and Management, Vol. 109, No. COl, Mar., 1983, pp. 102-111.
+Pilcher, R., Principles of Construction Management for Engineers and Managers, McGraw-Hill Publishing Company Limited, England, 1966.
+Schlick, H., discussion of "Resource Sharing in Linear Construction," by Srilal Perera, Journal of Construction Engineering and Management, ASCE, Vol. 110, No. 2, June, 1984, p. 295.
+Schlick, H., "Schedule and Resources of Fast Track Renovation Work," Journal of the Construction Division, ASCE, Vol. 107, No. C04, Dec, 1981, pp. 559-574.
+Stark, R. M., and Rober, H. M., Jr., Quantitative Construction Management, Uses of Linear Optimization, John Wiley and Sons, Inc., New York, N.Y., 1983.
+APPENDIX II.—NOTATION
+The following symbols are used in this paper:
+Avrj 	= 	available number of units of resource type r on day i;
+CAT i,m+\ — (0/1) catalyst integer variable used to prevent dependent activities from starting prior to completion of leading activity;
+, = cost of leasing one unit of resource type r to use in activity j on day i;
+Dj 	= 	duration of activity j ;
+D( 	= 	duration of leading activity 1;
+Depi 	= 	set of all activities dependent on leading activity 1;
+ESj 	= 	earliest start of activity ;
+F^t = non-negative variable to account for additional requirements for resource type r from day (i — 1) to day i;
+F^j = non-negative variable to account for decreasing requirements for resource type r from day (i — 1) to day i; I = set of all days within project duration;
+ING^, = (0/1) integer variable that controls non-working/working status of activity;
+ING/,,- 	= 	same as ING^, for leading activity I on day i;
+} 	= 	set of all activities;
+LFj 	= 	latest finish of activity ;
+/ 	= 	index for leading activity;
+Mi 	= 	set of days that go from earliest start of dependent activities —1 to latest finish of leading activity —1 (£Sd — 1 ...
+m = day number varying between earliest start of dependent activities - 1 to latest finish of leading activity —1 (ESd —
+nrj = total required number of units of resource type r to be allocated to activity / on any day within its duration; R = set of all types of resources;
+Eng. Manage., 1986, 112(3):
+Eng. Manage., 1986, 112(3):
+Eng. Manage., 1986, 112(3):
+Eng. Manage., 1986, 112(3):
+Eng. Manage., 1986, 112(3):
+Eng. Manage., 1986, 112(3):
+Eng. Manage., 1986, 112(3):

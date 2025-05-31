@@ -1,0 +1,350 @@
+Development and validation of a multilevel safety climate measurement tool in the construction industry
+To cite this article: Rita Peihua Zhang, Helen Lingard & Steve Nevin (2015) Development and validation of a multilevel safety climate measurement tool in the construction industry, Construction Management and Economics, 33: 10, 818-839, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics, 2015
+Development and validation of a multilevel safety climate measurement tool in the construction industry
+RITA PEIHUA ZHANGa*, HELEN LINGARDa and STEVE NEVINb
+School of Property, Construction and Project Management, RMIT University, GPO Box 2476, Melbourne VIC 3001, Australia
+Fonterra Co-operative Group Limited, PO Box 33, Temuka 7948, Clandeboye, New Zealand
+Received 2 April 2015; accepted 10 October 2015
+Construction organizations are large and complex with decentralized structures, and characterized by non-routine work undertaken by semi-autonomous work groups. Construction workers’ perceptions of safety climate can form at different levels and vary between subunits. A multilevel safety climate measurement tool was proposed, which identified five important safety agents, i.e. client, principal contractor, supervisor, co-workers, and individual workers. Surveys were conducted at three construction projects commissioned by Fonterra Co-operative Group. A total of 356 participants completed the survey. The data was subject to scale reliability analysis and factor analysis. The results showed that all scales achieved satisfactory internal consistency and the multilevel factorial structure was generally supported. At the organizational level, the tool measures clients’ overall safety priority and safety actions, and principal contractors’ general commitment to safety. At the group level, the tool measures supervisors’ safety actions and safety expectations, and co-workers’ general safety values and practices. The tool also measures individual safety responses reflected by safety compliance and safety participation. The measurement tool would help construction organizations to diagnose potential weaknesses in their safety management practices for safety improvement and also help to develop a social and cultural work environment that is supportive of safety at all levels.
+Construction worker; management; measurement;
+Introduction
+Hudson (2007) posited that safety management has progressed through several discernible historical stages: (1) the ‘technology stage’, where the focus was to provide a safe physical working environment through technical measures such as guarding machinery and using safe equipment; (2) the ‘system stage’, where the emphasis was placed on the development and implementation of safety management systems; and (3) the ‘culture stage’, where the importance of cultural determinants of safety is increasingly recognized. Hudson (2007) further asserted that the focus was shifted to cultural drivers of human behaviours due to the recognition that people, rather than technology or systems, were the missing component in organizations’ safety management process. Nowadays it is essential for construction organizations to win the ‘hearts and minds’ of construction workers to develop a strong commitment for the implementation of formal safety policies and plans. In line with this trend in safety management, safety research in the construction industry should be driven to examine the broader cultural and managerial issues that shape conditions and actions on construction sites and consider how to foster a positive safety culture in the construction industry.
+Safety climate as an expression of the underlying culture
+*Author for correspondence. rita.zhang@rmit.edu.au
+© 2015 Informa UK Limited, trading as Taylor & Francis Group
+Safety climate and culture are two theoretically different but closely related concepts. Based on Schein’s (2010) organizational culture model, Glendon and Stanton (2000) suggested that cultural influences on safety are manifested at three levels: (1) at the deepest level, the basic assumptions underlying the operation of an organization influence safety; (2) at the intermediate level, the beliefs and espoused values shared by individuals regarding safety have a safety impact; and (3) at the surface level, observable safety-related behaviours and artefacts (e.g. safety documents, rules and procedures; managerial and supervisory actions) are the most evident expression of cultural influences on safety. Guldenmund (2000) suggested that the outer layers of an organization’s culture (i.e. the beliefs and values, and behaviours and artefacts) are rooted in and logically flow from the basic assumptions at the core of the organizational culture. The basic assumptions are so deeply rooted and the ‘truth’ about them is so selfevident that it is very difficult for the people who hold such assumptions to recognize or express them (Guldenmund, 2000). However, the beliefs and values as well as the behaviours and artefacts can be uncovered by measuring workers’ attitudes or perceptions. It is commonly accepted that the safety-related aspects of the two outer layers are reflected in the safety climate (Clarke, 2000; Glendon and Stanton, 2000; Guldenmund, 2000). Alternatively, safety climate represents the ‘surface features of the safety culture discerned from the workforce’s attitudes and perceptions at a given point in time’ (Flin et al., 2000, p. 178). It describes a ‘snapshot’ assessment of cultural influences on safety that prevail in an organization at a particular point in time (Mearns and Flin, 1999). Accordingly, organizations that aim to foster organizational cultures that support and enable safety can use safety climate measurement as a diagnostic tool to identify problematic areas that need to be targeted for change.
+Aim of the study
+This study aimed to develop and validate a multilevel safety climate measurement tool in the construction industry. This measurement tool was tailored to suit the specific features of the construction project organizations (e.g. multilevel systems, decentralized organizational structures, non-routine works), and reflected construction workers’ perceptions in terms of:
+(1) management commitment to safety (at both client and principal contractor levels);
+(2) supervisory safety leadership;
+(3) co-worker safety stewardship;
+(4) individual safety behaviours.
+Literature review of safety climate
+The conceptualization and measurement of a safety climate are rooted in the organizational climate. James and Jones (1974) distinguished between two major types of organizational climate measurement: (1) that based on organizational characteristics, e.g. size, structure, systems and goal direction; (2) that based on individual psychological perceptions of the work environment. With the second measurement method, organizational climate is considered to be the product of the aggregation of individual psychological climate (James et al., 2008). This interpretation of organizational climate has gained much popularity in safety climate research. Safety climate was first defined as ‘a summary of molar perceptions that employees share about their work environments’ by Zohar (1980, p. 96). Later Neal and Griffin defined safety climate as ‘individual perceptions of policies, procedures, and practices relating to safety in the workplace’ (Neal and Griffin, 2006, p. 947).
+Safety climate shapes workers’ behaviour through the perception that workers form about how organizations reward and support safety (Lingard et al., 2012b). Accordingly, a positive safety climate is expected to contribute to good safety behaviours and/ or performance. This proposition has been confirmed by considerable empirical evidence produced by studies across different industries. For example, safety climate was found to be negatively associated with risk behaviour in the rail industry (Morrow et al., 2010), unsafe behaviour in the chemical manufacturing sector (Bosak et al., 2013), and accident rate in the offshore industry (Mearns et al., 2003; Tharaldsen et al., 2008). A positive safety climate was reported to be strongly correlated to greater participation in safety-related activities in the health sector (Neal et al., 2000) and lower accident rates in wood-processing companies (Varonen and Mattila, 2000). In the construction industry, the strong link between safety climate and various aspects of safety performance has also been reported in many studies (see for example, Siu et al., 2004; Zhou et al., 2008; Lingard et al., 2010b, 2012b).
+Evidence from longitudinal studies indicates that safety climate is a valid leading indicator of safety, i.e. safety climate measured at one point in time predicts the occurrence of accidents or injuries in a future point of time (Lingard et al., 2013). For example, Wallace et al. (2006) conducted a survey in a large multinational shipping and transportation company, and found that the safety climate within work groups measured from the survey was a significant predictor of the group occupational accident statistics collected 12 months after the survey. In another study conducted in an Australian hospital, Neal and Griffin (2006) reported that safety climate at one point in time predicted subsequent changes in individual safety motivation, which in turn was associated with changes in self-reported safety behaviour. The improved safety behaviour then contributed to a subsequent reduction in accidents in work groups. Safety climate as a leading indicator is able to provide a direct measure of how well an organization is managing safety, and also suggest potential weaknesses for safety management improvement before deficiencies have resulted in injury (Hinze et al., 2013).
+Evaluation of existing safety climate measurement tools in the construction industry
+Table 1 summarizes the measurement tools used in existing safety climate studies in the construction industry. A number of observations can be made from an evaluation of those measurement tools.
+Single-level analysis or multilevel analysis
+Table 1 illustrates that the majority of the studies used the ‘organization’ as the unit of analysis. Even though workers’ perceptions of supervisors’ and co-workers’ safety attitudes and behaviours were assessed by some of the measurement tools (e.g. Siu et al., 2004; Zhou et al., 2008; Cigularov et al., 2013), they are considered to be part of a uniform organizational safety climate. Using the organization as the unit of analysis assumes that workers in a construction organization share a homogenous perception of various safety issues in that organization. However, research evidence shows that workers’ perceptions of safety climate can be formed at different levels, and that workers’ perceptions of safety climate vary significantly between organizational divisions or subunit (Zohar, 2000; Zohar and Luria, 2005; Lingard et al., 2009, 2010a). From the perspective of complex responsive processes, Stacey (2005) maintained that agents in a local group interact with each other according to their own local rules and principles, and it is through the local interactions between people that local social patterns and values emerge.
+Zohar (2000) was one of the first to suggest a multilevel interpretation of safety climate. According to Zohar (2000), top management of an organization are mainly concerned with the establishment of formal policies and procedures, while supervisors at lower hierarchical levels execute the procedures using context-specific action directives. Owing to supervisors’ discrepant interpretations and local implementation of formal procedures, workers of different groups are likely to perceive supervisory practices differently. In this regard, workers’ perceptions of safety climate can be analysed at two levels, i.e. formal policies and procedures related to the organizational-level analysis, and supervisory practice related to group-level analysis. This proposition has been tested and confirmed in the manufacturing context by Zohar (2000) and Zohar and Luria (2005).
+In the construction industry, Lingard and her colleagues and Melia´ et al. (2008) analysed safety climate at multiple levels (see Table 1). Lingard et al. (2009) claimed that it is more appropriate to adopt a multilevel analysis of safety climate than a single-level analysis in the construction industry, where the construction organizations are large and complex with decentralized structures, and characterized by non-routine work undertaken by semi-autonomous work groups. Construction workers are organized into different work groups. Those work groups are spatially dispersed and also distant from their company offices. The prevalent subcontracting system in the construction industry further contributes to the loose connection between construction workers and their principal contracting companies (Melia´ et al., 2008). It is common that workers have few opportunities to directly interact with top managers of their organizations. However, they have frequent interactions with the supervisors who give them daily guidance and instructions. It is noteworthy that supervisory discretion is critical in construction organizations, where workers are required to perform non-routine work in a continually changing environment and unforeseen circumstances on construction sites. Lingard et al. (2012b) suggested that group-level safety climate should have a stronger influence on workers’ safety performance than organizational safety climate in construction organizations. This is supported by their empirical finding that workers’ perceptions of supervisors’ safety expectations fully mediated the relationship between perceptions of top management’s commitment to safety and the work group injury frequency rate.
+Co-workers’ influence as a facet of group-level safety climate
+Lingard et al. (2011) argued that apart from people with formal power (e.g. top managers, supervisors), those who do not possess formal power (e.g. co-workers) can also substantially influence group values and norms. They employed, but also extended, Zohar’s (2000) idea of group-level safety climate to embrace the role of co-workers in influencing safety in work groups. Similarly, Melia´ et al. (2008) identified co-workers to be safety agents as important as top managers and supervisors, and found that co-workers’ safety response (CWSR) significantly predicts workers’ safety response (WSR)acrossallfoursamplesunderstudy(seeTable1).
+Table 1	Summary of safety climate measurement studies in the construction industry
+Analysis level
+Dimensions/themes/facets
+Safety practices
+Work pressure
+The US construction industry
+(including both Hispanic and non-
+Hispanic construction workers)
+The US construction industry
+Safety attitude and managementcommitment
+Safety consultation and safety training
+Supervisor’s role and workmate’s role
+Safety resources
+Appraisal of safety procedure and work risk
+Workmates’ influence
+One construction company in Hong
+Management concerns and safety activities
+Employee risk perception
+The US construction industry
+
+Communication and support
+Adequacy of procedures
+Work pressure
+Relationship
+The Australian construction and maintenance industry
+Role clarity
+Influence at work
+Predictability
+Sense of community
+Feedback at work
+Quality of leadership
+The Swedish construction industry
+
+Safety priority
+Supervisors’ safety actions
+Supervisors’ safety expectations
+The Australian construction industry
+
+Co-workers’ actual safety response
+Co-workers’ ideal safety response
+The presence of safety structures
+Two general samples from England and
+Safety inspection
+Safety training and information
+Safety incentives and sanctions
+Spain, and two construction samples from Hong Kong and Spain
+Providing of models of safe or unsafe workbehaviour to the worker through the supervisors’ own safe or unsafe behaviour/selfapplied safety response
+Reactions to safe or unsafe workerbehaviour/response toward workers’ safety behaviour
+(Continued)
+Table 1	(Continued)
+Analysis level
+Active encouragement of worker safety behaviour through instructions and promotion of safety issues/self-applied safety response
+
+Providing models of safe or unsafe behaviourthrough the co-worker’s own safe or unsafe behaviour
+Reactions to the safe or unsafe behaviour ofthe worker
+Active encouragement of safety
+Management safety priority
+Safety communication
+Work group safety communication
+The Swedish construction industry
+Safety attitude about: Yourself and safetyYour colleagues Management Safety officers Your supervisors
+The Hong Kong construction industry
+Safety management systems and procedures
+Safety attitudes
+Workmates’ influences
+Employees’ involvement
+The Hong Kong construction industry
+Considering co-workers’ influence as a separate facet of group safety climate is both theoretically and empirically supported by previous research. For example, Tucker et al. (2008) used social exchange theory to explain the link between perceived co-worker support for safety and employee safety voice. They suggested that, when workers receive information about hazards or safety concerns from co-workers, the norm of reciprocity would make them feel obliged to engage in safety behaviours (e.g. reporting unsafe working conditions, providing safety suggestions) that would benefit the group. Drawing on social influence theory, Westaby and Lowe (2005) identified co-workers as an important source of social influence and discovered that ‘co-worker risk taking’ is a significant predictor of young workers’ ‘risk-taking orientation’. The effect of social influence could also be positive. In circumstances where workers constantly receive safety reminders from co-workers, they would feel ‘peer pressure’ to follow safety procedures and use appropriate safety equipment (Roy, 2003). Brondino et al. (2012) argued that safety climate is constructed through interactions between individuals, not only between workers and leaders but also between workers and co-workers. They discovered that co-workers’ safety climate exerted a stronger influence on safety behaviours than supervisor safety climate at both individual and group levels in the manufacturing context. All the existing evidence suggests that co-workers are an important source of influence on group safety.
+Facet analysis or agent analysis
+Table 1 also indicates that most of the studies adopted a facet analysis of safety climate, i.e. researchers identify the facets that comprise a safety climate (e.g. safety systems and procedures, safety communication, safety training, safety competency), and then develop indicators to measure workers’ perceptions of those facets. The outcome of the facet analysis of safety climate would be a general description of the perceived state of safety in an organization.
+However, Melia´ et al. (2008) claimed that facet analysis is not effective in terms of precisely suggesting preventive actions for practitioners. They argued that safety climate measurement should be used as a diagnostic tool which can precisely identify problems or difficulties that are critical to safety improvement, and the usefulness of the tool highly relies on the theoretical analysis of the agents and issues that should be included in safety climate statements. In other words, safety climate needs to be analysed from the point of view of the agents who perform or take responsibility for the safety activity/issue in each safety climate statement. This would enable a clear identification of the safety effort required from a specific agent for safety improvement. In their study, Melia´ et al. (2008) identified four main safety agencies in the construction industry, i.e. top management, supervisors, co-workers, and the workers who answer the safety climate survey questions (see Table 1). The value of the agent analysis of safety climate has been highly recognized in recent studies (see for example, Lingard et al., 2010b, 2012b; Brondino et al., 2011, 2012). These studies also indicate that agent analysis not only enables the separate diagnosis of the safety response of each agent, but also allows the assessment of the psychological chain of safety influences among the safety agents. This is important because micro phenomena are usually embedded in macro contexts.
+Client’s role in improving safety performance
+All the safety climate measurement studies listed in Table 1 only focused on a single organization in the construction industry, i.e. the contracting company. This may be because safety responsibilities have been traditionally assigned to contractors, who actually plan for safety and develop risk control measures. However, previous research revealed that risks on construction sites can be traced back to decisions made upstream in the construction process, i.e. in the project planning and design stages (see for example, Behm, 2005; Lingard et al., 2012a). There is an increasing recognition that safety responsibilities should be borne by all project participants along the construction supply chain, including clients and designers.
+In a root cause analysis of construction accidents, Haslam et al. (2005) identified client requirements as a causal factor imposing originating influence on construction accidents. This is because as initiators of construction projects, clients make key decisions about the project budget, timeline, project objectives and performance criteria, which can create pressure and constraints that have a significant impact on safety in the construction process (Lingard et al., 2008). Arguably, clients are in the best position to drive cultural changes that lead to safety success in construction projects. Recent research has provided some empirical evidence regarding the impact of client-led safety initiatives on construction project safety performance. For example, Huang and Hinze (2006) revealed that project safety performance can be significantly improved through a range of safety activities implemented by clients, including setting contractual safety requirements, participating in safety recognition programmes, monitoring safety performance, funding safety initiatives, participating in onsite safety activities, etc. Through a questionnaire survey among employees working in small and medium construction projects in Australia, Votano and Sunindijo (2014) identified a number of client safety roles that have great potential for improving the safety climate in construction projects. For example, clients can participate in the site-based safety programme, review and analyse safety data, appoint a project safety team, specify how safety is to be addressed in tenders, and perform regular checks on plant/equipment. The existing evidence suggests that the client is a critical safety agent in construction projects and an assessment of the client’s safety response should be part of the safety climate measurement tool in the construction industry.
+The review of measurement tools used in existing safety climate studies highlighted important features that should be addressed in an effective safety climate measurement tool in the construction industry, including: (1) analysing safety climate at multiple levels; (2) analysing safety climate from the perspective of safety agents; (3) recognizing co-workers’ influence on group-level safety climate; and (4) considering the client’s role in shaping construction safety performance. The review also indicated that none of the existing safety climate measurement tools has presented all these features. The present study aims to advance existing knowledge by developing and validating a new safety climate measurement tool, which considers safety responsibilities of various important safety agents along the construction supply chain, including management of client, management of principal contractor, supervisors, co-workers, and individual workers. It is expected that the new safety climate measurement tool will provide a pragmatic approach for construction project managers to evaluate the effectiveness of their safety management practices and identify the effort needed from a specific safety agent for safety improvement.
+Development of a new safety climate measurement tool
+Organizational safety response (OSR) at client and principal contractor levels
+Although safety climate has been extensively examined in the existing literature, the dimensionality or factor structure of safety climate remains disputed (Bosak et al., 2013). The inability to replicate factor structures across different industries and populations demonstrated by researchers (Zohar, 1980; Brown and Holmes, 1986; Dedobbeleer and Be´land, 1991) has long been a problem and remains unresolved. Accordingly, various organizational safety climate measures have been developed by researchers to suit the specific interests of studies (see for example, Cox and Cheyne, 2000; Mearns et al., 2003; Fang et al., 2006; Tharaldsen et al., 2008). Nevertheless, a few dimensions of safety climate are frequently included in safety climate measures and show significant predictive validity, one of which is management commitment. Dedobbeleer and Be´land (1998) reviewed 10 safety climate measurement instruments and found that management commitment is one of the two safety climate dimensions that can be replicated across studies. In a meta-analysis, Flin et al. (2000) reported management commitment to be the most common theme of safety climate. Beus et al. (2010) demonstrated that the safety climate dimension of management commitment to safety is the most robust predictor of safety-related outcomes. Correspondingly, management commitment, of the client and principal contractor, was the focus of the organizational safety response (OSR) component of safety climate in this study.
+The operationalization of management commitment to safety varies from study to study and the measurement items underlying management commitment are ambiguous (Huang et al., 2012). Zohar (2000) claimed that the priority of safety should be the focal issue of safety climate at the organizational level, suggesting that management commitment can be reflected by workers’ perceptions of the relative priority management put on safety compared to other competing goals (e.g. speed, productivity). Zohar (2000) also argued that workers form the perception of safety priority through observing the concurrence between policy and procedures, and the patterns of managerial behaviours across different circumstances. In this regard, management commitment is also concerned with observing consistency in management safety responses. Therefore, the measure of management commitment to safety should be indicative of two important issues: (1) the priority placed on safety as an organizational goal; and (2) consistency in managers’ safety responses.
+In the context of a construction project, clients and principal contractors influence project safety performance through different mechanisms and practices. Principal contractors are those who actually manage the construction process by performing various tasks, including establishing working schedules, determining working methods, developing safety plans and risk control measures, etc. Principal contractors have more direct impact on the health and safety of construction workers than clients, who are hierarchically distant from construction activities. While construction workers form the perceptions of the principal contractor’s safety response through the observation of policies, procedures and practice patterns, they perceive the client’s safety response through other cues, e.g. the safety attitude and concern demonstrated by client representatives, the visibility of client personnel in safety activities, the response of the client to adverse project events, and the participation of client personnel in accident investigations. As safety climate perceptions should be analysed corresponding to the specific responsibilities performed by each safety agent, different measurement scales were used to measure client’s organizational safety response (COSR) and principal contractor’s organizational safety response (PCOSR) in this study.
+The measure of general management commitment to safety developed for the UK Health and Safety Executive by Davies et al. (1999) was adapted to measure workers’ perceptions of COSR. This measure addressed the two main issues of management commitment to safety identified above, i.e. the priority given to safety and consistent safety responses in different situations. Because this measure was originally developed for the offshore sector with a total of 16 items, only the items that were applicable to construction clients were selected to form the scale of COSR. As a result of the selection process, nine items were retained, reflecting the client’s overall safety priority and general concern for workers’ health and safety. The global organizational-level safety climate scale developed by Zohar and Luria (2005) was adapted to assess the PCOSR. This scale is constituted of 16 items, which are highly relevant to the principal contractor’s safety activities, and reflect the extent to which the principal contractor shows genuine concern for safety and prioritizes safety above other organizational goals in different situations.
+Zohar (2000) suggested that workers observe the pattern of supervisory practices to form the perceptions of supervisors’ overall emphasis or de-emphasis on safety, i.e. they assess whether supervisory practices converge into a consistent pattern regarding the relative priority of safety compared to other efficiency goals. Consequently, the scale developed by Zohar and Luria (2005) reflecting global safety commitment factors was adapted to assess construction workers’ perceptions of their supervisors’ safety response. The wording was changed from ‘my direct supervisor’ to ‘my supervisor’ for the present study. This measure includes 16 items, covering various interactions between supervisors and group members through which supervisors indicate the priority of safety in relation to competing goals. The items were further divided into three distinct dimensions of supervisory practices, i.e. active practice, proactive practice, and declarative practice. Active and proactive supervisory safety practices reflect the difference between emphasizing compliance with safety system rules and exercising a commitment to safety improvement. An emphasis on safety compliance involves supervisors monitoring and controlling actions to ensure that safety work procedures are followed and work is undertaken safely, while an emphasis on safety improvement involves identifying opportunities to engage workers in learning, reflecting on past events and continual improvement of their safety performance. Declarative practice reflects the public statements made by supervisors about safety. This reflects the expectations that supervisors establish concerning the way that work should be performed.
+Co-workers’ safety response
+The study by Lingard et al. (2011) was one of the first to develop and test a co-workers’ safety response scale (15 items included) in the construction context. In their study, a two-factor structure was revealed for the scale from a principal component analysis (PCA), i.e. ‘co-workers’ actual safety response’ and ‘co-workers’ ideal safety response’. Lingard et al. (2011) also discovered that only the perceptions of ‘co-workers’ actual safety response’ satisfied the criteria for group safety climate, i.e. demonstrating high levels of within-group homogeneity and between-group variation. However, no between-group variance was observed for ‘co-workers’ ideal safety response’. They concluded that there is a conceptual distinction between workers’ perceptions of what co-workers should do in relation to safety and what they actually do. Therefore, Lingard et al. (2011) suggested that only co-workers’ actual safety response should be considered in measuring group-level safety climate.
+Recently, Brondino et al. (2011) validated a coworkers’ safety climate (CSC) scale using confirmatory factor analysis (CFA) within manufacturing companies. The CSC scale contains 12 items, which reflect workers’ perceptions of co-workers’ actual safety response relating to four themes: (1) safety values, reflecting perceptions of the importance given to safety by co-workers; (2) safety systems, reflecting perception of the importance assigned by co-workers to safety procedures, practices and equipment; (3) safety communication, reflecting the quality of communicating safety issues; and (4) safety mentoring, reflecting the extent to which co-workers share safety knowledge and encourage one another to work safely. The scale was further tested to show adequate validity in another study investigating the interactions between multilevel safety climates (Brondino et al., 2012). Considering that the content of the CSC scale is very comprehensive and also highly relevant to co-workers’ safety activities in the construction context, the CSC scale was adapted to evaluate construction workers’ perceptions of co-workers’ safety response in this study.
+Individual safety response
+Many studies have used direct safety outcomes or ‘lagging indicators’ (e.g. recoded accidental injuries, accident rate, and number of fatalities) as the measure of safety performance, and examined the relationship between safety climate and the safety outcomes. Griffin and Neal (2000) pointed out that one key assumption underlying those studies is that individual safety behaviour plays the mediating role in the relationship, i.e. safety climate shapes individual safety behaviour, which in turn affects safety outcomes. Therefore, individual safety response could potentially be a direct predictor of safety outcomes. It is acknowledged that individual safety response is considered to be the consequence of safety climate rather than a part of safety climate given that safety climate is defined as workers’ perceptions of their work environment. However, the measurement of individual safety response provides the potential for construction organizations to understand the relationship between safety climate perception and individuals’ responses to safety.
+Table 2	Demographic information of participants
+Senior Manager
+Construction Worker
+
+
+
+
+
+
+
+
+
+
+Table 3	Assessment of the impact of the slight rewording of items on workers’ response
+Before rewording: Management of the principal contractor requires each manager to help improve safety
+After rewording: Management of the principal contractor requires contractor organizations to help improve safety
+Before rewording: Management of the principal contractor invests a lot of time and money in safety training for workers
+After rewording: Management of the principal contractor ensures that workers are given appropriate and sufficient safety training
+Before rewording: My supervisor frequently checks to see if we are all following the safety rules
+(not just the most important ones)
+After rewording: My supervisor frequently checks to see if we are all following the safety rules
+Before rewording: My supervisor insists we wear our protective equipment even if it is uncomfortable
+After rewording: My supervisor insists we wear our protective equipment
+Table 4	Assessment of the impact of the rewording for items measuring CWSR
+My group members speak about safety on a daily basis
+Workers on site speak about safety on a daily basis
+My group members care about each other’s safety awareness
+Workers on site care about each other’s safety awareness
+My group members frequently discuss safety hazards
+Workers on site frequently discuss safety hazards
+My group members emphasize safety to each other – even when under pressure
+Workers on site emphasize safety to each other – even when under pressure
+My group members care less about safety when they are tired
+Workers on site care less about safety when they are tired
+My group members care about other workers’ safety equipment
+Workers on site care about other workers’ safety equipment
+My group members still care about safety at the end of a day’s work
+Workers on site still care about safety at the end of a day’s work
+My group members frequently discuss incident prevention
+Workers on site frequently discuss incident prevention
+My group members care about other members’ safety compliance
+Workers on site care about other members’ safety compliance
+My group members care about safety – even if work falls behind schedule
+Workers on site care about safety – even if work falls behind schedule
+My group members remind each other to use safety equipment
+Workers on site remind each other to use safety equipment
+My group members encourage each other to work safely
+Workers on site encourage each other to work safely
+Marchand et al. (1998) argued that the traditional way of measuring safety behaviour is too narrow by only focusing on employees’ compliance with safety rules. They suggested that workers’ initiatives should also be taken into account when developing safety behaviour measures. In line with this argument, individual safety response in this study was measured by
+the safety behaviour scale developed in Neal and Griffin (2006). Six items were included in the scale, with three items related to workers’ compliance with safety rules and procedures, while another three reflect workers’ participation, e.g. voluntary behaviours in improving and promoting safety. Safety compliance and safety participation have been empirically identified as separate components of safety-related behaviour (Griffin and Neal, 2000).
+Research method
+All the items were compiled into a questionnaire measuring multilevel safety climate in the construction industry. The items were measured by a five-point Likert scale ranging from ‘1 = Strongly Disagree’ to ‘5 = Strongly Agree’. Six items were negatively worded and embedded in the questionnaire to avoid response bias. The first version of the questionnaire was subject to a pilot test by a team of construction professionals engaged in a large construction project in New Zealand. The purpose of the pilot test was to identify any item that was not applicable in, or any wording that was not suitable for, the context of construction industry. As a result of the pilot test, three items were removed from the principal contractor’s organizational safety response (PCOSR) due to their inapplicability; two items in the supervisors’ safety response (SSR) were combined into one item due to the overlapping content; and a number of items were slightly reworded to better suit the context of the construction industry.
+Data was collected from three processing plant construction projects commissioned by Fonterra Co-operative Group in New Zealand. A total of seven safety climate surveys were conducted at the three construction projects from February 2013 to July 2014. Among the seven surveys, three surveys were longitudinallyconductedatthesameprojectcrossingthelifecycle of the project; two surveys were conducted at each of the other two projects: one was in the commencement phase and the other one was in the half-completion phase. The surveys were administered using the ‘TurningPoint’ automated response system with ‘KeePad’ hand-held devices. Survey questions were projected on to a screen one by one and read out by a facilitator. Workers were required to press a number on the hand-held devices to indicate their responses to the statement in each survey question against a five-point scale ranging from ‘1 = Strongly Disagree’ to ‘5 = Strongly Agree’. A total of 364 participants attended the surveys. Data screening indicated that eight participants failed to answer more than half of the questions. To maintain data reliability and validity, the responses of the eight participants were removed from data analysis. Missing values identified for each safety climate question were replaced by the mean score for that question obtained from the remaining participants. Missing values for demographic questions were left missing, which would not affect the validation results. Table 2 shows the demographic information of participants who completed the survey. The participants were employed by nine work groups. The majority of participants were construction workers (n = 153, 43%), foremen (n = 54, 15.2%), or leading hands (n = 50, 14%).
+It is noteworthy that four items were slightly reworded in the data collection process. These changes were requested by the risk manager of the client company based on the continual feedback received from project managers of different construction projects at different survey times. It is acknowledged that the rewording is a limitation in the safety climate measurement tool validation study. To assess whether the rewording had any significant impact on workers’ response, t-tests were performed for each question to identify any significant difference in terms of item mean value. Table 3 Table 5 PCA results for the split sets of data for CWSR
+
+Extraction method: principal component analysis.
+Items	Component
+Extraction method: principal component analysis.
+Table 6	Results of scale reliability analysis
+
+Cronbach’s alpha
+Corrected item-total correlation
+Cronbach’s alpha if item deleted
+Supervisor3
+Supervisor5
+Supervisor8
+Supervisor9
+Supervisor10
+Supervisor11
+Supervisor12
+Supervisor13
+Supervisor14
+Supervisor15
+
+Table 6	(Continued)
+
+Cronbach’s alpha
+Corrected item-total correlation
+organizational safety response; supervisors’ safety response; co-workers’ safety response; individual safety
+shows the items that were reworded and the sample sizes for ‘before rewording’ group and ‘after rewording’ group. T-test results (Table 3) indicated that statistically there is no significant change due to the slight rewording for the four items. This implies that it is reasonable to aggregate the two groups of data for further data analysis.
+In addition, the co-workers’ safety response (CWSR) scale was reworded in the last three survey sessions as requested by the risk manager, who wanted to change the focus from co-workers in a micro-level work group to the entire cohort of co-workers on site. Table 4 shows that all the items were reworded from ‘My group members …’ to ‘Workers on the site …’. T-test results suggested that significant changes in mean scores were observed for all CWSR items. The mean scores for all questions significantly decreased after the rewording. The decrease might be explained by the fact that workers work more closely with and know more about the co-workers in the immediate work group than other co-workers at the same project but outside their own work group.
+To further assess the impact of the rewording, the data for CWSR was split into two sets (i.e. before rewording and after rewording), which were subjected to separate principal component analysis (PCA). The PCA results shown in Table 5 revealed that only one component could be extracted for each set of data and the item Coworker5 had a factor loading lower than 0.5 in each PCA analysis, indicating that the factorial structures underlying the two sets of data remained the same. The results suggest that the CWSR scale possesses a high level of construct validity. It is acknowledged that the rewording of items is a limitation in the safety climate measurement tool validation process. However, CWSR questions were retained and subjected to the subsequent statistical analysis due to the high construct validity indicated by the same factorial structures identified underlying the ‘before rewording’ data and ‘after rewording’ datasets.
+The scales were first subjected to reliability analysis. Two indicators were used to assess the scale reliability, including: (1) the item-total coefficient, which indicates the extent to which each individual item relates to the other items in a scale; (2) the Cronbach’s coefficient alpha (α), which measures the internal consistency of a scale. A value of 0.4 is normally set as the criterion to choose items with acceptable item-total coefficients (Spector, 1992); while an alpha value of 0.7 is desired for the satisfactory internal consistency of a scale (Nunnally, 1978; Spector, 1992).
+The validity of the scales was assessed by factor analysis using principal component analysis (PCA) technique. Factor analysis aims to analyse the interrelationships among a large number of variables and uncover the common underlying factors to explain the variables. It is expected that all items proposed to measure the same construct (e.g. COSR) would significantly load on the same factor and do not load on any other factor, and different factors emerge for different constructs. Varimax rotation was selected for PCA due to its merit in maximizing the amount of variance explained by factors and seeking a mathematically superior solution. Regarding the sample size, normally a sample size of at least five times the number of variables to be analysed is required for a robust factor analysis (Hair et al., 2010). In this study, the number of items to be analysed was 54 and the sample size was 356, which fulfilled the minimum 5: A factor loading of 0.5 is considered to be the rule of thumb for determining items with significant loadings on a particular factor (Hair et al., 2010).
+Table 6 shows that all scales achieved satisfactory internal consistency with Cronbach’s alpha value higher
+Factor analysis result after the removal of items Supervisor5, Supervisor7, and Co-worker5
+Client management places a strong emphasis on workplace health and safety
+Safety is given a high priority by client management
+Client company really care about the health and safety of the people who work here
+I feel that client management is concerned about my general welfare
+Client company would stop us working due to safety concerns, even if it meant losing money
+The site workers trust client company
+Client management sometimes turn a blind eye to health and safety procedures/instructions/rules being broken
+Client company looks after site workers
+Principal1: Management of the principal contractor reacts quickly to solve the problem when told about safety hazards
+Principal2: Management of the principal contractor insists on thorough and regular safety audits and inspections
+Principal3: Management of the principal contractor tries to continually improve safety levels
+Principal4: Management of the principal contractor is strict about working safely – even when work falls behind schedule
+Principal6: Management of the principal contractor provides detailed safety reports to workers (e.g. about injuries, near accidents)
+Principal7: Management of the principal contractor requires contractor organizations to help improve safety
+Principal8: Management of the principal contractor ensures that workers are given appropriate and
+sufficient safety training
+Principal9: Management of the principal contractor provides workers with a lot of information on safety issues
+Principal10: Management of the principal contractor pays little attention to workers’ ideas about improving safety
+Principal11: Management of the principal contractor considers safety when setting production speed and schedules
+Principal12: Management of the principal contractor uses any available information to improve existing safety rules
+(Continued)
+(Continued)
+Principal13: Management of the principal contractor regularly holds safety-awareness events (e.g., presentations, ceremonies)
+Supervisor1: My supervisor makes sure we receive all the equipment needed to do the job safely
+Supervisor2: My supervisor frequently checks to see if we are all following the safety rules
+Supervisor3: My supervisor discusses with us how to improve safety
+Supervisor4: My supervisor uses explanations (not just compliance talk) to get us to act safely
+Supervisor6: My supervisor frequently tells us about the hazards in our work
+Supervisor8: My supervisor is strict about working safely
+– even when we are tired or stressed
+Supervisor9: My supervisor reminds workers who need reminders to work safely
+Supervisor10: My supervisor insists that we follow safety rules when fixing equipment or machines
+Supervisor11: My supervisor says a ‘good word’ to workers who pay special attention to safety
+Supervisor12: My supervisor is strict about safety – even at the end of the shift, when we want to go home
+Supervisor13: My supervisor doesn’t spend much time helping us learn to see problems before they arise
+Supervisor14: My supervisor frequently talks about safety issues throughout the work week
+Supervisor15: My supervisor insists we wear our protective equipment
+My group members speak about safety on a daily basis
+My group members care about each other’s safety awareness
+My group members frequently discuss safety hazards
+My group members emphasize safety to each other – even when under pressure
+My group members care about other workers’ safety equipment
+My group members still care about safety at the end of a day’s work
+My group members frequently discuss incident prevention
+My group members care about other members’ safety compliance
+Coworker10: My group members care about safety – even if work falls behind schedule
+Coworker11: My group members remind each other to use safety equipment
+Coworker12: My group members encourage each other to work safely
+(Continued)
+(Continued)
+Rotated component matrixa
+Individual1: I use all the necessary safety equipment to do my job
+Individual2: I use the correct safety procedures for carrying out my job
+Individual3: I ensure the highest levels of safety when I carry out my job
+Individual4: I promote the safety programme in the workplace
+Individual5: I put in extra effort to improve the safety of the workplace
+Individual6: I voluntarily carry out tasks or activities that help to improve workplace safety
+Extraction method: principal component analysis. Rotation method: varimax with Kaiser normalization.
+aRotation converged in 7 iterations.
+The items in all scales showed acceptable levels of item-total correlations, except two items in SSR (i.e. Supervisor5 and Supervisor7) and one item in CWSR (i.e. Co-worker5). A closer observation indicated that all the three items were negatively worded questions, which were intentionally embedded in the questionnaire to reduce response bias. It was decided that the three items be removed for subsequent factor analysis. Removal of these three items also increased the alpha values.
+Factor analysis
+Table 7 shows that a clear factorial structure was produced except that item Client4 did not have any significant loading on any factor; item Client8 significantly loaded on factor 8 by itself; and item Principal6 had significant loading on two factors. It is noticed that item Client8 was also a negatively worded question. After the removal of the three items, a distinct seven-factor structure emerged from a second principal component analysis as shown in Table 8. The results revealed two distinct components underlying the scale of client’s organizational safety response (COSR). However, the factorial structure did not differentiate between the underlying dimensions proposed for the scale of supervisors’ safety response (SSR) or the scale of co-workers’ safety response (CWSR).
+Previous research suggested that there is a distinction between workers’ perceptions of supervisors’ safety actions and workers’ perceptions of supervisors’ safety expectations (Zohar, 2000; Lingard et al., 2012b). The former reflects workers’ perceptions of supervisors’ reactions to subordinates’ safety conduct (e.g. giving positive or negative feedback) and supervisors’ initiation of safety-related actions, while the latter is concerned with workers’ perceptions of supervisors’ expectations about the relative priority assigned to safety (Zohar, 2000). A safety professional was invited to further review the SSR questions in this study and select questions that could reflect the two themes. As a result of the review, the items of Supervisor1, Supervisor2, Suprvisor3, Supervisor6 and Supervisor11 were considered to represent supervisors’ safety actions, while the items of Supervisor8, Supervisor10, Supervisor12, Supervisor14 and Supervisor15 were thought to reflect supervisors’ safety expectations. Drawing upon Zohar’s (2000) idea, a forced principal component analysis was conducted on the data of SSR to explore whether the two-factor structure (i.e. supervisors’ actions and supervisors’ expectations) could be replicated in this study. Table 9 demonstrated that a clear two-factor structure was produced with the 10 items significantly loading on their proposed corresponding factor components.
+The data analysis results suggested that some of the negatively worded questions in the safety climate measurement tool had low item-total correlations and the deletion of those questions improved the Cronbach’s alpha of the relevant subscales. The conventional wisdom is that mixing a number of negatively worded questions into psychometrical measures helps to reduce response bias such as agreement response tendencies or
+Table 8	Factor analysis result after the removal of items Client4, Client8, and Principal6
+Client management places a strong emphasis on workplace health and safety
+Safety is given a high priority by client management
+Client company would stop us working due to safety concerns, even if it meant losing money
+The site workers trust client company
+Client company looks after site workers
+Principal1: Management of the principal contractor reacts quickly to solve the problem when told about safety hazards
+Principal2: Management of the principal contractor insists on thorough and regular safety audits and inspections
+Principal3: Management of the principal contractor tries to continually improve safety levels
+Principal4: Management of the principal contractor is strict about working safely – even when work falls behind schedule
+Principal5: Management of the principal contractor quickly corrects any safety hazard – even if it’s costly
+Principal7: Management of the principal contractor requires contractor organizations to help improve safety
+Principal8: Management of the principal contractor ensures that workers are given appropriate and sufficient safety training
+Principal9: Management of the principal contractor provides workers with a lot of information on safety issues
+Principal10: Management of the principal contractor pays little attention to workers’ ideas about improving safety
+Principal11: Management of the principal contractor considers safety when setting production speed and schedules
+Principal12: Management of the principal contractor uses any available information to improve existing safety rules
+Principal13: Management of the principal contractor regularly holds safety-awareness events (e.g., presentations, ceremonies)
+Supervisor1: My supervisor makes sure we receive all the equipment needed to do the job safely
+Supervisor2: My supervisor frequently checks to see if we are all following the safety rules
+Supervisor3: My supervisor discusses with us how to improve safety
+Supervisor4: My supervisor uses explanations (not just compliance talk) to get us to act safely
+Supervisor6: My supervisor frequently tells us about the hazards in our work
+Supervisor8: My supervisor is strict about working safely – even when we are tired or stressed
+Supervisor9: My supervisor reminds workers who need reminders to work safely
+Supervisor10: My supervisor insists that we follow safety rules when fixing equipment or machines
+Supervisor11: My supervisor says a ‘good word’ to workers who pay special attention to safety
+Supervisor12: My supervisor is strict about safety – even at the end of the shift, when we want to go home
+(Continued)
+Supervisor13: My supervisor doesn’t spend much time helping us learn to see problems before they arise
+Supervisor14: My supervisor frequently talks about safety issues throughout the work week
+Supervisor15: My supervisor insists we wear our protective equipment
+My group members speak about safety on a daily basis
+My group members care about each other’s safety awareness
+My group members frequently discuss safety hazards
+My group members emphasize safety to each other – even when under pressure
+My group members care about other workers’ safety equipment
+My group members still care about safety at the end of a day’s work
+My group members frequently discuss incident prevention
+My group members care about other members’ safety compliance
+Coworker10: My group members care about safety – even if work falls behind schedule
+Coworker11: My group members remind each other to use safety equipment
+Coworker12: My group members encourage each other to work safely
+Individual1: I use all the necessary safety equipment to do my job
+Individual2: I use the correct safety procedures for carrying out my job
+Individual3: I ensure the highest levels of safety when I carry out my job
+Individual4: I promote the safety programme in the workplace
+Individual5: I put in extra effort to improve the safety of the workplace
+Individual6: I voluntarily carry out tasks or activities that help to improve workplace safety
+Extraction method: principal component analysis.
+Rotation method: varimax with Kaiser normalization. aRotation converged in 7 iterations.
+acquiescence. However, the poor performance revealed in this study implies that it may not be helpful to use reversed questions in the context of the construction industry. Using a controlled experiment relating to a survey of leadership behaviour, Schriesheim and Hill (1981) concluded that the inclusion of negatively worded questions may impair response accuracy and decrease the validity of obtained results. It is possible that sporadic negative questions in a positively phrased questionnaire require additional cognitive effort from respondents to comprehend the questions and may also result in ambiguity in respondents’ interpretations. The negative impact of reversed questions on response accuracy may be more significant in the construction industry, where the education level of employees is relatively lower than in the other industries. It is suggested that negatively worded questions be removed from climate surveys in the construction industry to ensure that data collected is reliable and valid.
+Client’s organizational safety response (COSR) was originally proposed to be a one-dimensional scale, i.e. management commitment to safety. The data analysis results indicated that COSR be further broken down into two components: (1) the overall priority clients place on safety, which is reflected by three items such as ‘Client management places a strong emphasis on workplace health and safety’ and ‘Safety is given a high priority by client management’; (2) clients’ safety actions, which is reflected by four items such as ‘Client looks after site workers’ and ‘Client would stop us working due to safety concerns, even if it meant losing money’. The emergence of the two dimensions confirmed Zohar’s (2000) argument that workers form perceptions of management commitment to safety not only through observing safety messages about the importance of safety transmitted by safety policies and procedures, but also through observing managerial behaviours related to safety. Previous research has
+Table 9	Forced PCA result for the SSR data
+Supervisor1: My supervisor makes sure we receive all the equipment needed to do the job safely
+Supervisor2: My supervisor frequently checks to see if we are all following the safety rules
+Supervisor3: My supervisor discusses with us how to improve safety
+Supervisor6: My supervisor frequently tells us about the hazards in our work
+Supervisor11: My supervisor says a ‘good word’ to workers who pay special attention to safety
+Supervisor8: My supervisor is strict about working safely – even when we are tired or stressed
+Supervisor10: My supervisor insists that we follow safety rules when fixing equipment or machines
+Supervisor12: My supervisor is strict about safety – even at the end of the shift, when we want to go home
+Supervisor14: My supervisor frequently talks about safety issues throughout the work week
+Extraction method: principal component analysis.
+Rotation method: varimax with Kaiser normalization. aRotation converged in 3 iterations.
+shown that, even when managers think they are strongly committed to safety, workers’ perceptions of what management ‘really wants’ can be vastly different (Clarke, 1999). This implies that management need to ‘walk the talk’ to show the congruence between safety statements and actions. The COSR scale developed in this study, therefore, is useful in measuring the gap between what is expected and what is practised in terms of safety.
+The data analysis results indicated that the three proposed dimensions (i.e. active, proactive and declarative safety practices) underlying supervisors’ safety response (SSR) were not distinct from each other. Instead, all the items of SSR significantly loaded on the same factor, suggesting that the proposed threecomponent structure may not be appropriate for this study. Further review and analysis revealed that a two-component structure emerged from the data, with five items reflecting supervisors’ safety actions and the other five items reflecting supervisors’ safety expectations. This two-component structure has also been tested and supported in previous research (Zohar, 2000; Lingard et al., 2012b). The two-component scale implies that supervisors can influence work group safety performance in two ways. First, supervisors influence work group safety performance through what they do, e.g. providing safety instructions, monitoring workers’ safety behaviours, engaging workers in safety communication and providing feedback to workers when necessary. Second, supervisors can influence work group safety performance through what they say, e.g. explicitly and continually emphasizing and reinforcing the importance of safety, even in the face of competing project goals. This SSR scale provides an opportunity to measure workers’ perceptions of two different aspects of supervisory safety leadership, and also assess the congruence between what the supervisors say and what the supervisors do.
+The factorial structure showed that co-workers’ safety response (CWSR) should be treated as a onedimensional scale rather than a four-dimensional scale. These results suggest that the underlying dimensions proposed are actually closely inter-correlated. For example, co-workers’ safety communication, mentoring and systems may reflect their underlying safety values. Instead of measuring individual aspects of co-workers’ safety response, the CWSR scale in this study can be used to measure the general safety value and practice of co-workers.
+Consistent with Neal and Griffin (2006), safety compliance and safety participation were identified as two distinct components underlying individual safety response (ISR) scale. This highlights the need to employ different strategies to improve both aspects of individual safety performance, which has been implied in previous research. For example, Neal et al. (2000) discovered that workers’ safety knowledge has a stronger relationship with safety compliance than with safety participation, while workers’ safety motivation has a stronger link with safety participation than with safety compliance. Vinodkumar and Bhasi (2010) observed similar results and also found that safety management practices relating to management commitment and safety rules and procedures directly affect safety compliance, while the safety management practices relevant to workers’ involvement and safety promotion policies directly contribute to safety participation. The ISR scale provides an opportunity to measure workers’ safety compliance and safety participation separately, and identify aspects of organizational and group-level climate most strongly related to participation and compliance. The measurement would help management to adopt appropriate strategies for improvement.
+
+An evaluation of safety climate measurement tools used in existing literature revealed a number of features that are critical to effective safety climate measurement in the construction industry. These features include: (1) multilevel analysis of safety climate; (2) agent-based analysisofsafetyclimate; (3)appreciationofco-workers’ influence on group-level safety climate; (4) recognition of the client’s role in safety climate formation. However, none of the existing safety climate measurement tools has addressed all the important features. The present study significantly contributes to existing knowledge by developing andvalidatinganew multilevelsafety climate measurement tool for the construction industry. The measurement tool is one of the first to consider safety responsibilities of various important safety agents along the whole construction supply chain. At an organizational level, the tool measures organizational safety responses of both the client and principal contractor. This study suggests that client’s organizational safety response(COSR)consistsoftwodimensions,i.e.theclient’soverall safety priority and the client’s safety actions. Principal contractor’s organizational safety response (PCOSR) is a one-dimensional factor, reflecting the global factor of management commitment to safety. At the group level, the tool measures supervisors’ safety response (SSR) and co-workers’ safety response (CWSR). A further review of the SSR scale revealed that supervisors’ safety response consists of two components, i.e. supervisors’ safety actions and supervisors’ safety expectations. The CWSR is a one-dimensional scale, indicating co-workers’ general safety values and practices. The tool also measures individual safety response (ISR), which provides a direct prediction of safety outcomes. Consistent with previous research, ISR comprises two components, i.e. safety compliance and safety participation.
+It is expected that the validated safety climate measurement tool would help construction organizations to diagnose potential weaknesses in their safety management practices for safety improvement and also help to develop a social and cultural work environment that is supportive of safety at all levels. In practice, an average safety response score can be calculated for each safety agent. This can be achieved by averaging mean scores of all questions relating to each safety agent. The average safety response score is an indication of each safety agent’s overall safety priority and safety effort. A relatively low average score (e.g. lower than 3 in the case of a five-point Likert scale) for a specific safety agent suggests the need to identify the safety aspects in which the safety agent is perceived to perform poorly. This can be achieved by examining the questions that are scored lowest for this safety agent. Then a consultation process would be useful to investigate why the safety agent has performed poorly in these aspects and what interventions can be implemented for safety improvement. Previous research also indicates that safety climate changes over the life cycle of a construction project (Humphrey et al., 2004). The safety climate measurement tool developed in this study also provides construction organizations with an opportunity to longitudinally assess safety climate in their construction projects to monitor the safety management practices and to identify any significant change in safety climate.
+One limitation associated with the study is the rewording recorded in the validation process. The rewording for some items was very slight and did not produce any significant impact on workers’ response as indicated by t-test results. However, significant decreases in mean scores were noticed for all items measuring co-workers’ safety response (CWSR) after the item wordings were changed from ‘My group members …’ to ‘Workers on the site …’. The significant decreases suggest that workers develop different understandings towards the co-workers in the immediate work group and other co-workers at the same project but outside their immediate work group. Researchers of future studies should carefully select the unit to be analysed to suit their specific research purposes,as differences in the unit of analysis have significant impact on workers’ response. It is recommended that the safety climate measurement tool be further validated in other construction organizations in New Zealand or the construction industries of other countries to achieve global reliability and validity. This study only performed scale development and validation without testing the links between the safety responses of different levels. Research is ongoing to employ the measurement tool to examine the chain of safety influences among safety agents at multiple levels in construction project organizations.
+Acknowledgements
+The Fonterra Co-operative Group worked jointly with RMIT to progress the development of climate survey tools to measure improved H&S performance on its construction sites. The time and involvement of Fonterra’s employees and contractors is gratefully acknowledged.
+No potential conflict of interest was reported by the authors.
+This research was jointly supported by the Fonterra Co-operative Group and Australian Research Council under Linkage Project Grant (LP120200440).

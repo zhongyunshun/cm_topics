@@ -1,0 +1,180 @@
+﻿Construction Management and Economics (1994) 12, 433—443
+Attributes of UK construction clients influencing project consultants' performance
+SIMON T. KOMETA, PAUL O. OLOMOLAIYE and FRANK C. HARRIS
+University of Wolverhampton, School of Construction, Engineering and Technology, Wulfruna Street, Wolverhampton WVI ISB, UK
+Received 20 August 1993; revised 20 January 1994
+Despite numerous efforts to understand construction clients and their priorities, evidence abounds to suggest that they are largely misunderstood and dissatisfied with the performance of their consultants and contractors. The perception of poor performance may not be attributed to the consultants alone. Perhaps the clients themselves do not possess the necessary attributes to secure a successful project performance. This paper describes a survey which set out to establish the relative importance of the attributes of clients' organizations which may influence project consultants' performance using the 'relative index ranking technique'. Project consultants were surveyed using a structured questionnaire as the main research tool and this was augmented by interviews. The most important attributes are financial stability of client (creditworthiness, current liabilities and current assets), feasibility of the project (project priorities, feasibility study and site conditions), past performance of client (cost overrun, quality achieved and time overrun), project characteristics (time for completion, type of project, cost of project and objectives/subobjectives) and client's duties (project definition/ formulation, planning and design and project finance). More successful projects may result if clients cultivate some of the attributes identified in this study.
+Introduction
+The influence of consultants and contractors on project outcomes has been variously investigated (Banwell, 1964; National Research Council, 1988; Russell and Skibniewski, 1988; Jaselskis and Russell, 1992). Factors which determine a successful project performance have also been identified (Hayfield, 1979, 1985; Morris and Hough, 1986; Ashley et al., 1987; Pinto and Slevin, 1988). However, most of these investigations have concentrated on consultants and contractors with little attention to how clients themselves may influence project outcomes. Obviously, how the client organizes and manages the project will have an impact upon subsequent project performance (Friend et al., 1974). It has been acknowledged that clients' attributes in particular and their general approach towards project management can have significant effects upon the achievement of project objectives from the points of view of all the parties involved in the project (NEDO, 1978, 1983).
+The importance of clients to the construction industry cannot be overemphasized. With the everincreasing competition in the construction business environment, a good consultant/client relationship has become very crucial. The future roles of client firms and construction companies have recently been highlighted by Halpin et al. (1993). The literature seems to suggest that clients' roles become increasingly important in large and complex projects such as industrial and petrochemical complexes. It has been observed by the Construction Industry Institute (1990) that some project managers working for clients lack strong management skills and experience. It is only prudent that the industry should aim to improve overall project performance and recognize the changing nature of clients from the traditional inexperienced clients to the sophisticated and experienced property developer/corporate clients.
+Whilst some investigations relating to a small range of attributes have been conducted on clients (Bryant et al., 1969; Friend et al., 1974; Stocks and Male, 1983), only Bresnen and Haslam (1991) have carried out a comprehensive study of the attributes of construction clients. Their study was, however, limited in size, sector, experience, management structure and project characteristics and mostly concentrated on contractual and project management practices in client organizations. This paper reports on a survey which established the relative importance of the attributes and subattributes of client organizations which may influence project consultants' performance.
+The attributes
+The objectives of the study required the identification of various attributes and subattributes of client organizations and project characteristics that may influence project consultants' performance. A review of American and British literature was conducted to identify these attributes and resulted in the identification of 10 main attributes and 47 subattributes. Table 1 shows the main attributes and their respective subattributes. Each is now briefly explained.
+The literature identified this as an important attribute motivating consultants to embark on a client's project. The consultant will be concerned that the client has the necessary funds to see the project through. Just as in any business organization financial stability of a construction client's organization depends primarily upon the following subattributes : current assets, creditworthiness and current liabilities (Foster, 1986).
+The feasibility of the project is an incentive for the consultant to work more confidently. Many clients embark on projects without paying enough attention to its feasibility. The feasibility of the project depends on the site conditions, client contribution to the feasibility study, client determination of project priorities and client appointment of personnel to be in charge of the feasibility study (NEDO, 1974; Corrie, 1991).
+Quality of management
+Table 1 Client related attributes and subattributes influencing project consultants' performance
+This refers to the managerial competency and quality of the client's organization. The better this is, the more confident the consultant will be when working with the client. The quality of management within the client organization is a function of client experience with project management, the qualifications of personnel, project auditing and quality assurance.
+Creditworthiness
+Feasibility study
+Quality of management
+Qualifications of personnel
+Quality assurance
+Organizational quality of client Organization of project team
+Coordination of project interphase Allocation of project responsibility Past performance	Current market conditions
+Project characteristics
+Quality achieved
+Client characteristics	Cost of project
+Type of client	Project complexity
+Size of client	Objectives and subobjectives
+Legal history
+Project definition and formulation	Construction activities
+Project finance	Types of projects
+Contracting	Experience of personnel
+Human factors
+Politics and social factors
+This simply refers to the degree of competence the client exercises in assembling the project. Project consultants will be very confident working with clients who are very experienced in this matter. Organizational quality depends on the client's organization of the project team, the co-ordination of the project interphase and the allocation of project responsibility (NEDO, 1974; CIOB, 1980).
+Past performance
+Most consultants prefer to work for clients with an established track record of past performance. Past performance depends on client cost performance (e.g. cost overrun due to design changes by client), client time performance, quality achieved, and the number of successful and unsuccessful projects completed (Mohsini and Davidson, 1992). Efforts by clients to improve project performance have largely been concentrated on contract documentation; see Naoum and Langford (1987) for management contracts and Rowlinson (1987) for design and build contracts. Client firms have yet to examine the impacts of their own performance on achieving project objectives.
+This refers to organizational features of the client such as type, size, structure, communication channels and litigation tendency. These features may influence the consultant's performance.
+Morris and Hough (1986) identified 10 'success' factors which should be present for any major project to be successfully executed. These factors have been adopted and formulated to represent the client's duties from the consultant's point of view. They are very general and are applicable to most projects. The duties and interest of a client who is actively involved in the project will include project definition and formulation, project finance, contracting, legal agreements, human factors, project implementation and management, politics and social factors, schedule urgency, schedule duration and planning.
+Project characteristics
+This refers to the features of the project including type of project, size, cost, complexity, objectives and subobjectives, time and location. These features may affect the consultant's performance (Corrie, 1991).
+Relevant past client experience of the type of proposed project could be an incentive to consultants. Past experience depends on the number of projects completed, the types of project, client involvement with construction activities (e.g. interest in the latest construction technology) and experience of client personnel (Russell and Skibniewski, 1988).
+Current market condition
+A study like this will be incomplete without looking at the condition of the economy. This refers to peaks and troughs in construction activities. The attitude of clients during these times may affect the performance of consultants.
+It is recognized that the attributes highlighted above may overlap and efforts have been made in structuring the questions to remove all ambiguities. A section of the questionnaire was devoted to explaining and defining each attribute. Whilst some subattributes may appear the same by name, they are uniquely connected to a main attribute. For instance, type of project appears both under project characteristics and past performance. In the former it refers to the project under consideration while in the latter it refers to the type of projects the clients have been involved with in the past.
+The first priority was to search for a sample of consultant firms to reflect the variation within the industry. Consultants selected had completed several contracts within the last 5 years and all have contracts currently in progress. To best capture the preferences of these firms, the people questioned were either the owner, chief director or departmental manager. The aims of the survey were
+1. to identify attributes in clients' organizations which (according to project consultants) are necessary for successful project performance;
+2. to evaluate the relative importance of the attributes and subattributes.
+The consulting firms were randomly selected from three main sources.
+The New Civil Engineer consultant file, 1993.
+The Royal Institute of British Architects 1992/93 list of practices.
+The Association of Consulting Engineers' list (the selection here was limited to building services engineering, civil engineering and structural engineering specialities).
+The data were collected via a structured questionnaire survey followed by a formal interview. A standard letter briefly explaining the survey along with the structured questionnaire were sent to 150 selected respondents. This was later followed by a telephone call. In all, 52 completed questionnaires were received. The informal method involved using personal networks and previously established relationships with senior members of the consultant's firms. The consultants were divided into private, public and multidisciplinary integrated firms and were considered to be very experienced because of the length of time they had been in the business and the number of projects they had completed. Of those contacted, 69.2, 7.7 and 23.1 0 0 of private, public and multidisciplinary integrated firms responded to the survey, respectively. The number of staff in these firms varies from those with one to five staff to those with over 51 staff (see Table 2).
+The questionnaire was an advancement on the Michigan Organisational Assessment Package (1975) modified to reflect the special characteristics of the British construction industry. The questionnaire asked for descriptive information about the firms such as the type and capacity and progressed to specific questions about the importance level of the 10 main and 47 sub potential attributes highlighted earlier. A scale of 1—7 was used to measure the effect of each attribute on the consultant's project performance, where ' I ' represented a low level of effect and '7' a high effect. The respondents were asked to check a number on the scale which reflected their assessment regarding the effect of these different attributes. The relative importance of the 10 main attributes affecting the consultant's project performance were assessed separately while the subattributes were assessed under their respective main attributes. The respondents were asked to evaluate the attributes and sub-attributes as follows.
+The relative importance of the main attributes.
+the financial stability of client
+Table 2 Respondents by size of practice
+Number of staff
+Percentage of respondents
+How will you rate the importance of this attribute in ensuring a successful project performance? (Project success defined as meeting the client's requirements and yours.)
+On a scale of 1—7, where I = very little
+importance, 7 = extremely important.) 2. The impact of subattributes on main attributes. (Example: the impact of current liabilities, creditworthiness and current assets on financial stability of client
+How will you rate the following subattributes in influencing the client financial stability? (i) current liabilities, (ii) creditworthiness and (iii) current assets.
+For each subattribute on a scale of 1—7, where I = bottom mark and 7 top mark.)
+Of those surveyed 34.7%) responded to the questionnaire survey. This is a very good response rate indeed considering the type of information required and the lukewarm response to the questionnaire survey generally.
+Characteristics of construction consultants surveyed
+The respondents to the questionnaire had completed 1452 projects, i.e. approximately 290 projects were completed every year within the last 5 years by the respondents. The length of time the consultants have been in the construction business varied from 6 to 60 years. The results indicate that the consultants who participated in the study have been in the business for a mean period of 28 years.
+The results indicate that private consulting firms are dominant in the market. Table 2 indicates that smallsized firms with 10 staff or less dominate the construction consultancy business in the UK. The small sized firms make up 61.6 0 of all consulting firms who responded to the survey. However, the fewer but bigger consulting firms (51 + staff), accounted for approximately half of all the receipts to consulting firms. Practice income from projects, i.e. commissions generally do not relate to the size of the practice but the project.
+The consultants as a whole have worked for a variety of clients. For convenience, client type has been categorized as follows: developer, private and public clients, who account for 43.2, 34.2 and 22.6 0 respec-
+Developer	Private	Public
+Figure 1 Type of client.
+tively of the consultant market (Fig. l). Developers commissioned more proj ects than any other client type. However, public clients (e.g. local and central government) account for approximately half of all the receipts to consulting firms. The data obtained, especially those relevant to the evaluation of the importance of the attributes affecting consultant's project performance are considered highly reliable because of the experience of the respondents.
+Clients' organizational attributes affecting project consultants' performance
+Participating consulting firms provided numerical scores of their opinion of the effect of each of the identified attributes on their ability to carry out a project successfully. These scores were then transformed to importance indices to determine the relative ranking of the attributes. The importance indices were calculated using the following formula:
+where w, is the weighting given to each factor by the respondents and ranges from 1 to 7 where '1' is the least important and '7' the most important, A is the highest weight (i.e. 7 in our case) and N is the total number of the sample.
+The importance index ranges from 0 to 1. The relative importance indices and ranking for the 10 main attributes, as separately assessed are shown in Table 3. Examining the indices, we can see that all the factors except the client's characteristics (i.e. type, size, structure, communication channels, etc.) scored 0.50 or more on the relative index scale. In fact, the client characteristics scored 0.49. Generally, consultants find these attributes very important for their project performance.
+Table 4 has been produced mainly to compare the subattributes among themselves using their relative importance indices. It also helps in the ranking of the subattributes under their respective attributes in cases where the subattributes have the same relative importance indices (see Table 5). Close examination indicates that all subattributes except the legal history of clients, client knowledge of contracting routes and the state of the economy (recession) scored 0.50 or more on the relative index scale. These subattributes scored 0.18, 0.47 and 0.49, respectively. With the exception of these three subattributes, all the others identified have very important effects on the main attributes and, hence, the project consultants' performance. Client creditworthiness, current liabilities, project planning and project definition/formulation are the most important to consultants. They all scored more than 0.80 on the relative index scale.
+In addition to the relative index scale, the percentage
+Table 3 Ranking of the main attributes of client's organization affecting consultant's project performance
+Attributes	Percentage of	Relative	Rank respondents scoring	importance
+Feasibility of project
+Financial stability of clients
+Project characteristics
+Past performance
+Current market conditions
+Quality of management
+Client characteristics
+a Equal relative importance indices ranked in accordance with the percentage of respondents scoring 5 or more.
+Table 4 Subattributes of client's organization affecting consultant's performance
+Subattributes	Percentage of	Relative respondents scoring	importance
+Project definition and formulation
+Client creditworthiness
+Client determination of project priorities
+Quality achieved in past projects
+Client contribution to project feasibility study
+Client project financing
+Type of project
+Allocation of project responsibilities
+Project implementation and management
+Cost of the project
+Number of successful projects completed
+Number of unsuccessful projects
+Project complexity
+Politics and social factors
+Type of client
+Number of projects completed
+Human factors
+Involvement with the construction industry
+Organization of project team
+Client experience with project auditing
+Coordination of project interphase
+Economic boom
+Types of projects completed by clients
+Size of client
+Client knowledge of contracting routes
+Legal history of client organization
+a Equal relative importance indices placed in accordance with the percentage of respondents scoring 5 or more.
+of respondents scoring 3 or less, 4 (the midpoint) and 5 or more on the developed scale was calculated for each of the attributes and this was used to rank the attributes where their relative importance indices are equal. The interval scale was transferred into a nominal scale, i.e. a score of 3 or lower represents a weak effect on the consultant's performance, a score of 4 represents a moderate effect and a score of 5 or more represents a strong effect (see Fig. 2).
+Table 5 shows the relationship between the main and the subattributes. The overall index and, hence, rank of the main attributes were calculated from the relative importance indices of the subattributes. Consider 'financial stability' ; its subattributes, i.e. credit-worthiness, current liabilities and current assets have relative indices of 0.84, 0.81 and 0.78, respectively (Table 5). These subattributes give us a mean index of 0.81 (i.e. (0.84+0.81 +0.78)/3). This then represent the overall index for 'financial stability' (Table 5). The overall indices calculated are then used to rank the main attributes as shown in Table 5.
+Analysis and discussion of the results
+Taking the relative indices as an aggregate measure of importance of the attributes, financial stability ranked highest amongst the attributes affecting consultant's project performance with an overall index of 0.81. Since consulting firms are profit-seeking organizations in a predominantly economic world, this ranking should not be surprising. Singularly, this factor ranked second (Table 3), but with relative ranking of its subattributes achieved a first position overall. The subattributes enhanced the importance of this main attribute. The subattributes are creditworthiness, current liabilities and current assets which ranked first, second and third, respectively (Table 5). The creditworthiness of clients is far more important to consultants than the other two subattributes because banks could provide overdraft facilities to clients if they run into financial diffculties. The importance of financial stability and its subattributes in the running of any business organization had previously been recognized by Foster (1986), Russell and Skibniewski (1988) and Pilcher (1992).
+Project feasibility
+Of the attributes identified, 'project feasibility' ranked second with an overall relative index of 0.71 (Table 5). Under project feasibility the subattributes: project priorities, feasibility study, site condition and appointment of personnel ranked first, second, third and fourth, respectively (Table 5). Clear indication of project priorities and client contribution to the feasibility study are very important to consultants as recognized earlier by Walker (1989) and Gruneberg and Weight (1990).
+Past performance
+With an overall index of 0.70, past performance of client was ranked the third most important attribute affecting project consultant's performance. Considered separately this attribute was ranked fifth (Table 3), but when the effects of the subattributes were included it then achieved an overall third ranking. The subattributes include quality achieved (0.73), cost overrun (0.73), time overrun (0.71), number of successful (0.68) and unsuccessful projects completed (0.66), ranking first, second, third, fourth and fifth, respectively. Quality achieved and cost overrun with the same relative index of 0.73, were separated by the percentage of respondents scoring 5 or more; 76.92 0 0 for the former and 69.23% for the latter (see Table 4). Quality achieved which was ranked the first subattribute may be explained by the traditional desire for quality designs by consultants. This is good for the image of the firm and may help to attract more clients. Cost overrun due to design changes by the client was ranked second, because it is the main cause of problems during the design process and even during construction. It may result in serious disruption to a consultant's or contractor's work progress.
+Project characteristics
+The consultants ranked 'project characteristics' fourth with an overall index of 0.66. Considering the effects of the subattributes, its overall ranking remained fourth. The characteristics of a project which are a function of time, type of project, cost of project, objectives and subobjectives, complexity, size and location are very crucial to the project success (Lock, 1987; Walker, 1989). The most important subattributes here are time for completion, type of project and cost which ranked first, second and third, respectively (Table 5).
+This was ranked the fifth most important attribute affecting consultant's performance with an overall index of 0.65. This importance was earlier recognized by Morris and Hough (1986). The most important subattributes are project definition and formulation, planning and design and project finance which ranked first, second and third, respectively. The least important subattributes are client involvement in legal agreements and contractual matters. The respondents in this survey seemed to indicate that clients are not very conscious of
+Table 5 Relationship between the main and the subattributes
+Attributes/subattributes	Relative importance index of subattributes
+Overall index for main attributes
+Overall rank of main attributes
+Creditworthiness
+Project feasibility
+Feasibility study
+Past performance
+Quality achieved
+Project characteristics
+Type of project
+Objectives and subobjectives
+
+Project definition and formulation
+Politics and social factors Schedule urgency
+Human factors
+Contracting
+Allocation of project responsibility
+Organization of project team
+Co-ordination of project interphase
+Project completed
+Experience of personnel
+Types of projects
+Quality of management
+Quality assurance
+Table 5 (Continued)
+Ranks of subattributes
+Overall index for main attributes
+Overall rank of main attributes
+Current market conditions
+Economic boom
+Type of client
+Size of client Legal history
+x mean index of subattributes giving overall index of main attributes.
+a Equal relative importance indices ranked in accordance with percentage of respondents scoring 5 or more (see Table 4).
+Score of 3 or less indicates a Moderate	Score of 5 or more indicates weak effect on performance	effect	a strong effect on performance
+the legal implications of the contracts they enter into with consultants. The consultants possibly take advantage of this and do not often take the initiative to explain to their clients the procurement and contractual routes available to them (NEDO, 1988). The relative indices of these subattributes legal matters and contracting, 0.52 and 0.47, respectively, still accord them some importance.
+This was ranked sixth with an overall relative index of 0.60. The manner in which the client organizes and conducts the project affects the consultants' performance and indeed any other party involved. The subattributes are allocation of project responsibility, organization of project team and co-ordination of project interphase which ranked first, second and third, respectively. Allocation of project responsibility ranked the first subattribute because it is very important for all the parties involved in the project to know their roles and thereby reduce conflict amongst the parties. It also gives consultants some confidence that their clients know what they are doing. Organization of project team ranked second because construction projects always required several teams to work together. The way these teams are organized should be of interest to all the parties involved in the project including the consultant. Good team work should improve the project performance. The co-ordination of project interphase which ranked third is also important because the various parts of the project have to be co-ordinated to produce an integral whole. For instance, the design part may perform well in terms of time, cost and quality but the performance of the project as a whole may be jeopardized if the parts are not well co-ordinated to produce an integral whole.
+Consultants ranked 'past experience' of the client seventh with an overall relative index of 0.57 (Table 5). The lower ranking of this factor is surprising. It would be expected that consultants would accord this factor more importance because the past experience of the client will often influence the project operation. However, relative to the other factors discussed above, it probably deserves this position because in as much as consultants prefer to work with experienced clients, they are also willing to work with new clients provided they are actively involved with the project. The subattributes are number of projects completed, experience of client personnel, client involvement in construction activities and types of projects completed, ranking first, second, third and fourth, respectively. Number of projects completed and experience of client personnel with the same relative index of 0.59 were separated by the percentage of respondents scoring 5 or more (see Table 4). Number of projects completed ranked first because the more projects the client completes the more the experience in construction matters. The same reasoning applies to 'experience of client personnel' which ranked second. 'Types of project' ranked fourth, 442
+which is surprising as consultants are only experienced in certain types of project. This ranking may be justified in the current recession as consultants may be tempted to enter into new market areas.
+This was ranked eighth with an overall relative index of 0.55. The lower ranking of this attribute is surprising; perhaps consultants do not expect clients to be involved in the management of their projects! However, Bresnen and Haslam (1991) found that increasingly more clients are involved with the management of their projects. As such, their managerial quality cannot be overlooked. The subattributes are qualifications of client personnel, client project management, project auditing and quality assurance, ranking first, second, third and fourth, respectively. Qualifications of client personnel ranked first because the training obtained by them would be reflected in their managerial competence.
+This attribute ranked ninth with an overall index of 0.52. Do construction clients take advantage of consultants during troughs of construction activities when they know that consultants are desperate for work? It is not uncommon for construction professionals to accept work from clients which is literally burning their hands during an economic recession (Nunn, 1993). The subattributes are economic boom and recession ranking first and second, respectively.
+Client characteristics
+This attribute was ranked tenth with an overall relative index of 0.51 (see Table 5). This indicates that client characteristics are the least important of the identified attributes affecting the consultant's performance. The subattributes are communication channels, type of client, structure, size of client and legal history of client ranking first, second, third, fourth and fifth, respectively. Communication channels which ranked first is highly important to consultants because this is the only means through which the client's needs and requirements could be appreciated. Legal history of client which ranked fifth is the worst rated of all the subattributes, probably because the consultants need not fear litigation if they know they will perform well.
+Recent interest in client organizations reflects a concern that decisions taken within the system have significant Kometa et al.
+effects on construction project performance. Certain attributes associated with client organization also affect the consultant's performance and, hence, the construction project performance. These attributes have been identified and evaluated in the structured survey reported in this paper. All the main attributes scored more than 0.50, the midpoint on the relative index scale implying that they are indeed very important to the consultants' performance on the projects. The most important attributes are financial stability of client (creditworthiness, current liabilities and current assets), feasibility of the project (project priorities, feasibility study and site condition), past performance of client (cost overrun, quality achieved and time overrun), project characteristics (time for completion, type of project, cost of project and objectives subobjectives) and client's duties (project definition and formulation, planning and design, and project finance).
+In summary, these findings signify the following.
+Client performance is not a single attribute issue, it depends on a number of closely interrelated but very important attributes.
+Financial stability is paramount, but obviously not a dominant client attribute. Its ranking index was only 0.1 less than the next attribute which is project feasibility.
+Each main attribute consists of importance-contributing subattributes. If the importance contributing subattributes of a main attribute changes its overall relative importance will also be affected.
+Future work will be directed at evaluating client organizations using the attributes identified. This will be done on two levels with the main attributes representing level 1 and the subattributes level 2. This could be further developed as an expert system or decision support system in consultants' evaluation of their risk exposure to construction clients.

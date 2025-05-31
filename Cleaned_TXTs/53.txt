@@ -1,0 +1,207 @@
+To cite this article: Mei‐Yung Leung , S. Thomas Ng & Sai‐On Cheung (2004) Measuring construction project participant satisfaction, Construction Management and Economics, 22: 3, 319-331, DOI: 10.1080/01446190320000000000
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (March 2004) 22, 319–331
+MEI-YUNG LEUNG1*, S. THOMAS NG2 and SAI-ON CHEUNG1
+1Department of Building and Construction, City University of Hong Kong, Tat Chee Avenue, Kowloon Tong, Hong Kong
+2Department of Civil Engineering, The University of Hong Kong, Pokfulam Road, Hong Kong
+Received 7 January 2003; accepted 20 August 2003
+Construction projects involve numerous stakeholders, and their satisfaction could directly influence the performance of subsequent projects. Driven by a desire to improve project success, the critical satisfaction factors pertinent to the construction management process should be identified. In this paper, an overall study regarding the behavioural management mechanisms amongst project participants is presented. Eleven behavioural management mechanisms are identified and 15 hypotheses are established for this study. The concepts of satisfaction, project goals, various management mechanisms and their interrelationships are discussed and investigated in relation to construction projects. The results indicate that management mechanisms rather than particular project goal could directly affect the participant satisfaction. Cooperation/ participation, task/team conflict and goal commitment are the critical factors influencing the final outcome (satisfaction) in the complicated management process. Moreover, conflict on the task amongst the participants is the moderation mechanisms for the relationship between goal commitment and participant satisfaction. There is a significantly positive relationship between commitment and satisfaction in construction project management, while high level of conflict is stimulated in the goal setting process amongst the participants.
+Project management, participant satisfaction, conflict, commitment, co-operation/participation
+Introduction
+Construction is a service industry that involves the acquisition of a capacity to produce rather than merely purchasing a finished product (Winch et al., 1998). The management of a project, therefore, plays a significant role in ensuring services are delivered in accordance with the client’s requirements. While much research effort has been directed to measure the effectiveness of project management processes (Pinto and Slevin, 1988; CIOB, 1994; Walton, and Dawson 2001), success remains a complicated attribute to quantify as the accuracy of such measurement depends largely upon the method adopted to gauge the success of a project team in accomplishing a project. Project outcomes, which could loosely be referred as successful or failed, are usually measured by comparing the project with certain pre-defined goals expressed in terms of time, cost and quality (Ashley, 1986; Handa and Adas, 1996; Chan et al., 2001). However, since the goals of one
+*Author for correspondence. bcmei@cityu.edu.hk
+construction project are often different from another, it would be difficult for assessors to express satisfaction based on project goals as they could be influenced by various extrinsic and intrinsic rewards as well as environmental, task and subscriber variables.
+Another way of measuring project success concerns the satisfaction of participants (Murphy et al., 1974; Baker et al., 1983; Pinto and Slevin, 1988; Sanvido et al., 1992). Liu and Walker (1998) evaluated project outcome in two levels: project success and participant satisfaction. The valence of project success is dependent on the instrumentality used to relate to participant satisfaction. Despite some discussions on the satisfaction of construction participants (Fraser, 2000; Holm, 2000; Cheung et al., 2001), these studies generally concentrated on the limited managerial points, such as customer loyalty, leadership and effectiveness. This paper aims to (1) identify the management mechanisms in construction projects; and (2) focus on the relationships between various management mechanisms and the perceived participant satisfaction in construction projects.
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online © 2004 Taylor & Francis Ltd
+Psychologists and philosophers believe that, by gauging the discrepancies between the goal level (the level that is set) and performance level (the level that is achieved), the level of satisfaction can be established (Lewin et al., 1944). With due reference to the psychological value, goal setting and process satisfaction theories, a cyclical Value-Goal-Outcome (V-G-O) model was proposed by Leung and Liu (1998) and Liu and Leung (2002). The V-G-O model reveals that value and goal could be affected by previous experience (evaluated satisfaction) and might subsequently influence the expected goal and final outcome. In this paper, a goal is considered as a cognitive representation of value while decision making is a process to enable the value being transformed to a goal. Both values and intentions (goals) are important cognitive determinants of behaviour (Locke, 1968); therefore, it is postulated that values and goals possess similar mechanisms for influencing the project outcome (e.g. level of satisfaction).
+Values can be influenced by three major components: participants, project and environment. Since the environmental component is beyond project team’s control, the current study focused on participants and project components only. It is generally believed that the use of appropriate management mechanisms plays an important role in the entire management process, and through which the goal setting process and participant satisfaction could be improved. The relationship between the construction management mechanisms and participant satisfaction is therefore a subject of investigation in this paper. Knowing that goal setting goal is to look for the ‘best’ value (and turning it into a goal) based on previous experiences, particular authority, communication and co-operative/ participative decision making, while latent conflict can be stimulated/solved and specific goals can be devised through higher participant commitment, 15 hypotheses as shown in Table 1 were established for this study.
+Project goal must be properly established so as to ensure the client’s objectives are clearly transmitted (through the project manager) to and fully understood by the design team members. Researchers pointed out that formal and clear communication channels/networks are needed to warrant an efficient information transfer (Champagne and McAfree, 1987; Walker, 1996; Lievens and Moenaert, 2000). Therefore, an increase in communication amongst the client, the project manager and the project team members in the goal setting process are hypothesized as related to participant satisfaction (refer to H1 in Table 1).
+Table 1	Hypotheses between behavioural mechanisms and participant satisfaction in the construction management process
+
+Hypothesis 1
+Hypothesis 2
+Hypothesis 3a
+Hypothesis 3b
+Hypothesis 3c
+Hypothesis 4a
+Hypothesis 4b
+Hypothesis 4c
+Hypothesis 4d
+Hypothesis 4e Hypothesis 5a
+Hypothesis 5b
+Hypothesis 6
+Hypothesis 7a
+Hypothesis 7b
+Increasing the degree of communication amongst the project participants, the higher the participant satisfaction
+The higher the authority (client and project manager) in the goal setting stage, the higher the participant satisfaction
+Higher co-operation and participation amongst the project participants in the goal setting process leads to goal specificity in the goal setting process
+Higher co-operation and participation amongst the project participants in the goal setting process leads to higher goal commitment
+Higher co-operation and participation amongst the project participants in the goal setting process leads to higher participant satisfaction
+The more specific the client’s requirements, the more specific the goal The more specific the client’s requirements, the higher the goal commitment The more specific the goal, the higher the goal commitment.
+The more specific the client’s requirements, the higher the participant satisfaction
+The more specific the goal, the higher the participant satisfaction
+The higher the task conflict amongst time, cost and quality of task, the higher the team conflict amongst project participants in the goal setting process
+When the team conflict in the goal setting process is high, the association between the goal commitment and the participant satisfaction is significantly positive in a goal setting process involving high task conflict but, the relationship is significantly negative in a goal setting process involving low and moderate task conflict only
+The higher the goal commitment in the goal setting process, the higher the participant satisfaction
+Participants with more construction experience lead to goal specificity
+Participants with more construction experience lead to higher participant satisfaction
+Power and authority could be exerted to influence the outcomes (Bowditch and Buono, 1994; Griffin and Moorhead, 1995). Although one who has authority does not necessarily guarantee to influence others persistently,
+it can shape the style of facilitation and the hierarchical relationship. Therefore, the availability of authority (established by clear hierarchical organizational structure) in turn contributes to the systematic goal setting process and, subsequently, improves the participant satisfaction; and a hypothesis (H2) was established (refer to Table 1).
+Participation through frequent group discussions could increase co-operation and team spirit and results in greater knowledge (Champagne et al., 1987). Various degrees of participation and co-operation by the project parties during the value-goal process would affect the final outcome (satisfaction), as the co-operation and participation may influence their expected value (goal). The suggested hypotheses highlight that the higher the co-operation and participation, the more specific the goal (H3a), the higher the goal commitment (H3b) and the higher the participant satisfaction (H3c) (refer to Table 1).
+Values and goals may be implicit and largely unspecified, quantitatively or qualitatively, or they may be quite explicit when made reference to the defined targets and quotas. While specificity in client’s requirements influences the project goal during the goal setting process, goal specificity defines the targeted level of project performance. Specifically assigned client requirements before the project commences could assist the participants to specify the goal, while specific values would guide the performance towards successful project outcome(s) through specific goals and hence improve satisfaction (Rahim and Bonoma, 1979). As a result, three corresponding hypotheses (i.e. refer to H4a, H4d and H4e in Table 1) were established.
+Previous studies have proven that a more specific goal (based on the assigned or participative goal setting) could elevate the interest, motivation and even performance (Locke and Bryan, 1967; Ivancevich, 1977). It is postulated that project goal specificity at the commencement of project enhances participants’ commitment and facilitates clear cognised decision making by the participants throughout the project realization stage (refer to H4b and 4c in Table 1).
+Conflict is affected by previous experience (evaluated satisfaction) and it influences the expected goal and final outcome (Leung et al., 2002). As the current study is limited to the level among participants and project components, a hypothesis (H5a) was established for the relationship between task conflict and team conflict in the goal setting process. Conflict provides an opportunity for project participants to think through ideas, produce higher quality solutions, deliver better performance and improve organizational effectiveness (Hoffman, 1959; Rahim and Bonoma, 1979). Higher team and task conflicts can stimulate and solve the conflict amongst the project participants at the goal setting stage. Therefore, it was hypothesized that the relationship between the commitment and satisfaction is dependent on the conflict moderation mechanisms in the goal setting process (refer to H5b in Table 1).
+High performance will only occurs when an individual is committed to the goal (Erez and Zidon, 1984), and commitment to a particular goal is also fruitful to the goal setting process. Goal commitment relates to the individual’s motive to reach the goal, since motive is defined as a disposition to strive for a particular kind of goal state or aim or kind of satisfaction (Atkinson, 1983). Therefore, a positive relationship between the goal commitment and the participant satisfaction is hypothesized (refer to H6 in Table 1).
+Feedback plays an important role in the management process, Participants (client and project team) with successful construction experience and performance in previous projects can contribute valuable comments to the project. They can also specify the goal in the goal setting process and subsequently improve the participant satisfaction. Two hypotheses are assumed for the relationships between the construction experience, goal specificity and the participant satisfaction (refer to H7a and H7b in Table 1).
+In sum, it is hypothesized that the participant satisfaction is dependent on the management mechanisms throughout the construction project, including the communication (H1), authorities (H2), requirements’ specificity (H4), co-operation (H3), conflict amongst project participants (H5), goal specificity (H4), goal commitment (H6) and previous experience and performance of project participants (H7).
+
+A questionnaire survey was adopted to identify component elements of research variables followed by detailed analyses of project cases involving project management. In this study, three methods, namely factor analysis, correlation and moderated hierarchical multiple regression, were employed to test the hypotheses. This paper reports the findings of the survey, i.e.: (1) to define the measurable factors used in the hypotheses (by factor analysis); and (2) to test the hypotheses based on the analysed factors (a group of variables) and individual variables (by correlation and hierarchical multiple regression).
+Factor analysis was used to group the variables into meaningful factors (i.e. a factor-reduction process) and to determine the variables associated with the management mechanisms. This allowed the authors to study the total pattern of relationships between all of the variables (v.1–v.39).
+Correlations were then applied to test the established linear relationships amongst the hypothetical variables (Buffardi et al., 2000; Friedman et al., 2000). The correlation coefficient measures the strength or degree of a supposed linear association between two variables.1 Therefore, correlation was applied to test the linear relationships for all hypotheses except hypothesis 6b.
+With regard to hypothesis involving moderator effects (hypothesis 6b), moderated hierarchical regression analysis was used to test the hypotheses that incorporate the hypothesized moderator variables (Duffy et al., 2000; Rahim et al., 2000). Hierarchical moderated regression is an analytical procedure that determines the extent to which the potential moderator variable (e.g. task conflict and team conflict) interacts with predictors (commitment) in the prediction of the criterion (participation satisfaction).
+Identification of research variables
+A questionnaire related to the management mechanisms and the project outcome was designed on the basis of: (a) project details (e.g. time and cost) (Walker, 1980); (b) 42 variables related to the seven management mechanisms (refer to Murphy et al., 1974; Locke and Latham, 1990; Rahim and Bonoma, 1979), and (c) perceived satisfaction (Murphy et al., 1974; Liu and Walker, 1998). These questions are indicated in Table 2 as v.1 to v.39. Since the critical success factors normally concern time, budget and quality for the project (Barrie, 1980; CIOB, 1994) and client and team members for the project participants (Baker et al., 1983; Pinto and Slevin, 1988), the variables in the questionnaire were designed mainly to relate to these major variables (e.g. the authority of the client and project team to authorize cost overruns/ overtime/relaxed specifications; specificity in the client’s requirements for budget/time; conflict amongst ‘client vs. consultants’ for team conflict and amongst ‘time vs. cost’ for task conflict) (refer to Table 2).
+To facilitate respondents in answering the subjective questions related to project success, an ordinal scale was adopted to capture professionals’ perception as to the management mechanisms and satisfaction variables. The positions of the adjectives at the poles were varied to avoid the responses from being bias, (e.g., not all ‘good’ on the right) (Fellows, and Liu 1997). Adjectives used by Murphy et al. (1974) were modified for this particular research to describe the extremes of each dimension (see Table 2).
+The targeted respondents were project team participants identified from the membership records of various local professional institutions with direct experience in the key project decision-making processes involving the client/end-users and other project team members, and they must have experience in a (perceived) successful project.
+The questionnaires were administered by post or by fax. A total of 90 questionnaires were returned, representing 36% of the 250 sample. Of which, 75 were fully completed representing a response rate of 30% in terms of usable data. A total of 64% of the selected projects were funded by government, while the remaining 34.7% and
+Table 2	Descriptions of the hypothetical variables in the research
+Satisfaction
+
+Assigned specificity
+Task conflict
+Team conflict
+Goal specificity
+Perceptive overall satisfaction on a Likert scale of 1–5 (satisfaction-dissatisfaction)
+Ratio of deviation between estimated budget and final cost to estimated budget
+Ratio of deviation between original period and actual period to actual period
+Construction experience of client and project team on a Likert scale of 1–5 (very little -a great deal)
+Previous performance of client and project team on a Likert scale of 1–5 (unsatisfactory -excellent)
+Authorities of client and project manager on a Likert scale of 1–5 (very little– a great deal)
+In comparing with other works, nature of the proposed project on a Likert scale of 1–5 (very unfamiliar–very familiar)
+Specificity in client’s requirements on a Likert scale of 1–5 (very vague–very clear)
+Co-operation and participation amongst project participants on a Likert scale of 1–5 (very inadequate–very adequate)
+Frequency of project meetings on Likert scale of 1–5 (almost never–very often)
+Conflict between time, cost and quality on a Likert scale of 1–5 (very little–a great deal)
+Conflict amongst client, project manager and project team members (very little– a great deal)
+Specificity of project goal on a Likert scale of 1–5 (very vague–very clear)
+Goal commitment of client, project manager and team members on a Likert scale of 1–5 (very inadequate–very adequate)
+Identification of management mechanisms
+In order to test the relationships between the management mechanisms and the satisfaction variables for construction projects, the data collected was first factor-analysed by varimax rotation to establish the principal components of the variables. The major factors observed among the variables in the questionnaire are highlighted in Table 3.
+Except for client specificity (v.4) and goal specificity (v.39) which share a relatively low loading (0.434 and 0.517) with the goal specificity factor (F10), the results indicate that the items are generally loaded on appropriate factors as discussed in the ‘management mechanisms’ section. Specific project schedule supports project participants’ commitment on the project goal, while clients often provide a basic specification to the project team for goal setting based on practical experience and previous performance. The two variables (v.4 and v39) are thus allocated into the factors with the highest loadings (i.e. F1 and F10 respectively).
+It is interesting to note that two task conflict items (v.28 and v.29) share a relatively low loading (0.311 and 0.383) on the team conflict factor (F9); three team conflict items share a relatively low loading (0.339, 0.403 and 0.478) on the task conflict factor (F8). Since this research focuses on the participants and the project elements in the management processes, conflict amongst project elements (time, cost and quality) and conflict amongst participants (client, project manager and project consultants) are adopted and grouped as ‘task conflict’ and ‘team conflict’ respectively.
+Based on the above results, the variables were grouped according to the eleven factors being hypothesized as influencing the project outcome (time, cost and perceived satisfaction). Based on the previous discussions related to the components of value, the eleven factors can then be catalogued further in two main sets: task-related and team-related groups (see Table 4).
+Inter-relationship between management mechanisms and satisfaction
+By referring to the results of factor analysis, the preliminary major variables being grouped in each factor were summed for the initial data analysis. In this study, stepwise regression method was firstly employed to investigate the participant satisfaction caused by management
+specificity
+Task conflict
+Team conflict
+F10 Goal specificity
+v.15 Specificity in client’s requirements for budget
+v.16 Specificity in client’s requirements for schedule
+v.17 Co-operation between project manager and client
+v.21 Frequency of project meeting’s report to client
+v.22 Frequency of feedback from client
+v.23 Frequency of project meeting with client & project team
+v.24 Conflict in client’s requirements between schedule and specification
+v.25 Conflict in goal setting between budget and specification
+v.27 Conflict in goal setting between schedule and specification
+v.29 Conflict in goal setting between budget and schedule
+v.30 Conflict in goal setting between client and project team
+v.32 Conflict in goal setting between project manager and project team
+v.33 Specificity in goal setting for forms of contract
+v.34 Specificity in goal setting for project specification
+v.35 Specificity in goal setting for detailed design
+v.36 Project manager’s goal commitment towards the project
+v.37 Client’s goal commitment towards the project
+v.38 Project team’s goal commitment towards the project
+cumulative variance = 79%; Kaiser-Meyer-Olkin Measure of Sampling Adequacy = 0.603; and Only factor loadings greater than 0.300 are shown in the table.
+Task-related group
+Team-related group
+F5 Assigned basic value specificity
+F8 Tast conflict
+F10 Goal specificity
+Experience and performance
+mechanisms during the goal setting process (cf: Pallant, 2001; Morgan et al., 2001). The optimized regression model could be derived when the t-values of the included (or excluded) variables are higher (or lower) than the threshold value. Table 5 shows the results of regression analyses, in which participant satisfaction was regressed against all eleven management mechanisms factors. Team conflict (F9) was negatively entered into the equation at first, which were followed by goal commitment (F11) positively. The results reveal that team conflict (F9) and goal commitment (F11) are predominantly associated with the level of satisfaction in construction projects (36.1% of variance).
+Table 6 helps to explain the overall inter-relationship among the management mechanisms and participant satisfaction. In Table 6, the intercorrelations of two project goals (time and cost), the eleven factors of management mechanisms and the satisfaction for the (perceived) successful construction projects are presented. The results show that there are 196 meaningful correlations.
+Despite the fact that replies were based on successful projects, the results in Table 6 indicate that most of the projects had been completed beyond the budget (+0.5% of contract sum) and time (+14% of contract period). Amongst the three project outcome variables, ‘time’ tends to correlate with participant satisfaction (at significance level of 0.013), but it only yields 0.300 of correlation coefficient. This means that ‘completion on time’ is more important to the construction participants than ‘completion within budget’. However, both variables are not the major variables influencing the perceived satisfaction level for project participants.
+Using simple correlation, client’s authority (F2) has a strong relationship (r = 0.447 at a significance level of
+0.000) with project manager’s powers (F3). However, both authorities do not affect the project outcome (completion on time, completion within budget and completion with participant satisfaction). Therefore, hypothesis 2 should be rejected.
+The results of correlation indicate that only the experience and previous performance of project participants (F1) tends to affect the project outcome in terms of cost, while 6 out of 11 management mechanisms could influence the participants’ satisfaction. Experience and previous performance of project participants (F1), project nature (F4) and communication amongst the participants (F7) do not directly relate to the overall participant satisfaction, but they influence the level of satisfaction through other management mechanisms such as task and team conflict, co-operation/participation and commitment. In contrast, goal commitment (F11; r = 0.485) and co-operation/participation (F6; r = 0.403) are strongly related to participant satisfaction (p < 0.001). The results provide empirical support to hypotheses 3c and 6, while the hypotheses 1 and 7b are not supported by the results directly.
+Figure 1 shows the results for the overall model based on the above results. This model mainly concentrates on the interrelationships between the project goals, management mechanisms and participants’ satisfaction with the construction projects.
+The above results show that there is a significant correlation between the client assigned specificity and project goal specificity (r = 0.330 at a significance level of 0.004). In accordance with the results shown in Table 6, goal specificity (F10) and assigned specificity (F5) tend to correlate with the participant satisfaction (p < 0.05), but the correlation coefficients are not as strong (r < 0.300). The goal specificity is related to co-operation/ participation amongst the project participants (F6; r = 0.438 at significant level of 0.000), while both value specificity and goal specificity have correlation with the goal commitment (F11; r = 0.369 and r = 0.527 at significance levels of 0.001 and 0.000 respectively). Thus, the hypotheses 3a and 4a–4c are supported, while the hypotheses 4d–4e have insufficient support in the study.
+These factors measure the extent to which conflicts arose during the goal setting process on a construction project. On the other hand, there is a strongly positive relationship between the two types of conflict (r = 0.610
+Table 5	Regression model for the prediction of participant satisfaction
+at significance level of 0.000). Increased team conflict (F9) can stimulate increased task conflict (F8), and vice versa (hypothesis 5a). Both task conflict and team conflict do not only have significant negative correlations with participant satisfaction (r =−0.400 and r =−0.486 respectively, at a significance level of 0.000), but also have negative correlations with the level of co-operation/participation (F5; r =−0.304 and r =−0.380 at a significance level of 0.008 and 0.001 respectively) and commitment (F11; r =−0.358 and r =−0.304 at a significance level of 0.002 and 0.008 respectively). This shows that conflict (task and team) on construction projects is excessive and has limited potential to increase the participant satisfaction. The complicated relationships amongst the task/team conflict, co-operation/participation, commitment and satisfaction (hypothesis 5b) have to be tested by Hierarchical Multiple Regression method.
+Co-operation amongst the project participants in the decision making process (F6) is strongly related to the participant satisfaction with the construction projects (r = 0.403 at a significance level of 0.000). Co-operation amongst the project participants and decision participation by the project team members are more likely to occur on projects that emphasize follow-on and an internal build-up of capability. It is less likely to occur on project where over-optimistic budgets and schedule forecasts have been made at the outset. The results in this study show that co-operation and participation factors are negatively related to the task/team conflict, but positively and significantly correlated with goal specificity (F10; r = 0.438 at a significance level of 0.000) and the goal commitment (F11; r = 0.497 at a significance leve of 0.000). All hypotheses related to the co-operation (hypotheses 3a–3c) are, thus, supported.
+As discussed, goal commitment has a significant positive relationship with client specificity, co-operation/participation and goal specificity; and a negative relationship with the task and team conflict in the management process. In comparing with other management mechanisms, goal commitment (F11) has the strongest correlation to participant satisfaction (r = 0.485 at significance level of 0.000); thus, hypothesis 6 is supported. The basic concept of project management is to look for the best goal through participative decision making where latent conflict (task and team) can be stimulated/solved and specific goals can be devised with higher participant commitment.
+Regression model indicates that team conflict and commitment are the key variables to predict participant satisfaction, while the correlation coefficient reveals that co-operation/participation (F6), task and team conflict (F8 and F9) and commitment (F11) have strongly significant relationships with participant satisfaction. These four management mechanisms are thus further considered to be the major factors influencing the satisfaction of project professionals.
+Figure 1	Hypothesized model for the relationships between management mechanisms and satisfaction
+Significant postive relationships;
+Significant negative relationships;
+**p < 0.01; or ***p < 0.001 (2-tailed)
+The question that remains is whether the interactions of the management mechanisms, especially the four major factors, are significantly and positively related to participant satisfaction on construction projects. To evaluate Table 7 Results of hierarchical regression analyses
+Satisfaction
+Two-way interactions
+Three-way interactions
+Co-operation (F6)
+Task conflict (F8)
+Team conflict (F9)
+F6, F8 F9 and F11 refer to Table 2; and *p < 0.05; **p < 0.01 and ***p < 0.001 (2-tailed)
+this, three-stage hierarchical multiple regression were performed. The analysis began by entering four major management mechanisms (co-operation/participation, task and team conflict and commitment) individually at
+followed by a set of two-way interactions; and finally by a set of three-way interactions. The results of regression models are shown in Table 7. Non-standardized coefficients and changes in explained variance were then examined.
+The final step in the above hierarchical regression model shows that the three-way interaction between task conflict (F8), team conflict (F9) and commitment (F11) is significantly associated with participant satisfaction (B = 6.01E-03, ∆R2 = 0.05, p < 0.01). Using procedures suggested by Peters et al. (1984), graphical interpretation was applied to identify the significant interactions between the three hypothetical variables (F8, F9 and F11) and participant satisfaction (also refer Duffy et al., 2000; Rahim et al., 2000). To clarify, the hypothetical variables were labelled and scaled to low, moderate and high levels. Since a linear relationship is assumed between commitment and satisfaction and the moderate level of task/team conflict induces the higher participant satisfaction, commitment and conflict variables were scaled from low to high levels and from low to moderate and high levels respectively. For the task and team conflict (F8 and F9) independent variables, the respective low and high levels indicates that the conflict in the goal setting process is insufficient and excessive stimulation respectively, while a moderate level presents appropriate conflict stimulation in the decision process (generally rating 3 on the 5-point questions). For the commitment variable (F11), a low level means that the participants do not have sufficient commitment to the goal, while a high level indicates that they have great/full commitment to the decision (generally rating 3 or 4 on the 5-point questions). The plotted interaction, split into 3 two-way interactions as low, moderate and high team conflict, is shown in Figure 2.
+When team conflict is low (Figure 2a), there is a positive, but not significant, relationship between commitment and satisfaction in the goal setting process with either low or moderate task conflict. When team conflict is increased (moderate level) in the goal setting process, there is a marginally significant positive relationship between commitment and satisfaction. However, the levels in the goal setting process with low or moderate task conflict are nearly constant across commitment (Figure 2b). In support of hypothesis 5b, the plotted interaction (Figure 2c) shows that when the team conflict in the goal process is high, commitment and participant satisfaction are significantly and positively related in a
+goal setting process involving high task conflict, but that are significantly and negatively in a goal setting process with moderate task conflict.
+Based on the result in the stepwise regression model, the amount of conflict and the degree of goal commitment among project team members are merely the independent management mechanisms to predict the level of participant satisfaction in construction projects. However, correlation coefficient and hierarchical regression model further reveal that there are interrelationships among various management mechanisms in the goal setting process and project participant satisfaction.
+The results of this study support the relationship between management mechanisms and participants in the management process, except for H1, H2, H4d-4e and H7b. Table 8 summarizes the results of hypothesis tests, while Figure 1 captures the direct relationships confirmed by this study.
+Generally, a project is regarded as successful if the building is delivered at the right time, at an appropriate price and when the quality standards are met. From the above findings, project goals in terms of time and/or
+Figure 2	Three-way interaction predicting participant satisfaction
+----- Low level task conflict (F8);
+…… Moderate level task conflict (F8); and —— high level task conflict (F8)
+Table 8	Summary of hypotheses and findings
+Relationship
+
+
+
+
+
+
+
+
+
+
+
+Interaction
+
+
+
+
+Authorities and participant satisfaction
+Specificity
+Goal specificity and goal commitment
+Goal specificity and participant satisfaction
+Task conflict and team conflict
+Task/team conflict, goal commitment and participant satisfaction
+
+Experience and performance
+Experience/performance and goal specificity
+Correlation
+Correlation
+Correlation
+Correlation
+Correlation
+Correlation
+Correlation
+Correlation
+Correlation H.M.Reg
+Correlation
+Correlation
+budget do not relate to the participants satisfaction. The results indicate that project management related to the behavioural aspect is perceptively considered as the most important point by the professionals. This paper focuses on the participants and project components of values and goals in the management process. The findings in Table 6 indicate that the authority of client and project manager have no influence to participant satisfaction, while a task-related variable (task conflict) and three team-related variables (co-operation/participation, team conflict and goal commitment) clearly correlate with participant satisfaction. Figure 1 illustrates that management mechanisms create interrelationships in the overall management process, especially during the goal setting process. For example, co-operation/participation correlates with the task/team conflict, goal specificity and goal commitment; task/team conflict relates with co-operation/ participation, communication and commitment, etc. Some of the variables (e.g. previous experience/performance, specificity and communication) do not directly relate to the final outcome (participant satisfaction), but they affect the satisfaction level through the other task-related or team related variables, (e.g. conflict, co-operation/participation and goal commitment amongst participants).
+The results of correlation reveal that four management mechanisms are essential variables directly influencing participant satisfaction, and these include the task conflict amongst project goals (time, cost and quality), co-operation/participation, team conflict amongst project participants (client, project manager and project team members) and participants’ commitment to particular goal. Amongst these four major mechanisms in the management process, it is also found that the task and team conflict and goal commitment have interaction effects in the goal setting process. High task and team conflict in the goal setting process can significantly improve the positive relationship between commitment and participant satisfaction in the management process. Under a difficult situation (higher task and team conflict), higher satisfaction will be gained finally if the participants choose the goal and perform it in the implementation process. In contrast, higher dissatisfaction will be obtained if they really do not want to commit to difficult teamwork. In the management process, conflict provides an opportunity for the participants to think through ideas, reinforce commitments, provide better performance and improve final outcomes (satisfaction). Project managers need to instigate conflict for the task when there has strong commitment amongst the participants. In contrast, the conflict has to be reduced amongst the participants for weak commitment within the team.
+Conclusions
+It is difficult to represent participant satisfaction merely based on the project goals in terms of time/cost. Satisfaction is an affective state reached by the individual through attainment of certain goals (success) which gives rise to rewards. It is more important to project success than meeting any particular project objectives. Construction professionals participate in the project throughout the cyclical value–goal processes at design and construction stages. The results indicate that management mechanisms rather than particular project goal directly affect the participant satisfaction.
+Various management mechanisms in the goal setting process were identified as influential to participant satisfaction. The results of correlation analysis indicate that power/authority is not the key element influencing the project outcome/participant satisfaction, but most of the management mechanisms are interrelated in the management process. Co-operation/participation, conflict and commitment were found to be strongly correlated to direct participant satisfaction. Moreover, this study also unfolds the interrelationship between team conflict and goal commitment in predicting participant satisfaction in a group context: the group operates differently depending on the task conflict level of team members. Perhaps the most significant finding of this study is that high commitment attenuates the negative effects of a difficult situation (high task and team conflict) on participant satisfaction. To ensure an optimal performance (or outcome) in the construction project management process, goal commitment amongst different construction stakeholders would be a key management mechanism that deserves more thorough investigations.
+Acknowledgement
+The work described in this paper was fully supported by a grant from CityU (Project No. 7001388).

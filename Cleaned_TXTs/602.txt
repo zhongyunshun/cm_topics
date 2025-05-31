@@ -1,0 +1,207 @@
+Public–private partnership projects in Greece: risk ranking and preferred risk allocation
+To cite this article: Athena Roumboutsos & Konstantinos P. Anagnostopoulos (2008)
+Public–private partnership projects in Greece: risk ranking and preferred risk allocation,
+Construction Management and Economics, 26: 7, 751-763, DOI: 10.1080/01446190802140086
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (July 2008) 26, 751–763
+Public–private partnership projects in Greece: risk ranking and preferred risk allocation
+ATHENA ROUMBOUTSOS1* and KONSTANTINOS P. ANAGNOSTOPOULOS2
+University of Aegean, Greece
+Democritus University of Thrace, Xanthi, Greece
+Received 21 July 2007; accepted 18 April 2008
+Project participants, through experience, have an initial perception and predisposition towards risk and the types of risks they are willing and able to undertake. This is equally true for parties interested in public–private partnership (PPP) projects. These initial positions have been registered for the major Greek PPP market stakeholders potentially involved in a PPP arrangement through a survey covering all candidate construction companies, interested financing institutes and a number of public sector entities to be involved in PPPs. Findings revealed that stakeholders were, for the majority of risks identified, in agreement as to preferred risk allocation. Risk allocation preferences for construction companies were compared with similar findings for the UK, a mature PPP market, indicating a possible learning/maturing process based on the particular country background. Conclusions add to other surveys carried out on the subject and should enable public sector clients to establish a more efficient framework for risk allocation, thus reducing negotiations prior to contract award and minimizing the risk of poor risk distribution.
+Public–private partnerships, risk allocation, stakeholders.
+Introduction
+As reported by the European Investment Bank (EIB,
+Public Private Partnerships (PPP) are risk sharing investments in the provision of public goods and services, seen by governments as a means to launch investment programmes, which would not have been possible within the available public-sector budget, within reasonable time.
+How risk is shared (allocated) between the parties involved (the public and private sector) is central to the PPP arrangement in terms of definition (Peters, 1998 defines risk sharing as one of the five characteristics of a PPP arrangement), contract negotiation (Loosemore et al., 2006 propose established rules concerning risk allocation and contract negotiation), achievement of value-for-money (as justified by Amos, 2004; Dewatripont and Legros, 2005; Grout, 2005) and overall project success
+(Chapman, 1997). It is common knowledge that a lot of management time is spent in contract transaction, lengthy delays in negotiation and high participation costs (Tiong et al., 1992; Spackman, 2002).
+Identifying the risk allocation preferences of the parties involved can contribute in minimizing these costs (Simon et al., 1997).
+The identification of risk preferences prior to project procurement and contract negotiation is important in project ex-ante evaluation, confirming value-for-money for the public sector and robust revenue flows for the private sector (Grimsey and Graham, 1997; Grimsey and Lewis, 2002). Research on PPP risk issues (i.e. identification, assessment and allocation) reports findings concerning mature PPP markets. The analysis of case studies, usually on a national level has been seen by academia and development institutions (Songer et al, 1997; Spackman, 2002; Thomas et al., 2003; de Lemos et al, 2004; Queiroz, 2005; PPIAF, 2006; Singh and Kalidindi, 2006; Ng and Loosemore, 2007 and others) as a means to assist in PPP success by presenting the most pronounced risks and best
+*Author for correspondence. athena@aegean.gr
+practices in risk allocation.
+Construction Management and Economics
+ISSN 0144-6193 print/ISSN 1466-433X online # 2008 Taylor & Francis
+Few references concern smaller and/or developing markets which constitute the coreof the European Union (EU). The EU Guidelines (2003) proposing that (1) the agent that bears the risk should be the one best able to influence and control the risky outcome; and (2) the risk should be borne by the agent able to bear the risk at the lowest cost, may not be an efficient tool when two risk-averse agents (the public and the private sector) negotiate. On the other hand, the importance of reported case studies and their effectiveness as tools for future application and estimation of market evolution is limited by the absence of comparisons between PPP markets.
+The objective of the present paper is to address the aforementioned gap and contribute to the knowledge base of risk allocation in PPP projects by presenting findings regarding preferred risk allocation of prime stakeholders, i.e. the public client, the construction companies and the financing institutes, and their respective risk ranking in the Greek PPP market. A comparison is made, on a national level, to completed PPP projects in Greece and, on an international level, with reported risk allocation preferences in the UK, a country with the largest PPP market in the European Union. The object of these comparisons is to identify possible trends and the potential for knowledge transfer from mature PPP markets to developing and between developing markets.
+
+According to classical decision theory, risk is generally understood to be the distribution of possible outcomes, their likelihood, and their subjective values (March and Shapira, 1987). Some researchers, such as Chapman and Ward (2002), Flanagan and Norman, (1993) and Pilcher (1985), have proposed the term ‘uncertainty’ (initially suggested by Knight in 1921) in order to describe the situations in which there are no historical data, where in contrast ‘risk’ can be used in situations where success or failure is determined in probabilistic quantities by benefiting from previous available data. The risk attitude of a project participant will determine the course of action taken in the face of risks (Smith et al., 1999). An individual or organization can be risk neutral, risk prone or risk averse. The position towards risks is flexible and depends on the type and nature of risks being faced and by their respective magnitude. In general, risk-averse behaviour is demonstrated when the downside consequences are high, and attitudes can change over time and depend on circumstances. When the impact of risk is small, construction organizations tend to be risk prone. However, as the aggregate value of risk increases, they increasingly become risk averse. As risk perception is connected to behavioural patterns, risk perceptions are also seen to be country specific, i.e. connected to national culture (Thomas et al., 2003; Roumboutsos and Striagka, 2004). Akintoye and MacLeod (1997) presented findings supporting that the UK construction industry is mostly risk averse. Contractors transfer risks to their domestic and specialist subcontractors and mitigate them through insurance premiums. In many cases the initial disposition towards risk is the starting point for risk allocation in PPP arrangements. This forms the conceptual basis of the survey conducted.
+With respect to project risks, the issue concerns risk assessment, i.e. risk identification and evaluation estimated by attaching a probability of occurrence and an impact if realized to each identified risk, followed by the PPP participant’s decision to bear the risk, share it or transfer it to the other party. In other words, risk allocation is a primary measure of assignment between the project’s direct participants, that is, between the public and private sector, excluding end users. In terms of risk identification various classifications and categorizations have been proposed in the literature.
+Many researchers have offered detailed risk registers and have assessed the respective importance of these risks. UNIDO (1996) developed a checklist classifying risks under two major categories (general/country risks and specific project risks). Political risks, commercial risks and legal risks are classified in the first category, whereas construction/completion risks and operating risks fall into the second category. A checklist of risks of PFI projects in the UK is also presented by Hardcastle and Boothroyd (2003). Salzmann and Mohammed (1999) have presented a risk allocation framework for international BOOT projects based on four super factor groupings: host country, investors, projects and project organization. Thomas et al. (2003) surveyed risk allocation in BOT road projects in India and found that the principle of ‘the most capable party for managing the risk should assume it’, was often not respected owing to the difference of risk perception among the project participants. Ibrahim et al. (2006) studied risk allocation in Nigeria. Wang et al. (2004) proposed a register for developing countries. Finally, Kapila and Hendrickson (2001) and Xenidis and
+Angelidis (2005) looked into risk allocation of financial risks. Decision frameworks are considered as a means of supporting the risk allocation task. A decision framework for BOT projects was proposed by Ozdoganm and Birgonul (2000). Grimsey and Lewis (2004) proposed a risk analysis and investigation framework. Elbing and Devapriya (2004) offered a risk management process to achieve value for money in public–private partnerships. Ng and Loosemore (2007) highlight the drawbacks of inappropriate risk allocation and propose a respective framework. Kumaraswamy and Zhang (2001) looked into the government role of BOT infrastructure. Finally, the application of risk management tools is proposed by Dey and Ogunlana (2004).
+Fewer studies have investigated the prime stakeholder risk perceptions (assessment) and risk allocation preferences. Akintoye et al. (1998) carried out research on risk assessment/prioritization for private finance initiative (PFI) projects in the UK. The top most important risk factors identified (based on a survey among clients, contractors and financial institutions) were design risk, construction cost risk, payment risks and tendering costs. Land acquisition, debt risk, bankers’ risk, and political risks were found to be the least important. In a survey concerning the allocation of risk, Li et al. (2005) found that the public sector partner should retain site availability and political risks, relationship risks, force majeure risks, while the risk of legislation changes should be shared by both parties; the majority of the remaining project risks, especially the ones directly connected to the project itself should be allocated to the private sector. These latter references constitute the basis of comparison between the Greek and the UK cases.
+Research method and survey description
+Research method
+The most widely used method for evaluating and ranking risks is through a risk register matrix where a certain impact and a probability of occurrence are assigned to each identified risk. The technique is highly subjective as both estimates depend on the estimator’s experience and risk behaviour (averse, prone or neutral) as well as a number of other pertaining attributes such as a person’s beliefs, attitudes, judgment and feelings, and, also, educational background, practical experience, available information, peer group influence, etc. However, within an individual environment they may be used for risk prioritization (Ward, 1999) and preferred allocation. This method was used in a survey conducted in Greece during the winter of 2004–05 to register risk allocation preferences of private and public entities interested in PPP projects in Greece and risk prioritization by completing a respective questionnaire during personal interviews. In particular, the stakeholder groups addressed were: construction companies, financiers (banks) and ministries interested in promoting PPP infrastructure within their scope of activities.
+The aim of the survey was to register decision makers’ perceptions of registered risks associated with PPPs and to this end a single questionnaire was completed per entity (construction company, bank or ministry) by the respective top level personnel responsible during a face-to-face interview. Regardless of the reservations concerning this approach to risk estimation, principally based on the fact that estimations are biased, the status of the respondents (general managers, managing directors, company owners, etc.) justified their use as they are the final decision makers and it is their risk perceptions that will be negotiated in a plausible contract negotiation procedure. Furthermore, the results were not used as absolute values but for a ranking activity. Respondents were requested to state their risk estimations (probability of occurrence and impact) and then allocate the risk to the public or private sector or otherwise state it as a risk to be shared. The task was carried out without any specific reference to a particular project and therefore estimations and preferences were made regardless of project type and construction budget level. Thus, findings indicate stakeholders’ a priori perception of risk and risk allocation preference. As most companies undertake projects in particular sectors, project type was not considered to influence responses. The budget level, however, is considered to have an influence on risk averseness and consequently on risk allocation, as the more adverse the behaviour the greater the tendency to transfer risk to the other party. A rather risk-averse behaviour of the private sector was anticipated as PPP projects completed in Greece were over one million euros in construction cost.
+The risk register used in the survey was based on the one proposed by Li et al. (2005) as it included most risks identified in the literature and the results of the respective survey concerning risk allocation were explicitly published allowing for the comparison. The register was extended to include country-specific risks, such as archaeological findings. For each risk figuring on the register, the interviewee was requested to: N assign an estimated probability of occurrence (0– 100%), also expressed in a 1 to 5 qualitative Likert scale (where 15very slim probability of occurrence to 55almost certain to occur);
+N estimate the impact of the risk described on a scale of 1 to 5 (where the impact was negligible, impact51, with no serious influence on the project to catastrophic (impact55), where the project would be aborted).
+The ranking of risks was derived by calculating the risk assessment as the product of the level of probability of occurrence and the level of impact for each respondent. Finally, each respondent was asked to allocate the described risk to either the private or the public sector, or describe it as preferably ‘shared’ between the public and private sector.
+The survey response rate by the targeted stakeholder group is presented in Table1. The overall response rate (i.e. representatives willing to be interviewed and complete the questionnaire) was 52%. However, in absolute values the sample size is relatively small and includes unequal groups of respondents. Regardless of sample size, the responses correspond to the core of stakeholders already involved or potentially involved in PPP projects in Greece.
+One hundred per cent of the Greek-based banks interested in PPPs responded to the survey, namely the National Bank of Greece, the Commercial Bank, Alpha Bank and Eurobank. The European Investment Bank (EIB), because of the bank’s great involvement in PPP projects, was also included in the survey with a focus on the Greek market. The responses of the latter were not weighted, though it might have been reasonable considering the bank’s contribution.
+The identification of key persons in a position to respond to the questionnaire in the Greek public sector was a task of considerable difficulty. One major problem stemmed from the fact that the government was preparing the Greek legislation concerning PPP project procurement and most government officials were reluctant to express opinions pending legislative developments. Major ministries were targeted intensely. These included the Ministry of Finance and Economics and specifically the Head of the PPP taskforce, the Ministry of Public Health, the Ministry of Education, the Ministry of Internal Affairs, the Ministry of Public Works. Only three ministries responded to the request for an interview. It should be noted that to date there are no government guidelines with respect to the ex-ante or ex-post evaluation of a PPP project nor any concerning risk allocation.
+Finally, construction companies targeted were those classified under class 6 and 7 by the Greek Ministry of Public Works as these, having the respective construction experience and financial background, are the only
+Universe population
+ones eligible to undertake PPP projects. It should be noted that, at the time—today there is a different classification—in Greece there were seven classes and a newly established construction company with no experience entered the register at class 1 and was allowed to undertake low budget, and consequently (in most cases) low technical difficulty works. Questionnaires were addressed directly to the company heads and followed by interviews for additional information and/or clarification. The objective was to register ‘company’ rather than individual opinions.
+The survey was conducted following the Athens 2004 Olympic Games, in a very turbulent business environment of recession for the Greek construction industry. Of the 61 companies classified under the 6th and 7th construction class in the 2004 Ministry register, only 42 were found to remain in operation. This was due to a number of mergers that took place immediately after, or just before the completion of works (Olympic Games infrastructure and supporting works) between consortium members. Nineteen construction companies participated in the survey, i.e. a response rate of 45%. The respondents are presented in Table2. The respondent companies were all highly reputable in Greece (two are included in the top 100 European companies listing) and active in most construction sectors. The stated field of expertise included buildings, ports, transportation, power and energy, water and sanitation.
+As depicted, the majority of the respondent companies were established before 1990; 36% have an annual turnover of more than J50million, while 85% of the companies interviewed claim that most of their turnover is generated through public contracts. Thirteen companies have more than 100 employees; 68% of the companies surveyed had participated in a PPP Table 2 Respondent construction companies’ profile
+
+Year of establishment
+Number of employees
+Average annual turnover in JMillions
+% of turnover originated from public sector
+procurement procedure. Half of these companies (54%) were involved in a completed PPP project.
+Presentation of survey results and discussion
+The presentation of results herewith constitutes statistical descriptive analysis carried out using the statistical package for social sciences (SPSS). The responses given by the three groups of prime stakeholders interviewed were tested for the null hypothesis (i.e. that means between groups do not differ significantly) using non-parametric tests suitable for small and unequal sample group sizes (see AppendixI). Data analysis indicated that risk allocation preferences were not significantly influenced by the stakeholder group. In other words, there was agreement as to which risks should be undertaken by the private sector and which by the public sector and, finally, which should be shared. Risk allocation preferences are presented as stated by stakeholder group. Moreover, the null hypothesis was found to be valid between the PPP experienced and non-experience respondents of the construction sector, allowing this group to be viewed as one. The preferences of the Greek construction sector are also compared to those registered in the UK study conducted by Li et al. (2005). Finally, risk assessment was found to differ between groups. The prioritization is presented herewith and compared, where possible, with the UK findings presented by Akintoye et al. (1998).
+Risk allocation preferences
+The preferred risk allocation options are presented as total counts of participant responses. Three risk allocation categories are identified:
+(1) Risks that should be allocated to the private sector (as identified by more than 50% of the respondents).
+(2) Risks that should be allocated to the public sector (as identified by more than 50% of the respondents).
+(3) Risks that should be shared between the public and private sector (as identified by more than 50% of the respondents).
+When comparing risk allocation preferences across the stakeholders groups, the following risk allocation is voluntarily agreed upon:
+Risks to be allocated to the public sector
+The risks to be allocated to the public sector as depicted in Table3 are: all political (three) and legal (three) risks, as well as risks concerning archaeological findings. Additionally, project selection (two) risks may be assigned to the public sector as both the public sector and the financial institutions are in agreement, while the private sector has no clear preference. This makes a total of nine risks to be assigned a priori to the public sector.
+Risks to be allocated to the private sector
+All groups were in agreement that construction (five), operation (four), relationship (six) and third party (two) risks are better handled by the private sector. In addition to these risks, all parties agreed that project finance risks and design risks, with the exception of availability of finance and permits, respectively, should also be assigned to the private sector. Consequently, 22 risks, as noted in Table4, are by common preference assigned to the private sector.
+Table 3	Risks allocated to the public sector by Greek PPP stakeholders
+Construction companies	Public sector (ministries) (%)
+Financing institutions
+Poor public decisionmaking process
+Change of legislation
+Change in tax regulation
+Change in construction legislation
+Project selection
+Archeological findings
+Table 4	Risks allocated to the private sector by Greek PPP stakeholders
+Construction companies	Public sector (ministries) Financing institutions
+Risk factor
+Lack of private sector experience in PPPs
+Financial attraction of project to investors
+High finance costs
+Application of innovative techniques
+Construction
+Construction cost overrun
+Contract variation
+Poor quality of workmanship
+Operational revenues below expectation
+Maintenance costs higher than expected
+Maintenance more frequent than expected
+Relationship
+Inadequate distribution of responsibilities and risks
+Inadequate distribution of authority in the consortium
+Differences in working methods and know-how between partners
+Lack of commitment from either partner
+Third party
+Third party liability
+Staff crises
+PB5public sector, PR5private sector, SH5shared.
+Risks to be shared:
+Five risks under the category of macroeconomic (poor financial market and influential economic events), natural (force majeure and environment) risks and public opposition (Table5) were stated by the majority of stakeholders by group as preferably shared by the public and private sector.
+Finally, eight risks could not be included in any of the above categories as there was either no prevailing preference within the stakeholder group or consensus between the stakeholder groups as to the party to undertake the risk. These risks would most probably be negotiated. This group (see Table6) includes risks the private sector has little influence over such as volatility of inflation and interest rates, land acquisition, delays in project approvals and permits, etc.
+Risks, for each group, i.e. construction companies, public sector and financing institutions, were assessed based on the mean value of probability of occurrence (mean valueg[1,5]) and impact (mean valueg[1,5]) and ranked accordingly based on the product (probability of occurrence6impact). In this sense, the ‘risk assessment product’ is a number in the range [1, 25]. The same rank was assigned to risks presenting the same assessment product. Consequently, a number of risks may share the same rank and, thus, the rank range for each stakeholder group is not the same. Hence, construction companies’ ranking ranges from 1 to 25, public sector ranking ranges from 1 to 13, while the financing institutions’ ranking ranges from 1 to 23. Ranks referring to the public sector and financial
+Table 5	Risks to be shared by the public and private sector
+Public sector (ministries)	Financing institutions
+Macroeconomic	Poor financial market	17
+Social	Public opposition to the	29 project
+PB5public sector, PR5private sector, SH5shared.
+Geotechnical conditions
+
+Project selection
+Project finance
+Availability of finance
+Delays in project approvals and permits
+PB5public sector, PR5private sector, SH5shared.
+institutions should be treated with caution as the number of respondents is extremely small. Table7 presents the top 20 risks identified by the construction sector and these are compared with the assessment of the public sector and the financial institutions, respectively.
+As in the case of the UK PPP stakeholders (Akintoye et al., 1998) and as anticipated by the data analysis nonparametric tests (see AppendixI), each party places a different importance on each risk, depending on each party’s ability to handle the particular risk. Notably, all risks directly connected to the public sector, i.e. approvals, decision making, legislation changes ranked high by all respondents.
+In Greece, public decision making and approval processes are considered to be the most risky issues to be confronted by all stakeholders. Project-specific risks, with the exception of project cost overrun, were considered of lesser importance. Other political risks are not identified in Greece (unstable government or political opposition), though public opposition is feared. Archaeological findings rank high, as there is always a high possibility of such events and they have great impact on project schedule and cost. Surprisingly enough, even after the positive experience of two major PPP projects by the Greek construction sector, namely the Athens Ring Road and the Rio–Antirrio Bridge, the limited experience of the public and private sector still figured within the top 20 risks. Finally, the emphasis financiers place on changes in legislation is notable.
+When compared to the UK findings (Akintoye et al., 1998), the only equally important risk is that of construction cost overrun, while the primary risk perceived by the UK construction sector is design efficiency. Finally, risk ranking in Table7 is accompanied by the findings concerning risk allocation. More specifically, by common consensus between stakeholders seven risks in the list are best undertaken by the public sector, nine by the private sector and three should be shared. However, four risks in the listing (including the most important one) are under negotiation.
+Comparing risk allocation preferences
+Comparison with the three major Greek PPP
+When comparing the previously described preferred allocation of risk, with the risk allocation as defined in the contracts of the three major Greek PPPs (Greek Law 2445/961 (Government Issue A 274 of 16/12/ 1996), Greek Law 2338/952 (Government Issue A 202 of 14/9/1995), Law 2395/963 (Government Issue A 71 of 24/4/1996), Law 2395/96 (Government Issue A 71
+Table 7	Risk ranking by the Greek PPP stakeholders
+Construction sector
+Financing institutions
+Risk allocation
+Delays in project approvals and permits
+
+Poor public decision-making process
+Construction cost overrun
+Change in tax regulation
+Operational revenues below expectation
+Operation cost overrun
+Poor financial market
+Financial attraction of project to investors
+Availability of finance
+
+
+Public opposition to the project
+Lack of private sector experience in PPPs
+Archeological findings
+
+Change of legislation
+Change in construction legislation
+High finance costs
+
+Organization and coordination risk
+Maintenance costs higher than expected
+of 24/4/1996)), i.e. the Athens International Airport, the Athens Ring Road and the Rio–Antirrio Bridge, a maturing process may be identified as the private sector is more apt to undertake risks, while the public sector is likely to pass on risks, which in the previous PPP contracts it undertook.
+More specifically, the only actually shared risk in all three contracts was force majeure, while other risks were allocated, more or less, as they would have been if they were traditional contracts (Anagnostopoulos et al., 2006). All other risks identified as shared in this survey were undertaken by the public sector. In addition, as regards the major risk of project demand or revenues, the survey indicated an agreement by all parties that it should be undertaken by the concessionaire. In the previous PPP contracts project revenues were guaranteed by the public sector.
+It is worth noting that all parties (public and private) involved in the above-mentioned PPP projects participated in the interview, indicating that a shift in risk allocation preferences has taken place possibly due to a learning/maturing process.
+Comparing the Greek to the UK construction sector risk allocation preferences
+As stated in the introduction, a principal aim of the reported survey is to identify whether a potential of knowledge transfer exists between countries (and markets). To this end the questionnaire was designed to be fully comparable with findings presented by Li et al. (2005). In addition to comparing market trends, the presented comparison may also be used to identify the level of common disposition towards risks and, hence, provide an indication of the potential to collaborate.
+Greek and UK construction companies are in agreement concerning the allocation of 22 risks (Table8). Five risks are allocated to the public sector. These include political risks, land acquisition and permits. Sixteen risks, under the categories of construction, operation, relationship and third party, as well as design, financing risks and residual risks, with the exception of delays in permits and finance availability, respectively, are undertaken by the private sector. Finally, the only agreed upon shared risk is force majeure.
+On 15 risks the Greek and UK construction sector did not agree on the preferred risk allocation (Table9). These included all macroeconomic risks, natural risks (excluding force majeure) and finance availability, for which the UK construction sector accepted responsibility while the Greek sector preferred as shared. In addition, legal risks and project demand were regarded by the Greek construction sector as the sole responsibility of the public sector while the UK sector viewed them as either shared (change in legislation) or the sole responsibility of the private sector. Finally, three relationship risks were
+Table 8	Shared risk allocation preferences of the Greek and UK construction sector
+Greek construction co.
+Greek construction co with PPP experience (%)
+
+Unstable government
+Poor public decision-making process
+Project selection
+Delays in project approvals and permits
+Financial attraction of project to investors
+High finance costs
+Construction
+Construction cost overrun
+Poor quality workmanship
+Operational revenues below expectation
+Maintenance costs higher than expected
+Maintenance more frequent than expected
+Relationship
+Organization and coordination risk
+Differences in working methods and know-how between partners
+Third party
+Third party liability
+Staff crises
+PB5public sector, PR5private sector, SH5shared, UK PR PPP respondents5UK private sector PPP respondents (Li et al., 2005).
+considered by the Greek construction companies as their responsibility as opposed to the UK sector, which preferred to share them.
+It is evident that Greek construction companies show a greater degree of risk averseness expressed in avoiding risks their UK peers would undertake or at least share. This may stem from particular country experience, as there is negative historical background concerning macroeconomic uncertainty, legal changes bearing a significant impact on project costs. Natural risks are equally high in Greece. Very dramatic geotechnical conditions may have an enormous impact on project design and cost (not always foreseen through geotechnical surveying), while the normally good weather conditions leave little space for foreseeable abnormally bad conditions. Finally, in contrast with the UK sector, the Greek sector has full understanding of the limitations of the public sector and, when involved in PPP projects, is willing to take full responsibility for the partnership risks.
+When comparing the risk allocation preference of the construction companies as a whole to the subgroup of participants previously involved in PPP projects (Table9), it is interesting to note that this subgroup is more favourable as to the risks to be undertaken by the private sector. One interpretation may be that there exists a learning process and through this the private sector is more prone to undertake risks, or that the operating PPP projects have provided sufficient confidence. It should be noted that in the major PPP contracts in Greece (i.e. the Athens International Airport, the Athens Ring Road and the Rio–Antirrio Bridge) most of the risks were absorbed by the public sector. Along the same lines, the UK construction sector, in principal, shares the views of the Greek PPP experienced subgroup and stated a preference in undertaking risks that were described as shared by the Greek respondents, indicating more risk-prone behaviour or a greater confidence in the procedure.
+Table 9	Difference in risk allocation preferences between the Greek and UK construction sector
+Greek construction co. (%)
+Greek construction co. with PPP experience (%)
+
+Change of legislation
+Change in construction legislation
+Geotechnical conditions
+
+Project selection
+Availability of finance
+Relationship
+Inadequate distribution of responsibilities and risks
+Inadequate distribution of authority in the consortium
+PB5public sector, PR5private sector, SH5shared, UK PR PPP respondents5UK private sector PPP respondents (Li et al., 2005).
+Conclusions and further research
+Contributing to the knowledge base of risk assessment and allocation in public–private partnerships in smaller and/or developing markets, a survey was conducted in Greece registering the risk assessment and preferences of prime stakeholders (i.e. ministries, construction companies and financing institutions).
+Stakeholder groups were found to be, principally, in agreement concerning risk allocated to the prime parties (i.e. private and public sector). More specifically, stakeholder groups agreed on the allocation of 31 (of 44 total) risks to either the public sector (nine risks) or the private sector (22 risks), while five risks were proposed to be shared between the contracting parties. For eight risks there was no consensus. These included inflation and interest rate volatility, geotechnical conditions, weather, land acquisition, availability of finance, residual risks and delays in project approvals and permits. In general, the construction sector in Greece is reluctant to undertake risks directly connected to the public sector decision-making process. Though mostly expressing riskaverse behaviour, the private sector is accepting most of the responsibility for project-specific risks and all those concerning organizational issues.
+As opposed to risk allocation, the importance assigned to risks differed considerably between the stakeholder groups, the only exception being the top two risks, i.e. delays in project approvals and permits and poor public decision-making process. The prevailing conclusion is that issues connected to the public sector present serious obstacles to the development of a PPP sector in Greece. Therefore, public sector clients should be more prepared to address these issues.
+The comparison with published survey results from the UK, a developed PPP market, indicated a maturing process as to the risks construction companies (private sector contra part) are willing to undertake. This indication was enhanced by the comparison with completed PPP projects in Greece and the risks allocated, at the time, to the private sector. However, an equivalent finding was not identified concerning the importance of risks (ranking) possibly indicating that country-specific influences are not the risks per se but the importance local stakeholders attach to them.
+This remark, if supported by similar studies, has interesting ramifications when considering knowledge transfer and cross-national and regional PPP projects (e.g. transport projects) promoted by the European Union and the European Investment Bank in the smaller member states.
+Finally, the identified risks’ attributes concern the stakeholders’ initial disposition towards risk and do not provide any indication of possible change over time and project stage. This is becoming an increasingly important field of interest as it forms the basis for ensuring value for money and the introduction of real options in PPP contracts.
+The authors would like to thank the anonymous referees for their helpful and constructive comments.
+Gratitude is due to the respondents for participating in the survey.
+
+Law 2445/96 (Government Issue A 274 of 16/12/1996) amendments P.D. 3/98 and P.D. 75/99: Concession scheme between the Greek Public (Ministry of Public Works) and Atiiki Odos S.A.
+Law 2338/95 (Government Issue A 202 of 14/9/1995): Contract approval for the New Athens Airport at Spata, formation of the company ‘International Airport of Athens S.A.’, approval of environmental plan and other decrees.
+Law 2395/96 (Government Issue A 71 of 24/4/1996): Approval of Concession Scheme and three party agreements for the planning, construction, financing and exploitation of the Rio–Antirrio Bridge, environmental plan and other decrees.

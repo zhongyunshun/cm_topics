@@ -1,0 +1,179 @@
+Delay Mitigation in the Malaysian Construction Industry
+This paper describes the importance of applying proper management in dealing with delays in construction for a growing economy. The main objective of this paper is to identify the management tools that are practiced in the local construction industry in mitigating delay. It also aims to identify the main factors that lead to project delays and to suggest recommendations on how to overcome or mitigate effects of the problem. Data is gathered from responses from questionnaire survey and interviews with those involved in construction project. The surveys and research findings indicate that delay incidents occur mainly during the construction phase of a project and one or more parties usually contribute to delay. This paper highlights the importance of having more experienced and capable construction managers as well as skilled laborers to enable the industry to develop at a faster rate either nationally or internationally.
+CE Database subject headings: Delay time; Construction management;
+Introduction
+The construction sector represents one of the most dynamic and complex industrial environments. Peurifoy and Ledbetter 1985 identify that the construction industry is one that deals mainly with the conversion of plans and specifications into a finished product. It comprises a mixed variety of organizations that face difficult situations and to some degree similar pressures. Many of these problematic situations are either beyond control and often lead to delay.
+In developing countries, the construction sector forms a high percentage of the economy. In Malaysia, for example, in the third quarter of 2004, the construction sector contracted by 3.0% compared to a positive growth of 2.4% in the same quarter a year ago DSM 2004. Up to the Asia-crisis average annual growth rate of 14% and demand for construction material increased by 37.7% in 2001 compared to 2000, budget 2001 allocates 24 billion RM for
+Center of Project and Facilities Management PFM, Faculty of Built Environment, Univ. of Malaya, 50603 Kuala Lumpur, Malaysia corresponding author. arhamzah@um.edu.my
+Dept. of Real Estate & Construction, Oxford Brookes Univ., Oxford OX3 0BP, U.K. E-mail: maberawi@brookes.ac.uk
+Dept. of Civil Engineering, Faculty of Engineering, Univ. of Malaya, 50603 Kuala Lumpur, Malaysia. boyberawi@engineer.com
+Center of Project and Facilities Management PFM, Faculty of Built Environment, Univ. of Malaya, 50603 Kuala Lumpur, Malaysia.
+Center of Project and Facilities Management PFM, Faculty of Built Environment, Univ. of Malaya, 50603 Kuala Lumpur, Malaysia.
+Center of Project and Facilities Management PFM, Faculty of Built Environment, Univ. of Malaya, 50603 Kuala Lumpur, Malaysia. imranariff@um.edu.my
+Note. Discussion open until July 1, 2006. Separate discussions must be submitted for individual papers. To extend the closing date by one month, a written request must be filed with the ASCE Managing Editor. The manuscript for this paper was submitted for review and possible publication on November 18, 2002; approved on June 15, 2005. This paper is part of the Journal of Construction Engineering and Management, Vol. 132, No. 2, February 1, 2006. ©ASCE, ISSN 0733-9364/2006/ 2-125–133/$25.00.
+infrastructure projects Bank of Malaysia 2001. Meanwhile in the United Kingdom the construction industry has averaged 7.5% of the gross domestic product over the 5 years between 1992 and 1996, employing around 1.4 million people in 1998 Office of National Statistics 1997; Despite its great economic importance, the construction industry regularly shows lower levels of productivity when compared with the manufacturing industry. Indeed, in the United States it is reported that, between 1970 and 1995, the productivity of the sector had decreased at a rate of −1.3% per year while in the same period the manufacturing industry had increased at +3.5% per year Teicholz 1997.
+All parties involved in constructing a project must understand the sort of business they are in and should implement management well throughout the life of a project Harrison 1995. Andersen et al. 1995 found that the standard planning approach can be replaced with milestone planning, which will focus and promote result-oriented thinking rather than activity-oriented thinking. This finding is consistent with Bart 1993 that the traditional approach of planning and controlling of projects tend to fail mainly because of too much formal control which curtails creativity from playing a crucial role in execution of the project.
+Achieving economic and schedule goals will be possible only by adopting the appropriate control system especially during the construction phase. The use of control systems and similar applications will cost money, but the potential savings are several times the cost of implementing them through mitigating and even preventing delay during the construction. Advanced techniques cost more, but offer greater return if properly applied. Time–cost trade-off considerations mean that delays on a large project can easily cause additional costs, therefore if work can be carefully monitored and managed so that it proceeds without extra cost the final result would satisfy the client.
+Delays in Project
+Many construction projects suffer from delay. Suspension means stoppage of work directed to the contractor by a formal form from the client, while delay is a slowing down of work without stopping it entirely Bartholomew 1998. Delays give rise to disruption of work and loss of productivity, late completion of project, increased time related costs, and third party claims and abandonment or termination of contract. It is important that general management keep track of project progress to reduce the possibility of delay occurrence or identify it at early stages Martin 1976. Construction planning has to be a much more decentralized activity to cope with the inherently uncertain nature of task duration. However, Ballard and Howell 1998 argued that construction planners should make only “quality assignments” where tasks not meeting these criterias: 1 sufficiently well defined to be coordinated with other work and the inputs to be identified and assembled; 2 are ready to start material, design, and precedent works complete; 3 have priority in the critical path for delivery to the customer; 4 are commensurate in scale with the available labor for the coming week; and 5 are carried out within a system where the causes of incomplete or poor quality assignments are investigated and identified, should be deferred.
+Monitoring gives early warning of the possibility of contractor’s delays and helps in anticipating the consequences of changes that may be needed Cleland 1999; Abdul-Rahman and Berawi 2002a. Young and Jinijoo 1998 explain that top management support is required and this can be defined as the willingness of top management to provide necessary resources, authority, and power. Decision making at the right time is important especially with a fast-track project in preventing delays because the concept of using fast-tracking can be applied to traditional contract projects whereby construction starts prior to completion of the design/contract document Ahuja et al. 1994. Decision making process is used as the key to effective project management especially in value and risk analysis Stuckenburck 1982.
+Types of Delay in Project
+Delay is considered a major cause of construction claims. Claims could be due to three types of delay, namely: excusable, inexcusable, and compensable delays Ahuja et al. 1994. It is important to document all the causes in a proper way to obtain the claims approved. Cases of excusable delays include design problems, client initiated changes, acts of God, and uncertainties. Orr and McKenzie 1992; Pardu 1996; Clarke 1999; and Hartman 2000 all noted that lack of proper communication is one of the major reasons for the failure of many projects to meet their expectations.
+Compensable delays occur when the owner or the consultant has delayed the contractor in the completion of the work. It entitles the contractor to additional compensation and the contractor may be granted extension of time and money if there is any change in scope of work, late supply of owner materials or information, impeded site access, differing site conditions, and failure to provide timely and review shop drawings Potts 1995.
+Causes of Delays
+A common risk to project is failure to start work on time. Very long delays can be caused by variations, legal or planning difficulties, shortage of information, lack of funds or other resources, and other reasons which may lead to delay of the site possession. All of these factors can place a project manager in a difficult position and if the project is not allowed to start on time it can hardly be expected to finish on time Lock 1996. Based on a survey made among the contracting organizations of the United States working in developing countries we arrived at the conclusion that the owner is seen as the main reason for project cost overruns or schedule delays by 43.3% of the respondents. The owner in developing countries was not ready to pay extra cost to save time by 66.7% of the projects surveyed. In addition, the owner was the most frequent cause for contract changes during design and/or construction, a majority 70% of the respondents felt that the owner never made timely decisions Sundaram 1989. Delays caused by the designer can be classified into four main items: defects in design, slow correction of design problems, tardy review of shop drawings, and delay in tests and inspections Abdul-Rahman and Berawi 2001.
+Delay caused by contractors’ attributes most often is classified into five main items: failure to evaluate the site or design, management problem, inadequate resources, poor workmanship, and subcontractor failures. Deviations between performance and plans are not always the fault of project implementers; a lack of conformity to plans can also result from inappropriate plans rather than inadequate performance Goodman and Ralph 1980. Other causes of delay are attributed to improper management of materials and hampered by lack of an explicit and detailed model of the project materials management process Naief 2002 and due to lack of skillful management where less attention is paid to resources allocation, i.e., human, financial, and material resources Frimpong et al. 2003.
+Mitigation of Delay
+An analysis is needed to identify the impact of delay on time and cost followed by taking the appropriate action to mitigate delay and minimize the cost required Clogh 1981. It is important to improve the estimated activity duration according to the actual skill levels, unexpected events, efficiency of work time, and mistakes and misunderstandings Lock 1996. Mitigation efforts are necessary to minimize losses and this can be achieved by many procedures such as protection of uncompleted work, timely and reasonable reprocurement, and timely changing or cancellation of purchase orders Bramble and Callahan 1992. It is important to predict and identify the problems in the early stages of construction and diagnose the cause to find and implement the most appropriate and economical solutions Abdul-Rahman and Berawi 2002b. Construction projects involve more variables and uncertainties than in the product line. This factor increases the probability of delay occurrences in construction projects and makes effective management important to reduce the diversions from the original program. Planning is easiest done in a homogeneous task environment under stable conditions such as found in production firms than in a construction project and this presents a challenge for managers involved in construction projects.
+Research Objectives
+This research seeks to investigate the attitude of clients, consultants, and contractors in achieving the planned project completion time and to identify the main causes of delays in construction and to recommend procedures to mitigate it. The proposed research objectives are as follows:
+• Management concepts pursuant in the Malaysian construction industry facts and policy;
+• Identify and determine critical factors causing delays;
+• Validate finding using real life projects;
+• Suggestions to mitigate major delays in projects.
+Research Method
+The information needed for this research was obtained from three principal sources: • Literature reviews; • Questionnaire survey;
+The literature reviews provide useful guidelines and information on the construction management concepts and how by applying them can help point out the faults that will lead to delays. Those literature reviews were also used to guide the formation of questionnaire and interviews design. The research was then conducted with questionnaires survey and some interviews with construction practice. The main objectives of this survey are
+• To determine management’s responsibility and approaches used in minimizing the effect of delay;
+• To identify the types and causes of delays in construction;
+• To obtain feedback on procedures used to overcome or mitigate the effect of delay incidents.
+The use of the survey would enable the evaluation of management’s effectiveness in accomplishing organization objectives to perform the management functions of planning, organizing directing, controlling, and managerial decision making.
+The questionnaire was designed in two parts. The first part, known as Set-A, was meant for the top management level in the organization, and Set-B is for project managers or senior executives in a project. The questionnaires were distributed to selfselecting construction practitioners, that is, the units of analysis were self-proclaimed construction professionals. Addresses of organizations for the survey were selected from professional organizations which represent a practice community involved in the construction industry such as the Association of Consulting Engineers Malaysia, The Construction Industry Development Board of Malaysia CIDB, and Malaysian Architect Association PAM annual report.
+The questionnaires were distributed to 502 organizations including clients, consultants, and contractors located in the Klang Valley Kuala Lumpur and Selangor States. A 1-month period was allowed for the participants to complete and return the forms. The feedback from questionnaires has been analyzed using a statistical method Freund and Simon 1997; Spiegel and Stephens 1999; Freund and Wilson 2003 through a computer program.
+After going through the completed questionnaire forms, a few respondents were short listed to be interviewed based on the feedback and comments given in the questionnaire forms.
+Number of organizations
+Responsibility to Overcome Delay
+Number of respondent and its percentage
+Project manager and staff in the project
+Management team as whole
+All the functional groups involved
+Depend on the project value and Complexity of the project
+purposed to gather further information regarding the issues raised in the questionnaire or comment given by the respondents and to reaffirm the responses of the survey. The interviews covered the three main parties involved in construction project including two clients, 10 contractors, and four consultants.
+Findings from the questionnaire survey and the interviews are used as indicators to the current construction management approaches used by the parties involved. Issues probed during the survey interviews include: when delay occurs, in which activity it occurs mainly, the main causes of delay in projects, and the pro-
+Procedures to Assure Quality and Progress
+Number of respondent and its percentage
+
+Rely on experienced and
+rely on inspection
+Rely on approval from the relevant authorities
+Holding site meeting regularly with all functional groups involved
+Preparing detail schedules for each project and updates it regularly
+Recommended the use of certain standard B.S. or M.S., ISO 9000
+
+Use of experienced subcontractors
+Sample and make up preparations
+Contract Types and Delays Management View
+Number of respondent and its percentage
+Relationship between contract types and delays
+cedures used to reduce its effect. A gap analysis was conducted to make the result explicit and underline the need for applying proper management in dealing with delays in construction projects.
+Survey Result Analysis
+The total number of firms that completed and returned the questionnaire sets was 502 comprising of eight. clients 2% of the total, 81 consultants 16%, and 413 contractors 82%. A total of 2,598 sets was submitted to the different firms, 1,002 copies of set-A and 1,598 of set-B.
+The response rate was 7.4%, as shown in Table 1 comprising 3.6% for set-A and 4.8% for set-B. The overall response to both sets were 113 copies out of 2,598. The low response rate was due to the relocation of many companies and some were too busy to handle daily routines in the bad economic climate. The respondent’s positions were classified into three categories, the highest 52.8% consisted of head departments followed by the heads of organizations 27.8%, senior engineers/designers 16.7%, while 2.7% did not specify their position.
+Management and Quality Policy
+About 29.2% of the respondents agreed that most of the responsibility to overcome a delay problem should be borne by the management team while the another 27.1% indicated all the functional groups should be responsible as shown at Table 2.
+About 23.9% of the respondents as shown in Table 3 considered holding site meetings regularly as a procedure to assure quality followed by a heavy reliance on experienced and skilled workers. About 17.7% prepared detailed schedules for each project and updated it regularly and 12.4% by quality control on project. Another way to assure quality by inspection activities and recommended the use of a certain standard as a quality system.
+Contract Types and Delays Minimum Influence
+Type of contract
+Design and build
+Turnkey contract
+Project Cycle and Delay
+Number of respondent and its percentage
+
+Construction
+Commissioning
+Contract Types and Delays
+Table 4 shows that 70.6% of the top management from all three parties agreed that there is a relationship between type of contract and delay, while 23.5% did not agree with this and 5.9% were not sure. The contractor and the consultants had almost the same views but the clients ranked negotiated tender as the best type that had minimum influence on contract time as a result from Table 5.
+Delay in Construction Project Cycle
+The construction phase has the highest number 45.9%, the commissioning phase was chosen by 19.7%, and tendering by 16.4% followed by 14.8% who selected design stage as Table 6 illustrates the phase in project lifecycle that suffers from delay as perceived by top management.
+Activities with Most Delay Incidents
+Table 7 shows that delay incidents occur mainly in the foundation/substructure activity 21.85%. Piling and finishing each contribute to 17.5% of the responses followed by other activities as shown in Table 8. The risk of delay problems in foundation works is high if the soil investigations were not done properly and sufficiently. Human errors such as mistakes in setting up have also been associated to this type of delay. The clients responses showed that finishing works experienced the highest number of delay incidents, while the contractor gave highest responses for foundation work. A delay can be caused by any one of the three parties. For instance, a client may not identify his needs
+Activities with the Most Delay Incidents
+
+
+Opinion in Quality of Design Activity
+Number of respondent and its percentage
+Perceptions based on experience
+The designer submitted a complete set of final drawings at the right time
+The designer has recognized project need requirements
+The designer has assessed the project
+The designer has successfully taken measures to anticipate quality
+The designer has satisfactorily reviewed
+the changes from
+There is a lack of design coordination and design discrepancy
+It is difficult to build
+Shortage of experienced designers
+Total and procedures
+Currently used
+Currently used
+Currently used
+Currently used
+CPM scheduling network
+Construct works tables follow method
+Using detailed work procedure
+Inspection on works prevention/appraisal
+Holding site meeting regularly with groups
+clearly and completely or the consultant did not provide suitable
+and complete details or the contractor performed the work with a poor quality or/and the productivity was less than expected.
+Quality of Design
+Table 8 exhibits the opinion of the respondent on the overall quality of design in the project. The highest number of 31 respondent 22.3% express their satisfaction for designers who had recognized project needs requirements and agreed that the designer had satisfactorily reviewed, checked, and amended the changes. The full satisfaction expressed by 10.1% was for the designer who submitted a complete set of final drawings at the right time, 5% said it was because the designer had assessed the project risk, and 4.3% because designers had successfully taken measures to anticipate the quality problem. About 34.6% expressed their dissatisfaction for either unclear, incomplete design details 13.7%, five respondent 5.6% said that it was difficult to build, and 2.15% of the respondents said the designer did not understand material and the designers had insufficient experience.
+Planning and Controlling Techniques
+Table 9 shows that there are three common methods used as tools for planning and controlling quality of performance and many projects use more than one technique. There were 25.6% of respondents who cited that they used bar charts, 22.7% depended on holding site meeting regularly with all functional groups involved, followed by 20.8% who used inspection on works during construction, and another 8.2% who used milestone monitoring. CPM scheduling network analysis and detailed work procedure were used by 7.7% of the respondents and another 6.28% used work table and follow through method. Table 10 also illustrates the types of tools that the respondent did not use but said would
+Opinion to Overall Management Process
+
+Satisfactory
+improve project performance if it was used. About 20.9% used CPM scheduling, followed by detailed work procedure 11.6% and milestone monitoring 11.6%. Twenty-two respondents 25.6% did not mention the use of any tool. This is an indicator that they were satisfied with what they were using then or that planning is done in a nonconventional way.
+Respondent Opinion to Overall Management Process in Project
+Table 10 shows 46.3 and 8.9% of the respondents were satisfied and very satisfied, respectively, with the management process held in the project. Another 38.8% were not very satisfied and 6% were not satisfied. The clients were not satisfied with the majority of two-thirds and the consultants agreed with the clients by the
+Major Causes of Delay Views from Top Management
+Number of respondent and its percentage
+Authority approvals
+Shortage of materials
+Construction method
+Delay in handing over the site
+Major Causes of Delay during Construction
+Number of respondent and its percentage
+Causes of delay
+Ask for many changes and/or additional works
+Client has no priority/ urgency to complete the project
+Labor shortage and lack of skills
+Not enough material
+Lack of equipment
+Poor inspection
+Poor documentation and no detailed written procedures
+Using systematic procedures
+Difficulty of having heavy equipment and more complex technology
+Conflict in amount of payments
+Lack of protection of complete work
+Failure in testing
+Poor communications and misunderstanding
+
+same percentage. This is probably because the client thinks management process is the responsibility of the contractor and it should be checked and monitored by consultants.
+Major Causes of Delay
+Table 11 identifies the most important causes leading to delay as seen by the top management. Financial problem had the highest responses of 12.4%, followed by 11.8% due to client’s influence, manpower problem, and poor site management. Main causes ranked by clients are manpower problem 23%, followed by three causes: authority approvals, poor site management, and subcontractors 15.4%. Consultants gave the highest response 11.8% to the following causes: the client influence, design problem, shortage of manpower, construction method, and poor site management. Contractors classified causes in the following sequence: financial problem was the main causes 14.9% followed by client influence 12.3% and poor site management 11.4%.
+Table 12 shows the major causes of delay during construction
+Recommend Procedures to Overcome Delay
+Number of respondent and its percentage
+Procedures recommended
+Increase the productivity by working overtime hours, shifts, etc.
+Execute the delayed
+activities by subcontractors
+Ask for more site meetings with all functional groups
+Ask top management for more executive authorities to project manager
+More flexible work method e.g., accept
+
+of the chosen projects. These causes mainly represent the contractor views as they represent approximately half the sample size. Additional work is the main cause as pointed out by 16.2% of the respondents, labor shortage and lack of skills by 10.8%, poor planning and scheduling was chosen by 10.3%. The clients response gave the priorities to both ask for many changes and/or additional works and poor site organization 13.3%. Consultants expressed that delay caused mainly 12.3% due to poor planning and scheduling, poor site organizing, and shortage of skilled labor.
+Recommended Procedures to Overcome or Mitigate Delay
+The recommended procedures to mitigate or even recover the delays are shown in Table 13, where more than one solution can be applied at the same time. This depends on the nature of the problem/s that cause the delay and the uniqueness of the project. About 29.2% of the respondents recommended the increase of productivity by working overtime hours or work by shifts, 24% chose request for extension of time; this is possible if delay was excusable or compensable. Two procedures pointed out by 13.5% recommended the execution of delayed activities by subcontractors and ask for more site meetings with all functional groups. About 9.4% of the respondents selected asking top management for more executive authorities to the project manager and 4.2% of the respondent would change the construction method or use different technology. The other procedures had less frequency but the choice of method is always subject to the overriding safety
+and quality factors. One of the respondents comments on using mixed construction methods to cut down the cost, save time, and upgrade the building quality like using cast in situ for main sections, precast for architecture portions, or using the conventional way for narrow and irregular sections.
+Analysis and Summary of Interviews
+A total of 16 interviews were conducted with six senior engineers or directors working in the head office, two designer, six project managers, and two assistant project managers. Most of the questions asked during the interview concentrated on the policy applied by a different firm and the present state of management in construction project, identifying the causes of delay in a project, and the understanding of the importance of proper management structure and quality in construction and its future in Malaysia. The finding from the questionnaire survey and the interviews can be classified to five main categories as follows.
+• The present state of management in Malaysia construction industry. The implementation and use of a quality management system would provide logical and progressive sequence of work and prevent or mitigate delay in construction. The importance of coordinating the various management teams is required in the project environment and should be encouraged by all management of the functional groups involved. Depending on the contract type, the main participants will have to understand and commit their roles. The survey pointed out that there is some correlation between the type of contracts and delay and the percentage of projects suffering from delay is relatively high. The other issues that were raised from the interviews conducted are
+In a large project a management consultant is used to assure quality while in medium-sized projects, contractors do not locate quality management staff on site but depend on the experience of the project manager;
+Resource utilization is the responsibility of the contractor;
+Most of the firms are not interested in spending money on education and training of their employees and they prefer to employ experienced people.
+• Management tools and techniques. The survey shows that there was satisfaction in the overall management process used currently. The respondents 25.6% used the bar chart as a tool for planning and controlling the project and agreed that using CPM scheduling 20.9% is better than a bar chart and it could improve project performance monitoring and control.
+• Probabilities of delay occurrence where and when. From the survey findings, all the levels from all parties agreed that delay occurs mostly during the construction phase. The top management level said that the commissioning phase comes second, but respondents directly working at project sites indicated that design stage is the second highest possibility. The respondents showed that delay appears during executing foundation and substructure 21.85% and followed by finishing 17.5%.
+• The causes of delay in construction. The main item which was raised during interviews is financial problems by 25% of the interviewees and due to that 31.25% of the respondents preferred to work with the government clients, moreover normally there will not be many conflicts in payment amount. However, 18.75% preferred working with the private sector because government clients took longer time in releasing the payments due to formal procedures. A financial problem is confirmed by the top management view in the survey as the main causes of delay in addition to manpower shortage as pointed out earlier. The interviews showed that the main cause of delay is due to the client influence asking for many changes, extra work, or has no urgency to complete as indicated by a majority of the interviewees. This was confirmed by the priority of the people working in the sites, followed by labor shortage and lack of skills, and due to poor planning and scheduling. The activities that experienced the highest number of delay incident foundation and substructure with the activities that experienced the highest number of variation in design mechanical and electrical. The interviews findings show that 6.25% of the interviewees considered that delay incident caused by unforeseen or unexpected events excusable or compensable delays, while 31.25% thought that it is due to human errors or due to someone else’s fault inexcusable delay and the rest said that it is mixture of both.
+• Recommended procedures to overcome or mitigate the effect of delay. All of the interviewees agreed that site meetings are essential in solving the problems with the condition that it should not be too frequent because then it will be a waste of people time, and those attending should be seniors and authorized to make decisions. This form of communication method confirmed the importance of site meeting to the top management view in the questionnaire findings. From the survey, recommended procedures were increasing the productivity by working overtime hours or working by shifts 29.2% followed by asking for extension of time 24%. If the problem was shortage of resources, 32.3% suggested rescheduling the activities within the available resources, using more general and skilled labors by 27.8% and by 12.8% using subcontractors. This means that there are no specific procedures to mitigate or overcome delays in projects but it depends mainly on the causes, the nature of the problem, and the availability of resources.
+
+Delays are known to cause losses to the clients/developers and the entire industry because construction has an important influence on the economy, especially in developing countries with a rapid growth economy. Identifying projects’ life cycles and when delay usually occurs will help to identify the cause of a delay in a construction project. Intensive management involvement is needed to prevent and alleviate problems that can delay projects. This was indicated from the survey findings derived from different levels of management that the major causes of delay are due to financial problems followed by manpower shortage and changes in the project requirements. All parties involved in the project also agreed that delay occurs mostly during the construction phase. Therefore, in resolving those problems, the units of analysis suggested to increase the construction productivity, followed by increase the expertise and skill of human resources, and conducted site meetings more frequently. A strategic view of solving delay problems should consider the importance of the management aspects, the effects of knowledge and information flow between the organization levels, and the importance of top management contribution in solving the problems.

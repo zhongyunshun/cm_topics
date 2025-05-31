@@ -1,0 +1,155 @@
+﻿Construction Management and Economics (1993) 11, 421—429
+The effect of contractor size on mark-up size decision in Saudi Arabia
+ALI A. SHASH and NADER HUSNI ABDUL-HADI
+Construction Engineering and Management Program, College of Environmental Design, King Fahd University of Petroleum and Minerals, Dhahran 31261 , Saudi Arabia
+Received 12 February 1992; revised 25 February 1993
+This study is a part of a larger study addressing the bidding decisions of construction contractors in Saudi Arabia. It examines the mark-up size decisions of small, medium, and large contractors in Saudi Arabia. These groups are found to consider and evaluate many factors subjectively when they set mark-up sizes for projects. However, the importance of these factors varies as the contractor's size changes. Bidding document price, strength in the industry, time allowed for submitting bids and other factors are the greatest contributors to the discrimination between contractor sizes.
+Introduction
+This study forms part of a larger study addressing the bidding decisions of construction contractors in Saudi Arabia. The overall objectives of the research were to look at the bidding decisions of average contractors, differently sized contractors and successful contractors. The first paper in this series (Shash and Abdul-Hadi, 1992) examined the mark-up decision of an average contractor, while this one examines the robustness of the results set out in the earlier paper. The aim is to ascertain whether the results apply to all contractors, or merely to those of a certain size. This paper presents the mark-up size decisions of small, medium and large contractors in Saudi Arabia. Since the topic area is similar to earlier papers, some of the information in the literature review and the research methodology is repeated for the sake of clarity and the presentation of a complete document.
+Determining the mark-up size for a construction project is not an easy task. The complexity of the issue is magnified by many influencing factors (Shash and Abdul-Hadi, 1992), and the uncertain potential outcome of the decision (winning or losing the contract). This complexity is the source of the diffculty faced by many contractors in determining the proper mark-up sizes which will assure them of winning suffcient projects with reasonable profits.
+Many researchers have tried to eradicate the complexity of this decision by developing mathematical or statistical models. The majority of the models developed to date are based on the pioneering work of Friedman (1956). Friedman's model was built on the assumption that in a competitive bidding situation construction firms submit bids with the objective of maximizing expectation values of profits to be recognized. Park (1962), Shaffer (1965), Casey and Shaffer (1964), Gates (1971), Broemser (1968), Morin and Clough (1972), Wade and Harris (1976) and Carr (1982) followed Friedman's assumption in developing their strategic models. On the other hand, Benjamin (1969), Neufuville et al. (1970) and Hani and Lesage (1977) introduced strategic models with the intention of maximizing the expectation value of a contractor's utility value rather than monetary value. Gates (1983) introduced a qualitative approach, based on the Delphi technique, known as the Expert Subjective Pragmatic Estimate (ESPE), as a solution to the mark-up size problem. Recently, Ahmad and Minkarah (1988) addressed the competitive system qualitatively. Their study attempts to determine the factors affecting a contractor's bidding strategy. It investigates the level of importance of each factor on the contractor's decision to bid and on the size of the markup. For a more detailed description of the studies that have addressed this subject, see Shash and Abdul-Hadi (1992). Despite the massive volume of literature that these studies occupy, very few contractors are reported to use mathematical or statistical models in the determination of mark-up sizes (Ahmad and Minkarah, 1988).
+With the advent of computer technology, some researchers such as Minkarah and Ahmad, are attempting to model the mark-up size decision as an expert system. The development of such a model necessitates the identification of the method by which a mark-up size is set by contractors. Ahmad and Minkarah (1988) studied the method by which contractors in the USA determine the mark-up size. They found that contractors consider and evaluate many factors subjectively when they decide on mark-up sizes. Shash and AbdulHadi (1992) conducted a similar study in Saudi Arabia. The two studies presented the factors that are considered in the determination of the mark-up size and their importance indices. However, it is possible that the level of importance attributed to the factors influencing the mark-up size decision may vary with contractor size. This study investigates the factors that affect the markup size decision of small, medium and large contractors.
+Objective of the study
+The main objective of this study is to test the hypothesis that small, medium, and large contractors vary significantly in their evaluation of the various factors that are considered in the mark-up size decision. If this hypothesis is proven to be true, then the second objective is to reveal the factors that contribute substantially to the discrimination between them.
+Research phases and synthesis
+The objectives for this study were achieved through several phases.
+This phase involved a thorough review of the literature. This resulted in thirty seven potential factors affecting a contractor's decision on mark-up size for a project. These factors are classified into five categories as shown in Table 1.
+The second phase involved the collection of data. All data were collected primarily from the top management of the classified construction contractors in Saudi Arabia using a structured questionnaire. The questionnaire originally prepared by Ahmad and Minkarah (1988) was used after it was modified to suit the bidding environment in Saudi Arabia.
+The questionnaire (in English and Arabic) was mailed in February 1990 to 300 randomly selected construction contractors located in different geographical regions of Saudi Arabia. The names and addresses of the selected contractors were obtained from the 1990 Classified Contractors List which is published by Dammam Chamber of Commerce. There are 1600 classified contractors in the list.
+The size of the sample was determined using the following formula: (Kish, 1965)
+V— The standard error of sampling distribution
+S The maximum standard deviation in the population elements. (Total error =0.1 at a confidence level of 95 0 y = (P) (1 -P) = (0.5)
+P — The proportion of population elements that belong to the defined class.
+Substituting for the pre-defined variables, the following sample size of 94 was calculated.
+It was assured that the commercial sensitivity of the required information would discourage many contractors from participating in the study. A response rate of 30 0 was assumed. Thus the sample size was increased to 300 classified contractors. A total of 71 responses was received yielding a response rate of 24 0 0. Sixty-eight per cent of the returned questionnaires were answered by general managers.
+Categorization of contractors
+The objective of this study requires the categorization of contractors into different sizes. The number of permanent employees, the value of equipment owned and the business volume were attributes considered for classifying the contractors. It was noted that the categorization of a contractor changes as a different classifying measure is utilized. When the number of permanent employees was used, many contractors who are considered large in the engineering sector were classified as small. The same phenomenon was observed when the value of equipment owned was used. Many building contractors were not placed in the proper category that reflects their apparent size. It was decided to use business volume as the basis for categorization. The rationale behind this decision was that the other two attributes may introduce misleading categorization because as the type of the contractor changes, the classifying measures that best reflect its size change. A good measure for building contractor size is the number of employees, while for an engineering type it is the value of equipment owned. Building construction is labour intensive and engineering construction is machine intensive.
+Table 1 Importance indices and rank order of the factors for small, medium and large contractors
+
+Project characteristics
+Size of contract in SR
+Project cash flow
+Location of project
+Type of contract
+Company characteristics Availability of required cash
+Uncertainty in cost estimate
+Confidence in work force
+Availability of qualified staff
+Need for work
+Experience in such projects
+Establishing long relationship with clients
+General (offce) overheads
+Current work load
+Reliability of subcontractors
+Portion subcontracted to others
+Bidding situation Required bond capacity
+Competition
+Time allowed for submitting bids
+Time of bidding (season)
+Availability of equipment
+Overall economy (availability of work)
+Quality of available labour
+Availability of labour
+The histogram for the contractor's annual business volume shown in Figure 1. This suggests the categorization of contractors into three groups. The first involves
+44 contractors with an average annual business volume of less than 50 million Saudi Riyals (SR) (one US dollar is equivalent to SR 3.75 at February 1993). This group is
+designated as small. The second, termed medium, embodies 16 contractors with an average annual business volume less than SR 140 million, but greater than or equal to SR 50 million. The third category, designated as large, contains nine contractors with an average annual business volume greater or equal to SR 140 million.
+Determination of importance indices
+The participating contractors provided numerical scoring for factors expressing their opinions on the significance of each factor in determining the mark-up size for a project. For this type of data, the mean and standard deviation may not be suitable statistics for determining the overall ranking for the factors. Instead, the weighted average for each factor was calculated and then it was divided by the upper scale of the measurement resulting in what is referred to as an 'importance index'. Therefore, the level of importance of the 37 factors for the mark-up size decision for small, medium, and large contractors were calculated using the following formula :
+
+a = constant expressing the weight given to each response. The weight ranges from I to 7 where 1 is the least important and 7 is the most important.
+X=nN n=the frequency of the response. N = total number of responses.
+Table 1 presents the calculated importance indices and the associated rank orders for each contractor group. The results indicate that the importance of the general categories are similar for all contractor sizes. However, the ranking of these categories differs slightly. For small and medium contractors, the rank order of the five categories is similar to that obtained from the analysis of all contractors. For a large contractor, the importance of the company characteristics category precedes the economic situation category.
+Studying the importance indices and the rank of the 37 factors across the three contractor sizes reveals that some factors such as project duration, strength in the industry, past profit in similar projects, time of bidding, and availability of labour have almost the same importance indices and very close rank orders across the three groups. On the other hand, the importance of some factors such as project cash flow, design quality, availability of required cash, uncertainty in cost estimate, current work load and competition varies across the contractor sizes.
+Hypothesis testing
+Pearson correlation coeffcients were calculated for the purpose of understanding the relationship between the three classes. The small and medium contractors have a correlation coeffcient of 0.62, which suggests that a relatively high association exists between them; small and large contractors have a coeffcient of 0.33, which means they are not similar; a coeffcient of 0.38 between medium and large contractors indicates that they do not have much in common. These coeffcients give the impression that the three classes are different.
+Discriminant analysis was used to test whether differences do not exist between small, medium and large contractors with regard to the importance of the factors affecting the mark-up size decision, or that the inferences that are generated from the correlation coeffcients are more accurate and differences do exist. In addition, if the groups are proven to be different then discriminant analysis will help in identifying the underlying dimensions of discrimination.
+The discriminant analysis produced two canonical functions as discriminators between the three groups. The canonical correlation coeffcients for function 1 and function 2 are 0.94 and 0.91 respectively, which indicate that the degree of association between the small, medium and large contractors and the canonical functions is very high. This high association implies that the three classes vary in their evaluation for the importance of the factors affecting the mark-up size determination. This noticeable assertion is enforced by examining the eigenvalue of both functions. The function with the highest eigenvalue is the most powerful discriminator (Kelecka, 1980). The eigenvalues of function 1 and function 2 are 8.895 and 4.701 respectively. Therefore, function 1 contains 65.4 0/0 (8.895/(8.895 +4.701)) of the discrimination power, while function 2 holds 34.6 0 of the discrimination power. Thus both functions are significant and are used in studying the behaviour of the three contractor sizes.
+For the purpose of examining whether the groups are really different, or that the sampling process produced cases which show the computed degree of discrimination when in fact there are no differences between the groups, Wilks's Lambda was computed and found to be 0.018. This small value of Wilks's Lambda suggests that discrimination exists and it is not due to sampling error.
+The squared canonical coeffcients of function 1 and function 2 are 0.89 and 0.82, respectively. That means the contractor size explains 89 0 0 and 82 0 0 of the variation in the discriminant functions.
+Figure 2 shows a plot of both canonical functions. It shows the three classes of contractors. It is clear that the small, medium and large contractors are heterogeneous and thus they behave differently, making their categorization legitimate.
+It is evident that the three groups are different. However, what are the factors that cause the most discrimination between the small, medium and large contractors ?
+Factors contributing to the discrimination between the groups
+The Total Canonical Structure (TCS) and the Standardized Canonical Coeffcients (SCC) are methods for interpreting the discriminant functions. The former is used for substantive interpretation of the discriminant functions by specifying their associations with the variables (Kelecka, 1980). The largest absolute values of correlations are used for interpretation (Stevens, 1986).
+The SCC approach is used for specifying the factors which have the highest contribution to the determination of the discriminant functions scores (Kelecka, 1980). The variables with the largest coeffcient (in absolute values) are the significant contributor to the discriminant functions (Stevens, 1986).
+Stevens (1986) noted that both 'methods can give different results, i.e. some variables may have low coeffcients and high correlations while other variables may have high coemcients and low correlations'. He added that some statisticians favour the use of the T CS method for the stability of correlations in small samples and other statisticians favour the SCC method. Stevens indicated that correlations and coeffcients will be z
+Figure 2 Plot of discriminant functions 1 and 2.
+unstable the ratio of subjects to the number of variables is large. He recommended the use of both methods for interpreting the discriminant functions especially when the sample size is relatively small. Since the sample size of this study was relatively small, we used the T CS correlations for substantive interpretation of the discriminant functions and the SCC coeffcients for determining the redundant variables given other variables in the set. A variable with high correlation and low coeffcient is considered redundant.
+The T CS correlations are shown in Table 2. Studying these correlations for the first discriminant function, it could be perceived that time of bidding, job start time, and location of the project (correlations of 0.436, 0.410,
+
+
+Size of contract in SR
+Type of contract
+
+Location of project
+Portion subcontracted to others
+Reliability of subcontractors Availability of qualified staff
+Availability of labour
+Quality of available labour
+Availability of equipment
+Uncertainty in cost estimate
+General (offce) overheads
+Time of bidding (season)
+Availability of required cash
+Competition
+Overall economy (availability of work)
+Need for work
+Current work load
+Confidence in work force
+Project cash flow
+Time allowed for submitting bids
+Establishing long relation with clients
+Required bond capacity
+Experience in such projects
+and 0.380, respectively) are the primary factors that define the function, with need for work, bidding document price, availability of labour pre-qualification requirements, risk involved in investment, reliability of subcontractors, establishing continuing relationships with clients, competition, confidence in the work force and strength in the industry (correlations of —0.321, 0.290, 0.284, 0.271, 0.241, 0.239, 0.229, 0.219, and 0.201 , respectively) are the secondary factors involved in defining the function. The positive correlation means that the groups scored higher in the higher scoring factors from the first discriminant function. On the other hand, the negative correlation means that the groups scored higher in the lower scoring factors from the first discriminant function. The factors are from different categories. Therefore, it is not possible to name the first function.
+The SCC coefficients are shown in Table 3. Examining these coeffcients for the first discriminant function reveals that the bidding document price, time of bidding, strength in the industry, need for work, confidence in the work force, pre-qualification requirements, and project location are not redundant factors (coeffcients of —4.044, 3.440, —3.190, —2.525, 3.319, — 3.502, and 1.691 , respectively). The remaining factors are considered redundant in the presence of the other factors.
+By examining the correlations for the second discriminant function, it may be noticed that the time allowed for submitting bids, availability of qualified staff, and government division requirements (correlations of 0.317, 0.298, and 0.318) are the primary factors that define the second function, with experience in such projects, risk involved in investment, competition, and the need for work (correlations of 0.246, —0.190, —0.175, and 0.184, respectively) being the secondary factors involved in the definition of the second function. Studying the SCC coefficients for the second discriminant function reveals that the time allowed for submitting bids and the availability of qualified staff are not redundant factors (coemcients of —2.220 and — 1.317, respectively), but the other factors are redundant since their coeffcients are small compared with the coeffcient of the time allowed for submitting bids.
+Combining the information obtained from the analysis of the two discriminant functions, we can say that the emphasis given by the small, medium, and large contractors to factors such as the bidding document price, the time of bidding, the strength in the industry, the need for work, the confidence in the work force, the pre-qualification requirements, the time allowed for submitting bids, the availability of qualified staff, and the location of the project in the determination of the mark-up size for a project makes them different groups. Grouping the above variables, about 67 0 of the
+
+
+Size of contract in SR
+Type of contract
+
+Location of project
+Portion subcontracted to others
+Reliability of subcontractors Availability of qualified staff
+Availability of labour
+Quality of available labour
+Availability of equipment
+Uncertainty in cost estimate
+General (office) overheads
+Time of bidding (season)
+Availability of required cash
+Competition
+Overall economy (availability of work)
+Need for work
+Current work load
+Confidence in work force
+Project cash flow
+Time allowed for submitting bids
+Establishing long relation with clients
+Required bond capacity
+Experience in such projects
+bidding situation category factors are powerful discriminators. The company characteristics category comes second with about 29o of its factors as significant discriminators. The project characteristics, project documents, and economic situations do not contribute to the discrimination significantly. In general, the main differences between the three classes are due to the company characteristics and bidding situation.
+Inspection of Figure 2 helps in explaining how small, medium and large contractors vary in their consideration of these factors when determining the mark-up size. The location of the centroid for the large contractor is at the negative end of function I which is represented by the y-axis and at the negative end of function 2 which is represented by the axis. The centroid for the medium contractor is located at the positive end of function 2 and at the negative end of function 1. The centroid for the small contractors is located in the middle of function 2 and at the positive end of function 1. In view of this information, the discriminating factors are discussed below:
+Project drawings and specifications (technical and non-technical) are usually sold to interested contractors for non-refundable consideration. Only the contractor who wins the contract is able to recover the document price given that they incorporate it as a cost item in the bid. It is very interesting not only to see this factor among the discriminating factors, but also to see large and medium contractors place heavy emphasis on it in the determination of mark-up size. It seems that the amount paid for bidding documents for projects undertaken by large and medium contractors is high enough to influence the mark-up size decision.
+For small contractors, this factor has no influence on the determination of mark-up size.
+(b) Time of bidding
+The results indicate that small contractors greatly value the importance of this factor in the decision on mark-up size for projects. It seems that projects undertaken by small contractors are cyclical. So small contractors may adjust the mark-up size depending on the demand for their services.
+This factor does not have a major importance for medium and large contractors' mark-up decision. It seems that demand for the services of large and medium contractors does not vary over the year. The government is the major client for the large and medium contractors and government projects are let in accordance with pre-determined plans such as the Five Year Development Plans. In these documents the amount of planned government expenditure for construction projects is given. Also, a government project is large enough to keep an awarded contractor busy for a number of years. Medium and large contractors may utilize this information in setting short and long term plans.
+(c) Strength in the industry
+This factor is considered by large and medium contractors in the determination of the mark-up size, but with more emphasis from the medium contractors. For small contractors, it has no influence on their mark-up decision. Medium contractors may trade off higher mark-up size against building stronger business leverage in the industry.
+d) Need for work
+The results indicate that large contractors do consider this factor when they decide on the size of the mark-up. The government is the major client for the construction of large projects. However, due to the reduction of oil revenues and the completion of many major infrastructure projects during the 1980s, there are very few government projects available for bidding. This may put some large contractors in a position where they barely recover the offce overheads. The medium and small contractors seem to have plenty of work so this factor has little importance for their mark-up decision. These contractors may depend on private projects more than on government projects.
+(e) Confidence in work force
+The results indicate that small contractors accentuate the influence of this factor on their mark-up. However, large and medium contractors do not consider this factor when deciding on their mark-up. It seems that large and medium contractors have established successful programmes for selecting, orienting, training and motivating their expatriate work force. These programmes may have created a sense of commitment and loyalty in the attitudes of the work force towards the organization. On the other hand, small contractors may not have such programmes. The absence of such programmes may have caused them to develop a work force that could be characterized as dissatisfied and incompetent in their jobs. The small contractors may find it easier to make up for their level of confidence in their work force in the mark-up size rather than seeking remedial actions.
+The results indicate that large and medium contractors consider this a major factor when deciding on their mark-up. The pre-qualification requirements may give these contractors valuable information in evaluating the level of competitiveness. If the pre-qualification requirements limit the contractors who can bid for the project to a certain class or grade, contractors may have the ability to reasonably estimate the number of bidders and their identity. This information may help them in setting the optimum mark-up that maximizes expected profit and the chances of winning the project.
+(g) Time allowed for submitting bids
+The time allotted for the preparation of bids has a great importance to the determination of the large contractor's mark-up. It appears that large contractors believe that the period allowed for submitting bids is not enough to prepare an accurate estimate. Therefore, it seems that they are aware of the likelihood of producing an inaccurate estimate so that they consider this factor when determining their mark-up.
+For medium and small contractors, this factor is not considered in determining mark-up. This may indicate that the time allotted for bid preparation is reasonable. The government, being the major client for the construction sector, sets procedures for determining the bidding time frame for a project. The time duration is a function of the project value in Saudi Riyals. A project with an estimated construction cost of less than SR50 million should have at least one month bidding period. The minimum bidding period for a project with estimated cost greater than SR50 million is two months (Al-Wahibi, 1988).
+(h) Availability of qualified staff
+This factor is not considered by large and medium contractors in the determination of the mark-up size, but for small contractors it is a major input to their mark-up decisions. Large contractors may attract qualified staff to join their organizations for the better pay, benefits and recognition they offer. It seems that small contractors cannot compete with large ones in attracting qualified staff to join their firms. Consequently, they may hire less qualified staff and recognize this in the determination of their mark-up.
+The results indicate that large contractors do not place great importance on the location of the project when they decide on their mark-up. This minor consideration of the importance of location may result from the fact that large contractors have several branch offces over a large geographical area which enable them to manage their projects easily and assume less mobilization demobilization costs. In addition, the wide business relationship with suppliers (money, materials, equipment, etc) that large contractors have established may reduce or eliminate the risk associated with mobilization cost.
+On the other hand, medium size contractors consider project location seriously when they determine their mark-up. It seems that mobilization cost has a great influence on those contractors whenever the project is outside their area of operation.
+The project location factor is less important to the small contractors than it is for medium contractors. It seems that small contractors compete for projects that are within their locality.
+
+The mark-up decision of small, medium and large contractors in Saudi Arabia are influenced by different factors. Factors such as competition and profitability, which were considered by the majority of researchers as the only important factors for modelling the bidding decision-making process, are not the most important factors for any contractor size. Thirty-seven factors affecting contractors' mark-up decisions have been discovered. The importance of these factors varies with contractors' size. Contractor size explains 89(1'0 of the variation in the importance of the 37 identified factors. Bidding document price, time of bidding, strength in the industry, need for work, confidence in the work force, pre-qualification requirements, time allowed for submitting bids, availability of qualified staff, and location of the project factors are the greatest contributors to the discrimination between small, medium and large contractors.

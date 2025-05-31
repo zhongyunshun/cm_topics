@@ -1,0 +1,131 @@
+﻿Construction Management and Economics, 1990, 8, 49—61
+Research of factors influencing construction productivity
+Department of Civil Engineering, University of Florida, Gainesville, FL 32611, USA
+Productivity rates are among the most essential data needed in the construction industry. The accuracy of productivity rates is crucialfor the determination ofdirect relationships between these rates and subjects such as estimating, cost control, scheduling, and resource management, among others.
+Past experience in the construction industry has shown that great variation in production rate valuesfor the same construction item is attributed to the effects of project conditions which are commonly called influence factors. This paper describes the development of a statistical model that illustrates the quantitative relationships between influencefactors and the productivity rates. The application ofsuch a model will enable the user to estimate productivity rates with a higher degree ofaccuracy infuture projects.
+Productivity, construction, input, cost estimating, project management, resource management.
+Introduction
+The knowledge of productivity rates is an essential part of the construction management process. The most important application of accurate productivity rates is in the area of resource management. However, productivity rates are also related to many other subjects in the construction process. Fig. 1. is a schematic description of the relationship between production rates and other areas in the construction management process.
+The accurate determination of productivity rates is not a unique problem for the construction industry. Extensive research and investigations have been done by Currie (1963), especially within the discipline of industrial management, as explained by Drewin (1982). The construction industry, however, is different from others such as the manufacturing industry. Consequently, most past conclusions in industrial management are not applicable to construction. The main difference between the construction and other industries is that the various site conditions have a significant varying effect in the production rates of most standard construction items.
+This difference can be demonstrated with a simple example. Terrazzo tiles are a common standard item in the building industry. However, when Herbsman (1977) measured the productivity rates per square metre, the rates varied substantially from site to site. The reason for this variation was the diverse conditions under which the product was produced. The parameters involved apartment size, shape and size of rooms, number of stories, number of doors, and so on. Let us define these factors as Construction Productivity Influence Factors
+0144-6193/90 $03.00+.12 0 1990 E. & F.N. spon Ltd.
+Design 30 mh/ton x Sl O/nr = S300/ton
+Actual 35 mh/ton x $1 1/hr = S3e5/ton
+Loss (—)	SE5/ton
+30 mh/ton x 10 tons
+Relationship between productivity rates and other areas in the construction management process
+The main objective of the research on which this paper is based was to determine the quantitative relationship between the CPIFs and productivity rates.
+Influence factors in the construction industry
+The total number of productivity influence factors in construction is enormous, therefore, it is essential to establish a systematic classification method that allows the user to identify and organize these factors. Kane (1980) and Herbsman (1977) have done preliminary investigations based on interviews with various participants in the construction industry. From those surveyed, the following guideline was established for the CPIF classification method.
+The CPIFs can be divided into two main groups:
+1. technological factors
+The technological factors include those related mostly to the design of the project. The administrative group factors are related to the management and to the construction of the project.
+The distinction between the groups can be explained from a different perspective. If the CPIF value can be determined in the preconstruction stage, it is likely that it will be from the first group (a deterministic factor). However, if the value of the factor cannot be determined in the preconstruction stage, it is likely that it will be from the second group (a stochastic one). The size of an apartment is a factor from the technological group. On the other hand, the method of casting the concrete is a factor from the administrative group. The precise identification of the CPIF is not critical as it is done mainly for classification reasons.
+Within each CPIF group, we can identify a few main subgroups. In the technological group, such subgroups may include the following:
+Design data: This subgroup will include measurement factors, such as size, height, number of elements and other similar factors.
+Material properties: This subgroup includes material specifications, quality control procedures, testing requirements, etc.
+Location factors: Among these factors will be the geographical zone, the project location, topographical factors and others related to the environment of the project.
+Among the administrative CPIFs, a few subgroups can be identified:
+Construction methods and procedures: This subgroup includes factors related to construction techniques such as form building for concrete structures; to steel construction techniques, such as method for excavating foundation, etc.
+Equipment factors: These factors include various transportation methods, method of supply of materials, etc.
+Labourfactors: Such factors can be payment systems, training methods, unemployment,
+Fig. 2 shows the proposed classification method for CPIFs.
+Quantification of influence factors
+It must be emphasized that it is not enough to classify an influence factor, it also has to be quantified. There are many factors that can be identified quite easily, but that have effects which are almost impossible to measure. The quantification process of CPIFs is very complicated and can be divided into three different categories: direct quantification of CPIFs; indirect quantification of CPIFs and quantification using non-parametric ranking.
+This category will include all CPIFs that can be quantified directly using a known standard scale, such as an area factor of 120 square metres, temperature of 200 C, and many others. Most of these factors will be from the technology group. There is no doubt that direct quantification is the best method, but, there are cases in which a CPIF cannot be quantified
+A schematic chart for classification of CPIF
+or where it is too expensive to use this method. In the latter case, the user must apply one of the other two methods.
+Indirect quantification of the CPIF
+For a CPIF that cannot be quantified directly, there is an indirect method to quantify specific factors. This problem can be demonstrated with a practical example. One of the most important factors for increasing production is labour motivation. It is highly diffcult to measure motivation using a direct scale. However, the user can measure this factor by using indicators such as the rate of turnover of employees in the company, the rate of demand for new positions or some other indicator. In any of these cases, the user must find the correlation between the indirect indicator and the CPIF which he is quantifying.
+Many factors from the second group, particularly those from the subgroup of social factors, are very diffcult to quantify using the two previous methods. In these instances, we can use the non-parametric statistical technique described by Suegal (1956). This method is based on a ranking done by an individual using his experience, knowledge and judgement. The elements being evaluated are ranked on a scale such as 1 to 10 or 1 to 100, etc. This technique is very common in the social sciences and extensive research has been done using this method. The most important aspect of using the ranking technique is to make sure that the evaluation is systematic and not biased. The special statistical branch of non-parametric ranking provides the necessary tools to measure the effectiveness of the ranking method. An example using this measuring technique would be the evaluation of the effectiveness of a superintendent on productivity. Individual effectiveness could be ranked on a scale of 1 to 10. For example, Mr J. Jones ranks 6 and Mr F. Smith ranks 2, and so on. By using this
+technique, we can incorporate in the model many of the CPIFs that could not otherwise be quantified.
+The relationship between influence factors and productivity rates
+Developing the model
+In order to establish the quantitative relationship between influence factors and productivity rates a statistical model must be developed. First, define the necessary parameters involved in the process of developing the model. A construction project is composed of various work elements that commonly are defined as items.
+
+P' the productivity rate for item i i an item 	1, 2, k the type of item (concrete, steel, excavation) the quantity of an item, i
+W the labour resource needed to produce the quantity for item, i  the type of labour resource (carpenters, steelers) then
+w17(0255,12) ¯— 2000 hours of carpenters (type 12) for concrete forms (type 0255) needed for item 17.
+The productivity rate will be computed by dividing the labour resources by the related quantities.
+
+(k,r) productivity rates then
+The influence factor for a productivity rate W(k,r)i will be influence factor j= 1, 2,
+The third influence factor j = 3 for item i = 17 affecting carpenters' work j = 12 for concrete form 0255 will be:
+The objective of this model is to find the function that will enable the user to determine the productivity rate based on the influence factors
+pi(k,r) f[Stk  S(k,r)2 • , s(k,r) i h]	(2) The model development is based on a statistical analysis of productivity rates obtained from data accumulated in past projects. In each of these projects a data set of information was obtained. Table 1 is a schematic example of such a data set.
+A schematic data set for the model
+Productivity
+
+Record No. Pi
+Influence factors
+For each chosen item the set includes a series of production rates and their respective CPIF. Each of these CPIFs was identified and quantified. Using a regression technique, the relationships between the influence factors and the CPIFs were established. The model was developed so that each user could adjust the details to his specific needs or capabilities. Adjustments can be made for the number of items, the expected degree of accuracy of the results, and more. If the specialization of the user is laying pipes, a model can be developed based on a few pertinent items and a limited number of CPIFs unique to the piping industry. This model would be simple and the resources (time, money, and manpower) needed to develop the model would be relatively small. On the other hand, a large organization would be likely to develop a larger, more sophisticated model, that would include most of the construction industry items. The needed resources to develop such a model would be considerably more than those of the first user.
+Procedure for developing the model
+The general model is based on a few basic principles. Fig. 3 describes the various steps in the model development process.
+The main steps for developing the model are as follows:
+Definition of the items which the user wants to incorporate in the model. The following information is needed for each item: a code, a well-defined description, a measurement unit, and sometimes a specification of the measurement method. For example:
+
+Forms for 15 cm concrete slab
+For each of the items defined in Step 1, a series of CPIFs must be determined. These factors are determined by past experience, general knowledge, and other available methods. The total number of CPIFs for each item is determined by the user within his resource limits.
+For each of the CPIFs, the quantification method is determined (direct, indirect,
+Sattsteal Ar-eivsis of the aza and 'eveiopment of the mooe:
+tor each nem
+Flowchart of the phases in developing the model
+or ranking). After choosing the quantification method, the necessary procedures for measuring the CPIFs are established. These procedures include measurement techniques, instrumentation, documentation form and so on.
+This step includes on-site data collection for the statistical analysis. Each recorded on site measurement should include the production rate and all concurrent CPIF data.
+A decision must be made concerning the minimum number of records to be collected for each item (sample size). This decision poses a major dilemma. On the one hand, the attitude of statisticians is that more data will improve the adequacy of the model. On the other hand, the practical approach must consider the cost involved in on-site collecting of the necessary information. The final decision must be a compromise between these two considerations, therefore, a guideline for the minimum number of measurements is needed. Based on recommendations by Horst (1965) and Cattle (1952), the minimum number of observations should be at least three times the number of the CPIFs involved in a specific item. For an item such as terrazzo tiles, if nine CPIFs were incorporated in the model, at least 27 records would be needed for this item.
+After the necessary information has been gathered for each item, all the data must be verified, organized and summarized. The final verification of the results is very important because the model is based on field measuremments. On many occasions the user can encounter problems such as a missing measurement for a specific CPIF, mistakes in measurements due to untrained personnel, and other problems caused by unusual conditions on the construction site. The approved results are summarized in final form. Table 2 is a schematic example of such a summary list.
+Summary data set for a specific item
+Productivity
+This step consists of actual development of the model equation based upon statistical analysis of the productivity rate measurements. In general, standard multiple regression procedures are appropriate. Regression calculations can be facilitated by the use of computers. Several top quality statistical software packages are available.
+Stepwise regression techniques appear to be particularly suited for this type of model building. The stepwise method involves introducing the variables to the model one at a time. After each addition, the model R 2 is calculated and evaluated in terms of model adequacy. Additionally, each trial variable is tested for statistical significance. Variables which fail to meet a chosen significance level are removed from the model. The final goal is to obtain a model providing acceptable prediction accuracy and which is composed of statistically significant variables.
+As with all model building, sound statistical techniques must be matched with understanding of the process being modelled. The final equation will be in the following form:
+
+is the predicted value of the productivity rate for a specific item, i
+A is the y axis intercept  is the regression coeffcient for variable n is the value of the CPIF for item i
+Model application in the construction industry
+The construction industry has unique conditions which separate it from most of the other industries that deal with production rates. Therefore, many theoretical models developed in the past have been unsuccessful when applied to the construction industry. In order to evaluate the possible applications of the model an experiment was conducted for an actual case study.
+The case study involved a residential building company that developed a new technique for the construction of low-cost concrete housing.
+The preliminary data collected from various projects indicated significant variation in productivity rates for similar items. Because of this high fluctuation it was almost impossible for the company to do a reliable study evaluating the new technique.
+In order to investigate possible reasons for this fluctuation, the company applied the model described in previous pages.
+Field measurements were taken for the seven most common items. For each of these items (forms, concrete, steel, etc.), a list of CPIFs that could affect the production rate was determined by experts. The data for these items was collected daily. The data includes measuring the time, the respective quantities and the information for each CPIF.
+In the limited form of this paper we cannot show all the results, so only one item was chosen to demonstrate the procedure.
+Influence factor for item (2045.11)
+Description of the CPIF
+Unit of measurement
+The area of the item
+Number of identical elements
+The number of stories
+Site supervisory performance
+Length of the wall
+Number of openings in the wall
+Daily temperature during construction
+Number of working hours during a day
+the erection of steel forms for vertical walls.
+Productivity measurement: man hours per m 2 , item code (2045.11).
+The CPIF as determined by the group of experts is shown in Table 3. Each day field measurements were taken and Table 4 is an example of a partial list of those results for this specific item. The same procedures were repeated for each item. The last step was to perform a statistical analysis on each item. Regression analysis of the data was performed using statistical software from the SAS Institute, Inc. SAS regression procedure with the stepwise method for model building was chosen. The SAS stepwise method introduces variables to the model one at a time as previously discussed. However, variables do not necessarily remain in the model. Variables which fail to pass tests for statistical significance are removed as the model is constructed.
+The summary list of measurements for item 2045.11
+Quan. No.	Story	Sup.	Length Open-	Temp.	Over-	Distance
+Quan. — the area of a vertical element in m 2.
+No. Elem. — number of identical elements each. 3. Story no. — the story number.
+Length — the length of the element in metres.
+Openings — the number of openings in the wall.
+Temp. — the daily temperature in c c.
+Overtime — overtime working hours (over 8 hrs).
+Distance — horizontal distance of transportation. _ Missing values.
+The SAS procedure produced a model with four variables. The results are summarized as follows:
+In addition, the SAS procedure also produces a tabulation of the prediction intervals for the sample data set. This is an important feature. The purpose of regressing the data is to obtain an equation for predicting the productivity rate given various values for the CPIFs. Therefore, a calculation of the prediction interval is a valuable indicator of model reliabilty. The resulting prediction interval data is included in Table 5. In this case, the SAS program uses a 95% confidence interval. However, each model builder must determine appropriate significance levels for the intended use.
+In this example, variables 'OV-Time' and 'Dist' contribute only marginally to the model. Consequently, the user may wish to consider removing these items from the model.
+Computer output providing prediction intervals
+Predict (mean)
+Lower 95% Upper 95% predict	predict
+It is not possible in this paper to present a complete discussion of model building and regression techniques, however several essential points should be made. Correlation among trial independent variables may affect model adequacy, therefore statistical tests for correlation should be performed. When pairs of highly correlated independent variables are detected, including only one of the variables in the final model may be desirable.
+Additionally, regression diagnostic procedures are important in checking model adequacy. For instance, in this example the model consisted of a linear equation. The model builder may wish to investigate the user of a model containing a higher order term. Also, it is important for the user to understand that the model is only statistically valid within the range of values observed for the independent variables. The final model equation is as follows:
+For a future project with the following CPIF values,
+= 20 the predicted productivity rate would be:
+The results of this study illustrate that the model can be applied to the construction industry. Each user can define his needs by using the various criteria of prediction intervals and significance levels with a number of CPIFs to adjust the model to his specific needs.
+Summary and conclusion
+The knowledge of accurate productivity rates is critical to the construction management process. In past research performed around the world, large fluctuations in productivity rates for similar items have been found. The main reason for these phenomena is the existence of a variety of factors known to affect productivity. These factors were defined as construction productivity influence factors (CPIFs).
+This paper presents a statistical model which is based on the analysis of productivity data obtained from previous projects. Using regression techniques, the quantitative relationships between the CPIFs and productivity rates can be established. The model equation enables the user to determine productivity rates for a future project from CPIF information. The system demonstrated in this paper was designed in such a way that it can be applied to on-site conditions by almost any construction organization. A few major conclusions can be drawn from the research and the case study:
+The number of influence factors in the construction industry is enormous and, therefore, the process of researching, identifying, sorting and classifying these factors is essential in order to understand CPIF behaviour.
+Although the total number of CPIFs is very large, the quantitative effect of each is varied. Some CPIFs have a major effect on production rates while the effect of others is negligible. The model described in this paper can be used to identify these dominating factors. By identifying the major influence factors, the construction industry can concentrate on controlling them in order to improve the productivity.
+The importance of thorough investigation of influence factors is far behind the direct application for data acquisition. Improved knowledge of the reasons for the behaviour of construction productivity will have a positive effect on many related subjects such as estimating, scheduling, labour and resource management.

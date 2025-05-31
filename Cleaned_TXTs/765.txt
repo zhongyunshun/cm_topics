@@ -1,0 +1,308 @@
+﻿Uncertainty network modeling method for construction risk management
+To cite this article: Roope Nyqvist, Antti Peltokorpi & Olli Seppänen (2024) Uncertainty network modeling method for construction risk management, Construction Management and Economics, 42: 4, 346-365, DOI: 10.1080/01446193.2023.2266760
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Uncertainty network modeling method for construction risk management
+School of Engineering, Aalto University, Espoo, Finland
+In recent decades, uncertainty management has increasingly elicited attention in construction management research due to increasing project complexity. However, existing management methods have not been able to solve the issues around risk and uncertainty, and regardless of the proposed network-based risk modeling approaches, there are insufficiencies in contemporary methods, such as their practical applicability. This study examined the current state and issues of uncertainty and risk management and proposed a novel uncertainty network model (UNM) as a solution. The uncertainty network model was designed and validated using design science methodology (DSM), drawing on literature and empirical data from interviews, questionnaires, case observations, and case testing. The UNM visually presents project risks, uncertainties, and their interconnections and criticality transforming project stakeholders’ tacit knowledge into an explicit, systematic representation of a project’s uncertainty and risk architecture. Applied to a real-world construction project, the model received positive feedback, demonstrating its effectiveness in enhancing practitioners’ understanding of networked risks and the potential to guide cost-effective risk-control activities by applying a systemic lens to project management. This practical validation showcases the model’s potential in addressing the shortcomings of existing methods and improving construction project risk management.
+Received 14 March 2023
+Accepted 29 September 2023
+Uncertainty; risk management; project management; visual management; collaboration; complexity; systems thinking
+Introduction
+Uncontrolled uncertainty in construction projects leads to issues that cause negative disruptions and can result in crises or even project failures. Furthermore, uncertainty is a primary factor impeding project management effectiveness (Luu et al. 2009, Shokri et al. 2016, Xia et al. 2018); consequently, uncertainty and risk management (RM) development are of great significance, as current incapabilities are considered primary reasons for not reaching project budgets, schedules, and other goals (Crispim et al. 2019).
+To address the issues of uncontrolled uncertainty, considerable research has been conducted, and methods have been proposed as solutions, especially in the field of RM (Wu 2011, International Organization for Standardization 2018, Zhao 2022). However, uncertainty management, RM methods, and their implementation can still be deemed insufficient, as 12 percent of construction projects are still considered failures, and only 57 percent are completed on time (Project Management Institute 2021).
+While contemporary RM has mainly focused on risk events, several techniques (e.g., Bayesian networks, social network analysis (SNA), and causal mapping (International Organization for Standardization 2018)) have been developed to perceive project risks as a network-based phenomenon from a systems perspective (Zheng et al. 2016, Hon et al. 2021).
+CONTACT Roope Nyqvist 	roope.nyqvist@aalto.fi 	School of Engineering, Aalto University, Espoo, Finland.
+2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+However, existing network-based methods and models are also partly insufficient for providing solutions to uncertainty and RM (Project Management Institute 2021). Prior methods fail to offer a holistic perception of project uncertainties simultaneously (Luu et al. 2009, Shokri et al. 2016, Xia et al. 2018), enable the modeling of interdependent uncertainty factors (Zheng et al. 2016, Kabir and Papadopoulos 2019, Hon et al. 2021), enable the modeling of opportunities (Ward and Chapman 2003, Project Management Institute 2016, International Organization for Standardization 2018), improve risk modeling accessibility and practicality (Senesi et al. 2015, Crispim et al. 2019), and facilitate stakeholder collaboration in RM (Lehtiranta 2014). Consequently, the existing gap in research is that the architecture, engineering and construction (AEC) industry still lacks viable entry-level solutions for network- based risk and uncertainty modeling.
+Therefore, this research proposes that construction risk and uncertainty management could benefit from a new, practical network-based model created by involving industry practitioners in its development. Accordingly, the research objective was to develop a novel network-based uncertainty management model (UNM) using the design science method (DSM). The objective was chosen to transform stakeholders’ tacit knowledge into an explicit, systematic representation of a project’s uncertainty and risk architecture, ultimately enhancing industry practitioners’ understanding of networked risks and guiding cost-effective risk-control activities.
+Hence, this research conducted a literature review, gathered empirical data from questionnaires, semi- structured interviews, case observations, and group work with AEC industry professionals for the model requirement synthesis, and ultimately designed and validated the UNM based on case project implementation and group work.
+The research was conducted in Finland to provide proximity to projects for empirical data collection and model testing. This facilitated the collection of rich, context-specific data and allowed for collaboration with industry practitioners to effectively develop and validate the UNM.
+The key results from this research showcase the development and validation of a novel uncertainty
+network modeling method and how the UNM provides a practical way of improving RM in construction projects and a direction to further refine network- based risk modeling.
+Theoretical background
+This section covers two main areas: uncertainty and risk management (RM), and risk network modeling. It reviews the theoretical background, common RM knowledge, and existing issues in both RM and network-based risk modeling methods while providing literature-based inputs for the uncertainty network model (UNM) design requirements.
+Uncertainty and risk management
+Effective uncertainty management is crucial for construction project success as it correlates with decision- making quality and overall efficiency (Ward and Chapman 2003, Luu et al. 2009, Shokri et al. 2016, Xia et al. 2018). Furthermore, managing uncertainty effectively influences variability, making production processes more reliable and contributing to positive outcomes (Koskela 2000, Hopp and Spearman 2001).
+Risk can be defined as an event or condition with uncertainty attached that has an effect on a project’s objectives (Project Management Institute 2016). Risk is commonly associated with negative events (i.e. threats) but can also encompass positive events (i.e. opportunities) (Bissonette 2016). However, terms like ‘risk’ and ‘uncertainty’ are commonly used synonymously, and the existing literature has not arrived at a consensus on the definitions.
+RM has evolved since 3,200 BC (Baker et al. 1999) and appeared in the construction management literature in the 1960s (Renn 1998). It has since become an integral part of project management and a specialized subject (Baker et al. 1999). Consequently, the construction industry has adopted and transformed RM methods from other fields for use in construction project management (Renn 1998).
+Contemporary RM knowledge has its foundations from notable publications, such as project management body of knowledge (PMBoK) (Project Management Institute 2016), managing successful projects with PRINCE2 (Bennet 2017), international organization for standardization (ISO31000)
+(International Organization for Standardization 2018), and association for project management body of knowledge (APM BoK) (Shermon et al. 2019). Additionally, a growing number of RM books published since the 1950s (Renn 1998, Taroun 2014), along with research publications, form the body of knowledge on RM, serving as the foundation for industry stakeholders’ uncertainty and RM practices.
+Common RM in the AEC field involves planning, project definition, risk identification, analysis, response planning, monitoring, and control throughout a project’s life cycle (Project Management Institute 2016, International Organization for Standardization 2018). The goal is to increase positive events’ likelihood and impact while decreasing negative events’ likelihood and impact towards project objectives (Project Management Institute 2016, International Organization for Standardization 2018).
+Furthermore, RM should help stakeholders reduce ambiguity, enhance efficiency in analysis and actions for controlling risks, and foster a collaborative approach where various stakeholders work together to manage project risks and uncertainty (Lehtiranta 2014, Wang et al. 2017, Xia et al. 2018).
+Serving as a guiding compass, RM supports cognitive work and collaborative decision-making to address project threats and capitalize on opportunities
+Summary of common risk modeling methods, functionalities, and limitations.
+Bayesian networks
+Use probability theory to model the relationships between variables in a system
+High expertise and software requirements
+Social network analysis
+Used to analyze relationships between individuals or
+organizations within a social network
+Poor applicability to large and complex projects
+Inability to model external threats, opportunities, or changes in the environment
+Used for understanding the causes and effects of particular event or situation
+Not a specialized method for project RM Insufficient ability to model projects holistically
+Inability to assign node and edge weights
+Fault tree analysis
+Used to identify and analyze the various factors that can
+contribute to the failure of a system
+High expertise and software requirements Does not provide results beyond identifying potential failure modes Insufficient ability to model projects holistically
+Inability to assign node and edge weights
+Event tree analysis
+Used to identify and analyze the various outcomes and consequences that can result from failure of a system
+High expertise and software requirements Does not provide results beyond identifying potential failure modes Insufficient ability to model projects holistically
+Inability to assign node and edge weights
+Used to create network-like structures for review of projects, especially for planning and scheduling
+Limited perception to task-related risk analysis
+Inability to model external threats, opportunities or changes in the environment
+(Project Management Institute 2016). Furthermore, well-executed RM creates nudges (Thaler and Sunstein 2021) that push stakeholders toward the right actions.
+However, conventional RM methods manage risks as independent entities, failing to address the interconnected nature of risk (Marle and Vidal 2011; Dikmen et al. 2022; Qazi and Dikmen 2019). This shortcoming is addressed by using network-based risk and uncertainty modeling methods, which will be discussed in the following section, covering common risk network modeling methods in construction, their functionalities, and their limitations.
+Risk network modeling helps analyze and understand risks, uncertainties, and dependencies in systems like construction projects. These models aim to provide a holistic understanding of system functioning, identify potential vulnerabilities, guide decision-making, and mitigate threats while capitalizing on opportunities (Cox 2009).
+Risk network models generally consist of risk factors, interdependencies, impacts, and probabilities. They support the cognitive processing of biased and tacit knowledge by presenting uncertainty and risk as interconnected nodes (Kabir and Papadopoulos 2019). And although prior methods attempt to codify knowledge and procedures within models (Yang et al. 2021, Gashaw and Jilcha 2022, Ji et al. 2022), they face challenges due to tacit knowledge and a lack of reliable data for real-life applications.
+There are several methods for risk network modeling, each with its own features and limitations. To create an overview of these features and limitations, a variety of common methods are introduced in this paper. A summary of the methods is presented in Table 1. Furthermore, the summary works as a representation of existing research gaps in the body of knowledge on network-based risk management methods.
+The first common risk network modeling method is Bayesian networks (BNs) (Ji et al. 2022) which uses probability theory to model variable relationships in a system, supporting decision-making through risk simulations (Wang et al. 2017, Namazian and Yakhchali 2018, Hon et al. 2021). However, BNs can be difficult to build and maintain, require specialized expertise, and are often overreliant on expert knowledge (Senesi et al. 2015, Hon et al. 2021, Ji et al. 2022).
+Another method is social network analysis (SNA), which analyzes relationships within a social network, identifying key stakeholders and vulnerabilities (Pryke 2004, Zheng et al. 2016). However, it struggles with complex social networks, provides a limited view of project risks, and does not address risk events holistically (Zheng et al. 2016).
+A third method for risk network modeling is causal mapping (Eden 1988, Bryson et al. 2004). Causal mapping is a simple method for understanding the causes and effects of a particular event or situation (Ackermann and Alexander 2016) but cannot create holistic models of a project’s risk network or assign weights to risk uncertainty factors and their relationships (Bryson et al. 2004, Ackermann and Alexander 2016).
+The fourth and fifth methods are fault tree analysis (FTA) and event tree analysis (ETA) which identify factors contributing to system failure and analyze outcomes (Ardeshir et al. 2014, Abdollahzadeh and Rastgoo 2015). Both provide graphical representations but have high expertise requirements and are insufficient for holistically modeling projects, due to focusing only on individual undesirable events (Abdollahzadeh and Rastgoo 2015).
+Other examples of network-based modeling are the critical path method (CPM), program evaluation and review technique (PERT), and graphical evaluation and review technique (GERT) which are network-based models used for planning and scheduling complex projects with uncertain task durations (Meyers 2001).
+However, CPM, PERT, and GERT are limited to task- related risk analysis and insufficient for portraying projects as holistic systems with interconnected uncertainty factors. They struggle with complex and highly uncertain construction projects (Dallasega et al. 2021) and are preferred for task-based analysis.
+Apart from the general methods mentioned in Table 1, various researchers have developed customized modeling methods (e.g., Samantra et al. 2017, Wang et al. 2017, Namazian and Yakhchali 2018, Arabi et al. 2022). However, they often rely on insufficient data, struggle to showcase influencing factors holistically, and require high expertise and specialized software for implementation, therefore indicating a common research gap in addressing these matters.
+Consequently, the majority of RM methods, including network modeling, face common issues such as lack of reliable data, biases, and noise, resulting in flawed abstractions representing risk systems (Tversky and Kahneman 1983, Kahneman 2011, Maldonato and Dell’Orco 2011, Kahneman et al. 2021, Thaler and Sunstein 2021, Lin et al. 2022). Due to the lack of quality data and stakeholder biases, simulations based on misleading or inadequate data can even provide a false sense of reality and negatively impact projects (Cox 2009).
+Furthermore, risk network modeling and simulations are not inherently flawless and simulations alone are currently insufficient to make efficient tacit judgments in environments with scattered, insufficient data sources and biased decision-making. Complex systems resist comprehensive simulation and modeling (Aziza et al. 2016), so it’s crucial to determine when abstraction provides more benefit than implementation effort and the models will have to function in an environment with scattered, insufficient data sources to support the biased and noisy decision-making associated with RM.
+Additionally, construction professionals often prefer simplistic practical approaches over innovations requiring steep learning curves (Liu et al. 2018, Akinosho et al. 2020), and have general incompetencies in risk management (Xia et al. 2018). Risk network modeling faces a resource allocation problem; compared to current methods, modeling has to provide more value than the perceived effort of learning and implementation to justify additional time usage to their implementation.
+Therefore, improving the accessibility and practicality of methods can increase acceptance and usage.
+In conclusion, current methods have gaps in practicality, simplicity and holistic functionality. These gaps are considered in this research as the functionality requirements (see Table 3) for a new novel model and are consequently used to define the proposed uncertainty network model’s (UNM) functionality statements.
+Research design and methods
+The empirical research aimed to develop a novel network modeling approach for uncertainty and RM: the uncertainty network model (UNM). The research was conducted using the design science method (DSM) (Holmstrom € et al. 2009).
+The DSM was chosen due to the apparent lack of connection between the research and the AEC industry practitioners in the development of novel network- based models for project uncertainty management. The decision to choose DSM over alternative methods was influenced by prior literature evidence, which showed how well DSM worked to develop novel solutions and advance knowledge in a variety of fields (vom Brocke et al. 2020, Aburamadan and Trillo 2020). DSM is especially well-suited for this research because it enables the development of a problem-oriented
+Research process.
+model (i.e. the UNM), while also incorporating industry perspectives, empirical data, and case study evaluations to ensure its relevance and practical applicability. Therefore, by using the DSM, this research provides empirically solid, realistically validated results in UNM development.
+The DSM process is conducted as seen in Figure 1: first in phase 1, the problem is identified and model requirements are synthesized; second, the model is developed iteratively within the AEC industry via case project testing and expert group meetings; and third, the model is validated by practical application in the case project, and presenting results expert group meetings for feedback (Peffers et al. 2007, Holmstrom € et al. 2009).
+During the problem identification and formulation in phase 1, literature reviews, questionnaire surveys, semi-structured interviews, project observations, and group meetings were used to define the model design requirements.
+For the literature review, recent peer-reviewed research publications from high-quality, peer-reviewed journals were emphasized. Keywords related to the research topic, such as uncertainty management, construction projects, risk management, risk modeling, network modeling, systems thinking, and complexity were identified to narrow down the research. The article search was conducted in relevant databases and search engines, such as Scopus, Web of Science and Google Scholar. Initial search results were screened for title and abstract relevance and duplicates were removed. The remaining articles were then assessed for eligibility by reading the full text, focusing on methodological rigor, relevance to the research questions, and quality of the findings.
+Empirical data for phase 1 (problem identification and analysis) was composed of questionnaires, interviews, group meetings, and project observations. Participants were selected from a research initiative involving 21 Finnish AEC firms, based on criteria such as contextual relevance and expertise in risk management. Empirical data were collected and analyzed through utilizing the expertise of professionals and case projects from the participating companies.
+Each participating company, case project and industry expert, was considered to operate frequently in a highly uncertain environment. It can be argued that the projects, interviews, and group meetings represent the current state of the Finnish AEC industry. Furthermore, the literature review ties the findings to the global context of RM development requirements, creating sufficient saturation of the research data.
+The research was conducted in Finland for the opportunity to conduct empirical research in close proximity to the projects under investigation and model testing. This enabled the research team to gather rich and context-specific data, ensuring a deep understanding of the local environment and project dynamics. Furthermore, the selection ensured the researchers to capitalize on collaboration with industry practitioners to ensure relevant expertise for the development and validation of the UNM.
+Questionnaire surveys for problem identification (phase 1) were conducted in 2021. Questionnaires were sent to 29 recipients in the Finnish AEC sector, of which 16 responses were received. The respondents were asked to evaluate and define the current state of RM in their projects and companies and to give their perceptions of the most relevant issues surrounding uncertainty and RM. The received amount of responses to the survey was considered sufficient by the research, as it provided a good overview of a variety of leading companies in Finland and it could be argued that no significant additions would have been obtained by additional responses. A summary of the descriptive statistics of the questionnaire data can be found in Appendix 1.
+The questionnaire was designed to explore various aspects of risk management (RM) in organizations and projects, including current methodologies, the effectiveness of risk identification, the potential for improvement, implementation of RM plans, investment in RM development, and identification of the most capable RM experts. The responses provided an overview of the current state of RM in the respondents’ organizations and projects.
+Following the questionnaires, a series of nine semi- structured, in-depth interviews with representatives of
+Companies, case projects and positions of interviewees involved in the research during phase 1.
+School center extension and renovation
+Conversion of an office building into a hotel
+
+Project manager, technical office manager
+Congress and event center renovation
+Director, business development manager
+the Finnish AEC sector was conducted in 2021. Semi- structured interviews were chosen as the most appropriate method for exploring complex issues in the research because of flexibility, allowing participants to elaborate on the given topics, creating a greater depth of understanding and building on the contextual understanding (Easterby-Smith 2015, Casell 2018). The guiding questions translated from Finnish can be found in Appendix 2.
+Respondents were selected based on their relevant construction management expertise and position, from a variety of companies for diversity, and overall representativeness of the Finnish AEC industry. Sufficient saturation of interview data was achieved through a great diversity of respondents and depth of interviews and therefore nine conducted interviews provided a good basis for the triangulation of data to support the problem formulation and definition of UNM functionality statements (Easterby-Smith 2015).
+Each respondent was asked to elaborate on challenges and potential solutions related to uncertainty and risk management as they relate to their organization and projects. Six of the respondents were involved in specific projects, while seven spoke on a more general level. The interviews ranged in length from one to two hours. Prior to each interview, participants were briefed on the objectives of the study. The interviewees’ roles within their companies and the specifics of the projects in which they are involved are detailed in Table 2. It should be noted that the data on revenues and number of employees refer to the companies and not to the individual projects. The selection of cases was based on the companies and researchers assessment of suitability.
+Each company participating in the research was asked to choose relevant projects for the research. Consequently, four suitable projects were chosen. Data collection in the participating projects focused on the company’s RM practices and project-specific issues, while the data collection with the companies Epsilon and Zeta focused more on general issues with RM in the businesses and business units.
+Furthermore, data collection on the projects was conducted through observations during site visits, meetings with project personnel, and documents on how uncertainty and RM are dealt with in practice and what kinds of issues the projects have related to RM. Finally, the results were presented in group meetings, during which the participants from all 21 Finnish AEC companies could participate and provide feedback. The feedback was eventually evaluated by the authors and used in the UNM development process.
+Consequently, the multiple theoretical and empirical sources described were used to formulate the design requirements for the UNM by distilling the findings into five key requirement statements. The statements and most relevant references to the literature and empirical data are presented in Table 3. Accordingly, the UNM design and validation were conducted based on the requirements statements.
+The UNM development in phase 2 was conducted with the use of case analysis and demonstration as an iterative process; the development versions of the UNM were presented for additional feedback in four group meetings during 2021 and 2022. The participants in the group meetings were invited from 21 Finnish AEC industry companies in which each group member held a relevant managerial position.
+Finally in phase 2, the UNM was exposed to a case application with the company Gamma (see Table 2) theater project, utilizing the existing project’s RM data, resulting in an initial project UNM (Figure 3) and an updated UNM (Figure 4). Feedback gathered from discussions with the project participants, group meetings, and case project applications helped the authors
+Model requirements derived from the empirical findings.
+1) The model must enable a holistic perception of project uncertainties
+RM tools generally manage interdependent risk as if they were independent; consequently failing to model the nature of risk.
+Each stakeholder seemed to consider risks independently, a common holistic picture was not achieved. "The stakeholders should better understand the impact of risks" questionnaire answer
+2) The model must enable the modeling of interdependent uncertainty factors
+Risk modeling enables features required for dealing with the interdependencies of risk.
+Observed RM systems in use were based on siloed perception of risk, where each factor was analyzed separately. Relationships between risk factors and emergent properties of risk were not showcased by the interviewees or case projects.
+3) The model must enable modeling of opportunities
+Positive risks (opportunities) are often neglected in RM, and developed models tend to focus exclusively on negative risks.
+Observed projects RM did not show indications of systematic analysis or consideration of opportunity management.
+Ward and Chapman 2003, Project
+International Organization for
+Current risk modeling methods have been poorly adopted by the
+RM expertise is limited and new models need to be applicable in a real-world scenario.
+Based on questionnaires, the skills on RM are poor, and risk modeling methods have not been utilized.
+5) The model must facilitate stakeholder collaboration in RM
+Successful RM is obtained by unifying multiple organizations collaboratively.
+"Where it [RM] often falls down is if it’s left to one person." project manager in company Alfa "The risks are recorded in a separate file and kept available to a limited circle. Risk assessments must be clearly available to all parties involved in the project." questionnaire answer
+eventually develop, refine, and validate the UNM in phase 3.
+Analysis and results
+In the following section, the design requirements are synthesized based on empirical findings and results from the literature review. Then, the UNM guidelines and functionalities are presented, the development process is detailed, and the model is validated.
+The interviews, questionnaires, case observations, and group meetings revealed the following details about RM practices in Finnish AEC companies. First, based on data gathered in phase 1, RM is generally done in a siloed manner, in terms of how the processes are executed independently by separate actors and in the sense that risks are perceived as disconnected from each other.
+Second, a siloed approach to risks was observed as different project stakeholders had varying perceptions of project risk, resulting in a lack of a common holistic perception of a project’s risks and uncertainties. Additionally, when analyzing the risks separately, the ability to understand the root causes and emergent properties of risks and uncertainty factors is insufficient compared to network-based methods.
+Third, only threats were generally considered in RM based on data gathered in phase 1. Opportunity management was practically unutilized in projects. Fourth, companies overall capabilities related to RM were evaluated as poor by the respondents, with the responses to “How effective do you think your company’s risk management methods are? ” scoring 6.6 out of 10 in the survey (see Appendix 1), even though RM was seen to have a strong correlation with the success of projects (Project Management Institute 2016). Furthermore, the questionnaire and interviews indicated that a lack of RM expertise is a common issue and that additional efforts to obtain much-needed expert skills were uncommon.
+Fifth, respondents generally considered a solid need to work collaboratively to achieve efficient RM results. Nevertheless, collaborative efforts were unusual, and the current RM methods indicated that even if RM were done, its results would be kept hidden due to liability concerns.
+None of the respondents showcased risk simulations in their projects, as spreadsheets, and word- based RM practices were dominantly used. Prior use of network-based methods was limited to singular tests using root-cause analysis in the respondents’ projects.
+Consequently, the authors identified design requirements based on the key results and synthesized them in the five model design requirement statements:
+The model must enable a holistic perception of project uncertainties.
+The model must enable the modeling of interdependent uncertainty factors.
+The 	model 	must 	enable 	the 	modeling 	of opportunities.
+The model must improve the accessibility and practicality of risk modeling.
+The model must facilitate stakeholder collaboration in RM.
+Each statement functions as a definitive requirement for the UNM design and was created as a synthesis of the literature review and empirical research. The model requirements, observations about specific requirements, sample evidence from empirical data, and literature references are presented in Table 3.
+The uncertainty network model (UNM)
+In the following section, the structure and principles of the UNM are presented. The first part details the model’s development and presents the initial case results. The second part covers the refined case project model and summarizes the validation.
+Model development and the initial case results (phase 2)
+The research conducted for the UNM development was an iterative design process. Once the design problems were identified (for existing method limitations, see Table 1) and the requirement statements were synthesized (see Table 3), the design work utilized group meetings and case project testing in the UNM design phase. The theater renovation project of company Gamma was selected to develop and validate the model. The UNM was developed during 2021 and 2022, and an iterative design was worked on until the model features met the requirements.
+The UNM is structured as an undirected hierarchical weighted egocentric network in which the project is the ego node. The model’s purpose is to improve the understanding of uncertainty in construction projects. The UNM achieves this purpose by providing a way to model risks in a network-based, systematic, holistic, and visual way that considers uncertainty factors, risk events, and their interactions in a simple way.
+In the UNM, uncertainty factors, grouping nodes, and risks are positioned as parent nodes to the project ego node. The parent nodes are considered the root causes of their associated child nodes. In a situation with no parent-child relationship, the nodes are considered to have a mutual concurrent influence on each other.
+Each node has determined weights based on two factors: connectivity and criticality. Furthermore, nodes are connected by weighted links, which represent the relationships between the nodes. Link weights are defined based on the strength of causality between the connected nodes.
+The connectivity factor for a node is determined by assessing the sum of connections to other nodes (node degree) and connecting link weights.
+Accordingly, a high connectivity factor is represented as a visually larger node (see Figure 2).
+The criticality factor for a node is evaluated based on the sum of the impact, probability of occurrence, and acuteness of the relevant action. Accordingly, a larger impact, higher probability, and higher urgency of relevant activities are causal to the visual coloring of the node, as shown in Figure 2. With non-event nodes (i.e. neutral nodes), such as uncertainty sources, project objectives, or risk categories, the probability of occurrence can be substituted with the probability of causing emergent behavior (e.g., assessed probability of causing an impact to linked nodes).
+This research uses the scoring values presented in Table 4, for calculation of connectivity factors and criticality values. The scoring values are used with both the UNM example (Figure 2 and Table 5) and the theater case project. Each value is chosen to illustrate different weights of nodes and links in a project’s risk network. However, it has to be considered that UNM is primarily intended as a simple-to-use qualitative RM method and the quantitative values for each UNM are presented for illustrative purposes. Quantitative RM simulation use of UNM is accordingly proposed in the future research section of this paper.
+Accordingly, the representative values of Figure 2 are presented below in Table 5, utilizing the scoring values from Table 4. Node weights are calculated as the sum of the given nodes’ connectivity factor and criticality. To demonstrate the functioning of UNM, a simple illustrative example is used (Figure2). The figure uses example data given in Table 5 based on scoring values of Table 4 and is not based on real project data.
+UNM guidelines presented with an illustrative example.
+It is proposed that value determination for connectivity, strengths of relationships, and criticality should be done by the relevant project stakeholders as a result of qualitative (e.g., expert judgment) and quantitative (e.g., historical data analysis and base rate comparison) assessments. Therefore, obtaining accurate values serves as the basis for model creation and should be emphasized to improve subsequent model accuracy. However, the quality of the base data can also be improved by performing the value extraction and modeling simultaneously, as the visual representation (e.g., Figure 2) makes the existing data (e.g., Table 5) systematically understandable.
+Referring to the example provided, the threats and opportunities within the project are effectively quantified, interconnected, and visually represented in a holistic manner. This network-based depiction facilitates consistent decision-making, as it enables the identification of critical nodes and their relative impacts. For instance, Threats 0 and 5 in the example exhibit the highest negative criticality, with both having associations with Threat3.
+Consequently, project managers should prioritize management actions that address these critical threats and their associated risks. For example, if Threat 0 and Threat 5 contribute to a 20% cost overrun, focusing on their mitigation could lead to significant project savings. Moreover, a further analysis could determine which threats, if resolved, would yield the highest impact reduction. Additionally, continual identification and evaluation of threats and opportunities are encouraged. In particular, nodes of high criticality and weight (see Table 5) present prime opportunities for further identification and analysis.
+The UNM is proposed to be created and used in a workshop environment in which stakeholders from different disciplines collaborate on the elicitation, structuring, and analysis of the model and use the UNM analysis results as guidance for uncertainty and RM actions.
+During the workshops, historical data and perceptions of risks, uncertainty factors, and their connections should be augmented for modeling. Additional input can be captured from stakeholders using various techniques, such as brainstorming, sticky notes, questionnaires, or group decision support software.
+The initial UNM created for the theater project based on existing RM data.
+The techniques used for an initial UNM creation should enable the capture of threats and opportunities in an open, non-confrontational environment. The objective is to create a network graph (e.g., Figure 2) that contributes to uncertainty awareness among stakeholders, provides direction for RM actions, documents the situation, creates a platform for scenario mapping, and eases the continuous learning possibilities on uncertainty and risk.
+Once the initial UNM is created, the network can be observed. Observation is an activity during which stakeholders observe the graph and identify nodes with high weights to understand the architecture of the project’s risk network.
+Based on the observations, further actions are taken; for example, high-weight nodes are proposed to be assessed by root cause analysis, consequently increasing the UNM detail in previously identified relevant parts of the network. Consequent detailing can guide stakeholders in uncovering critical factors, thus leading to improved actions through improved understanding.
+The theater project UNM refined based on feedback.
+Additionally, the UNM can be used to better define the responsibilities for RM actions by allocating interconnected areas of the network as responsibility areas to project stakeholders. Therefore, by using the UNM, the interconnectivity of risk can be considered when choosing the relevant responsible stakeholders and executing consequent actions toward RM.
+The next step was to demonstrate the model with a real case. A large theater renovation project (Table 2) was used in cooperation with the general contractor (company Gamma) during the construction phase. The project was chosen due to its complexity and the use of a collaborative project delivery model.
+Risk data and contractor feedback from the theater renovation project were instrumental in the development of the Uncertainty Network Model (UNM).
+Initially, the data were housed in a spreadsheet, without consideration of intricate aspects such as connectivity or criticality. The research team then enriched this raw data by incorporating links between nodes, informed by discussions with project respondents and a careful evaluation of risk descriptions and similarities. The process of incorporating node criticalities, and previously non-existent connections between nodes led to the formation of the initial theater project UNM, as visually shown in Figure 3, with the corresponding numerical values shown in Table 6.
+There exists an alternative route to this process, where the model could be constructed visually. While this method emphasizes time efficiency and adaptability, it bypasses the quantitative analysis phase. Such a path may expedite the modeling process, but it risks sacrificing the detail afforded by quantitative analysis.
+For example, relying solely on the visual model may streamline the process and allow for adaptive modifications, but it may lack the nuanced insights provided by quantitative examination. Therefore, while this method offers advantages in terms of convenience, it must be used with consideration of the potential trade-off in analytical accuracy.
+Showcasing the results in group meetings and case testing resulted in positive feedback, with the main notion coming from the ability to make RM more approachable due to making uncertainties visually more apparent. Furthermore, the initial theater project UNM made the narrow scope of the existing risk identification and risk connections visible.
+Concern was raised about the usability of the model dynamically in different phases of the project.
+Example connectivity factor and criticality scoring for UNM.
+Connectivity factor based on the strength of relationship
+
+
+
+Opportunity
+
+A potential solution would be to create phase-specific predictive UNM graphs to improve project awareness and to record the project’s uncertainty status in UNM to gather continuous learning data.
+Refined model and summary of validation (phase 3). After showcasing the initial model (as seen in Figure 3), the theater renovation project UNM was refined and validated through the use in the case project and finally by presenting the UNM development results in expert group meetings.
+First, the case project manager respondent was asked to provide feedback on the strengths and
+neutral, threat or opportunity)
+Links to the following nodes
+(Strenght of relationship: low, medium, high)
+Number of connecting nodes
+Connectivity factor
+Criticality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+opportunity0
+
+opportunity1
+opportunity2
+Values for the initial UNM for the theater project (i.e. Figure 3 values from existing project risk analysis and researcher refinement).
+Node name and type
+neutral, threat or opportunity)
+Links to the following nodes
+(strenght of relationship: low, medium, high)
+Number of  connecting  nodes
+Connectivity  factor
+Criticality
+Theater project
+Technical and production risks
+Poor availability of offers
+Delay of presentation technology procurement
+
+Financial situation of the subcontractor (bankruptcy)
+Lack of site management resources
+The customer experience created by the service provider is poor
+Failure to ensure good quality of work
+Poor rate of correction of errors and omissions
+Failure of ground injections
+Compatibility of HVAC and MEP installations
+
+Reliability of HVAC machines
+The project will not be completed on time
+Buildings to be preserved are sinking/moving
+Creation of cracks, etc.
+Water leakage damage to operational premises
+Weater leakage damage in the technical cellar to be preserved
+weaknesses of the initial UNM graph (see Figure 3). Based on feedback and consequent discussions, the researchers updated the UNM to match the project manager respondents’ desired improvements (see
+The theater renovation project UNM was expanded from the initial version to include the project objectives by directly connecting them to the ego node (see Figure 4). Therefore, the UNM now dealt with the project risks through their impact on the project’s objectives, making the impactful factors more apparent to plan risk control and mitigation.
+The refined theater renovation project UNM graph was considered beneficial also by the project manager respondent, due to its ability to help the understanding of the most relevant threats related to the overall project objectives. Therefore, the UNM could be used to bind RM better to the overall management of the project validating its usefulness in both analysis of risks, and in the control and mitigation of risks from a practical standpoint.
+Furthermore, additional threats and their root causes were identified by the theater renovation project manager respondent by observing the UNM. Each of the newly identified threats was added to the UNM graph improving the model’s representativeness of the theater project (as seen in Figure 4 and Table 7). Therefore, by enhancing the accuracy of risk identification compared to traditional spreadsheet-based methods used in the theater project, it can be proposed that the UNM can have a beneficial impact also on risk identification in other real-life projects.
+Additionally, the UNM was considered to be especially advantageous in meetings by the project manager respondent to support the discussion on project status and to highlight relevant risks for the upcoming 6–12 months. These results indicate benefits in UNM usage supporting a more collective understanding of project risks and uncertainty validating its beneficial use as a collaborative tool.
+Therefore, based on the practical results and obtained feedback, it can be concluded that the UNM improves project stakeholders’ ability to identify risks, analyze risks, plan risk control and mitigation, and ease the collaboration around RM. Most notably, the UNM made the project’s existing risk analysis inadequacies apparent, as the case respondent could easily identify insufficiencies in the existing risk analysis by having a better way to structure risks, and their connections.
+The empirical validation, therefore, provided support that design requirements 1, 2, 4, and 5 (see Table 3) could be fulfilled with the existing design. Requirement 3 was not considered in the case project due to the case data limitations. However, it can be argued that the modeling of opportunities is technically analogous to threats, and thus easily achievable with the current UNM design and does not pose an issue for the validation of the current design.
+Finally, both the initial theater renovation project UNM and the refined version were showcased in group meetings, during which the industry expert respondents from other Finnish AEC companies could give feedback. The practical application of the UNM and the positive feedback from Finnish AEC industry experts confirmed the validation of the current UNM design.
+This research started with the realization that uncertainty is the root cause of inefficiency in construction project management (Luu et al. 2009, Shokri et al. 2016, Xia et al. 2018), and to manage this root cause, we need to address the gaps in the functionality of existing methods to create a realistic solution to support construction uncertainty and risk management.
+To respond to these gaps, the research synthesized design requirements and created a new practical and entry-level network-based uncertainty network modeling (UNM) method using DSM (Holmstrom € et al. 2009). Consequently, it can be argued that construction projects can benefit from applying holistic, network-based methods. Furthermore, similar to Xia et al. (2018), RM maturity in projects was found to be generally low, and somewhat unexpectedly, some stakeholders lacked even basic RM processes.
+The UNM development was exposed to critical feedback from industry experts, both by testing the method in a real high-uncertainty project and by presenting it for feedback in expert group meetings. This empirically focused development of UNM showed holistic results on the method’s usability. Arguably if method development would be done with limited case data, it would lead to the results not reaching the necessary level of practical usability that the AEC industry needs.
+Consequently, the real-world testing of UNM indicated that facilitating the use of any RM method is critical. The findings support Lehtiranta (2014) and Wang et al. (2017) results that RM needs to be collaborative as it includes elements from the facilitation of RM by all project stakeholders. Furthermore, the research found that the method to be used in projects has to be selected based on the given maturity level of companies and their projects, therefore various (e.g., Shoar et al. 2018, Ji et al. 2022 and Lin et al. 2022) implementations of theoretical modeling methods may encounter significant problems in real-world scenarios.
+As a result, the empirical results were largely consistent with the existing literature. An alternative explanation for the efficiency of UNM could be argued to be related to the involvement of the researchers in the case project. Although the researchers did not provide additional data to the stakeholders, they could have improved their RM level through other methods. However, it could be concluded that the findings are in line with the existing literature and that UNM has significant potential for future application in construction projects and provides an excellent empirically tested template for the further development of more advanced RM methods.
+Theoretical implications
+This paper contributed to the literature on network- based risk management methodologies in three ways.
+Values for the refined theater project UNM (i.e. Figure 4 values based on feedback from the project manager respondent).
+Node name and type
+neutral, threat or opportunity)
+Links to the following nodes
+(strenght of relationship: low, medium, high)
+Number of  connecting  nodes
+Connectivity  factor
+Criticality
+Theater project
+Below the target cost of the project
+Completion of the project on schedule
+Ensuring good quality of work
+
+Speed of correction of errors and omissions
+Customer experience created by the service provider
+The customer experience created by the service provider is poor
+
+Financial situation of the subcontractor (bankruptcy)
+Poor availability of offers
+The project will not be completed on time
+Delay of presentation technology procurement
+Buildings to be preserved are sinking/moving
+Failure of ground injections
+Creation of cracks, etc.
+Underground MEP failure
+Lacking reliability of HVAC machines
+Poor compatibility of HVAC and MEP installations
+
+Changes in construction work will change the implementation of HVAC and MEP
+MEP cellar water damages
+Water damage to space in use
+Lack of personnel resources and commitment
+
+Change of presentation technology
+After opening the surface, the structural engineer discovers that the structure will not be able to withstand
+
+Reinforcement of the structure will be redesigned
+Assessing the cost of the envisaged structures and identifying alternatives fails
+Delays in ordering additional works from the contractor and fetching materials
+Poor rate of correction of errors and omissions
+Failure to ensure good quality work
+First, the research uncovered challenges and gaps in existing research, concluding that the AEC industry lacks a network-based method that can create a holistic perception of project uncertainties, model interdependent uncertainty factors and opportunities, improve the accessibility and practicality of risk modeling, and finally facilitate stakeholders’ collaboration in construction projects RM.
+Second, the paper developed a novel modeling method that can fill the gaps through its functionalities. The UNM was developed and iterated upon until it could fill the above-mentioned functionalities sufficiently. And thirdly, the practical testing provided insights and ideas to further develop the foundation of UNM. On this basis, industry players and researchers can easily further develop network-based construction management methods, enabling the continuous creation of novel RM methods that can cope with today’s project complexities.
+Practical and managerial implications
+The main practical contribution of the paper is the development and introduction of the UNM as an easy- to-use method to assist construction project stakeholders in managing risk and uncertainty. The UNM can provide a basis for various stakeholders, such as project managers, real estate developers, and construction site supervisors, to extend their traditional RM methods.
+The research identified several points that are important when using network-based modeling to manage uncertainty and risk in construction projects. First, there is a need for a mindset shift from risk events to focus on the functioning of systems through a network approach. Using the UNM, projects are viewed through a method that emphasizes interdependencies and causalities to enable this mindset shift.
+Second, to address the lack of expertise of industry practitioners, projects should first rely on down-to- earth simplicity in uncertainty and RM to achieve practical actions toward RM, and then add functionality. In addition, siloed uncertainty management practices should be deliberately broken down and replaced with modern project delivery methods that leverage collaboration with temporary multi-organizations. In addition, the UNM can be used in the overall management of the project by integrating project objectives into the network and assigning stakeholder nodes as well as risk area-specific responsibilities. Therefore, by using the UNM, the interconnectivity of risks can be considered in project management and RM activities.
+Once the initial reliance on static risk matrices and siloed risk perspectives have been broken and project stakeholders are more accustomed to network-based thinking, mathematical simulations of risk and uncertainty can be added incrementally to the project’s RM practices. The UNM’s ability to facilitate risk and uncertainty modeling for decision-making can lead to more informed RM strategies and a transformation of existing practices, enhancing the potential for cost savings and value attainment. This proposed network-based, collaborative RM model has the potential to have a significant impact on construction project stakeholders, especially when leveraged to achieve project objectives more efficiently and cost-effectively.
+This research has several limitations. First, the scope of the research was limited to the development of an uncertainty network modeling artifact applicable to projects. Therefore, this paper did not address the link between portfolio and enterprise uncertainty modeling due to scope limitations, despite the potential for functional expansion. Second, to ensure adequate saturation, common network-based risk modeling methods were covered during the design requirements synthesis. However, this research does not include an exhaustive synthesis of all network-based modeling methods. Therefore, an exhaustive review of modeling methods may be preferable to address the functionality issues of each existing method.
+Third, comparative results between modeling methods were not achieved on the UNM test case, and therefore comparative results could not be concluded. In addition, research data was collected from the Finnish AEC industry and several complementary sources to provide a reliable understanding of the current state of RM and the limitations of network-based risk modeling. However, the validation of the UNM was based on feedback from a single case project and several group meetings; therefore, further empirical and quantitative justification and measurement of UNM impact on projects would be preferable.
+Finally, the case project where UNM was tested had limitations on its risk data, as the project had not identified opportunities these features of the model could not be tested. Also, additional root causes could have been valuable for more in-depth testing of the UNM advantages in modeling larger interconnected networks.
+Specific future topics could include the extension of UNM to enterprise and portfolio uncertainty management, implementation with situational awareness systems, and extension to socio-technical system simulations. In addition, future researchers are encouraged to test, modify, and build upon the UNM in various case studies. An important research potential would be to select a case project in which the UNM is proactively used as a method for dealing with project risks and uncertainties to demonstrate how it can be used in practice as a central tool for project management.
+The construction industry is evolving; in particular, companies are introducing new digital innovations. As a result, network-based uncertainty modeling methods such as UNM could be further enhanced with probabilistic simulation and the use of AI (Akinosho et al. 2020, Abioye et al. 2021). Additionally, the interconnectivity of innovations with the UNM could be addressed. For example, how to link uncertainty awareness and digital twins (Sacks et al. 2020), and how uncertainty models could be used with databases and sensor-based situational data sources to create dynamic uncertainty models and simulations.
+Furthermore, by converting to a more data-driven way of working, new data sources could be used to teach predictive models, build continuous learning data loops, and dial up the efficiency of AI modeling methods (Brynjolfsson and Mcafee 2017). Finally, future research could also study how source data development functions as the root cause of efficient data-driven uncertainty management methods and whether sufficient data will eventually render simplistic visual uncertainty models unnecessary (Agrawal et al. 2018, Burstrom € et al. 2021).
+
+This research addressed the need for practical network-based risk management methods for construction projects by developing a novel uncertainty network modeling (UNM) method by using a DSM approach. UNM fixes the gaps in existing method functionalities and improves stakeholders’ understanding of project risk architecture, which will consequently improve RM analysis, planning, and support actions to implement efficient RM strategies.
+Arguably, UNM and the existing plethora of network-based methods share similar issues, such as the need to shift thinking to a systems perspective, the application of new methods with existing RM practices, and the reliance on generally poor data quality. However, the results indicated that UNM is a more practical and efficient entry method for transitioning RM practices to a systems-oriented way compared to other solutions. And once companies transform their thinking to more systemic ways, using simple practices, it is easier to add features and apply more sophisticated methods for RM.
+Therefore, by providing the AEC industry and research community with a new method for network- based uncertainty management, this paper can serve as a pragmatic start to incorporate UNM as an empirically tested simple network-based method into their RM. The proposed method can then be further developed to meet the changing needs of future project uncertainty and to meet the uncertain demands of a complex future.
+We thank the companies involved in this research for their valuable feedback and their cooperation with the research.
+The authors report that there are no competing interests to declare.
+The data that support the findings of this study are available from the corresponding author, upon reasonable request.

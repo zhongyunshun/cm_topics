@@ -1,0 +1,151 @@
+﻿Construction Management and Economics (1995) 13, 81—89
+Construction time-influencing factors: the contractor's perspective
+Department of Building and Quantity Surveying, University of the Witwatersrand, Johannesburg 2050, South Africa
+Received 11 May 1994; revised 12 July 1994
+The result of a preliminary survey of factors affecting construction time is described. The objective of the survey which was conducted in the UK was to prioritize factors which are taken into consideration by accomplished contractors in planning the construction time of buildings. A significant degree of consistency in ranking 'timeinfluencing factors' was found. The most important factors are apparently those which can readily be identified or deduced from project information and whose impact on construction time can generally be assessed explicitly by mathematical and judgemental analyses.
+Construction time, influencing factors, ranking, contractor, descriptive survey.
+Introduction
+Various factors affect the construction time of buildings and to varying degrees. The objective of this paper is to prioritize time-influencing factors from the viewpoint of those involved with construction activities on sites, i.e. the contractors. Nkado (1991) has shown that prioritizing time-influencing factors is a useful basis for modelling and predicting construction time.
+Construction time can be regarded as the elapsed period from the commencement of site works to the completion and handover of a building to the client. The construction time of a building is usually specified prior to the commencement of construction. Construction time can also be deduced from the client's brief or derived by the construction planner from available project information.
+Construction time, although only a part of the lifecycle duration of buildings, is increasingly important for several reasons. The construction period demands the focus of attention of all the key participants in the construction process. It is during this period that the greatest part of the resources for a scheme is irreversibly committed. Furthermore, construction time is a basis for evaluating the success of a project and the effciency of the project organization. Indeed, completing projects on time is symbolic of an effcient construction industry (NEDO, 1988). In contrast, severe criticisms of the industry arise when buildings take much longer than planned to erect (Bennett et al., 1979; Flanagan et al., 1986; Southgate, 1988; Mobbs, 1989).
+Time-influencing factors
+There is no consensus in the literature on the identification of factors which affect stipulated, planned or achieved construction times of buildings. One reason for this is that researchers have largely viewed the subject from diverse perspectives. Such viewpoints include identification of discrete factors which affect productivity on-site and taking a systems view of the construction process and end-product.
+The factors which have been described as affecting site productivity and, impliedly, construction time include buildability (Ferguson, 1983), management and leadership (Grant, 1984), knowledge of subcontractors work, the nature of relationships between the general contractor, subcontractor and client's agent (Russell and McGowan, 1987) and the degree of coordination in design information and the completeness of project information (Gordon, 1988).
+Ahuja and Nandakumar (1984) listed other factors that ultimately affect site productivity such as work space availability, attendance of operatives, learning curve, weather, labour relations, project complexity, foundation condition and effectiveness of supervision. Singh (1984) indicated that the time outcome of a project would be affected by the form of the construction, the size of the project (as measured by the gross floor area, GFA), the number of storeys, the contractual system, the tendering procedure, the existence of a basement, the management effciency of the construction firm and the development of coordination between the various agencies involved in the construction.
+From a systems viewpoint, the construction project can be distinguished from the environment in which the project takes place. Sidwell (1982) opined that the environment describes all external influences on the building process. Walker (198()) enumerated factors in the environment which can affect the construction time, cost and quality performance of a project as legal political, institutional, cultural/sociological, technological and economic/competitive. Hughes (1989) added to this list aesthetic, financial and physical factors. According to Farzard (1984) the following additional factors reflect the environment of developing countries: educational, natural resources, industry, religious and demographic factors.
+Time-influencing factors need to be prioritized if used as a basis to model construction time. Gray (1986 and Nkado (1992) have demonstrated how models for predicting construction times at an early design stage mostly seek to avail the design team of the expertise of the construction planner so that the impact on time of design decisions can be evaluated quickly and guide the development of the design. Therefore, planners' perspective of important factors affecting construction time is relevant for modelling construction time.
+
+The survey described below tests the hypothesis that 'factors that affect construction time can be prioritized'.
+The underlying assumption is that participants in the survey are competent and experienced and have exercised sound judgement in their response. Steps were taken in administering the postal survey to ensure that the basic assumption was met.
+The descriptive survey method was used. A questionnaire was designed to sample the opinion of experienced construction planners on factors which are considered in estimating construction time. Basic criteria advocated by Leedy (1989, p. 143) and considered in designing the questionnaire included using unmistakably clear and courteous language, addressing a specific research objective, brevity, checks for consistency and an offer of the results of the study to the respondents. The questionnaire is shown in the Appendix.
+Factors identified in the literature were listed in the questionnaire under six headings: client, design and specialist consultants, contract, project, site management and external influences. A total of 33 specific factors and 28 ranking options were listed. Respondents were requested to indicate whether or not they consider the individual factors in estimating construction time.
+Provisions were made for and respondents urged to indicate additional factors thought to influence construction time. Respondents were also asked to indicate whether they assess such factors intuitively or explicitly. However, this was mainly used with the ranking to cross-check the consistency of factor identification by individual respondents. Finally, ranking the factors was requested in the order of I for 'very important', 2 for 'important' and 3 for 'not so important'.
+'Closed' type questions were used, that is, typical factors were listed for the respondents to evaluate. 'Open' type questions would require the respondents to enumerate and subsequently evaluate the factors.
+The closed format provides a clear advantage in this case. First, it is easier to respond to and, consequently, is expected to draw a higher response. Second, it limits the terminologies used to describe the issues raised. This greatly simplifies subsequent analysis of the response. Third, the goal of the survey can be met. No originality of factors is sought since these are well documented in the literature.
+The possible disadvantages of this format of questioning are a lack of evidence that respondents have really thought through the questions before answering and the possibility of bias. Also it is diffcult to ascertain that all the needed questions have been asked. However, these shortcomings were mitigated in the study by an appropriate choice of survey population comprising motivated and competent respondents and a provision for inclusion of additional factors or comments.
+Survey population
+Main contractors were the target population for the investigation because, of the key participants in the complex building industry, they are generally involved with the overall planning and implementation of the building process.
+The National Contractors Group (NCG) was selected as the survey population on the basis of a nonprobability, convenience sampling (Leedy, 1989, p. 152) to meet the criteria of wide scope of operation and high levels of experience and sophistication of the firm. In this case, however, Maxwell and Delaney (1989, p. 50) asserted that generalization of results to a larger population can be made only on non-statistical or substantive grounds.
+The NCG is a representative sector of construction practice in the UK. It is one of approximately eight organizations affliated to the Building Employers Confederation (BEC) which is the principal organization representing building contractors in the UK (Ball, 1988).
+The NCG I with a total share of 30—40 0 0 ofoverall UK construction output in 1991, comprises the largest companies in the membership of the BEC. The policy of the NCG is to ensure that its members maintain high standards of reliability and effciency ; also that members must, among other things, use every endeavour to complete contracts on time and within cost limits and place particular emphasis on the achievement of quality. The range of work undertaken by the NCG includes general contracting, civil engineering and house building in the UK and abroad.
+The NCG had 71 member firms in 1989, all of which were approached in the survey. The responses and data received represent those of a cross-section of sophisticated firms with sophisticated organizational set-ups.
+Leedy (1989, p. 166) has defined bias as any influence, condition or set of conditions that singly or together distort the data from what may have been obtained under the conditions of pure chance. It is hardly possible to eliminate bias completely in a study of this kind. Bias operates at two levels in a descriptive survey : the level of selection of the sample from the population and the level of response from the sample. At the level of sample selection, bias is most influential in a 'convenience' sample but does not invalidate the use of the technique in the appropriate circumstance as in this study.
+An equal opportunity was given to all member firms of the survey population, the NCG, to participate in the survey. Furthermore, the survey was directed at the same senior management level in each firm. Thus, no deliberate attempt was made to introduce bias into the sample. The possible reasons for non-response, a potential source of bias at the level of response from the sample, is discussed with the analysis of results below.
+Market share was extracted from records in the Centre for Strategic Studies in Construction, University of Reading.
+Returns and analysis
+Completed questionnaires were received from 29 of the 71 member firms of the NCG. This 41 0 response is considered satisfactory for surveys of this type.
+Three firms expressly declined to participate in the survey, stating such reasons as 'lack of resources to deal with', 'matter of policy not to participate in surveys of this kind' and 'lack of interest'. These might also be some of the reasons for non-response from the rest of the survey population.
+Non-response in this case should not invalidate the outcome of the survey. Rather it does imply that the responses received are of intrinsic interest, coming from a cross-section of willing participants. The number of comments on the questions indicated enthusiasm in those who did respond.
+Table 2 shows that 56 ranking values (approximately 7% of the total data set) are missing. Though numerically small, the effect of the missing values is to reduce to 18 the number of valid cases having ranking values for all the variables (see Table 3). A way to redress this unwelcome impact is to substitute each missing rank with the mean of the respondents' rank for the variable as in Table 4. An alternative approach not adopted here is to substitute missing values with random ranks.
+Each rank in Table 2 represents the degree of importance that a planner assigned to a variable that they already considered influential on construction time.
+Although repetitive ranking was allowed, a visual inspection shows no apparent use of a particular rank across the factors by any one respondent. This indicates that thoughtful assessments were made and that the planners actually expressed their opinion in ranking the factors, as requested. Therefore, the stated hypothesis is supported on substantive grounds. However, a statistical test of the hypothesis will yield further insight.
+The Kendall coeffcient of concordance, W (adjusted for tied ranks) is used to test the null hypothesis that the 29 sets of rankings are independent or unrelated at the 5 0 significance level.
+When the number of variables, Nis > 7 as in this case, significance testing is based on the chi-square distribu-
+Label	Factor and variable name for SPSS1
+Financial ability of client (CLIENT l)
+Previous working relationship with client
+
+Category of client (public, private) (CLIENT4)
+Priority on construction time (by client)
+
+Specified sequence of completion (by client) (CLIENT5)
+Possible changes to initial design (by client)
+
+Project information (completeness and timeliness)
+Buildability of design (DTEAM2)
+Ease of communication (provision for) (DTEAM3)
+Previous working relationship with design team
+Priority on construction time (by design team
+Main contract; suitability to project type (CON-
+FC	Use of standard form of contract (CONTRAC2) 	Function/end use of building (PROJECI)
+Size of building (PROJEC2)
+Complexity of building (PROJEC3)
+FG	Form of construction (PROJEC4)
+Incorporation of special plant in finished project
+Previous experience on project type (contractor's)
+FJ	Location of project (PROJEC7)
+FK	Proportion of main versus subcontractors work PROJEC8)
+FL Availability of suitable management team given current work-load (SITEMGTI)
+FM	Previous performance of site management team
+FO	Weather (EXTI)
+Regulations (building, fire, etc.) (EXT2)
+FQ	Statutory undertakers (water, gas, etc. (EXT 3)
+Contractor's programming of construction work
+to the factors. These results are produced by the SPSS software.
+Tables 3 and 4 show that the statistic, W is very significant. The low probability under the null hypothesis associated with the observed value of W enables us to reject the null hypothesis that the respondents' ratings are unrelated to each other. We may therefore conclude with confidence that the agreement among the 29 respondents is higher than it would be by chance had their rankings been random or independent. Thus, there is a good degree of consistency among respondents in prioritizing the factors which affect construction time. Therefore, the stated hypothesis is supported.
+The second part of Tables 3 and 4 show the resulting consensual ordering of factors. The ten most important factors from Table 3 appear to be client's specified sequence of completion, contractor's programming of the construction work, form of construction, client's and designer's priority on construction time, complexity of project, project location, buildability of design, availability of construction management team and completeness and timeliness of project information. In general, the contractor can readily identify or deduce these factors from project information and documents. Although the contractor does not originate the majority of these factors, he can make explicit mathematical or judgemental assessment of their impact on construction time. This could explain why they are rated so highly.
+The ten least important factors appear to be the form of contract and its suitability to the project, the work of statutory undertakers, previous working relationship with and provision for ease of communication with the design team (as established by the design team), the weather, whether the client is a public or a private organization, effect of building and fire regulations and possibility of variations to design.
+Even when these factors are clearly identified from project information, it is diffcult to explicitly evaluate their impact on construction time. In the traditional system of building procurement, adverse effect of most of these factors on construction time are usually mitigated by a formal extension of contract period or extra payment or both.
+Additional factors suggested
+Fourteen respondents suggested a total of 68 additional factors, the majority of which were variants of the listed factors. However, the unique factors among these are the following.
+Table 2 Ranking of factors
+
+Number of firm FO	FK FL FM FN FO FP FQ FR
+Possibility of future projects from and consider-
+generally readily identifiable from project information
+ation of future working relationship with, the
+and directly quantifiable by the contractor.
+their impact on construction time can be assessed
+Financial penalty or bonus in the contract.
+explicitly.
+Use of non-standard forms of contract.
+Factors low on the priority list are those whose effect
+The end-user of the building — the client or other.
+on construction time are not readily assessed explicitly.
+Motivation of site management team.
+Also their influence on construction time is not within
+The influence of external pressure groups on the
+the direct control of the main contractor. It is likely that
+planners could have developed rules of thumb for dealing with the effect of such factors on construction time rather than any form of detailed analysis.
+The top-ranked factors clearly indicate that contractors are inclined to take into critical consideration every
+
+nuance of time limit or constraint imposed by the client or design consultants. This finding supports the asser-
+Analysis of rankings by senior planners in reputable
+tion that clients can get the time performance they want
+construction firms has shown that factors which
+for their projects from the construction industry.
+influence construction time can be prioritized.
+However, it behoves clients to impose time constraints
+examination of the resulting consensual ordering of
+on projects from an informed position if sound econo-
+factors shows that those high on the priority list are
+mies of construction are to be achieved.
+Table 3 Kendall coeffcient of concordance test (listwise deletion of missing values)
+Table 4 Kendall coeffcient of concordance test (substituting missing values with the mean)
+Ordering of factors by mean rank
+Mean rank	Factor
+Ordering of factors by mean rank
+Mean rank	Factor
+7.11	CLIENT5	Specified sequence of completion	7.81	PROGRAM Programming construction work
+7.81	PROGRAM Programming construction work	(contractor)
+(contractor)	9.36	DTEAM5	Priority on construction time
+8.31	PROJEC4	Form of construction	(design team)
+9.11	DTEAM5	Priority on construction time	9.74	CLIENT5	Specified sequence of completion
+9.72	PROJEC3	Complexity	10.48	PROJEC4	Form of construction
+10.19	CLIENT4	Priority on construction time	10.53	CLIENT4	Priority on construction time
+10.25	PROJEC7	Location
+10.69	SITEMCJTI Availability of suitable
+10.36	DTEAM2	Buildability of design	team	management
+11.08	SITEMGTI Availability of suitable management	1 1.19	PROJEC3	Complexity team
+1 1.26	DTEAMI	Project information
+11.14	DTEAMI	Project information (complete and	(complete and
+timely) timely)	1 1.38	DTEAM2	Buildability of design
+12.22 PROJEC5 Incorporation of special plant in 12.36 PROJECI Function end use building 13.72 PROJEC5 Incorporation of special plant in
+
+14.69 PROJEC8 Proportion of main versus  CONTRACI Suitability to project type subcontractors work
+14.93	PROJEC8	Proportion of main versus
+15.42	PROJEC6	Previous experience on project type	subcontractors work
+15.78	SITEMGT2 Previous performance of site	15.07	CLIENTI	Financial ability
+management	15.24	SITEMGT2 Previous performance of site
+16.42	CONTRACI Suitability to project type	15.72	PROJEC6	Previous experience on project
+16.78	EXT3	Statutory undertakers	16.14	CLIENT2	Previous working relationship
+17.97	DTEAM4	Previous working relationship
+18.44	CONTRAC2 Use of standard form	16.21	EXT3	Statutory undertakers
+19.06	CLIENT2	Previous working relationship	Previous working relationship
+19.75	EXTI	Weather	CONTRAC2 Use of standard form
+21.44	CLIENT3	Category of client	18.45	EXTI	Weather
+22.25	EXT2	Regulations	CLIENT3	Category of client
+22.61	CLIENT6	Possible changes to initial design	22.22	EXT2	Regulations
+22.86	DTEAM3	Ease of communication (provision)	22.50	CLIENT6	Possible changes to initial design
+23.21	DTEAM3	Ease of communication (provision)
+Many thanks are due to Professor John Bennett and Mr Colin Gray for very helpful supervision of the research of which this report is a part and the Commonwealth Scholarship Commission of the UK for sponsorship. Much appreciated are the useful contributions of academics at Reading University and elsewhere, member firms of the National Contractors Group and eminent construction managers and planners who

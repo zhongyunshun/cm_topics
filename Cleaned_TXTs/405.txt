@@ -1,0 +1,142 @@
+Cutting Construction Wastes by Prefabrication
+To cite this article: Vivian W. Y. Tam, C. M. Tam, John K. W. Chan & William C. Y. Ng (2006)
+Cutting Construction Wastes by Prefabrication, International Journal of Construction
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+The International Journal of Construction Management (2006) 15 - 24Cutting Construction Wastes by Prefabrication
+Vivian W. Y. TAM1, C. M. TAM2, John K. W. CHAN2 and William C. Y. NG
+Correspondence Author, Griffith School of Engineering, Griffith University, PMB 50 Gold Coast Mail Centre, Queensland 9726, Australia. v.tam@griffith.edu.au.
+Department of Building and Construction, City University of Hong Kong.
+Construction wastes have become the major source of solid wastes in Hong Kong. Thousands of tonnes of solid wastes are produced every year from construction and demolition activities. Increasing generation of these wastes has caused significant impacts on the environment and aroused growing public concerns. Therefore, the minimisation of construction wastes has become a pressing issue. This paper aims to: 1) reveal the status of construction wastes; 2) investigate the effectiveness of prefabrication in terms of waste reduction in replacing traditional wet-trade practices; 3) examine the factors that help minimise construction wastes by the adoption of prefabrication; and 4) explore the current waste reduction situations after adoption of prefabrication by comparing with in-situ construction. It investigates wastes generated from various wet-trade construction activities such as in-situ concreting, timber formwork, bricklaying, plastering, screeding, tiling, rebar fixing and bamboo scaffolding. Six major reasons for the excessive construction wastage are known to be: 1) cutting; 2) over ordering; 3) damaging during transportation; 4) losing during installation; 5) poor workmanship; and 6) change of design. From the findings of a structured interview survey of thirty-one construction practitioners, “timber formwork” is found to be having the greatest potential for cutting scrap, and wastes from “poor workmanship” can be greatly reduced by adopting prefabrication in construction. Furthermore, after the adoption of prefabrication, wastage generation can be greatly reduced in various wet-trade activities including concreting, rebar fixing, bricklaying, drywall, plastering, screeding and tiling. Especially in plastering, the waste reduction can be reduced by 100%. It is concluded that prefabrication of building components is one of the effective technologies of waste minimisation.
+Prefabrication, wastage, waste minimisation, environment, construction, Hong Kong
+Advocacy of waste management for construction activities, environmental protection, and the recognition of the contribution of wastes generated from construction and demolition works have recently been strongly promoted in Hong Kong (Shen et al., 2002a). The construction industry plays a vital role in meeting the needs of society and enhancing the quality of life (Tse, 2001; Shen and Tam, 2002). However, the responsibility for ensuring construction activities and products that are consistent with environmental policies needs to be defined and good environmental practices through reduction of wastes need to be promoted (EPD, 2003).
+The environmental deterioration resulting from construction in Hong Kong has become a pressing issue. Hong Kong generated as much as 14 million tonnes of construction debris in 2001, of which about 3 million tonnes (21.4%) of construction and demolition (C&D) materials were disposed of at landfills, while the remaining 11 million tonnes (78.6%) of C&D wastes
+Figure 1   Solid Waste Disposed of at Landfills and Public Filling Areas
+Figure 2   Average Share of Construction and Demolition Waste at Public Filling Areas from 1991 to 2001
+were transported to the public filling areas for reclamation use (see Figure 1). Figure 2 shows that the C&D wastes contribute an average figure of 38% to all wastes at public filling areas during the period from 1991 to 2001. To manage such a huge quantity of C&D wastes, the Hong Kong government adopts a policy of disposing of the wastes to either land reclamation or landfills. For decades, landfills have provided a convenient and cost-effective solution to the wasteful practices of the industry (Mills et al., 1999). Ferguson et al. (1995) found that more than 50% of the wastes deposited in a typical landfill in UK came from construction wastes. Similarly, according to Rogoff and Williams (1994), 29% of the solid-wastes in the USA are construction wastes. Wong and Tanner (1997) pointed out that the landfills in Hong Kong, originally expected to last 40 to 50 years, would be filled up by 2010, even if there were adequate alternative outlets for C&D materials. All these investigations demonstrate that the construction business is a large contributor to waste generation and that there is much room for protecting the environment through managing construction wastes properly.
+RESEARCH AIM AND OBJECTIVES
+The aim of this paper is to explore the possibility to reducing construction wastage by prefabrication. Therefore, this paper targets the following objectives:
+Revealing the status of construction wastes;
+Investigating the effectiveness of prefabrication in terms of waste reduction in replacing traditional wet-trade practices;
+Examining the factors that help minimise construction wastes by the adoption of prefabrication;
+Exploring the current waste reduction situations after adoption of prefabrication by comparing with in-situ construction.
+Building material wastage is defined as the difference between the value or quantity of those delivered materials accepted on site, and those properly used as specified and accurately measured in the work (Shen et al., 2002b). According to EPD (2003), over 80% of C&D materials are inert substances, which include rubble, earth and concrete suitable for land reclamation and site formation, and which when sorted properly, can be recycled. The remaining non-inert substances of C&D materials include bamboo (used for scaffolding in Hong Kong), timber, vegetation, packaging waste and other organic materials, which are not suitable for land reclamation or recycling and are disposed of at landfills.
+The economic and environmental benefits gained from waste minimisation are enormous (Guthrie et al., 1999). These economic benefits include the possibilities of selling specific waste materials and their removal from site at no charge or reduced cost, with a subsequent reduction in materials going to landfills at a higher cost (Snook et al., 1995). Therefore, it can increase the contractors’competitiveness through lower production costs and a better public image. However, very few contractors have spent effort in considering the environment and developing the concept of waste minimisation (Lam, 1997) since they have given other project objectives a higher priority such as ‘time’. Thus their effort is always focused on completing the project in the shortest possible time, rather than caring about the environment (Poon et al., 2001). Secondly, few contractors’ account books can disclose the potential savings from the reduction of construction wastes. As a result, excessive wastage is considered normal practice and included in the tender. In fact, managing building material wastes properly is beneficial to construction productivity, time and safety (Chan and Ma, 1998; Gavilan and Bernold, 1994; Skoyles and Skoyles, 1987) while extra wastes take extra time and resources for disposal that may slow down the construction progress.
+Recent studies by Shen et al., (2002b) and Li (2002) investigated the constituents of C&D material wastes in Hong Kong. They identified that the wastage generated from formwork in private housing projects has the highest variation of 18.21%, indicating that there is much room to improve wastage levels (see Table 1). The survey results also show that very high average wastage levels are recorded in concrete, especially for public housing projects, composite buildings and schools.
+Table 1   Wastage Levels for Different Types of Projects in Hong Kong
+Li’s studies (2002) showed that there were 4,732 tonnes, about 74% of C&D wastes disposed of at SENT4 in 2001. Li (2002) attributed the high wastage levels of construction activities to traditional construction methods: the wet trade practices on sites. He also found that some materials disposed of at landfills were in fact recyclable as shown in Table 2. The non-recyclable construction wastes form a large portion of the waste collected, in which 4117, 3928, 4259 and 3975 tons are collected from construction sites, demolition sites, general civil works and renovation works respectively. Concrete is the most significant element among all, apportioning up to three-quarters, bearing the highest potential in the reduction of material wastage.
+Table 2   Composition of Recyclable Materials Collected in SENT# Landfill
+
+Construction	Demolition	General
+Site	Site	Civil Works
+
+
+
+* Source from Li (2002)	# SENT: South East New Territories, HKSAR
+Shen et al., (2002a) investigated several major causes of materials wastage on concrete, steel reinforcement, formwork and brick/block, which are tabulated in Table 3.
+Cheung et al., (1993) also identified six major causes of material wastes on the wet trades, including: 1) cutting; 2) over ordering; 3) damage during transportation; 4) lost during installation; 5) poor workmanship; and 6) change of design.
+Table 3   Causes of Material Wastage
+Application of construction material
+
+
+Brick / Block
+
+Storage and handling on construction site
+Cracking during transportation
+Lack of tuning between sizes of different products; imperfections of the product; wastecausing choices in design; lack of knowledge about building during the design stage
+Imperfections of products; choices made in design about specifications of the product; method of transportation
+Choice of a low-quality stone slab in design; lack of influence of contractors and lack of knowledge about building during the design stage
+Lack of possibilities to order small quantities
+Unpacked supply
+Unpacked supply
+Scraping off
+Required quantity of products unknown due to imperfect planning
+Required quantity of products unknown due to imperfect planning
+Method to lay the foundations of a building
+Mortar in the tub
+Atmospheric influence
+Specifications of the mortar
+Short processing time
+Negligent practice; quantities of supply too high
+Sawing consequent from the design of the roof
+Cracking during transportation
+Attention not paid to sizes of the products used in design; designer not familiar with possibilities of different products; information about that will be used late; types and sizes of the different products do not fit
+Negligent handling by the supplier
+Use of steel bars of sizes that do not fit
+Use of timber boards of sizes that do not fit
+Damaged during transportation
+Use of sizes that do not fit
+Unpacked supply
+* Source from Shen et al. (2002a)
+The construction industry in Hong Kong is characterised by labour-intensive wet trades and the entrenched tradition of labour subcontracting. These practices have been criticised by the industry and the public in general for poor safety records, failure regarding timely construction and unacceptable quality performance. As a result, the use of prefabrication has been strongly advocated recently in the industry, as it can help to improve site safety by providing a cleaner and tidier site environment, enhance quality by producing elements under factory conditions and eliminate site malpractice. Furthermore, factory production can reduce wastage and encourage recycling of construction waste, leading to environmental protection and sustainability of the industry.
+Prefabrication is defined as transferring the stages of construction projects from the field to an off-site production facility (Tatum, 1986). The Hong Kong Housing Authority has adopted small-scale prefabrication since 1988 (Cheung et al., 2002). The prefabricated elements include precast façade units, staircases, drywall and semi-precast floor planking while the structural elements still remain cast-in-situ. Their experience in using prefabrication is positive in terms of quality, time, and safety. Also, some good responses are listed as follows:
+• Site tidiness is obviously improved, resulting in reduction of site accidents;
+• The speed of construction can be improved by moving some critical site casting activitiesto precasting works;
+• The external outlook of building structures can be varied by changing the combinationsof modular units;
+• The in-situ grouted joints can minimise the occurrence of water leakage;
+• The quality is much improved by prefabrication. The former quality breakdowns, likethe de-lamination of external mosaic tiles and water leakage along external window frames, have been seldom recorded in prefabricated construction.
+The best way to deal with material waste is not to create it in the first place (Snook et al., 1995; Gavilan and Bernold, 1994; EPD, 2003). Hence, to reduce construction wastes, prefabrication had been considered as one of the effective and efficient ways (Ting, 1997). In order to assess its effectiveness, an interview survey was conducted in 2002 that collected thirty-one construction senior practitioners’ observations and opinions on wastage levels when comparing prefabrication with the traditional wet trade approach. The practitioners included senior project managers, project managers, architects, senior quantity surveyors and engineers, with around 15 to 25 years on-site experiences.
+The interviewees were asked to comment on the levels of wastage reduction and reasons for the reduction by comparing prefabrication with other wet-trade activities including in-situ concreting, timber formwork, bricklaying, plastering, screeding, tiling, rebar fixing, and bamboo scaffolding.
+In order to understand the avoidable wastage levels after the introduction of prefabrication, ranges of wastage reduction at 0%, 1 to 20%, 21 to 40%, 41 to 60%, 61 to 80% or 81 to 100% were set, which were presented to the interviewees for assessment. Then, the average avoidable wastage levels for different wet-trade activities were calculated using Equation (1) with the results presented in Table 4.
+Average avoidable wastage levels   = ∑R1w1	Equation (1)
+Where R0, R1, R2, R3, R4 and R5 are the percentages of respondents opining 0%, 1-20%, 2140%, 41-60%, 61-80% and 81-100% reduction in wastes as a result of using prefabrication respectively; and w0, w1, w2, w3, w4 and w5 are mean values of the various ranges.
+In this survey, some wet trades such as concreting, bricklaying, plastering / screeding, tiling and rebar fixing are highlighted for analysis and opinions on the causes of wastage of these trades were drawn from the interviewees. The results are shown in Table 5.
+Table 4   Percentages of Interviewees Opining the Corresponding Avoidable % of
+Wastages When Adopting Prefabrication
+Percentages of wastages of various activities that can be avoided
+Timber formwork
+Bricklaying
+
+Bamboo scaffolding
+Reasons Lead
+ge for Various
+
+Change of design
+Lost during installation
+
+Change of design
+From the interview survey, it is found that timber formwork used for in-situ concrete casting, enjoys the greatest potential in waste reduction with an average avoidable wastage level of 58.2% (see Table 4). The use of a drywall system (made of lightweight concrete) can reduce the wastage on bricklaying. Although floor screeding has the lowest average avoidable wastage level of 32.1%, the use of precast slab and staircase with the elimination of in-situ screeding can make some contribution to waste reduction. It is also found that the opinion on waste reduction for in-situ concreting, timber formwork and bricklaying is very consistent in a sense that all respondents argued for certain degree of waste reduction.
+In fact, the survey shows that all the construction activities under study, namely, in-situ concreting, timber formwork, bricklaying, plastering, screeding, tiling, rebar fixing and bamboo scaffolding, can enjoy some degree of potentials of waste reduction, depending on the degree of prefabrication or the numbers of prefabricated building components used for the particular projects and the natures of buildings. It infers that prefabrication is an effective construction method for waste minimisation.
+According to Table 5, it can be found that “poor workmanship” is considered the most important cause leading to the wastage of plastering / screeding, with a weighted average score of 3.40 and tiling with a score of 3.21. In concreting and bricklaying, “poor workmanship” is considered as the second important cause with weighted average scores of 3.55 and 2.95 respectively. On explaining the importance of workmanship on these trades, for examples, plastering needs applying various layers and thus improving the performance of the outlook. Therefore, one of the interviewed engineers explained that the techniques of the workers are directly affected the final quality of the plastering work. As the quality of these trades is based upon on the performance of the workers, improving the quality of workers by training, certification and skill development is essential in cutting construction wastage. “Damage during transportation” in bricklaying is the major cause of wastage, which can be reduced or eliminated by replacing site bricklaying with drywall panel systems.
+Wastage in tiling caused by “cutting”, “over-order” and “poor workmanship” can be reduced after using prefabricated building components. However, by simple applications of modular dimensioning on tiling, a potential reduction in wastage can also be achieved. The reduction of wastage in rebar is considered moderate. However, rebar is of less concern in waste minimisation as it is recyclable.
+In general, the major causes of construction wastage, namely, “cutting”, “over-order”, “damage during transportation”, “lost during installation”, “poor workmanship” and “change of design”, can be effectively reduced by adopting prefabrication.
+COMPARING WASTE LEVELS BETWEEN CONVENTIONAL IN-SITU PRACTICES AND PREFABRICATION
+In order to make the comparison, a structured questionnaire survey was conducted to assess the wastage levels for different construction methods. Thirty-one construction projects with conventional in-situ trades and prefabrication activities were surveyed.
+The average wastage levels for various construction trades, namely, concreting, rebar fixing, bricklaying, drywall, plastering, screeding and tiling, were measured for the two groups of projects that adopted conventional in-situ trades and prefabrication activities and were denoted as ‘A’ and ‘B’ respectively as shown in Table 6. After measuring the values of (A) and (B), the value in waste reduction (C) is derived from the difference between the averages of (A) and (B). Percentages of reduction after adopting prefabrication can also be calculated by the ratio of the waste reduction over the average wastage level for the conventional in-situ construction methods.
+Table 6   Wastage between cast-in-situ and prefabrication
+Waste reduction
+Percentage of
+Conventional (A)
+reduction (C/A)
+
+Bricklaying
+
+According to the findings on the average wastage levels for the major construction activities as shown in Table 6, it is noted that the most effective waste reduction trade is plastering. This can have 100% wastage reduction after adopting prefabrication because plastering can be completely avoided due to the smooth and even concrete surface of the precast items. The respondents opined that tiling could be directly applied to the concrete surface after formwork removal; while for receiving painting, only a layer of 1 to 2 mm thick skim coat was adequate instead of 15 to 20 mm plastering.
+From Table 6, the average wastage level of the conventional construction method is much higher than that of prefabrication in the trades of concreting, rebar fixing, plastering and tiling. This result shows that the wastage levels vary with different trades when prefabricated building components are adopted. Therefore, standardised designs of building can reduce the wastage levels effectively. However, some respondents proclaimed that the standardised designs were normally not welcomed for private projects in Hong Kong, as customers would like to see more variations in design.
+The private housing projects bear the highest wastage levels especially for steel reinforcement, which may be reflected by the non-standardised building structures resulting in different sizes of formwork, reinforcement, and brick/block work that generate higher levels of material wastage. The results show that the wastage in formwork, plastering and screeding for private housing projects is much higher than that for public housing projects. For the standardised public housing design, adoption of prefabrication is more common. Therefore, it can be inferred that prefabrication can help minimise construction wastes effectively; the magnitude of which depends on the level of prefabrication.
+For identifying the material wastage levels between conventional in-situ and prefabrication construction in Hong Kong, it is found that the various wet-trades activities can effectively reduce the wastage after adopting the prefabrication. Furthermore, standardised designs should also be adopted to facilitate the use of prefabrication, thus reducing the material wastage.
+
+This paper concludes that the adoption of prefabrication can effectively reduce construction wastes. Timber formwork is identified as having the greatest saving potential while other wet trades including, concreting, bricklaying, plastering, screeding, tiling, rebar fixing and bamboo scaffolding can also enjoy reduction in site wastage.
+This paper also demonstrates that “cutting”, “over-order”, “damage during transportation”, “lost during installation”, “poor workmanship” and “change of design” can be greatly reduced after adopting prefabrication. “Poor workmanship” is found to enjoy the greatest saving as it is the major cause of waste generation for on-site wet trades, especially in the plastering/ screeding and tiling. Furthermore, it is also found that the various wet-trades construction activities, including concreting, rebar fixing, bricklaying, drywall, plastering, screeding and tiling can effectively reduce the wastage, especially in plastering, where 100% wastage can be reduced after using prefabrication. It also highlights the importance of training, trade certification and skill development for frontline workers in improving the on-site environmental performance. Wastage minimisation should be integrated into the construction processes and planned at the tender stage. Provision of waste reduction training to on-site staff is also considered important in raising environmental awareness and helping site staff to adopt a better working procedure for the reduction of materials wastage generation.
+Chan, A. P. C., and Ma, T. Y. F. (1998). “Materials Wastage on Commercial Projects - A Contractor’s View”, Proceedings of the Sixth East Asia-Pacific Conference on Structure Engineering & Construction,  Taipei, Taiwan, 14-16 January, 2, 1059 - 1064.
+Cheung, C. M., Cheung, L. A. C., Wong, K. W., Fan, W. C. N., and Poon, C. S. (1993). Reduction of construction waste: final report, Hong Kong Polytechnic University and Hong Kong Construction Association.
+Cheung S. O., Tong K. L. Thomas, and Tam, C. M., (2002). “Site Pre-cast Yard Layout Arrangement Through Genetic Algorithms”, Journal of Automation in Construction, 11(1), 35 - 46.
+EPD (Environmental Protection Department) (1999). Monitoring of solid waste in Hong Kong waste statistics for 1999, Hong Kong government.
+Ferguson, J., Kermode, N., Nash, C. L., Sketch, W. A. J., and Huxford, R. P. (1995). Managing and minimizing construction waste - a practical guide, Institution of Civil Engineers, London.
+Gavilan, R. M., and Bernold, L. E. (1994). “Source Evaluation of Solid Waste in Building Construction,” Journal of Construction Engineering and Management, 120, 536 - 552.
+Guthrie, P., Woolveridge, A. C., and Patel, V. S. (1999). Waste minimisation in construction: site guide, Construction Industry Research and Information Association, London.
+Lam, A. L. P. (1997). A Study of the Development of Environmental Management in Hong Kong Construction Industry. BSc Thesis, The Hong Kong Polytechnic University.
+Li, W. (2002). Composition analysis of construction and demolition waste and enhancing waste reduction and recycling in construction industry in Hong Kong. Master of Science in Management Science, The Hong Kong Polytechnic University.
+Mills, T. M., Showalter, E., and Jarman, D. (1999). “A Cost-Effective Waste Management Plan”, Cost Engineering, 41(3), 35 - 43.
+Poon, C. S., Yu, A. T. W., and Ng, L. H. (2001). “On-Site Sorting of Construction and Demolition Waste in Hong Kong”, Resources, Conservation and Recycling, 32, 157 - 172.
+Rogoff, M. J., and Williams, J. F. (1994). Approaches to implementing solid waste recycling facilities, Noyes, Park Ridge, NJ.
+Snook, K., Turner, A., and Ridout, R. (1995). Recycling waste from the construction site, Chartered Institute of Building, England.
+Shen, L. Y., and Tam, W. Y. Vivian (2002). “Implementation of Environmental Management in the Hong Kong Construction Industry”, International Journal of Project Management, 20(7), 535 - 543.
+Shen, L. Y., Tam, W. Y. Vivian, Chan, C. W. Steven, and Kong, S. Y. Joseph (2002a). “An Examination on the Waste Management Practice in the Local Construction Site”, Hong Kong Surveyor, 13(1), 39 - 48.
+Shen, L. Y., Tam, W. Y. Vivian, and Tam, C. M. (2002b). “Subcontracting Arrangements and Solid Waste Generation in the Construction Industry”, The International Conference on Construction Management and Real Estate, 25-29 August 2002, 60 - 71.
+Skoyles, E. R., and Skoyles, J. R. (1987). Waste prevention on site, Mitchell, London.
+Tatum, C. B. (1986). “Constructability Improvement Using Prefabrication, Pre-assembly, and Modularization”, Technical Report No. 297, Stanford University, California, USA, November.
+Ting, Y. H. (1997). “The Economic Implications of Subcontracting Practice on Building Prefabrication”, Automation in Construction, 6(3), 163 - 174.
+Tse, Y. C. Raymond (2001). “The Implementation of EMS in Construction Firms: Case Study in Hong Kong”, Journal of Environmental Assessment Policy and Management, 3(2), 177 - 194.
+Wong, A. Y. S., and Tanner, P. A. (1997). “Monitoring Environment Pollution in Hong Kong: Trends and Prospects”, Elsevier Science, 16(4), 180 - 190.
+Cutting Construction Wastes by Prefabrication	17

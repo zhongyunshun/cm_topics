@@ -1,0 +1,203 @@
+Application of Delphi method in selection of procurement systems for construction projects
+To cite this article: Albert P. C. Chan , Esther H. K. Yung , Patrick T. I. Lam , C. M. Tam & S. O. Cheung (2001) Application of Delphi method in selection of procurement systems for construction projects, Construction Management and Economics, 19: 7, 699-718, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (2001) 19, 699–718
+Application of Delphi method in selection of procurement systems for construction projects
+ALBERT P. C. CHAN1*, ESTHER H. K. YUNG1, PATRICK T. I. LAM1,
+C. M. TAM2, and S. O. CHEUNG2
+1Department of Building and Real Estate, The Hong Kong Polytechnic University, Hung Hom, Hong Kong, PR China
+2Department of Building and Construction, City University of Hong Kong, PR China
+Received 8 November 2000; accepted 10 May 2001
+A number of procurement selection systems have been developed over the last decade. The use of multiattribute decision analysis has been considered the foremost technique for examining client needs and the weightings of preferences from experts for each procurement system in the most objective way available. However, the major dif culty of these selection models lies in the lack of consensus among the experts on the utility factor of the selection criteria. To overcome these de ciencies, a Delphi technique was adopted to develop a multi-attribute model. Four rounds of Delphi surveys were conducted. A statistically signi cant consensus on the weighting of the utility factors for each procurement system was obtained from eight experts. The results vividly reveal that the Delphi method is a powerful and appropriate technique for deriving objective opinions in a rather subjective area such as the multi-attribute model for the selection of procurement system.
+Procurement system, multi-attribute selection model, Delphi method
+Introduction
+It is claimed that the correct choice of a building delivery method will lead to the success of a building project (Bennett and Grice, 1990; Chan, 2000). Hence selecting an appropriate procurement system is an essential step in any construction project process. If a client makes a wrong choice, the penalty may be time and cost overrun and general dissatisfaction. Despite considerable research into the choice of appropriate procurement systems for construction projects, no generally applicable solutions have been found (Skitmore and Marsden, 1988; Bennett and Grice, 1990; Chan, 1995; Love et al., 1998). It appears that the appropriate solution is in each case largely a function of various factors (NEDO, 1985; Brandon et al., 1988; Masterman, 1992; Chan et al., 1994; Dell’Isola et al., 1998; Franks, 1998). Love et al. (1998) state that the use of multi-attribute decision
+analysis (MADA) in a procurement selection system has been seen as the foremost technique for examining client needs and for weighting the preferences from experts for each procurement system in the most objective way available. The MADA approach utilizes a score or utility factor, which is determined by industry experts for each criterion (client need, project characteristic, risk allocation, etc.) for each procurement system. The utility factors are in effect a relative measurement of the suitability of a certain procurement path for a given criterion (Fellows and Langford, 1980). This provides a more objective analysis to alleviate the inconsistency and subjectivity in the decisionmaking process due to emotional or environmental conditions.
+Several procurement selection systems have been developed over the last decade, varying from simple rating systems to more complex multi-attribute and matrix-based systems (Tucker and Ambrose, 1999). Some of the systems available and their basic method-
+ology are given in Table 1 (Tucker and Ambrose,
+Construction Management and Economics
+ISSN 0144–6193 print/ISSN 1466-433X online © 2001 Taylor & Francis Ltd
+All these systems have attempted to provide a mechanism that allows procurement systems to be assessed against a set of possible client needs, by rating how well the procurement system can satisfy those needs. Some have also included limited project-speci c characteristics and weighting systems to emphasize particular requirements (Tucker and Ambrose, 1999).
+In most of these systems, three to  ve experts were asked to subjectively assess the utility factor; there lies always a problem of consistency in adopting this technique to obtain the utility factors for the multi-attribute model. The results were averaged and recorded as the utility factors for the corresponding criteria. Solely averaging the selected experts’ utility factors to obtain a reasonable level of consistency amongst these factors is questionable. Previous research on procurement selection (Ireland, 1985; Love et al., 1998) has mentioned the major dif culties associated with the procurement selection model. First, there has been no consensus found amongst ‘experts’ that easily systemizes procurement selection (Love et al., 1998; Skitmore and Marsden, 1988). Second, there has not been a mutually exclusive set of criteria that uniquely and completely determines the appropriate procurement method for a speci c project (Ireland, 1985).
+To overcome these shortcomings, a Delphi technique was adopted to develop a multi-attribute model. Four rounds of Delphi surveys were conducted. The iterations of the Delphi exercise allowed the experts to modify their weighting of the utility factors and project them beyond their own subjective opinions. A more reliable result could be achieved. A statistically signi cant consensus on the weighting of the utility factors
+
+for each procurement system was obtained from eight experts. The aim of this paper is to report how the Delphi technique was used  rst to generate a list of selection criteria and second to derive a consensus on the weighting of the utility factors. The effectiveness of the Delphi method will be evaluated and the dif culties in conducting a Delphi survey will be discussed. Finally, a procurement selection model is developed based on the criteria and utility factors derived from the Delphi survey.
+Research method: the Delphi technique
+The Delphi technique is being increasingly used in many complex areas in which a consensus is to be reached. Some of these areas included the development of residential areas (Anatharajan and Anataraman, 1982), theory and design application (Corotis et al., 1981), and bridge condition rating and effects of improvements (Saito and Sinha, 1991). Moreover, the Delphi method is a highly formalized method of communication that is designed to extract the maximum amount of unbiased information from a panel of experts. Therefore, it would be appropriate to adopt the Delphi technique for obtaining a set of universal utility factors for the selection model for procurement systems.
+Delphi background
+Table 1	Existing procurement selection systems (adopted and expanded from Tucker and Ambrose, 1999, p.103)
+
+Rating system using a client’s priority for nine key areas.
+Two systems: a multi-attribute model based on the NEDO model with a rating system and weighting of client priorities; and a discriminate analysis technique utilizing variances in procurement characteristics under certain criteria.
+A computer expert system called ELSIE, which determined suitable procurement systems, based on project characteristics and client requirements.
+Simple rating system based on client’s performance requirements.
+System based on the NEDO and Skitmore and Marsden models and allows clients to weight speci c criteria multiplied by set utility ratings for the various systems.
+An organizational behaviour-based model utilizing an act-to-outcome process governed by organizational goals, which in turn are subject to moderators, which determine goal/ performance relationship.
+A model utilizing the Bennett and Grice model, but uses a different procurement category developed for the Australian construction industry.
+Decision matrix-based model that rates the performance of each procurement system for selected issues and their relative importance on a client/project pro le.
+Tucker and Ambrose
+A three-dimensional interaction matrix that provides a procedure to evaluate the appropriateness of a procurement system for a particular project and the needs of the client.
+The Delphi concept was developed from the American defence industry. Project Delphi was the name of a
+study undertaken by the Rand Corporation for the US Air Force in the early 1950s concerning the use of expert opinion (Robinson, 1991). The objective of the study was to ‘obtain the most reliable consensus of opinion of a group of experts by a series of intensive questionnaires interspersed with controlled opinion feedback’ (Linstone and Turoff, 1975). It was originally developed for market research and sales forecasting purposes (Gold sher, 1992).
+The Delphi method can be characterized as a
+method for structuring a group communication process so that the process is effective in allowing a group of individuals as a whole to deal with complex problems. Delphi is primarily a communication device, which is applied when the consensus of experts on an uncertain issue, often intangible, is desired (Linstone and Turoff, 1975). It is conducted by rounds interspersed with group opinion and information feedback in the form of relevant statistical data. Delphi is an iterative forecasting procedure characterized by three features (Dickey and Watts 1978): iteration with controlled feedback; and statistical response.
+Panel members remain unknown to one another and respond to a series of questionnaires. The iterative nature of the procedure generates new information for panelists in each round, enabling them to modify their assessments and project them beyond their own subjective opinions. It can represent the best forecast available from a consensus of experts (Corotis et al., 1981).
+The Delphi approach offers an additional advantage in situations where it is important to de ne areas of uncertainty or disagreement among experts. In these instances, Delphi can highlight topics of concern and evaluate uncertainty in a quantitative manner. Group evaluation of belief statements made by panel members is an explicit part of Delphi (Robinson, 1991). Goldstein (1975) correctly points out that, although the group view has a higher probability of being correct than an individual, its success depends principally on the careful selection of the panel and the formulation of questions. The major dif culties of Delphi, however, lie in maintaining the high level of response and in reaching and implementing a consensus (Robinson, 1991).
+Format of Delphi rounds
+The Delphi method adopted in this research consisted of four rounds. In the  rst and second rounds of Delphi questionnaire, it was intended to gather a set of exclusive selection criteria for the procurement system in the Hong Kong construction industry. The respondents were asked to provide a minimum of  ve criteria for the selection of the most appropriate procurement system in the  rst round Delphi. The second round of the questionnaire dealt with all the criteria provided in the  rst round, and experts were asked to state the importance of each criterion. In the third round of questionnaire, a list of criteria with corresponding questions was presented, and the respondents were requested to assess the suitability of each procurement system against each selection criterion.
+While analysing the data, the focus should be on the opinion of the group rather than that of individuals. Therefore a concordance analysis, which measures the consistency of the experts’ responses over successive rounds of the Delphi, was adopted. In the fourth round of the Delphi, respondents were provided with results from round three. They were asked to reconsider the scores of the utility factors and see whether they would adjust them. The consistency of the results over the last two rounds were analysed and compared. The questions asked in the four rounds of the Delphi survey are detailed in Appendices A, B, C and D, respectively.
+Selection of the expert panel
+The success of Delphi method depends principally on the careful selection of the panel. A group of experts was selected to provide opinions on the suitability of a certain procurement path for a given criterion. Since the information solicited requires in-depth knowledge and sound experience about the various procurement options, a purposive approach was adopted to select this focused group of experts (Bryman, 1996; Morgan, 1998; Edmunds, 1999). The following criteria were devised to correctly identify eligible participants for the Delphi surveys.
+Practitioners to have extensive working experience in the construction industry in Hong Kong.
+Experts to be currently, recently or directly involved in the management of construction projects in Hong Kong.
+Experts to have a detailed knowledge of all the procurement options.
+In order to obtain the most valuable opinions, only practitioners who met all the sampling criteria were selected. The ten members of the panel represent a wide distribution of professional people, with four from public client organizations, three from private consultant groups, and three who were academics in the universities in Hong Kong. The composition of this group of experts provides a balanced view for the Delphi survey. A list of the panel members and their positions in the corresponding companies is given in Table 2, although the names of the experts and their organizations are faked to respect their anonymity.
+Table 2	List of the panel of experts for the Delphi method
+Position	Sector
+Organizations currently work for
+Assistant director, (architectural services)
+Executive manager (capital works)
+CC Authority
+
+DD Quantity Surveyors
+EE HK. Ltd.
+and Director
+Associate professor
+The University of GG
+The University of GG
+Acting head and
+
+Associate professor
+
+
+Table 3	Criteria provided by the panel of experts in round one Delphi
+Delphi round one: identifying the selection criteria
+The  rst round of Delphi questionnaire, accompanied by an invitation letter, was sent to the panel members. The letter explained the purpose of the research, and the experts were informed that there would be four rounds of questionnaires. In the  rst round of Delphi, experts were asked to provide at least  ve major criteria that they considered to in uence the selection of a procurement system in the construction industry of Hong Kong. In the questionnaire (Appendix A), a list of nine criteria that had been found from previous research studies and literature were also included for their reference. These were: time certainty; cost certainty; price competition;  exibility to changes; complexity of project; responsibility; and risk avoidance.
+Results and analysis
+The criteria suggested by the experts were carefully analysed and a list of criteria was formed. Table 3 shows all the criteria provided by experts in the round one Delphi questionnaire. Altogether 23 criteria were identi ed. Also there were some criteria which had not been suggested by the panel of experts but were identi ed as a result of the literature survey.
+Frequency of criterion by experts
+Distrust of new system
+Test problem which give
+rise to less problem Size of the project
+(GFA, Contract sum) Nature of the project
+
+Availability of expertise
+Flexibility for changes
+Public accountability
+Value of money
+Certainty of cost
+
+Overlapping of design
+Peer relationships
+Source of  nance
+
+State of market
+included in the list of the important factors in the selection of most appropriate procurement system. These criteria are shown in Table 4. Criteria, which conveyed similar meanings were combined and rephrased. For example, availability of expertise was rephrased and combined with availability of competent contractors; overlapping of design and construction was combined with responsibility; nature of the project was combined with complexity; value for money, public accountability, source of  nance, authority, and state of market were rephrased and combined with price competition. Sixteen criteria were consolidated to form a list of criteria for the second round of Delphi. Their frequencies were recorded and the criteria were categorized into four groups as indicated in Table 5.
+Delphi round two: re ning the selection criteria
+The experts were asked to indicate the relative importance of these 16 criteria that had been identi ed in round one of the Delphi survey, using a simple 3-level
+Table 4	Criteria identi ed from literature survey
+Explanation
+Is the client
+If a very precise
+clear end user’s
+and clear end
+
+is prepared before
+precisely at
+
+build system can
+Whereas, if the end user’s requirement is not
+very clear,
+management contracting system can be used.
+
+If this were
+of competent
+criterion for the
+contractors to
+work for the
+would have the
+supply of competent contractors. On the other hand, there would be less
+
+contractors for management
+contracting and design and build systems.
+very important, important and not important. The total frequency distribution of the experts who suggested the criteria in round one and a percentage of the experts for each criterion were also stated. Moreover, experts were also classi ed as public or private group, and the corresponding frequencies were shown as well. The result of round one was also attached to the questionnaire in graphical form. The round two Delphi questionnaire is presented in Appendix B.
+Results and analysis
+Table 5 shows the indication of relative importance of each criterion by the ten experts. Criteria that attracted only 50% agreement or below in the category of ‘very important’ or of ‘important’ were removed in the round three Delphi survey. As a result, only 14 criteria were included in the round three study.
+Table 5	Delphi round two results: frequency distribution and percentage
+Criteria	% of experts
+Very	Important
+
+the criterion
+as either very important or important.
+Criteria which are included in the next
+
+predictability
+of competent
+
+
+of cost without  uctuation
+for changes
+Criteria which were excluded in the next round of Delphi
+relationship
+Delphi round three: utility factors obtained from experts
+In the round three Delphi method, experts were asked to enter a utility factor against each procurement system in a table. The utility factor is a factor to indicate the degree of suitability of each procurement system against each criterion (Skitmore and Marsden, 1988; Chan, 1995). Respondents were asked to enter a score from 10 to 110 to eliminate the occurrence of zero. The ten experts were asked to complete the questionnaire in two weeks. However, only three experts did so within this stipulated time. A reminder letter was sent to all the experts who had not returned the questionnaire. Two weeks later a  nal letter, which stated a deadline for returning the questionnaire, was sent to the non-respondents. Follow-up of the nonrespondents to this round indicated that the primary reason for their non-responses was a lack of time to complete the questionnaire. Finally, eight responses were collected and two experts withdrew. The two dropouts were Mr. D and Mr. G. The main reason for their dropping out was the heavy commitment of their current workload, and hence they were unable to complete the Delphi survey.
+Appendix C gives a sample model used in the round three questionnaire to ask the experts to assess the suitability of each procurement system against each selection criterion.
+
+Results and analysis
+An analysis was performed of the eight questionnaires received in which the mean of utility factor for the set of criteria was computed. A preliminary procurement selection model was developed based on the mean of the utility factors advocated by the eight experts. It was measured using a score between 10 and 110, with 10 representing ‘low suitability’ and 110 representing ‘high suitability’ of each procurement system against each criterion.
+If the scores provided by the experts were insuf ciently consistent, the results could simply be due to chance. To obtain a measure of consistency, a statistical test was applied involving the calculation of a coef cient of concordance (W) for the utility factors provided by the experts (Siegel and Castellan, 1988; Chan and Yeong, 1995; Chan, 2000) using the SPSS computer package. A concordance coef cient of 1 indicated that the eight experts all ranked the procurement paths identically. Table 6 shows the utility factors of ten criteria were suf ciently consistent at 0.05 level of signi cance or smaller.
+Delphi round four: re ning the utility factor
+Table 6	Concordance coef cient of the utility factors in round three
+Average utility factors
+Traditional Traditional	Competitive Enhanced	Novation	Mgt.	Kendall	a
+
+Certainty of cost
+
+Size of the project
+For the round four survey, the experts were provided with feedback of the results obtained in round three. The average of the utility factors of the eight experts for each procurement system against each criterion and
+the respondent’s own score in the round three were shown. The actual questionnaire was as in Appendix D. The respondents were asked to re-assess their score in the light of the average values scored by the eight experts. A table with the same format as provided in the round three questionnaire was attached, with the corresponding respondent’s scores. The  nal round questionnaire was distributed to the eight experts with a ten day requested response time. A request for interviews was made to the experts for feedback and clari cation on any matters regarding the research model. Only one expert agreed to have an interview. Six experts returned the questionnaire on time. Reminder calls were made to the non-respondents. The last response was collected three weeks after the initial request.
+Results and analysis
+Eight questionnaires were received from the experts, and there was no further drop out from the round three Delphi. Most of the experts had reconsidered their utility factors provided in the previous round and had made adjustments to their scores. The consistency of the experts’ utility factors was again computed using the SPSS package to calculate the Kendall coef cient of concordance. The results were summarized and compared as shown in Table 7.
+The concordance analysis shows that the consistency of the experts’ ranking for procurement systems against each criterion had improved over the successive round. The coef cients of concordance for all the criteria (except for  exibility) improved from 0.69% to 23.7%. In this round of the Delphi, eleven criteria were considered to be suf ciently consistent (compared with ten in the previous round). The criterion time predictability was also consistent at the 0.05 signi cance level.
+The results show that the experts had some dif culty in assessing the quality criterion (a = 0.755), the client’s involvement (a = 0.135) and the size of the project (a = 0.240) in relation to the procurement system with signi cance level greater than 0.05. This implies that the experts had a rather different view on the utility factors of these criteria. Therefore these criteria were removed from the selection model.
+By the application of the Delphi method, a set of suf ciently consistent utility factors was obtained after the  nal round of Delphi questionnaire. The set of selection criteria and the corresponding utility factors were used to develop a procurement selection model: a multi-attribute model consisting of the following set of client’s criteria, which are re-phrased as priority questions.
+Price competition: How important is it to choose your project team by price competition, so increasing the likelihood of a low price?
+Time available: How important is early completion to the success of your project?
+Time predictability: To what extent do you require a speci c completion date at the start of the project?
+Table 7	Concordance coef cient of utility factors in round four
+
+
+
+Availability of competent contractors
+Ability to state clear end user’s requirement
+
+Certainty of cost
+
+Size of the project
+Availability of competent contractors: How important is it to have a plentiful supply of competent contractors to work for the procurement system?
+Clear end user’s requirements: How capably is the client able to state his or her requirements clearly and precisely at the tender stage?
+Complexity: Is the project highly specialized, technologically advanced or highly serviced?
+Certainty of cost without  uctuation: How important is a  rm price at the beginning of construction?
+Flexibility for changes: To what extent do you expect the project to have frequent changes in the design and construction once the work has begun on site?
+Risk management: To what extent do you need risk avoidance in the event of time, cost, design liability and quality slippage?
+Responsibility: To what extent do you wish to have a single point of responsibility for the completion of the design and construction of the project?
+Familiarity: How important is it for the client to choose a familiar system to deliver the project?
+The priority questions allow the users to prioritize the criteria according to a speci c project and the user’s speci c requirements (Skitmore and Marsden, 1988; Bennett and Grice, 1990; Chan, 1995; Love et al., 1998). For example, if an inexperienced client wishes to develop a large complex project of a specialized nature, and he prefers to transfer the risks to other parties as far as possible and at the same time to obtain a quicker project time, he may specify a high priority for criteria like time available, time predictability, complexity, risk management, and responsibility. Then he might specify a middling priority for criteria like price competition,  exibility for changes, and certainty of cost without  uctuation, and specify a low priority for criteria like availability of competent contractors, clear end user’s requirements, and familiarity.
+Figure 1 shows the multi-attribute model with the mean values of the utility factors for the each procurement system against each selection criterion. The results indicate that competitive design and build method provides the best price competition (mean utility factor 91.9) and time predictability (mean utility factor 93.8). In addition, it also provides the best certainty of price (mean utility factor 93.8) and best risk avoidance (mean utility factor 90) and responsibility (mean utility factor 100). The management contracting system is the speediest (mean utility factor 86.3) and the most  exible (mean utility factor 88.1). The enhanced design and build and the novated design and build are the most appropriate options if the client is able to state the employer’s requirement precisely at the tender stage (mean utility factor 95). They are also
+
+the most suitable methods to be adopted if the project is complex (mean utility factor 85.6). The traditional sequential method is found to be the most familiar procurement system (mean utility factor 92.5), which has a plentiful supply of competent contractors to work for the system (mean utility factor 96.3).
+Use of the selection model
+The selection model can be applied by following the following procedures (Chan and Yung, 2000).
+The user reads all the priority questions and enters the relative importance of each criterion in the table on a scale of 1 to 5, 1 being the least important, and 5 being the most important. The prioritization exercise enables the users to specify their requirements according to the project needs and circumstantial factors.
+Each priority rating is taken in turn and multiplied by each of the utility factors, the results being entered into the appropriate columns. These are compared for all the criteria.
+The totals of each of the result columns, under each procurement path, are calculated, and ranked in descending order. The most appropriate procedure should have the highest total result.
+Several dif culties were encountered in conducting the Delphi technique. First, the successful rounds of Delphi techniques were extremely time consuming. The completion of the four rounds of Delphi questionnaires took about  ve months. For each round of Delphi, reminder letters were sent to the non-respondents and sometimes further reminder calls had to be made. Robinson (1991) experienced similar dif culty in his research study for the economic impact assessment. He stated that the turnaround times for the questionnaire by panelists were longer than expected. Second, the selection of the panel of experts is central to the success of the Delphi method. Panel members must be ‘willing’ and ‘able’ (Robinson, 1991). It is important that panel members treat the work seriously, and devote the time necessary to provide thoughtful and reasoned responses to the questions. Third, as with all Delphi studies, the wording of the questions and the presentation format of the survey were extremely important (Robinson, 1991). In the current study, a lot of effort was made to make the questionnaire simple and yet suf cient to convey the objectives of the study
+to the panel of experts. Moreover, Corotis et al. (1981) reported that the principal dif culties were in maintaining the high level of response and in reaching and implementing a consensus. It is very important to keep the whole panel of experts responding to each round of Delphi. Any drop out of the panel of experts would be very undesirable for the Delphi techniques. Because of the extensive commitment the experts needed to spend over the four rounds of questionnaires, there is a relatively high tendency for the respondents to withdraw in the successive rounds of the Delphi (McKenna, 1994).
+This study was undertaken with relative success in that a response rate of 80% was achieved. Other Delphi studies in the medical and health  elds have recorded a response rate ranging from 57.65% to 80.36%: 57.65% in Procter and Hunt’s (1994) survey, 78.75% in Lindeman’s (1975) survey, 78.97% in Bond and Bond’s (1982) survey, and 80.36% in Sleep et al.’s (1995) survey. The 80% response rate achieved in this study is relatively high and considered to be acceptable for the purposes of this research.
+Finally, there was a problem of indirect communication with the experts. The respondents had to interpret the questionnaires, and incorrect interpretation had occurred. The respondents requested further verbal explanations for the utility factors, and clari cations on the criteria questions also were needed.
+
+To obtain a set of exclusive criteria for procurement system selection has been a continuous concern in previous researches (Ireland, 1985; Love et al., 1998). To ensure that a consensus is reached for the utility factors provided by a panel of experts is an even more dif cult task. The Delphi method is demonstrated to be appropriate for obtaining the utility factors for the procurement selection model in which a consensus has to be reached. However, the major dif culties lie in maintaining the high level of response for the series of rounds, and implementing a consensus in such a subjective area. Furthermore, the Delphi method is extremely demanding of resources, relying as it does on continuing close contact with the experts. Therefore it is not particularly suitable for use in projects with a restricted time frame.
+Although the Delphi method has been used for a few decades in strategic planning, applications in the construction industry have come into use only recently. No documented use in procurement selection has been found as yet. The results of this research illustrate vividly that there is a signi cant improvement in the consistency of the utility factors over the successive Delphi rounds. Thus the Delphi technique is a useful tool for obtaining group opinions on the utility factors for the multi-attribute procurement selection model in which a consensus is to be reached. This echoes Lindeman’s (1975)  nding that the Delphi method is especially effective in dif cult areas which can bene t from subjective judgments on a collective basis, but for which there may be no de nitive answer.
+Four Delphi rounds were conducted in this study. A set of exclusive criteria for the selection of procurement system was identi ed following the  rst two rounds of the Delphi. The last two rounds of the Delphi were to derive a statistically signi cant consensus on the weighting of the utility factors. A procurement selection model was developed based on the criteria and utility factors derived from the Delphi survey. As the model was developed locally in Hong Kong, future research should be conducted in other geographic locations to distinguish between general selection criteria in a given regional market and speci c criteria to be used for an identi ed client with identi ed needs. An alternative approach for determining the value of utility factors for the selection criteria would be the analytical hierarchical method, using pairwise comparison. Future research may also be conducted by using two Delphi panels and comparing the results of the prediction in a real project.
+The authors gratefully acknowledge the Hong Kong Polytechnic University for providing funding to support this research effort.

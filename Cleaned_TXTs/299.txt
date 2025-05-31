@@ -1,0 +1,209 @@
+Study of attitude changes in people after the implementation of a new safety management system: the supervision plan
+To cite this article: C. M. Tam , Ivan W. H. Fung IV & Albert P. C. Chan (2001) Study of attitude changes in people after the implementation of a new safety management system: the supervision plan, Construction Management & Economics, 19: 4, 393-403, DOI:
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+Construction Management and Economics (2001) 19, 393–403
+Study of attitude changes in people after the implementation of a new safety management system: the supervision plan
+C. M. TAM1*, IVAN W. H. FUNG1 and ALBERT P. C. CHAN2
+1Department of Building and Construction, City University of Hong Kong, 83 Tat Chee Avenue, Kowloon, Hong Kong, P. R. China
+2Department of Building and Real Estate, Hong Kong Polytechnic University
+Received 16 February 2000; accepted 23 November 2000
+The construction industry of Hong Kong has a very poor site safety record. The overall accident rate has gone down a little during the last few years, but the number of fatalities has risen dramatically. In the past, the Hong Kong Government adopted a laissez-faire approach in managing construction safety, hoping that market forces would regulate the safety performance. However, the approach has proved to be ineffective. Since 1986, the Government has taken a proactive approach in combating construction site safety, and has introduced a series of safety programmes, which consist of encouraged and mandatory schemes aiming at nourishing a proper safety culture in the construction industry. Recently, the Government decided to criminalize site accident cases by introducing a so-called ‘Supervision Plan’, aiming at changing the safety attitude and culture of construction practitioners. This paper applies an attitude-changing model, ‘reinforcement theory’, to predict the changing attitude of people in the construction industry. The results show that the attitude of construction practitioners in Hong Kong will change to be more positive when they receive more messages to con rm that people really are put into jail for negligence under the Supervision Plan. Keywords: Site safety, supervision plan, attitudinal change, reinforcement theory
+Introduction
+Normally, clients expect a contractor to  nish the work within a speci ed period of time, at an agreed price, with a certain standard of workmanship, and perform the work safely. A contractor must therefore attain the cost level as planned, meet the scheduled deadlines, achieve the required quality level and provide reasonable safety measures on sites. However, many production personnel focus only on immediate problems, and view their top priorities as meeting the production schedule, quota and cost targets. Only after achieving these objectives will they give some consideration to safety.
+Nowadays, construction organizations in Hong Kong have, in one way or the other, implemented some safety programmes, aiming to improve their performance in safety and health. Unfortunately, few can actually create a form of safety culture. To inculcate a culture can take a very long time; likewise, to create a culture of safety and health in the construction industry can require a great deal of effort. Sometimes it is hard to imagine why people are so reluctant or may even refuse to act safely, since is for their own well-being. Many construction companies which have set up safety programmes indicate that they have to spend a lot of effort to overcome the resistance of their staff when they  rst introduce the programmes (Green Cross, OSHC, 1995). To comprehend these compli-
+cated reasons, we need to understand more about
+Construction Management and Economics
+ISSN 0144–6193 print/ISSN 1466-433X online © 2001 Taylor & Francis Ltd
+human attitudes and behaviour, which are unpredictable and very often go beyond logic (Stoners, 1992). However, if safety and health have become part of the culture, it will be easier to predict safety attitudes and behaviour. People will follow safety rules and work safely if that has been the way people do things in the company. This explains the importance of developing a positive safety attitude.
+Chronicle of site safety practices in Hong Kong
+There have been many recorded instances of poor construction safety performance in Hong Kong (Ngai, 1993; Lingard and Rowlinson, 1994; Tam and Fung, 1998), and it is indisputable that construction site accident rates have been extremely high. In view of the ineffectiveness of the former laissez-faire approach in managing construction safety, the Government has introduced the following  ve innovative measures aiming at combating the poor safety records since 1986.
+Enactment of the factories and industrial undertakings (safety of cers and safety supervisors) regulations (1986)
+The regulations mandated contractors to hire safety of cers and safety supervisors on construction sites. Their duties (Labour Department, 1995) are to assist contractors in promoting the safety and health of workers including:
+l advising main contractors as to measures to be taken in the interest of safety and health and their implementation;
+l inspecting the workplace to identify potential hazards and reporting the  ndings with recommendations for correction to main contractors; l investigating accidents and dangerous occurrences and reporting with recommendations for prevention;
+l advising main contractors of any repair or maintenance in respect of premises, plants and equipment that ought to be carried out.
+This was the  rst initiative taken by the Government to encourage the formation of a self-regulatory framework in safety management.
+Quality assurance (QA) scheme (1992)
+In 1992, the Housing Department required that before 31 March 1993 all building contractors must be ISO 9000 certi ed. The QA scheme encourages a selfregulatory approach in quality management and a comprehensive documentation system. It lays down a corner stone for the self-regulatory safety management system. As safety is also considered under the QA system, a comprehensive documentation system forces contractors to take a proactive view of safety management.
+Punishment by business decisions and encouragement by safety campaigns
+Under the Work Bureau’s Technical Circular No. 22 in 1994, any contractor with six or more convictions on a single government contract within a rolling sixmonth period will be invited to attend a Panel of Enquiry under the Chairmanship of the Secretary for Works. The Panel will evaluate the contractor’s safetyrelated performance and then determine whether or not the contractor will be suspended from tendering for government projects (Tse, 1998). As a result of this, some contractors were banned temporarily from tendering for government projects.
+Virtually at the same time, the Housing Authority of the Hong Kong Government included safety as one of the performance yardsticks of public housing projects in their Performance Assessment Scoring System (PASS). Poorly scored contractors in PASS are suspended from tendering for a certain period of time, which echoes the practices of the Work Bureau.
+Meanwhile, the Housing Authority has administered safety campaigns for their projects, trying to arouse people’s safety concerns. Presentation of prizes to contractors is openly carried out to cast a safetyconcern image to both the public and the contractors. Further, for all building contracts it has been mandated that a notice be posted on the site hoarding to indicate the up-to-date accident statistics of the project, in order to remind site personnel and the public the importance of site safety.
+Establishment of a self-regulatory safety management system
+In July 1995, the Manpower and Education Bureau issued a consultation paper (EMB, 1995) reviewing industrial safety in Hong Kong. The paper encouraged a new safety management strategy, which emphasized a self-regulatory approach in safety management. The system basically follows the quality assurance system, in which it asks construction  rms to de ne, document and implement top management’s commitment in safety management, safety management systems, safety training, formation of a safety committee, implementation of a safety audit, setting up of a safety benchmark, etc. Since then, a self-regulatory safety management system for the construction industry has been established.
+Mandatory safety training program
+In June 1996, the Labour Department and the Construction Industry Training Authority (CITA) jointly promoted a safety-training programme: the ‘Green Card Scheme’. In 1997, the Work’s Bureau and the Housing Department both required that all workers on their projects must have completed Green Card training and acquired a Green Card. As of January 2000, more than 150 000 construction workers have completed the training. The Government made the Green Card training scheme mandatory for all construction personnel in November 1998, including workers, management and professional site staff. This mandatory safety-training scheme aims at educating site personnel about the importance of site safety and their rights and duties in site safety.
+Despite the efforts of the Government, the accident rates, although showing a slight improvement, are still unacceptably high (Figure 1). This leads researchers to believe that the major problem lies in the culture and attitude of construction project personnel.
+Safety supervision plan
+With the above effort and the far from satisfactory results, the Hong Kong Government attempted to root out the problem by enacting the Buildings (Amendment) Ordinance in 1996. The Ordinance requires the preparation of a new form of document called the ‘Supervision Plan’ (SP). The key objective of this plan is to ensure that appropriate site safety management systems are properly implemented. This new requirement has had a signi cant impact on all local construction practitioners. The Ordinance offered a two-year grace period to the industry, and by 1998 the Buildings Department required all construction projects to set up a clearly de ned site organization structure, staffed with competent technical supervision personnel. Contractors, engineers and architects must provide method statements, which include all safety measures, for approval before any dangerous construction activities are permitted to be carried out. Competent technical staff were classi ed into  ve categories according to their quali cations de ned by the Buildings Department. These staff can bear legal consequences if their duties are not observed.
+Accident Rates per 1,000 Workers by All Industries & Construction Industry 1987–1998
+Figure 1	Accident rates for all industries and the construction industry in Hong Kong from 1987 to 1998
+Prior to this scheme, no employer had ever been jailed for negligence that resulted in site fatal accidents, and the  nes have been low (Tam and Fung, 1996). Many site managers tended to undermine the safety regulations and measures in the pursuit of job progress and minimal costs of production (Tam and Chan, 1998). The scheme is to ensure that everyone involved in the site operation is familiar with his or her duties, and this can be achieved by upgrading their standard of site safety by education and training. Furthermore, the Supervision Plan advocates ‘criminalization’ of fault as a general approach. The possibility of prosecution is believed to be able to drive out the malpractices from the industry. The Supervision Plan does put great pressure to those currently working on site, especially project management team members. In the past, the responsibilities of project team parties were not clearly de ned. When there was an accident on site, parties always passed the buck to others. The site safety Supervision Plan tries to allocate the responsibility to the parties involved: authorized persons (AP), registered structural engineers (RSE) and main contractors (MC). It requires  ve grades of technically competent people who must make regular site visits to check on working practices. A logbook has to be kept for the Buildings Department’s inspections showing that the visits were made. At the same time, faults and corrective actions should also be recorded.
+Before any construction works commence, a supervision plan must be lodged with the Building Authority. Technically competent persons (TCPs) for AP, RSE and MC duties are incorporated in the plan: i.e. frequency of site visits and items to check. The frequency of site inspection is derived from the calculation as de ned in the Draft Code of Practice for Site Safety Supervision (BD, 1997) and Technical Memorandum for Supervision Plans (BD, 1998). Generally, the frequency of visits for AP and RSE representatives is to be once or twice a month. These TCPs must hold certi cates as proof of competence. A supervision plan is a pre-requisite to the issue of the ‘consent’ by the Building Authority for carrying out the building works. Additionally, the plan requires TCPs to control hazards from building works so as to minimize the risks to:
+l the workers on site, l all persons around the sites, and l adjoining buildings, structures and land.
+A supervision plan should comprise:
+l an outline safety supervision plan which sets out the management and communication structure for ensuring the coordination of detailed safety supervision plans for the whole of the works through the planned stages of construction;
+l a detailed safety supervision plan which sets out speci c safety requirements, describing the part of the works concerned, analysing its complexity, its relationship to other works and setting down method statements together with precautionary and protective measures.
+Objectives of this study
+As a result of the above, project team members start to face pressure brought about by the Supervision Plan. This paper aims to investigate their possible attitude changes. The objectives of this paper are:
+1. to evaluate site personnel’s awareness of the new regulation, and
+2. to evaluate any attitude change by applying attitude theories and models.
+Eagly and Chaiken (1993) de ned ‘attitude’ as a psychological tendency, expressed by evaluating a particular entity with some degrees of favour or disfavour. ‘Psychological tendency’ refers to an internal state of a person and ‘evaluating’ refers to all classes of evaluative responses. An individual does not have an attitude until he or she responds to an entity on an affective, cognitive, or behavioural basis. These responses, no matter whether covert or overt, can produce a psychological tendency with a particular degree of evaluation coming immediately after encountering the attitude object. If this tendency is established, an attitude is then formed towards the object.
+Therefore, attitude acts as a product of cognitive, affective and behavioural processes as shown in Figure 2, with the terms used de ned as follows.
+l Cognition (thinking): refers to the internal thinking or belief held by people about the object of the attitude.
+l Affect (feeling): refers to the emotional feelings stimulated by the object.
+l Behaviour: refers to the predisposition to act in certain ways towards the object.
+One of the attitude theories is ‘reinforcement theory’ (Klapper, 1949; Katz and Lazarfeld, 1955; Hunter et al., 1984). The basic theory of reinforcement postulates that the message issued by the source either reinforces or punishes the listener’s attitudinal response. This process can be formulated into two purposes. The  rst generates the basic equation for attitude change and the second generates the basic equation for source change.
+The theory assumes that agreement of a message strengthens an attitude whereas disagreement weakens it. If the receiver is exposed to a message that agrees with the position, then the attitude is ‘bolstered’ and the position becomes strengthened. On the other hand, if the receiver is exposed to a message that disagrees with the belief, then the attitude is ‘shaken’ and becomes weakened. A message issued by the source either reinforces or punishes the receiver’s attitude response. Table 1 characterizes the process described by the reinforcement theory.
+A positive message has a positive impact on the positive attitude and a negative message has negative impact on the negative attitude. Additionally, a positive message punishes a negative attitude, which weakens that attitude and vice versa. It follows that the sign of attitude change predicted by the reinforcement theory is the same as that of the message value:
+Measurable	Intervening Variables	Measurable Dependent Variables
+Figure 2	The three-component model of attitudes by Roserberg et al. (1960)
+Table 1	Reinforcement theory and attitude changea
+Strengthen positive object attitude
+Punish positive object attitude
+Punish negative object attitude
+Strengthen negative object attitude
+aReproduced from Hunter et al. (1984).
+
+for v > 0, where v is a constant coef cient representing the evaluation system of individuals or groups, a is attitude, m is message, and c is the credibility of the message
+Since the Government has a strong determination to enforce site safety, the credibility is high and the coef cient c is assumed to be 1, and thus:
+Reinforcement theory assumes that a positive message will make a positive change to all receivers. Also, the amount of attitude change is assumed to be directionally proportional to the strength of message that is described by c. According to reinforcement theory, the attitude change induced by the nth message is then given by (assume c = 1): a1 = a0 + v m1 a2 = a0 + v m1 + v m2 a3 = a0 + v m1 + v m2 + v m3
+The general formula for nth attitude value becomes:
+with a0 the initial attitude of the receiver toward the object, an the attitude of the receiver towards the object at time n, mi the affective value of the message at time i, and v a constant coef cient (for a detailed derivation of the above formula, please refer to Hunter et al., 1984).
+The implementation of the site Supervision Plan for superstructure works commenced in December 1998. In order to assess the attitude change of project team members in the construction industry before and after the launch of the Supervision Plan, a questionnaire survey was conducted in November 1998 (one month before the implementation of the SP) and another in December 1999 (one year after the implementation of  the SP).
+280 questionnaires were dispatched to 40 construction sites, which were chosen randomly from 534 construction sites in the whole market in 1998. The number of effective questionnaires returned was 92 (N = 92) from 28 construction sites in December 1998. After one year, the control group (N = 92) was invited to complete the attitude scales again in December 1999. The job titles of the respondents include managing directors, project managers, site managers, engineers and safety of cers.
+The questionnaires were designed to evaluate the following areas:
+1. attitude towards general site safety;
+2. understanding of and compliance with regulations (including factories and industrial undertakings and Supervision Plan);
+3. current company policy; 4. senior management commitment; and 5. attitude towards site safety training.
+There are several types of scale which can be used to measure attitudes. All of these scales are based on the assumption that the items designed will elicit responses from persons with positive attitudes about the object or objects being studied which are clearly different from the responses of persons with negative attitudes about the object or objects. The more precise the scale the more clearly differentiated will be the respondents’ attitudes in the continuum from positive to negative. That is, not only will the scale indicate persons with extreme positive or negative views, but also it will differentiate those at less extreme positions (Krech et al., 1962; Koesmargono, 1997).
+The Likert scale, which has been advocated since 1932 and subsequently became the most commonly used device for studying attitudes (Koesmargono, 1997), was selected for use in this study. The Likerttype format of the  ve-point scale used in the questionnaire required respondents to select a response ranging from ‘strongly disagree’ to ‘strongly agree’. Different questions contained within the scale were worded in such a manner that when there is an increase in the respondent’s attitude value, the respondent is more likely to have better attitudes in following the safety measures. The scale is de ned in Table 2.
+The scores, with a maximum value of 5 and a minimum of 1, have the following meanings: 1, strongly
+Table 2	The Likert-type scale used for the questionnaire
+disagree (absolutely not to follow any safety measures); 2, moderately disagree (generally unwilling to follow safety measures); 3, neutral (no  rm ideas about the subject matter and will not agree or disagree); 4, moderately agree (generally prefer to follow safety measure, but will stop when encountering barriers); and 5, strongly agree (strictly follow safety measures).
+The Supervision Plan can be considered as a series of messages sent to the industry reinforcing the determination of the Government in site safety, targeted to drive people’s attitude to its maximum value of 5. The enactment of the Ordinance is considered as the 1st message. Afterwards, when someone is punished by the Courts due to a violation of the Supervision Plan, this is counted as the 2nd message. According to Reinforcement Theory, such positive messages will strengthen positive object attitude and punish negative object attitude. This process is repeated in the 3rd message, 4th message, and so on. The source messages all bear an attitude scale of 5 (i.e. the violation of the regulation bears a serious consequence without any grey areas) and the credibility of messages is assumed to be ‘1’ because of the determination and credibility of the Buildings Department.
+The eighteen questions were grouped into six categories. All the questions were weighted according to their degree of importance, which had been determined by 5 safety professionals. The details of the weighting are listed in Tables 3–8. In the  ve questions in Table 3 on attitudes to general site safety, for example, the most important attributes would be the Q14 and Q16 because of their highest weightings (0.3).
+Development of hypotheses
+The survey is based on Likert-type scales and used to determine the attitudes before and after the implementation of the Supervision Plan, and thus any
+Table 3	Attitude towards general site safety
+Everyone has responsibility in safety	0.1
+Con ict with the senior relating safety 0.2
+Attitude to follow safety	0.3
+Table 4 Attitude towards regulation: Factories & Industrial Undertakings (F&IU)
+Question Attributes	Weighting
+Q3	Familiarity with F&IU	0.5
+Q4	Effectiveness in reducing accidents	0.5
+Table 5	Attitude towards regulation: Supervision Plan (SP)
+Q6	Familiarity with SP	0.3
+Q7	Effectiveness in reducing accidents	0.3
+Q18	Legal liability makes SP more effective 0.4
+Table 6	Attitude towards current company policy
+Q5	Fully comply with F&IU
+Q8	Fully comply with SP
+information
+Q10	Safety meetings improve
+Table 7	Attitude towards senior m
+Q11	Attitude of senior management towards safety
+Table 8	Attitude towards site safety training
+Q13	Awareness of basic training
+changes in attitude. Based on the previous discussion, the proposition was
+l ‘The construction participants will have better (more positive) attitudes in following safety measures after the implementation of SP as compared with before’.
+The next step in testing the above proposition is to subdivide it into measurable constructs. The survey items were clustered around the abovementioned six categories that measured respondents’ attitude towards: ‘general site safety’, ‘factories & industrial undertakings regulations’, Supervision Plan, ‘current company policy’, ‘senior management attitude’, and ‘site safety training’. Then, the following six hypotheses were presented.
+There is positive and signi cant difference between respondents’ attitude towards general site safety after implementation of SP compared with before.
+There is positive and signi cant difference between respondents’ attitude towards F&IU regulations after implementation of SP compared with before.
+There is positive and signi cant difference between respondents’ attitude towards SP after implementation of SP compared with before.
+There is positive and signi cant difference between respondents’ attitude towards current company policy after implementation of SP compared with before.
+There is positive and signi cant difference between respondents’ attitude towards senior management commitment after implementation of SP compared with before.
+There is positive and signi cant difference between respondents’ attitude towards site safety training after implementation of SP compared with before.
+Internal consistency of the 18-item scale, measured using Cronbach’s alpha, is high (alpha = 0.95,
+Test–retest reliability is also high and statistically signi cant (r = 0.84, N = 92, p < 0.001). These criteria indicate that the items do function as a Likert attitude scale.
+For testing the stated proposition, the items are conceptually clustered into the six categories. The scale, presented in a Likert format, contained 18 items focused on respondent’s attitudes regarding site safety. Using a t-test, statistical signi cance is determined for each of the categories at a level of 0.05 or less.
+The  rst category consists of  ve items that tap into the respondents’ attitude towards general site safety. The mean of these  ve items is calculated for both pre- and post-SP survey data. The difference of means is then compared in a paired sample t-test. The mean for this category is 3.81 in the pre-SP test and 4.17 in the post-SP test. This represents a signi cant difference of 0.36 for this category (t = 2.474, p < 0.05). The other statistical results for this category are given in Tables 9–26.
+Table 9 Attitude towards general site safety: measures of attitude location
+
+
+aThe subjective probability is assumed to locate the attitude and the attitude attributes (the attitude values are normalized from –1 to 1)
+Attitude	Probability of	Interpretation
+‘strongly agree’/
+Strongly agree/ 	1.0
+Certainly perform the work
+or with complete agreement
+Moderately agree/ 0.5
+Get a probability of 0.5 to
+perform the work or with partial agreement
+0.0	Get a probability of 0.0 to perform the work
+Attitude to general site safety: measures of spread
+Std Deviation
+Table 11 Attitude towards general site safety: measures of shape
+
+The positive value of the kurtosis indicates that the distribution is peaked, which means that the scores cluster around the mode (i.e. 4.2).The negative value of the skewness indicates that the distribution skews left. It means that there is a tendency towards the positive attitude of site safety. The ‘after SP’ result has a larger negative value in skewness, meaning that more people have changed their attitude to the positive side of site safety.
+Attitude towards factories & industrial undertakings regulations
+Table 12	Attitude towards factories & industrial undertakings regulations: measures of attitude locationa
+aSigni cant difference = 0.27 for this category (t = 2.74, p < 0.05)
+Table 13 Attitude towards factories & industrial undertakings regulations: measures of spread
+
+Std Deviation
+Table 14 Attitude towards factories & industrial undertakings regulations: measures of shape
+
+The mean score for ‘attitude towards regulations: factory and industrial undertakings is 2.93 (i.e. attitude value = –0.07). People generally are not too familiar with the regulation. However, it is improved slightly after SP implementation with the score 3.2 (i.e. attitude value = +0.20).
+Attitude towards Supervision Plan regulations
+Table 15	Attitude towards Supervision Plan regulations:
+measures of attitude location
+
+
+aSigni cant difference = 1.81 for this category (t = 2.680, p < 0.05).
+Table 16	Attitude to Supervision Plan regulations:
+measures of spread
+
+Std Deviation
+Table 17	Attitude towards Supervision Plan regulations: measures of shape
+
+Attitude towards current company policy
+Table 18	Attitude towards current company policy: measures of attitude locationa
+aSigni cant difference = 0.15 for this category (t = 2.235, p < 0.05)
+Table 19	Attitude towards current company policy:
+measures of spread
+
+Std Deviation
+Table 20 Attitude  towards current company policy: measures of shape
+Attitude towards senior management commitment
+Table 21	Attitude towards senior management commitment: measures of attitude location
+
+
+aSigni cant difference = 0.42 for this category (t = 2.113, p < 0.05)
+The general attitude of the senior management to site safety has increased by 60% after implementation of the supervision plan.
+Table 22	Attitude towards senior management commitment: measures of spread
+
+Std Deviation
+Table 23	Attitude towards senior management commitment: measures of shape
+
+Attitude towards site safety training
+Table 24 Attitude towards site safety training: measures of attitude location
+aSigni cant difference = 0.27 for this category (t = 2.559, p < 0.05)
+Table 25 Attitude towards site safety training: measures of spread
+
+Std Deviation
+Table 26 Attitude towards site safety training: measures of shape
+
+Overall result and limitations
+The results of the surveys and the corresponding statistical tests validate the six hypotheses, which compose the proposition that the respondents are likely to have better attitudes towards site safety after the implementation of SP. The results provide evidence that SP is an effective tool for achieving attitude change in site safety. However, there are two limitations in this study. First, the sample size is con ned to 92 respondents who were willing to participate in the study. This may exclude those whose safety performance is poor and might wish to avoid being sampled. Further tests with larger samples will help mitigate this concern. Second, the types of respondent included in this research are not differentiated. It is possible that site personnel of different age, job tenure, sex or education level may behave differently, which might provide additional insights into the determinants of attitude change.
+Application of reinforcement theory
+A prediction is offered after applying reinforcement theory. It is conjectured that the attitude of construction practitioners in Hong Kong will change to be more positive when receiving stronger messages con rming that people really do go to jail for negligence in performing their duty under the Supervision Plan. Table 27 shows that it requires three times such serious punishment to change people’s attitude (attitude value = 5) to strictly follow site safety practices.
+According to the reinforcement model, the following formula applies:
+For a0 = 3.81, n = 1, m = 5 and a1= 4.17, w is calculated to be 0.072.
+The above mathematical model concludes that it takes three  rm and determinative messages to bring people’s mindset close to 5 (maximum attitude value in the scale: strongly agree, strictly follow safety measures).
+The primary objective of the study is to evaluate any attitude change by applying attitude theories and models before and after the implementation of the Supervision Plan. According to reinforcement theory, the respondents’ attitudes will not be changed until very strong messages implying serious penalties or rich rewards have been issued repeatedly. The objective has been met by using two questionnaire surveys with the 18-item Likert attitude scale, achieving more than satisfactory levels of internal consistency (alpha = 0.95) and test–retest reliability (r = 0.84, p < 0.001).
+Statistical analysis shows that respondents’ mindsets are changing towards the positive side of site safety after the implementation of the Supervision Plan, especially the attitude towards the Supervision Plan. They started to be aware and believe the Government’s determination to combat poor site safety. The 18 items are clustered into groups that measure respondents’ various attitudes before and after the implementation of Supervision Plan. The results demonstrate that the means of all items increase signi cantly from the preSP to pro-SP tests, as listed in Table 28.
+So far, the Supervision Plan is a system ‘on paper’. Its success is still to be veri ed. However, it can be
+Table 27	Effect of reinforcement on attitude
+Change in mean
+Attitude towards factories & industrial undertaking regulations
+Attitude towards Supervision Plan
+Attitude towards current company policy
+Attitude towards senior management commitment
+Attitude towards site safety training
+Table 28	Mean attitude changes from pre-SP to post-SP
+concluded that the messages will induce changes.
+Mathematically, as derived from the reinforcement model, it needs two relatively serious messages or incidents to drive the respondents to adhere strictly to the supervision plan and its safety measures. In order to test the model’s predictability, a further examination of the same control group will be undertaken in the future.
+The work described in this paper was fully supported by a grant from the City University of Hong Kong (Project No. 7001053).

@@ -1,0 +1,41 @@
+Modelled on the concept of Industry 4.0, the idea of Construction 4.0 is based on a confluence of trends and technologies that promise to reshape the way built environment assets are designed, constructed, and operated.
+With the pervasive use of Building Information Modelling (BIM), lean principles, digital technologies, and offsite construction, the industry is at the cusp of this transformation. The critical challenge is the fragmented state of teaching, research, and professional practice in the built environment sector. This handbook aims to overcome this fragmentation by describing Construction 4.0 in the context of its current state, emerging trends and technologies, and the people and process issues that surround the coming transformation.
+Construction 4.0 is a framework that is a confluence and convergence of the following broad themes discussed in this book:
+• Industrial production (prefabrication, 3D printing and assembly, offsite manufacture)
+• Cyber-physical	systems	(actuators,	sensors,	IoT,	robots,	cobots,	drones)
+• Digital and computing technologies (BIM, video and laser scanning, AI and cloud computing, big data and data analytics, reality capture, Blockchain, simulation, augmented reality, data standards and interoperability, and vertical and horizontal integration)
+The aim of this handbook is to describe the Construction 4.0 framework and consequently highlight the resultant processes and practices that allow us to plan, design, deliver, and operate built environment assets more effectively and efficiently by focusing on the physical-to-digital transformation and then digital-to-physical transformation. This book is essential reading for all built environment and AEC stakeholders who need to get to grips with the technological transformations currently shaping their industry, research, and teaching.
+Anil Sawhney is Director of the Infrastructure Sector for the Royal Institution of Chartered Surveyors and Visiting Professor of Project Management at Liverpool John Moores University. Anil is a Fellow of the Royal Institution of Chartered Surveyors and a Fellow of the Higher Education Academy. He has over 20 years’ academic and industry experience internationally and has over 200 academic publications. Anil is the co-editor of the Construction Innovation journal and serves on the International Editorial Board of the Journal of Civil Engineering and Environmental Systems and Journal of Information Technology in Construction. He has consulted for numerous organizations including the World Bank.
+Mike Riley is Pro Vice Chancellor, Engineering and Technology and Professor of Building Surveying at Liverpool John Moores University. He is Visiting Professor at the University of Malaya and at RICS School of Built Environment, Delhi, with over 25 years’ academic and industrial experience, and is joint author of numerous textbooks on Construction Technology and Sustainability as well as numerous academic papers. Mike obtained his first degree from Salford University, followed by a Master of Science from Heriot-Watt University and PhD from Liverpool John Moores University. He is a Fellow of the Royal Institution of Chartered Surveyors and Fellow of the Royal Institution of Surveyors Malaysia, Senior Fellow of the Higher Education Academy, and Chartered Environmentalist.
+Javier Irizarry P.E., PhD is an Associate Professor in the School of Building Construction at the Georgia Institute of Technology. A pioneer of research on Unmanned Aerial System applications in the built environment, Javier is Director of the CONECTech Lab, which aims to establish the framework for developing next generation technology enhanced solutions for construction problems by incorporating the cognitive processes of the human component of construction operations. He has over 20 years of academic and industry experience and has authored over 100 academic articles. Javier’s research focuses on construction information technologies including virtual and augmented reality, HCI issues in mobile applications for AEC information access, reality capture technology, Situation Awareness driven information system design, and Unmanned Aerial Systems application in the AEC domain. He holds a B.S. in Civil Engineering from the University of Puerto Rico, Mayagüez, a Masters in Engineering Management from the Polytechnic University of Puerto Rico, and a PhD in Civil Engineering from Purdue University. Javier is also a registered Professional Engineer as well as a FAA Licensed Drone Pilot.
+An Innovation Platform for the
+Edited by Anil Sawhney, Mike Riley and Javier Irizarry
+First published 2020 by Routledge
+2 Park Square, Milton Park, Abingdon, Oxon OX14 4RN and by Routledge
+Routledge is an imprint of the Taylor & Francis Group, an informa business
+© 2020 selection and editorial matter, Anil Sawhney, Mike Riley and Javier Irizarry; individual chapters, the contributors
+The right of Anil Sawhney, Mike Riley and Javier Irizarry to be identified  as the authors of the editorial material, and of the authors for their
+individual chapters, has been asserted in accordance with sections 77  and 78 of the Copyright, Designs and Patents Act 1988.
+All rights reserved. No part of this book may be reprinted or reproduced  or utilised in any form or by any electronic, mechanical, or other means,
+now known or hereafter invented, including photocopying and recording,  or in any information storage or retrieval system, without permission in  writing from the publishers.
+Trademark notice: Product or corporate names  may be trademarks or registered trademarks, and are used only
+for identification and explanation without intent to infringe.
+British Library Cataloguing-in-Publication Data
+A catalogue record for this book is available from the British Library
+Library of Congress Cataloging-in-Publication Data
+A catalog record has been requested for this book
+Typeset in Times New Roman
+
+Foreword 	xv Notes on contributors 	xvii List of figures 	xxviii List of tables 	xxxvi
+Introduction and overview of Construction 4.0, CPS,
+Digital Ecosystem, and innovation 	1
+1 	Construction 4.0: Introduction and overview
+Anil Sawhney, Mike Riley, and Javier Irizarry
+1.2	Introduction	to	Construction	4.0
+1.3	Current	state	of	the	construction	sector
+1.4	Overview	of	Industry	4.0
+1.5	Construction	4.0	framework
+1.6	Benefits	of	Construction	4.0
+1.7	Challenges	to	implementation	of	Construction	4.0
+1.8	Structure	of	the	handbook
+1.9	Conclusion

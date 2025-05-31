@@ -1,0 +1,138 @@
+﻿Construction Management and Economics, 1992, 10, 489—509
+Construction time information system for the building industry
+Department of Construction Management & Engineering, University of Reading, PO Box 219, Whiteknights, Reading RG6 2BU, UK
+The paper describes a computerized construction time information systemfor time planning ofbuildings at early stages of design. A sample of 29 commercial, privately funded buildings was used to develop the proposed model. A procedurefor extending the model to other project categories is shown. Multiple linear regression analysis of sample data shows that the durations of activity groups: substructure, superstructure, cladding, finishes, services and their sequential start — start lag times can be predicted from 12 variables: gross floor area, area ofgroundfloor, approximate excavated volume, building height, number of storeys, end use, cladding type, presence of atrium, building location, intensity ofservices and site accessibility. An experiment involving nine planners and three office projects showed that the time predictions of the model fall within the distribution of planners' estimates and are statistically indistinguishable from them. Therefore, the model can produce reliable estimates of construction times.
+Construction time, planning, prediction, model, information system.
+Introduction
+The premise of this study is that if likely durations of the various phases of the building process can be reliably and objectively assessed ahead of the events, then uncertainty will be reduced to the benefit of the client and management of the construction process.
+Rivett (1972: 1) defined a model as 'a convenient way of representing the total experience which we possess, of then deducing from that experience whether we are in the presence of pattern and law and, if so, of showing how such patterns and laws can be used to predict the future'. The construction time information system as envisaged in this paper can be similarly defined. It will provide a database for the storage and retrieval of records of past project performance and incorporate a mechanism for time planning of building projects from minimal information. The terms system and model are used synonymously. Also, forecast and prediction are taken to mean calculated future outcomes.
+Site construction time — from the commencement of site works to the completion and handover of a building to its owner — is the scope of this study.
+Gray and Little (1985) have shown that there is a commonality of activities for the construction of a new building. These activities can be categorized into major work groups to form an outline construction programme as described later. If predictive relationships can be found between a limited set of project characteristics and the durations and interrelationships of these work groups, this would represent a significant contribution to
+0144-6193 C 1992 E. & F.N. spon
+modelling construction time in the early design stage. The objective of this paper is to establish such predictive relationships and their use in an information system.
+
+The information system proposed in this research is developed by testing the hypothesis that:
+There is a significant predictive relationship between construction times and a relatively small number of measurable parameters of a project and its environment.
+The research is based on the key assumptions that:
+The building team is competent and emcacious in setting up the building process and working within local norms and organizational form to bring the project to a successful completion.
+The frame of reference for construction times is based on the overall time consistent with the minimum direct cost of construction to the contractor.
+The methodology in this study was built on well established principles of the scientific research method (Dubin, 1969; Rivett, 1972; Grogono and Nelson, 1982; Leedy, 1989). Leedy (1989) gives clear descriptions of the three research methods used: the descriptive survey method, the analytical survey method and the experimental method. Much of the research data was derived, using the descriptive survey method, from simple observations of planners at work and as judgements made directly by those planners. However, the extent of the data has required the use of quite powerful statistical techniques which are more appropriate to the analytical survey method. The resulting model was tested for reliability by using the experimental method.
+A three-stage research strategy was adopted:
+2. developing the research model,
+3. testing the model.
+The aim of the data gathering stage was to obtain, by using the descriptive survey method, appropriate and sumcient data to test the above hypothesis. It involved a two-stage questionnaire with a semi-formal interview administered on the survey population, the National Contractors Group (NCG) of the UK. The responses and data received represent a cross-section of sophisticated firms with sophisticated organizational set-ups. Qualitative and quantitative data on completed buildings came from a non-random sample of private commercial projects. This class of projects is considered to reflect more closely the industry's emphasis and achievements on construction time.
+All 71 member firms of the NCG (as at 1989) were approached in the surveys. Thirty firms responded to the preliminary survey, a 42% response rate. In the second survey, 10 firms provided information on a total of 36 projects. However, 29 matching construction programmes were received thereby reducing effective response to this size.
+The preliminary survey confirmed a general procedure for programming new building projects as described by CIOB (1982) and Gray and Little (1985). It also showed that activities for the construction of new buildings can be categorized into work groups as: setup, substructure, superstructure, cladding, mechanical and electrical (M&E) services, finishes and external works.
+The work groups can form the basic units for a duration analysis of a construction programme. For such an analysis, the following criteria would be used to group activities listed on the programme. This represents a modification of the classification by Ormerod (1983: 4) of the work content of primary work packages.
+All activities necessary to establish temporary facilities at the work place and prepare the site for subsequent activities.
+Substructure. All activities necessary to complete the ground works up to and including the ground floor slab, foundations, underslab drainage, basement, etc.
+Superstructure. All activities necessary to erect the loadbearing frame, including structural roof mem bers.
+All activities necessary to render the building watertight and weathertight, including external walls, roofing, windows and external doors.
+All activities necessary to decorate the works including internal non-loadbearing partitions. All activities necessary to erect the mechanical and electrical work including plumbing.
+Sixty-two qualitative and quantitative project characteristics were measured in the final survey. These were represented in a database in two main categories: non-interval level data (in nominal and ordinal scales) and interval level data (in ratio scale) (Leedy, 1989: For brevity, only data that appear in the final equations are presented in the Appendix. The database represents new build, commercial buildings completed in the 1980s and located mainly in the London and South East regions of the UK. The buildings are 1300 to 55 000 rn 2 gross floor area (GFA); I to 10 storeys high and took 39 to 139 weeks to construct.
+The hypothesis to be tested seeks to establish the presence of laws of interaction (Dubin, 1969: 90) among the variables in the database. A mathematical re-statement of the hypothesis is:
+Given variation in the duration estimates for the work packages and sequential start start lag times, a relatively small number of the measured variables can be found so that significant parts of the variance in the duration estimates may be explained by the variations in the values of the measured variables.
+A significance level of 5% is set to test the null hypothesis that the above relationship cannot be observed from the data. If the hypothesis is supported, however, it would mean that estimates of work package and lag times can be made from relevant measured variables,
+consequently construction times can be planned as soon as the relevant variables are defined in the design.
+A careful survey of techniques revealed that multiple linear regression (MLR) analysis was the most suitable technique to test the above hypothesis as well as establish the relationships between variables, even for a statistically small sample size (Weisberg, 1980; Ireland, 1983; Gilchrist, 1984; Ireland, 1985; Leedy, 1989).
+A Backward Elimination algorithm of the MLR available in the SPSS software package was used for the test with the following criteria:
+1. the significance of the partial regression coeffcient of variables in the equation < 10%;
+2. 4k < N, k being the number of variables in the model and N the number of cases
+3. minimum tolerance >0.01 (Norusis, 1988). The tolerance limit helps to mitigate the problem of multi-collinearity.
+Significant results which support the hypothesis were further tested for influential cases using Cook's distance (Norusis, 1988), and for non-constant variance (or heteroscedasticity) by a residual analysis.
+Table I summarizes the results of regression analysis for the five work packages and four sequential lag times. These results clearly support the stated hypothesis because they show significant explanation of the variations in the work package and lag times. Further diagnosis revealed no major departure from the underlying assumptions of a linear model. The MLR also shows the relationships, presented below in Table 3, between the durations of work packages and measured variables. These can be incorporated in a construction time information system.
+Summary of regression analysis
+
+No. of valid cases
+
+A total of 45 variables were entered into the regression equations on the basis of sensible choice and sizeable product-moment correlation with the dependent variables. Of these, 29 variables appear in the accepted equations. These variables are shown in Table 2. Nineteen of these variables are measured on the interval level, I l directly from construction
+programmes. Five of the variables on the non-interval level represent two qualitative characteristics: type of cladding and intensity of services.
+Table 2 also presents the frequency of occurrence of each variable in the regression analyses. Based on this frequency, the eight most prominent and possibly most important variables for estimating construction times can be inferred. the gross floor area, height, type of cladding, number of storeys, location, predominant frame (steel or concrete), storey-height and approximate volume of building.
+An information system
+The results obtained in the foregoing analysis can be embodied in a construction time information system. Figure 1 illustrates the proposed system in outline form. The following description shows how the system fulfils the dual purpose of representing knowledge of construction time performance of buildings on a database and using the database to plan the construction times of proposed buildings from minimal design information.
+Store of structured time data
+A store of structured time data would reflect the nature and circumstances of each stored project which could have influenced its time performance. The variables measured in the second survey and partly presented in the Appendix are considered to fulfil this purpose. However, only a few of these variables will directly contribute to the prediction of construction times for a proposed building, according to the results of the regression analysis. These results form the basis for an early prediction and planning of construction times.
+A computerized form of the questionnaire for data retrieval based on the SPSS PC + software was developed in the research. The derived values for use in the analysis are computed automatically. The data retrieval form distinguishes between filled responses and generated values. Duration analysis could be obtained from planned, revised or as-built construction programmes. To generalize the information system, other project categories could be admitted into the database, such as industrial, residential, health and welfare, educational, religious, etc. facilities.
+Time plan of construction work
+Table 2 shows that only 12 variables need to be evaluated to obtain duration forecasts of proposed commercial buildings. The variables that need to be measured are as follows.
+Non-interval level of measurement
+End use (function) of project (offce, retail, other).
+Type of structural frame (concrete, steel, other).
+Location (London, elsewhere).
+Type of cladding (prefabricated panels, curtain wall, brick).
+Is atrium featured?
+Intensity of services (low, medium, heavy).
+(ownumonns)qISHAdAS
+一1-10-W00一一NO(INO"I
+Flowchart of a construction time information system.
+Interval level of measurement
+Number of storeys excluding basement storeys.
+Height from ground to eaves levels (m).
+Area of ground floor (m 2 ).
+Gross floor area (GFA) (m 2 ).
+To plan the construction time of a new project, values for the 12 variables should be given or assessed. Subsequently, the model computes duration estimates of the five work packages, lag times and overall construction time. The model first creates indicator variables for noninterval level variables and for three interval level variables: average storey-height,
+approximate calculated volume and ratio of GFA to area of ground floor — a plan shape index. Next, the model computes the desired durations by using the equations resulting from the regression analysis as below. The model's predictions are in calendar weeks.
+The formulae in Table 3, though apparently simple, do reflect many inter-relationships among the work packages in estimating the lag times. In other words, these equations show the inherent complexity of estimating construction times.
+Regression formulae relating activity groups and project characteristics
+Mean (sample) = 23.86; Standard error (of estimate) = 3.44
+SUPERST= 0.491 x HEIGHT— 1 1.056 x CONSTN+O.000663 x AREA TOTL+ 14.827 Mean = 25.72; Standard error = 8.13
+An intended application of the time forecasting model is a rapid assessment of 'what if' or explorative questions, within defined limits, on the impact of project features on construction times during design. The model identifies the most important variables for duration estimates from sensitivity analysis so the evaluation ofexplorative questions can be limited to these variables or other variables that directly affect the values of the important variables. A sensitivity analysis showed that atrium and number of storeys are the most influential noninterval and interval level data respectively on overall construction times.
+The duration forecasts produced by the model for the work packages and lag times are sumcient to define an outline programme and compute overall construction time as in Fig. 2. However, the programme does not include the durations of site set-up and external works which are not critical in determining overall time.
+Site construction time
+Overall duration of construction
+Simplified outline construction plan based on condensed work packages.
+Comparing programmes
+The contractor's master programme can be compared with the outline programme from the information system. A key objective of the comparison would be to identify areas ofdeviation from the outline programme and to consider the reasons for such differences. This comparison would form the basis of performance evaluation of the model or review of contractors' programmes.
+Comparing programmes is an important step in monitoring the performance of the information system. If consistent significant deviations occur between the model output and planners' programmes, then the parameters of the model would need to be re-examined to improve the performance of the system. On completion of the project, the as-built programme can also be analysed and compared with the model output.
+The information system as proposed should admit new data from the construction environment. Such new data need not be restricted to projects 'time planned' by the model. Other projects can be analysed and entered in the data store. New data should be tested by a screening procedure such as admittance of programmes prepared by competent planners from detailed analysis of the project. Also, programmes that correspond to minimum direct cost of construction should be distinguished from those that do not represent minimum direct costs.
+Location of system
+The time information system as envisaged will be most useful to those involved with evaluating the implications of the client's brief for construction times preferably before the finalization of design. The model is directly useful to the design team. However, with the increasing use of design and build procurement method (Franks, 1990), contracting organizations will equally benefit from the information system.
+Quite apart from rapidly appraising the impact on construction time of early design changes, the information system could help the contractor or designer to rapidly evaluate the reasonableness of a client's stipulated completion date without a detailed analysis of the design. This indicates that individual firms of architects, quantity surveyors, contractors, developers or large client organizations which have dealt with a large number of projects, could benefit from developing their own in-house construction time information system.
+A centralized information system with facilities for remote access, similar to the Building Cost Information Service (BCIS), would be a more suitable location. Even so, developing predictive equations can still be done by individual subscribing firms using down-loaded data that meet specified screening criteria. Connolly and Porter (1990) however, emphasize that 'within-organization' systems will be of higher quality for reasons of more completeness and better, more accurate information than centralized or 'between-organization' systems of the same kind.
+The proposed time information system offers the following benefits to the construction industry.
+The information system identifies variables which show the time related characteristics of buildings in the database and the relatively few variables which can be used to estimate
+construction times at early design stage. It does not appear that much extra resources are required to install the system.
+The information system is automated and capable of rapidly assessing explorative questions on design changes, within defined limits of database characteristics. Thus the impact on construction times of some design features can be evaluated before final decisions are made. An automated data entry module greatly reduces the effort required to create or update the data store.
+The information system shows the useful feedback role that the construction programme, the basis for duration analysis in the system, can make in predicting future performance.
+The information system can be implemented in-house or centralized on industry-wide basis.
+The information system, once understood, is simple to operate requiring only modest knowledge of statistical procedures and software. The simplicity of the model derives from its use of parameters that have additive, i.e. linear, effect on the predicted value and a clear, practical interpretation.
+A hierarchical form of the forecasting module can be developed whereby separate predictions are made as an increasing number of relevant variables or design features become more clearly defined. Thus, the prediction of durations at any stage could be based on a subset of significant variables. A hierarchical structure gives the advantage of successive duration forecasts as design develops.
+The performance of the system can be monitored by the user. The time planning module is flexible and can be re-designed should consistent bias in output be discerned.
+The proposed system has some limitations:
+The predictions of the system can lend a false sense of certainty. The user must not ignore the size of the error of prediction relative to the standard deviation of the dependent variable as this gives a measure of the confidence that can be placed in the estimate.
+Every project in the system plays a lesser or greater part in the final form of the multiple regression equation. Thus inaccurate data or measurement will distort the model and therefore its predictive accuracy (Stanley, 1988). However, isolating unduly influential cases as previously indicated can mitigate this problem.
+Multiple regression equations using ordinary least squares technique are most reliable when the characteristics of the project for which predictions are made fall within the range of characteristics of the sample data used in estimating the regression model. Thus the information system may not be used, except with the greatest caution, for projects whose characteristics fall outside those of the sample data. With this limitation in mind, Fig. 1 shows that the description of a new project must pass through the store of time data prior to time planning.
+Testing the model
+An experiment was designed to test the predictive accuracy of the construction time information system on a set of three completed office buildings which were not used in developing the model. The characteristics of the test projects are within those of the sample data (see the Appendix). Other data for the test were obtained from duration estimates produced by construction planners selected for their expertise in planning, The planners were provided with different levels of drawn information. The drawings for the test were divided into two sets designated 'Limited information (LI)' and 'Additional information (Al)'.
+Nine planners participated in the experiment which was arranged as shown in Table 4. The specified order for planning the projects was intended to reduce as much as possible the bias from sequence effects, Also, in the analysis of the results, the separate identity of the planners became irrelevant.
+Summary of experimental design
+Project with limited information
+Project with additional information
+A, B, C = offce projects. i = planners.
+Al , B2, etc. = specified order for planning the projects.
+The experiment tested the following hypotheses:
+There is no significant difference between the model's predictions and the planners and constructors estimates.
+The level of information available to planners has no significant effect on the accuracy (based on standardized scores, see below) of planners' predictions.
+The accuracy as before of planners' predictions is consistent for different projects. 4. The effect of the information level is the same for every project, i.e. there is no significant interaction between information level and the different projects in the experiment.
+Since both the model and constructors estimates are point estimates, 95% confidence intervals for the model's predictions were constructed to test the first hypothesis. For the last three hypotheses, however, standard scores were computed in order to re-express the overall time, work package and lag times to a common basis across the test projects. The scores were computed relative to the planners' estimates or the predictions of the model. Data obtained from the test are presented graphically in Figs 3 to 5.
+A preliminary analysis based on arithmetic mean, standard deviation and coeffcient of variation showed that the time estimates produced by the nine planners for the three projects were generally consistent. The analysis further showed higher consistency of planners'
+
+Analogue display of experimental data for work groups. Illustrated times are in calender weeks.
+(1) Planners' estimates from limited information, (t) planners' estimates from additional information,
+Analogue display of experimental data for lag times. Symbols as in Fig. 3.
+estimates from the extended set of drawings among themselves, with estimates produced by the constructors of the test projects and with the predictions of the time information system. Table 5 is a summary comparison of model's and planners' predictions.
+High absolute values in Table 5 indicate more divergent estimates. The error values for the overall construction time are considerably low and show that the model's predictions of overall times agree with the mean of planners' estimates to within ± 10%. The agreement on overall times is closer at the Additional Information level, i.e. to within +3%.
+The analysis of variance technique was used to test the stated hypotheses. The application of the technique is discussed in further detail in Nkado (1991 ). However, it can be reported that these hypotheses were supported in at least 75 of 82 specific instances of the test at both the 5% and 10% significance levels. The few exceptions appear to be caused by the variation
+Analogue display of experimental data for overall construction time. (X) Actual construction time. Other symbols as in Fig. 3.
+Percentage error of model's predictions relative to mean of planners' estimates across projects
+
+Limited Information category.
+Additional Information category.
+Combined estimates in both information categories.
+in drawn information. The outcome highlights a benefit of the model in making comparable predictions for time planning of construction work from less project information than construction planners appear to need.
+By constructing 95% confidence intervals for the model predictions, it was shown that the predictions of the model do not differ significantly from the constructors' estimates. However, prediction errors would be reduced by increasing the size of the data store. Nevertheless, the overall results are good and should enhance confidence in the reliability of the model's predictions.
+
+This research has shown that a construction time information system can be established. Factors that affect construction times can be measured and represented on a database as non-interval level (qualitative) factors and interval level (quantitative) factors. By sampling
+commercial projects from a specified survey population, the research has established how significant predictive relationships can be derived between construction times and relevant variables in the database. It is subsequently possible to rapidly produce outline construction programmes at early design stages from limited information. The system would provide an objective basis for evaluating the implications of clients stipulated completion times. The system would facilitate a rapid appraisal of design changes on the time performance of building projects.
+The integration of the system with existing cost, design and other systems and application to innovative construction would require further study.
+The author wishes to thank Professor John Bennett and Mr Colin Gray for very helpful supervision of this research, and the Commonwealth Scholarship Commission of the UK for sponsorship. Much appreciated are the useful contributions of academics at Reading University and elsewhere, member firms of the National Contractors Group and eminent planners who participated in the research experiment.

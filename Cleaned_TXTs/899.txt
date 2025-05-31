@@ -1,0 +1,231 @@
+﻿Design–construction interface problems in large building construction projects
+To cite this article: K.Z. Sha'ar, S.A. Assaf, T. Bambang, M. Babsail & A.M. Abd El Fattah (2017)
+Design–construction interface problems in large building construction projects, International
+Journal of Construction Management, 17: 3, 238-250, DOI: 10.1080/15623599.2016.1187248
+To link to this article:
+Full Terms & Conditions of access and use can be found at
+International Journal of Construction Management, 2017
+Designconstruction interface problems in large building construction projects K.Z. Sha’ar1, S.A. Assaf 1, T. Bambang1*, M. Babsail2 and A.M. Abd El Fattah2
+Construction and Engineering Management Department, King Fahd University of Petroleum and Minerals, Dhahran, KSA;
+2 Architecture Department, King Fahd University of Petroleum and Minerals, Dhahran, KSA
+Interface management is one of the major keys for a successful construction project. During the project, many interface problems may arise, and their severities may vary and affect the overall project performance. This research was conducted to identify the causes of designconstruction interface problems in large building construction projects in Palestine. To achieve the research objectives, a comprehensive literature review, pilot study and questionnaire survey were carried out to collect information on these causes. Responses from 34 consultants and 30 contractors were analysed. The results revealed that the top 10 extreme significant causes are ‘unstable client requirements’, ‘lack of proper coordination between various disciplines of the design team’, ‘awarding the contract to the lowest price regardless of the quality of services’, ‘lack of skilled and experienced human resources in the design firms’, ‘lack of skilled human resources at the construction site’, ‘delaying of dues payments’, ‘lack of specialized quality-control team’, ‘lack of professional construction management’, ‘delaying the approval of completed tasks’ and ‘vague and deficient drawings and specifications’. Spearman’s rho coefficient was 0.64, which indicates that the overall level of correlation between Palestinian consultants and contractors in the context of this research can be identified as moderate.
+Introduction
+The construction sector has been always considered of special importance in all countries since it has wide and intense linkage with other economic sectors. This catalyses the economic development in the whole country by generating a huge number of jobs and significantly contributing to the gross domestic product (GDP) (El-Namrouty 2012). In Palestine, as one of the developing countries, the construction sector plays a strategic role through accounting for 14% of the added value to GDP and employing more than 15.6% of the Palestinian workforce (Palestinian Central Bureau of Statistics [PCBS] 2013). During the years 1970 to 2012, the investment in the construction sector in Palestine rose from US $17 million to 750 million, which means it was multiplied 44.1 times (Kushnir 2012). Indeed, this gives an impression of the scale of the Palestinian construction industry. Hence, and due to the costly nature of the construction industry, any peccadillo will result in wasting extra time and effort in addition to large sums of money if it is compared to other economic sectors. An important cause that can negatively affect this business and create a bad reputation for a particular firm is feeble management of the project interface. Although there is no consensus among previous studies on a certain or standard definition of the interfaces, most of them agreed that it is the common boundaries or connections among two organizations or firms that may affect each other (Wren 1967). A significant number of papers address the issues related to the design and construction process interface in one way or another. Little exposure to the concept of interface management (IM) is apparent in the management literature in general, and particularly in construction research, through the limited number of publications and the time gaps between them (McCarney & Gibb 2012). Many definitions of IM have been reported by researchers. These definitions discuss interfaces as the boundaries and connections among various project phases, systems, tools, people, organization, physical elements and other things. However, this research adapts the definition of IM given by Verma (1995). He said that IM has two meanings within construction projects:
+(1) It is ‘the management of communication, coordination, and responsibility across a common boundary between two organizations, phases, or physical entities which are interdependent’.
+(2) It is ‘Managing the problems that often occur among people, departments, and disciplines rather than within the project team itself’.
+In addition to that, different researchers have provided different ways to classify the interface problems affecting projects. By adopting Verma’s (1995) categorization of interfaces, this study focuses on interface issues with the following emphases:
+*Corresponding author. Email address: assaf@kfupm.edu.sa
+2016 Informa UK Limited, trading as Taylor & Francis Group
+(1) Interpersonal: This is also known as people interfaces and it refers to the interface amongst team members, i.e.
+with superiors, with line or staff individuals on the team, with subordinates, with team members generally, with clients and product users, or with contractor or subcontractor representatives.
+(2) Organizational: This refers to the interface amongst resource suppliers when viewing the total project organization as a system, i.e. with the performing organization’s functional departments, with suppliers of the technology, or with suppliers of services, equipment or hardware.
+(3) Technical: This deals with reporting relationships amongst the technical experts or design professionals, especially during the design stage of the project, i.e. among architects, engineers and programmers, or with authorities having technical jurisdiction.
+Any project starts with a group of ideas which can be transformed into reality to achieve the anticipated goals of the project. This transformation process requires input data from a varied and wide range of members of the project team (Sugumaran & Lavanya 2013). In large building construction projects, a set of teams need to coordinate, communicate and cooperate throughout the project’s life cycle to end up with a successful and completed project. These teams involve: the owner, the designers (architects) and the construction contractor and sub-contractors (builders), as well as the maintenance contractors (Wang 2000). Here, multiple interfaces would appear among various construction parties (Mortaheb & Rahimi 2010). There are many studies in the literature which deal with different types of construction projects in different countries. Many of these studies outlined the interface problems between two parties, such as between owners and designers in Saudi Arabia (Al-Hammad & Al-Hammad 1996); owners and contractors in Saudi Arabia (Al-Hammad 1990); owners and maintenance contractors in Saudi Arabia (Al-Hammad 1995); designers and contractors in Saudi Arabia (AlMansouri 1988; Al-Hammad & Assaf 1992; Arain 2002) and in India (Sugumaran & Lavanya 2013); and contractors and subcontractors in Saudi Arabia (Al-Hammad 1993), Washington (Hinze & Tracey 1994) and Palestine (Enshassi et al. 2012). Some studies have identified the interfaces among all parties involved within the construction projects, such as the studies done by Al-Hammad (2000) in Saudi Arabia and Weshah et al. (2013) in Alberta. Other studies have named the factors influencing project interface management that lead to problems, such as those done by Chen et al. (2008), Huang et al. (2008), Chang et al. (2010), McCarney and Gibb (2012) and Tian (2013). Some researchers studied the interface between design and construction processes to improve and strengthen this interface for better management, such as Vanegas and Opdenbosch (1994), Alarcon and Mardones (1998) and Mitchell et al. (2011). However, in Palestine, there is a lack of such studies, except the one mentioned before by Enshassi et al. (2012) which was done in Gaza Strip to identify the major causes of problems between contractors and subcontractors. In 2006, the United Nation Relief Works Agency (UNRWA) reported the frequent causes of poor performance of many local construction projects, most of which were interface problems, including: excessive amendments of design and drawings, unavailability of materials, ineffective monitoring and feedback, poor coordination among participants, and lack of project leadership skills (Mahamid 2011). Moreover, the past few years have revealed that many of the construction projects executed in the Palestinian territories, especially in West Bank, incurred losses due to time and cost overrun, which means they failed (Dmaidi et al. 2013). Many reasons might stand behind this failure, as the construction process in its nature is affected by many variables and unpredictable factors resulting from different sources. Such sources might be the performance of participants, the availability of resources, the environmental conditions and the involvement of other parties, as well as some contract-related issues (Assaf & Al-Hejji 2006). Therefore, this research attempts to:
+(2) Gauge the appraisal of Palestinian consultants and contractors in terms of the significance of each problem, to identify the most significant designconstruction interface problems;
+(3) Analyse the degree of agreement between Palestinian consultants and contractors in determining the most significant problems.
+It is a good exposure to have such research in Palestine to be utilized by construction participants by realizing the major sources of interface issues, and to overcome them and increase the probability of project success. By comparing the current situation with other Arab countries in the surrounding environment, where the construction sector is supposed to be more profitable and governed, reasonable and logical feedback could be provided to help in improving the ongoing interface management in the country such that it could be utilized for future practices.
+Research scope and methodology
+This research is directed towards large building construction projects in Palestine, specifically in West Bank. To achieve the research goals, an extensive review and analysis of the literature were conducted to identify the potential causes of discrepancies between parties in both design and construction phases of the project life cycle. Then, a questionnaire was developed containing three segments. The first one includes general information about the respondent and the company which he or she represents, as well as some characteristics of the company’s work within the scope of this study. The second segment, which can be considered the core of the questionnaire, contains 70 causes of designconstruction interface problems gathered from the literature. This segment is itself split into five categories according to the source of these problems. This splitting helps in presenting the identified problems in a logical sequence by grouping the problems that have a common purpose. In each category there is a list of the main problems belonging to it, such that the respondent is provided with a Likert scale ranging from 1  ‘not significant at all’ to 4  ‘extremely significant’, as shown in Table 1, to mark the significance level of each problem based on their professional experience. Finally, the last segment of the questionnaire will be left open ended for the respondents to fill in if they come up with other causes that, according to their perception, should be included in this research. A pilot study also is carried out on two large building projects which are under construction in order to analyse the initial form of the questionnaire through a deep discussion with selected local consultants and contractors. After that, the questionnaire was revised based on the results of the pilot study, ending up with 60 main problems to be distributed to different respondents of the selected samples from both consultants and contractors for data collection.
+The significance index of each problem is calculated based on the following formula (Al-Hazmi 1987):
+where i is the response category, ai is a constant expressing the weight given to the ith response and xi is a variable expressing the frequency of i. In this survey, a 4-point Likert scale is chosen; n D 3, i D 0, 1, 2, 3 and ai D 0, 1, 2, 3 for the weights 1, 2, 3, 4 respectively. x0 is the number of respondents answering ‘not significant at all’, and corresponding to a0D 0. x1 is the number of respondents answering ‘slightly significant’, and corresponding to a1 D 1. x2 is the number of respondents answering ‘significant’, and corresponding to a2 D 2. x3 is the number of respondents answering ‘extremely significant’, and corresponding to a3D 3.
+Spearman’s rho is also computed to measure the degree of agreement in ranking between consultants and contractors, using the following formula (Pffaffenberger & Patterson 1977):
+where D is the difference between consultants’ and contractors’ ranking for each problem. N is the total number of ranked variables. After that, t-test is also used to analyse the variance between the two parties for each single problem, such that a decision could be made whether the two samples come from the same population or not at a 95% confidence level.
+Usually, large building construction projects in West Bank are executed by consultants of grade ‘Consultants’ based on the classification of the Jordanian Engineers Association and contractors of ‘Grade 1’ based on the classification of the Palestinian Contractors Union (Pilot Study 2014). At the time of the study, there are 129 consultants (Engineers Association  Jerusalem 2014) and 96 contractors (Palestinian Contractors Union [PCU] 2014) who belong to the abovementioned
+Significance levels, meanings, and their indexes.
+Slightly significant Significant
+classification, and they are the target population of the study. The Kish formula is used to determine the representative sample size for both populations (Kish 1995):
+
+n0 is the first estimate of the sample size;
+p is the proportion of the characteristics being measured in the target population, usually expressed as a decimal equal to 0.5 (which reflects the proportion of 50% for getting the maximum sample size);
+q is equal to 1 ¡ p which is 0.5;
+SEM is the maximum percentage of the standard error allowed for the sample mean, which in this study is chosen as 0.1 (which reflects an allowed standard error of § 10% because responses are selected in a qualitative manner rather than a quantitative manner, which leads to a certain lower accuracy);
+n is the final estimate of the sample size; N is the target population size.
+Applying Equation (3) gives n0 equal to 25 responses from each population. The substitution of this number in Equation (4) gives the final estimate of the minimum sample size for each population to be 21 consultants and 20 contractors.
+The sample size of 34 consultants and 30 contractors constitute 26.35% and 31.25% of the total population of consultants and contractors of grade 1 in Palestine. This sample exceeds the minimum size of the population of 21 consultants and 20 contractors as shown by the Kish formula for determining the sample size. Also, it should be noted that all questionnaires were conducted by interview with all of the respondents in the survey due to the limited size of the country and proximity of the distances between cities. It should also be noted that all of the population was approached to answer the questionnaire and these are all of the respondents who agreed to participate in this research.
+Background of respondents
+Many questionnaires were distributed to different consulting and contracting organizations, and 64 of them were accepted for analysis. All accepted consultant respondents were from organizations of grade ‘Consultant’, and they numbered 34 reflecting 53.12% of the total number of respondents, while all accepted contractor respondents were from organizations of ‘Grade 1’ which includes ‘1A and 1B’, and they numbered 30 reflecting 46.88% of the total number of respondents. The majority of respondents were office or site engineers reflecting a percentage of 46.88%, whereas 35.93% were project managers and 17.19% were managing directors. Concerning the major disciplines of respondents, the majority were architects and civil engineers, reflecting 23.44% and 56.24% of respondents, respectively, while the other respondents were electrical engineers and mechanical engineers, reflecting 9.38% and 10.94% of respondents, respectively. Respondents of diversified years of experience were included; the majority had more than 15 years of experience reflecting a percentage of 35.94%, while 28.12% of them had 1015 years of experience, 21.88% had 510 years of experience and 14.06% had less than 5 years of experience. This respondents’ profile gives an accepted level of accuracy in the collected data and also gives more realistic results in assessing the causes of inconsistences between design and construction. All accepted questionnaires were from respondents who have sufficient working experience with large building construction projects. Half of these respondents (50%) prioritized the cost over the time and quality in managing the project, while 26.56% gave priority to time and 23.44% gave it to quality. Concerning the relationship between consultants and contractors, 64.06% of respondents described it as good, 25% as poor and 10.94% as excellent, and this gives a good indication about this relationship.
+Data analysis and results
+The questionnaire listed 60 causes of designconstruction interface problems in large building construction projects in Palestine, to be rated by each respondent based on his professional judgment. The problems then are analysed using MS Excel and SPSS and ranked based on their significance index, where the top 10 problems in addition to the five least significant problems are filtered for further elaboration and detailed description. Three approaches are used in this evaluation: consultants’ evaluation, contractors’ evaluation, and the combined evaluation of both consultants and contractors. Table 2 shows the significance index and ranking order for each problem, which are identified using MS Excel.
+Among the 60 identified problems, consultants ranked 17 problems as extremely significant, 39 problems as significant, and four problems as slightly significant. On the other hand, contractors ranked 14 problems as extremely significant, 45
+Significance index (SI) and ranking order.
+Consultants	Contractors	Combination
+Owner-related causes
+Unrealistic client expectations regarding project time, cost or quality
+Outsourcing of design services
+Not involving the contractor in the design phase
+Awarding contract to the lowest price regardless of the quality of services
+Unclear definition for scope of work
+Inappropriate work packaging and subcontracting
+Poorly written contract with insufficient detail
+Delaying the approval of completed tasks
+Delaying of dues payments
+Inappropriate choice of project delivery system (designdesignbidbuild, etc.)	build,
+Consultant-related causes
+Lack of project-stipulated data
+Lack of skilled and experienced human resources in the design firms
+Lack of proper coordination between various disciplines of design team
+Lack of awareness about the construction knowledge and ongoing site operations
+Lack of awareness about the availability of construction materials and equipment in the local market
+Lack of awareness about governmental regulations, municipality requirements, statutes and their modifications
+Insufficient geotechnical investigation
+Vague and deficient drawings and specifications
+Lack of design quality assurance practices
+Inflexibility or rigidity in supervising construction works
+Contractor-related causes
+Lack of skilled human resources at the construction site
+Inadequate pre-construction study and review of design documents
+Lack of experience about new construction technologies
+Inaccurate estimation of construction costs
+Construction errors and defective work at the construction site
+Lack of specialized quality-control team
+Involvement of subcontractor in several projects at the same time
+Frequent changes of subcontractors
+Table 2.	(Continued)
+Consultants	Contractors	Combination
+Designconstruction interface problems
+Project-related causes
+Lack of professional construction management
+Uncooperative managers and slow decision-making
+Information problems leading to rework and variation orders
+Lack of communication and coordination between various project teams
+Adversarial relationship between consultant and contractor
+Design complexity
+Lack of experience-related project nature
+Shop drawings’ submission and approval
+Work overload and lack of incentives
+Lack of unified design code
+Violation of project contract conditions
+Long period between time of bidding and awarding
+Differing site conditions
+Labour shortage
+Unsettlement of local currency in relation to dollar value
+Bad weather
+Country border closure
+External or internal military actions
+Unexpected changes in material availability and prices
+Unexpected delay in construction material arrival
+problems as significant, and one problem as slightly significant. Tables 3 and 4 present the five most common causes of designconstruction interface problems from the consultants’ and contractors’ point of view, individually. It is concluded that there is an agreement between consultants and contractors on ‘unstable client requirements’ and ‘lack of proper coordination between various disciplines of design team’ as two of the top five causes of designconstruction interface problems in Palestine.
+In addition to that, Tables 5 and 6 show the five least common causes of designconstruction interface problems from the consultants’ and contractors’ point of view, individually. It can be concluded that there is an agreement between consultants and contractors on ‘not involving the contractor in the design phase’, ‘bad weather’ and ‘differing site conditions’ as three of the five least important causes of designconstruction interface problems in Palestine.
+Figures 1 and 2 indicate the number of factors ranked extremely significant based on the consultants’ and contractors’ evaluation. Based on the consultants’ evaluation, five ‘Extremely Significant’ causes were from the consultant category,
+Top five significant problems based on consultants’ evaluation.
+Designconstruction interface problems
+Owner-related
+Lack of proper coordination between various disciplines of design team
+Consultant-related
+Lack of specialized quality-control team
+Contractor-related
+Lack of skilled human resources at the construction site
+Contractor-related
+Lack of professional construction management
+Project-related
+Top five significant problems based on contractors’ evaluation.
+Designconstruction interface problems
+Owner-related
+Awarding contract to the lowest price regardless of the quality of services
+Lack of proper coordination between various disciplines of design team
+Unexpected delay in construction material arrival
+Lack of skilled and experienced human resources in the design firms
+Least five significant problems based on consultants’ evaluation.
+Designconstruction interface problems
+Outsourcing of design services
+Owner-related
+Lack of awareness about governmental regulations, municipality requirements, statutes and their modifications
+Differing site conditions
+Bad weather
+Not involving the contractor in the design phase
+Owner-related
+Least five significant problems based on contractors’ evaluation.
+Designconstruction interface problems
+Not involving the contractor in the design phase
+Owner-related
+Project-related
+Lack of unified design code
+Project-related
+Inappropriate choice of project delivery system (designbuild, designbidbuild, etc.)	Owner-related
+Bad weather	External
+Differing site conditions	External
+and another five from the contractor category, followed by four from the owner category and three from the project category, while no external causes were ranked by consultants as of extreme significance. On the other hand, the contractors’ evaluation reveals that five causes were from the owner category, another five from the consultant category, two from the external category, one from the contractor category and another one from the project category. So, consultants believe that they, along with contractors, are the main originators of designconstruction interface problems, while contractors believe that they are the least contributor in initiating these problems.
+Number of ‘extremely significant’ ranked factors in each category based on the consultants’ evaluation.
+Number of ‘extremely significant’ ranked factors in each category based on the contractors’ evaluation.
+Table 7 compares the strength or the importance of each category, by finding the mean value of the causes that compose this category, in order to evaluate the perception of each target group for the purpose of identifying how each group attributes the origins of designconstruction interface problems. It is concluded that there is no consensus among Palestinian consultants and contractors on the major source of designconstruction interface problems in large building construction projects. Table 7 reveals that consultants believe contractors are the major source of these problems, while the opposite is true for the contractors, who believe consultants are the major source of these problems. This was expected as the discussed issue directly touches both parties, and each party tries to blame the other.
+Looking more closely at the categories, Table 8 is developed based on the calculated significance index to rank each individual problem within its related category. It can clearly be seen that there is an agreement between consultants and contractors on number one ranked problems under the owner and consultant categories. However, this agreement could Table 7. Significance index (SI) mean value of the causes belonging to each category and their ranking order: comparative table.
+Contractors
+Owner-related causes
+Consultant-related causes
+Contractor-related causes
+Project-related causes
+Number one ranked problems in eac
+h category: comparative table.
+Number one ranked causes
+Owner-related causes
+Consultant-related causes
+Lack of proper coordination between various disciplines of design team
+Lack of proper coordination between various disciplines of design team
+Contractor-related causes
+Lack of specialized quality-control team
+Project-related causes
+Lack of professional construction management
+Unexpected delay in construction materials’ arrival
+Consultant; Contractor.
+Top 10 significant problems based on the combined evaluation.
+Designconstruction interface problems
+Owner-related
+Lack of proper coordination between various disciplines of design team
+Awarding contract to the lowest price regardless of the quality of services
+Owner-related
+Lack of skilled and experienced human resources in the design firms
+Lack of skilled human resources at the construction site
+Contractor-related
+Delaying of dues payments
+Owner-related
+Lack of specialized quality-control team
+Contractor-related
+Lack of professional construction management
+Delaying the approval of completed tasks
+Owner-related
+Vague and deficient drawings and specifications
+Five least significant problems based on the combined evaluation.
+Inappropriate choice of project delivery system (designbuild, designbidbuild, etc.)
+Lack of awareness about governmental regulations, municipality requirements, statutes and their modifications
+Owner-related
+Differing site conditions
+Bad weather
+Not involving the contractor in the design phase
+Owner-related
+not be seen under the other categories. This can be attributed to the fact that each party votes for the problems which directly affect its performance and are frequently encountered by this party.
+When analysing the combined evaluation of the 64 respondents together, it can be seen that among the 60 identified problems, respondents ranked 10 problems as extremely significant, 47 problems as significant and three problems as slightly significant. Table 9 presents the 10 most common causes of designconstruction interface problems based on the evaluation. In addition to that, Table 10 shows the five least common causes of designconstruction interface problems based on the combined evaluation.
+The total number of factors ranked extremely significant based on the combined evaluation is presented in Figure 3. Among the ‘Extremely Significant’ causes of designconstruction interface problems, four causes were from the owner category, followed by three from the contractor category, two from the contractor category and one from the project category. No external causes were ranked as of extreme significance.
+Number of ‘extremely significant’ ranked factors in each category based on the combined evaluation.
+Significance index (SI) mean value of the causes belonging to each category and their ranking order based on the combined evaluation.
+Owner-related causes
+Consultant-related causes
+Contractor-related causes
+Project-related causes
+Number one ranked problems in each category based on the co
+Number one ranked causes
+Owner-related causes
+Lack of proper coordination between various disciplines of the design team
+Contractor-related causes
+Project-related causes
+Lack of professional construction management
+Table 11 compares the strength or importance of each category based on the combined evaluation of both consultants and contractors. It can be seen that the combined evaluation ranks consultants as the number one contributor to designconstruction interface problems, and then comes the contractors. Regarding this, it is worth mentioning that there is not that much difference in the significance index between consultants and contractors in the combined evaluation, but this difference puts the consultants in rank number one over the contractors. However, this is a logical result as the role of consultant firms starts from day one in the design stage and proceeds to supervision of the construction stage. Thus, any error initiated in the design stage will definitely affect the construction stage, where the contractor’s role becomes dominant, leading to many problems at the designconstruction interface and negatively affecting the relationship between consultant and contractor.
+Table 12 presents the number one ranked problems under each category based on the combined evaluation. Based on the previous analysis, it can be seen that there is a kind of agreement among Palestinian consultants and contractors on the ranked causes of designconstruction interface problems. Statistical analysis is undertaken in the following section.
+Correlation of ranking and hypothesis testing
+Spearman’s rho coefficient calculation is carried out and found to be almost 0.64, which indicates that there is a kind of understanding between the two parties. Some similarities as well as dissimilarities are found in their knowledge regarding causes of designconstruction interface problems in Palestine, but the overall level of correlation can be identified as moderate.
+A t-test, a statistical hypothesis test, is used to determine whether two sets of independent data are significantly different from each other. Detailed analysis of all 60 problems was done by this method using SPSS at the 95% confidence level. The null hypothesis is formulated as below:
+There is no significance difference between the means of populations from which the two samples were taken, and the two data sets are random samples from a common population, i.e. consultants and contractors have the same point of view and came from the same population.
+Generally, in more than half of the problems (31 out of 60), H0 is rejected, which gives an indication that there is a significance difference found among Palestinian consultants and contractors in their perception regarding the main causes of designconstruction interface problems.
+Comparison with previous study
+Arain (2002) conducted similar study in Saudi Arabia. Two samples from consultants and contractors were statistically analysed. After comparing the results from the two studies, it was concluded that there are some common causes of designconstruction interface problems between Palestine and Saudi Arabia in terms of ‘lack of coordination’, ‘lack of human resources in design firms’ and ‘incomplete and inadequate plans and specifications’ among the top 10 significant causes.
+This research was conducted to find out the main causes of designconstruction interface problems in Palestinian large building construction projects from consultants’ and contractors’ points of view. After analysing the data, the results are documented where it can be obviously seen that different stakeholders have distinct views and responded according to their self-judgments. In addition, the results obtained some similarities as well as dissimilarities with important causes in different countries identified by the literature review. Below is a brief description of the most prominent designconstruction interface problems based on Palestinian consultants’ and contractors’ perception. After completing the study of designconstruction interface problems, 60 problems were identified. Among these, there are different categories of problems found.
+In this research the goal is identified in the problem statement which states the objective of the research is to identify the most significant designconstruction interface problems in large construction projects in Palestine as viewed by contactors and consultants, and to gauge their significance. A null hypothesis was tested that there is no significant difference between means of the population from which two samples were taken, and concluded that 31 out of the 60 problems identified were rejected.
+The study reveals that the top 10, extremely significant problems are: (1) unstable client requirements; (2) lack of proper coordination between various disciplines of the design team; (3) awarding the contract to the lowest price regardless of the quality of service; (4) lack of skilled and experienced human resources in the design firms; (5) lack of skilled human resources at the construction site; (6) delaying of dues payments; (7) lack of a specialized quality-control team; (8) lack of professional construction management; (9) delaying the approval of completed tasks; and (10) vague and deficient drawings and specifications.
+As categories, consultant-related causes are ranked number one as the most significant category in this regard, followed by contractor-related causes in rank number two. The next rank is the portion of project-related causes, then owner-related causes and, finally, external causes.
+The study concluded also that there is a moderate level of agreement between Palestinian consultants and contractors in terms of their perception of the significance of designconstruction interface problems as Spearman’s rho was calculated and found to be approximately 0.64.
+From the significance point of view, there is a significance difference found among Palestinian consultants and contractors on their perception because in almost half of the problems the null hypothesis was rejected at the 95% confidence level.
+The research was conducted in Palestine and could be considered a case study for that particular country. The methodology of the research and the comprehensive list of interface problems identified by the authors could be extended to other parts of the world. The results could be compared with other countries to find similarities and differences in the designconstruction interface problems faced worldwide.
+Although construction interface problems are identified, the authors conducted an extensive review to collect a comprehensive list of problems in the literature. Moreover, the construction interface problems were never studied in Palestine from the perspective of contractors and consultants of large construction projects. This study presented in detail the identified problems, and yielded very important conclusions and recommendations for the improvement of construction in
+The interface between Palestinian consultants and contractors needs to be improved. The key to effective interfacing throughout the project life cycle is good communication  frequent, timely, succinct, high-grade and reliable. Since there is a consensus that frequent changes in client requirements are the major contributor to designconstruction interface problems, this is a clear message for clients to set their complete requirements in advance before starting the design process. However, if changes are inevitable, they should be handled through a properly coordinated and controlled process and retained throughout the project life cycle. Clients also should put in mind that engineering services, in design or construction, are not like services from suppliers. Quality of services here should have a considerable portion of the tender’s evaluation process. In addition to that, clients should pay attention to doing their work and performing their responsibilities on time to close the door on rising claims from their side. Delaying payments and delaying approvals on completed tasks have a bad effect on other parties’ performance and will definitely lead to conflicts. Design firms should improve the coordination process among the design team to reduce the possibility of design error generation and to reduce conflicts. To improve the quality of drawings and specifications, design firms may assign a team whose responsibilities are to create quality-control checklists for projects and to implement quality-control measurements in a way that reduces errors and saves the firm a lot of time and money, and also increases the level of confidence with the design. Moreover, it is possible to utilize Building Information Modelling (BIM) as an advocated panacea for reducing design errors and rework in construction and engineering projects. In order to cope with the lack of skilled and experienced human resources, whether in design firms or construction sites, firms need to provide training programmes. Such training programmes supply the employees as well as the company with multiple benefits if they are carefully planned and properly implemented. Besides that, good salaries, good incentives and competitive rates can help in attracting a skilled workforce to meet company requirements. It is advisable to find inspectors and quality assurance personnel involved in a project who belong to specialized organizations. It is recommended also to utilize Professional Construction Management (PCM) as a project delivery system, in addition to the concept of the need for construction expertise during construction. This will help in improving the communication and coordination between designer and constructor through a third party, and thus reduce conflicts.
+Starting from the limitations of the study, it is advisable to expand this research to include responses from owners, civil engineering projects, consultants and contractors of other grades of classification, and Gaza Strip, such that a comparison could be generated between the results.
+Moreover, based on the results of this research, it is worth investigating why clients frequently change their requirements and amend design documents, why both consultants and contractors prefer not to interface with each other in the design stage, the implementation of BIM in design firms to identify the barriers of its utilization, the concept of involving a specialized contracting organization to perform quality-control practices during construction, and the degree of acceptance for clients to utilize PCM as a project delivery system.
+The authors acknowledge King Fahd University of Petroleum and Minerals for providing time and space for conducting this research.

@@ -1,0 +1,216 @@
+﻿Construction Management and Economics (1996) 14, 241—252
+Characteristic items — a new approach to pricing and controlling construction projects
+MALCOLM HORNER and RASHAD ZAKIEH
+Construction Management Research Unit, Department of Civtl Engineering, The University of Dundee, Dundee, DDI
+Received 23 March 1995; revised 3 October 1995
+Recent research has demonstrated the feasibility of identifring within any category of project, a small number of cost-significant work packages whose value represents a consistently high proportion of the total bill value. Using the allied principle ofquantity-significance, it proved possible to build simple models which could predict both the cost and the duration of a project. In the course of that work, a surprisingly linear relationship between value and quantity was noted. This paper reports the background to and consequences of that finding. Quantity-significant work packages are formed by agg-egal.ing those items within a trade for which a linear regression of value against quantity yields a correlation coefficient greater than 0.99 and an intercept insignificantly different from zero. The price ofpackages formed in this way can be determined simply by applying to all the items within the package the rate associated with the largest quantity, the so-called 'characteristic item'. Application of the concepts of quantity-significance and characteristic items is expected to lead to simpler estimating and more effective control procedures, because there is no longer any need to allocate cost and resources to each individual item contributing to a work package.
+Introduction
+It has long been recognized that in round terms, 80% of the value ofa bill ofquantities is contained. in only 20% of the items (Ashworth and Skitrnore, 1983; Thompson, 1981). There is a growing awareness that estimating emciency and accuracy can be improved by focusing attention on the small number of 'cost-significant' items which represent the majority of the cost (Bennett, 1983; Harmer, 1983; Morrison, 1984). More recent research has shown how the 80/20 rule can be applied to the development of new, unconventional ways of estimating and controlling the cost of construction projects. One important result has been the discovery that those bill items whose value is greater than the mean consistently account for 80% of the project value, but represent only 20% of the total number (Shereef, 1981). This finding has allowed the development of two important techniques: iterative estimating, whose use allows the value of a bill of quantities to be predicted to an accuracy of without pricing more than 30% of the items in it, and cost-significant models which can be used both to estimate and to conu•ol construction projects, yet which
+contain only 10—20% of the items in a conventional bill of quantities (Saket et al. 1986). The cost models were developed by categorizing projects in such a way that the cost-sigiificant items reoccurred significantly in all bills of quantities within one project category. Using some of the techniques described in this paper, it is possible to aggregate cost-significant items into cost-significant work packages which represent a consistent and high (close to 80%) proportion of the total value of any project in the same category. The ratio of the value of the cost-significant work packages to the total project value is known as the cost model factor. The total value of a project can therefore be determined by pricing the relevant cost-significant work packages and applying the appropriate cost model factor which accounts for the value of the non-cost-significant items and work packages (Asif and Horner, 1989).
+A natural development of this work was to determine whether or not the new models could be used to estimate and control project durations as well as costs. Since, for any work package:
+Cum. No. of Items (% of Total Items)
+it seemed possible that a link might be forged through quantities. Accordingly, a comprehensive analysis of the quantities and rates in bills of quantities was undertaken. The resulting integrated cost and time model for reinforced concrete bridges has been reported elsewhere
+During the analysis, which is described in this paper,  we were struck by the notion that the total value of some
+categories of work, such as concrete or formwork, was dominated by a few items of large quantity. We were also struck by the large number of items of smaller quantities to which were applied a wide variety of rates. The variables which appeared to effect the estimator's choice of rate were: material type; orientation; and units of measurement.
+We hypothesized that much effort went into estimating the rates associated with this plethora of bill items representing relatively small quantities of work, and that  if a way could be found of safely 'lumping' them together with larger quantity items, considerable gains in estimating emciency might be achieved without compromising the accuracy. This paper describes the results of the investigations and the refinement ofprevious approaches
+Cum. No. of Items (% of Total Items) Figure 2 Cum. value vs. cum. no. of items (in situ concrete)
+to estimating and controlling construction costs.
+The study was limited to two quite different categories of project: reinforced concrete bridges and steel-framed superrnarkets. The reinforced concrete bridges (public sector projects) have been prepared using the Standard Method of Measurement for Road and Bridge Works (Departrnent of Transport, 1985), while the steelframed supermarkets (private sector) have been prepared using the Standard Method of Measurement for Building Works (The RICS, 1979). All projects were constructed in the UK.
+Relationship between quantities and values
+Distribution of prices and quantities
+In any analysis of quantities, it was clearly going to be necessary in the first instance to group together bill items for similar types of work measured in the same units. For this reason, bills were analysed on a trade by u•ade basis. Figures I and 2 show the plots of cumulative quantity and cumulative value versus cumulative number of items plotted in descending order ofvalue for in situ concrete in twenty reinforced concrete bridges. Table I shows a typical set of data from which they were derived.
+Tablel Cumulative value, quantity and number of items for one in situ concrete bridge project
+
+% total number of items
+% non of items
+Table 2 Stability of quantity significant item.s for concrete in It is immediately clear that 30% of the items account reinforced concrete bridges for about 80% of the value and about 80% of the quantity. Moreover, the 'quantity significant' items (qsis) for any trade may be simply defined as those whose quantity is greater than the mean quantity. Thus, in Table 1, the mean quantity is 1146/10 = 114.61113. Items whose quantity is greater than 114.6m3 account for
+81.94% of the total concrete quantity. They also account for 79.41 % of the total value ofconcrete. The stability of the value, quantity and numbers of quantity significant items in 20 bridge bills is shown in Table 2.
+The results in Table 3 shows that, on average, the quantity represented by these items is 82.26% of the total quantity with a standard deviation of 5.54%, and the value of these items is 82.20% of the total value with a standard deviation of 5.92%. The results for other work types in both reinforced concrete bridges and steel framed supermarkets are also shown in Table 3.
+Relationship between quantity and value
+Of even greater interest was the relationship between percentage cumulative quantity and percentage cumulative value. The results for concrete for all twenty reinforced concrete bridges are shown in Figure 3.
+Table 3 Stability of quantity significant items for various work types
+Type of Trade The contribution of qsis to the total quantity project	and value of all items
+
+
+% of total number
+% of total quantity
+% of total number
+% of total number
+
+% of total number
+% of total quantity
+% of total number
+% of total quantity
+% of total number
+% of total quantity
+
+% of total number
+% of total number
+% of total quantity
+linearity is striking. The coefficient of correlation from a linear regression analysis was 0.993, representing a greater than 99% confidence in the linearity of the relationship. Not only is the relationship benveen cumulative quantity and cumulative value linear, but the slope of the line is 45 0 . This means that any marginal increase in quantity (by adding the quantity of the next item) causes a similar marginal increase in value, at least for the large quantity items. In other words, the unit rates of the  larger quantity items were insignificantly different, one from another. Although the rates for smaller quantity items were not necessarily similar, the effect of any differences was overshadowed by the weight of the larger quantity items. This relationship was immediately apparent for three n•ades in both bridge and supermarket projects: in situ concrete, bar reinforcement and formwork, and for structural steel work in supermarkets.
+The relationship between the percentage cumulative -quantities and values of items automatically means that the relationship between the quantities and values of  these items is also close to linear. This is illustrated in  Figure 4 for the in situ concrete items listed in Table 1. In this figure, the coefficient of correlation was better than
+Figure 5 Value vs. quantity of brick and blockvvork in supermarkets
+0.99 and the t-test revealed that the intercept of the best fit line was not significantly different from zero.
+Non-conforming work types
+Not all work types immediately exhibited this linear relationship. For example, Figure 5 shows the graph of value versus quantity for brick and blockwork in supermarkets. At first sight, there appears to be no correlation. However, when the items are measured in cubic metres rather than square metres (Figure 6), it is possible to distinguish between three categories of brick and block items. A typical example ofblockwork data is provided in Table 4.
+Thus, the original bill rate for dense concrete blocks in skins of walls 100 mm thick was Æ9.15/m2 . This represents a rate of 0.15/0.1 = Æ91.50/m3. The rate for walls 140 mm thick was El 2.52/m2 representing a rate of L 12.52/0.14 = Æ89.40/m3 . Within each type, correlation coefficients of greater than 0.99 representing confidence
+levels higher than 99% were obtained in all cases.
+We found that it was possible to create a linear relationship in many more if one or more of the following adjusünents were made.
+Figure 6 Value vs quantity, measured in m3 (brick and blockwork in supermarkets)
+Table 4 Quantity versus value for brick and blockwork in supermarkets (dense concrete blocks)
+Item	Description	Quantity	Old unit	New	Value
+Skins of hollow walls
+1.	100 mm thick	39.40
+2.	140 mm thick	112.28
+
+440 x 215 mm fairfaced paint grade standard, dense concrete blocks; compressive strength 7
+3.	140 mm thick	21.70
+Walls or partitions
+4.	100 mm thick	44.90
+5.	140 mm thick	67.06
+6.	190 mm thick	20.14
+Modification to the unit of measurement
+In some trades, items were described by type, or length or by thickness of materials, whilst the measurements were made in number of units, linear units or by area. In these cases the units of measurement were changed to volumetric units and the item descriptions modified to correspond with the new unit ofmeasurement. As shown in the brick and blockwork example above, when the units of measurement were changed from square metres into cubic metres, the same unit rate could be applied to items which differed only because of their thickness.
+Trades in which the units cf measurement of items have been modified are listed in Table 5.
+Omission of selected bill items according to description
+Table 5 Modified units of measurement
+Precast concrete members
+Brick and blockwork
+Project category	Trade	Old unit	New unit
+In some trades, the quantity significant items, as identified earlier, all exhibited a characteristic set of features. For example, all the quantity significant items for dense bituminous macadam are described as 'more than 300 mm thick'. In this case, the insignificant items (i.e. those less than 300 mm thick) have significantly higher rates. r-lhe omission of these items, whose value is
+accounted for in the 'model factor', combined with a change in the unit of measurement, made it possible to create a linear relationship between value and quantity. Using these techniques, it was possible to aggregate conventional bill items into a smaller number of work packages to each of which a single unit rate could be applied.
+'Quantity significant work packages' were groups of items packaged in this way from which the items which were not quantity significant had been omitted. Our criteria for determining whether or not a series of items could be aggregated into a quantity significant work package were simply, first, that a linear regression of value on quantity should have a correlation coefficient of at least 0.99, and second, that for the sake ofsimplicity, a t-test should reveal that the intercept of the best fit line
+was not significantly different from zero.
+The work packages defined in this way together with their characteristic items and units of measurement are shown in Table 6.
+Classification of items according to the type or size of material
+It was also possible to apply a single unit rate to items differing in size or type of material using the notion of  'characteristic quantities' as described in the following section.
+Application to estimating
+We have described elsewhere how it is possible to identify within any category of project a relatively small number of work packages which represent a consistent proportion (typically close to 80%) of the cost and
+ofa job (Horner and Zaläeh, 1993). This allows  the development of simple project models which them-
+selves are powerful estimating and control tools.
+ever, our findings on the linearity between value and quantity have other important consequences for estimat-
+ing and control.
+The equation of the best fit line of quantity against value of items is of the form:
+Equation 2 provides us with a simple means of determining the value of a group of similar items or 'work package'. From Equation 2, slope of the best fit line = E Vi/ Eq
+where Vi is the value of the ith item; and q is the quantity of the ith item
+Evu 	is also the weighted mean value, and  by definition, total quantity x weighted mean value total value.
+But the slope of the best fit straight line, the weighted mean value, is dominated by the rate of the largest item; the higher its contribution to the total, the closer its unit rate is to the weighted mean. Thus where this relationship exists, the unit rate associated with the largest items
+can be applied to all items within the work package. We call the item with the largest quantity within any work package the 'characteristic item'. Table 6 provides a list of all the work packages we identified, together with their
+characteristic items and units of measurement.
+The application of these findings to estimating is illustrated using four examples. Example I draws on the data provided in Table I. Figure 4 shows the regression line of value versus quantity. The slope of the line is 57.76/1113 and a t-test revealed that the intercept (041) is not significantly different from zero. The rate of the item containing the largest quantity is Æ57.84 which is very close to the slope of the regression line. If, rather than pricing every concrete item individually, each item is priced at the rate of the largest item, the result is 57.84 x 1146 = {66 284.64 which is about 2% different from the actual total value (i.e. 07 798.47). The results for concrete in Wyrenty bridge bills are shown in Table 7. The average difference is 0.08% with a standard deviation of less than 2%.
+Sirnilar calculations were done for the blockwork shown in Table 4 and for the vertical formwork, bar reinforcement and bituminous macadam items shown in
+Tables 83 9 and 10 and Figures 73 8 and 9. For these and other work packages on which we tested the technique,
+the difference between actual and calculated values was always less than 5%.
+Analysis of other bills with a larger range of bar diameters demonstrates that the principle still holds good.
+Clearly, more work is required to determine the extent to which our findings may be generally applicable. Nevertheless, the remarkable consistency of our results does
+suggest the possibility of pricing many bill items at the rate associated with the characteristic item. The effect of such procedures on the valuation of variations and claims also requires investigation, and research to throw light on both these problems has already started.
+One serious question which arises is 'How much larger
+than the second largest item does the largest have to be before its unit rate can safely be applied to all items? ' We have been unable to find an analytical solution to this
+Table 6 Work packages, characteristic items and units of measurement
+Work package	Measurement unit	Characteristic item
+
+
+Earth work and paving
+Excavation to reduce level at main buildings and external works	3
+Excavating trenches to receive foundations or bases
+Excavation to working space and filling with material; disposal of excavated material by
+In main building, car parks and their access roads, service yard, and the public roads and footpaths, (except in repairs)
+Sub-base filling
+In areas as in the filling section
+In areas as in the filling section
+Concrete work
+In foundations, beds of ground slabs, suspended slabs, bases to walls and walls, and
+ground beams with area 0.25 m2
+In all the above in situ concrete
+
+Edges/faces of foundations 0.25 m high
+Soffts of slabs and walls
+Brick and block work
+Brick and block work each type with its own unit rate in
+Walls or skin of hollow walls (not curved)	3
+Structure steel work
+Columns, beams, gable posts;
+Supply and fabrication
+
+Covering and finishing
+For each type
+
+Ceramic tiles with backing coat
+Average rate of the largest members of beams and columns
+One rate existed One rate edsted
+Characteristic item
+Precast terrazzo tiles with cement and sand
+
+Granolithic
+Painted areas except on metal
+Supply and fix of Galvanized Steel sheets;
+supply and fix of suspended ceiling 300 mm wide; with area exceeding 4 m2
+Less Chan 20 mm thick
+More than 30 mm thick
+Drainage work
+Excavating trenches
+Inside boundary
+One rate/type
+problem because of the large number of variables İnvolved. However, we believe that an experienced estimator using no more judgement than normal Will be able to resolve this dilemma wİthout difficulty. Referring once more to Figure 4, the problem faced by the
+estimator is 'İf I delete the largest quantity, Will the gradient of the resultant straight line vary by more than t 5 0/0? ' Alternatively, after determining the rate for the largest item the estimator may ask 'Is this rate characteristic of Che other items in the work package?
+Table 7 Comparison of actual and calculated values for concrete in RC bridges
+Table 8 Forrnwork. bill items for bridges
+End supports
+Formwork more than 300 mm wide at any inclination more than 850 up to and
+including 900 to the horizontal Class Fl Formwork more than 300 mm wide at any inclination. more than 850 up to and
+including 900 to the horizontal Class F2 Formwork more than 300 mm wide at any inciination more than 850 up to and
+including 900 to the horizontal Class F3
+Formwork more than 300 mm wide at
+any inclination more than 850 up to and including 900 to the horizontal Class Fl
+Formvvork more than 300 mm wide at any inclination more than 850 up to and including 900 to the horizontal Class F3
+Total value using the rate of the largest quantity % difference
+Table 9 Bar reinforcement bill items in a bridge
+16 mm and under of 12 m length or less. 2. Mild steel bar reinforcement nominal size
+20 mm and over of 12 m length or less.
+High yield steel bar reinforcement nominal size 16 mm and under of 12 m
+length or less.
+High yield steel bar reinforcement nominal size 20 mm and over of 12 m
+length or less.
+16 mm and under of 12 m length or less.
+High yield steel bar reinforcement nominal size 16 mm and under of 12 m
+High yield steel bar reinforcement nominal size 20 mm and over of 12 m
+length or less.
+16 mm and under of 12 m length or less.
+High yield steel bar reinforcement nominal size 16 mm and under of 12 m
+length or less.
+High yield steel bar reinforcement nominal size 20 mm and over of 12 m
+length or less.
+End supports
+Total value using the rate of the largest quantity	22 247.36
+1. 100 mm road base; work to area on sub-base; to falls, cross falls or slopes not exceeding 150 from
+2. 40 mm road base; work to area on road base; to falls, cross falls or slopes not exceeding 150 from
+3. 80 mm road base; work to area on sub-base; to falls, cross falls or slopes not exceeding 150 from
+4. 65 mm road base; work to area on base course; compacted in two layers to cross fails or slopes not exceeding 150 from
+Footpaths within site
+5. 60 mm base course; work to area on sub-base; to falls, cross falls or slopes not exceeding 150 from
+Car park access road
+6. 40 mm road base; work to area on road base; to falls, cross falls or slopes not exceeding 150 from
+horizontal, over 300 mm wide   60 mm base course; work to area on sub-base; to falls, cross falls or slopes not exceeding 150 from
+Temporary car park
+8. 65 mm wearing course; work to area on base course; compacted in two layers to cross falls or slopes not exceeding 150 from
+Public roads and footpaths
+9.	40 mm base course; work to area on sub-base; to falls, cross falls or
+slopes not exceeding 150 from horizontal, over 300 mm wide
+Total value using the rate of the largest quantity % difference
+estimator has any doubt about the answer to either of these questions, he will determine the rate for the second largest item and price all items at the quantity weighted average rate for the largest and second largest items.
+can continue this process until he feels comfortable about the rate he has chosen. We believe that the application of our system in practice will ameliorate this problem still further.
+Quantity (sq.m)
+One of the principal difficulties in effecting cost control through the bill of quantities is the need to allocate the actual costs of resources used on site (labour, plant and materials) to every bill item. This is an impossible task. The concept of characteristic items provides a potential solution to this hitherto intractable problem. It is best by reference to the bar reinforcing items shown in Table 9. Under normal circumstances, to track the actual costs of rebar for comparison with those predicted, it would be necessary to allocate resources to each different bar diameter and steel type. Although in the case ofmaterials, this presents no particular diffculties, it is quite impractical to assign plant and labour hours at this level of detail. But with characteristic items, there is no such necessity, All that has to be done is to measure the total weight of rebar fixed, and to divide this by the total steelfixer labour and plant costs. This provides the unit labour and plant costs (and productivities) for reinforcement characterized, in this case, by bars size 20mm and over. (There is no need to distinguish between mild steel and high yield bars because they are
+Quantity (toone)
+both part of the same work package.) In this way, by collating data from different projects, it is possible to derive unit costs and resource inputs associated with reinforcing bars characterized by any given diameter. Analysis of variations in these values will help both to improve control and to provide feedback from site of a quality which will allow the estimator to predict costs with more certainty.
+Items of the same trade whose quantity is g•eater than the mean for that trade represent about 80% of the total quantity of the trade, and 30% of the number of items.
+For many trades, the relationship between value and quantity is surprisingly linear.
+Quantity-significant work packages may be forrned by aggregating those items within a trade for which a linear regression of value on quantity yields a correlation coefficient of greater than 0.99, and an intercept insignificantly different from zero.
+Each work package may be characterized by the item representing die largest quantity within it.
+The value of quantity-significant work packages can generally be determined by pricing all the items within the package at the unit rate of the characteristic item.
+Application of the concept of quantity-significance should lead to simpler estimating and more effective control procedures. In particula.r, there is no need to allocate cost and resources to the various items constituting a work package.
+total quantity of the work package divided by the total cost or resource input represents the unit cost or productivity for the package.
+The following further work is necessary before the technique can be applied with confidence.
+A rigorous set of rules must be developed to define the boundaries of the project categories and quantity-significant work packages within them. ii. The ability of estimators to define the characteristic items and their associated unit rates needs to be tested in practice.
+It is necessary to investigate whether the quantity-significant work packages are project category dependent, or whether the packages for a given trade can be applied across all categories of project.
+A formal control system based on quantity significant work packages needs to be designed and tested in practice.
