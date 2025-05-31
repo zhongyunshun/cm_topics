@@ -1,0 +1,145 @@
+ Procedia Engineering   196  ( 2017 )  638 – 645 
+1877-7058 
+© 2017 The Authors. Published  by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Peer-review under responsibility of the scientific committee of the Creative Construction Conference 2017
+doi: 10.1016/j.proeng.2017.08.052 ScienceDirectAvailable online at www.sciencedirect.com
+ 
+Creative Construction Conference 2017, CCC 2017, 19 -22 June 2017, Primosten, Croatia 
+Potentials of Blockchain Technology for Construction Management 
+Žiga Turka,* and Robert Klincb 
+ aProfessor, University of Ljubljana, Faculty of Civil and Geodetic Engineering, 1000 Ljubljana, Slovenia  
+bPh.D., University of Ljubljana, Faculty of Civil and Geodetic Engineering, 1000 Ljubljana, Slovenia   
+Abstract 
+Blockchain technology enables distributed, encrypted and secure logging of digital transactions. It is the underlying technology o f Bitcoin and other cryptocurrencies. Blockchain is expected to rev
+ olutionize computing in several areas, particularly where centralization was unnatural and privacy was important. In the paper,  we present research on where and how this technology could b
+ e useful in the construction industry. The work is based on the study of literature on open issues that exist in construction process management. These are than matched to the capabilities of blockchain. We are motivated by the fact that construc
+ tion projects involve a dynamic grouping of several companies. We study the degree to which the relationships among them are hierarchical or peer -to-peer and note that particularly in information intensive phase
+ s, centralization of information management was n ecessary because of technology. When using un-constraining technology, c
+ ommunication patterns among participants show a peer -to-peer nature of the relationships. In such environment, blockchain can p
+ rovide a trustworthy infrastructure for information management during all building life -cycle stages. Even if building information m
+ odelling (BIM) is used, which assumes a centralized bu ilding information model, there is a role for  blockchain to manage in
+ formation on who did what and when and thus provide a basis for any legal arguments that might occur. On the construction sit e blockchain can improve the reliability and trustworthiness of construction logbooks, works performed and material quantities recorded. In the facility maintenance phase , blockchain’s main potential is th
+e secure storage of sensor data which are sensitive to p rivacy. We conclude that blockchain provides solutions to many current problems in construction information management. How
+ever, it is more likely that it will be built into generic IT infrastructure on to p of which construction applications are  built, rath
+ er than used directly by authors of construction related so ftware. It has a potential to make construction processes less centralized which opens needs for research in that direction.   
+Keywords: blockchain, building information modelling, building information management, information systems, intellectual property rights,  co nstruction contracts, trust 
+ * Corresponding author. Tel.: +386 1476 8622.  E-mail address: ziga.turk@fgg.uni-lj.si 
+639  Žiga Turk and Robert Klinc  /  Procedia Engineering   196  ( 2017 )  638 – 645 
+1. Introduction Construction has always been a collaborative process  involving a larger or smaller group of participants. T
+ hroughout history, communication technology has a significant impact on the relationships among those involved  [1]. Before on-paper documents and drawings becam
+e standard, the designing, planning, and constructing work was  organized around a master builder. Paper documentation enabled the  first wave of specialization and consequently f
+ ragmentation of professions, businesses and processes. Co mpanies specialized either into information processes (such as designing and planning) or material processes (such as construction, maintenance, and demolition). Information processes took
+ place in firms and consultancies that were held  together by a flow of paper documents that were created collaboratively by people working closely together. The information was exchanged by other firms typically as rather large and complete documents – such as conceptual design, basic design, detailed  design or tender documentation. T
+ he authorship and intellectual property of such documents was  very clear. Information with legal significance passed th
+ e boundaries of a business rather infrequent ly, were properly signed and the medium – paper – made possible alternations very visible. Today, digital technology is allo
+wing even greater specialization which results on one hand on the greater sum of k nowledge deployed, better quality and safety and higher productivity. But on the other , it is also causing more f
+ ragmentation. Since the end of the master builder era, cons truction has been organized in what recently became known as the “Hollywood business model” [2] of economy. For each movie project a uniqu
+e set of contributors is assembled to work together and are dismantled at the end of the project. In constr u
+ ction, this set of contributors have been companies but this is changing due to digital communication. Companies are getting smaller and  individual consultants are having bigger roles, just as is the case in the Hollywood  movie business. The information exchanges across org
+ anizational and legal boundaries of companies are much more frequent than before.      The processes of planning and design are today almost  
+ entirely digitalized with information being shared and exchanged in a digital format. In recent years, an increasing share of all information is managed by building information modelling (BIM) technology. BIM is changing the entire AEC industry and disrupting  the building proces
+ ses. What used to be a problem of modeling of buildings is now understood as a problem of managing building inf
+ormation [3].  It is important to note that building information mana ge
+ ment is the management of legally significant  information th at can be used in case of disputes and litigation among the numerous and fine -grained contributors to the process. Several authors have identified these legal issues as barr iers
+  to BIM technology adoption. Arensman and Ozbek [4 ] warned on legal uncertainty associated with BIM. Redmond et al. [5] identified legal and security issues as a main obstacle to u
+ sing cloud platform for BIM. Thomas [6] claims these are:   x who owns the model;  x who has modification rights; x who has distribution rights; x who has liability for changes or errors; x how to manage copyright protection; x how to protect digital intellectual property. There are also other legal and organizational concerns such as who owns the datasets, who pays f
+or the datasets, who is responsible for the accuracy and correctness. Th ey present a challenge for BIM implementation and identify legal barriers and model ownership management as barriers of
+  BIM adoption by owners and facility managers  [7]. Foster [8] identified the follow
+ing barriers to BIM adoption:   x difficulties in assigning responsibilities and liabilities,  x collaborative nature of the design process,  x risk allocation,  x blending of roles and respon
+sibilities by BIM,  x privity and third party reliance,  x distributed design decisions by third parties,  640   Žiga Turk and Robert Klinc  /  Procedia Engineering   196  ( 2017 )  638 – 645 
+x software agents,  x difficulty in assigning intellectual property allocation.  Cubitt and Codwell [9] also warn of the issue of risk  alloc
+ ation, intellectual property, traceability, confidentiality of data in BIM. 1.1. Problem statement and hypothesis The most notable difference between the old document -based and recent BIM-based construction process is that in th
+ e traditional process information associated with legal consequences were generally concentrated in  a bundle of sign
+ ed, stamped and firmly bound pieces of paper. In that wa y, copyright over each part of the aggregated information in physical binder together with consequent responsibilities  was hardly an issue. On the other hand, information in BIM process is dispersed among one or more BIM model s, model views and experts where a small attribute of a trivial bu
+ ilding block can be an entity with its unique history, dependencies, provenance, proprietor and consequently  legal sign
+ ificance. This problem is addressed by BIM best practices defining in creasing
+ ly detailed guidelines for implementing BIM projects [10] including organizational and legal issues. However, they  are rel
+ ying on legal tools from the paper world to address problems in the digital environment.  It is our hypothesis that blockchain technology can be a 
+ major part in addressing these problems.  2. Blockchain technology Blockchain technology is the technology known mostly in connection with the cryptocurrency Bitcoin. While some [11
+] argue that blockchain is merely a name given by Nak amoto [12] to the design of the system running Bitcoin, others [13] see it as a decentralized database technology th at works on a network, usually that network being the Internet. The steps to run the (blockchain) network were presented in a whitepaper [12] and are based on
+ transparency. New transactions are broadcast to all nodes where they form a block that is (after some computing intensive work) accepted only if all transactions in it are valid. Nodes express their acceptance of the block by working on cre ating the n
+ ext block in the chain, using the hash of the accepted block as the previous hash. Due to strong ties between blockchain technology and cryp to
+ currency Bitcoin it is difficult to differentiate between the infrastructure and the product using that  infrastructure. That is why the term blockchain 2.0 was introduced in order
+ to make a distinction. Blockchain 2.0 is therefore de fined as “a programmable distributed trust infrastructure” [14]. This is how we understand blockchain in this paper.  Technically, blockchain – as the name suggests – is a chain of blocks of information (see Fig 1). What makes it special is that: x the chain is copied across several devices in many copies ; x once “chained”, th
+e contents of the blocks cannot be modified; and x in spite of data being copied on several devices, the blockchain algorithm ensures that there no conflicts and that all copies are identical. This results in two features of blockchain-based data stores which are g
+enerally not available in traditional databases: x The entire history of data with all its modifications as w ell a
+ s the metadata (timestamps, author information) is  recorded and protected with the equivalent of  a cr
+ yptographically strong digital signature. x The solution is not centralized and has no n
+eed for a central trusted authority. Both features correspond to the nature of a bu
+ ilding design process taking place in a peer -to-peer collaborative n etwork of companies and individuals. 641  Žiga Turk and Robert Klinc  /  Procedia Engineering   196  ( 2017 )  638 – 645 
+ Fig. 1: The idea of blockchain. 
+The essence of the algorithm is th at verifying the validity of a block’s proof-of-work is far cheaper than solving it co rrectly [11]. That makes determining the correct status of owne rship of
+  the block both economic and lucrative and opens the window for various applications. Nevertheless, in order to use the blockchain technology as underlying f
+ oundation, some fundamental principles have to be met (see Fig. 2), at least at a high level [15]. Greenspan [16] arg
+ ues that most of the requirements today are more than fulf illed with relational databases. But not all of them.  
+ 
+Fig. 2. The decision taken on what kind of blockchain to use.  
+In our opinion, the nature of transactions in collaborative bu ilding projects as well as legal consequences in case of project failures constitute an ideal use case for the application of blockchain technology. Due to requirements regarding the control over individual data and privacy over  individual/all parts of the resulting models it fits well to the description of a hybrid blockchain (Fig. 2, red  path): x Yes, we do need a database (of building information). x Yes, shared access is required. x Yes, writers are well known. It is unclear whether they can be trusted. x No, w
+riters’ interests are not unified. x No, we do not want to use a trusted third party. Trusted 3rd parties have not  been usual in construction projects. x Yes, we need control functionality. x No, transactions are not public. x Consensus is determined inter-firm. 
+block(payload, transactions, data …)proofofworkhashof previous block
+Do you need a database?Does it require shared write access?Are writers known and trusted?Do you want/need to use a trusted 3
+rdparty?Do you need to control functionality?Do you want transactions to be private or public?Where is consensus determined?Are writers’ interests unified?noyes
+use a public blockchainnoyes
+no
+no
+no
+publicprivateyes
+yes
+yes
+don’t use blockchain
+use a hybrid blockchain use a private blockchaininter firmintra firmnoyes642   Žiga Turk and Robert Klinc  /  Procedia Engineering   196  ( 2017 )  638 – 645 
+2.1. Blockchain in construction In addition to cryptocurrencies blockchain has been used in several industries. Among the most interesting ap
+plications running on a new set of protocols defined by blockchain 2.0 are  “smart contracts”. Gronbaek [13] describes th
+ em as computer protocols that embed the (human readable) terms (the source code) and conditions of a co
+ ntract that is compiled into computer code running on a network.  Another potential use of the 2
+nd generation of blockch ain technology is to provide services such as insurance contracts and share issuance [17]. It has even been prop
+ osed as a solution for the clearing and settlement of financial assets [18]. So far, the use of blockchain in construction has been limited. Some are  using it to store sensor data from buildings in
+  a trustworthy and distributed way [19]. There were also speculations that Ethereum could host BIM applications [20]. The use of blockchain in co-housing projects has also been suggested as it co
+ uld “provide a useful tool for managing and recording changes to the BIM model throughout the design and construction phases by using smart contr
+ acts to negotiate editing privileges and storing an immutable public record of all modifications to the model” [21]. Barnett [22] is identifying several uses of blockchain in co
+ nstruction industry in general such as maintaining records of  digital property, timestamping acts or transactions, Multisignature Transactions, Smart Contracts which are computer programs that monitor a situation and execut e themselves and Smart Oracles which are real world depositories of information to be used in conjunction with sm art contracts. The use of blockchain in automated dispute resolution and smart cities [22] as well as in real estate investment [23] has also been envisioned . 3. Four scenarios for blockchaining building information  In this section we present four different architectures to managing building information with blockchain. The key dif
+ference between traditional blockchain applications such as Bitcoin and blockchain for BIM  is the different ratio bet
+ ween the number of transactions, number of participants and size of the data to be managed. Bitcoin is about billions of transactions between millions of users, about a kiloby te each. Building information blockchain is about hundreds of transactions between dozens of users up to a couple of gigabytes each. 3.1. Chained and very decentralized In the chained scenario building information is copied into  t
+ he blockchain. Blockchain is copied across workstations of participants. An operating system plugin presents it ve ry much like a shared Dropbox folder, the exception being that all versions of all files are preserved and that a valid “ last” version of every file is maintained. Commercial systems that do roughly this exist, for example Fazoid (http://fazoid.com/). See Figure 3.  3.2. Chained and slightly decentralized The main problem of the chained scenario is that the size of th
+ e blockchain would soon grow very, very large and would exceed the capacity of individual workstations mu ch like the entire Bitcoin does. The solution would be to distribute the blockchain across a few key partners in the project but t o offer just a “wallet software” to the clients on th
+ e workstations. It would appear to the client that a file is lo cal while in fact it would be pulled from the blockchain and cached locally if and when needed. At least one project partner would need to host the blockchain and every project partner that would want to have it could have it.   3.3. Unchained The unchained scenario does not store the files themselves in  t
+ he blockchain but just their fingerprints and perhaps the metadata. The files are stored in the cloud or on a file management server. All members of the project could have a copy of the blockchain – proof that a certain file existed at some point; they would also have a possibility to prove 643  Žiga Turk and Robert Klinc  /  Procedia Engineering   196  ( 2017 )  638 – 645 
+that the file is the one whose fingerprint is in the blockchain . However, it would be left to other software to guarantee that all the files mentioned in the blockchain would be preserved somewhere.   
+  
+Fig. 3. Scenarios 1 and 2. They differ on the physical locations of the chained content. 
+3.4. Blockchain of BIM transactions The previous scenarios can be used to manage any building information that is stored in files, including BIM files. A proper way to implement blockchain in a BIM setting, howe ver, is to integrate it with a BIM server. The architecture is presented in Fig. 4.  
+ 
+Fig. 4. The architecture of a system using blockchain for BIM transactions. 
+filesystem interface to blockchain
+BIM
+server
+transaction processor
+BIMclients
+Blockchain
+processor
+transactionsblockchainenhancedBIMserverblockchain644   Žiga Turk and Robert Klinc  /  Procedia Engineering   196  ( 2017 )  638 – 645 
+We are implementing the latter architecture with BIMserver.org’s open source BIM (http://bimserver.org) server and open source blockchain services. Initial results show that the size of the blockchain can be expected to be one order of
+ magnitude larger than the size of the database on the BIM server which is manageable with current technology. I
+mpacts on speed and usability are yet to be determined.    4. Conclusions Blockchain has the potential to address some issues that discourage the industry to use BIM such as confidentiality, prov
+ enance tracking, disintermediation, non-repudiation, multiparty aggregation, traceability inter -organizational recordk
+ eeping, change tracing, data ownership, etc.  We have been using generic business solutions to mana ge
+  building information as files using blockchain. Because of the huge size of BIM files and poor capabilities to mana ge differences between versions the usability of those solutions was limited. The proper position for the integration of bl oc
+ kchain is between the transaction processing component of the BIM server and its storage functionality. Additionally,  blockchain should be f
+ingerprinting and/or chaining all other information exchanges and communication.  Further research is needed into smart contracts that would – as part of the blockchain – evaluate and respond to the state of
+  the blockchain (state of the BIM database) and perform actions on it to check if the designer has performed the design task to a certain level of detail.   
+Acknowledgements 
+The work presented has been funded by Slovenian Research Agency under the e-Construction Programme. 
+References 
+[1] Ž. Turk. Communication Revolutions-How They Changed It All. In IKE, 2010, p. 491. [2] C. E. Grantham. Hollywood: a business model for the future?  In Proceedings of the 2000 ACM SIGCPR conference on Computer personnel r
+ esearch, pp. 8-15. ACM. [3] Ž. Turk. Ten questions concerning building information modelling. Building and Environment, 107 (2016), 274 -284. [4] D. B. Arensman, M. E. Ozbek. Building information modeling a
+ nd potential legal issues. International Journal of Constructio n Education and Research, 8(2) 2012, 146-156. [5] A. Redmond, A. Hore, M. Alshawi, R. West. Exploring how inf
+ ormation exchanges can be enhanced through Cloud BIM. Auto mation in Co nstruction, 24 (2012), pp.175-183. [6] L. W. Thomas. Legal issues surrounding the use of digital in
+ tellectual property on design and construction projects, NCHRP Legal Research Digest Issue Number: 58 (2013), Transportation Research Board.  [7] C. Eastman, C. M. Eastman, P. Teicholz, R. Sacks, K. Liston. BIM handbook: A guide to building information modeling for owners, managers, designers, engineers and contractors. John Wiley & Sons, 2011. [8] L. L. Foster. Legal issues and risks associated with Building Information Modeling Technology. ProQuest  2008. [9] B. Cubitt, R. Coldwell. A brief legal guidance: where BIM  is implemented on a project, Lexology  2014. Lexology.com. Retrieved from h
+ ttps://goo.gl/UT8SW1 on 8 March 2017 . [10] K. Udom. BIM: mapping out the legal issues. NBS  2011. Retrieved from https://goo.gl/bpCtct  on 8 March 2017. [11] S. A
+mmous. ‘Blockchain Technology: What Is It Good For?’ Center on Capitalism and Society at Columbia University Working  Paper #91 (2016). Retrieved from https://goo.gl/v4EDW7 on 8 March 2017 . [12] S. Nakamoto. Bitcoin: A peer-to-peer electronic cash system. Retrieved from https://bitcoin.org/bitcoin.pdf on 7 March 2017 . [13] M. v. H. Gronbaek. Blockchain 2.0, smart contracts and challenges. Bird & Bird  2016. Retrieved from https://goo.gl/jmmN5H on 6 March 2
+ 017. [14] T. Swanson. Blockchain 2.0 – Let a Thousand Chains Blossom, Retrieved from https://goo.gl/IBcLUR on 8 March 2017 . [15] B. Suichies. Why Blockchain must die in 2016. Retrieved from https://goo.gl/FJfzbK on 8 March 2017.  [16] G. Greenspan. Avoiding the pointless blockchain project. Retrieved from https://goo.gl/BsMTVD/  on 8 March 2017. [17] B. Scott. How can cryptocurrency and blockchain technology play a role in building social and solidarity finance?  UNRISD Working Paper 2
+ 016-1, Retrieved from http://hdl.handle.net/10419/148750  on 8 March 2017. [18] H. Kakavand, N. Kost De Sevres, B. Chilton. The Blockchain Revolution: An Analysis of Regulation and Technology Related to Distributed L
+ edger Technologies (January 1, 2017). Available at SSRN: https://ssrn.com/abstract=2849251  645  Žiga Turk and Robert Klinc  /  Procedia Engineering   196  ( 2017 )  638 – 645 
+[19] A. Graphic. Blockchain Applications For Smart Infrastructure And Construction Blocksense. Bitcointalk.org. Retrieved from https://goo.gl/KuNZJP on 8 March 2017 . [20] J. L. Salmon. Ethereum to Host Future BIM Applications? Collaborative Construction Blog 2015. Retrieved from https://goo.gl/t17azc on 8 Mar
+ ch 2017. [21] M. Lohry. Blockchain Enabled Co -Housing, Retrieved from https://goo.gl/LVzIWI on 8 March 2017 . [22] J. Barnett. Blockchain for BIM.  Jeremybarnett.co.uk. N.d., Retrieved from https://goo.gl/0U754U on 1 Dec. 2016.  [23] S. Trofimov, N. Szumilo, T. Wiegelmann. Optimal database design for the storage of financial information relating to real e
+ state investments. Journal of Property Investment & Finance, 34(5)  (2016), 535-546. 
